@@ -17,6 +17,9 @@ export const metadata: Metadata = {
     images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Public service guidance in Pakistan" }],
   },
   robots: { index: true, follow: true },
+  verification: {
+    google: "QWAtW6sHuXeM2iC5X3CcSWev0PC2XGqHFD3XNi3I9LY",
+  },
 };
 
 const organizationSchema = {
