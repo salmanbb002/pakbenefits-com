@@ -3,7 +3,7 @@ import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 import "./globals.css";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://welfare-desk-pakistan.vercel.app";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -19,10 +19,34 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Welfare Desk Pakistan",
+  url: siteUrl,
+  logo: `${siteUrl}/icon.svg`,
+  description: "Independent, privacy-first guides to BISP, 8171, Ehsaas, Taleemi Wazaif, and public-service updates in Pakistan.",
+  sameAs: [],
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Welfare Desk Pakistan",
+  url: siteUrl,
+  potentialAction: {
+    "@type": "SearchAction",
+    target: `${siteUrl}/?q={search_term_string}`,
+    "query-input": "required name=search_term_string",
+  },
+};
+
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
       <body>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }} />
         <a className="skip-link" href="#main-content">Skip to content</a>
         <Header />
         <div id="main-content">{children}</div>

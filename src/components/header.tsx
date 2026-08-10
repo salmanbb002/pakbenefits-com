@@ -69,6 +69,8 @@ export function Header() {
               <div className="dropdown-panel">
                 <Link href="/bisp-registration/">BISP registration</Link>
                 <Link href="/payment-check/">Payment check</Link>
+                <Link href="/ehsaas-programs/">Ehsaas programmes</Link>
+                <Link href="/nser-pmt-score/">NSER & PMT score</Link>
                 <Link href="/other-schemes/">Other schemes</Link>
                 <Link href="/about-us/">About us</Link>
               </div>

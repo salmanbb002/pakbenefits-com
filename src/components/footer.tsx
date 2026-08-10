@@ -13,18 +13,20 @@ export function Footer() {
           <div className="footer-trust"><ShieldCheck size={18} /> Not a government website</div>
         </div>
         <div>
-          <h2>Explore</h2>
-          <nav>
+          <p className="footer-heading" id="footer-explore">Explore</p>
+          <nav aria-labelledby="footer-explore">
             <Link href="/8171/">8171 status guides</Link>
             <Link href="/benazir-kafaalat/">Benazir Kafaalat</Link>
+            <Link href="/ehsaas-programs/">Ehsaas programmes</Link>
+            <Link href="/nser-pmt-score/">NSER & PMT score</Link>
             <Link href="/taleemi-wazaif/">Taleemi Wazaif</Link>
             <Link href="/other-schemes/">Other schemes</Link>
             <Link href="/news/">News desk</Link>
           </nav>
         </div>
         <div>
-          <h2>Important pages</h2>
-          <nav>
+          <p className="footer-heading" id="footer-important">Important pages</p>
+          <nav aria-labelledby="footer-important">
             <Link href="/about-us/">About us</Link>
             <Link href="/contact-us/">Contact</Link>
             <Link href="/privacy-policy/">Privacy policy</Link>
@@ -33,8 +35,8 @@ export function Footer() {
           </nav>
         </div>
         <div>
-          <h2>Latest guides</h2>
-          <nav className="footer-latest">
+          <p className="footer-heading" id="footer-latest">Latest guides</p>
+          <nav className="footer-latest" aria-labelledby="footer-latest">
             {articles.slice(0, 3).map((article) => (
               <Link href={`/${article.slug}/`} key={article.slug}>{article.title} <ArrowUpRight size={14} /></Link>
             ))}

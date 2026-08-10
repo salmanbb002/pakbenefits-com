@@ -1,12 +1,33 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowLeft, ArrowUpRight, CalendarDays, CheckCircle2, ExternalLink, ShieldCheck } from "lucide-react";
+import { ArrowLeft, ArrowUpRight, CalendarDays, CheckCircle2, ExternalLink, ShieldCheck, UserRound } from "lucide-react";
 import { ArticleCard } from "@/components/article-card";
+import { articles, categories } from "@/data/content";
 import type { Article, Category, InformationPage } from "@/data/content";
 
-export function CategoryTemplate({ category, articles }: { category: Category; articles: Article[] }) {
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
+
+function JsonLd({ data }: { data: object }) {
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
+}
+
+function breadcrumbSchema(trail: { name: string; path: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: trail.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.name,
+      item: `${siteUrl}${item.path}`,
+    })),
+  };
+}
+
+export function CategoryTemplate({ category, articles: categoryArticles }: { category: Category; articles: Article[] }) {
   return (
     <main>
+      <JsonLd data={breadcrumbSchema([{ name: "Home", path: "/" }, { name: category.shortName, path: `/${category.slug}/` }])} />
       <section className="page-hero category-hero">
         <div className="shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>/</span><span>{category.shortName}</span></nav>
@@ -19,11 +40,11 @@ export function CategoryTemplate({ category, articles }: { category: Category; a
       <section className="section">
         <div className="shell">
           <div className="section-heading row-heading">
-            <div><span className="eyebrow">Latest in this desk</span><h2>{articles.length} practical {articles.length === 1 ? "guide" : "guides"}</h2></div>
+            <div><span className="eyebrow">Latest in this desk</span><h2>{categoryArticles.length} practical {categoryArticles.length === 1 ? "guide" : "guides"}</h2></div>
             <Link className="text-link" href="/news/">View all news <ArrowUpRight size={16} /></Link>
           </div>
           <div className="article-grid category-grid">
-            {articles.map((article) => <ArticleCard article={article} key={article.slug} />)}
+            {categoryArticles.map((article) => <ArticleCard article={article} key={article.slug} />)}
           </div>
         </div>
       </section>
@@ -38,8 +59,49 @@ export function CategoryTemplate({ category, articles }: { category: Category; a
 }
 
 export function ArticleTemplate({ article }: { article: Article }) {
+  const primaryCategorySlug = article.categorySlugs[0];
+  const primaryCategory = categories.find((category) => category.slug === primaryCategorySlug);
+  const relatedArticles = articles
+    .filter((candidate) => candidate.slug !== article.slug && candidate.categorySlugs.some((slug) => article.categorySlugs.includes(slug)))
+    .slice(0, 3);
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.excerpt,
+    image: `${siteUrl}${article.image}`,
+    datePublished: article.date,
+    dateModified: article.date,
+    author: { "@type": "Person", name: article.author.name, jobTitle: article.author.role },
+    editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },
+    publisher: { "@type": "Organization", name: "Welfare Desk Pakistan", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },
+    mainEntityOfPage: `${siteUrl}/${article.slug}/`,
+  };
+
+  const faqSchema = article.faqs?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: article.faqs.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: { "@type": "Answer", text: item.answer },
+        })),
+      }
+    : null;
+
   return (
     <main>
+      <JsonLd data={articleSchema} />
+      {faqSchema && <JsonLd data={faqSchema} />}
+      <JsonLd
+        data={breadcrumbSchema([
+          { name: "Home", path: "/" },
+          { name: article.primaryCategory, path: `/${primaryCategorySlug}/` },
+          { name: article.title, path: `/${article.slug}/` },
+        ])}
+      />
       <article>
         <header className="article-hero">
           <div className="shell article-hero-grid">
@@ -48,7 +110,12 @@ export function ArticleTemplate({ article }: { article: Article }) {
               <span className="eyebrow">{article.primaryCategory}</span>
               <h1>{article.title}</h1>
               <p>{article.excerpt}</p>
-              <div className="article-byline"><span><CalendarDays size={16} /> Updated {article.date}</span><span>{article.readTime}</span></div>
+              <div className="article-byline">
+                <span><CalendarDays size={16} /> Updated {article.date}</span>
+                <span>{article.readTime}</span>
+                <span><UserRound size={16} /> Written by {article.author.name}</span>
+                <span>Reviewed by {article.reviewer.name}</span>
+              </div>
             </div>
             <div className="article-hero-image">
               <Image src={article.image} alt={article.imageAlt} fill priority sizes="(max-width: 900px) 100vw, 48vw" />
@@ -70,13 +137,46 @@ export function ArticleTemplate({ article }: { article: Article }) {
                 {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /> <span>{bullet}</span></li>)}</ul>}
               </section>
             ))}
+            {article.faqs && article.faqs.length > 0 && (
+              <section className="article-faqs">
+                <span className="eyebrow">Good to know</span>
+                <h2>Frequently asked questions</h2>
+                <div className="faq-list">
+                  {article.faqs.map((item) => (
+                    <details key={item.question}>
+                      <summary>{item.question}<span aria-hidden="true">+</span></summary>
+                      <p>{item.answer}</p>
+                    </details>
+                  ))}
+                </div>
+              </section>
+            )}
             <section className="official-links">
               <span className="eyebrow">Verify at the source</span>
               <h2>Official links</h2>
               <p>Check the destination address before entering personal information.</p>
               <div>{article.officialLinks.map((link) => <a className="button" href={link.href} target="_blank" rel="noreferrer" key={link.href}>{link.label} <ExternalLink size={16} /></a>)}</div>
             </section>
-            <Link className="back-link" href={`/${article.categorySlugs[0]}/`}><ArrowLeft size={16} /> Back to {article.primaryCategory}</Link>
+            <section className="article-contributors">
+              <div className="contributor-card">
+                <UserRound size={22} />
+                <div><strong>{article.author.name}</strong><small>{article.author.role}</small><p>{article.author.bio}</p></div>
+              </div>
+              <div className="contributor-card">
+                <ShieldCheck size={22} />
+                <div><strong>{article.reviewer.name}</strong><small>{article.reviewer.role}</small><p>{article.reviewer.bio}</p></div>
+              </div>
+            </section>
+            {relatedArticles.length > 0 && (
+              <section className="related-articles">
+                <span className="eyebrow">Continue reading</span>
+                <h2>Related guides</h2>
+                <div className="article-grid category-grid">
+                  {relatedArticles.map((related) => <ArticleCard article={related} key={related.slug} />)}
+                </div>
+              </section>
+            )}
+            <Link className="back-link" href={`/${article.categorySlugs[0]}/`}><ArrowLeft size={16} /> Back to {primaryCategory?.shortName ?? article.primaryCategory}</Link>
           </div>
         </div>
       </article>
@@ -87,6 +187,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
 export function InformationTemplate({ page }: { page: InformationPage }) {
   return (
     <main>
+      <JsonLd data={breadcrumbSchema([{ name: "Home", path: "/" }, { name: page.title, path: `/${page.slug}/` }])} />
       <section className="page-hero info-hero">
         <div className="shell info-hero-inner">
           <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>/</span><span>{page.title}</span></nav>

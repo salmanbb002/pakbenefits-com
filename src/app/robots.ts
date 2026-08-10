@@ -3,6 +3,6 @@ import type { MetadataRoute } from "next";
 export const dynamic = "force-static";
 
 export default function robots(): MetadataRoute.Robots {
-  const base = process.env.NEXT_PUBLIC_SITE_URL || "https://welfare-desk-pakistan.vercel.app";
+  const base = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
   return { rules: { userAgent: "*", allow: "/" }, sitemap: `${base}/sitemap.xml` };
 }

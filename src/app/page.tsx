@@ -1,11 +1,14 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import {
+  Activity,
   ArrowRight,
   ArrowUpRight,
   BadgeCheck,
   BellRing,
   BookOpenCheck,
+  Coins,
   GraduationCap,
   HandCoins,
   Landmark,
@@ -18,6 +21,10 @@ import {
 import { ArticleCard } from "@/components/article-card";
 import { articles, categories } from "@/data/content";
 
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
+
 const iconMap = {
   badge: BadgeCheck,
   wallet: WalletCards,
@@ -25,6 +32,8 @@ const iconMap = {
   landmark: Landmark,
   graduation: GraduationCap,
   newspaper: Newspaper,
+  coins: Coins,
+  activity: Activity,
 };
 
 const faq = [
@@ -36,9 +45,20 @@ const faq = [
   ["What if an official process changes?", "The official source always controls. Check the update date and follow the official link before acting."],
 ];
 
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map(([question, answer]) => ({
+    "@type": "Question",
+    name: question,
+    acceptedAnswer: { "@type": "Answer", text: answer },
+  })),
+};
+
 export default function Home() {
   return (
     <main>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <section className="hero-section">
         <div className="shell hero-grid">
           <div className="hero-copy">
@@ -81,7 +101,7 @@ export default function Home() {
             <p>Choose a topic to find current explainers, safe next steps, and the responsible official source.</p>
           </div>
           <div className="topic-grid">
-            {categories.slice(0, 6).map((category) => {
+            {categories.map((category) => {
               const Icon = iconMap[category.icon];
               return (
                 <Link className="topic-card" href={`/${category.slug}/`} key={category.slug}>
