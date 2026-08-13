@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.pakbenefits.com"
+        }
+      ],
+      "destination": "https://pakbenefits.com/:path*",
+      "permanent": true
+    }
+  ]
+}

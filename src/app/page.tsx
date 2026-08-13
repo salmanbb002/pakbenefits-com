@@ -21,8 +21,30 @@ import {
 import { ArticleCard } from "@/components/article-card";
 import { articles, categories } from "@/data/content";
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
+const homeTitle = "Pakistan Government Schemes, BISP 8171 & Ehsaas Guides";
+const homeDescription =
+  "Independent guides to Pakistan government schemes, BISP 8171 eligibility and payments, Ehsaas programmes, Taleemi Wazaif, youth loans, and official links.";
+
 export const metadata: Metadata = {
+  title: { absolute: homeTitle },
+  description: homeDescription,
   alternates: { canonical: "/" },
+  openGraph: {
+    title: homeTitle,
+    description: homeDescription,
+    url: "/",
+    siteName: "Welfare Desk Pakistan",
+    type: "website",
+    locale: "en_PK",
+    images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Public service guidance in Pakistan" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: homeTitle,
+    description: homeDescription,
+    images: [{ url: "/images/hero-support.jpg", alt: "Public service guidance in Pakistan" }],
+  },
 };
 
 const iconMap = {
@@ -55,16 +77,35 @@ const faqSchema = {
   })),
 };
 
+const homepageSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": `${siteUrl}/#homepage`,
+  url: `${siteUrl}/`,
+  name: homeTitle,
+  description: homeDescription,
+  inLanguage: "en-PK",
+  isPartOf: { "@id": `${siteUrl}/#website` },
+  about: [
+    { "@type": "Thing", name: "Pakistan government schemes" },
+    { "@type": "Thing", name: "Benazir Income Support Programme (BISP)" },
+    { "@type": "Thing", name: "8171 eligibility and payment checks" },
+    { "@type": "Thing", name: "Ehsaas programmes" },
+    { "@type": "Thing", name: "Benazir Taleemi Wazaif" },
+  ],
+};
+
 export default function Home() {
   return (
     <main>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(homepageSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <section className="hero-section">
         <div className="shell hero-grid">
           <div className="hero-copy">
             <div className="hero-kicker"><span className="live-dot" /> Clear guidance. Official destinations.</div>
-            <h1>Government support, explained <em>without the confusion.</em></h1>
-            <p>Independent guides to BISP, 8171, education support, youth opportunities, and public-service updates across Pakistan.</p>
+            <h1>Pakistan government schemes, <em>BISP 8171 and Ehsaas guides.</em></h1>
+            <p>Find independent, privacy-first guidance on BISP registration and payments, 8171 eligibility, Ehsaas programmes, Taleemi Wazaif, youth loans, and other public support in Pakistan.</p>
             <div className="hero-actions">
               <Link className="button" href="#latest">Explore latest guides <ArrowRight size={17} /></Link>
               <a className="button button-outline" href="https://8171.bisp.gov.pk/" target="_blank" rel="noreferrer">Open official 8171 <ArrowUpRight size={16} /></a>
@@ -97,7 +138,7 @@ export default function Home() {
         <div className="shell">
           <div className="section-heading centered">
             <span className="eyebrow">Browse by topic</span>
-            <h2>One desk for the questions people ask most</h2>
+            <h2>Find the right Pakistan government scheme guide</h2>
             <p>Choose a topic to find current explainers, safe next steps, and the responsible official source.</p>
           </div>
           <div className="topic-grid">

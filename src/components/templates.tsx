@@ -61,6 +61,7 @@ export function CategoryTemplate({ category, articles: categoryArticles }: { cat
 export function ArticleTemplate({ article }: { article: Article }) {
   const primaryCategorySlug = article.categorySlugs[0];
   const primaryCategory = categories.find((category) => category.slug === primaryCategorySlug);
+  const articleDate = new Date(article.date).toISOString();
   const relatedArticles = articles
     .filter((candidate) => candidate.slug !== article.slug && candidate.categorySlugs.some((slug) => article.categorySlugs.includes(slug)))
     .slice(0, 3);
@@ -71,8 +72,8 @@ export function ArticleTemplate({ article }: { article: Article }) {
     headline: article.title,
     description: article.excerpt,
     image: `${siteUrl}${article.image}`,
-    datePublished: article.date,
-    dateModified: article.date,
+    datePublished: articleDate,
+    dateModified: articleDate,
     author: { "@type": "Person", name: article.author.name, jobTitle: article.author.role },
     editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },
     publisher: { "@type": "Organization", name: "Welfare Desk Pakistan", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },

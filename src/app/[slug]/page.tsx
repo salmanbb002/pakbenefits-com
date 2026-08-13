@@ -5,6 +5,8 @@ import { allInternalSlugs, articles, categories, getArticlesForCategory, informa
 
 type PageProps = { params: Promise<{ slug: string }> };
 
+const siteName = "Welfare Desk Pakistan";
+
 export function generateStaticParams() {
   return allInternalSlugs.map((slug) => ({ slug }));
 }
@@ -17,11 +19,42 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = article?.title || category?.name || infoPage?.title;
   const description = article?.excerpt || category?.intro || infoPage?.intro;
   if (!title || !description) return {};
+  const canonical = `/${slug}/`;
+  const image = article?.image || "/images/hero-support.jpg";
   return {
     title,
     description,
-    alternates: { canonical: `/${slug}/` },
-    openGraph: article ? { title, description, type: "article", images: [article.image] } : { title, description },
+    authors: article ? [{ name: article.author.name }] : undefined,
+    alternates: { canonical },
+    openGraph: article
+      ? {
+          title,
+          description,
+          url: canonical,
+          siteName,
+          type: "article",
+          locale: "en_PK",
+          publishedTime: new Date(article.date).toISOString(),
+          modifiedTime: new Date(article.date).toISOString(),
+          section: article.primaryCategory,
+          tags: article.categorySlugs,
+          images: [{ url: image, alt: article.imageAlt }],
+        }
+      : {
+          title,
+          description,
+          url: canonical,
+          siteName,
+          type: "website",
+          locale: "en_PK",
+          images: [{ url: image, alt: "Public service guidance in Pakistan" }],
+        },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [{ url: image, alt: article?.imageAlt || "Public service guidance in Pakistan" }],
+    },
   };
 }
 
