@@ -108,7 +108,7 @@ export function Header() {
       </aside>
 
       {searchOpen && (
-        <div className="search-modal" role="dialog" aria-modal="true" aria-label="Search Welfare Desk">
+        <div className="search-modal" role="dialog" aria-modal="true" aria-label="Search Live Govt Schemes">
           <button className="search-backdrop" type="button" aria-label="Close search" onClick={closeAll} />
           <div className="search-panel">
             <div className="search-panel-head">

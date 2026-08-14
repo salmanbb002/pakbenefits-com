@@ -76,7 +76,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
     dateModified: articleDate,
     author: { "@type": "Person", name: article.author.name, jobTitle: article.author.role },
     editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },
-    publisher: { "@type": "Organization", name: "Welfare Desk Pakistan", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },
+    publisher: { "@type": "Organization", name: "Live Govt Schemes & Ehsaas Programs", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },
     mainEntityOfPage: `${siteUrl}/${article.slug}/`,
   };
 

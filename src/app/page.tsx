@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: homeTitle,
     description: homeDescription,
     url: "/",
-    siteName: "Welfare Desk Pakistan",
+    siteName: "Live Govt Schemes & Ehsaas Programs",
     type: "website",
     locale: "en_PK",
     images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Public service guidance in Pakistan" }],
@@ -59,7 +59,7 @@ const iconMap = {
 };
 
 const faq = [
-  ["Is Welfare Desk Pakistan an official government website?", "No. We are an independent information website. We explain public information and link readers to the responsible official organization."],
+  ["Is Live Govt Schemes & Ehsaas Programs an official government website?", "No. We are an independent information website. We explain public information and link readers to the responsible official organization."],
   ["Can I check my eligibility on this website?", "No. For privacy and accuracy, individual status checks belong only on the official 8171 portal or with the responsible programme office."],
   ["Do you ask for CNIC or bank details?", "Never. Do not send us a CNIC number or image, OTP, password, bank account, card number, or PIN."],
   ["How do you verify an update?", "We look for the responsible department, official portal, public notice, or government press release and link it inside the guide."],
@@ -126,7 +126,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="path-strip" aria-label="How Welfare Desk helps">
+      <section className="path-strip" aria-label="How Live Govt Schemes helps">
         <div className="shell path-grid">
           <div><span>01</span><Smartphone /><p><strong>Find the right guide</strong><small>Search by programme or task.</small></p></div>
           <div><span>02</span><BookOpenCheck /><p><strong>Understand the steps</strong><small>Plain language, short checklists.</small></p></div>
@@ -161,7 +161,7 @@ export default function Home() {
       <section className="section latest-section" id="latest">
         <div className="shell">
           <div className="section-heading row-heading">
-            <div><span className="eyebrow">Latest desk updates</span><h2>Useful information, recently reviewed</h2></div>
+            <div><span className="eyebrow">Latest scheme updates</span><h2>Useful information, recently reviewed</h2></div>
             <Link className="text-link" href="/news/">Visit the news desk <ArrowUpRight size={16} /></Link>
           </div>
           <div className="lead-stories">

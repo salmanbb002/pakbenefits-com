@@ -1,4 +1,4 @@
-# Welfare Desk Pakistan
+# Live Govt Schemes & Ehsaas Programs
 
 An independent, static information portal for Pakistani welfare programmes and public-service guides. Built with Next.js, TypeScript, and original editorial imagery.
 

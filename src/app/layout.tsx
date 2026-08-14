@@ -4,7 +4,7 @@ import { Header } from "@/components/header";
 import "./globals.css";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
-const siteName = "Welfare Desk Pakistan";
+const siteName = "Live Govt Schemes & Ehsaas Programs";
 const defaultTitle = "Pakistan Government Schemes, BISP 8171 & Ehsaas Guides";
 const defaultDescription =
   "Independent guides to Pakistan government schemes, BISP 8171 eligibility and payments, Ehsaas programmes, Taleemi Wazaif, youth loans, and official links.";
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   applicationName: siteName,
   title: { default: defaultTitle, template: `%s | ${siteName}` },
   description: defaultDescription,
-  authors: [{ name: "Welfare Desk Pakistan Editorial Team", url: "/about-us/" }],
+  authors: [{ name: "Live Govt Schemes Editorial Team", url: "/about-us/" }],
   creator: siteName,
   publisher: siteName,
   category: "Government welfare and public-service information",

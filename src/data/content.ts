@@ -57,7 +57,7 @@ export const contributors = {
   saadHassan: {
     name: "Saad Hassan",
     role: "Public Programmes Editor",
-    bio: "Saad has covered BISP, Ehsaas, and provincial welfare schemes for Welfare Desk Pakistan since 2024, cross-checking every guide against the current official portal before publication.",
+    bio: "Saad has covered BISP, Ehsaas, and provincial welfare schemes for Live Govt Schemes & Ehsaas Programs since 2024, cross-checking every guide against the current official portal before publication.",
   },
   ayeshaMalik: {
     name: "Ayesha Malik",
@@ -120,7 +120,7 @@ export const categories: Category[] = [
     name: "Payment Check Guides",
     shortName: "Payment Check",
     description: "Know where to verify a payment and how to avoid deductions.",
-    intro: "These guides explain safe payment verification, approved messages, biometric issues, receipts, and complaint routes. Welfare Desk Pakistan never checks or stores CNIC numbers.",
+    intro: "These guides explain safe payment verification, approved messages, biometric issues, receipts, and complaint routes. Live Govt Schemes & Ehsaas Programs never checks or stores CNIC numbers.",
     icon: "wallet",
   },
   {
@@ -163,7 +163,7 @@ export const articles: Article[] = [
         paragraphs: [
           "If the 8171 web portal is not working, first confirm the official address, then check the CNIC and image-code fields, test another browser or connection, and distinguish a returned status from a loading error. The current public page is https://8171.bisp.gov.pk/. If it remains unavailable, use only a BISP contact route.",
           "BISP operates the service, but one failed attempt does not prove that the portal is down nationwide. A wrong address, incomplete verification code, stored browser data, or network problem can look the same to a user. Without an official BISP notice, work through the five checks before drawing a conclusion.",
-          "The checked form contains a 13-digit Computerized National Identity Card (CNIC) field and an image code. Welfare Desk Pakistan does not collect CNICs or check individual records.",
+          "The checked form contains a 13-digit Computerized National Identity Card (CNIC) field and an image code. Live Govt Schemes & Ehsaas Programs does not collect CNICs or check individual records.",
         ],
       },
       {
@@ -249,7 +249,7 @@ export const articles: Article[] = [
       {
         title: "Protect your CNIC while troubleshooting 8171",
         paragraphs: [
-          "A portal problem is not a reason to move to a third-party checker. An unofficial form may imitate the 8171 name while collecting identity data that BISP did not request through that site. Welfare Desk Pakistan never asks readers to submit a CNIC, result screenshot, OTP, bank PIN, password, card number, or mobile-wallet code.",
+          "A portal problem is not a reason to move to a third-party checker. An unofficial form may imitate the 8171 name while collecting identity data that BISP did not request through that site. Live Govt Schemes & Ehsaas Programs never asks readers to submit a CNIC, result screenshot, OTP, bank PIN, password, card number, or mobile-wallet code.",
         ],
         bullets: [
           "Use only the BISP-hosted public portal and verify the host before typing personal data.",
@@ -312,7 +312,7 @@ export const articles: Article[] = [
         paragraphs: [
           "BISP identifies 8171 as its official messaging number. If a 786 web portal, 5771, 7181, or another number is presented as a BISP status or payment channel, do not treat it as an alternative without confirmation from BISP. For the current public web check, use https://8171.bisp.gov.pk/. Older pass.gov.pk addresses explain some Ehsaas tracking searches but are not the current route verified for this guide.",
           "A number, sender, and web address are separate entities. 8171 can be an SMS short code; the sender field shows where a message came from; and 8171.bisp.gov.pk is a browser destination. A copied logo or familiar phrase does not connect an unknown sender or domain to BISP.",
-          "Welfare Desk Pakistan does not collect CNIC numbers and cannot verify a message from a screenshot alone. Use the evidence checks below before sending personal data, following a payment instruction, or visiting an office.",
+          "Live Govt Schemes & Ehsaas Programs does not collect CNIC numbers and cannot verify a message from a screenshot alone. Use the evidence checks below before sending personal data, following a payment instruction, or visiting an office.",
         ],
       },
       {
@@ -478,7 +478,7 @@ export const articles: Article[] = [
         paragraphs: [
           "To check BISP status by CNIC in 2026, open https://8171.bisp.gov.pk/, enter the CNIC of the person whose status you are checking, type the code shown in the image, and submit the public form. Save the exact response privately and follow its stated next step. This lookup checks an existing status; it does not register a household or approve a payment.",
           "A BISP registration check by CNIC retrieves programme status using a Computerized National Identity Card. Final eligibility depends on the household record and programme criteria—not on how often the form is submitted.",
-          "Welfare Desk Pakistan does not collect or check CNICs. The routes in this guide were checked on August 14, 2026; enter personal data only on the verified BISP page.",
+          "Live Govt Schemes & Ehsaas Programs does not collect or check CNICs. The routes in this guide were checked on August 14, 2026; enter personal data only on the verified BISP page.",
         ],
       },
       {
@@ -1082,7 +1082,7 @@ export const articles: Article[] = [
       {
         title: "Start only from the official portal",
         paragraphs: [
-          "Open the official 8171 BISP portal from a trusted device. Check the address carefully before entering any information. Welfare Desk Pakistan does not provide an eligibility database and never asks you to submit a CNIC here.",
+          "Open the official 8171 BISP portal from a trusted device. Check the address carefully before entering any information. Live Govt Schemes & Ehsaas Programs does not provide an eligibility database and never asks you to submit a CNIC here.",
           "If the portal is temporarily unavailable, wait and try again later or contact the nearest BISP tehsil office. Avoid unofficial forms that promise instant approval, and be wary of copycat sites with similar-looking addresses — bookmark the official portal once you've confirmed it.",
         ],
       },
@@ -1444,14 +1444,14 @@ export const articles: Article[] = [
 export const informationPages: InformationPage[] = [
   {
     slug: "about-us",
-    title: "About Welfare Desk Pakistan",
+    title: "About Live Govt Schemes & Ehsaas Programs",
     eyebrow: "Our purpose",
     intro: "We translate public-service announcements into clear, practical guides and send readers back to the official source for every important action.",
     sections: [
       {
         title: "Why we built this site",
         paragraphs: [
-          "Important programme information is often scattered across portals, notices, and press releases. People can lose time—or trust the wrong person—when the next step is unclear. Welfare Desk Pakistan organizes that information around the questions people actually ask.",
+          "Important programme information is often scattered across portals, notices, and press releases. People can lose time—or trust the wrong person—when the next step is unclear. Live Govt Schemes & Ehsaas Programs organizes that information around the questions people actually ask.",
           "Our pages are educational summaries. We do not decide eligibility, process applications, release payments, or represent any government department.",
         ],
       },
@@ -1476,7 +1476,7 @@ export const informationPages: InformationPage[] = [
       {
         title: "Independent and transparent",
         paragraphs: [
-          "Welfare Desk Pakistan is an independent information website. It is not affiliated with BISP, NADRA, the Government of Pakistan, or any provincial department. Government names are used only to identify the programmes being discussed.",
+          "Live Govt Schemes & Ehsaas Programs is an independent information website. It is not affiliated with BISP, NADRA, the Government of Pakistan, or any provincial department. Government names are used only to identify the programmes being discussed.",
         ],
       },
     ],
@@ -1531,7 +1531,7 @@ export const informationPages: InformationPage[] = [
       {
         title: "External official links",
         paragraphs: [
-          "Our guides link to government and programme websites. Their privacy practices apply after you leave Welfare Desk Pakistan. Check the destination address before entering personal information.",
+          "Our guides link to government and programme websites. Their privacy practices apply after you leave Live Govt Schemes & Ehsaas Programs. Check the destination address before entering personal information.",
         ],
       },
     ],
@@ -1566,7 +1566,7 @@ export const informationPages: InformationPage[] = [
     slug: "disclaimer",
     title: "Independent Website Disclaimer",
     eyebrow: "Please read before acting",
-    intro: "Welfare Desk Pakistan is not a government website and is not affiliated with BISP, NADRA, or any federal or provincial department.",
+    intro: "Live Govt Schemes & Ehsaas Programs is not a government website and is not affiliated with BISP, NADRA, or any federal or provincial department.",
     sections: [
       {
         title: "No official authority",
@@ -1583,7 +1583,7 @@ export const informationPages: InformationPage[] = [
       {
         title: "Never send private information",
         paragraphs: [
-          "This website does not need your CNIC, bank account, password, PIN, biometric data, or OTP. If someone requests those details while claiming to represent Welfare Desk Pakistan, stop the conversation.",
+          "This website does not need your CNIC, bank account, password, PIN, biometric data, or OTP. If someone requests those details while claiming to represent Live Govt Schemes & Ehsaas Programs, stop the conversation.",
         ],
       },
     ],

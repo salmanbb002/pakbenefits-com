@@ -218,20 +218,25 @@ h3 {
 
 .brand-copy strong {
   font-family: "Manrope", sans-serif;
-  font-size: 1.05rem;
+  font-size: 1rem;
   letter-spacing: -0.035em;
+  white-space: nowrap;
 }
 
 .brand-copy small {
   margin-top: 5px;
   color: var(--green);
-  font-size: 0.68rem;
+  font-size: 0.62rem;
   font-weight: 800;
   letter-spacing: 0.19em;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
-.brand-inverse .brand-mark,
+.brand-inverse .brand-mark {
+  color: #14925a;
+}
+
 .brand-inverse .brand-copy small {
   color: #9dd9ae;
 }
@@ -1675,10 +1680,71 @@ h3 {
   color: #c5d4d0;
 }
 
+.footer-portal-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 32px 36px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 14px;
+  background: var(--green-dark);
+  color: var(--white);
+}
+
+.footer-portal-card > div {
+  max-width: 700px;
+}
+
+.footer-portal-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 10px;
+  color: #c5ead0;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.footer-portal-card h2 {
+  margin-bottom: 8px;
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+  text-wrap: balance;
+}
+
+.footer-portal-card p {
+  margin: 0;
+  color: #d7eade;
+  font-size: 0.9rem;
+  text-wrap: pretty;
+}
+
+.footer-portal-link {
+  min-height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex: 0 0 auto;
+  padding: 0 18px;
+  border-radius: 8px;
+  background: var(--white);
+  color: var(--green-dark);
+  font-size: 0.84rem;
+  font-weight: 800;
+  transition: opacity 150ms ease;
+}
+
+.footer-portal-link:hover {
+  opacity: 0.9;
+}
+
 .footer-grid {
   display: grid;
   grid-template-columns: 1.35fr 0.78fr 0.9fr 1.2fr;
   gap: 54px;
+  padding-top: 62px;
   padding-bottom: 60px;
 }
 
@@ -1752,6 +1818,16 @@ h3 {
   display: inline-flex;
   align-items: center;
   gap: 6px;
+}
+
+.footer-bottom-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.footer-bottom a:hover {
+  color: var(--white);
 }
 
 @media (max-width: 1050px) {
@@ -1978,6 +2054,12 @@ h3 {
     align-items: flex-start;
     flex-direction: column;
   }
+
+  .footer-portal-card {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 24px;
+  }
 }
 
 @media (max-width: 620px) {
@@ -2154,11 +2236,23 @@ h3 {
     gap: 34px;
   }
 
+  .footer-portal-card {
+    padding: 26px 22px;
+  }
+
+  .footer-portal-link {
+    width: 100%;
+  }
+
   .footer-bottom {
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
     padding: 18px 0;
+  }
+
+  .footer-bottom-links {
+    flex-wrap: wrap;
   }
 
   .search-modal {

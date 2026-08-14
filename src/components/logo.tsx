@@ -2,17 +2,19 @@ import Link from "next/link";
 
 export function Logo({ inverse = false }: { inverse?: boolean }) {
   return (
-    <Link className={`brand ${inverse ? "brand-inverse" : ""}`} href="/" aria-label="Welfare Desk Pakistan home">
+    <Link className={`brand ${inverse ? "brand-inverse" : ""}`} href="/" aria-label="Live Govt Schemes and Ehsaas Programs home">
       <span className="brand-mark" aria-hidden="true">
-        <svg viewBox="0 0 44 44" role="img">
-          <path d="M22 3.5 37.5 9v11.2c0 9.7-6.1 17.2-15.5 20.3C12.6 37.4 6.5 29.9 6.5 20.2V9L22 3.5Z" fill="currentColor" />
-          <path d="M14.4 23.2c4.8-1.4 9.6-5 14.9-11.2-1.1 8.7-4.8 15.3-11.5 19.7l-3.4-8.5Z" fill="white" opacity=".98" />
-          <circle cx="29.8" cy="13.2" r="2.6" fill="white" />
+        <svg viewBox="0 0 48 48" role="img">
+          <rect x="2" y="2" width="44" height="44" rx="13" fill="currentColor" />
+          <path d="M16 12.5h12.4l6.6 6.6v16.4H16v-23Z" fill="white" />
+          <path d="M28.4 12.5v6.6H35" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinejoin="round" opacity=".3" />
+          <path d="m20.3 27 3.1 3.1 7-7.3" fill="none" stroke="currentColor" strokeWidth="2.8" strokeLinecap="round" strokeLinejoin="round" />
+          <circle cx="36.5" cy="11.5" r="5" fill="#f0bb56" stroke="white" strokeWidth="2" />
         </svg>
       </span>
       <span className="brand-copy">
-        <strong>Welfare Desk</strong>
-        <small>Pakistan</small>
+        <strong>Live Govt Schemes</strong>
+        <small>Ehsaas Programs</small>
       </span>
     </Link>
   );

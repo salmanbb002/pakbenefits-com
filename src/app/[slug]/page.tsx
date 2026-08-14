@@ -5,7 +5,7 @@ import { allInternalSlugs, articles, categories, getArticlesForCategory, informa
 
 type PageProps = { params: Promise<{ slug: string }> };
 
-const siteName = "Welfare Desk Pakistan";
+const siteName = "Live Govt Schemes & Ehsaas Programs";
 
 export function generateStaticParams() {
   return allInternalSlugs.map((slug) => ({ slug }));
