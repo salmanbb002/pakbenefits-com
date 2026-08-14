@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const category = categories.find((item) => item.slug === slug);
   const article = articles.find((item) => item.slug === slug);
   const infoPage = informationPages.find((item) => item.slug === slug);
-  const title = article?.title || category?.name || infoPage?.title;
-  const description = article?.excerpt || category?.intro || infoPage?.intro;
+  const title = article?.metaTitle || article?.title || category?.name || infoPage?.title;
+  const description = article?.metaDescription || article?.excerpt || category?.intro || infoPage?.intro;
   if (!title || !description) return {};
   const canonical = `/${slug}/`;
   const image = article?.image || "/images/hero-support.jpg";

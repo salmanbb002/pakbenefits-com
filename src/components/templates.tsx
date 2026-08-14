@@ -113,6 +113,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
               <p>{article.excerpt}</p>
               <div className="article-byline">
                 <span><CalendarDays size={16} /> Updated {article.date}</span>
+                {article.lastChecked && <span><ShieldCheck size={16} /> Official routes checked {article.lastChecked}</span>}
                 <span>{article.readTime}</span>
                 <span><UserRound size={16} /> Written by {article.author.name}</span>
                 <span>Reviewed by {article.reviewer.name}</span>
@@ -136,6 +137,20 @@ export function ArticleTemplate({ article }: { article: Article }) {
                 <h2>{section.title}</h2>
                 {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
                 {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /> <span>{bullet}</span></li>)}</ul>}
+                {section.table && (
+                  <div className="article-table-wrap">
+                    <table>
+                      {section.table.caption && <caption>{section.table.caption}</caption>}
+                      <thead><tr>{section.table.headers.map((header) => <th scope="col" key={header}>{header}</th>)}</tr></thead>
+                      <tbody>{section.table.rows.map((row) => <tr key={row.join("|")}>{row.map((cell, cellIndex) => <td key={`${cellIndex}-${cell}`}>{cell}</td>)}</tr>)}</tbody>
+                    </table>
+                  </div>
+                )}
+                {section.links && section.links.length > 0 && (
+                  <div className="article-context-links" aria-label="Related guides">
+                    {section.links.map((link) => <Link href={link.href} key={link.href}>{link.label} <ArrowUpRight size={15} /></Link>)}
+                  </div>
+                )}
               </section>
             ))}
             {article.faqs && article.faqs.length > 0 && (
@@ -154,7 +169,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
             )}
             <section className="official-links">
               <span className="eyebrow">Verify at the source</span>
-              <h2>Official links</h2>
+              <h2>Sources and official links</h2>
               <p>Check the destination address before entering personal information.</p>
               <div>{article.officialLinks.map((link) => <a className="button" href={link.href} target="_blank" rel="noreferrer" key={link.href}>{link.label} <ExternalLink size={16} /></a>)}</div>
             </section>

@@ -2,6 +2,12 @@ export type ContentSection = {
   title: string;
   paragraphs: string[];
   bullets?: string[];
+  table?: {
+    caption?: string;
+    headers: string[];
+    rows: string[][];
+  };
+  links?: { label: string; href: string }[];
 };
 
 export type Contributor = {
@@ -14,9 +20,12 @@ export type Article = {
   slug: string;
   title: string;
   excerpt: string;
+  metaTitle?: string;
+  metaDescription?: string;
   primaryCategory: string;
   categorySlugs: string[];
   date: string;
+  lastChecked?: string;
   readTime: string;
   image: string;
   imageAlt: string;
@@ -133,6 +142,487 @@ export const categories: Category[] = [
 ];
 
 export const articles: Article[] = [
+  {
+    slug: "8171-web-portal-not-working",
+    title: "8171 Web Portal Not Working? 5 Checks Before You Assume It Is Down (2026)",
+    excerpt: "If the official 8171 portal will not load or submit, check the address, image code, browser, and connection before using an official BISP fallback.",
+    metaTitle: "8171 Web Portal Not Working? 5 Checks (2026)",
+    metaDescription: "If the official 8171 portal will not load or submit, check the address, image code, browser and connection, then use an official BISP fallback.",
+    primaryCategory: "8171",
+    categorySlugs: ["8171", "news"],
+    date: "August 17, 2026",
+    lastChecked: "August 14, 2026",
+    readTime: "9 min read",
+    image: "/images/8171-portal-troubleshooting.jpg",
+    imageAlt: "A user troubleshooting the official 8171 BISP portal on a mobile phone",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "If the 8171 web portal is not working, start here",
+        paragraphs: [
+          "If the 8171 web portal is not working, first confirm the official address, then check the CNIC and image-code fields, test another browser or connection, and distinguish a returned status from a loading error. The current public page is https://8171.bisp.gov.pk/. If it remains unavailable, use only a BISP contact route.",
+          "BISP operates the service, but one failed attempt does not prove that the portal is down nationwide. A wrong address, incomplete verification code, stored browser data, or network problem can look the same to a user. Without an official BISP notice, work through the five checks before drawing a conclusion.",
+          "The checked form contains a 13-digit Computerized National Identity Card (CNIC) field and an image code. Welfare Desk Pakistan does not collect CNICs or check individual records.",
+        ],
+      },
+      {
+        title: "Is the 8171 portal down, or is the page failing on your device?",
+        paragraphs: [
+          "A page that does not load does not identify the cause. Page access, form submission, and programme status are three different stages: a blank screen or timeout is an access failure; a validation message concerns the form; and a returned eligibility or survey message means the lookup completed.",
+          "Do not treat a blank page as proof of maintenance, a database update, a NADRA synchronization problem, or a national outage. Those explanations require a BISP notice. Match what you see to the issue type below.",
+        ],
+        table: {
+          caption: "What an 8171 portal result—or lack of one—means",
+          headers: ["What you see", "Issue type", "What to check next"],
+          rows: [
+            ["Page does not open, stays blank, or times out", "Access problem; no status was returned", "Official address, browser, and connection"],
+            ["Page opens but the form will not submit", "Input or image-code validation problem", "CNIC and verification-code fields"],
+            ["Page displays a status or instruction", "Completed lookup", "Read the exact response and follow its official next step"],
+          ],
+        },
+      },
+      {
+        title: "Check 1: Confirm the official 8171 BISP address",
+        paragraphs: [
+          "The current public CNIC status page is https://8171.bisp.gov.pk/. Before entering a CNIC, confirm that the address bar shows the exact host 8171.bisp.gov.pk. A secure HTTPS connection protects data in transit, but HTTPS by itself does not prove that a website belongs to BISP; the domain must also be correct.",
+          "Avoid misspellings, unrelated domains, shortened links, and pages that imitate BISP branding. Page design is easy to copy; the destination in the address bar is the stronger identity signal. Bookmark the verified page instead of returning through advertisements or forwards.",
+        ],
+        links: [
+          { label: "Follow the complete official 8171 eligibility walkthrough", href: "/check-bisp-eligibility-8171/" },
+          { label: "Verify 8171, 786, and older Ehsaas routes", href: "/8171-786-ehsaas-tracking-official-number/" },
+        ],
+      },
+      {
+        title: "Check 2: Complete the CNIC and image-code fields correctly",
+        paragraphs: [
+          "The public form currently asks for the relevant 13-digit CNIC number and the code displayed in the image. Enter the CNIC of the person whose programme status is being checked, review every digit, type the image code exactly as shown, and submit once. The image code—often called a CAPTCHA or verification code—helps validate the form submission; it does not determine BISP eligibility.",
+          "If the image code is unreadable or does not appear, reload the official page to request a new image instead of guessing repeatedly. Messages about a required field, invalid code, or incomplete input are form-validation responses. They do not mean the CNIC is ineligible, deleted, or missing from the National Socio-Economic Registry (NSER). Avoid sharing an unredacted screenshot while asking someone to read the code.",
+        ],
+        links: [{ label: "See the step-by-step BISP status check by CNIC", href: "/check-bisp-status-by-cnic-online/" }],
+      },
+      {
+        title: "Check 3: Test another browser or a private window",
+        paragraphs: [
+          "If the official page opens incorrectly, a second browser or private window can show whether the problem is limited to stored browser data. Open a private or incognito window, paste the verified BISP address, and try once. You can also close duplicate portal tabs and use another current browser on the same device.",
+          "If that works, site-specific cache, cookies, or a previous session may have interfered. Clear only BISP site data if you understand that this ends the session; do not erase all browser history. If a clean session still fails, test the connection.",
+        ],
+      },
+      {
+        title: "Check 4: Switch between Wi-Fi and mobile data",
+        paragraphs: [
+          "Trying a second connection helps identify whether the 8171 website is not loading only on one network. Switch from Wi-Fi to mobile data or from mobile data to trusted Wi-Fi, then open the same verified page. If another device is available, one careful test can also separate a device problem from a broader access issue.",
+          "Do not refresh continuously or submit the same CNIC many times. If the page fails across connections, browsers, and devices, retry later and check BISP for an announcement. Do not assign a cause or recovery time without one; a failed page says nothing about whether a household record changed.",
+        ],
+      },
+      {
+        title: "Check 5: Do not confuse a status response with a portal error",
+        paragraphs: [
+          "If a status message appears, the lookup completed. Eligibility wording, a survey instruction, or a no-record response must be read as programme information, not as proof that the portal is broken. Save the exact message privately before explaining it or taking another step; paraphrasing can remove an important instruction.",
+          "A no-record response is different from a page-loading error. BISP's published Kafaalat guidance describes an in-person route for a household with no record: an adult household member may visit the nearest Benazir Registration Desk at a BISP tehsil office for a household survey. The office determines whether a new survey or record update is appropriate; this website cannot promise the result.",
+        ],
+        table: {
+          caption: "How to route common 8171 outcomes safely",
+          headers: ["Response category", "What it establishes", "Safe next step"],
+          rows: [
+            ["Eligible or beneficiary wording", "A positive programme-status response was returned", "Follow the exact instruction and rely on official 8171 communication where required"],
+            ["No record", "The lookup completed but returned no available record", "Use the Benazir Registration Desk route at a BISP tehsil office"],
+            ["Survey, recertification, or office instruction", "An administrative step is required", "Follow the stated instruction through the named official channel"],
+            ["Error, blank page, or no usable result", "No programme status was returned", "Repeat Checks 1–4 or use an official fallback"],
+          ],
+        },
+        links: [{ label: "Understand the no-record and NSER registration route", href: "/how-to-register-bisp-online-guide/" }],
+      },
+      {
+        title: "Use an official route if the website remains unavailable",
+        paragraphs: [
+          "BISP identifies 8171 as its only official messaging number and publishes 0800-26477 as its helpline. If the website remains unavailable, use the SMS route only in line with current BISP instructions: enter the CNIC in the phone's messaging app, send it to 8171—not a similar-looking number—and keep the response private. Ordinary carrier charges may apply; BISP does not charge a survey fee.",
+          "Use an active mobile number controlled by you, and do not expect an instant response in every case. For an unresolved programme query, contact the BISP helpline or visit the nearest BISP tehsil office. An official fallback gives you another communication route; it does not guarantee eligibility, approve a payment, or establish why the web page failed.",
+        ],
+        bullets: [
+          "Open the phone's messaging app and enter only the relevant CNIC as instructed by BISP.",
+          "Send the message to 8171 and verify the recipient before pressing send.",
+          "Keep the reply and any status screenshot private.",
+          "For unresolved questions, use 0800-26477 or a BISP tehsil office.",
+        ],
+      },
+      {
+        title: "Protect your CNIC while troubleshooting 8171",
+        paragraphs: [
+          "A portal problem is not a reason to move to a third-party checker. An unofficial form may imitate the 8171 name while collecting identity data that BISP did not request through that site. Welfare Desk Pakistan never asks readers to submit a CNIC, result screenshot, OTP, bank PIN, password, card number, or mobile-wallet code.",
+        ],
+        bullets: [
+          "Use only the BISP-hosted public portal and verify the host before typing personal data.",
+          "Do not send a CNIC image through comments, social posts, email, or an unknown WhatsApp contact.",
+          "Redact the CNIC and any personal details before sharing a screenshot for legitimate support.",
+          "Do not pay an agent to restore, unlock, or speed up the portal or your record.",
+          "Treat programme messages from a sender other than 8171 as unverified and contact BISP directly.",
+        ],
+        links: [{ label: "Review seven warning signs of a fake BISP message", href: "/avoid-bisp-fraud/" }],
+      },
+      {
+        title: "8171 portal troubleshooting checklist",
+        paragraphs: [
+          "For an 8171 check online in 2026, follow the same safe order every time: official host, complete form, clean browser session, second connection, and accurate response interpretation. This sequence narrows the problem without making unsupported claims about service availability.",
+          "If the 8171 web portal is not working after all five checks, pause and use the official BISP portal again later, the 8171 messaging channel, helpline 0800-26477, or a tehsil office. A CNIC status check belongs on an official BISP route; never trade privacy for a faster-looking third-party form.",
+        ],
+        bullets: [
+          "Verify 8171.bisp.gov.pk in the address bar.",
+          "Complete both the CNIC and image-code fields.",
+          "Try a private window or another browser.",
+          "Switch Wi-Fi, mobile data, or device once.",
+          "Separate a returned status from a loading failure.",
+          "Use 8171, 0800-26477, or a BISP tehsil office when needed.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Is the 8171 portal down right now?", answer: "One failed page cannot confirm a nationwide outage. Verify 8171.bisp.gov.pk, complete both fields, test another browser or connection, and check the official BISP website for a current notice." },
+      { question: "Why is the 8171 portal not working on my phone?", answer: "The issue may involve the address, image-code validation, browser session, network connection, or temporary service availability. Work through the five checks in order instead of assuming a specific cause." },
+      { question: "Why will the 8171 form not submit?", answer: "Confirm that the 13-digit CNIC field and the code shown in the image are both complete. A validation error concerns the form submission; it is not an eligibility decision." },
+      { question: "Is 'no record' the same as a portal error?", answer: "No. 'No record' means the lookup returned a response. BISP guidance directs an adult household member toward the nearest Benazir Registration Desk for the relevant survey route." },
+      { question: "How can I check BISP status without the website?", answer: "BISP identifies 8171 as its official messaging number and publishes helpline 0800-26477. Follow current BISP SMS instructions or use a BISP tehsil office for unresolved questions." },
+      { question: "Can I use another website when 8171 is not loading?", answer: "Do not enter a CNIC on an unofficial status checker. Retry the BISP-hosted page or use an official BISP messaging, helpline, or office route." },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP notice confirming the official 8171 number", href: "https://www.bisp.gov.pk/NewsDetail/Njk4ZDI0MTAtYzdiMy00MDMwLTljNTItZjI3OWM2MGQ4OWYz" },
+      { label: "BISP fraud, fee, and helpline notice", href: "https://www.bisp.gov.pk/NewsDetail/M2MzZDg0ZjctYjBkMS00YzQ1LTkwMjQtMmVhZWFiZDgyZmI0" },
+      { label: "BISP Kafaalat registration guidance", href: "https://www.bisp.gov.pk/SiteImage/Misc/files/KifalatEngUrdu_2022.pdf" },
+    ],
+  },
+  {
+    slug: "8171-786-ehsaas-tracking-official-number",
+    title: "8171, 786, and Ehsaas Tracking: Which Number Should You Actually Use?",
+    excerpt: "BISP says 8171 is its official messaging number. Learn how to handle 786, 5771, 7181, and older Ehsaas tracking addresses safely.",
+    metaTitle: "8171, 786 & Ehsaas Tracking: The Official BISP Route",
+    metaDescription: "BISP says 8171 is its official messaging number. Learn how to handle 786, 5771, 7181 and older Ehsaas tracking addresses safely.",
+    primaryCategory: "8171",
+    categorySlugs: ["8171", "news"],
+    date: "August 19, 2026",
+    lastChecked: "August 14, 2026",
+    readTime: "9 min read",
+    image: "/images/8171-number-verification.jpg",
+    imageAlt: "A user comparing the official BISP 8171 route with unverified number and portal claims",
+    author: contributors.ayeshaMalik,
+    reviewer: contributors.saadHassan,
+    sections: [
+      {
+        title: "The official answer: BISP uses 8171",
+        paragraphs: [
+          "BISP identifies 8171 as its official messaging number. If a 786 web portal, 5771, 7181, or another number is presented as a BISP status or payment channel, do not treat it as an alternative without confirmation from BISP. For the current public web check, use https://8171.bisp.gov.pk/. Older pass.gov.pk addresses explain some Ehsaas tracking searches but are not the current route verified for this guide.",
+          "A number, sender, and web address are separate entities. 8171 can be an SMS short code; the sender field shows where a message came from; and 8171.bisp.gov.pk is a browser destination. A copied logo or familiar phrase does not connect an unknown sender or domain to BISP.",
+          "Welfare Desk Pakistan does not collect CNIC numbers and cannot verify a message from a screenshot alone. Use the evidence checks below before sending personal data, following a payment instruction, or visiting an office.",
+        ],
+      },
+      {
+        title: "Use 8171 for official BISP messages",
+        paragraphs: [
+          "BISP says 8171 is its official number and instructs beneficiaries not to trust programme messages from other numbers. In this context, 8171 is a messaging number or SMS short code—not a programme name, a payment amount, the BISP helpline, or proof that a household is eligible.",
+          "The BISP web portal contains 8171 in its host, but it is still a web address rather than an SMS sender. Likewise, a message that types '8171' in its body is not necessarily sent by 8171. Check the actual sender details on the phone. Even a genuine message route cannot guarantee eligibility or payment because the outcome depends on the household's BISP and NSER programme record.",
+        ],
+      },
+      {
+        title: "8171, 786, 5771, and 7181 compared",
+        paragraphs: [
+          "A number appearing beside BISP or Ehsaas in a search result does not prove that BISP owns or endorses it. Current BISP guidance identifies 8171—not a family of similar numbers—as its official messaging number. The safe conclusion is limited: 786, 5771, and 7181 do not match the number BISP confirms for programme messages.",
+          "This does not establish who controls every other number, and it would be inaccurate to label them all as scammer-owned. It means only that a BISP claim made through one of those numbers is unverified until BISP confirms it through its website, helpline, or office network.",
+        ],
+        table: {
+          caption: "Which number should you use for BISP?",
+          headers: ["Number or query", "Confirmed BISP status", "Safe action"],
+          rows: [
+            ["8171", "BISP identifies it as its official messaging number", "Use it only for the purpose described in current BISP guidance"],
+            ["786 web portal", "Not BISP's stated official messaging number", "Do not enter a CNIC or pay anyone; use the BISP-hosted portal"],
+            ["5771 check online", "Not BISP's stated official messaging number", "Treat a BISP claim from this number as unverified"],
+            ["7181 check online", "Not BISP's stated official messaging number", "Verify through BISP instead of trying similar number combinations"],
+          ],
+        },
+      },
+      {
+        title: "Do not confuse the 8171 number with the 8171 web portal",
+        paragraphs: [
+          "8171 is the official BISP messaging number; 8171.bisp.gov.pk is the current public web address. One is a communication channel and the other is a government-hosted web service. Verify the sender and destination independently because a genuine-looking number in a link does not prove the domain, and a genuine domain does not make a separate message sender official.",
+          "In a domain, read from the end: gov.pk is the government namespace, bisp.gov.pk identifies BISP, and 8171 is the subdomain used for this public service. The checked page displays a 13-digit CNIC field and an image-code field. It does not need a public username and password for this status lookup.",
+        ],
+        table: {
+          caption: "How to recognize each official BISP channel",
+          headers: ["Channel entity", "How to recognize it", "Purpose"],
+          rows: [
+            ["SMS or programme message", "The actual sender is 8171", "Official beneficiary communication"],
+            ["Public status check", "The address bar shows 8171.bisp.gov.pk", "CNIC and image-code status lookup"],
+            ["Complaint or query", "BISP helpline 0800-26477 or a BISP tehsil office", "Official assistance and grievance route"],
+          ],
+        },
+        links: [{ label: "Complete the official BISP CNIC status form", href: "/check-bisp-status-by-cnic-online/" }],
+      },
+      {
+        title: "Why old Ehsaas tracking addresses still appear",
+        paragraphs: [
+          "Older official Ehsaas and NSER material used pass.gov.pk tracking addresses, which is why searches such as 'Ehsaas tracking pass gov pk' and 'ehsas tracking pass.gov.pk' still appear. Associated Press of Pakistan reported ehsaastracking.pass.gov.pk as the Ehsaas 8171 web portal during the earlier Ehsaas period, while BISP's 2022 NSER guide documented 8171.pass.gov.pk.",
+          "Historical official use does not automatically make an old route the recommended current route. Programme administration, branding, and web infrastructure can change, while old articles, screenshots, bookmarks, and search suggestions remain visible. This guide does not claim a precise migration date because no direct migration notice was used. The current public route verified on August 14, 2026 is hosted on BISP's domain at 8171.bisp.gov.pk.",
+          "Ehsaas and BISP may still appear together in searches because Ehsaas-era services and BISP programme infrastructure overlapped. That historical connection is useful context, but current status decisions should start with a present BISP source rather than an archived address.",
+        ],
+        table: {
+          caption: "Historical Ehsaas routes versus the current BISP route",
+          headers: ["Source context", "Address", "Accurate framing"],
+          rows: [
+            ["Earlier Ehsaas tracking", "ehsaastracking.pass.gov.pk", "Historical Ehsaas status route reported by APP"],
+            ["BISP NSER guide (2022)", "8171.pass.gov.pk", "Historical government route documented in BISP guidance"],
+            ["Current check (August 14, 2026)", "8171.bisp.gov.pk", "Current public BISP-hosted status portal"],
+          ],
+        },
+      },
+      {
+        title: "How to verify any BISP number, message, or link",
+        paragraphs: [
+          "Verify the sender, destination, instruction, and requested data as four separate signals. A government logo, a video title, or a screenshot is easy to copy and is not enough. Start with the actual sender: BISP says official programme messages come from 8171. Then inspect any web destination before opening it or entering a CNIC.",
+          "Confirm important instructions against bisp.gov.pk, a named BISP notice, helpline 0800-26477, or a BISP tehsil office. Finally, examine the request. Stop if an unknown person asks for an OTP, bank PIN, account password, card information, mobile-wallet code, or payment for survey, approval, or release of support.",
+        ],
+        bullets: [
+          "Sender: check the number shown by the phone, not a number copied into the message body.",
+          "Destination: confirm the full host in the address bar before entering a CNIC.",
+          "Instruction: compare the claim with a current BISP source rather than a forward or old screenshot.",
+          "Requested data: never disclose authentication secrets or financial credentials to an unknown contact.",
+        ],
+        table: {
+          caption: "Official evidence versus an unverified signal",
+          headers: ["Signal", "Official evidence", "Unverified signal"],
+          rows: [
+            ["Sender", "8171", "A personal or different number claiming to be BISP"],
+            ["Web address", "Current BISP-hosted portal", "A lookalike, shortened, or unrelated domain"],
+            ["Fee", "BISP states that its survey is free", "Payment requested for survey, approval, or release"],
+            ["Source", "BISP portal, announcement, helpline, or office", "Forward, anonymous post, video title, or screenshot"],
+          ],
+        },
+        links: [{ label: "Learn the seven red flags of a fake BISP message", href: "/avoid-bisp-fraud/" }],
+      },
+      {
+        title: "What to do if you sent your CNIC to another number",
+        paragraphs: [
+          "Stop the conversation, share no additional credentials or payment, preserve the evidence privately, and contact BISP through an official route if the sender claimed to represent the programme. Sending a CNIC to an unknown number does not prove that a BISP record was altered, but it is still a privacy incident that should not be dismissed.",
+          "Save the sender number, message text, time, suspicious link, and a screenshot. Redact the CNIC before sharing evidence for help. Call BISP at 0800-26477 for a BISP-related complaint or query. If you also revealed a bank PIN, OTP, card detail, password, or mobile-wallet code, contact the relevant bank or financial provider immediately through the number on its official website or card.",
+        ],
+        bullets: [
+          "Do not reply or follow another link from the same conversation.",
+          "Do not share an OTP, bank PIN, password, card detail, or wallet code.",
+          "Preserve evidence without posting the CNIC publicly.",
+          "Contact BISP or the affected financial provider through a verified route.",
+        ],
+      },
+      {
+        title: "Which BISP route should you use now?",
+        paragraphs: [
+          "Choose the channel that matches the task. The current 8171 web portal handles the public online status lookup; the 8171 sender identifies official programme messages; and the BISP helpline or tehsil office handles complaints and queries. These routes are related, but they are not interchangeable.",
+        ],
+        table: {
+          caption: "The correct BISP route for each goal",
+          headers: ["Your goal", "Route to use"],
+          rows: [
+            ["Check BISP status online", "https://8171.bisp.gov.pk/"],
+            ["Recognize an official programme message", "Confirm the actual sender is 8171"],
+            ["Resolve a portal-loading problem", "Use the dedicated five-check troubleshooting guide"],
+            ["Complete the public CNIC form", "Use the step-by-step BISP status guide"],
+            ["Ask a complaint or programme query", "Call 0800-26477 or visit a BISP tehsil office"],
+          ],
+        },
+        links: [
+          { label: "Troubleshoot a portal that will not load or submit", href: "/8171-web-portal-not-working/" },
+          { label: "Check BISP status by CNIC online", href: "/check-bisp-status-by-cnic-online/" },
+          { label: "Confirm a BISP payment safely", href: "/bisp-8171-payment-balance-check-guide/" },
+        ],
+      },
+      {
+        title: "The safe rule for 8171, 786, and Ehsaas tracking",
+        paragraphs: [
+          "The official BISP number is 8171, and the current 8171 web portal is 8171.bisp.gov.pk. Based on current BISP guidance, 786, 5771, and 7181 are not alternate BISP messaging numbers. That is a verification decision, not a claim about who owns those numbers.",
+          "When an old Ehsaas tracking or pass.gov.pk result appears, treat it as historical context and return to the current BISP-hosted service. Verify the sender and destination separately, keep CNIC data private, and confirm any payment or survey instruction through BISP before acting.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "Is 786 an official BISP or Ehsaas number?", answer: "BISP identifies 8171 as its official messaging number. If 786 is presented as a BISP status or payment route, do not use it as an alternative without direct BISP confirmation." },
+      { question: "Are 5771 and 7181 BISP check numbers?", answer: "They do not match BISP's stated official messaging number. Verify through 8171, the BISP-hosted portal, helpline 0800-26477, or a tehsil office instead of trying number variations." },
+      { question: "What is the current official 8171 website?", answer: "The public CNIC status page verified on August 14, 2026 is https://8171.bisp.gov.pk/. Check that exact host in the address bar before entering personal data." },
+      { question: "Was 8171.pass.gov.pk an official address?", answer: "BISP's 2022 NSER guide documented that address. It is historical context; the current public route verified for this guide is hosted at 8171.bisp.gov.pk." },
+      { question: "What was ehsaastracking.pass.gov.pk?", answer: "It was reported as an Ehsaas-era tracking portal. Readers searching that old phrase should use the current BISP-hosted public portal rather than assume an archived route is still active." },
+      { question: "Can I trust a message that contains the number 8171?", answer: "Check the actual sender, not only the text inside the message. BISP programme communication should originate from 8171." },
+      { question: "What should I do after sending my CNIC to an unknown number?", answer: "Stop engaging, share no OTP or financial credentials, preserve the message privately, and contact BISP at 0800-26477 if the sender claimed to represent the programme." },
+    ],
+    officialLinks: [
+      { label: "Open the current 8171 public portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP notice confirming 8171", href: "https://www.bisp.gov.pk/NewsDetail/Njk4ZDI0MTAtYzdiMy00MDMwLTljNTItZjI3OWM2MGQ4OWYz" },
+      { label: "BISP survey-fee, fraud, and helpline notice", href: "https://www.bisp.gov.pk/NewsDetail/M2MzZDg0ZjctYjBkMS00YzQ1LTkwMjQtMmVhZWFiZDgyZmI0" },
+      { label: "BISP's 2022 NSER registration guide", href: "https://www.bisp.gov.pk/SiteImage/Misc/files/NSEREngUrdu_2022.pdf" },
+      { label: "Historical APP report on the Ehsaas portal", href: "https://www.app.com.pk/national/dr-sania-announces-opening-of-ehsaas-8171-web-portal/" },
+    ],
+  },
+  {
+    slug: "check-bisp-status-by-cnic-online",
+    title: "How to Check Your BISP Status by CNIC Online (2026 Method)",
+    excerpt: "Use the official 8171 portal to check BISP status by CNIC, understand the returned response, and follow the correct official next step.",
+    metaTitle: "Check BISP Status by CNIC Online: 2026 Steps",
+    metaDescription: "Use the official 8171 portal to check a BISP status by CNIC, understand the returned response, and follow the correct official next step.",
+    primaryCategory: "8171",
+    categorySlugs: ["8171", "bisp-registration", "news"],
+    date: "August 21, 2026",
+    lastChecked: "August 14, 2026",
+    readTime: "10 min read",
+    image: "/images/bisp-cnic-status-check.jpg",
+    imageAlt: "A user entering a CNIC and image code on the official BISP 8171 portal",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "Check BISP status by CNIC in four steps",
+        paragraphs: [
+          "To check BISP status by CNIC in 2026, open https://8171.bisp.gov.pk/, enter the CNIC of the person whose status you are checking, type the code shown in the image, and submit the public form. Save the exact response privately and follow its stated next step. This lookup checks an existing status; it does not register a household or approve a payment.",
+          "A BISP registration check by CNIC retrieves programme status using a Computerized National Identity Card. Final eligibility depends on the household record and programme criteria—not on how often the form is submitted.",
+          "Welfare Desk Pakistan does not collect or check CNICs. The routes in this guide were checked on August 14, 2026; enter personal data only on the verified BISP page.",
+        ],
+      },
+      {
+        title: "Use the official BISP CNIC-check page",
+        paragraphs: [
+          "The current public page is hosted at 8171.bisp.gov.pk and displays a 13-digit CNIC field plus an image-code field. Confirm that exact host in the address bar before typing personal information. Do not rely on a logo, embedded form, search advertisement, unofficial app, WhatsApp agent, or a page that only includes the phrase '8171 BISP gov pk.'",
+          "The public status form does not display a BISP login username and password. A separate service at 8171validation.bisp.gov.pk is a login page for a different purpose; it is not the public two-field CNIC form described here. Do not enter credentials there to perform an 8171 check online CNIC login in 2026 unless BISP has specifically authorized you to use that separate service.",
+        ],
+        links: [{ label: "Read the broader official 8171 eligibility guide", href: "/check-bisp-eligibility-8171/" }],
+      },
+      {
+        title: "How to check BISP registration status by CNIC online",
+        paragraphs: [
+          "The public BISP CNIC check requires the identity number and visible image code, not an account. Use a trusted device, submit once, and wait for the response.",
+          "Enter the 13-digit CNIC of the person whose status is being checked, review every digit, then copy the CAPTCHA or verification image into the second field. The code validates the form request, not programme eligibility.",
+        ],
+        bullets: [
+          "Open https://8171.bisp.gov.pk/ on a trusted phone or computer.",
+          "Confirm that the address bar shows the official BISP host before entering personal data.",
+          "Enter the 13-digit CNIC of the person whose BISP status you need to check.",
+          "Type the code displayed in the image into the verification-code field.",
+          "Submit once and allow the page time to return a response.",
+          "Write down the exact wording or save it privately without exposing the CNIC.",
+        ],
+      },
+      {
+        title: "How to understand the 8171 response",
+        paragraphs: [
+          "Treat the returned wording as the instruction for that lookup; do not compress different messages into one generic label. BISP may change interface wording, so this guide groups responses by meaning instead of inventing fixed labels such as 'active,' 'pending,' or 'under verification.' Save the exact message before choosing a next step.",
+        ],
+        table: {
+          caption: "Match the 8171 response to the correct official next step",
+          headers: ["Response category", "What it establishes", "Next-step direction"],
+          rows: [
+            ["Eligible or beneficiary wording", "The portal returned a positive programme-status response", "Follow the exact instruction and act on payment directions only through official BISP communication"],
+            ["No record", "No household or person record was returned for that lookup", "Use BISP's Benazir Registration Desk route"],
+            ["Survey, recertification, or office instruction", "An administrative step is required", "Follow the exact message at a BISP tehsil office or the named official channel"],
+            ["Error, blank page, or no result", "No usable status was returned", "Recheck both fields, retry later, or use the portal troubleshooting guide"],
+          ],
+        },
+      },
+      {
+        title: "Status check, registration, eligibility, and payment are different",
+        paragraphs: [
+          "A CNIC lookup retrieves information; registration records household data; eligibility applies BISP programme criteria; and payment is a later communication and disbursement process. Keeping these entities separate prevents the common mistake of treating the public portal as a BISP 8171 online registration form or assuming that checking repeatedly can release a payment.",
+          "NSER means National Socio-Economic Registry; its survey records household socioeconomic information. PMT means Proxy Means Test, which uses household indicators in welfare assessment. Benazir Kafaalat is one BISP programme, while 'Ehsaas' is not a universal current label for every response.",
+          "Here, online CNIC verification means a BISP status lookup—not general identity verification by NADRA, which manages CNIC identity records.",
+        ],
+        table: {
+          caption: "What each BISP action does—and does not do",
+          headers: ["Action or entity", "What it does", "What it does not do"],
+          rows: [
+            ["CNIC status check", "Retrieves a portal response", "Does not create, approve, or edit a household record"],
+            ["NSER survey", "Records household socioeconomic information", "Does not guarantee eligibility"],
+            ["PMT and programme decision", "Applies BISP welfare and programme criteria", "Is not decided by this website or by repeated lookups"],
+            ["Programme selection", "Identifies a qualifying beneficiary", "Does not itself confirm today's payment availability"],
+            ["Payment communication and disbursement", "Provides collection instructions and releases support", "Is not triggered by submitting the status form again"],
+          ],
+        },
+        links: [
+          { label: "See how NSER and the PMT score relate to eligibility", href: "/nser-pmt-score-check-guide/" },
+          { label: "Follow the separate BISP registration process", href: "/how-to-register-bisp-online-guide/" },
+        ],
+      },
+      {
+        title: "What to do when the portal shows no record",
+        paragraphs: [
+          "A no-record response is a completed lookup, not a website outage. BISP's published Kafaalat guidance says that when the 8171 portal returns no record, an adult household member may visit the nearest Benazir Registration Desk at a BISP tehsil office for a household survey.",
+          "The desk assesses whether the household needs a new NSER survey, a dynamic-registry update, or another step; this guide cannot promise the workflow or result.",
+          "Take the documents requested in current BISP guidance, keep any receipt or token, and answer survey questions accurately. Use the registration guide for the full document checklist.",
+        ],
+        links: [
+          { label: "Prepare for the no-record NSER survey route", href: "/how-to-register-bisp-online-guide/" },
+          { label: "Review documents for a BISP registration-desk visit", href: "/documents-for-bisp-registration/" },
+        ],
+      },
+      {
+        title: "What to do after an eligible or beneficiary response",
+        paragraphs: [
+          "Follow the exact portal instruction and wait for the official 8171 communication required for payment or collection. Do not travel to a payment centre only because of a forwarded message, social-media post, old screenshot, or a positive status from a previous payment cycle.",
+          "BISP identifies 8171 as its official messaging number. Confirm the actual sender and follow the current instruction. Take the original CNIC only to an authorized location and keep any receipt. Payment amounts, dates, and biometric requirements can vary by programme and cycle.",
+        ],
+        links: [{ label: "Check BISP payment status and collection guidance safely", href: "/bisp-8171-payment-balance-check-guide/" }],
+      },
+      {
+        title: "Protect your CNIC during an online BISP check",
+        paragraphs: [
+          "Enter a CNIC only on the verified BISP-hosted public form and keep the result private. A CNIC is sensitive personal data, and a portal screenshot may reveal both the identity number and programme information. Redact those details before sharing a screenshot with legitimate support.",
+          "BISP states that its survey is free and that 8171 is its only official messaging number. A fee for survey, approval, activation, or faster payment is a warning sign. Never paste a CNIC into comments, email, or chat.",
+        ],
+        bullets: [
+          "Confirm 8171.bisp.gov.pk before entering the 13-digit CNIC.",
+          "Do not share an OTP, bank PIN, account password, card detail, or mobile-wallet code.",
+          "Do not post an unredacted CNIC or portal response on social media.",
+          "Check the actual SMS sender rather than trusting '8171' written inside a message.",
+          "Do not pay anyone for the NSER survey or a promise of programme approval.",
+        ],
+        links: [
+          { label: "Verify 8171 versus 786 and other number claims", href: "/8171-786-ehsaas-tracking-official-number/" },
+          { label: "Avoid fake CNIC checkers and BISP messages", href: "/avoid-bisp-fraud/" },
+        ],
+      },
+      {
+        title: "If the CNIC form will not load or submit",
+        paragraphs: [
+          "Verify the official host and both form fields first. Reload the official page if the image code is unreadable, then try a private window or another current browser. If necessary, switch once between Wi-Fi and mobile data or use another trusted device. A validation message is different from a programme-status response.",
+          "If the page still fails, retry later or use 8171, helpline 0800-26477, or a BISP tehsil office. Never move the CNIC to an unofficial checker.",
+        ],
+        links: [{ label: "Run the five 8171 portal troubleshooting checks", href: "/8171-web-portal-not-working/" }],
+      },
+      {
+        title: "BISP CNIC check: quick action summary",
+        paragraphs: [
+          "For a BISP registration check by CNIC, use the official page, complete the two visible fields, save the returned wording, and take only the official next step. The CNIC identifies the lookup subject, the BISP portal performs the check, and the image code validates submission. Registration, eligibility, and payment remain separate processes.",
+          "People may also search for an Ehsaas program CNIC check online, online CNIC verification, or 8171 check online CNIC 2026. The safe current workflow is the same: start at the verified BISP host, protect the CNIC, and let the exact response—not an unofficial agent—determine the route that follows.",
+        ],
+        bullets: [
+          "Open the verified BISP public portal.",
+          "Enter the relevant 13-digit CNIC.",
+          "Enter the code shown in the image.",
+          "Submit once and wait for the response.",
+          "Save the exact wording privately.",
+          "Follow the relevant BISP status, registration, or payment route.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "How can I check my BISP status by CNIC online?", answer: "Open https://8171.bisp.gov.pk/, enter the relevant 13-digit CNIC and the image code, then submit. Save the exact response privately and follow the official next step it provides." },
+      { question: "Do I need a BISP username and password for the public CNIC check?", answer: "No. The current public page shows a CNIC field and an image-code field, not a public account login. Do not confuse a separate BISP login service with this status form." },
+      { question: "What does the image code mean on the 8171 portal?", answer: "It is a human-verification field used to submit the form. Enter the characters shown in the image; a validation failure is not an eligibility result." },
+      { question: "Does checking a CNIC online register a household for BISP?", answer: "No. The portal retrieves an available status. A new NSER survey or household update follows a separate BISP registration process." },
+      { question: "What does no record mean on the BISP portal?", answer: "It means the lookup completed but did not return an available record. BISP guidance directs an adult household member toward the nearest Benazir Registration Desk for the survey route." },
+      { question: "Does an eligible response mean a payment is ready?", answer: "Not necessarily. Follow the exact portal instruction and rely on official 8171 payment communication before traveling to a collection point." },
+      { question: "Is the BISP CNIC check the same as NADRA verification?", answer: "No. This is a BISP programme-status lookup using a CNIC. NADRA manages identity records and is a separate entity." },
+      { question: "What should I do if the public form does not load?", answer: "Verify the BISP host and both fields, test another browser or connection, and use the dedicated portal-troubleshooting guide. Never enter a CNIC on a third-party checker." },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 public portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP Kafaalat eligibility guidance", href: "https://www.bisp.gov.pk/SiteImage/Misc/files/KifalatEngUrdu_2022.pdf" },
+      { label: "BISP NSER registration guidance", href: "https://www.bisp.gov.pk/SiteImage/Misc/files/NSEREngUrdu_2022.pdf" },
+      { label: "BISP official-number, survey-fee, and helpline notice", href: "https://www.bisp.gov.pk/NewsDetail/M2MzZDg0ZjctYjBkMS00YzQ1LTkwMjQtMmVhZWFiZDgyZmI0" },
+      { label: "BISP Kafaalat programme information", href: "https://www.bisp.gov.pk/Detail/YTgzNjkxM2YtN2ViMC00MjA5LWI0MDMtNzM4ZWJmMGVlNzc5" },
+    ],
+  },
   {
     slug: "how-to-register-bisp-online-guide",
     title: "How to Register for BISP Online: Step-by-Step 2026 Guide",

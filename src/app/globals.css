@@ -1303,7 +1303,7 @@ h3 {
   font-weight: 650;
 }
 
-.article-byline span:first-child {
+.article-byline span {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -1447,6 +1447,71 @@ h3 {
   flex: 0 0 auto;
   margin-top: 4px;
   color: var(--green);
+}
+
+.article-table-wrap {
+  margin-top: 26px;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+
+.article-table-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 620px;
+  color: var(--copy);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.article-table-wrap caption {
+  padding: 14px 17px;
+  background: var(--mint-2);
+  color: var(--green-dark);
+  font-weight: 750;
+  text-align: left;
+}
+
+.article-table-wrap th,
+.article-table-wrap td {
+  padding: 14px 17px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-table-wrap th {
+  background: var(--navy);
+  color: var(--white);
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
+
+.article-table-wrap tr:last-child td {
+  border-bottom: 0;
+}
+
+.article-context-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.article-context-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--green-dark);
+  font-size: 0.88rem;
+  font-weight: 750;
+  text-decoration: underline;
+  text-decoration-color: #9ac7a9;
+  text-underline-offset: 4px;
 }
 
 .article-content .official-links {
