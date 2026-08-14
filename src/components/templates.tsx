@@ -110,7 +110,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
               <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>/</span><Link href={`/${article.categorySlugs[0]}/`}>{article.primaryCategory}</Link></nav>
               <span className="eyebrow">{article.primaryCategory}</span>
               <h1>{article.title}</h1>
-              <p>{article.excerpt}</p>
+              {article.showExcerpt !== false && <p>{article.excerpt}</p>}
               <div className="article-byline">
                 <span><CalendarDays size={16} /> Updated {article.date}</span>
                 {article.lastChecked && <span><ShieldCheck size={16} /> Official routes checked {article.lastChecked}</span>}
@@ -137,6 +137,13 @@ export function ArticleTemplate({ article }: { article: Article }) {
                 <h2>{section.title}</h2>
                 {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
                 {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /> <span>{bullet}</span></li>)}</ul>}
+                {section.subsections?.map((subsection) => (
+                  <div className="article-subsection" key={subsection.title}>
+                    <h3>{subsection.title}</h3>
+                    {subsection.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+                    {subsection.bullets && <ul>{subsection.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /> <span>{bullet}</span></li>)}</ul>}
+                  </div>
+                ))}
                 {section.table && (
                   <div className="article-table-wrap">
                     <table>

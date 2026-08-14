@@ -2,6 +2,11 @@ export type ContentSection = {
   title: string;
   paragraphs: string[];
   bullets?: string[];
+  subsections?: {
+    title: string;
+    paragraphs: string[];
+    bullets?: string[];
+  }[];
   table?: {
     caption?: string;
     headers: string[];
@@ -20,6 +25,7 @@ export type Article = {
   slug: string;
   title: string;
   excerpt: string;
+  showExcerpt?: boolean;
   metaTitle?: string;
   metaDescription?: string;
   primaryCategory: string;
@@ -142,6 +148,467 @@ export const categories: Category[] = [
 ];
 
 export const articles: Article[] = [
+  {
+    slug: "ehsaas-tracking-check-payment-status",
+    title: "Ehsaas Tracking: Check Your Payment Status",
+    excerpt: "For people searching for Ehsaas tracking, the 8171 system is the main digital route for checking information related to BISP assistance.",
+    showExcerpt: false,
+    metaTitle: "Ehsaas Tracking: Check Your Payment Status",
+    metaDescription: "For people searching for Ehsaas tracking, the 8171 system is the main digital route for checking information related to BISP assistance.",
+    primaryCategory: "Payment Check",
+    categorySlugs: ["payment-check", "8171", "benazir-kafaalat", "ehsaas-programs"],
+    date: "August 14, 2026",
+    lastChecked: "August 14, 2026",
+    readTime: "24 min read",
+    image: "/images/ehsaas-payment-tracking.jpg",
+    imageAlt: "A Pakistani woman checking an Ehsaas and BISP payment status on her phone",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "Ehsaas 8171 Portal and Payment Tracking",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "What the 8171 System Does",
+            paragraphs: [
+              "For people searching for Ehsaas tracking, the 8171 system is the main digital route for checking information related to BISP assistance. The current official 8171 web portal allows users to enter their CNIC number and verification code to check their household eligibility.",
+              "Although many people still call it the Ehsaas 8171 portal, the current official system is operated by the Benazir Income Support Programme (BISP). BISP identifies 8171 as its official number and warns beneficiaries not to trust messages from other numbers.",
+            ],
+          },
+          {
+            title: "Online Status Checking",
+            paragraphs: [
+              "The portal provides a simple way to check your status without first visiting a BISP office. You enter your 13-digit CNIC, complete the displayed verification, and submit the request. The result can help you determine whether your household is recorded as eligible and whether you need to take another step through the official BISP system.",
+            ],
+          },
+          {
+            title: "CNIC-Based Verification",
+            paragraphs: [
+              "Your CNIC is central to the 8171 checking process. It is used to identify your record and connect the request with the relevant BISP eligibility information. For this reason, enter your CNIC carefully and use only the official portal when checking sensitive beneficiary information.",
+            ],
+          },
+          {
+            title: "Eligibility and Payment Information",
+            paragraphs: [
+              "It is useful to separate eligibility checking from actual payment collection. The 8171 portal is primarily an eligibility and status-checking channel, while BISP uses designated payment mechanisms for disbursement. For example, the Benazir Kafaalat quarterly stipend was increased to Rs. 13,500 from January 2025.",
+              "For safety, always verify payment information through BISP's official channels. BISP states that 8171 is its only official number and that beneficiaries should report payment deductions or demands for fees through its official complaint channels.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "How to Check Ehsaas Payment Status Online",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Step 1: Open the Official 8171 Web Portal",
+            paragraphs: [
+              "Start by opening the official 8171 web portal rather than relying on a website shared through social media, WhatsApp, or an unknown link. The 8171 system is used for checking BISP-related eligibility information, and using the official portal helps you avoid incorrect or misleading status information.",
+              "On the portal, look for the CNIC checking section. You do not need to give your CNIC to a private agent just to check your status. Keep your original 13-digit CNIC number with you and make sure the information you enter matches your identity record.",
+            ],
+          },
+          {
+            title: "Step 2: Enter Your CNIC Number",
+            paragraphs: [
+              "Enter your 13-digit CNIC number carefully in the required field. Check each digit before submitting because a typing mistake can prevent the system from finding the correct record. Your CNIC is used to identify your household record and retrieve the relevant eligibility information.",
+              "Avoid entering your CNIC on unofficial websites that promise faster payments or guaranteed approval. A genuine status check should not require you to pay an agent or provide unnecessary sensitive information.",
+            ],
+          },
+          {
+            title: "Step 3: Complete the Verification",
+            paragraphs: [
+              "After entering your CNIC, complete the verification shown on the page. This may include an image or verification code designed to confirm that the request is being submitted normally. Once the required information is entered, submit the request and allow the system to process it.",
+              "If the information does not load correctly, do not repeatedly submit random details. First check your internet connection, confirm the CNIC number, and try the official portal again.",
+            ],
+          },
+          {
+            title: "Step 4: Check Your Payment Status",
+            paragraphs: [
+              "After verification, carefully read the result shown on the screen. Depending on your record, you may see information indicating eligible, payment released, payment pending, ineligible, or no record found. Each result means something different, so do not assume that an eligibility result automatically means cash is ready for collection.",
+              "If your payment is shown as released, follow the official BISP instructions for collection. If the status is pending or no record is found, recheck your information and use the appropriate BISP support channel rather than paying an agent who claims they can change the result.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "How to Check Ehsaas Payment Through SMS",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Check Ehsaas Status Using 8171 SMS",
+            paragraphs: [
+              "If you do not want to use the internet, 8171 SMS provides another way to check BISP-related information. Use the 13-digit CNIC number associated with your beneficiary record and send it through SMS to 8171. BISP identifies 8171 as its official number, so be cautious if someone asks you to send your CNIC to another number.",
+              "After sending the message, wait for the expected response from the official service. Depending on your record, the response may provide information about your eligibility or direct you toward the next step. Keep the SMS for reference if you need to verify the information later.",
+            ],
+          },
+          {
+            title: "What to Do If You Do Not Receive an SMS Reply",
+            paragraphs: [
+              "A missing response does not automatically mean that you are ineligible. Network problems, incorrect CNIC details, temporary system delays, or service congestion can prevent an immediate response. First, confirm that you entered the correct CNIC and sent the SMS to 8171.",
+              "If you still do not receive a response, try rechecking through the online portal instead of repeatedly sending messages. You can also use BISP's official support channels if the issue continues. Never pay an agent who claims they can obtain a response or change your eligibility status for a fee.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Ehsaas Payment Amount and Installment Information",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "How Much Is the Ehsaas/BISP Payment?",
+            paragraphs: [
+              "The payment amount depends on the specific BISP programme and the type of assistance you qualify for. For Benazir Kafaalat, the quarterly stipend is Rs. 13,500 for eligible beneficiaries. This is a quarterly payment, not a monthly payment, so beneficiaries should not assume that every BISP or Ehsaas-related programme follows the same payment schedule.",
+              "Other programmes may provide different amounts or payment types. For example, education-related support and other social protection initiatives can have separate eligibility rules and payment schedules. This is why it is better to check your specific programme and current payment status rather than relying on an old amount shared on social media.",
+            ],
+          },
+          {
+            title: "When Is the Next Ehsaas Installment Due?",
+            paragraphs: [
+              "The Benazir Kafaalat payment follows a quarterly cycle, but the exact release and collection arrangements can vary according to official announcements and payment arrangements. Before travelling to a payment center, check your latest 8171 status and make sure your payment has actually been released.",
+              "If your status shows that the installment is pending, wait for the official payment update instead of assuming that the money is already available. Checking first can save you an unnecessary trip and help you avoid unofficial agents who may claim that they can release your payment.",
+            ],
+          },
+          {
+            title: "Why Can Payment Amounts Differ Between Programs?",
+            paragraphs: [
+              "Not every payment associated with BISP or the broader Ehsaas ecosystem is the same. Benazir Kafaalat, Benazir Taleemi Wazaif, Benazir Nashonuma, and other assistance programmes have different purposes, eligibility requirements, and payment structures.",
+              "For this reason, always identify the programme connected to your record before comparing payment amounts. The Rs. 13,500 figure specifically relates to the quarterly Benazir Kafaalat stipend and should not be presented as a universal payment for every BISP beneficiary.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Ehsaas Kafalat and BISP Payment Tracking",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "What Is BISP Kafalat?",
+            paragraphs: [],
+            bullets: [
+              "Benazir Kafaalat is a major BISP social protection programme.",
+              "It provides cash assistance to eligible and deserving women from low-income households.",
+              "The programme uses household information and eligibility assessments to identify beneficiaries.",
+              "Eligible beneficiaries receive a quarterly stipend through designated payment channels.",
+              "BISP Kafalat is the current official terminology, although many people still search for it as Ehsaas Kafalat.",
+            ],
+          },
+          {
+            title: "Ehsaas Kafalat vs. Benazir Kafalat",
+            paragraphs: [],
+            bullets: [
+              "Ehsaas Kafalat is a commonly used search term connected with Pakistan's earlier Ehsaas Programme.",
+              "Benazir Kafaalat is the current BISP programme name used in official communications.",
+              "Both terms may appear when beneficiaries search for information about Kafaalat payments.",
+              "The terminology can differ between older online information and current BISP announcements.",
+              "When checking your payment, rely on the current BISP information rather than an outdated programme name.",
+            ],
+          },
+          {
+            title: "Other Programs You May See",
+            paragraphs: [],
+            bullets: [
+              "Emergency Cash — temporary financial assistance introduced for specific emergency situations.",
+              "Ehsaas Rashan — a subsidy-focused welfare initiative associated with the earlier Ehsaas framework.",
+              "Scholarships — education-related financial support for eligible children and students.",
+              "Benazir Taleemi Wazaif — education stipends linked to eligible BISP beneficiary families.",
+              "Benazir Nashonuma — support focused on maternal and child nutrition.",
+              "Other BISP/Ehsaas assistance programs may have separate eligibility requirements, payment amounts, and schedules.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "How to Check Ehsaas Eligibility",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Who Can Qualify for Ehsaas/BISP Assistance?",
+            paragraphs: [],
+            bullets: [
+              "Low-income households may be assessed for eligibility through the official BISP system.",
+              "Eligible women are the primary beneficiaries of Benazir Kafaalat cash assistance.",
+              "Vulnerable families may qualify depending on their household circumstances and official eligibility assessment.",
+              "Eligibility is not based on a single factor; household information and socioeconomic conditions are considered.",
+              "Your CNIC, household details, and information recorded through the BISP survey can affect the eligibility assessment.",
+              "The final decision should be verified through the official 8171 system rather than an agent or unofficial website.",
+            ],
+          },
+          {
+            title: "How CNIC Verification Works",
+            paragraphs: [],
+            bullets: [
+              "Your CNIC records help BISP identify and verify your beneficiary information.",
+              "NADRA information is used as part of the identity and household verification process.",
+              "Household information collected through the relevant survey helps determine socioeconomic status.",
+              "The NSER database provides important information used for social protection targeting.",
+              "Eligibility assessment can depend on the household data available in the official system.",
+              "If your information has changed, updating your household record may be necessary before your eligibility can be assessed again.",
+            ],
+          },
+          {
+            title: "How to Register for BISP/Ehsaas",
+            paragraphs: [],
+            bullets: [
+              "The registration process is handled through BISP's official registration and survey mechanisms.",
+              "The Dynamic Registry allows household information to be collected and updated.",
+              "A dynamic survey may be required when a household needs to enter or update its information.",
+              "Beneficiaries should provide accurate CNIC and household information during registration.",
+              "Updating household information is important when circumstances or family details change.",
+              "Depending on the case, you may need documents such as an original CNIC or other relevant family information.",
+              "BISP registration and survey services are free; do not pay an agent to complete the process.",
+              "After registration or an update, use the official 8171 system to check whether your information has been processed.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Ehsaas Payment Status Messages Explained",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "“Eligible”",
+            paragraphs: [
+              "When your 8171 result shows Eligible, it generally means your record meets the relevant programme requirements. However, eligibility does not always mean that your cash payment is immediately available. Check the result carefully to see whether a payment has also been released. If no payment is showing, wait for the official update before visiting a collection point.",
+            ],
+          },
+          {
+            title: "“Payment Released”",
+            paragraphs: [
+              "A Payment Released status generally means that an installment has been authorized for payment. Before travelling to a payment center, check the latest payment information and take your original CNIC with you. You may also need to complete biometric verification according to the official payment procedure. Never pay an agent to release a payment that has already been authorized.",
+            ],
+          },
+          {
+            title: "“Payment Pending”",
+            paragraphs: [
+              "If your status shows Payment Pending, the expected installment has not yet been made available for collection. This can happen because of payment processing, scheduled installment releases, or system updates. Check your 8171 status again after the relevant payment announcement, and avoid unnecessary visits to payment centers while the payment remains pending.",
+            ],
+          },
+          {
+            title: "“Ineligible”",
+            paragraphs: [
+              "An Ineligible result means your current record does not meet the relevant eligibility requirements. This may be related to household information, socioeconomic assessment, or programme criteria. If your circumstances have changed, contact BISP through an official channel to understand whether you can request reassessment or update your survey information. Never pay anyone who promises guaranteed approval.",
+            ],
+          },
+          {
+            title: "“No Record Found”",
+            paragraphs: [
+              "If 8171 shows No Record Found, the system could not locate the expected information using the submitted CNIC. First, check that your CNIC was entered correctly. If the information is correct, your registration or survey record may need to be completed or updated. In that situation, use an official BISP registration or support channel instead of relying on an unofficial agent.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "How to Collect Your Ehsaas/BISP Payment",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Where Can You Collect Your Payment?",
+            paragraphs: [
+              "Once your BISP payment has been officially released, you should collect it only through an authorized payment center or another payment channel designated by BISP. The exact collection method can depend on the current payment arrangements in your area. Always check your latest 8171 status or official BISP instructions before travelling.",
+              "Do not hand your CNIC to an unknown person or allow an unofficial agent to collect the payment on your behalf. If someone claims they can release your money faster for a fee, treat it as a warning sign.",
+            ],
+          },
+          {
+            title: "What Do You Need to Collect the Money?",
+            paragraphs: [
+              "You will generally need your original CNIC for identity verification. At the payment point, your identity may be confirmed through biometric verification before the payment is handed over. Keep your payment confirmation or relevant 8171 message available if required.",
+              "Before leaving the payment center, make sure you receive the correct amount and do not accept unexplained deductions. If an amount is deducted without a valid reason, report the issue through the official BISP complaint mechanism.",
+            ],
+          },
+          {
+            title: "What to Do If Your Biometric Verification Fails",
+            paragraphs: [
+              "If your biometric verification fails, do not assume that your payment has been cancelled. Fingerprint mismatches, identity-record issues, or technical problems can sometimes prevent successful verification. Follow the instructions provided by the authorized payment channel and try the verification process again where appropriate.",
+              "If the problem continues, contact BISP through its official support or complaint channels and explain the issue. Avoid paying intermediaries who claim they can bypass biometric verification or guarantee that your payment will be released.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Ehsaas Payment Problems and Their Solutions",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Payment Not Received",
+            paragraphs: [
+              "If your payment has not been received, first check your 8171 payment status to confirm whether the installment has been released. Sometimes payments are delayed because of processing schedules, system updates, or verification requirements. Make sure your eligibility is active and that you are checking information through official BISP channels.",
+              "If your status shows that payment has been released but you have not received it, contact the relevant support channel instead of relying on unofficial agents. Keep your CNIC and payment information available when reporting the issue.",
+            ],
+          },
+          {
+            title: "Payment Is Showing but Money Is Not Available",
+            paragraphs: [
+              "In some cases, the system may show that payment exists, but the money is not yet available for collection. This can happen because of payment processing delays, technical issues at the payment center, or temporary verification problems.",
+              "Wait for an official update and recheck your status through 8171 before making another visit. If the issue continues, report it through the official BISP support system and avoid anyone who asks for extra money to release the payment.",
+            ],
+          },
+          {
+            title: "CNIC Information Is Incorrect",
+            paragraphs: [
+              "Incorrect CNIC information can affect eligibility, payment verification, and beneficiary records. Errors may occur because of outdated information or differences between official records and household data.",
+              "If your personal or household information has changed, update the relevant records through the proper official process. After the update, check your status again through 8171 to confirm that the new information has been processed correctly.",
+            ],
+          },
+          {
+            title: "BISP Survey or Registration Problems",
+            paragraphs: [
+              "Some beneficiaries face issues because of missing records, incomplete surveys, or outdated household information. If your registration information is incomplete, your eligibility or payment status may not appear correctly in the system.",
+              "If needed, complete the required survey or update your household information through the official BISP process. After the update, use 8171 to recheck your eligibility and payment status rather than depending on unofficial sources.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Ehsaas Tracking Without Visiting a Government Office",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Use the 8171 Online Portal",
+            paragraphs: [
+              "The 8171 online portal makes it possible to check important BISP information from home. You can use the portal for online status checking, payment verification, and eligibility checking by entering your CNIC and completing the required verification. This can save time when you only need to confirm your current status and do not have a registration or documentation issue.",
+            ],
+          },
+          {
+            title: "Use 8171 SMS",
+            paragraphs: [
+              "If internet access is limited, 8171 SMS can be a convenient option for basic SMS-based tracking. Send your CNIC through the official 8171 service and wait for the response. This is particularly useful for beneficiaries who have limited access to the internet or find the online portal difficult to use.",
+            ],
+          },
+          {
+            title: "When You Still Need to Visit an Office",
+            paragraphs: [
+              "Not every issue can be resolved online or through SMS. You may need to visit a BISP office or an authorized registration center if you have registration issues, need data corrections, or face ongoing biometric problems. An office visit may also be necessary when you need to submit a complaint about a payment or resolve an unresolved case.",
+              "Before travelling, check the information available through official BISP channels and take your original CNIC and relevant documents with you. This can help staff identify your record and deal with the issue more efficiently.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "How to Avoid Ehsaas and BISP Payment Scams",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Beware of Fake Agents",
+            paragraphs: [
+              "Fake agents are a common risk for people trying to check or collect BISP payments. Be careful if someone claims they can increase your payment, release a pending installment, change your eligibility, or complete registration in exchange for money. Agents asking for fees, fake payment-release claims, and requests for CNIC information should be treated as warning signs.",
+              "BISP states that beneficiaries should use official channels and that messages from numbers other than 8171 should not be trusted. Registration and survey services are also provided without a fee.",
+            ],
+          },
+          {
+            title: "Never Share Sensitive Information",
+            paragraphs: [
+              "Keep your CNIC details, PINs, OTPs, and biometric information private. A genuine BISP representative should not ask you to disclose security information simply to check your payment status. Do not send photographs of your CNIC or sensitive codes to unknown WhatsApp numbers, social media accounts, or unofficial websites.",
+              "If someone asks for money before giving you access to a payment that is already showing as released, stop and verify the claim through an official BISP channel.",
+            ],
+          },
+          {
+            title: "How to Identify Official Ehsaas/BISP Information",
+            paragraphs: [
+              "For reliable information, look for official 8171 communication, the Government websites and official BISP announcements. Use authorized payment channels when collecting money and avoid information shared only through social media claims or unofficial websites.",
+              "A simple rule is to verify before you trust: check the official BISP source, confirm that the communication comes through the recognized 8171 channel, and never pay someone merely to check your eligibility or payment status.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Ehsaas Tracking for Women, Senior Citizens and Rural Families",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "Support for Eligible Women",
+            paragraphs: [
+              "Eligible women are a major beneficiary group under Benazir Kafaalat. For these beneficiaries, regular Kafaalat payments and payment verification can help confirm whether an installment has been released before travelling to a payment location. Once the payment is available, women should follow the official collection process and complete the required verification for safe collection. Checking the status through 8171 can also reduce dependence on intermediaries.",
+            ],
+          },
+          {
+            title: "Tracking Payments in Rural Areas",
+            paragraphs: [
+              "For people living in rural areas, online and SMS options can be especially useful when there is limited access to government offices or long travel distances. Beneficiaries can use the online and SMS options to check eligibility and payment information before travelling. When a payment has been released, use only authorized payment locations and follow the latest BISP instructions for collection.",
+            ],
+          },
+          {
+            title: "Support for Senior Citizens and Vulnerable Beneficiaries",
+            paragraphs: [
+              "Senior citizens and other vulnerable beneficiaries may need additional assistance when checking or collecting payments. Easier verification through official channels can help them understand their status before visiting a payment center. Family members or trusted individuals can assist with navigating the process when appropriate, but beneficiaries should remain careful with their personal information. Proper assistance with payment collection and awareness of official procedures can also help with avoiding exploitation by intermediaries.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Frequently Asked Questions",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "How can I check my Ehsaas payment status online?",
+            paragraphs: [
+              "You can check your status through the official 8171 web portal by entering your 13-digit CNIC number and completing the required verification. The result can show your eligibility or relevant payment information.",
+            ],
+          },
+          {
+            title: "How can I check Ehsaas payment through 8171 SMS?",
+            paragraphs: [
+              "Send your CNIC number through the official 8171 SMS service and wait for the response. Be cautious of messages from other numbers claiming to represent BISP.",
+            ],
+          },
+          {
+            title: "How much is the current BISP Kafaalat payment?",
+            paragraphs: [
+              "The current Benazir Kafaalat quarterly stipend is Rs. 13,500 for eligible beneficiaries. Other BISP programmes can have different payment amounts.",
+            ],
+          },
+          {
+            title: "How often is the Ehsaas/BISP payment issued?",
+            paragraphs: [
+              "The Benazir Kafaalat stipend is issued on a quarterly basis. Always check the latest official payment announcement because release and collection arrangements can vary.",
+            ],
+          },
+          {
+            title: "What does “payment pending” mean on 8171?",
+            paragraphs: [
+              "Payment pending generally means that the expected installment has not yet been made available for collection. Check the status again after an official payment release announcement.",
+            ],
+          },
+          {
+            title: "What should I do if my CNIC shows no record?",
+            paragraphs: [
+              "First, check that you entered your CNIC correctly. If the result still shows no record, your registration or survey information may need to be completed or updated through the official BISP process.",
+            ],
+          },
+          {
+            title: "Can I check my Ehsaas payment without visiting an office?",
+            paragraphs: [
+              "Yes. You can use the 8171 online portal or the official 8171 SMS service to check available eligibility and payment information without first visiting a BISP office.",
+            ],
+          },
+          {
+            title: "What should I do if my biometric verification fails?",
+            paragraphs: [
+              "If biometric verification fails, follow the instructions provided by the authorized payment channel and try again where appropriate. If the problem continues, contact BISP through an official support or complaint channel.",
+            ],
+          },
+          {
+            title: "Is there a fee for checking Ehsaas payment status?",
+            paragraphs: [
+              "No. You should not pay an agent simply to check your eligibility or payment status. BISP also states that its registration and survey services are free.",
+            ],
+          },
+          {
+            title: "How can I report a fake Ehsaas or BISP agent?",
+            paragraphs: [
+              "Do not give the person your money or sensitive information. Keep any relevant details or evidence and report the issue through the official BISP complaint mechanism. Never share your CNIC, PIN, OTP, or biometric information with an unauthorized person.",
+            ],
+          },
+        ],
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP notice confirming the official 8171 number", href: "https://www.bisp.gov.pk/NewsDetail/Njk4ZDI0MTAtYzdiMy00MDMwLTljNTItZjI3OWM2MGQ4OWYz" },
+      { label: "BISP Kafaalat Rs. 13,500 announcement", href: "https://www.bisp.gov.pk/NewsDetail/NzQ1NjM4M2ItZWY3Yy00ZDYxLWJlMzUtYTIxYWNiOWJhZjI1" },
+      { label: "BISP fraud, fee, and helpline notice", href: "https://www.bisp.gov.pk/NewsDetail/M2MzZDg0ZjctYjBkMS00YzQ1LTkwMjQtMmVhZWFiZDgyZmI0" },
+    ],
+  },
   {
     slug: "8171-web-portal-not-working",
     title: "8171 Web Portal Not Working? 5 Checks Before You Assume It Is Down (2026)",
