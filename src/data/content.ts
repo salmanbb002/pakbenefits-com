@@ -1924,7 +1924,7 @@ export const articles: Article[] = [
     lastChecked: "August 16, 2026",
     readTime: "11 min read",
     image: "/images/ehsaas-tracking-news.jpg",
-    imageAlt: "A Pakistani woman reading updated Ehsaas and BISP 8171 news on her mobile phone",
+    imageAlt: "A woman checking the latest government assistance updates on her smartphone at home",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -2022,7 +2022,7 @@ export const articles: Article[] = [
     lastChecked: "August 16, 2026",
     readTime: "9 min read",
     image: "/images/8171-register.jpg",
-    imageAlt: "A man texting his CNIC number to the 8171 SMS shortcode to check his BISP status",
+    imageAlt: "A man checking his government benefit status on a smartphone",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -2127,7 +2127,7 @@ export const articles: Article[] = [
     lastChecked: "August 16, 2026",
     readTime: "8 min read",
     image: "/images/bisp-login.jpg",
-    imageAlt: "A woman entering her CNIC and one-time password on the official BISP 8171 portal",
+    imageAlt: "Close-up of hands holding a smartphone while verifying an account with a one-time password",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -2228,7 +2228,7 @@ export const articles: Article[] = [
     lastChecked: "August 16, 2026",
     readTime: "9 min read",
     image: "/images/benazir-form.jpg",
-    imageAlt: "A BISP registration form and documents being reviewed at a tehsil office desk",
+    imageAlt: "A person signing government registration paperwork at an office desk",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -2350,7 +2350,7 @@ export const articles: Article[] = [
     lastChecked: "August 16, 2026",
     readTime: "8 min read",
     image: "/images/check-bisp-account-status.jpg",
-    imageAlt: "A Pakistani woman checking her BISP account and card status result on a smartphone",
+    imageAlt: "A woman in traditional attire checking her payment status on a smartphone",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
