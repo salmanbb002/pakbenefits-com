@@ -21,9 +21,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!title || !description) return {};
   const canonical = `/${slug}/`;
   const image = article?.image || "/images/hero-support.jpg";
+  const keywords = article ? [article.focusKeyword, ...article.lsiKeywords, ...article.entities] : undefined;
   return {
     title,
     description,
+    keywords,
     authors: article ? [{ name: article.author.name }] : undefined,
     alternates: { canonical },
     openGraph: article

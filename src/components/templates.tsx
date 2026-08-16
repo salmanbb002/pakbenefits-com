@@ -78,6 +78,9 @@ export function ArticleTemplate({ article }: { article: Article }) {
     editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },
     publisher: { "@type": "Organization", name: "Live Govt Schemes & Ehsaas Programs", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },
     mainEntityOfPage: `${siteUrl}/${article.slug}/`,
+    keywords: [article.focusKeyword, ...article.lsiKeywords].join(", "),
+    about: { "@type": "Thing", name: article.focusKeyword },
+    mentions: article.entities.map((name) => ({ "@type": "Thing", name })),
   };
 
   const faqSchema = article.faqs?.length
