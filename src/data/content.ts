@@ -196,6 +196,7 @@ export const articles: Article[] = [
             ],
           },
         ],
+        links: [{ label: "Read the latest Ehsaas tracking news for 2026", href: "/ehsaas-tracking-news/" }],
       },
       {
         title: "How to Check Ehsaas Payment Status Online",
@@ -954,7 +955,10 @@ export const articles: Article[] = [
           "The current public page is hosted at 8171.bisp.gov.pk and displays a 13-digit CNIC field plus an image-code field. Confirm that exact host in the address bar before typing personal information. Do not rely on a logo, embedded form, search advertisement, unofficial app, WhatsApp agent, or a page that only includes the phrase '8171 BISP gov pk.'",
           "The public status form does not display a BISP login username and password. A separate service at 8171validation.bisp.gov.pk is a login page for a different purpose; it is not the public two-field CNIC form described here. Do not enter credentials there to perform an 8171 check online CNIC login in 2026 unless BISP has specifically authorized you to use that separate service.",
         ],
-        links: [{ label: "Read the broader official 8171 eligibility guide", href: "/check-bisp-eligibility-8171/" }],
+        links: [
+          { label: "Read the broader official 8171 eligibility guide", href: "/check-bisp-eligibility-8171/" },
+          { label: "Why the portal has no username or password login", href: "/bisp-login-username-password/" },
+        ],
       },
       {
         title: "How to check BISP registration status by CNIC online",
@@ -1008,6 +1012,7 @@ export const articles: Article[] = [
         links: [
           { label: "See how NSER and the PMT score relate to eligibility", href: "/nser-pmt-score-check-guide/" },
           { label: "Follow the separate BISP registration process", href: "/how-to-register-bisp-online-guide/" },
+          { label: "Check your BISP account or card status", href: "/check-bisp-account-status/" },
         ],
       },
       {
@@ -1109,6 +1114,7 @@ export const articles: Article[] = [
           "A lot of confusion around BISP registration comes from expecting a single online form, like opening a bank account. In practice, registration runs through the National Socio-Economic Registry (NSER) survey, which BISP uses to calculate a household's Proxy Means Test (PMT) score. Your household either already has a survey record, needs a new one, or needs an existing one updated — and each path uses a different official channel.",
           "This guide walks through all three paths in order, so you can identify which one applies before you travel anywhere or fill out anything.",
         ],
+        links: [{ label: "Why 8171 itself does not register you", href: "/8171-register/" }],
       },
       {
         title: "Step 1: Check if a record already exists",
@@ -1905,6 +1911,544 @@ export const articles: Article[] = [
       },
     ],
     officialLinks: [{ label: "Find official BISP information", href: "https://www.bisp.gov.pk/" }],
+  },
+  {
+    slug: "ehsaas-tracking-news",
+    title: "Ehsaas Tracking News 2026: The Real Changes to BISP 8171 (And What They Mean for You)",
+    excerpt: "The real BISP 8171 changes in 2026 — portal updates, tighter CNIC checks, the NSER re-survey, and what a shifting payment schedule means for your status.",
+    metaTitle: "Ehsaas Tracking News 2026: BISP 8171 Changes",
+    metaDescription: "Latest Ehsaas tracking news for 2026: what changed on the 8171 web portal, SMS/CNIC verification, the NSER re-survey, and Kafaalat payments — and what to do next.",
+    primaryCategory: "Public Service News",
+    categorySlugs: ["news", "8171", "ehsaas-programs"],
+    date: "August 16, 2026",
+    lastChecked: "August 16, 2026",
+    readTime: "11 min read",
+    image: "/images/ehsaas-tracking-news.jpg",
+    imageAlt: "A Pakistani woman reading updated Ehsaas and BISP 8171 news on her mobile phone",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "Ehsaas vs. BISP — Clearing Up the Naming, Once",
+        paragraphs: [
+          "Ehsaas was the umbrella government initiative; BISP is the implementing statutory body running Kafaalat and related cash transfer programs. In everyday conversation and in older news coverage, “Ehsaas” and “BISP” are often used interchangeably, but they aren’t the same thing — Ehsaas set the policy direction, while BISP (the Benazir Income Support Programme) is the organization that actually registers applicants, runs the 8171 system, and disburses payments through Benazir Kafaalat, Benazir Nashonuma, and Taleemi Wazaif. When people search for “Ehsaas tracking” today, what they’re almost always trying to do is track a BISP payment or status through the 8171 portal.",
+        ],
+      },
+      {
+        title: "Timeline of 2026 Changes",
+        paragraphs: [
+          "As of August 2026, several updates have rolled out across the system rather than as a single overhaul. Here’s how they break down.",
+        ],
+        subsections: [
+          {
+            title: "Portal and interface changes",
+            paragraphs: [
+              "The 8171 web portal interface was updated to simplify the CNIC entry and status-check flow, reducing the number of steps between entering a CNIC and receiving a status result. The portal now displays a clearer status label — Eligible, Not Eligible, Under Process, or Blocked — instead of a generic message, which has cut down on confusion for first-time users.",
+            ],
+          },
+          {
+            title: "SMS and CNIC verification changes",
+            paragraphs: [
+              "Verification through the 8171 shortcode still relies on texting your CNIC number, but backend checks against the NADRA database have been tightened. This means a CNIC that doesn’t match current NADRA records — due to an expired card, a name mismatch, or an unreported change — is more likely to return an error or an “under process” result than it would have previously.",
+            ],
+          },
+          {
+            title: "NSER re-survey and eligibility criteria updates",
+            paragraphs: [
+              "The National Socio-Economic Registry (NSER) re-survey, which recalculates each household’s Poverty Score Card (PMT score), has continued into 2026 in various districts. Households that haven’t been re-surveyed in several years may see their eligibility status change once the resurvey reaches their area, in either direction. This is one of the most common reasons someone who was previously “Eligible” now sees a different status.",
+            ],
+          },
+          {
+            title: "Disbursement schedule and installment changes",
+            paragraphs: [
+              "Kafaalat’s quarterly payment cycle structure has stayed in place, but installment amounts and disbursement windows have been adjusted at points during 2026 in response to budget allocations. Beneficiaries should treat the “Under Process” status as a payment-cycle indicator, not a rejection, since installments are released in phases across different regions rather than all at once.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Who Is Affected — and Who Isn’t",
+        paragraphs: [
+          "The changes above mostly affect three groups: people whose CNIC details are outdated in NADRA’s system, households in areas where the NSER re-survey is actively taking place, and beneficiaries checking status mid-cycle before that quarter’s disbursement window opens. If your CNIC is current, your area’s re-survey hasn’t reached you yet, and you’re checking status outside a disbursement window, you’re unlikely to notice much difference from last year beyond the updated portal interface.",
+        ],
+      },
+      {
+        title: "What to Do If You’re Impacted",
+        paragraphs: [
+          "If your status has changed or you’re getting an unexpected result, the fastest path is to check your current status directly rather than relying on last year’s information. If your CNIC details are the issue, updating your NADRA record is the first step before anything on the BISP side will resolve. If you believe your PMT score is inaccurate after a resurvey, you can request a review at your local BISP Tehsil Office.",
+        ],
+        links: [{ label: "Check your current BISP account or card status", href: "/check-bisp-account-status/" }],
+      },
+      {
+        title: "“Register” vs. “Track” — Don’t Confuse the Two",
+        paragraphs: [
+          "A large share of the confusion around 8171 comes from mixing up two different actions: checking your existing status versus registering as a new applicant. Texting your CNIC to 8171 or checking the web portal only tells you where you currently stand — it does not register you or update your household’s information. Registration works differently.",
+        ],
+        links: [{ label: "See how 8171 registration actually works", href: "/8171-register/" }],
+      },
+    ],
+    faqs: [
+      {
+        question: "Is Ehsaas still active in 2026?",
+        answer: "Ehsaas as a standalone branding initiative is no longer the primary public-facing name; BISP continues to run the cash transfer programs — Kafaalat, Nashonuma, and Taleemi Wazaif — that Ehsaas originally introduced, and this is what “Ehsaas tracking” searches are typically looking for as of 2026.",
+      },
+      {
+        question: "What’s the difference between Ehsaas and BISP?",
+        answer: "Ehsaas was the umbrella policy initiative, while BISP is the statutory body that implements it. BISP runs the day-to-day programs, registration, and the 8171 system that people use to check their status.",
+      },
+      {
+        question: "How do I know if my BISP payment date changed?",
+        answer: "Check your current status through the 8171 SMS shortcode or web portal, since disbursement windows are released in phases by region rather than on a single fixed date. An “Under Process” result during your area’s active cycle usually means payment hasn’t been released yet, not that it’s been denied.",
+      },
+      {
+        question: "Is the 8171 portal down right now?",
+        answer: "The portal experiences occasional downtime during high-traffic periods, particularly right after a disbursement window opens. If the portal isn’t loading, the SMS shortcode is generally a reliable fallback for a quick status check.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official news and announcements", href: "https://www.bisp.gov.pk/" },
+    ],
+  },
+  {
+    slug: "8171-register",
+    title: "8171 Register: Does Texting Your CNIC Actually Sign You Up for BISP?",
+    excerpt: "No — texting your CNIC to 8171 does not register you for BISP. It only checks your existing status. Here’s how registration actually works.",
+    metaTitle: "8171 Register: Does Texting Your CNIC Sign You Up?",
+    metaDescription: "Texting your CNIC to 8171 checks your BISP status — it does not register you. Learn what “8171 register” really does and how to actually register for BISP.",
+    primaryCategory: "BISP Registration",
+    categorySlugs: ["bisp-registration", "8171", "nser-pmt-score"],
+    date: "August 16, 2026",
+    lastChecked: "August 16, 2026",
+    readTime: "9 min read",
+    image: "/images/8171-register.jpg",
+    imageAlt: "A man texting his CNIC number to the 8171 SMS shortcode to check his BISP status",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What 8171 Actually Is",
+        paragraphs: [
+          "8171 is both an SMS shortcode and a web portal, and it exists for one purpose: letting you check where you currently stand in BISP’s records. It is not an application form, an account signup process, or a registration channel. When you text your CNIC to 8171, or enter it on the web portal, you’re querying the NSER (National Socio-Economic Registry) database to see your current status — nothing more.",
+        ],
+      },
+      {
+        title: "Checking Eligibility vs. Registering — The Core Difference",
+        paragraphs: [
+          "This distinction is worth repeating because it’s the source of most confusion: checking your status via 8171 tells you what BISP already has on file for you; it does not add or change anything in that file. Registering is a separate, physical process that creates or updates your household’s record in the NSER database in the first place.",
+          "If you get “No Record Found,” texting or checking again won’t change anything. That result specifically means you need to go through actual registration, not a repeat status check.",
+        ],
+        table: {
+          caption: "What an 8171 check actually returns",
+          headers: ["Result you might see", "What it means"],
+          rows: [
+            ["Eligible", "Your household is registered and currently qualifies for a program (e.g., Kafaalat)"],
+            ["Not Eligible", "Your household is registered but its PMT/poverty score doesn’t currently meet the threshold"],
+            ["Under Process", "Your application or resurvey is registered but hasn’t been finalized yet"],
+            ["No Record Found", "Your CNIC isn’t in the NSER database — meaning you haven’t been registered at all"],
+          ],
+        },
+      },
+      {
+        title: "What Real Registration Requires",
+        paragraphs: [
+          "Registration happens through the NSER dynamic survey process, which is separate from 8171 entirely. It requires:",
+        ],
+        bullets: [
+          "A visit to your nearest BISP Tehsil Office, or a visit from an NSER enumerator during an active survey round in your area",
+          "Your original CNIC (and CNICs of household members where applicable)",
+          "Basic household information: income sources, assets, family size, and living situation",
+          "In some cases, a follow-up biometric or NADRA verification step",
+        ],
+      },
+      {
+        title: "How to Register for BISP/Ehsaas, Step by Step",
+        paragraphs: [],
+        bullets: [
+          "Confirm you’re not already registered — check your status via 8171 first, since re-registering an existing record isn’t necessary.",
+          "Locate your nearest BISP Tehsil Office, or check whether an NSER dynamic survey is currently active in your area.",
+          "Gather your documents — CNIC, and CNICs for household members if you’re registering a family.",
+          "Complete the household survey in person, either at the office or with a visiting enumerator.",
+          "Wait for your PMT/poverty score to be calculated — this determines eligibility, and it isn’t instant.",
+          "Check your status via 8171 after a few weeks to see whether your registration has moved from “Under Process” to a final result.",
+        ],
+      },
+      {
+        title: "How to Check Your Status via 8171",
+        paragraphs: [
+          "Once you’re registered, checking status is simple: text your CNIC number to the 8171 shortcode, or enter it on the 8171 web portal. This only confirms where your existing application or record stands.",
+        ],
+        links: [{ label: "Full breakdown of every BISP status result", href: "/check-bisp-account-status/" }],
+      },
+      {
+        title: "Common Mistakes People Make",
+        paragraphs: [],
+        bullets: [
+          "Assuming a text to 8171 counts as an application — it doesn’t; it’s a status check only.",
+          "Repeating the SMS check hoping the result changes — the result won’t change unless something in your actual record changes.",
+          "Registering more than once — this can create duplicate or conflicting records and slow down processing.",
+          "Using an outdated or unregistered mobile number for SMS-based checks, which can cause failed or delayed responses.",
+          "Not updating NADRA records first if your CNIC information is outdated, since BISP verifies against NADRA before finalizing anything.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "How can I register my name in 8171?",
+        answer: "You can’t register through 8171 itself — 8171 only checks status. Registration happens through the NSER dynamic survey, either at a BISP Tehsil Office or through a household visit by an enumerator during an active survey round.",
+      },
+      {
+        question: "Is 8171 free to use?",
+        answer: "Checking your status via the 8171 SMS shortcode is free of charge for standard network rates; it isn’t a paid service. Registration through the NSER survey process is also free — you should never be asked to pay to register or to receive a result.",
+      },
+      {
+        question: "What does “not eligible” mean on 8171?",
+        answer: "It means your household is already registered in the NSER database, but your calculated poverty score (PMT) doesn’t currently meet the threshold required for the program you’re checking.",
+      },
+      {
+        question: "Can I register without visiting an office?",
+        answer: "In most cases, no — registration requires either an in-person visit to a BISP Tehsil Office or a household visit from an NSER enumerator during an active dynamic survey in your area, since the process involves collecting household-level information that can’t be verified remotely.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+    ],
+  },
+  {
+    slug: "bisp-login-username-password",
+    title: "No Username, No Password: The Truth About Logging Into the BISP 8171 Portal",
+    excerpt: "There’s no username or password for the BISP 8171 portal. Access works through your CNIC and a one-time password sent to your registered mobile number.",
+    metaTitle: "BISP Login: No Username or Password Needed",
+    metaDescription: "The BISP 8171 portal has no username or password login. Access works with your CNIC and an OTP sent to your registered mobile number. Here’s the truth.",
+    primaryCategory: "8171 Eligibility & Status",
+    categorySlugs: ["8171", "payment-check", "ehsaas-programs"],
+    date: "August 16, 2026",
+    lastChecked: "August 16, 2026",
+    readTime: "8 min read",
+    image: "/images/bisp-login.jpg",
+    imageAlt: "A woman entering her CNIC and one-time password on the official BISP 8171 portal",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "How 8171 Portal Access Actually Works",
+        paragraphs: [
+          "Instead of a username-and-password account system, the 8171 portal verifies you using two pieces of information you already have: your CNIC number and a mobile-based OTP.",
+        ],
+        subsections: [
+          {
+            title: "CNIC as the identifier",
+            paragraphs: [
+              "Your CNIC number functions as your identifier in the system, similar to a username. BISP verifies applicant identity through NADRA’s CNIC database before returning any status or allowing portal access, which is why an outdated or mismatched CNIC record can block access even if you’re entering the correct number.",
+            ],
+          },
+          {
+            title: "OTP/SMS as the verification step",
+            paragraphs: [
+              "Instead of a password, the portal sends a one-time password to the mobile number registered against your CNIC. This OTP acts as your login credential for that single session — there’s nothing to remember or reset, but it also means access depends entirely on having your correct, registered mobile number available.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Step-by-Step: Accessing Your Status",
+        paragraphs: [],
+        bullets: [
+          "Go to the official 8171 web portal.",
+          "Enter your CNIC number (no dashes, digits only, in most versions of the portal).",
+          "Submit the request and wait for an OTP to arrive via SMS on your registered mobile number.",
+          "Enter the OTP when prompted.",
+          "View your status result — Eligible, Not Eligible, Under Process, or Blocked.",
+          "If you haven’t registered with BISP yet, none of this will return a result.",
+        ],
+      },
+      {
+        title: "Why There’s No Traditional Account System",
+        paragraphs: [
+          "BISP’s 8171 system was built for one-time status checks rather than ongoing account management, so a persistent username-and-password login was never part of the design. Using CNIC plus OTP instead of a stored password also reduces certain security risks — there’s no password to leak or reuse, and access is tied to a mobile number that’s already linked to your identity through NADRA.",
+        ],
+      },
+      {
+        title: "Troubleshooting Access Issues",
+        paragraphs: [],
+        bullets: [
+          "If the OTP isn’t received — wait a few minutes for network delay, then confirm your mobile number is the one currently registered with NADRA/BISP; if it’s outdated, the OTP is going to the wrong number.",
+          "If your CNIC isn’t recognized — double-check for typos, and confirm your CNIC hasn’t expired, since an expired CNIC can fail NADRA verification.",
+          "If your mobile number is wrong or unregistered — you’ll need to update it through NADRA or your BISP Tehsil Office before the OTP system will work for you.",
+          "If the portal times out repeatedly — this is often a server load issue rather than an account problem; try the SMS shortcode as a fallback instead of the web portal.",
+        ],
+      },
+      {
+        title: "Spotting Fake or Scam “BISP” Portals",
+        paragraphs: [
+          "Because BISP handles cash payments, it’s a common target for phishing attempts, and it’s worth knowing the warning signs.",
+        ],
+        bullets: [
+          "Anyone asking for your OTP over a phone call — the real system never requires you to read your OTP aloud to a person; it’s for portal entry only.",
+          "Non-official domains that resemble the real portal but use unusual URLs, extra characters, or unfamiliar extensions.",
+          "Requests for payment to “activate,” “speed up,” or “unlock” your status — legitimate registration and status checks are free.",
+          "Links sent via WhatsApp or SMS from unknown numbers promising to update your BISP details or increase your payment amount.",
+        ],
+        links: [{ label: "Review the full BISP fraud warning list", href: "/avoid-bisp-fraud/" }],
+      },
+    ],
+    faqs: [
+      {
+        question: "Why can’t I log into the BISP portal?",
+        answer: "Most access failures come down to three things: an unregistered or outdated mobile number, a CNIC that doesn’t match current NADRA records, or a temporary server issue during high-traffic periods. Confirming your mobile number is current with NADRA resolves the majority of these cases.",
+      },
+      {
+        question: "Is there a BISP mobile app?",
+        answer: "Access is primarily through the official web portal and the 8171 SMS shortcode; always verify any app claiming to be an official BISP app against the official portal before installing it, since fake apps have circulated in the past.",
+      },
+      {
+        question: "What if I don’t receive the OTP?",
+        answer: "Wait a few minutes in case of network delay, then confirm the mobile number linked to your CNIC is still active and correctly registered — if it’s changed, the OTP is being sent to a number you no longer have access to.",
+      },
+      {
+        question: "Can I check status without my CNIC?",
+        answer: "No — CNIC is the required identifier for both the SMS shortcode and web portal methods, since it’s how the system matches you to your NSER record.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP fraud, fee, and helpline notice", href: "https://www.bisp.gov.pk/NewsDetail/M2MzZDg0ZjctYjBkMS00YzQ1LTkwMjQtMmVhZWFiZDgyZmI0" },
+    ],
+  },
+  {
+    slug: "benazir-form",
+    title: "What Is the “Benazir Form”? Every Piece of BISP Paperwork Explained Simply",
+    excerpt: "There’s no single Benazir form. It usually means the NSER registration survey — plus separate Kafaalat, Taleemi Wazaif, and Nashonuma paperwork. Each one explained.",
+    metaTitle: "Benazir Form Explained: BISP Paperwork Guide",
+    metaDescription: "There is no single Benazir form. It usually means the NSER survey plus separate Kafaalat, Taleemi Wazaif, and Nashonuma paperwork. Every form explained simply.",
+    primaryCategory: "BISP Registration",
+    categorySlugs: ["bisp-registration", "nser-pmt-score", "benazir-kafaalat"],
+    date: "August 16, 2026",
+    lastChecked: "August 16, 2026",
+    readTime: "9 min read",
+    image: "/images/benazir-form.jpg",
+    imageAlt: "A BISP registration form and documents being reviewed at a tehsil office desk",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "There’s No Single “Benazir Form” — Here’s What People Actually Mean",
+        paragraphs: [
+          "The confusion is understandable — “Benazir” refers broadly to the Benazir Income Support Programme, and BISP runs several distinct programs under that name, each with its own paperwork and eligibility process. Someone searching for “the Benazir form” could mean the general household registration survey, the Kafaalat cash transfer enrollment, the Taleemi Wazaif education stipend application, or the Nashonuma nutrition program form — and each of these serves a different purpose.",
+        ],
+      },
+      {
+        title: "The Different BISP-Related Forms, Explained",
+        paragraphs: [],
+        table: {
+          caption: "Every piece of BISP paperwork at a glance",
+          headers: ["Form", "Purpose", "Who Needs It"],
+          rows: [
+            ["NSER / Dynamic Survey Form", "General household registration that creates or updates your record in the National Socio-Economic Registry", "Anyone not yet registered, or households needing a resurvey"],
+            ["Kafaalat Enrollment Form", "Enrollment into the core BISP cash transfer program", "Households whose NSER/PMT score meets the eligibility threshold"],
+            ["Taleemi Wazaif Form", "Education stipend application tied to school-going children", "Kafaalat-registered families with children enrolled in school"],
+            ["Nashonuma Form", "Nutrition support for pregnant/nursing women and young children", "Eligible households with a qualifying pregnant woman, nursing mother, or child under two"],
+          ],
+        },
+      },
+      {
+        title: "Each Form, Explained Simply",
+        paragraphs: [],
+        subsections: [
+          {
+            title: "NSER/Dynamic Survey form (general registration)",
+            paragraphs: [
+              "This is the foundational form — it’s what actually gets your household into BISP’s system in the first place. Without this, none of the program-specific forms below apply, since eligibility for all of them is calculated from your NSER/PMT score.",
+            ],
+          },
+          {
+            title: "Kafaalat enrollment form",
+            paragraphs: [
+              "Once your household is registered and your PMT score qualifies, Kafaalat enrollment is what activates the recurring quarterly cash transfer. This isn’t automatic — it’s a distinct step after registration, not a guaranteed follow-on.",
+            ],
+          },
+          {
+            title: "Taleemi Wazaif (education stipend) form",
+            paragraphs: [
+              "This applies specifically to families already receiving Kafaalat who have children of school-going age. It requires proof of school enrollment, and payments are typically tied to maintaining a minimum attendance level.",
+            ],
+          },
+          {
+            title: "Nashonuma (nutrition) form, if applicable to the reader",
+            paragraphs: [
+              "This targets a more specific group — pregnant women, nursing mothers, and children under two — within Kafaalat-eligible households, and is aimed at nutrition support rather than general income support.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Documents You’ll Need",
+        paragraphs: [
+          "Use this as a starting checklist before visiting a BISP Tehsil Office:",
+        ],
+        bullets: [
+          "Original CNIC (yours, and household members’ where relevant)",
+          "Form-B for children without their own CNIC",
+          "Proof of household income or lack thereof, where requested",
+          "Proof of school enrollment (for Taleemi Wazaif specifically)",
+          "Any prior BISP reference number or NSER survey ID, if you’ve been surveyed before",
+          "A working, currently active mobile number for OTP and SMS verification",
+        ],
+      },
+      {
+        title: "Where and How to Get and Submit It",
+        paragraphs: [
+          "All of these forms are handled at your nearest BISP Tehsil Office, or through a household visit from an NSER enumerator during an active dynamic survey round in your area. There’s no need to download or print a form yourself in advance — the office manages the paperwork directly as part of the in-person process, since it involves biometric and CNIC verification that can’t be completed remotely.",
+        ],
+      },
+      {
+        title: "Common Mistakes That Get Forms Rejected",
+        paragraphs: [],
+        bullets: [
+          "Submitting with an expired or mismatched CNIC that fails NADRA verification",
+          "Applying for a program-specific form (like Taleemi Wazaif) before Kafaalat enrollment is confirmed",
+          "Providing an inactive mobile number, which blocks OTP-based follow-up communication",
+          "Incomplete household information, especially around income sources or family size",
+          "Assuming a status check via 8171 counts as submission of any of these forms — it doesn’t",
+        ],
+        links: [{ label: "See how 8171 registration actually works", href: "/8171-register/" }],
+      },
+    ],
+    faqs: [
+      {
+        question: "Is the Benazir form free?",
+        answer: "Yes — registration and all program-specific enrollment forms (Kafaalat, Taleemi Wazaif, Nashonuma) are free. You should never be asked to pay a fee to submit, process, or expedite any of these forms.",
+      },
+      {
+        question: "Where do I get the Benazir form?",
+        answer: "You don’t download it yourself — it’s completed in person at a BISP Tehsil Office, or through an NSER enumerator during an active household survey in your area.",
+      },
+      {
+        question: "What documents go with the form?",
+        answer: "At minimum, your original CNIC, and Form-B for any children without their own CNIC. Program-specific forms like Taleemi Wazaif also require proof of school enrollment.",
+      },
+      {
+        question: "How long does processing take?",
+        answer: "Processing time varies by program and current survey activity in your district, but PMT score calculation and enrollment confirmation typically take several weeks rather than being instant — checking your BISP status via 8171 periodically is the best way to track progress.",
+      },
+    ],
+    officialLinks: [
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+    ],
+  },
+  {
+    slug: "check-bisp-account-status",
+    title: "Is Your BISP Card Active? How to Check Your Account Status in Minutes",
+    excerpt: "Check your BISP card or account status in minutes: 8171 SMS, the web portal, or the BISP helpline — plus what each status result really means.",
+    metaTitle: "Check BISP Account Status: SMS, Portal & Helpline",
+    metaDescription: "Check your BISP account or card status in minutes via 8171 SMS, the web portal, or the BISP helpline — plus what each status result actually means.",
+    primaryCategory: "Payment Check Guides",
+    categorySlugs: ["payment-check", "8171", "benazir-kafaalat"],
+    date: "August 16, 2026",
+    lastChecked: "August 16, 2026",
+    readTime: "8 min read",
+    image: "/images/check-bisp-account-status.jpg",
+    imageAlt: "A Pakistani woman checking her BISP account and card status result on a smartphone",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "Three Ways to Check Your BISP Account or Card Status",
+        paragraphs: [
+          "The fastest ways to check your BISP account or card status right now: text your CNIC to the 8171 SMS shortcode, enter it on the 8171 web portal, or call the BISP helpline and visit your local Tehsil Office. All three pull from the same underlying record, so pick whichever is fastest for you.",
+        ],
+        subsections: [
+          {
+            title: "Via 8171 SMS",
+            paragraphs: [
+              "Text your CNIC number (digits only, no dashes) to 8171. You’ll receive an automated SMS reply with your current status. This works on a basic mobile network connection and doesn’t require internet access, making it the most reliable fallback option.",
+            ],
+          },
+          {
+            title: "Via the 8171 web portal",
+            paragraphs: [
+              "Go to the official 8171 web portal, enter your CNIC, and complete OTP verification sent to your registered mobile number. The portal typically shows more detail than the SMS reply, including which program(s) you’re associated with.",
+            ],
+          },
+          {
+            title: "Via tehsil office or helpline",
+            paragraphs: [
+              "If SMS and the portal aren’t giving you a clear answer — or your CNIC/mobile number is outdated — visiting your nearest BISP Tehsil Office or calling the official helpline lets staff look up your record directly and flag any underlying issue (like a NADRA mismatch) that self-service tools can’t resolve.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "What Each Status Message Actually Means",
+        paragraphs: [
+          "“Under Process” should be treated as a payment-cycle indicator, not a rejection — Kafaalat installments are released in phases by region, so this status is common and often temporary during an active disbursement window.",
+        ],
+        table: {
+          caption: "BISP status messages and what they mean",
+          headers: ["Status", "What It Means"],
+          rows: [
+            ["Eligible", "Your household is registered and currently qualifies for the program you’re checking"],
+            ["Not Eligible", "Registered, but your PMT/poverty score doesn’t currently meet the threshold"],
+            ["Under Process", "Your application, resurvey, or current payment cycle hasn’t been finalized yet"],
+            ["Blocked", "Your account or card has been flagged, often for a verification mismatch or a compliance hold"],
+          ],
+        },
+      },
+      {
+        title: "My Card Shows Inactive or Blocked — Now What?",
+        paragraphs: [
+          "A blocked or inactive card usually comes down to one of a few specific causes:",
+        ],
+        bullets: [
+          "CNIC/NADRA mismatch — your CNIC has expired or its details no longer match NADRA’s records",
+          "Biometric verification failure — repeated failed attempts at an agent point or bank branch",
+          "Extended inactivity — no withdrawals over a long period can trigger an automatic hold",
+          "Flagged for review — as part of routine compliance checks during an NSER resurvey cycle",
+        ],
+        subsections: [
+          {
+            title: "What to bring to your Tehsil Office if this happens to you",
+            paragraphs: [
+              "Take your original, current CNIC; any prior BISP reference number or SMS/portal screenshot showing the blocked status; proof of your registered mobile number, in case it needs to be updated; and be prepared for a biometric re-verification on the spot.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "How Your NSER Score Connects to Your Status",
+        paragraphs: [
+          "Your status result isn’t arbitrary — it’s a direct output of your household’s PMT (poverty score) in the NSER database. A resurvey that updates your score can shift your status between checks, even if nothing changed on your end. If you’ve never been registered at all, none of the status checks above will return a meaningful result — understand how registration actually works first.",
+        ],
+        links: [
+          { label: "See how 8171 registration actually works", href: "/8171-register/" },
+          { label: "Full walkthrough of the OTP portal login", href: "/bisp-login-username-password/" },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Why is my BISP card blocked?",
+        answer: "Most blocks trace back to a CNIC/NADRA mismatch, a failed biometric verification attempt, extended inactivity, or a routine compliance flag during an active resurvey cycle. Visiting your Tehsil Office with your current CNIC is the fastest way to identify the specific cause.",
+      },
+      {
+        question: "How often is status updated?",
+        answer: "Status updates aren’t on a fixed daily schedule — they change when something in your underlying record changes, such as a resurvey result, a new disbursement cycle opening, or a manual review being completed.",
+      },
+      {
+        question: "Can I check status for someone else?",
+        answer: "You need that person’s own CNIC to run a status check, since the system matches CNIC to record directly; you can check on someone else’s behalf if you have their CNIC number and, for portal access, their registered mobile number for OTP.",
+      },
+      {
+        question: "What does “eligible” vs. “under process” mean?",
+        answer: "“Eligible” means your household currently qualifies for the program based on your latest PMT score. “Under process” means your application, resurvey, or current disbursement hasn’t been finalized yet — it’s a pending state, not a denial.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+    ],
   },
 ];
 
