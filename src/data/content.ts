@@ -3110,6 +3110,572 @@ export const articles: Article[] = [
       { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
     ],
   },
+  {
+    slug: "what-is-pmt-score",
+    title: "What Is PMT Score? BISP & Ehsaas Eligibility Explained",
+    excerpt: "PMT score is the number the government calculates from your NSER survey data to decide BISP and Ehsaas eligibility. Here's what it measures and how it's used.",
+    metaTitle: "What Is PMT Score? BISP & Ehsaas Eligibility",
+    metaDescription: "Learn what a PMT score is, how it's calculated from your NSER data, the eligibility bands it decides, and why it can change over time.",
+    focusKeyword: "what is pmt score",
+    lsiKeywords: ["pmt score calculation", "pmt score eligibility bands", "pmt score vs nser", "why is my pmt score high", "can pmt score be changed"],
+    entities: ["PMT score", "NSER", "BISP", "Ehsaas Programme", "Proxy Means Test"],
+    primaryCategory: "NSER & PMT Score",
+    categorySlugs: ["nser-pmt-score", "8171"],
+    date: "August 22, 2026",
+    lastChecked: "August 22, 2026",
+    readTime: "9 min read",
+    image: "/images/8171-number-verification.jpg",
+    imageAlt: "A household record being reviewed to explain how a PMT score determines BISP eligibility",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What the PMT Score Actually Measures",
+        paragraphs: [
+          "If you've been told your household \"failed\" a PMT score check, it helps to know exactly what that number is before worrying about what it means. PMT stands for Proxy Means Test, and it isn't a credit score or a bank rating — it's a poverty assessment tool built by the Government of Pakistan to estimate a household's financial condition without asking every family to prove income directly. The score comes from data already sitting in the National Socio-Economic Registry, or NSER, the same welfare-programme database that BISP and Ehsaas both draw from as part of Pakistan's wider social safety net.",
+          "In plain terms, the PMT score is the government's way of turning a household survey into one comparable number, so an eligibility assessment can happen at scale across millions of applicants rather than case by case. It's a scoring system, not a judgment — a low score simply signals more financial need than a high one.",
+        ],
+      },
+      {
+        title: "How the PMT Score Is Calculated",
+        paragraphs: [
+          "The second thing people usually want to know is what actually feeds into the number, and the honest answer is: more than most applicants expect. Household income and monthly income are the obvious inputs, but the formula also weighs family size, the number of dependents, housing conditions and housing type, utility consumption including electricity bills, property ownership, and whether the household has vehicles or land on record. Education levels and employment status of working members are factored in too, alongside recorded assets and any relevant special circumstances such as widowhood or disability.",
+          "None of this is published as a simple checklist you can total up yourself — the exact formula is treated as an internal government process, not a public calculator. That's a deliberate choice rather than an oversight: a fully public formula would make it easier for people to game the survey answers rather than report their situation honestly.",
+        ],
+      },
+      {
+        title: "PMT Score Eligibility Categories",
+        paragraphs: [
+          "Once the number is calculated, it's compared against bands that decide what, if anything, a household qualifies for. Guidance repeated across several sources places a score of 0 to 32 as fully eligible for cash support and Ehsaas Rashan subsidies, a score of 33 to 40 as partially eligible, generally limited to Utility Store subsidies rather than cash, and 41 and above as not eligible for either. The underlying rule is simple even if the exact cutoffs deserve independent confirmation: a lower PMT score means a higher chance of eligibility, while higher scores reduce approval chances.",
+          "Treat these specific numbers as a strong general guide rather than gospel — they show up consistently across independent sources, but BISP hasn't published them as a fixed public chart, so don't assume a household one point either side of a band will always be treated identically.",
+        ],
+      },
+      {
+        title: "Why Your PMT Score Might Be Higher Than Expected",
+        paragraphs: [
+          "A surprisingly high score doesn't always mean the survey was wrong on purpose — most of the time it traces back to information that's simply out of date. Outdated employment records are the most common culprit, followed by registered property the family no longer actually owns, sold assets that were never removed from the file, and unreported income changes after someone lost a job or a business closed. A deceased family member still linked to the household, old survey data that predates a real change in circumstances, shared meter readings that overstate one household's actual electricity use, and an inactive business still listed as active can all quietly push a score up.",
+          "Incorrectly included family income — for instance, counting a relative's earnings that don't actually support the household — shows up often too, alongside high electricity bills and registered vehicles that have since been sold. None of these are permanent; they're data problems, and data problems get fixed through an official record update rather than by disputing the score itself.",
+        ],
+      },
+      {
+        title: "Common Misunderstandings About the PMT Score",
+        paragraphs: [
+          "Does a lower score always mean approval? No — and this is genuinely the biggest misunderstanding among applicants. The PMT score is one part of eligibility assessment, not the whole decision; other verification steps still apply even to a household with a strong score. It's also worth being clear that there's no official method to manually increase or decrease your own score from home, and no legitimate way to speed it up through a middleman.",
+          "Any agent claiming they can perform manual score manipulation on your behalf is making a promise the system doesn't allow anyone to keep. It's also worth knowing that the permanence of scores is a myth in the other direction too — BISP doesn't show you the exact score as a number online; what you actually see when you check is an eligibility status only, not a raw figure to compare against your neighbor's.",
+        ],
+      },
+      {
+        title: "PMT Score vs. NSER: What's the Difference",
+        paragraphs: [
+          "These two terms get used almost interchangeably, but they're not the same thing. NSER — the National Socio-Economic Registry — is the underlying database that holds your household record details: the raw answers collected when a survey gathers information about your income, assets, and living situation. The PMT score is what comes out of that data — an assessment outcome calculated from the NSER record, not the record itself.",
+          "Put simply: NSER is the filing cabinet, and the PMT score is the number someone calculates after reading your file. Updating your NSER entry is what changes your PMT score — you can't change one without touching the other.",
+        ],
+      },
+      {
+        title: "Can Your PMT Score Change Over Time",
+        paragraphs: [
+          "Yes, and this cuts both ways — a score isn't locked in forever the moment it's first calculated. Household composition changes are the most common trigger: a new dependent, a family member's job loss, someone becoming newly widowed, or a new disability in the household can all justify a fresh look. Beyond individual circumstances, updated surveys, a formal re-verification, or a general NSER update rolled out across a district can shift scores even without anything changing on your end specifically.",
+          "If your circumstances have genuinely changed, the practical route is requesting a dynamic survey through your local BISP office rather than assuming the system will notice on its own. It's worth building a habit of checking your status periodically after any major life change, rather than only when a payment feels overdue.",
+        ],
+      },
+      {
+        title: "Why You Should Never Trust an Agent Who Offers to \"Fix\" Your Score",
+        paragraphs: [
+          "Because the PMT score genuinely can't be manually adjusted by an individual, anyone offering to do exactly that is describing a service that doesn't exist. Be especially wary of unofficial PMT score websites that ask you to enter your CNIC before showing a result — sharing your CNIC with a site that isn't the official portal is the actual risk, not the score itself. Paying agents who claim score-modification abilities, whether in person or through WhatsApp groups, is a documented scam pattern, because no private website has authority over an official government calculation.",
+          "The safe habit is simple: refuse any fee payments tied to your score, and use official BISP channels only — the 8171 portal and its SMS shortcode — for anything involving your actual result.",
+        ],
+        links: [
+          { label: "See the full NSER survey and PMT score walkthrough", href: "/nser-pmt-score-check-guide/" },
+          { label: "Learn how to avoid common BISP fraud tactics", href: "/avoid-bisp-fraud/" },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I lower my PMT score to qualify for the Ehsaas Program?",
+        answer: "Yes, but only by correcting genuinely inaccurate NSER information through your local BISP office — not by any shortcut. Scores are recalculated after your updated record is verified, so this is a data-correction process, not a manual score edit.",
+      },
+      {
+        question: "How long does a PMT score update or verification take?",
+        answer: "Some guides report a window of roughly 15 to 30 working days after you submit an update request, though this isn't an officially guaranteed timeframe — treat it as a rough expectation rather than a fixed deadline.",
+      },
+      {
+        question: "What documents do I need to request a PMT score correction?",
+        answer: "Typically your original CNIC, recent utility bills, an income affidavit if your employment status changed, B-Forms for children in the household, and any relevant certificate for special circumstances like widowhood or disability.",
+      },
+      {
+        question: "Can I calculate my own PMT score myself?",
+        answer: "No. The exact calculation formula isn't published, so there's no public calculator or checklist that will produce an accurate number — the only reliable output is the eligibility status shown after an official check.",
+      },
+      {
+        question: "Can an agent increase my PMT score for a fee?",
+        answer: "No individual or private website has the authority to modify an official PMT score. Anyone claiming otherwise, in person or through WhatsApp, is running a scam — report it rather than paying.",
+      },
+      {
+        question: "Does every applicant receive an individually calculated score?",
+        answer: "Yes. Each household gets its own assessment based on its own survey data, so two families in similar circumstances can still end up with different scores depending on what's actually on file for each.",
+      },
+      {
+        question: "Will my PMT score stay the same forever?",
+        answer: "No. It can change whenever your household's underlying NSER data changes, whether through a life event you report or a broader survey update in your area.",
+      },
+      {
+        question: "Can I see my exact PMT score as a number?",
+        answer: "No — official checks show your eligibility status (such as eligible or not eligible), not a raw numeric score to compare against anyone else's.",
+      },
+      {
+        question: "Does utility or mobile usage affect my PMT score?",
+        answer: "Indirectly, yes. High and consistent utility bills can be read as a sign of financial stability, which is one of several factors that can push a score upward.",
+      },
+      {
+        question: "Is the PMT score used for BISP only, or other programs too?",
+        answer: "The same NSER-based scoring system supports eligibility decisions across several Ehsaas-linked initiatives, not just core BISP cash assistance, though each programme applies its own thresholds.",
+      },
+      {
+        question: "What happens if my score falls in the partially eligible band?",
+        answer: "A score in that middle range generally limits you to specific support like Utility Store subsidies rather than direct cash assistance — confirm your exact entitlement through the official portal rather than assuming full benefits apply.",
+      },
+      {
+        question: "Can I apply again after being rejected due to a high PMT score?",
+        answer: "Yes. You can request a fresh survey once your circumstances or records have genuinely changed, and your case will be reassessed rather than permanently closed.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+    ],
+  },
+  {
+    slug: "benazir-sim-card",
+    title: "Benazir SIM Card 2026: Free Wallet SIM Guide",
+    excerpt: "The \"Benazir SIM card\" isn't a special product — it's a free Jazz or Telenor SIM registered to your CNIC that unlocks the BISP mobile wallet.",
+    metaTitle: "Benazir SIM Card 2026: Free Wallet SIM Guide",
+    metaDescription: "Learn what the Benazir SIM card really is, who needs to register for one, how to get it free at a Tehsil Office, and how wallet activation works.",
+    focusKeyword: "benazir sim card",
+    lsiKeywords: ["bisp free sim registration", "bisp social protection wallet", "jazz telenor sim bisp", "bisp wallet activation", "bisp sim tehsil office"],
+    entities: ["BISP", "Jazz", "Telenor", "JazzCash", "Easypaisa", "CNIC", "NADRA"],
+    primaryCategory: "Payment Check",
+    categorySlugs: ["payment-check", "benazir-kafaalat"],
+    date: "August 22, 2026",
+    lastChecked: "August 22, 2026",
+    readTime: "9 min read",
+    image: "/images/benazir-form.jpg",
+    imageAlt: "A BISP beneficiary registering for a free wallet SIM at a Tehsil Office counter",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What Is the \"Benazir SIM Card\"?",
+        paragraphs: [
+          "There isn't actually a special, branded Benazir SIM card you can order or apply for as a product — that's the first thing worth clearing up. What people mean by the term is a beneficiary's own regular mobile SIM (usually Jazz or Telenor), registered against her CNIC in BISP's records, which then becomes a verified mobile SIM tied to a digital account — the BISP Social Protection Wallet. Once that link is made, the wallet carries the household's quarterly installment directly to the beneficiary, working alongside partner services like JazzCash and EasyPaisa, and secured with biometric verification at registration.",
+          "This is a genuine shift away from the older system of BISP beneficiaries collecting cash in person: instead of chasing down physical notifications or standing at an ATM, the money simply sits in the mobile wallet until it's needed, as part of the wider push toward digitalizing government-to-person payments in Pakistan.",
+        ],
+      },
+      {
+        title: "Why BISP Introduced the Free SIM",
+        paragraphs: [
+          "The reasoning behind this shift traces back to years of genuine hardship at collection points. Beneficiaries have described long travel distances, crowded campsites, and hours of waiting just to collect a payment — conditions that also opened the door to illegal deductions by corrupt agents skimming a cut before handing over the cash. Moving to a wallet model tied to a Jazz or Telenor connection, issued at no cost, is meant to close that gap and support broader financial inclusion.",
+          "The rollout itself has been gradual rather than instant, expanding district by district over time. As part of onboarding, staff run biometric verification — checking fingerprints — for security and to prevent fraudulent access by anyone other than the authorized beneficiary, which is also why the old habit of waiting in campsite queues for a wallet deposit is gradually being phased out.",
+        ],
+      },
+      {
+        title: "Who Needs to Register for a SIM and Wallet",
+        paragraphs: [
+          "Not every beneficiary needs to do anything right now. Registration mainly applies if you've never received a Benazir SIM before, or if your household was added after the initial distribution round in your area. It's also worth knowing that completing a dynamic survey is not, by itself, enough to activate this — SIM and wallet registration is treated as a separate registration step entirely.",
+          "On the eligibility side, the underlying rules haven't changed just because a wallet is involved: your household still needs a Poverty Means Test score below the programme's threshold, no government employee or pensioner in the family, and a valid, non-expired CNIC. One detail specific to this step matters more than people expect — the SIM has to be registered in the beneficiary's own name, not a relative's, or the wallet link won't hold.",
+        ],
+      },
+      {
+        title: "8171 Portal vs. SIM and Wallet Registration",
+        paragraphs: [
+          "It helps to separate two things that get mixed up constantly. The 8171 portal exists to check eligibility and payment status only — it can tell you where your household stands, but it cannot issue you a SIM or set up a wallet on its own. Checking eligibility online first is still a sensible starting point before you travel anywhere.",
+          "Actually registering for the SIM and wallet, by contrast, is a physical, in-person process that happens at a Tehsil Office counter (or an equivalent BISP camp site), not through the website or an app. Think of the portal as your status check, and the office visit as the actual activation step — one doesn't substitute for the other.",
+        ],
+      },
+      {
+        title: "How to Get Your Free Benazir SIM: Step by Step",
+        paragraphs: [
+          "The process itself is straightforward once you know where to go. Head to your nearest BISP Tehsil Office or a designated camp site — not a random mobile shop — and bring your original CNIC along with your personal, current mobile phone. Staff will confirm your identity through biometric equipment, matching your thumbprints against the NADRA database before anything is issued.",
+          "Once that clears, you'll be handed a free Jazz or Telenor SIM at no cost, and BISP personnel typically assist with the wallet account setup and activation right there at the counter. Importantly, this whole path involves no app download, no online form, and no third-party agent at any stage — if someone offers to \"help\" outside an official office for a price, that's not how the real process works.",
+        ],
+      },
+      {
+        title: "How Wallet Activation Works After You Get Your SIM",
+        paragraphs: [
+          "Which wallet your money lands in depends entirely on which network your new SIM is on: Jazz SIMs link to JazzCash, while Telenor SIMs link to Easypaisa. There's one small technical detail worth knowing before you put the SIM away in a drawer — a newly issued line generally needs one call or SMS within 30 days to register genuine network activity, or it can lapse before it's even properly used.",
+          "Beyond that first activity check, activation itself is largely handled during your visit, often completed as part of the same biometric step that issued the SIM. There's no separate wallet-only appointment needed on top of the SIM registration itself.",
+        ],
+      },
+      {
+        title: "What Changes for You: Benefits of the Wallet System",
+        paragraphs: [
+          "Compared to the old cash-collection routine, the upside is fairly concrete. You skip the old payment-center queues entirely, and because the money moves digitally, there's no intermediary deduction shaving off part of your full payment amount before it reaches you. Funds sit safely for later use rather than needing to be collected and carried home in cash the same day.",
+          "The wallet also gives you round-the-clock access instead of waiting for a scheduled camp date, along with direct financial control for the woman whose name is on the record — not a male relative acting on her behalf. You'll also get an immediate SMS alert the moment a transfer actually lands, so you know it's there before you go anywhere to collect it.",
+        ],
+      },
+      {
+        title: "How to Withdraw or Check Your Wallet Status",
+        paragraphs: [
+          "Once funds are confirmed, withdrawal happens through several familiar channels: biometric ATMs, retail agents running JazzCash or Easypaisa services, or straightforward digital transfers if you'd rather use the balance for bill payments or money transfers than take out cash. None of these require a special trip back to a BISP office once the wallet itself is active.",
+          "To check your balance rather than withdraw, you have a few options: dial the relevant USSD code for your network, open the JazzCash or Easypaisa app directly, or call the BISP helpline with your CNIC ready if you'd rather speak to someone. There's no dedicated \"Benazir SIM\" app separate from these — the wallet lives inside the mobile-money apps you may already be using for other things.",
+        ],
+      },
+      {
+        title: "Troubleshooting Common SIM and Wallet Problems",
+        paragraphs: [
+          "Most reported problems trace back to a handful of familiar causes. An inactive wallet is usually just an unused SIM that never hit the 30-day activity mark; an unissued SIM despite a completed survey usually means the household hasn't visited a Tehsil Office for this specific step yet, since a survey alone doesn't trigger it. Incorrect network registration — a SIM linked to the wrong wallet type — is also a recurring, fixable issue rather than something permanent.",
+          "A failed fingerprint match, which comes up more often among elderly beneficiaries whose prints can be harder for scanners to read clearly, does not permanently block SIM issuance — staff can usually work around it with a re-attempt or an alternate verification step rather than turning someone away. If your registered SIM is lost entirely, visiting the Tehsil Office again with your CNIC to request a replacement is the standard fix, rather than trying to register a brand-new line from scratch.",
+        ],
+      },
+      {
+        title: "Staying Safe: Avoiding SIM and Wallet Scams",
+        paragraphs: [
+          "The most important rule is also the simplest: get your SIM only from designated BISP offices, and treat anyone else offering to hand you one — a stranger, an \"agent,\" or an unofficial stall — as a red flag. BISP has specifically warned beneficiaries to avoid unauthorized individuals or centres, to ignore unverified social media posts claiming special deals or shortcuts, and to rely on official sources only when checking what's actually true.",
+          "Registration itself is completely free, every time — there is no fee at a genuine BISP office or authorized franchise, so anyone asking for money at any stage is not following the real process. Beyond the SIM itself, keep your PIN confidential, ignore fraudulent SMS messages from numbers you don't recognize, and remember that these guidelines exist specifically to protect beneficiaries from fraud and misinformation — not as bureaucratic box-ticking.",
+        ],
+        links: [
+          { label: "See how to check your BISP account or card status", href: "/check-bisp-account-status/" },
+          { label: "Learn how to avoid common BISP fraud tactics", href: "/avoid-bisp-fraud/" },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Is the Benazir SIM card really free?",
+        answer: "Yes. The SIM itself and the biometric verification needed to register it are both provided at no cost through an official BISP office or Tehsil Office. Anyone asking for payment at this stage is not following the genuine process.",
+      },
+      {
+        question: "Can I use my existing SIM instead of getting a new one?",
+        answer: "Generally no — the programme issues a new Jazz or Telenor SIM specifically registered against your CNIC as part of this process, rather than converting an old number you already use for other purposes. If you're unsure about your specific situation, ask staff directly at your nearest BISP office.",
+      },
+      {
+        question: "What happens if my fingerprint doesn't match during verification?",
+        answer: "A failed match is common, especially among older beneficiaries, and does not permanently stop you from getting a SIM. Staff can usually resolve it with a re-attempt on the spot; if it continues to fail, a NADRA fingerprint update may be needed before trying again.",
+      },
+      {
+        question: "How will I know when a payment lands in my wallet?",
+        answer: "You'll receive an immediate SMS alert as soon as a transfer is credited to your JazzCash or Easypaisa-linked wallet, so there's no need to guess or repeatedly check.",
+      },
+      {
+        question: "Do I need a smartphone to use the BISP wallet?",
+        answer: "No. The system is designed to work on basic feature phones as well as smartphones, since it runs through standard mobile-network SIM functions rather than a dedicated app.",
+      },
+      {
+        question: "What's the difference between the 8171 portal and SIM/wallet registration?",
+        answer: "The 8171 portal only checks your eligibility and payment status online. Getting an actual SIM and activating a wallet is a separate, in-person process that has to happen at a Tehsil Office or BISP camp site.",
+      },
+      {
+        question: "Is there an official BISP wallet app I need to download?",
+        answer: "No. BISP does not run its own separate wallet app — the wallet functionality works through the JazzCash or Easypaisa apps tied to your registered SIM's network.",
+      },
+      {
+        question: "How do I check if my BISP wallet is active?",
+        answer: "You can dial your network's balance-check USSD code, open the JazzCash or Easypaisa app directly, or call the BISP helpline with your CNIC on hand.",
+      },
+      {
+        question: "What if I lose my registered Benazir SIM?",
+        answer: "Visit your Tehsil Office again with your original CNIC and request a replacement rather than trying to register a new line yourself — your wallet history is tied to your identity record, not just the physical SIM.",
+      },
+      {
+        question: "Who actually needs to register for a SIM and wallet?",
+        answer: "Mainly beneficiaries who've never received a Benazir SIM before, or households added to the programme after the initial rollout in their area. If you already have an active SIM and wallet, you generally don't need to repeat the process.",
+      },
+      {
+        question: "Why is my wallet still showing as inactive after I registered?",
+        answer: "The most common cause is a SIM that hasn't had any call or SMS activity within 30 days of issue, since the network requires that minimal usage to keep the line — and the wallet tied to it — active.",
+      },
+      {
+        question: "Is there a deadline to collect my Benazir SIM?",
+        answer: "Collection has been organized in phases by region, and specific cut-off dates have been announced for some areas at different times. Confirm the current deadline for your district directly at your local BISP office rather than relying on a date circulating on social media.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+    ],
+  },
+  {
+    slug: "bisp-card-check",
+    title: "BISP Card Check: Active, Blocked & Replacement Guide",
+    excerpt: "Check whether your BISP payment card is active or blocked, tell a card problem apart from an eligibility hold, and get a lost or damaged card replaced.",
+    metaTitle: "BISP Card Check: Active, Blocked & Replacement",
+    metaDescription: "Check if your BISP card is active or blocked, fix a lost or damaged card, and understand common ATM errors and replacement steps.",
+    focusKeyword: "bisp card check",
+    lsiKeywords: ["bisp card blocked", "bisp card lost replacement", "bisp debit card atm", "bisp card vs eligibility status", "bisp card digital wallet"],
+    entities: ["BISP", "HBL", "Bank Alfalah", "CNIC", "NADRA", "8171 web portal"],
+    primaryCategory: "Payment Check",
+    categorySlugs: ["payment-check", "benazir-kafaalat"],
+    date: "August 22, 2026",
+    lastChecked: "August 22, 2026",
+    readTime: "8 min read",
+    image: "/images/check-bisp-account-status.jpg",
+    imageAlt: "A BISP beneficiary checking whether their payment card is active at a bank ATM",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What Is a BISP Card and What Does \"Card Check\" Mean?",
+        paragraphs: [
+          "A BISP card is the physical payment card — often called a debit card — that some beneficiaries of the Benazir Income Support Programme use to withdraw their quarterly stipend from an ATM or bank counter instead of collecting cash directly at a payment camp. A \"card check\" usually means one of two different things depending on what you're actually asking: whether the card itself is active and working, or whether your linked CNIC record shows you're still eligible for the payment the card is meant to draw from. These aren't the same question, and mixing them up is the most common source of confusion in this space.",
+          "It helps to be clear up front: BISP itself has moved a large share of its disbursement toward CNIC-based biometric verification rather than requiring a physical card at all, so if you've never received one, that doesn't mean you're excluded — many beneficiaries never get a debit card and instead collect payments through a thumb scan at an agent counter.",
+        ],
+      },
+      {
+        title: "How to Check If Your BISP Card Is Active",
+        paragraphs: [
+          "The fastest way to know if a card is actually working is to try it — insert it at a partner-bank ATM (commonly HBL or Bank Alfalah) and check whether it accepts your PIN and shows a balance. If the machine rejects it outright or shows a blocked message, that's your answer immediately, without needing to visit an office first.",
+          "Beyond the card itself, it's worth separately confirming your underlying eligibility status is current, since a technically active card won't dispense anything if your CNIC record shows no payment has been released for the quarter. Checking both — the card and the CNIC record — before you travel to an ATM saves a wasted trip.",
+        ],
+      },
+      {
+        title: "How to Check Your BISP Card Status Online (8171 Portal & SMS)",
+        paragraphs: [
+          "Your card is tied to your CNIC record, so the same 8171 web portal you'd use for any BISP check also reflects whether a payment is ready for your card to draw. Open 8171.bisp.gov.pk, enter your 13-digit CNIC with no dashes, complete the on-screen captcha, and press submit — the result shows your current payment status within seconds.",
+          "If you don't have internet, send your CNIC as plain digits by SMS to the 8171 shortcode instead. Both routes pull from the same backend, so whichever is faster for you is fine — there's no advantage to checking both at once.",
+        ],
+      },
+      {
+        title: "Common BISP Card Status Results Explained",
+        paragraphs: [
+          "Whichever method you use, the result usually falls into one of a few categories: Eligible (with a payment ready), Not Eligible, Under Verification or Under Process, and occasionally an Incomplete Record message if your file is missing a required update. None of these results describe the physical card directly — they describe the account behind it.",
+          "If your status shows Eligible but your card still won't dispense cash at the ATM, the problem is very likely the card hardware or a PIN issue rather than your eligibility, and the fix is different — see the blocked-card section below rather than repeating a CNIC check.",
+        ],
+      },
+      {
+        title: "What to Do If Your BISP Card Is Blocked",
+        paragraphs: [
+          "A card most commonly gets blocked after several wrong PIN attempts at an ATM — this is a standard bank security measure, not something specific to BISP. If that's the cause, visit the branch of the bank that issued the card (HBL or Bank Alfalah, depending on which one you were assigned) to have your PIN reset.",
+          "If the card itself is fine but your payments have stopped reaching it, the more likely cause is on the eligibility side: an expired CNIC that hasn't been updated with NADRA, or a dynamic survey that's gone out of date. In that case, a Tehsil Office visit for re-verification — not a bank visit — is the right next step, since the bank can't fix an eligibility hold.",
+        ],
+      },
+      {
+        title: "Lost or Damaged BISP Card: How to Get a Replacement",
+        paragraphs: [
+          "If your card is lost, stolen, or physically damaged, report it at your nearest BISP Tehsil Office rather than a bank branch, since BISP issues and reissues these cards through its own registration network, sometimes in coordination with NADRA-linked centers. Bring your original CNIC — a photocopy won't be accepted for identity confirmation.",
+          "Beneficiaries who were previously disqualified and later found eligible again have also had cards restored or reissued through the same office-based process, so a \"new card\" request and a \"restore my old card\" request generally go through the same door. If your local office can't resolve it on the spot, the BISP helpline is the next step for tracking a replacement request.",
+        ],
+      },
+      {
+        title: "Withdrawing Cash With Your BISP Card at an ATM",
+        paragraphs: [
+          "Using the card at an ATM is mechanically similar to any bank card: insert it, enter your PIN, and select a cash withdrawal. Two practical snags come up often enough to mention — the machine showing no cash available (common early in the day before it's restocked; try again later or at a different ATM) and a transaction that shows a balance deducted without dispensing cash. In the second case, keep your receipt slip; banks typically reverse a failed dispense within two to three working days, and if it doesn't reverse, that's when you contact the bank or the BISP helpline directly.",
+          "Some collection points also use a biometric thumb scan as an added check alongside the card PIN, particularly at agent counters rather than standalone ATMs — this is a fraud-prevention step, not a sign anything is wrong with your card.",
+        ],
+      },
+      {
+        title: "BISP Card vs. Digital Wallet: What's Changing in 2026",
+        paragraphs: [
+          "BISP has been actively shifting part of its disbursement toward a digital wallet and SIM-linked model tied to a beneficiary's own mobile number, aimed at improving financial inclusion for households who never had a bank card or found ATMs difficult to use. This runs on rails similar to JazzCash or EasyPaisa, and for many households it's replacing the older physical-card route rather than running alongside it indefinitely.",
+          "This doesn't mean existing cards stop working overnight, but it does mean the physical debit card is gradually becoming one option among several rather than the default. If you're being offered a wallet enrollment at your next visit, it's worth asking whether it will replace or simply supplement your existing card.",
+        ],
+      },
+      {
+        title: "Staying Safe: Avoiding BISP Card Scams",
+        paragraphs: [
+          "No official BISP channel will ever ask you to pay a fee to activate, unblock, or replace a card — anyone making that claim, whether a self-described agent or a random caller, is running a scam. Never share your PIN or OTP with anyone, including someone claiming to work for a bank or BISP office, since real staff never need it read aloud to them.",
+          "Stick to official channels for any card issue — your Tehsil Office, the bank that issued the card, or the BISP helpline — and report suspicious calls or messages to the FIA Cybercrime Wing if someone pressures you for payment or personal details under the guise of \"fixing\" your card.",
+        ],
+        links: [
+          { label: "Learn about the free BISP wallet SIM alternative", href: "/benazir-sim-card/" },
+          { label: "Check your broader BISP account status", href: "/check-bisp-account-status/" },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do I need a BISP card to receive my payment?",
+        answer: "No. Many beneficiaries collect payments through CNIC-based biometric verification at an agent counter without ever being issued a physical card. A card is one collection method among several, not a requirement.",
+      },
+      {
+        question: "How do I know if my BISP card is blocked or just my eligibility is on hold?",
+        answer: "Try the card at an ATM first — if it's rejected outright, that's a card-level block, usually from repeated wrong PIN attempts. If the card is accepted but shows no funds, check your CNIC status through the 8171 portal or SMS to see if it's an eligibility hold instead.",
+      },
+      {
+        question: "Where do I report a lost or stolen BISP card?",
+        answer: "Report it at your nearest BISP Tehsil Office with your original CNIC. BISP handles card issuance and reissuance through its own registration network rather than the issuing bank alone.",
+      },
+      {
+        question: "Can I get my BISP card unblocked at any bank branch?",
+        answer: "Only if the block is a standard PIN-related bank lock — in that case, visit the branch of the specific bank (HBL or Bank Alfalah) that issued your card. If the underlying issue is an eligibility hold, a bank branch cannot fix it; you'll need a Tehsil Office visit instead.",
+      },
+      {
+        question: "How long does it take to get a replacement BISP card?",
+        answer: "Processing times vary by office and current workload, and there's no single official published turnaround. Ask your Tehsil Office for an expected timeframe when you report the loss, and follow up through the BISP helpline if it takes noticeably longer than promised.",
+      },
+      {
+        question: "What should I do if the ATM shows \"no cash available\"?",
+        answer: "This is usually a temporary restocking issue rather than a problem with your card or eligibility. Try again later in the day or at a different ATM before assuming anything is wrong with your account.",
+      },
+      {
+        question: "My balance was deducted but I didn't receive cash — what now?",
+        answer: "Keep your transaction slip. Banks typically reverse a failed dispense automatically within two to three working days. If the reversal doesn't happen, contact the issuing bank or the BISP helpline with your slip as proof.",
+      },
+      {
+        question: "Is the BISP card being replaced by a digital wallet?",
+        answer: "BISP has been expanding a digital wallet and SIM-linked option alongside the card system to improve access for beneficiaries without a bank card. Existing cards aren't disappearing overnight, but the wallet option is becoming more common at enrollment.",
+      },
+      {
+        question: "Do I need biometric verification even if I have a BISP card?",
+        answer: "At many collection points, yes — a thumb scan is used alongside the card PIN as an added identity check, particularly at agent counters. This is a fraud-prevention step, not an indication of a problem with your card.",
+      },
+      {
+        question: "Is there a fee to activate, unblock, or replace a BISP card?",
+        answer: "No. All of these services are free through official BISP and bank channels. Anyone asking for a fee to speed up or process a card request is not a legitimate representative.",
+      },
+      {
+        question: "What does \"Under Verification\" mean on my BISP status check?",
+        answer: "It means your file — not necessarily your card — is mid-review, often after a dynamic survey update or a routine re-verification cycle. It isn't a rejection, but it does mean you should recheck after a few days rather than assuming a payment is ready.",
+      },
+      {
+        question: "Can someone else use my BISP card on my behalf?",
+        answer: "The card and its PIN are tied to your own identity record, and biometric checks at many withdrawal points are designed specifically to prevent someone else from using it. Sharing your card and PIN with another person, even a family member, risks the withdrawal being flagged or blocked.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+    ],
+  },
+  {
+    slug: "bisp-id-card-check",
+    title: "BISP ID Card Check: Fix a Blocked CNIC Fast",
+    excerpt: "When a BISP check comes back wrong, the cause is often your CNIC itself, not your eligibility. Here's how to tell the two apart and fix an ID-card block.",
+    metaTitle: "BISP ID Card Check: Fix a Blocked CNIC Fast",
+    metaDescription: "Learn how an expired or flagged CNIC blocks a BISP check (Error 933), how to fix it at NADRA, and how long reactivation typically takes.",
+    focusKeyword: "bisp id card check",
+    lsiKeywords: ["bisp error 933", "expired cnic bisp payment", "bisp cnic blocked fix", "nadra cnic renewal bisp", "bisp duplicate registration flag"],
+    entities: ["BISP", "CNIC", "NADRA", "NSER", "8171 web portal"],
+    primaryCategory: "Payment Check",
+    categorySlugs: ["payment-check", "8171"],
+    date: "August 22, 2026",
+    lastChecked: "August 22, 2026",
+    readTime: "9 min read",
+    image: "/images/8171-register.jpg",
+    imageAlt: "A NADRA counter where a beneficiary renews an expired CNIC to fix a blocked BISP record",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What Is a BISP ID Card Check?",
+        paragraphs: [
+          "Most people land on this term after their regular BISP check comes back wrong, not before. A BISP ID card check is really a check on whether your CNIC itself — not your eligibility — is the reason your record won't show a payment. It's a narrower question than \"am I eligible,\" and it's worth separating the two before you assume the worst.",
+          "This matters because the two problems get fixed in completely different places. An eligibility problem gets resolved through a household survey or poverty-score reassessment. An ID-card problem gets resolved at NADRA, and only afterward does your BISP record catch up.",
+        ],
+      },
+      {
+        title: "Why Your ID Card (CNIC) Can Block a BISP Check",
+        paragraphs: [
+          "BISP has a strict rule baked into how it verifies every beneficiary: your CNIC must be valid. When an identification card expires, NADRA marks the record as lacking valid ID, and BISP's own system automatically suspends payments until that's fixed — the same logic behind Error 933, where a beneficiary's record gets flagged, suspended, or blocked inside the National Socio-Economic Registry (NSER) database. None of this is arbitrary. It exists to prevent fraud and to make sure only people who can currently prove their identity keep collecting funds, which is also why a card that's simply lapsed — not fake, not stolen, just expired — triggers the exact same block as a genuine identity problem would.",
+        ],
+      },
+      {
+        title: "Who This Problem Affects Most",
+        paragraphs: [
+          "This isn't evenly distributed. Elderly women over 60, widows who may be less familiar with renewal steps, people in rural areas with limited NADRA access, and daily wage workers who can't easily afford travel costs to a NADRA office all show up disproportionately in this category. Add to that a wider set of causes — expired CNICs, incomplete biometric verification, a PMT score reassessment, duplicate registrations, mobile number mismatches, legal holds, or even flagged deceased records — and any one of these can trigger a block, with simple lack of awareness of the expiration date often the real root cause rather than anything more serious.",
+        ],
+      },
+      {
+        title: "How to Check If Your CNIC Is Blocking Your BISP Record",
+        paragraphs: [
+          "Start with your phone: send your 13-digit CNIC without dashes by SMS to 8171, or dial 8171 from your registered number and follow the prompt. If the reply comes back as an Error 933 confirmation rather than a normal status, that's your signal — the problem sits with your record, not your eligibility. For more detail than SMS gives you, use the official web portal at bisp.gov.pk, enter your CNIC and the captcha code, and load the eligibility page to see a fuller explanation. In person, visiting your nearest BISP office for counter verification gets you the same answer face to face, and it's worth doing if you'd rather not guess at what an SMS code means on your own.",
+        ],
+      },
+      {
+        title: "Step-by-Step: Renewing an Expired CNIC for BISP",
+        paragraphs: [
+          "If an expired card turns out to be the cause, the fix starts at NADRA, not at BISP. Visit NADRA with your old card, your B-Form, and a passport photo. Standard renewal typically runs around Rs 300 and takes about 30 days; urgent processing costs more (commonly cited around Rs 750) and can be ready in roughly 7 working days — treat these figures as a general guide and confirm the current fee at your NADRA office, since rates do change. Once you have the new CNIC, submit a copy to your BISP Tehsil Office so staff can start reactivation, which several sources put at roughly 15–21 working days, though some cases move faster — allow 7–10 days at minimum before assuming nothing has happened. Keep your phone balance topped up and your SMS alerts active during this window, since that's often how you'll first learn the record has reactivated.",
+        ],
+      },
+      {
+        title: "Other ID-Linked Errors Beyond a Simple Expiry",
+        paragraphs: [
+          "An expired card isn't the only ID-related reason a check can fail. Incomplete biometric verification shows up when your fingerprint scan was never finished or didn't match — visiting an HBL Konnect agent or your Tehsil Office to complete a biometric reverification form with a fresh thumb impression usually clears this within 7–14 working days. A duplicate registration flag needs a written complaint requesting a duplicate record audit, which can take 21–30 working days to resolve once BISP verifies which record is genuine. If your case is actually a PMT score under review rather than an ID problem at all, you may be asked to complete a fresh household survey, with the system cross-checking against FBR data before anything changes. And a mobile number mismatch — checking from a number that isn't your registered one — is fixed with a simple written application for a mobile number update, typically processed in 5–10 working days.",
+        ],
+      },
+      {
+        title: "How Long Reactivation Takes, and Whether You Get Back Pay",
+        paragraphs: [
+          "Processing timelines vary by cause, which is exactly why it's worth knowing which one applies to you before you start counting days. The reassuring part: payments paused are not canceled — funds remain attached to your file rather than disappearing. What isn't guaranteed is a lump-sum catch-up: money due during the suspension period is not automatically paid in a lump sum, and getting anything owed for that window generally means formally requesting a payment arrears review at your Tehsil Office once your record is active again — recovery isn't guaranteed, and decisions tend to be made case by case. One documented case involved a widow whose payment stayed blocked for over a month even after her CNIC was renewed, resolved only after manual intervention at the BISP office; treat that as a real possibility worth planning for, not a fixed timeline you should expect.",
+        ],
+      },
+      {
+        title: "ID Card Problem vs. Genuine Eligibility Problem",
+        paragraphs: [
+          "It's easy to conflate the two, but they're not the same thing. Genuine eligibility depends on holding a valid, non-expired CNIC, belonging to a low-income family under BISP's poverty scoring, and being the primary beneficiary — usually a woman — on the household's record. An ID-card block, by contrast, can hit someone who is otherwise fully eligible and always has been; it's a paperwork and verification issue, not a judgment about whether your household still qualifies. That distinction matters practically too: fixing an ID problem doesn't require re-registration, since existing beneficiaries keep their underlying record — you're reactivating it, not starting over.",
+        ],
+      },
+      {
+        title: "How to Prevent This from Happening Again",
+        paragraphs: [
+          "The easiest fix is avoiding the problem in the first place. Renew your CNIC before it expires — NADRA generally sends SMS reminders around 60 days prior, so don't ignore those texts. Attend any biometric drives announced in your area rather than skipping them, keep your registered mobile number active, and get in the habit of checking your 8171 status monthly rather than only when a payment feels overdue. Households with more than one registration on file should also sort that out proactively, since duplicate household registrations are one of the more time-consuming problems to untangle after the fact.",
+        ],
+      },
+      {
+        title: "Where to Complain If Your ID Card Issue Isn't Resolved",
+        paragraphs: [
+          "If weeks have passed and nothing has moved, escalate rather than keep waiting. Contact the BISP helpline and confirm it's still current before relying on it. You can also use the bisp.gov.pk complaints portal, the Pakistan Citizen's Portal through the PM Pakistan app, or, for cases that genuinely stall past a reasonable point, the Federal Ombudsman's office. Whichever route you take, maintain documentation as you go — note down complaint numbers, officer names, and dates of each visit, since a paper trail is what actually moves a stuck case when you have to request payment-unblock assistance a second or third time.",
+        ],
+        links: [
+          { label: "Check your BISP status by CNIC step by step", href: "/check-bisp-status-by-cnic-online/" },
+          { label: "See the broader BISP account status check", href: "/check-bisp-account-status/" },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "What does BISP Error 933 mean exactly?",
+        answer: "Error 933 means your record in the National Socio-Economic Registry has been flagged, suspended, or blocked — most often because of an expired CNIC, incomplete biometric verification, a duplicate registration, or a mismatched mobile number.",
+      },
+      {
+        question: "My CNIC expired months ago. Will I lose the payments I missed?",
+        answer: "No — payments are paused, not canceled. Once your CNIC is renewed and your BISP record reactivates, the funds remain attached to your file, though a lump-sum catch-up isn't automatic and may need a formal arrears request.",
+      },
+      {
+        question: "Can someone else renew my CNIC for me?",
+        answer: "No. NADRA requires your physical presence for biometric verification during renewal, so you cannot send a family member or agent to do this on your behalf.",
+      },
+      {
+        question: "Can I still receive a payment while my record shows Error 933?",
+        answer: "No. An active Error 933 status means your record is suspended until the underlying cause — usually an ID or verification issue — is resolved and BISP reactivates it.",
+      },
+      {
+        question: "How do I find out which specific reason caused my error?",
+        answer: "The 8171 SMS reply or the official web portal at bisp.gov.pk will usually specify the cause; if it doesn't, a visit to your BISP Tehsil Office for counter verification will confirm exactly what's flagged.",
+      },
+      {
+        question: "Is there a fee to fix an ID-card-related BISP block?",
+        answer: "The fix itself through BISP is free. The only cost involved is NADRA's standard CNIC renewal fee if that's the underlying issue, which is separate from BISP and paid directly to NADRA.",
+      },
+      {
+        question: "I renewed my CNIC weeks ago but still haven't received payment. What should I do?",
+        answer: "Wait at least 7–10 days for the systems to sync, and if nothing changes after that, visit your Tehsil Office directly with your renewed CNIC and ask staff to check your reactivation status rather than continuing to wait.",
+      },
+      {
+        question: "Can Error 933 appear even if my CNIC is valid and my biometrics are current?",
+        answer: "Yes — a duplicate registration flag, a PMT score reassessment, or a mismatched mobile number can all trigger the same error independently of your CNIC's validity.",
+      },
+      {
+        question: "Is there a way to fix an ID card block without visiting an office?",
+        answer: "Some causes, like a mobile number update, can be started with a written application, but most ID-related fixes — CNIC renewal, biometric reverification, duplicate-record disputes — require an in-person visit to NADRA or your BISP Tehsil Office.",
+      },
+      {
+        question: "What's the difference between an ID card problem and being ruled ineligible?",
+        answer: "An ID card problem is a verification or paperwork issue that can affect someone who fully qualifies for BISP. Being ruled ineligible is a separate outcome tied to your household's poverty score, not your CNIC's status.",
+      },
+      {
+        question: "Do I have to register again if my ID card issue gets fixed?",
+        answer: "No. Reactivating an existing record after an ID-related fix does not require re-registration — your original registration stays on file.",
+      },
+      {
+        question: "What if my complaint isn't resolved after contacting the helpline?",
+        answer: "Escalate through the bisp.gov.pk complaints portal or the Pakistan Citizen's Portal, and for cases that remain unresolved well beyond a reasonable period, the Federal Ombudsman's office can review the case.",
+      },
+    ],
+    officialLinks: [
+      { label: "Open the official 8171 portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "BISP official website", href: "https://www.bisp.gov.pk/" },
+    ],
+  },
 ];
 
 export const informationPages: InformationPage[] = [
