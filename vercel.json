@@ -2,6 +2,16 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/bisp-payment-check-guide/:path*",
+      "destination": "/bisp-balance-check-by-cnic-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bisp-8171-payment-balance-check-guide/:path*",
+      "destination": "/bisp-balance-check-by-cnic-2026/",
+      "statusCode": 301
+    },
+    {
       "source": "/(.*)",
       "has": [
         {

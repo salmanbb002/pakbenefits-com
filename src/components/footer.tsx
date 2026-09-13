@@ -19,7 +19,7 @@ export function Footer() {
       <div className="shell footer-grid">
         <div className="footer-about">
           <Logo inverse />
-          <p>Live updates and clear, independent guides to government schemes, BISP 8171, and Ehsaas programs across Pakistan.</p>
+          <p>PakBenefits (pakbenefits.com), published as Live Govt Schemes &amp; Ehsaas Programs, provides independent guides to public support across Pakistan.</p>
           <div className="footer-trust"><ShieldCheck size={18} /> Not a government website</div>
         </div>
         <div>
@@ -31,6 +31,8 @@ export function Footer() {
             <Link href="/nser-pmt-score/">NSER & PMT score</Link>
             <Link href="/taleemi-wazaif/">Taleemi Wazaif</Link>
             <Link href="/other-schemes/">Other schemes</Link>
+            <Link href="/punjab-schemes/">Punjab schemes</Link>
+            <Link href="/what-is-bisp/">What is BISP?</Link>
             <Link href="/news/">News desk</Link>
           </nav>
         </div>
@@ -42,6 +44,8 @@ export function Footer() {
             <Link href="/privacy-policy/">Privacy policy</Link>
             <Link href="/terms-and-conditions/">Terms & conditions</Link>
             <Link href="/disclaimer/">Disclaimer</Link>
+            <Link href="/cnic-verification-guide/">CNIC verification</Link>
+            <Link href="/avoid-bisp-fraud/">Fraud prevention</Link>
           </nav>
         </div>
         <div>

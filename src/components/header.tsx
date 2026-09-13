@@ -72,6 +72,9 @@ export function Header() {
                 <Link href="/ehsaas-programs/">Ehsaas programmes</Link>
                 <Link href="/nser-pmt-score/">NSER & PMT score</Link>
                 <Link href="/other-schemes/">Other schemes</Link>
+                <Link href="/punjab-schemes/">Punjab schemes</Link>
+                <Link href="/what-is-bisp/">What is BISP?</Link>
+                <Link href="/cnic-verification-guide/">CNIC verification</Link>
                 <Link href="/about-us/">About us</Link>
               </div>
             </div>

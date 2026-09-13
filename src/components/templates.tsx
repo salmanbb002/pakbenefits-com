@@ -3,12 +3,53 @@ import Link from "next/link";
 import { ArrowLeft, ArrowUpRight, CalendarDays, CheckCircle2, ExternalLink, ShieldCheck, UserRound } from "lucide-react";
 import { ArticleCard } from "@/components/article-card";
 import { articles, categories } from "@/data/content";
-import type { Article, Category, InformationPage } from "@/data/content";
+import type { Article, Category, ContentSection, InformationPage } from "@/data/content";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
 
 function JsonLd({ data }: { data: object }) {
-  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }} />;
+}
+
+function Faqs({ items }: { items: NonNullable<Article["faqs"]> }) {
+  if (!items.length) return null;
+  return <>
+    <JsonLd data={{
+      "@context": "https://schema.org", "@type": "FAQPage",
+      mainEntity: items.map(({ question, answer }) => ({
+        "@type": "Question", name: question,
+        acceptedAnswer: { "@type": "Answer", text: answer },
+      })),
+    }} />
+    <section className="article-faqs">
+      <span className="eyebrow">Good to know</span>
+      <h2>Frequently asked questions</h2>
+      <div className="faq-list">{items.map(({ question, answer }) => (
+        <details key={question}><summary>{question}<span aria-hidden="true">+</span></summary><p>{answer}</p></details>
+      ))}</div>
+    </section>
+  </>;
+}
+
+function ContentSections({ sections }: { sections: ContentSection[] }) {
+  return sections.map((section, index) => (
+    <section id={`section-${index + 1}`} key={section.title}>
+      <h2>{section.title}</h2>
+      {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+      {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /><span>{bullet}</span></li>)}</ul>}
+      {section.subsections?.map((subsection) => <div className="article-subsection" key={subsection.title}>
+        <h3>{subsection.title}</h3>
+        {subsection.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+        {subsection.bullets && <ul>{subsection.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /><span>{bullet}</span></li>)}</ul>}
+      </div>)}
+      {section.table && <div className="article-table-wrap"><table>
+        {section.table.caption && <caption>{section.table.caption}</caption>}
+        <thead><tr>{section.table.headers.map((header) => <th scope="col" key={header}>{header}</th>)}</tr></thead>
+        <tbody>{section.table.rows.map((row) => <tr key={row.join("|")}>{row.map((cell, cellIndex) => <td key={`${cellIndex}-${cell}`}>{cell}</td>)}</tr>)}</tbody>
+      </table></div>}
+      {!!section.links?.length && <div className="article-context-links" aria-label="Related guides">{section.links.map((link) => <Link href={link.href} key={link.href}>{link.label}<ArrowUpRight size={15} /></Link>)}</div>}
+    </section>
+  ));
 }
 
 function breadcrumbSchema(trail: { name: string; path: string }[]) {
@@ -28,15 +69,22 @@ export function CategoryTemplate({ category, articles: categoryArticles }: { cat
   return (
     <main>
       <JsonLd data={breadcrumbSchema([{ name: "Home", path: "/" }, { name: category.shortName, path: `/${category.slug}/` }])} />
+      <JsonLd data={{ "@context": "https://schema.org", "@type": "CollectionPage", "@id": `${siteUrl}/${category.slug}/#collection`, url: `${siteUrl}/${category.slug}/`, name: category.name, description: category.metaDescription || category.intro, dateModified: category.date ? new Date(category.date).toISOString() : undefined, hasPart: categoryArticles.map((item) => ({ "@type": "Article", url: `${siteUrl}/${item.slug}/`, headline: item.title })) }} />
       <section className="page-hero category-hero">
         <div className="shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>/</span><span>{category.shortName}</span></nav>
           <span className="eyebrow">Programme guides</span>
           <h1>{category.name}</h1>
           <p>{category.intro}</p>
+          {category.date && <div className="article-byline"><span><CalendarDays size={16} /> Updated {category.date}</span>{category.author && <span><UserRound size={16} /> Written by {category.author.name}</span>}{category.reviewer && <span>Reviewed by {category.reviewer.name}</span>}</div>}
           <div className="official-reminder"><ShieldCheck size={19} /> Final eligibility and programme decisions always come from the responsible official organization.</div>
         </div>
       </section>
+      {!!category.sections?.length && <section className="section category-guide-section"><div className="shell"><div className="article-content category-guide" data-editorial-content>
+        <ContentSections sections={category.sections} />
+        <Faqs items={category.faqs || []} />
+        {!!category.officialLinks?.length && <section className="official-links"><h2>Sources and official links</h2><div>{category.officialLinks.map((link) => <a className="button" href={link.href} target="_blank" rel="noreferrer" key={link.href}>{link.label}<ExternalLink size={16} /></a>)}</div></section>}
+      </div></div></section>}
       <section className="section">
         <div className="shell">
           <div className="section-heading row-heading">
@@ -72,33 +120,22 @@ export function ArticleTemplate({ article }: { article: Article }) {
     headline: article.title,
     description: article.excerpt,
     image: `${siteUrl}${article.image}`,
-    datePublished: articleDate,
+    datePublished: new Date(article.publishedDate || article.date).toISOString(),
     dateModified: articleDate,
     author: { "@type": "Person", name: article.author.name, jobTitle: article.author.role },
     editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },
     publisher: { "@type": "Organization", name: "Live Govt Schemes & Ehsaas Programs", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },
     mainEntityOfPage: `${siteUrl}/${article.slug}/`,
     keywords: [article.focusKeyword, ...article.lsiKeywords].join(", "),
-    about: { "@type": "Thing", name: article.focusKeyword },
+    about: article.slug === "what-is-bisp"
+      ? { "@type": "GovernmentOrganization", "@id": "https://www.bisp.gov.pk/#organization", name: "Benazir Income Support Programme", alternateName: "BISP", url: "https://www.bisp.gov.pk/" }
+      : { "@type": "Thing", name: article.focusKeyword },
     mentions: article.entities.map((name) => ({ "@type": "Thing", name })),
   };
-
-  const faqSchema = article.faqs?.length
-    ? {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        mainEntity: article.faqs.map((item) => ({
-          "@type": "Question",
-          name: item.question,
-          acceptedAnswer: { "@type": "Answer", text: item.answer },
-        })),
-      }
-    : null;
 
   return (
     <main>
       <JsonLd data={articleSchema} />
-      {faqSchema && <JsonLd data={faqSchema} />}
       <JsonLd
         data={breadcrumbSchema([
           { name: "Home", path: "/" },
@@ -131,52 +168,14 @@ export function ArticleTemplate({ article }: { article: Article }) {
           <aside className="article-aside">
             <p className="aside-label">On this page</p>
             <nav>{article.sections.map((section, index) => <a href={`#section-${index + 1}`} key={section.title}>{section.title}</a>)}</nav>
-            <div className="aside-safe"><ShieldCheck size={20} /><strong>Privacy note</strong><span>We never ask for CNIC, OTP, PIN, or bank details.</span></div>
+            <div className="aside-safe"><ShieldCheck size={20} /><strong>Privacy note</strong><span>We never ask for CNIC, OTP, PIN, or bank details.</span><Link href="/avoid-bisp-fraud/">Recognize BISP scams</Link></div>
           </aside>
           <div className="article-content">
             <div className="independent-callout"><ShieldCheck size={23} /><div><strong>Independent guide</strong><p>This article explains public information. It does not determine eligibility or replace an official notice.</p></div></div>
-            {article.sections.map((section, index) => (
-              <section id={`section-${index + 1}`} key={section.title}>
-                <h2>{section.title}</h2>
-                {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
-                {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /> <span>{bullet}</span></li>)}</ul>}
-                {section.subsections?.map((subsection) => (
-                  <div className="article-subsection" key={subsection.title}>
-                    <h3>{subsection.title}</h3>
-                    {subsection.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
-                    {subsection.bullets && <ul>{subsection.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /> <span>{bullet}</span></li>)}</ul>}
-                  </div>
-                ))}
-                {section.table && (
-                  <div className="article-table-wrap">
-                    <table>
-                      {section.table.caption && <caption>{section.table.caption}</caption>}
-                      <thead><tr>{section.table.headers.map((header) => <th scope="col" key={header}>{header}</th>)}</tr></thead>
-                      <tbody>{section.table.rows.map((row) => <tr key={row.join("|")}>{row.map((cell, cellIndex) => <td key={`${cellIndex}-${cell}`}>{cell}</td>)}</tr>)}</tbody>
-                    </table>
-                  </div>
-                )}
-                {section.links && section.links.length > 0 && (
-                  <div className="article-context-links" aria-label="Related guides">
-                    {section.links.map((link) => <Link href={link.href} key={link.href}>{link.label} <ArrowUpRight size={15} /></Link>)}
-                  </div>
-                )}
-              </section>
-            ))}
-            {article.faqs && article.faqs.length > 0 && (
-              <section className="article-faqs">
-                <span className="eyebrow">Good to know</span>
-                <h2>Frequently asked questions</h2>
-                <div className="faq-list">
-                  {article.faqs.map((item) => (
-                    <details key={item.question}>
-                      <summary>{item.question}<span aria-hidden="true">+</span></summary>
-                      <p>{item.answer}</p>
-                    </details>
-                  ))}
-                </div>
-              </section>
-            )}
+            <div data-editorial-content>
+              <ContentSections sections={article.sections} />
+              <Faqs items={article.faqs || []} />
+            </div>
             <section className="official-links">
               <span className="eyebrow">Verify at the source</span>
               <h2>Sources and official links</h2>
@@ -230,6 +229,7 @@ export function InformationTemplate({ page }: { page: InformationPage }) {
                 <h2>{section.title}</h2>
                 {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
                 {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul>}
+                {section.links?.map((link) => <a className="text-link" href={link.href} key={link.href}>{link.label} <ArrowUpRight size={15} /></a>)}
               </section>
             ))}
           </div>

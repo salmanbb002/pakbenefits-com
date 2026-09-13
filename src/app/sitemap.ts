@@ -20,7 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/`, lastModified: newestArticleDate ?? new Date(), changeFrequency: "daily", priority: 1 },
     ...categories.map((category) => ({
       url: `${base}/${category.slug}/`,
-      lastModified: newestArticleDate ?? new Date(),
+      lastModified: category.date ? parseArticleDate(category.date) : newestArticleDate,
       changeFrequency: "weekly" as const,
       priority: 0.8,
     })),
@@ -32,7 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...informationPages.map((page) => ({
       url: `${base}/${page.slug}/`,
-      lastModified: new Date("2026-07-01"),
+      lastModified: page.date ? parseArticleDate(page.date) : new Date("2026-07-01"),
       changeFrequency: "monthly" as const,
       priority: 0.4,
     })),

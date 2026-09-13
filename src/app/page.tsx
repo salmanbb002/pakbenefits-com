@@ -147,7 +147,7 @@ export default function Home() {
               return (
                 <Link className="topic-card" href={`/${category.slug}/`} key={category.slug}>
                   <span className="topic-icon"><Icon /></span>
-                  <span className="topic-number">0{categories.indexOf(category) + 1}</span>
+                  <span className="topic-number">{String(categories.indexOf(category) + 1).padStart(2, "0")}</span>
                   <h3>{category.shortName}</h3>
                   <p>{category.description}</p>
                   <span className="card-link">View guides <ArrowRight size={15} /></span>

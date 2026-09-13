@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const category = categories.find((item) => item.slug === slug);
   const article = articles.find((item) => item.slug === slug);
   const infoPage = informationPages.find((item) => item.slug === slug);
-  const title = article?.metaTitle || article?.title || category?.name || infoPage?.title;
-  const description = article?.metaDescription || article?.excerpt || category?.intro || infoPage?.intro;
+  const title = article?.metaTitle || article?.title || category?.metaTitle || category?.name || infoPage?.title;
+  const description = article?.metaDescription || article?.excerpt || category?.metaDescription || category?.intro || infoPage?.intro;
   if (!title || !description) return {};
   const canonical = `/${slug}/`;
   const image = article?.image || "/images/hero-support.jpg";
@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
           siteName,
           type: "article",
           locale: "en_PK",
-          publishedTime: new Date(article.date).toISOString(),
+          publishedTime: new Date(article.publishedDate || article.date).toISOString(),
           modifiedTime: new Date(article.date).toISOString(),
           section: article.primaryCategory,
           tags: article.categorySlugs,

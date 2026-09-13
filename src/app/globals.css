@@ -1411,7 +1411,8 @@ h3 {
   font-size: 0.88rem;
 }
 
-.article-content > section {
+.article-content > section,
+[data-editorial-content] > section {
   scroll-margin-top: 130px;
   margin-bottom: 52px;
 }
@@ -1428,6 +1429,7 @@ h3 {
 }
 
 .article-content > section > p,
+[data-editorial-content] > section > p,
 .info-page-body section > p {
   font-size: 1.01rem;
   line-height: 1.8;
@@ -2297,4 +2299,13 @@ h3 {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
   }
+}
+
+.category-guide { max-width: 850px; margin-inline: auto; }
+.category-guide-section { padding-bottom: 0; }
+.category-guide .article-table-wrap { overflow-x: auto; }
+.info-page-body a { overflow-wrap: anywhere; }
+
+@media (max-width: 840px) {
+  .article-hero-image { margin-inline: calc((100vw - 100%) / -2); }
 }

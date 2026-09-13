@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PakBenefits//Editorial Review//EN
+BEGIN:VEVENT
+UID:monthly-content-review@pakbenefits.com
+DTSTAMP:20260913T000000Z
+DTSTART;VALUE=DATE:20261001
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:PakBenefits official-source and content review
+DESCRIPTION:Review docs/seo/review-calendar.csv and follow content-maintenance.md.
+END:VEVENT
+END:VCALENDAR
