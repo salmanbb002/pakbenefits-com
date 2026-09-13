@@ -19,7 +19,7 @@ const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/cs
 const server = createServer(async (req, res) => {
   try {
     const url = new URL(req.url, 'http://localhost');
-    const rule = config.redirects.find(rule => rule.statusCode === 301 && (url.pathname === rule.source.replace('/:path*', '') || url.pathname.startsWith(rule.source.replace(':path*', ''))));
+    const rule = config.redirects.find(rule => rule.statusCode === 301 && url.pathname === rule.source);
     if (rule) { res.writeHead(301, { Location: rule.destination }); res.end(); return; }
     let file = resolve(output, '.' + decodeURIComponent(url.pathname));
     if (file !== output && !file.startsWith(output + sep)) { res.writeHead(403); res.end(); return; }
@@ -44,8 +44,8 @@ try {
   check(mime404.status === 404, 'Nonexistent URL did not return 404');
   for (const path of retired) {
     check(!urls.includes(path), `${path}: retired URL in sitemap`);
-    check(config.redirects.some(rule => rule.source === path.slice(0, -1) + '/:path*' && rule.destination === retained && rule.statusCode === 301), `${path}: missing explicit Vercel 301`);
     for (const variant of [path, path.slice(0, -1)]) {
+      check(config.redirects.some(rule => rule.source === variant && rule.destination === retained && rule.statusCode === 301), `${variant}: missing explicit Vercel 301`);
       const response = await fetch(base + variant, { redirect: 'manual' });
       const destination = new URL(response.headers.get('location') || '/', base).pathname;
       check(response.status === 301 && destination === retained, `${variant}: ${live ? 'live' : 'local modeled'} redirect failed (${response.status})`);
@@ -104,8 +104,8 @@ try {
     if (articles.some(a => a.slug === source?.slug)) {
       check(!!articleSchema, `${path}: missing Article schema`);
       check(articleSchema?.author?.name === source.author.name, `${path}: author mismatch`);
-      check(articleSchema?.datePublished === new Date(source.publishedDate || source.date).toISOString(), `${path}: publication date changed`);
-      check(articleSchema?.dateModified === new Date(source.date).toISOString(), `${path}: modified date mismatch`);
+      check(articleSchema?.datePublished === new Date(`${source.publishedDate || source.date} UTC`).toISOString(), `${path}: publication date changed`);
+      check(articleSchema?.dateModified === new Date(`${source.date} UTC`).toISOString(), `${path}: modified date mismatch`);
     }
     for (const link of result.links) {
       if (!link.startsWith('/') || link.startsWith('//')) continue;

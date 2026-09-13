@@ -1,10 +1,11 @@
 import type { MetadataRoute } from "next";
+import { contentDateIso } from "@/lib/content-date";
 import { articles, categories, informationPages } from "@/data/content";
 
 export const dynamic = "force-static";
 
 const parseArticleDate = (value: string) => {
-  const parsed = new Date(value);
+  const parsed = new Date(contentDateIso(value));
   return Number.isNaN(parsed.getTime()) ? undefined : parsed;
 };
 

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { contentDateIso } from "@/lib/content-date";
 import { notFound } from "next/navigation";
 import { ArticleTemplate, CategoryTemplate, InformationTemplate } from "@/components/templates";
 import { allInternalSlugs, articles, categories, getArticlesForCategory, informationPages } from "@/data/content";
@@ -36,8 +37,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
           siteName,
           type: "article",
           locale: "en_PK",
-          publishedTime: new Date(article.publishedDate || article.date).toISOString(),
-          modifiedTime: new Date(article.date).toISOString(),
+          publishedTime: contentDateIso(article.publishedDate || article.date),
+          modifiedTime: contentDateIso(article.date),
           section: article.primaryCategory,
           tags: article.categorySlugs,
           images: [{ url: image, alt: article.imageAlt }],

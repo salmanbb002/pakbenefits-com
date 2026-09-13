@@ -4,6 +4,7 @@ import { ArrowLeft, ArrowUpRight, CalendarDays, CheckCircle2, ExternalLink, Shie
 import { ArticleCard } from "@/components/article-card";
 import { articles, categories } from "@/data/content";
 import type { Article, Category, ContentSection, InformationPage } from "@/data/content";
+import { contentDateIso } from "@/lib/content-date";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
 
@@ -69,7 +70,7 @@ export function CategoryTemplate({ category, articles: categoryArticles }: { cat
   return (
     <main>
       <JsonLd data={breadcrumbSchema([{ name: "Home", path: "/" }, { name: category.shortName, path: `/${category.slug}/` }])} />
-      <JsonLd data={{ "@context": "https://schema.org", "@type": "CollectionPage", "@id": `${siteUrl}/${category.slug}/#collection`, url: `${siteUrl}/${category.slug}/`, name: category.name, description: category.metaDescription || category.intro, dateModified: category.date ? new Date(category.date).toISOString() : undefined, hasPart: categoryArticles.map((item) => ({ "@type": "Article", url: `${siteUrl}/${item.slug}/`, headline: item.title })) }} />
+      <JsonLd data={{ "@context": "https://schema.org", "@type": "CollectionPage", "@id": `${siteUrl}/${category.slug}/#collection`, url: `${siteUrl}/${category.slug}/`, name: category.name, description: category.metaDescription || category.intro, dateModified: category.date ? contentDateIso(category.date) : undefined, hasPart: categoryArticles.map((item) => ({ "@type": "Article", url: `${siteUrl}/${item.slug}/`, headline: item.title })) }} />
       <section className="page-hero category-hero">
         <div className="shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>/</span><span>{category.shortName}</span></nav>
@@ -109,7 +110,7 @@ export function CategoryTemplate({ category, articles: categoryArticles }: { cat
 export function ArticleTemplate({ article }: { article: Article }) {
   const primaryCategorySlug = article.categorySlugs[0];
   const primaryCategory = categories.find((category) => category.slug === primaryCategorySlug);
-  const articleDate = new Date(article.date).toISOString();
+  const articleDate = contentDateIso(article.date);
   const relatedArticles = articles
     .filter((candidate) => candidate.slug !== article.slug && candidate.categorySlugs.some((slug) => article.categorySlugs.includes(slug)))
     .slice(0, 3);
@@ -120,7 +121,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
     headline: article.title,
     description: article.excerpt,
     image: `${siteUrl}${article.image}`,
-    datePublished: new Date(article.publishedDate || article.date).toISOString(),
+    datePublished: contentDateIso(article.publishedDate || article.date),
     dateModified: articleDate,
     author: { "@type": "Person", name: article.author.name, jobTitle: article.author.role },
     editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },

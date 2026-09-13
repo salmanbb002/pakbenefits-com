@@ -1,13 +1,27 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "trailingSlash": true,
   "redirects": [
     {
-      "source": "/bisp-payment-check-guide/:path*",
+      "source": "/bisp-payment-check-guide",
       "destination": "/bisp-balance-check-by-cnic-2026/",
       "statusCode": 301
     },
     {
-      "source": "/bisp-8171-payment-balance-check-guide/:path*",
+      "source": "/bisp-payment-check-guide/",
+      "destination": "/bisp-balance-check-by-cnic-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bisp-8171-payment-balance-check-guide",
+      "destination": "/bisp-balance-check-by-cnic-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bisp-8171-payment-balance-check-guide/",
       "destination": "/bisp-balance-check-by-cnic-2026/",
       "statusCode": 301
     },
