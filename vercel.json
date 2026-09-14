@@ -3,7 +3,6 @@
   "framework": null,
   "buildCommand": "npm run build",
   "outputDirectory": "out",
-  "trailingSlash": true,
   "redirects": [
     {
       "source": "/bisp-payment-check-guide",
@@ -35,6 +34,11 @@
       ],
       "destination": "https://pakbenefits.com/$1",
       "permanent": true
+    },
+    {
+      "source": "/:path((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/\\.]+)",
+      "destination": "/:path/",
+      "statusCode": 308
     }
   ]
 }
