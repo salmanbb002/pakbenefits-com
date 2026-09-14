@@ -2244,7 +2244,13 @@ export const articles: Article[] = [
               "Verify through BISP instead of trying similar number combinations"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "the same number-confusion problem with the Ramzan Package (8171 vs 9999)",
+            "href": "/ramzan-package-check-guide/"
+          }
+        ]
       },
       {
         "title": "Do not confuse the 8171 number with the 8171 web portal",
@@ -4362,6 +4368,12 @@ export const articles: Article[] = [
         "title": "Land and tenancy records need separate verification",
         "paragraphs": [
           "Check which land or tenancy evidence the specific card scheme accepts. If the underlying record is inaccurate, ask the responsible land-record office how to correct it. A change to a land record and a decision on an agriculture-support application are separate processes."
+        ],
+        "links": [
+          {
+            "label": "how land records are checked online by CNIC",
+            "href": "/punjab-land-record-check-guide/"
+          }
         ]
       },
       {
@@ -7119,6 +7131,411 @@ export const articles: Article[] = [
       {
         "label": "BISP official information",
         "href": "https://www.bisp.gov.pk/"
+      }
+    ]
+  },
+  {
+    "slug": "ramzan-package-check-guide",
+    "title": "Ramzan Package Check: Is It 8171, 9999, or a Different Number?",
+    "excerpt": "The Ramzan Relief Package is checked via NITB's official portal or SMS to 9999, not BISP's 8171. See how the check works, what it pays, and how to avoid fake sites.",
+    "metaTitle": "Ramzan Package Check: 8171 or 9999? (2026)",
+    "metaDescription": "The Ramzan Relief Package is checked via NITB's portal or SMS to 9999 — not BISP's 8171. See how the check works and how to avoid fake sites.",
+    "focusKeyword": "ramzan package check",
+    "lsiKeywords": [
+      "8171 ramzan package check",
+      "9999 ramzan package check online cnic pakistan",
+      "ramzan relief package",
+      "prime minister ramzan relief package",
+      "ramzan package eligibility criteria",
+      "ramzan package online check cnic"
+    ],
+    "entities": [
+      "NITB",
+      "BISP",
+      "NADRA",
+      "NSER",
+      "CNIC"
+    ],
+    "primaryCategory": "Other Schemes",
+    "categorySlugs": [
+      "other-schemes",
+      "news",
+      "punjab-schemes"
+    ],
+    "date": "September 14, 2026",
+    "publishedDate": "September 14, 2026",
+    "readTime": "9 min read",
+    "image": "/images/ehsaas-payment-tracking.jpg",
+    "imageAlt": "A person checking their Ramzan Package eligibility status on a phone",
+    "author": contributors.saadHassan,
+    "reviewer": contributors.ayeshaMalik,
+    "sections": [
+      {
+        "title": "What Is the Ramzan Package, and Who Runs It?",
+        "paragraphs": [
+          "The Ramzan Package is commonly reported to be the Prime Minister's Ramzan Relief Package, a seasonal cash-assistance initiative for low-income families during Ramadan, administered by the National Information Technology Board through its own eligibility-check portal. That is a different agency from BISP, even though both draw on the same underlying household data.",
+          "NITB is a federal government body under the Ministry of Information Technology and Telecommunication, formed in 2014 from the merger of the Pakistan Computer Bureau and the Electronic Government Directorate, and given autonomous status under the NITB Act of 2022. Its role here is limited to running the digital verification system — it is not the organization that decides who is “deserving,” which is a determination that leans on National Socio-Economic Registry (NSER) data collected separately."
+        ],
+        "subsections": [
+          {
+            "title": "Prime Minister's Package vs a Province's Own Package",
+            "paragraphs": [
+              "Some of what ranks for this search is actually about a province's own Ramadan relief, not the federal package. One page describes a “Ramzan Package KPK 2026” as a separate provincial distribution, and Punjab's variant is described elsewhere as drawing on the Punjab Socio-Economic Registry (PSER) rather than the national NSER. If a result mentions a specific province by name, treat it as that province's own scheme — its criteria, amount, and channel can differ from the federal one even when the CNIC-check step looks identical."
+            ]
+          }
+        ],
+        "links": [
+          { "label": "other Punjab provincial schemes", "href": "/punjab-schemes/" }
+        ]
+      },
+      {
+        "title": "Is It Checked Through 8171, 9999, or Another Number?",
+        "paragraphs": [
+          "The official portal at pmrrp.nitb.gov.pk is built around a web-based CNIC-and-CAPTCHA check, and the majority of sources — plus the domain name of at least one competing guide site — point to SMS code 9999 as the associated short code, not BISP's 8171. That distinction matters because 8171 is BISP's own established number for a different set of services entirely.",
+          "Four different short codes show up across the pages ranking for this topic, and they do not all agree with each other:"
+        ],
+        "table": {
+          "caption": "Which Ramzan-package SMS code is real?",
+          "headers": ["Code", "What it's branded as", "Corroborated by the official NITB-linked portal?"],
+          "rows": [
+            ["9999", "Ramzan Relief Package check", "Consistent with the majority of sources and the portal's own domain naming"],
+            ["8171", "BISP's established number, also used by some pages to brand this same check", "This is BISP's own code for Benazir Income Support Programme services, not confirmed as the Ramzan package's code"],
+            ["8070", "Cited by one source as “Ramzan Relief Scheme,” and appears in a competing site's own domain name", "Unconfirmed against an authoritative source"],
+            ["8123", "Cited by one source as “Ehsaas Rashan Subsidy,” a separate flour/sugar/ghee discount program", "A different program entirely, not the cash package"]
+          ]
+        },
+        "links": [
+          { "label": "how BISP's own 8171 tracking works", "href": "/8171-786-ehsaas-tracking-official-number/" }
+        ]
+      },
+      {
+        "title": "How Do I Check My Ramzan Package Status by CNIC?",
+        "paragraphs": [
+          "Treat 9999 and the official pmrrp.nitb.gov.pk portal as the safer starting point, and treat any page that flatly equates this check with 8171 with some caution — it may simply be reusing BISP's more recognizable number to rank, not describing the actual program.",
+          "You can check status either by SMS or through the official web portal, and both methods only need your 13-digit CNIC number.",
+          "Neither method should ever ask for a fee, an OTP, or your CNIC over a phone call from someone claiming to “process” your application faster."
+        ],
+        "subsections": [
+          {
+            "title": "SMS Method",
+            "paragraphs": [],
+            "bullets": [
+              "Open your phone's messaging app.",
+              "Type your 13-digit CNIC number without dashes.",
+              "Send it to 9999.",
+              "Wait for a reply message confirming your status."
+            ]
+          },
+          {
+            "title": "Online Portal Method",
+            "paragraphs": [],
+            "bullets": [
+              "Go to the official portal at pmrrp.nitb.gov.pk.",
+              "Enter your CNIC number.",
+              "Complete the CAPTCHA verification.",
+              "Submit the form to see your result."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Shows Up After You Check?",
+        "paragraphs": [
+          "The response typically comes back as one of three states: eligible, not eligible, or under verification, reflecting whether your household record in NSER or BISP's database currently matches the programme's criteria. “Under verification” is not a rejection — it usually means your record needs to be checked or updated at a NSER or BISP facilitation point before a final status is issued."
+        ]
+      },
+      {
+        "title": "Who Is Eligible for the Ramzan Package?",
+        "paragraphs": [
+          "Eligibility is built around households already identified as low-income through NSER or BISP records — commonly cited groups include daily-wage workers, widows, persons with disabilities, and other households already flagged through a low PMT (Proxy Means Test) score — rather than a fresh, independent application process. Because the underlying data comes from an existing registry, someone who has never registered with BISP or completed an NSER survey may need to do that first rather than expecting the Ramzan check alone to add them."
+        ],
+        "subsections": [
+          {
+            "title": "Reasons People Get Rejected",
+            "paragraphs": [
+              "Two exclusion criteria come up consistently: households where someone is a high-income tax filer, and households with a member in regular government employment. An expired or mismatched CNIC, or outdated NSER data, can also produce a “not eligible” result even for a household that would otherwise qualify — which is a data problem to fix at the source, not something a repeated SMS will resolve."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "How Much Does It Pay, and How Is It Sent?",
+        "paragraphs": [
+          "Multiple sources commonly report a one-time Rs 13,000 figure for the federal package and a separate Rs 10,000 figure for provincial/CM-level packages, though neither amount was visible on the official portal excerpt reviewed for this guide — treat both as third-party reported rather than officially confirmed on-page. That is also a different figure from BISP's own Kafaalat payment, which is reported elsewhere as a recurring Rs 13,500 quarterly amount rather than a Ramadan-specific one-time payment — worth keeping separate if you are checking both programmes.",
+          "Distribution is reported to run through several channels: direct bank transfer, ATM withdrawal with biometric verification, mobile wallets such as Easypaisa or JazzCash, and designated government cash centers, with CNIC verification required at the point of collection either way."
+        ],
+        "links": [
+          { "label": "BISP's Rs 13,500 quarterly Kafaalat payment", "href": "/benazir-kafaalat-payment-guide/" }
+        ]
+      },
+      {
+        "title": "Why Do 8171, 9999, and 8070 Get Confused With Each Other?",
+        "paragraphs": [
+          "The short answer is that BISP's own 8171 number is already the most widely recognized number in this space, so several content pages reuse it to describe an unrelated seasonal package simply because readers already search for it. None of the four competing guides reviewed for this piece resolve the contradiction directly — two brand the whole topic “8171,” two brand it “9999,” and only one attempts a code-by-program breakdown, which itself is not corroborated against the official NITB-linked source. Until an official, single source clearly lists every valid code side by side, the safest approach is to start from the portal domain itself (pmrrp.nitb.gov.pk) rather than from whichever number a given article happens to lead with."
+        ],
+        "links": [
+          { "label": "what BISP actually is", "href": "/what-is-bisp/" }
+        ]
+      },
+      {
+        "title": "How Do I Avoid a Fake Ramzan Package Site or Agent?",
+        "paragraphs": [
+          "This is a search space with an unusually high number of unstable pages: while researching this guide, one previously-ranking news domain for this exact topic now redirects to an unrelated video-download site, and several other ranking pages no longer resolve at all. A domain that disappears or changes hands mid-season is a genuine signal to be cautious, not just a broken link.",
+          "Stick to the official pmrrp.nitb.gov.pk domain or the 9999 SMS code, never pay anyone claiming to “confirm,” “speed up,” or “unlock” your eligibility, and never share an OTP with someone who calls claiming to be processing your package. If you're unsure whether a message or page is genuine, treat it the same way you'd treat any other unverified BISP-adjacent contact."
+        ],
+        "links": [
+          { "label": "how to spot a fake benefits site or agent", "href": "/avoid-bisp-fraud/" },
+          { "label": "check your BISP eligibility directly", "href": "/check-bisp-eligibility-8171/" }
+        ]
+      },
+      {
+        "title": "What's True Right Now (September 2026)?",
+        "paragraphs": [
+          "Ramadan 2026 ran from roughly 19 February to 21 March 2026 in Pakistan, which means the cycle this guide describes has already closed as of this update. None of the competing pages reviewed acknowledge that the window has passed — they describe the check process as though it's permanently open. A new cycle is not guaranteed to reuse the same amounts or the same short code; expect an announcement closer to the next Ramadan, projected for around February 2027, and treat any page claiming an active “2026” window after that date with the same caution outlined above."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is the Ramzan Package the same as BISP's 8171 service?",
+        "answer": "No. BISP is a separate program with its own established 8171 number, even though the Ramzan Package draws on some of the same underlying NSER data. Several pages online conflate the two because 8171 is more widely recognized."
+      },
+      {
+        "question": "Why do different websites give different numbers for the same check?",
+        "answer": "Because this program doesn't have one single, universally cited authoritative source that every content site checks against — some default to BISP's more recognizable 8171 number, while others follow the 9999 code that's consistent with the official portal's own domain pattern."
+      },
+      {
+        "question": "How can I check my eligibility?",
+        "answer": "Send your 13-digit CNIC to 9999 by SMS, or enter it on the official pmrrp.nitb.gov.pk portal with the CAPTCHA verification."
+      },
+      {
+        "question": "Is there a registration fee?",
+        "answer": "No. The eligibility check itself is free; standard network SMS charges from your provider may still apply."
+      },
+      {
+        "question": "Can I apply without a CNIC?",
+        "answer": "No — a valid Computerized National Identity Card is required for either check method."
+      },
+      {
+        "question": "How much financial assistance is given?",
+        "answer": "Commonly reported figures are Rs 13,000 for the federal package and Rs 10,000 for provincial variants, though these were not visible on the official portal excerpt reviewed for this guide — confirm the current figure before relying on it."
+      },
+      {
+        "question": "Can I apply online for the Ramzan Package?",
+        "answer": "Most people don't need to apply separately — eligibility is generally drawn from existing NSER or BISP records. If you've never registered with either, that's the step to complete first."
+      },
+      {
+        "question": "How long does it take to get a reply?",
+        "answer": "Most SMS and portal checks return a result within minutes, though delays are reported during high-traffic periods."
+      },
+      {
+        "question": "Is registration required for everyone?",
+        "answer": "No. Most applicants are checked automatically against existing NSER or BISP data rather than registering from scratch."
+      },
+      {
+        "question": "Can I use someone else's CNIC or SIM?",
+        "answer": "No. Both methods require your own valid CNIC and a SIM registered in your own name."
+      },
+      {
+        "question": "How will I receive the payment after approval?",
+        "answer": "Reported channels include bank transfer, ATM withdrawal with biometric verification, mobile wallets, or designated government cash centers — verify the specific method through the official channel once your status shows eligible."
+      },
+      {
+        "question": "Can government employees apply?",
+        "answer": "Regular government employees are generally excluded from eligibility, according to the criteria described across the sources reviewed."
+      },
+      {
+        "question": "Is the Ramzan Package still open in September 2026?",
+        "answer": "The most recent cycle covered Ramadan 2026 (February–March), which has already ended. A new cycle is expected to be announced closer to the next Ramadan rather than remaining open year-round."
+      }
+    ],
+    "officialLinks": [
+      {
+        "label": "Official Ramzan Relief Package portal (NITB)",
+        "href": "https://pmrrp.nitb.gov.pk/"
+      },
+      {
+        "label": "BISP official website",
+        "href": "https://www.bisp.gov.pk/"
+      }
+    ]
+  },
+  {
+    "slug": "punjab-land-record-check-guide",
+    "title": "How to Check Punjab Land Records Online by CNIC (2026)",
+    "excerpt": "Check a Punjab land record online by CNIC — which official portal to trust, what a Fard actually shows, and what to do if no record appears.",
+    "metaTitle": "Punjab Land Record Online Check by CNIC: 2026 Steps",
+    "metaDescription": "Check Punjab land records online by CNIC — the official portal, what a Fard actually shows, real fees, and what to do if no record appears.",
+    "focusKeyword": "land record punjab online check by cnic",
+    "lsiKeywords": [
+      "punjab land record check by cnic",
+      "fard check online punjab",
+      "jamabandi online punjab",
+      "plra land record portal",
+      "punjab zameen record check",
+      "arazi record center"
+    ],
+    "entities": [
+      "PLRA",
+      "Board of Revenue, Punjab",
+      "CNIC",
+      "Fard",
+      "Jamabandi",
+      "Mutation (Intiqaal)"
+    ],
+    "primaryCategory": "Punjab Schemes",
+    "categorySlugs": [
+      "punjab-schemes",
+      "other-schemes"
+    ],
+    "date": "September 14, 2026",
+    "publishedDate": "September 14, 2026",
+    "readTime": "8 min read",
+    "image": "/images/farmer-support.jpg",
+    "imageAlt": "A person checking a Punjab land record document on a phone in a rural setting",
+    "author": contributors.saadHassan,
+    "reviewer": contributors.ayeshaMalik,
+    "sections": [
+      {
+        "title": "What Is the Punjab Land Records Authority?",
+        "paragraphs": [
+          "The Punjab Land Records Authority (PLRA) is the Punjab government body that has run the province's digital land-record system since 2017, replacing the older patwari-based paper process. It was established under the PLRA Act 2017 and operates under the administrative control of the Board of Revenue, Punjab.",
+          "The digitization effort behind it goes back further than the authority itself. It began as the Land Record Management Information System (LRMIS) project in 2006, and was formalized into PLRA once the 2017 Act passed. The Board of Revenue's own published figures for 2018-19 put the scale of use in context: 2,139,454 Fard copies issued and 956,435 mutations (intiqaal) recorded that year alone, handled through one Arazi Record Center in each tehsil."
+        ]
+      },
+      {
+        "title": "Which Official Portal Should You Actually Use?",
+        "paragraphs": [
+          "There is genuine confusion here, and it is worth addressing directly rather than pretending one obvious URL exists. Several sites present themselves as “the” official PLRA portal, and they don't all point to the same domain.",
+          "Wikipedia's own entry for PLRA cites plra.gop.pk as the official website — but that domain returned no response at all when checked directly (a DNS failure, meaning the address currently doesn't resolve). Separately, the Board of Revenue Punjab's own LRMIS page, a live .gov.pk government page, names punjab-zameen.gov.pk as the official online gateway for land-record services. A third address, rod.pulse.gop.pk — described as the “Record of Deeds” (ROD) portal — is referenced independently by multiple unrelated guides as the tool that actually performs the CNIC-based document search and download.",
+          "The practical takeaway: don't trust a bare URL pasted into a blog post or a forwarded message. Start from the Board of Revenue, Punjab's own site or a current government notice, and follow the link it points to that day — these gateways have moved before and may move again."
+        ],
+        "links": [
+          { "label": "how CNIC verification works across programmes", "href": "/cnic-verification-guide/" }
+        ]
+      },
+      {
+        "title": "How Do You Check Your Land Record Online by CNIC?",
+        "paragraphs": [
+          "The core process is the same across the sources that walk through it step by step: enter your CNIC, select your district and tehsil, verify an OTP, then download the result.",
+          "Two independent sources that walk through this process both describe it completing in a few minutes once the OTP step is done — useful as a rough expectation, not a guarantee, since a record that hasn't been fully digitized yet won't complete that quickly regardless of the portal used."
+        ],
+        "bullets": [
+          "Open the current official land-record portal (see the section above before entering any personal details).",
+          "Enter your CNIC number, typically without dashes.",
+          "Select your district and tehsil — and mauza (village/area), if the form asks for it.",
+          "Choose the document or record type you want, if the portal offers more than one (for example, Fard versus a registered deed).",
+          "Enter the OTP sent by SMS to your registered mobile number to confirm it's really you.",
+          "Download the resulting document, usually as a PDF."
+        ],
+        "subsections": [
+          {
+            "title": "What You'll Need Before You Start",
+            "paragraphs": [],
+            "bullets": [
+              "Your CNIC number.",
+              "A mobile number that is actually linked to that CNIC — this trips up more people than any other step, since the OTP goes to whatever number is on file, not necessarily your current phone.",
+              "Your property's district, tehsil, and ideally mauza, if you know them. If you only know the property by a family name or an old paper Fard, having that document on hand will speed up matching your details on the portal."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fard, Jamabandi, and Mutation: What's the Difference?",
+        "paragraphs": [
+          "A Fard is a short extract showing one owner's current ownership status. It is not the same thing as the full record it comes from, and mixing the two up is a common source of confusion when a name or detail doesn't match what someone expected.",
+          "This distinction matters most in one very common real situation: your CNIC comes back with no result, or a result that doesn't look like “your” land, because the property is still recorded under a parent's or another relative's name. A CNIC search only finds what's recorded against that specific CNIC — if the mutation transferring inherited land into your name hasn't been processed yet, the online check won't show it as yours, even if you have a legitimate claim. That's a separate process (recording a mutation) from simply checking an existing record."
+        ],
+        "table": {
+          "caption": "Fard vs Jamabandi vs Mutation",
+          "headers": ["Term", "What it actually is"],
+          "rows": [
+            ["Fard (Fard-e-Malkiat)", "A specific-owner extract showing current ownership status — this is what you actually receive when you “check” your record online."],
+            ["Jamabandi", "The complete periodic revenue register for a mauza (village/area) that the Fard is drawn from. It covers every owner in that record, not just one."],
+            ["Mutation (Intiqaal)", "The entry recorded when ownership changes hands — through a sale, inheritance, or gift — which is what updates the Jamabandi going forward."]
+          ]
+        }
+      },
+      {
+        "title": "Can Overseas Pakistanis Check Their Land Record?",
+        "paragraphs": [
+          "Yes — Pakistanis living abroad are generally able to verify land ownership using an NICOP or passport number in place of a standard CNIC-based path, since a domestic CNIC and its linked local mobile number aren't always available.",
+          "The practical detail that matters most here is the OTP: it needs to reach a number you can actually access, which for someone abroad may mean using a different contact method than the one on file domestically. Given how much this varies by individual circumstance and how often processes for overseas access get revised, confirm the current route directly with the portal or your nearest Pakistani diplomatic mission before relying on older instructions found elsewhere."
+        ]
+      },
+      {
+        "title": "What Does It Cost?",
+        "paragraphs": [
+          "The basic online record check itself is described as free or low-cost across the sources reviewed, with a modest fee — reported as a few hundred rupees — for a certified or stamped copy rather than a plain digital view.",
+          "That said, none of this was independently confirmed against a live, dated official fee notice this session, and the figures found varied between sources. Treat any specific rupee amount you see quoted — here or elsewhere — as something to verify on the portal itself at the time you use it, not as a fixed, permanent fee."
+        ]
+      },
+      {
+        "title": "What If Your CNIC Shows No Record Found?",
+        "paragraphs": [
+          "A “no record found” result usually comes down to one of a few things: the mobile number on file isn't linked to that CNIC, the wrong district or tehsil was selected, or — as covered above — the land is still recorded under a different family member's name because the mutation hasn't gone through yet.",
+          "If none of those explains it, the fallback isn't to keep retrying the same portal — it's to visit your nearest Arazi Record Center in person. Bring your CNIC and any paper Fard or prior documentation you have; ARC staff can look up records that aren't showing correctly online and can guide you through correcting a mismatched or outdated entry, which an online portal generally cannot do on its own."
+        ],
+        "links": [
+          { "label": "Farmer Support Card eligibility", "href": "/farmer-support-card-guide/" },
+          { "label": "Punjab provincial schemes", "href": "/punjab-schemes/" }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I download my Fard copy online using my CNIC?",
+        "answer": "Yes, if your record has already been digitized and your mobile number is linked to that CNIC — you enter your CNIC and location details, verify an OTP, and download the Fard as a PDF."
+      },
+      {
+        "question": "Is checking a Punjab land record online free?",
+        "answer": "The basic check and digital view are generally described as free, with a small fee reported for certified or stamped copies. Confirm the current fee on the portal itself, since this wasn't independently verified this session."
+      },
+      {
+        "question": "Can overseas Pakistanis check land records online?",
+        "answer": "Yes, generally using an NICOP or passport number instead of a domestic CNIC path, with the OTP sent to a number they can access from abroad. Confirm the current process directly, since remote-access details change."
+      },
+      {
+        "question": "What if my land record is not appearing on the portal?",
+        "answer": "Check that the mobile number linked to your CNIC is current, that you selected the correct district and tehsil, and that the property hasn't simply not been digitized yet. If it's still under a relative's name, that's a mutation issue, not a search error."
+      },
+      {
+        "question": "Are documents downloaded from the portal accepted by banks and courts?",
+        "answer": "Multiple sources describe portal-issued documents as accepted for these purposes, but confirm this with the specific bank or court involved in your case, since acceptance requirements can vary by institution and by document type."
+      },
+      {
+        "question": "Do I need a registered mobile number to check my land record?",
+        "answer": "Yes — the OTP verification step that confirms your identity is sent to the mobile number linked to your CNIC, so without access to that number you generally cannot complete the check online."
+      },
+      {
+        "question": "Can I check someone else's land record using my own CNIC?",
+        "answer": "No. The system is built to verify a specific CNIC holder's own record through their own linked mobile number. Checking someone else's record isn't something the standard citizen-facing flow is designed for."
+      },
+      {
+        "question": "What is PLRA?",
+        "answer": "PLRA stands for the Punjab Land Records Authority, the government body established in 2017 that runs Punjab's digitized land-record system in place of the older manual patwari process."
+      },
+      {
+        "question": "What replaced the Patwari system?",
+        "answer": "The Punjab Land Records Authority's digital record system, built on the LRMIS project that began in 2006, replaced the traditional patwari-based manual record-keeping process."
+      },
+      {
+        "question": "What is the difference between a Fard and a Jamabandi?",
+        "answer": "A Fard is a specific-owner extract showing current ownership — what you get from an online check. A Jamabandi is the full periodic revenue register for an entire mauza that the Fard is drawn from."
+      },
+      {
+        "question": "Why doesn't my land show up if it belonged to my parent or another relative?",
+        "answer": "Because an online CNIC search only returns records currently registered under that exact CNIC. If ownership hasn't been formally transferred to you through a mutation (intiqaal) yet, the land will still show under the previous owner's record, not yours."
+      }
+    ],
+    "officialLinks": [
+      {
+        "label": "Board of Revenue Punjab: LRMIS / land records",
+        "href": "https://bor.punjab.gov.pk/lrmis"
+      },
+      {
+        "label": "Punjab Zameen: official online gateway",
+        "href": "https://www.punjab-zameen.gov.pk/"
       }
     ]
   },
