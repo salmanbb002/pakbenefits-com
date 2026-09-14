@@ -4,9 +4,9 @@ Implemented from the complete `pakbenefits-SEO-implementation-prompt.md` and the
 
 ## Release status
 
-The owner supplied `salmanb0022@gmail.com` and authorized committing, pushing to GitHub and deploying to Vercel. The Contact page now identifies Muhammad Salman and includes that clickable editorial email, replacing the demo placeholder. The contact revision date is included in the sitemap. Build and rendered-page verification are required before release.
+The owner supplied `salmanb0022@gmail.com` and authorized committing, pushing to GitHub and deploying to Vercel. The Contact page now identifies Muhammad Salman and includes that clickable editorial email, replacing the demo placeholder. The contact revision date is included in the sitemap. Build, lint and the local 52-page browser crawl passed before release.
 
-Deployment outcomes are recorded in `deployment-report.md`. No Search Console change, outreach or backlink submission is included. Live Vercel redirects and Google's Rich Results Test are release checks; local JSON-LD validation is not a claim that Google grants FAQ rich results.
+Deployment outcomes are recorded in `deployment-report.md`. No manual Search Console change, outreach or backlink submission is included. The pre-existing Instant Indexing workflow was preserved and runs automatically on pushes to main. Live Vercel redirects and Google's Rich Results Test are release checks; local JSON-LD validation is not a claim that Google grants FAQ rich results.
 
 ## Implemented changes
 
@@ -18,7 +18,7 @@ Deployment outcomes are recorded in `deployment-report.md`. No Search Console ch
 | 2.1 NSER overlap | 600–800-word editorial overview; procedural content belongs to `/nser-pmt-score-check-guide/`, targeting `pmt score check`. Detailed guide expanded to the workbook's 2,000-word target. |
 | 2.2 Registration overlap | 600–800-word editorial overview; one detailed guide targeting `bisp 8171 online registration`, expanded to 1,500+ body words. |
 | 2.3 Tracking | Added a clear opening explanation, follow-up guidance, matching FAQ schema and exact `ehsaas tracking` inbound links. Registration hub has no tracking-targeted editorial content. |
-| 2.4 Balance overlap | Consolidated into `/bisp-balance-check-by-cnic-2026/`; two explicit Vercel 301 rules, removed redundant routes from the export and sitemap, replaced contextual links with direct links to the retained page. |
+| 2.4 Balance overlap | Consolidated into `/bisp-balance-check-by-cnic-2026/`; explicit Vercel 301 rules for both legacy pages and their slash variants, removed redundant routes from the export and sitemap, replaced contextual links with direct links to the retained page. |
 | 3 Content depth | Expanded Taleemi Wazaif, Other Schemes, registration and NSER hubs, youth loans, electric bikes, farmer cards, fraud prevention and cross-programme documents. |
 | 4 New content | Added Punjab Schemes, CNIC Verification, What Is BISP, Nashonuma, and Zakat/BISP eligibility; all in sitemap and linked from existing editorial content. |
 | 5 Savings wallets | Expanded to 1,200+ editorial words, including dated history, account access, separate PPAF loan route, eligibility questions, repayments, access problems and FAQs. Prominent contextual link from the Ehsaas hub. |
@@ -33,7 +33,7 @@ Retired URLs:
 - `/bisp-payment-check-guide/`
 - `/bisp-8171-payment-balance-check-guide/`
 
-Both redirect to `/bisp-balance-check-by-cnic-2026/` with explicit status 301 in `vercel.json`. Local QA models those rules and checks both slash variants. The actual Vercel edge response must be checked after deployment.
+Both redirect to `/bisp-balance-check-by-cnic-2026/` with explicit status 301 in `vercel.json`. Local QA models those rules and checks both slash variants. The production crawl in `live-verification.json` checks the actual Vercel edge response for both slash variants.
 
 ### Data discrepancy handled
 
@@ -65,12 +65,12 @@ npm run seo:qa
 
 `verification.json` contains the latest full crawl outcome and per-page measurements. Screenshots are in `screenshots/`. Counts use editorial headings, paragraphs, list/table content and FAQ text; navigation, article cards, author biographies and source-link labels do not inflate the targets.
 
-The original publication dates remain in Article and Open Graph metadata when content is revised. Category pages have a real revision date and CollectionPage schema. The BISP entity is explicitly distinct from the site's publisher in the new entity article.
+The original publication dates remain in Article and Open Graph metadata when content is revised. Editorial dates use UTC consistently across local and hosted builds; checks passed under UTC, Asia/Karachi and America/Los_Angeles. Category pages have a real revision date and CollectionPage schema. The BISP entity is explicitly distinct from the site's publisher in the new entity article.
 
 ## Remaining owner/external actions
 
 1. The owner remains responsible for monitoring the supplied inbox. Contact-link verification does not send a test message or claim to verify email delivery.
-2. Consult `deployment-report.md` for live page and redirect verification. Inspect the sitemap in Search Console as appropriate.
+2. Consult `deployment-report.md` for live page and redirect verification. Google’s Rich Results Test returned “Log in and try again”; the external test remains unverified and can be retried in an authenticated browser. Local and production FAQ/schema checks are separate from this Google service. Inspect the sitemap in Search Console as appropriate.
 3. Review the audit's flagged backlink profile separately in Search Console. No disavow file was created or submitted in this coding session.
 4. Run the separate Core Web Vitals/PageSpeed assessment requested in the brief after the content release. Local mobile layout checks are not a CWV audit.
 
