@@ -1388,6 +1388,10 @@ export const categories: Category[] = [
           {
             "label": "Nashonuma programme and the distinction from Aghosh",
             "href": "/nashonuma-program/"
+          },
+          {
+            "label": "Himmat Card eligibility and status check guide",
+            "href": "/himmat-card-eligibility-check-guide/"
           }
         ]
       },
@@ -1405,6 +1409,10 @@ export const categories: Category[] = [
           {
             "label": "Food-support programme background",
             "href": "/ehsaas-rashan-program-guide/"
+          },
+          {
+            "label": "Nigehban Card check guide",
+            "href": "/nigehban-card-check-guide/"
           }
         ]
       },
@@ -7185,7 +7193,8 @@ export const articles: Article[] = [
           }
         ],
         "links": [
-          { "label": "other Punjab provincial schemes", "href": "/punjab-schemes/" }
+          { "label": "other Punjab provincial schemes", "href": "/punjab-schemes/" },
+          { "label": "the Punjab Nigehban Card, a separate provincial scheme", "href": "/nigehban-card-check-guide/" }
         ]
       },
       {
@@ -7537,6 +7546,410 @@ export const articles: Article[] = [
         "label": "Punjab Zameen: official online gateway",
         "href": "https://www.punjab-zameen.gov.pk/"
       }
+    ]
+  },
+  {
+    "slug": "nigehban-card-check-guide",
+    "title": "Nigehban Card Check Online by CNIC: How to Check Your Status (2026)",
+    "excerpt": "The Nigehban Card is Punjab's own Ramzan relief card, checked via SMS to 8070 or the PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See how the check works and how to avoid fake sites.",
+    "metaTitle": "Nigehban Card Check by CNIC: 8070 or 9999? (2026)",
+    "metaDescription": "The Nigehban Card is checked via SMS to 8070 or Punjab's PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See the real steps and eligibility.",
+    "focusKeyword": "nigehban card check online by cnic pakistan",
+    "lsiKeywords": [
+      "nigehban card 8070",
+      "nigehban card check by cnic",
+      "ramzan nigehban card 2026",
+      "nigehban card eligibility criteria",
+      "nigehban card amount",
+      "pser nigehban card check"
+    ],
+    "entities": [
+      "PSER",
+      "PSPA",
+      "PITB",
+      "CNIC",
+      "BISP"
+    ],
+    "primaryCategory": "Punjab Schemes",
+    "categorySlugs": [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    "date": "September 15, 2026",
+    "publishedDate": "September 15, 2026",
+    "readTime": "10 min read",
+    "image": "/images/bisp-cnic-status-check.jpg",
+    "imageAlt": "A person checking their Nigehban Card status by CNIC on a phone",
+    "author": contributors.saadHassan,
+    "reviewer": contributors.ayeshaMalik,
+    "sections": [
+      {
+        "title": "What Is the Nigehban Card, and Who Runs It?",
+        "paragraphs": [
+          "The Nigehban Card is the Punjab Government's own Ramadan relief initiative, publicly announced by Chief Minister Maryam Nawaz Sharif and described in an official release from the Directorate General of Public Relations, Punjab, as the “Nigehban Ramzan Package.” The Chief Minister's own Special Monitoring Unit refers to the same initiative as the “CM Nigehban Card Program for Destitute and Vulnerable” families — the two names describe one programme, not two competing ones, which resolves a genuine source of confusion in how this scheme gets searched for.",
+          "Eligibility is drawn from the Punjab Socio-Economic Registry (PSER), Punjab's own province-run household survey — the provincial counterpart to the federal NSER database that BISP itself relies on. PSER is operated by the Punjab Social Protection Authority (PSPA), with technical infrastructure provided by the Punjab Information Technology Board (PITB). That distinction matters because it means the Nigehban Card is checked against a different underlying dataset than BISP's own 8171 service, even when a household happens to be recorded in both."
+        ],
+        "subsections": [
+          {
+            "title": "A Repeat Programme, Not a One-Off",
+            "paragraphs": [
+              "The CM's Special Monitoring Unit's own page cites a February 2025 registration deadline for an earlier cycle, which confirms this is a recurring Ramadan-season programme rather than a single event — the version most searches target now is the 2026 cycle, with its own dates and figures."
+            ]
+          }
+        ],
+        "links": [
+          { "label": "what BISP actually is", "href": "/what-is-bisp/" }
+        ]
+      },
+      {
+        "title": "Is the Nigehban Card the Same as BISP's 8171 or the Federal Ramzan Package?",
+        "paragraphs": [
+          "No — these are three separate services that share overlapping audiences and get conflated online because they all involve a CNIC-based SMS check during Ramadan. BISP's 8171 is a federal household-eligibility service tied to BISP's own registry, and the federal PM Ramzan Relief Package uses code 9999 through the National Information Technology Board's portal at pmrrp.nitb.gov.pk — a service already covered in detail on this site. The Nigehban Card is a third, Punjab-only initiative layered on top of PSER data.",
+          "A household can, in principle, be checked against all three at once — being told “eligible” by one does not mean the other two will return the same result, since each draws on a different registry and different criteria."
+        ],
+        "table": {
+          "caption": "Nigehban Card vs BISP 8171 vs the federal Ramzan Package",
+          "headers": ["Programme", "Run by", "Registry it draws from", "Reported SMS code"],
+          "rows": [
+            ["Nigehban Card (this guide)", "Government of Punjab / CM's office", "PSER (Punjab Socio-Economic Registry)", "8070 (majority-corroborated)"],
+            ["BISP 8171", "BISP (federal)", "BISP's own household database", "8171"],
+            ["PM Ramzan Relief Package", "NITB (federal)", "NSER", "9999"]
+          ]
+        },
+        "links": [
+          { "label": "the federal Ramzan Package's own 9999 check", "href": "/ramzan-package-check-guide/" }
+        ]
+      },
+      {
+        "title": "How Do I Check My Nigehban Card Status by CNIC?",
+        "paragraphs": [
+          "You check the Nigehban Card by SMS or through the PSER portal, and both routes only need your 13-digit CNIC. Neither method should ever ask for a fee, an OTP, or your card PIN over a phone call from someone offering to “confirm” or “speed up” your status."
+        ],
+        "subsections": [
+          {
+            "title": "SMS Method (8070)",
+            "paragraphs": [],
+            "bullets": [
+              "Open your phone's messaging app.",
+              "Type your 13-digit CNIC number without dashes or spaces.",
+              "Send it to 8070 from any Pakistani mobile network.",
+              "Wait for a reply SMS confirming your Nigehban Card status."
+            ]
+          },
+          {
+            "title": "Online Portal Method (PSER)",
+            "paragraphs": [],
+            "bullets": [
+              "Go to the official portal at pser.punjab.gov.pk.",
+              "Enter your 13-digit CNIC number (some sources describe an added password/account-login step for a full PSER record, not just a one-off status check).",
+              "Submit the form to view your household's registration and eligibility status.",
+              "If you have no PSER record at all, the portal directs you to register rather than showing a Nigehban-specific result."
+            ]
+          },
+          {
+            "title": "No Separate Application Needed",
+            "paragraphs": [
+              "There is no separate Nigehban Card application form — selection runs entirely off your existing PSER household record, so registering with PSER is the actual precondition, not a form specific to the card itself."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Why Do 8070 and 9999 Get Confused for the Nigehban Card?",
+        "paragraphs": [
+          "The short answer is that most guides describing this scheme point to 8070, but a real minority — including at least one page that also mislabels the payment amount — instead cites 9999, which is actually the federal Ramzan Relief Package's code, not Punjab's. Of the pages reviewed for this guide, the majority (and several domains built specifically around the number, such as sites branded “ramzanpackage8070”) corroborate 8070 as Nigehban's own code, while one page claims 9999 and simultaneously adds a Rs 10,500 “Benazir Kafaalat Payment” plus a Rs 2,500 “bonus” to reach a Rs 13,000 total — a figure that actually belongs to BISP's separate Kafaalat payment, not to the Nigehban Card.",
+          "Neither of Punjab's own official pages reviewed for this guide — the Directorate General of Public Relations release or the CM's Special Monitoring Unit page — states an SMS short code directly, which is exactly the gap third-party sites are filling inconsistently. Until an official page publishes the code directly, treat 8070 as the better-supported answer and be skeptical of any guide that reuses BISP's own payment figures to describe this separate scheme."
+        ],
+        "links": [
+          { "label": "BISP's own Kafaalat payment", "href": "/benazir-kafaalat/" }
+        ]
+      },
+      {
+        "title": "Who Is Eligible for the Nigehban Card?",
+        "paragraphs": [
+          "Eligibility centers on households already reflected in PSER as low-income, rather than a fresh, independent application process. Reported criteria include permanent Punjab residency, a valid CNIC, monthly household income below Rs 60,000, and — per some sources — a PMT (Proxy Means Test) score below 32, the same style of poverty-scoring metric NSER uses for BISP, applied here to Punjab's own PSER dataset. BISP beneficiaries and households already flagged through PSER as low-income are commonly described as receiving priority."
+        ],
+        "subsections": [
+          {
+            "title": "Reasons People Get Excluded",
+            "paragraphs": [
+              "Consistently cited exclusions include regular government employment, owning more than roughly two acres of agricultural land, and having a SIM registered in someone else's name rather than the applicant's own CNIC. An expired CNIC or outdated PSER data can also return a “not eligible” or “under verification” result even for a household that would otherwise qualify — a data problem to fix at a PSER or Union Council facilitation point, not something a repeated SMS will resolve."
+            ]
+          }
+        ],
+        "links": [
+          { "label": "how NSER's PMT score works for BISP", "href": "/nser-pmt-score/" }
+        ]
+      },
+      {
+        "title": "How Much Does the Nigehban Card Pay, and What Does the Rashan Package Include?",
+        "paragraphs": [
+          "Multiple sources commonly report a one-time Rs 10,000 cash grant delivered through an ATM-style card, separate from BISP's own recurring Rs 13,500 quarterly Kafaalat payment — the two should not be added together or confused, despite one competing guide doing exactly that. Alongside the cash amount, several sources describe a subsidized rashan (grocery) package commonly itemized as roughly 10kg flour, 2kg sugar, 2kg ghee, 2kg rice, and 1kg pulses, though the exact quantities were not visible on either official Punjab page reviewed for this guide and should be treated as third-party reported rather than officially confirmed.",
+          "Reported distribution channels include HBL Konnect agents, UBL Omni centers, designated bank ATMs, and branchless banking agents, with CNIC verification required at the point of collection. One source cites a total programme budget of roughly Rs 47 billion covering an estimated 4.2 million families for the 2026 cycle — a scale figure that, again, appears only in third-party coverage rather than on the two official pages checked directly."
+        ],
+        "links": [
+          { "label": "BISP's Rs 13,500 quarterly Kafaalat payment", "href": "/benazir-kafaalat/" }
+        ]
+      },
+      {
+        "title": "What Happens After You Check, and What If You're Not Eligible?",
+        "paragraphs": [
+          "A Nigehban Card check typically returns one of three outcomes: eligible, not eligible, or under verification, reflecting whether your household's PSER record currently matches the programme's criteria. “Under verification” is not a rejection; it usually means your PSER record needs updating or manual review at a Union Council or PSPA facilitation point before a final result is issued.",
+          "If you have never completed a PSER household survey at all, no SMS or portal check will return a positive result — registering with PSER, not repeating the CNIC check, is the actual next step. This mirrors the same registry dependency BISP's own services have with NSER, just run by a different provincial authority."
+        ]
+      },
+      {
+        "title": "How Do I Avoid a Fake Nigehban Card Site or Agent?",
+        "paragraphs": [
+          "While researching this guide, three of the domains that appeared in search results for this exact topic no longer resolved at all, and a fourth had been repurposed into an unrelated fashion blog — a pattern of short-lived, unstable third-party sites that is common in this search space and worth treating as a caution sign on its own. A domain that disappears mid-season, or that asks you to pay to “unlock” or “confirm” your Nigehban Card status, is not behaving like an official channel.",
+          "Stick to pser.punjab.gov.pk, the 8070 SMS code, or the Punjab Government helpline at 0800-02345, and never share a one-time password or your card PIN with anyone claiming to process your Nigehban Card faster over the phone. If a message or website's claims don't match what's described here, treat it the same way you would any other unverified benefits-related contact."
+        ],
+        "links": [
+          { "label": "how to spot a fake benefits site or agent", "href": "/avoid-bisp-fraud/" }
+        ]
+      },
+      {
+        "title": "What's True Right Now (September 2026)?",
+        "paragraphs": [
+          "Ramadan 2026 ran from roughly 19 February to 21 March 2026, so the cycle most current Nigehban Card searches describe — including its reported Feb 15, 2026 registration cutoff — has already closed as of this update. One source describes the scheme as fully “closed” following a much later, July 2026 deadline claim that contradicts every other source reviewed, including the pattern set by the CM's own Special Monitoring Unit page for the prior cycle; that later date is treated here as unverified rather than adopted. A new cycle is not guaranteed to reuse the same amount, code, or eligibility threshold — expect any fresh announcement to arrive closer to Ramadan 2027, projected for around February 2027, and treat a page claiming an open “2026” window after this date with the same caution outlined above."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is the Nigehban Card the same as the CM Nigehban Card Program?",
+        "answer": "Yes. Punjab's own Special Monitoring Unit describes the “CM Nigehban Card Program for Destitute and Vulnerable” and the “Nigehban Ramzan Package” as the same initiative, even though both names circulate separately online."
+      },
+      {
+        "question": "Is the Nigehban Card the same as BISP's 8171 service?",
+        "answer": "No. BISP is a separate federal programme with its own registry and its own 8171 number. The Nigehban Card draws instead on Punjab's own PSER data."
+      },
+      {
+        "question": "How do I check my Nigehban Card status?",
+        "answer": "Send your 13-digit CNIC by SMS to 8070, or enter your CNIC on the official portal at pser.punjab.gov.pk."
+      },
+      {
+        "question": "Why do some websites say the code is 9999 instead of 8070?",
+        "answer": "9999 is actually the code for a different, federal scheme — the PM Ramzan Relief Package. A minority of guides mislabel that code as Nigehban's own, and at least one also wrongly adds BISP's separate Kafaalat payment into the total."
+      },
+      {
+        "question": "How much money does the Nigehban Card provide?",
+        "answer": "Commonly reported figures put it at a one-time Rs 10,000 via an ATM-style card, plus a subsidized rashan package — though the exact rashan quantities are third-party reported, not confirmed on Punjab's own pages."
+      },
+      {
+        "question": "Do I need to register separately for the Nigehban Card?",
+        "answer": "No. There is no separate Nigehban Card application form; eligibility is drawn entirely from your existing PSER household record, so registering with PSER (if you haven't already) is the actual prerequisite."
+      },
+      {
+        "question": "What is PSER, and how is it different from NSER?",
+        "answer": "PSER is the Punjab Socio-Economic Registry, Punjab's own provincial household-data survey. NSER is the federal registry BISP uses. They are run by different authorities and are not the same database."
+      },
+      {
+        "question": "Who is eligible for the Nigehban Card?",
+        "answer": "Reported criteria include Punjab residency, a valid CNIC, monthly household income under Rs 60,000, and a PMT score below 32, with priority often given to households already flagged through PSER or BISP as low-income."
+      },
+      {
+        "question": "Who is excluded from the Nigehban Card?",
+        "answer": "Regular government employees, households owning more than about two acres of agricultural land, and CNIC/SIM mismatches are the exclusions cited most consistently across sources."
+      },
+      {
+        "question": "What does \"under verification\" mean after I check?",
+        "answer": "It means your PSER record needs to be checked or updated before a final result is issued — it is not a rejection."
+      },
+      {
+        "question": "Is the Nigehban Card still open in September 2026?",
+        "answer": "The 2026 cycle's reported registration cutoff was mid-February 2026, ahead of that year's Ramadan, so the window described by most current guides has already closed as of this update."
+      },
+      {
+        "question": "Is there a fee to check or register for the Nigehban Card?",
+        "answer": "No. The check itself is free; only standard network SMS charges from your own provider may apply."
+      },
+      {
+        "question": "How will I receive the Nigehban Card payment?",
+        "answer": "Reported channels include HBL Konnect agents, UBL Omni centers, designated bank ATMs, and branchless banking agents, with CNIC verification required at collection."
+      }
+    ],
+    "officialLinks": [
+      {
+        "label": "Official Nigehban Ramzan Package announcement (DGPR Punjab)",
+        "href": "https://dgpr.punjab.gov.pk/index.php/node/40510"
+      },
+      {
+        "label": "CM Nigehban Card Program (CM Special Monitoring Unit)",
+        "href": "https://smu.punjab.gov.pk/cm-nigheban-card-program"
+      },
+      {
+        "label": "Punjab Socio-Economic Registry (PSER)",
+        "href": "https://pser.punjab.gov.pk/"
+      }
+    ]
+  },
+  {
+    "slug": "himmat-card-eligibility-check-guide",
+    "title": "How to Check Himmat Card Eligibility and Status by CNIC (2026)",
+    "excerpt": "Check your Himmat Card status at the official DPMIS verification page by CNIC — no login needed. See eligibility rules, PMT score, payment amount, and how to avoid fake sites.",
+    "metaTitle": "Himmat Card Eligibility & Status Check by CNIC (2026)",
+    "metaDescription": "Check your Himmat Card status at the official DPMIS portal by CNIC. See eligibility rules, PMT score, payment amount, and how to avoid fake Himmat Card sites.",
+    "focusKeyword": "himmat card eligibility check",
+    "lsiKeywords": [
+      "check himmat card status by cnic",
+      "himmat card check online 2026",
+      "himmat card eligibility criteria",
+      "himmat card balance check by cnic",
+      "himmat card registration dpmis",
+      "himmat card 8171"
+    ],
+    "entities": ["DPMIS", "Punjab Social Welfare Department", "BISP", "PMT score", "Bank of Punjab", "CNIC"],
+    "primaryCategory": "Punjab Schemes",
+    "categorySlugs": ["punjab-schemes", "other-schemes"],
+    "date": "September 15, 2026",
+    "publishedDate": "September 15, 2026",
+    "readTime": "9 min read",
+    "image": "/images/bisp-cnic-status-check.jpg",
+    "imageAlt": "A person checking their Himmat Card eligibility status by CNIC on a phone",
+    "author": contributors.saadHassan,
+    "reviewer": contributors.ayeshaMalik,
+    "sections": [
+      {
+        "title": "What Is the Himmat Card, and Who Runs It?",
+        "paragraphs": [
+          "The Himmat Card is a quarterly cash-assistance card for persons with disabilities, issued by the Punjab Social Welfare Department and worth Rs 10,500 every three months. The department describes it on its own site as “a package of different services offered by Government to PWD's,” with the current quarterly payment as its first offering — meaning more services could be added to the same card later rather than it staying a single cash benefit indefinitely.",
+          "Registration and record-keeping run through DPMIS, the Disabled Persons Management Information System, which is where a person's disability certificate, CNIC, contact details, and eligibility status all live. The card itself is limited to Punjab: only CNICs registered in Punjab qualify, which matters if you're comparing this to a federal programme."
+        ],
+        "subsections": [
+          {
+            "title": "Himmat Card vs Other Punjab and BISP Support",
+            "paragraphs": [
+              "Himmat Card is provincial and disability-specific, which sets it apart from BISP's federal Kafaalat payment and from other Punjab cards like the Kissan Card for farmers. A household can, in principle, interact with more than one of these systems, but Himmat Card explicitly excludes anyone already drawing BISP, PSPA, Zakat, or Bait ul Maal support — so it isn't a program you stack on top of those, it's built to replace overlapping payments rather than add to them."
+            ]
+          }
+        ],
+        "links": [
+          { "label": "what is BISP", "href": "/what-is-bisp/" },
+          { "label": "farmer support card guide", "href": "/farmer-support-card-guide/" }
+        ]
+      },
+      {
+        "title": "Who Is Eligible for the Himmat Card?",
+        "paragraphs": [
+          "Eligibility requires a Social-Welfare-certified disability assessed as “Not Fit to Work,” no government or private-sector employment, a BISP PMT score of 45 or below, and no current assistance from BISP, PSPA, Zakat, or Bait ul Maal. A child with a disability can qualify through a parent or guardian applying on their behalf, and there is no separate age cutoff written into the criteria."
+        ],
+        "subsections": [
+          {
+            "title": "How the PMT Score and BISP Fit In",
+            "paragraphs": [
+              "The Proxy Means Test score used for Himmat Card eligibility is issued by BISP, not by the Social Welfare Department itself, even though BISP recipients are excluded from the card. That is the same PMT mechanism BISP uses for its own Kafaalat eligibility — household income, assets, housing conditions, education, and employment feed into one score — so a household's existing PMT record from an NSER or BISP survey is what gets checked against the ≤45 threshold here, not a fresh disability-specific calculation."
+            ]
+          },
+          {
+            "title": "Why Applications Get Rejected",
+            "paragraphs": [
+              "The most common rejection reasons are a PMT score above 45, current employment in the government or private sector, and already receiving BISP, PSPA, Zakat, or Bait ul Maal assistance — any one of these disqualifies an otherwise-eligible applicant. An expired CNIC or incomplete medical-board verification can also stall or reject a case that would otherwise qualify, which is a documentation problem to fix rather than a permanent disqualification."
+            ]
+          }
+        ],
+        "links": [
+          { "label": "NSER and PMT score explained", "href": "/nser-pmt-score-check-guide/" },
+          { "label": "Zakat and BISP eligibility rules", "href": "/zakat-and-bisp-eligibility/" }
+        ]
+      },
+      {
+        "title": "How Do I Check My Himmat Card Status Online by CNIC?",
+        "paragraphs": [
+          "Go to the official DPMIS verification page at dpmis.punjab.gov.pk, enter your 13-digit CNIC without dashes, and submit to see your current status. This check is free, requires no password or account, and takes only your CNIC number."
+        ],
+        "bullets": [
+          "Open dpmis.punjab.gov.pk on a phone or computer.",
+          "Go to the Himmat Card verification section.",
+          "Type your 13-digit CNIC without dashes.",
+          "Submit to view your status."
+        ],
+        "subsections": [
+          {
+            "title": "Checking Without Internet Access",
+            "paragraphs": [
+              "If you can't use the DPMIS portal, call the Himmat Card helpline at 1312 or visit your District Social Welfare Office in person with your original CNIC. Staff there can look up your status directly and tell you what, if anything, is missing from your file."
+            ]
+          }
+        ],
+        "links": [{ "label": "CNIC verification across programmes", "href": "/cnic-verification-guide/" }]
+      },
+      {
+        "title": "Is Himmat Card Checked Through 8171?",
+        "paragraphs": [
+          "No — the official Punjab sources for Himmat Card name only the DPMIS verification page and the 1312 helpline, never BISP's 8171 number. One search result claims sending your CNIC to 8171 works for Himmat Card, but neither dpmis.punjab.gov.pk/faqs nor swd.punjab.gov.pk/himmatcard mentions 8171 anywhere, and 8171 is BISP's own established channel for BISP's household-eligibility check — a different agency and a different programme. Until an official Punjab notice says otherwise, treat 8171 as unrelated to your Himmat Card status and use the DPMIS portal or 1312 instead."
+        ],
+        "links": [{ "label": "how BISP's own 8171 check works", "href": "/8171/" }]
+      },
+      {
+        "title": "What Do the Status Results Mean?",
+        "paragraphs": [
+          "A DPMIS result of “approved” or “registered” means your record exists in the system, “under review” means your data is still being processed, and “not found” usually means you haven't registered yet or your CNIC was entered incorrectly. None of these three outcomes is itself a payment date — an approved status confirms your record, but you'd still confirm the actual disbursement through the payment channels covered below."
+        ]
+      },
+      {
+        "title": "How Do I Register If I'm Not Yet in the System?",
+        "paragraphs": [
+          "If a status check comes back “not found,” you register through the same DPMIS portal by creating an account with your CNIC, contact details, and medical-board selection, rather than through the public verification page. This is a separate flow from the CNIC-only status check above, and conflating the two is a common source of confusion in guides to this program."
+        ],
+        "bullets": [
+          "Visit dpmis.punjab.gov.pk and select the registration option.",
+          "Enter your full name, CNIC, phone number, and B-Form/NADRA details if applying for a child.",
+          "Select your division, district, and medical board for the disability assessment.",
+          "Set a password, complete the captcha, and submit."
+        ],
+        "links": [{ "label": "documents needed for programme registration", "href": "/documents-for-bisp-registration/" }]
+      },
+      {
+        "title": "How Much Does It Pay, and How Do I Check My Balance?",
+        "paragraphs": [
+          "Eligible Himmat Card holders receive Rs 10,500 every three months, paid onto a Bank of Punjab ATM card rather than as a cash handout at a counter. Checking your balance is a different action from checking your eligibility status, and the two get mixed together in a lot of search results.",
+          "Some sources also describe a Punjab Social Protection Authority (PSPA) balance-check route alongside the Bank of Punjab ATM option; this wasn't confirmed on either official Punjab page reviewed for this guide, so treat the ATM check as the dependable default and confirm any PSPA-branded portal through your bank card's own issuing details first."
+        ],
+        "table": {
+          "caption": "Which Himmat Card check are you actually trying to do?",
+          "headers": ["What you want to know", "Where to check", "What you need", "What it shows"],
+          "rows": [
+            ["Am I eligible / registered?", "DPMIS verification page (dpmis.punjab.gov.pk)", "13-digit CNIC", "Approved, under review, or not found"],
+            ["What's my card balance?", "Bank of Punjab ATM", "Physical card + PIN", "Current balance, available for withdrawal"],
+            ["I can't get online", "Helpline 1312 or District Social Welfare Office", "CNIC (bring original in person)", "Status and next steps from staff"]
+          ]
+        }
+      },
+      {
+        "title": "What's New in the Himmat Card Program (September 2026)?",
+        "paragraphs": [
+          "As of this update, one detail every competing guide skips: the official DPMIS FAQ page itself states the Himmat Card program was “approved until June 2025,” with an extension “pending government review” — language that has not been refreshed even as payments and new registrations continue to be discussed well into 2026. That doesn't mean the card has stopped; it means the program's current legal/funding basis, as published, is technically past its stated window, and a future funding gap is a real possibility worth watching rather than assuming away.",
+          "Separately, a Phase 3 distribution of roughly 35,000 additional beneficiaries, planned for around March 2026, has been reported — following an already-completed Phase 1 (40,000) and Phase 2 (25,000). This Phase 3 figure doesn't appear on either official Punjab page checked for this guide, so treat it as a reported rollout detail to verify locally rather than a confirmed guarantee of your own inclusion."
+        ]
+      },
+      {
+        "title": "How Do I Avoid a Fake Himmat Card Site or Agent?",
+        "paragraphs": [
+          "Stick to dpmis.punjab.gov.pk and swd.punjab.gov.pk, or the 1312 helpline, and never pay anyone claiming to speed up approval, unlock a blocked status, or release your quarterly payment early. Both checking your status and registering are free; a request for money, an OTP, or your ATM PIN over the phone is not a legitimate part of this process, regardless of how official the caller sounds."
+        ],
+        "links": [{ "label": "how to spot a fake benefits site or agent", "href": "/avoid-bisp-fraud/" }]
+      }
+    ],
+    "faqs": [
+      { "question": "What is the Himmat Card?", "answer": "It's a Punjab Social Welfare Department card giving eligible persons with disabilities Rs 10,500 every three months, administered through the DPMIS system." },
+      { "question": "How do I check my Himmat Card eligibility by CNIC?", "answer": "Go to dpmis.punjab.gov.pk, open the Himmat Card verification section, enter your 13-digit CNIC without dashes, and submit — no account or password is needed for this check." },
+      { "question": "Is Himmat Card checked through 8171?", "answer": "No. Neither official Punjab source for this program mentions 8171; that number belongs to BISP's own separate household-eligibility check." },
+      { "question": "What PMT score do I need for the Himmat Card?", "answer": "Your BISP-issued Proxy Means Test score must be 45 or below. This is the same PMT figure BISP uses for its own programmes, not a separate disability-specific score." },
+      { "question": "Can I get a Himmat Card if I already receive BISP or Zakat?", "answer": "No. Current BISP, PSPA, Zakat, or Bait ul Maal assistance disqualifies an applicant from the Himmat Card, according to the official eligibility criteria." },
+      { "question": "What does \"under review\" mean on my status check?", "answer": "It means your record has been submitted but is still being processed by the Social Welfare Department; check again after some time rather than resubmitting your CNIC repeatedly." },
+      { "question": "How much does the Himmat Card pay, and how is it delivered?", "answer": "Rs 10,500 every three months, paid onto a Bank of Punjab ATM card rather than handed out as cash at an office." },
+      { "question": "How do I check my Himmat Card balance?", "answer": "Use your Bank of Punjab ATM card and PIN at any Bank of Punjab ATM's balance-inquiry option; this is separate from the CNIC-based DPMIS eligibility check." },
+      { "question": "How do I register if my CNIC shows \"not found\"?", "answer": "Create a new account on dpmis.punjab.gov.pk with your CNIC, contact details, and a selected medical board for your disability assessment, then submit for review." },
+      { "question": "Can a child with a disability get a Himmat Card?", "answer": "Yes — a parent or guardian can apply and manage the card on the child's behalf; there's no separate age limit stated in the published criteria." },
+      { "question": "Is the Himmat Card program guaranteed to continue through 2026?", "answer": "The official DPMIS FAQ describes the program as “approved until June 2025” with an extension pending review, so ongoing availability should be confirmed through official channels rather than assumed indefinitely." },
+      { "question": "Can I check my Himmat Card status without internet?", "answer": "Yes — call the 1312 helpline or visit your District Social Welfare Office in person with your original CNIC." },
+      { "question": "Is there a fee to check status or register?", "answer": "No. Both the status check and registration are free; never pay anyone claiming to speed up or guarantee approval." }
+    ],
+    "officialLinks": [
+      { "label": "Himmat Card FAQs (DPMIS Punjab)", "href": "https://dpmis.punjab.gov.pk/faqs" },
+      { "label": "Himmat Card — Social Welfare Department, Government of the Punjab", "href": "https://swd.punjab.gov.pk/himmatcard" }
     ]
   },
 ];
