@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "BISP Eligibility Criteria: Who Actually Qualifies for Benazir Kafaalat",
+      "description": "BISP eligibility for Benazir Kafaalat is decided by a household's PMT score from the NSER survey, not a fixed income figure — the approved cutoff is 32, relaxed to 37 for households with a differently-abled member.",
+      "author": {
+        "@type": "Person",
+        "name": "Saad Hassan",
+        "TODO": "Add sameAs author-profile URL if/when the site publishes one."
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Ayesha Malik"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Live Govt Schemes & Ehsaas Programs",
+        "TODO": "Add logo ImageObject if not already injected site-wide."
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "TODO": "Fill with the deployed canonical URL, e.g. https://pakbenefits.com/bisp-eligibility-criteria-guide/"
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://www.bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        { "@type": "Thing", "name": "Proxy Means Test" },
+        { "@type": "Thing", "name": "National Socio-Economic Registry" },
+        { "@type": "Thing", "name": "Benazir Kafaalat" },
+        { "@type": "GovernmentOrganization", "name": "NADRA", "sameAs": "https://www.nadra.gov.pk/" }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the BISP eligibility criteria?",
+          "acceptedAnswer": { "@type": "Answer", "text": "BISP eligibility for Benazir Kafaalat is decided by a household's PMT score from the NSER survey — a score of 32 or below qualifies (37 for households with a differently-abled member), rather than a fixed income figure." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a good PMT score for BISP?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A PMT score of 32 or below is the standard qualifying range for Kafaalat as of the BISP Board's 23 September 2021 decision; 37 or below applies for households with a differently-abled member." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an income limit for BISP?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No official rupee income limit is published. BISP uses the PMT score, calculated from housing, assets, and household composition recorded in the NSER survey, instead of a declared income figure." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a government employee get BISP?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Government employees at Grade 17 or above are commonly reported as excluded from Kafaalat, though this specific rule wasn't confirmed on an official BISP page during this review — check directly with a BISP Tehsil office for your exact situation." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an income tax filer receive BISP?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Being a registered Filer has historically counted against eligibility, but a reported 2026 policy shift is reassessing genuinely low-income filers for restoration rather than automatic exclusion. Confirm your specific case at a BISP office." }
+        },
+        {
+          "@type": "Question",
+          "name": "Does owning a car or land disqualify a household?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ownership of a luxury vehicle, multiple motorcycles, or significant agricultural land is commonly reported as a disqualifying factor, since these assets would typically also raise a household's PMT score." }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if my PMT score is above 32?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A score above 32 (or 37 with the disability exception) means the household does not currently qualify for Kafaalat under the approved cutoff. This can change if a later NSER survey update lowers the recorded score." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the PMT cutoff the same for everyone?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. The standard cutoff is 32, but it rises to 37 for households with a differently-abled member, and the PMT requirement is waived entirely for transgender applicants once their survey and NADRA validation are complete." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if my household meets these criteria?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Run an official status check through the 8171 portal or SMS. This guide explains what the result means; the dedicated 8171 guide explains how to get the result." }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I think I was wrongly marked ineligible?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Visit your nearest BISP Tehsil office, explain the specific circumstances you believe are inaccurate or have changed, and ask what update or reassessment process applies." }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the PMT score ever change?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes — NSER is a dynamic registry, and a household's recorded circumstances can be updated through BISP's authorized process, which can shift the score in either direction at a later survey." }
+        }
+      ]
+    }
+  ]
+}

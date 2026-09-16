@@ -1,0 +1,137 @@
+{
+  "keyword": "eligibility criteria for bisp",
+  "entities": [
+    {
+      "canonical": "BISP (Benazir Income Support Programme)",
+      "type": "Organization",
+      "aliases": ["Benazir Income Support Programme", "BISP"],
+      "sameAs": "https://www.bisp.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "PMT score",
+      "type": "Metric",
+      "aliases": ["Proxy Means Test", "PMT"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "NSER",
+      "type": "Product",
+      "aliases": ["National Socio-Economic Registry"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "CNIC",
+      "type": "Concept",
+      "aliases": ["Computerized National Identity Card"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Benazir Kafaalat",
+      "type": "Product",
+      "aliases": ["Kafaalat"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "BISP Board",
+      "type": "Organization",
+      "aliases": [],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "BISP Tehsil Office",
+      "type": "Place",
+      "aliases": ["Benazir Registration Center"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "income tax filer status",
+      "type": "Concept",
+      "aliases": ["Filer"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "differently-abled exception",
+      "type": "Concept",
+      "aliases": ["disability exception", "PMT cutoff 37"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "transgender exception",
+      "type": "Concept",
+      "aliases": [],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "8171 web portal",
+      "type": "Product",
+      "aliases": ["8171"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "NADRA",
+      "type": "Organization",
+      "aliases": ["National Database and Registration Authority"],
+      "sameAs": "https://www.nadra.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 3
+    }
+  ],
+  "relationships": [
+    "BISP —selects beneficiaries via→ PMT score from the NSER survey",
+    "PMT score —measured on a scale of→ 0 to 100",
+    "BISP Board —approved cutoff of→ 32 (52nd meeting, 23 September 2021)",
+    "Households with a differently-abled member —cutoff relaxed to→ 37",
+    "Transgender applicants —PMT requirement waived after→ NADRA identity validation",
+    "NSER survey —conducted at→ Benazir Registration Centers / BISP Tehsil Offices",
+    "Income-tax-filer status —commonly reported as→ a disqualifying factor, with a 2026 reassessment carve-out for low-income filers",
+    "Grade-17+ government employment / large assets —commonly reported as→ automatic disqualifiers",
+    "Expired CNIC or updated survey score above 32 —commonly reported trigger for→ ineligibility",
+    "8171 portal check —is the mechanism to→ see current status (procedure owned by check-bisp-eligibility-8171)"
+  ]
+}
