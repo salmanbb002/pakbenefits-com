@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "aliases": ["BISP"],
+    "type": "GovernmentOrganization",
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 web portal / SMS service",
+    "aliases": ["8171", "8171.bisp.gov.pk"],
+    "type": "Product",
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "aliases": ["CNIC"],
+    "type": "Product",
+    "sameAs": "https://en.wikipedia.org/wiki/Computerized_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER / PMT score",
+    "aliases": ["National Socio-Economic Registry", "Proxy Means Test score"],
+    "type": "Process",
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "SMS eligibility check",
+    "aliases": ["SMS to 8171"],
+    "type": "Process",
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "aliases": ["NADRA"],
+    "type": "GovernmentOrganization",
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Tehsil office",
+    "aliases": ["BISP registration center"],
+    "type": "Place",
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Survey required / no record found status",
+    "aliases": ["no record found", "survey required"],
+    "type": "Concept",
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Benazir Kafaalat",
+    "aliases": ["Kafaalat"],
+    "type": "Product",
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "BISP helpline",
+    "aliases": [],
+    "type": "Concept",
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 3
+  }
+]
