@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/ramzan-package-check-guide/#article",
+      "headline": "Ramzan Package Check: Is It 8171, 9999, or a Different Number?",
+      "description": "The Ramzan Relief Package is checked via NITB's portal or SMS to 9999 — not BISP's 8171. See how the check works and how to avoid fake sites.",
+      "mainEntityOfPage": "https://pakbenefits.com/ramzan-package-check-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: confirm author (site convention uses contributors.saadHassan / contributors.ayeshaMalik — pick one, do not invent a new name)"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com/"
+      },
+      "datePublished": "TODO: set on actual publish date (draft written 2026-09-14)",
+      "dateModified": "TODO: set on actual publish date (draft written 2026-09-14)",
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Prime Minister's Ramzan Relief Package",
+          "sameAs": null
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Information Technology Board",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Information_Technology_Board"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "Thing",
+          "name": "National Socio-Economic Registry (NSER)",
+          "sameAs": null
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/ramzan-package-check-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the Ramzan Package the same as BISP's 8171 service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. BISP is a separate program with its own established 8171 number, even though the Ramzan Package draws on some of the same underlying NSER data. Several pages online conflate the two because 8171 is more widely recognized."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do different websites give different numbers for the same check?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because this program doesn't have one single, universally cited authoritative source that every content site checks against — some default to BISP's more recognizable 8171 number, while others follow the 9999 code that's consistent with the official portal's own domain pattern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check my eligibility?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Send your 13-digit CNIC to 9999 by SMS, or enter it on the official pmrrp.nitb.gov.pk portal with the CAPTCHA verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a registration fee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The eligibility check itself is free; standard network SMS charges from your provider may still apply."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply without a CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — a valid Computerized National Identity Card is required for either check method."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much financial assistance is given?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Commonly reported figures are Rs 13,000 for the federal package and Rs 10,000 for provincial variants, though these were not visible on the official portal excerpt reviewed for this guide — confirm the current figure before relying on it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply online for the Ramzan Package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most people don't need to apply separately — eligibility is generally drawn from existing NSER or BISP records. If you've never registered with either, that's the step to complete first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to get a reply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most SMS and portal checks return a result within minutes, though delays are reported during high-traffic periods."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is registration required for everyone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Most applicants are checked automatically against existing NSER or BISP data rather than registering from scratch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use someone else's CNIC or SIM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Both methods require your own valid CNIC and a SIM registered in your own name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How will I receive the payment after approval?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Reported channels include bank transfer, ATM withdrawal with biometric verification, mobile wallets, or designated government cash centers — verify the specific method through the official channel once your status shows eligible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can government employees apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Regular government employees are generally excluded from eligibility, according to the criteria described across the sources reviewed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Ramzan Package still open in September 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The most recent cycle covered Ramadan 2026 (February-March), which has already ended. A new cycle is expected to be announced closer to the next Ramadan rather than remaining open year-round."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/ramzan-package-check-guide/#howto-sms",
+      "name": "How to check Ramzan Package status by SMS",
+      "step": [
+        { "@type": "HowToStep", "text": "Open your phone's messaging app." },
+        { "@type": "HowToStep", "text": "Type your 13-digit CNIC number without dashes." },
+        { "@type": "HowToStep", "text": "Send it to 9999." },
+        { "@type": "HowToStep", "text": "Wait for a reply message confirming your status." }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/ramzan-package-check-guide/#howto-portal",
+      "name": "How to check Ramzan Package status on the official portal",
+      "step": [
+        { "@type": "HowToStep", "text": "Go to the official portal at pmrrp.nitb.gov.pk." },
+        { "@type": "HowToStep", "text": "Enter your CNIC number." },
+        { "@type": "HowToStep", "text": "Complete the CAPTCHA verification." },
+        { "@type": "HowToStep", "text": "Submit the form to see your result." }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/ramzan-package-check-guide/#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pakbenefits.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Other Schemes", "item": "https://pakbenefits.com/other-schemes/" },
+        { "@type": "ListItem", "position": 3, "name": "Ramzan Package Check", "item": "https://pakbenefits.com/ramzan-package-check-guide/" }
+      ]
+    }
+  ]
+}

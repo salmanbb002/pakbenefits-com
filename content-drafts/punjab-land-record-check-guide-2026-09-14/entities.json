@@ -1,0 +1,257 @@
+{
+  "primaryKeyword": "land record punjab online check by cnic",
+  "entities": [
+    {
+      "canonical": "Punjab Land Records Authority (PLRA)",
+      "type": "GovernmentOrganization",
+      "aliases": ["PLRA"],
+      "sameAs": "https://en.wikipedia.org/wiki/Punjab_Land_Records_Authority",
+      "kind": "entity",
+      "competitorCount": 4,
+      "inTitleOrH2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "CNIC",
+      "type": "Product",
+      "aliases": ["Computerized National Identity Card"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 4,
+      "inTitleOrH2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Fard",
+      "type": "Document",
+      "aliases": ["Fard-e-Malkiat", "Record of Rights"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 4,
+      "inTitleOrH2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "OTP verification",
+      "type": "Process",
+      "aliases": ["One-Time Password"],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 3,
+      "inTitleOrH2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Board of Revenue, Punjab",
+      "type": "GovernmentOrganization",
+      "aliases": ["BOR Punjab"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 3,
+      "inTitleOrH2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Official land-record portal",
+      "type": "Product",
+      "aliases": ["Punjab Zameen", "punjab-zameen.gov.pk", "ROD portal", "rod.pulse.gop.pk"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 4,
+      "inTitleOrH2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Overseas Pakistani land-record access",
+      "type": "Process",
+      "aliases": ["NICOP-based remote verification"],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 3,
+      "inTitleOrH2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Arazi Record Center (ARC)",
+      "type": "Place",
+      "aliases": ["ARC"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 2,
+      "inTitleOrH2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Mutation (Intiqaal)",
+      "type": "Process",
+      "aliases": ["Mutation"],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 2,
+      "inTitleOrH2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Jamabandi",
+      "type": "Document",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 2,
+      "inTitleOrH2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Fee for land-record documents",
+      "type": "Concept",
+      "aliases": ["Fard fee", "certified copy fee"],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 2,
+      "inTitleOrH2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "No record found troubleshooting",
+      "type": "Concept",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 2,
+      "inTitleOrH2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Mobile number linked to CNIC",
+      "type": "Process",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 2,
+      "inTitleOrH2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "PLRA Act 2017",
+      "type": "Law",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 3,
+      "inTitleOrH2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Patwari system",
+      "type": "Process",
+      "aliases": ["Manual record-keeping"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 2,
+      "inTitleOrH2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Aks Shajra",
+      "type": "Document",
+      "aliases": ["Digital shajra map"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 1,
+      "inTitleOrH2": true,
+      "tier": 3
+    },
+    {
+      "canonical": "Green Property Certificate",
+      "type": "Product",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 1,
+      "inTitleOrH2": true,
+      "tier": 3
+    },
+    {
+      "canonical": "E-Khidmat Markaz",
+      "type": "Place",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitorCount": 1,
+      "inTitleOrH2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "Khewat/Khatuni number",
+      "type": "Metric",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 1,
+      "inTitleOrH2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "Fard Bay / Fard Badar",
+      "type": "Document",
+      "aliases": ["Transaction-specific fard types"],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 1,
+      "inTitleOrH2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "PSID payment",
+      "type": "Product",
+      "aliases": ["Payment Slip ID"],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 1,
+      "inTitleOrH2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "QR code verification",
+      "type": "Process",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "term",
+      "competitorCount": 1,
+      "inTitleOrH2": false,
+      "tier": 3
+    }
+  ],
+  "relationships": [
+    "PLRA —established under→ PLRA Act 2017",
+    "PLRA —operates under→ Board of Revenue, Punjab",
+    "PLRA/LRMIS —replaced→ the manual Patwari record system",
+    "LRMIS —launched as a project in→ 2006, formalized as PLRA in 2017",
+    "Land-record check —requires→ a valid CNIC and a mobile number linked to that CNIC",
+    "Land-record check —is verified via→ an OTP sent to the registered mobile number",
+    "Fard —is→ an extract proving current land ownership status, not the full revenue record",
+    "Jamabandi —differs from→ Fard (Jamabandi = complete periodic revenue record; Fard = specific-owner extract)",
+    "Mutation (Intiqaal) —records→ a change of ownership from a sale, inheritance, or gift",
+    "Overseas Pakistanis —can verify ownership remotely using→ a NICOP or passport number",
+    "Arazi Record Centers —provide→ in-person Fard issuance, corrections, and dispute-related services",
+    "A 'no record found' result —is commonly caused by→ an unlinked mobile number, wrong district/tehsil, or an un-mutated record",
+    "Board of Revenue Punjab —names→ punjab-zameen.gov.pk as the official online gateway",
+    "plra.gop.pk (Wikipedia's cited domain) —is→ currently unreachable",
+    "A land-record fee —is reported by secondary sources as→ a few hundred rupees, not independently confirmed this session",
+    "CNIC —is reused across→ BISP/Ehsaas/Taleemi Wazaif checks and Punjab land-record checks, as separate databases"
+  ],
+  "dedupeLog": {
+    "removed": [
+      "Near-duplicate district-count stat (36 vs 36+) — kept the more conservative '36+' phrasing since no source gave an exact dated total"
+    ],
+    "parkedOutOfScope": [
+      "landrecordpunjab.com's paid WhatsApp Fard-delivery service, '20+ years experience' claim, and vendor contact details — a single competitor's commercial offering, not a generic entity"
+    ],
+    "parkedUnverifiable": [
+      "governmentschemes.pk: 42 million landowners, 100%/85% rural/urban coverage, PKR 5,000-30,000+ 'professional verification' cost, '2027 developments' — uncorroborated by any other source or the official .gov.pk page fetched in Step 2"
+    ],
+    "parkedTier3UsedOnlyWhereNatural": [
+      "Green Property Certificate", "QR code verification", "PSID payment", "Khewat/Khatuni numbers", "Aks Shajra", "E-Khidmat Markaz", "Fard Bay / Fard Badar"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/fuel-relief-scheme-guide/#article",
+      "headline": "Fuel Relief Scheme Pakistan: Rs100/Litre Petrol Subsidy Explained (2026)",
+      "description": "The Fuel Relief Scheme is checked and registered via SMS to 9771 — a Rs100/litre petrol subsidy for motorcycles, three-wheelers, and cars up to 800cc, run by the Petroleum Division.",
+      "datePublished": "2026-09-15",
+      "dateModified": "2026-09-15",
+      "author": { "@type": "Person", "name": "Saad Hassan" },
+      "reviewedBy": { "@type": "Person", "name": "Ayesha Malik" },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Live Govt Schemes & Ehsaas Programs",
+        "url": "https://pakbenefits.com"
+      },
+      "mainEntityOfPage": "https://pakbenefits.com/fuel-relief-scheme-guide/",
+      "about": [
+        { "@type": "GovernmentService", "name": "Fuel Relief Scheme" },
+        { "@type": "GovernmentOrganization", "name": "Petroleum Division" },
+        { "@type": "GovernmentOrganization", "name": "Economic Coordination Committee" },
+        { "@type": "Person", "name": "Shehbaz Sharif", "sameAs": "https://en.wikipedia.org/wiki/Shehbaz_Sharif" }
+      ],
+      "mentions": [
+        { "@type": "Organization", "name": "State Bank of Pakistan", "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan" },
+        { "@type": "Organization", "name": "Oil and Gas Regulatory Authority", "sameAs": "https://en.wikipedia.org/wiki/Oil_and_Gas_Regulatory_Authority" },
+        { "@type": "Organization", "name": "Benazir Income Support Programme" },
+        { "@type": "Thing", "name": "Fuel Pass System" },
+        { "@type": "Thing", "name": "CNIC" }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pakbenefits.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Punjab Schemes", "item": "https://pakbenefits.com/punjab-schemes/" },
+        { "@type": "ListItem", "position": 3, "name": "Fuel Relief Scheme", "item": "https://pakbenefits.com/fuel-relief-scheme-guide/" }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to register for the Fuel Relief Scheme by SMS",
+      "step": [
+        { "@type": "HowToStep", "name": "Confirm SIM ownership", "text": "Confirm your SIM is registered in your own name and matches your CNIC." },
+        { "@type": "HowToStep", "name": "Send registration SMS", "text": "Text your CNIC number, vehicle registration number, your province's first letter, and the vehicle's registration date to 9771." },
+        { "@type": "HowToStep", "name": "Wait for confirmation", "text": "Wait for a confirmation reply from 9771 confirming your registration." },
+        { "@type": "HowToStep", "name": "Request a fuel token", "text": "Before visiting a petrol station, text TOK to 9771 to receive a one-time digital fuel token." },
+        { "@type": "HowToStep", "name": "Redeem at the pump", "text": "Show the token to the attendant at a participating petrol station to receive the Rs100/litre discount." }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "What is the Fuel Relief Scheme?", "acceptedAnswer": { "@type": "Answer", "text": "It's a federal petrol subsidy of Rs100 per litre for motorcycles, three-wheelers, and cars up to 800cc, funded through an Rs75 billion ECC-approved grant and run by the Petroleum Division for three months." } },
+        { "@type": "Question", "name": "How do I register for the Fuel Relief Scheme?", "acceptedAnswer": { "@type": "Answer", "text": "Text your CNIC number, vehicle registration number, your province's first letter, and your vehicle's registration date to 9771 using a SIM registered in your own name." } },
+        { "@type": "Question", "name": "How do I get my fuel token?", "acceptedAnswer": { "@type": "Answer", "text": "Before visiting a petrol station, text TOK to 9771 to receive a one-time digital fuel token to show at the pump." } },
+        { "@type": "Question", "name": "Is the Fuel Relief Scheme the same as BISP or the Ramzan Package?", "acceptedAnswer": { "@type": "Answer", "text": "No. BISP and the Ramzan Package are cash transfers based on a poverty-registry (NSER) score; the Fuel Relief Scheme is a universal vehicle-based subsidy with no income or PMT test at all." } },
+        { "@type": "Question", "name": "How much fuel can I buy under the scheme?", "acceptedAnswer": { "@type": "Answer", "text": "Motorcycle and three-wheeler owners can buy up to 20 litres a month; owners of cars up to 800cc can buy up to 30 litres a month, both at Rs100 off per litre." } },
+        { "@type": "Question", "name": "Does the subsidy cover diesel?", "acceptedAnswer": { "@type": "Answer", "text": "No. Only petrol purchases are subsidized; high-speed diesel is excluded entirely." } },
+        { "@type": "Question", "name": "Can I register more than one vehicle?", "acceptedAnswer": { "@type": "Answer", "text": "No. Only one vehicle can be registered per CNIC under the criteria reported so far." } },
+        { "@type": "Question", "name": "My motorcycle was registered before 2011 — can I still apply?", "acceptedAnswer": { "@type": "Answer", "text": "According to the eligibility criteria reported for this scheme, motorcycles and three-wheelers must be registered on or after 1 January 2011 to qualify." } },
+        { "@type": "Question", "name": "Why do some guides say to text \"REG\" and others don't?", "acceptedAnswer": { "@type": "Answer", "text": "Sources disagree on the exact message format: a state-broadcaster account describes a plain CNIC-plate-province-date message, while some independent guides add a \"REG\" prefix. No verbatim official notification was found to settle this, so both are presented here rather than one being stated as certain." } },
+        { "@type": "Question", "name": "When does the scheme start in my area?", "acceptedAnswer": { "@type": "Answer", "text": "It began in Islamabad at midnight between 14 and 15 September 2026, and expands to the rest of Pakistan, AJK, and Gilgit-Baltistan at midnight between 16 and 17 September 2026." } },
+        { "@type": "Question", "name": "Is there a fee to register or get a fuel token?", "acceptedAnswer": { "@type": "Answer", "text": "No. Both steps are free via SMS; never pay anyone claiming to register you or unlock your token faster." } },
+        { "@type": "Question", "name": "How does the petrol station apply my discount?", "acceptedAnswer": { "@type": "Answer", "text": "You show your digital fuel token at a participating station, which applies the Rs100/litre discount directly at the pump, up to your monthly litre cap; the station is later reimbursed by the State Bank of Pakistan." } },
+        { "@type": "Question", "name": "How long will the Fuel Relief Scheme run?", "acceptedAnswer": { "@type": "Answer", "text": "It's currently stated to run for three months from each area's launch date, though no official fixed end date has been published yet." } }
+      ]
+    }
+  ]
+}

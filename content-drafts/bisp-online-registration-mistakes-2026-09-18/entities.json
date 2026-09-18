@@ -1,0 +1,142 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Benazir Program", "Ehsaas Programme"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER Dynamic Registry",
+    "type": "PublicRegistry",
+    "aliases": ["Dynamic Survey", "BISP Dynamic Registration", "NSER Registration Desk"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentityDocument",
+    "aliases": ["CNIC", "Shanakhti Card", "Smart Card"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "WebPortal",
+    "aliases": ["8171 portal", "8171 bisp gov pk", "8171 check online"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "GovernmentOffice",
+    "aliases": ["Dynamic Registration Center", "Tehsil Center", "BISP Desk"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA Family Database",
+    "type": "Database",
+    "aliases": ["NADRA Family Tree", "NADRA Records", "NADRA Marital Status"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT Score", "Poverty Score", "NSER Cutoff"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Child Registration Certificate",
+    "type": "IdentityDocument",
+    "aliases": ["B-Form", "CRC", "Bay Form", "Child Form"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric Verification",
+    "type": "Process",
+    "aliases": ["Fingerprint match", "Thumb impression", "Biometric device"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PTA Biometric SIM Card",
+    "type": "TelecommunicationAsset",
+    "aliases": ["Registered SIM", "Applicant Mobile Number", "Personal SIM"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Benazir Kafaalat",
+    "type": "SocialWelfareProgram",
+    "aliases": ["Kafaalat Scheme", "BISP Quarterly Cash"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Taleemi Wazaif",
+    "type": "SocialWelfareProgram",
+    "aliases": ["BISP Education Stipends", "Waseela-e-Taleem"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Household Utility Bill",
+    "type": "Document",
+    "aliases": ["Electricity Bill", "Gas Bill", "Address Proof"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Fraudulent Registration Scams",
+    "type": "SecurityRisk",
+    "aliases": ["Fake online apply form", "Agent fee fraud", "WhatsApp registration link"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

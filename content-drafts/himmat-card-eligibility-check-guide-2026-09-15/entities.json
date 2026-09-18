@@ -1,0 +1,197 @@
+{
+  "keyword": "himmat card eligibility check",
+  "entities": [
+    {
+      "canonical": "Himmat Card",
+      "type": "Product",
+      "aliases": ["CM Himmat Card", "CM Punjab Himmat Card"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Punjab Social Welfare Department",
+      "type": "Organization",
+      "aliases": ["Social Welfare Department Punjab", "SWD Punjab", "Social Welfare Punjab"],
+      "sameAs": "https://swd.punjab.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "DPMIS",
+      "type": "Product",
+      "aliases": ["DPMIS Portal", "Disabled Persons Management Information System"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "PMT score",
+      "type": "Metric",
+      "aliases": ["Proxy Means Test score"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "BISP",
+      "type": "Organization",
+      "aliases": ["Benazir Income Support Programme"],
+      "sameAs": "https://www.bisp.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "CNIC",
+      "type": "Concept",
+      "aliases": ["Computerized National Identity Card"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "disability certificate",
+      "type": "Concept",
+      "aliases": ["Not Fit to Work certificate"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "helpline 1312",
+      "type": "Contact",
+      "aliases": ["1312"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Bank of Punjab",
+      "type": "Organization",
+      "aliases": ["BOP"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Zakat",
+      "type": "Organization",
+      "aliases": ["Zakat Fund"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Bait ul Maal",
+      "type": "Organization",
+      "aliases": [],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "PSPA",
+      "type": "Organization",
+      "aliases": ["Punjab Social Protection Authority"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "medical board",
+      "type": "Process",
+      "aliases": [],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Phase 3 distribution",
+      "type": "Event",
+      "aliases": ["35,000 beneficiaries", "March 2026 distribution"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "District Social Welfare Office",
+      "type": "Organization",
+      "aliases": ["tehsil office"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "NADRA",
+      "type": "Organization",
+      "aliases": ["National Database and Registration Authority"],
+      "sameAs": "https://www.nadra.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "8171 (unconfirmed Himmat Card claim)",
+      "type": "Product",
+      "aliases": ["8171 web portal"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 0,
+      "in_title_or_h2": true,
+      "tier": 3,
+      "note": "Named only to correct a contradicted search-snippet claim, not presented as fact"
+    }
+  ],
+  "relationships": [
+    "Himmat Card --administered by--> Punjab Social Welfare Department",
+    "Himmat Card --pays--> Rs 10,500 quarterly",
+    "Himmat Card eligibility --requires--> PMT score of 45 or below",
+    "PMT score --issued by--> BISP",
+    "Himmat Card --excludes recipients of--> BISP, PSPA, Zakat, Bait ul Maal aid",
+    "Himmat Card status --checked via--> dpmis.punjab.gov.pk/himmatcard-verification (CNIC only, no login)",
+    "Himmat Card registration --requires--> separate DPMIS account (CNIC + password + medical board selection)",
+    "Himmat Card payment --disbursed through--> Bank of Punjab ATM card",
+    "Himmat Card --requires--> disability certificate confirming Not Fit to Work",
+    "Distribution --has run in batches--> Phase 1 (40,000), Phase 2 (25,000), reported Phase 3 (35,000, unconfirmed)",
+    "Official approval window --stated as--> approved until June 2025, extension pending",
+    "Helpline 1312 --supports checks for--> applicants without internet access",
+    "8171 --is BISP's own number--> not corroborated as a Himmat Card channel by official Punjab sources"
+  ],
+  "dedupe_log": [
+    "DPMIS Portal + Disabled Persons Management Information System -> canonical: DPMIS",
+    "SWD Punjab + Social Welfare Department, Government of the Punjab -> canonical: Punjab Social Welfare Department",
+    "Parked out-of-scope: full CM Kissan Card / Punjab Rozgar mechanics (own guides, linked not repeated)",
+    "Parked out-of-scope: general BISP 8171 household-eligibility mechanics (belongs to /8171/, referenced here only to correct the false Himmat-Card-via-8171 claim)"
+  ]
+}

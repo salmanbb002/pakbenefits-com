@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/punjab-land-record-check-guide/#article",
+      "headline": "How to Check Punjab Land Records Online by CNIC (2026)",
+      "description": "Check Punjab land records online by CNIC — the official portal, what a Fard actually shows, real fees, and what to do if no record appears.",
+      "mainEntityOfPage": "https://pakbenefits.com/punjab-land-record-check-guide/",
+      "datePublished": "TODO: set to actual publish date, not draft date",
+      "dateModified": "TODO: set to actual publish date, not draft date",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: confirm author (site pattern uses Saad Hassan / Ayesha Malik as author/reviewer pair — confirm assignment before publishing)"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com/"
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Land Records Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/Punjab_Land_Records_Authority"
+        }
+      ],
+      "mentions": [
+        { "@type": "Thing", "name": "CNIC" },
+        { "@type": "Thing", "name": "Fard" },
+        { "@type": "GovernmentOrganization", "name": "Board of Revenue, Punjab" },
+        { "@type": "Thing", "name": "Jamabandi" },
+        { "@type": "Thing", "name": "Mutation (Intiqaal)" },
+        { "@type": "Place", "name": "Arazi Record Center" },
+        { "@type": "Legislation", "name": "PLRA Act 2017" }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/punjab-land-record-check-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I download my Fard copy online using my CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if your record has already been digitized and your mobile number is linked to that CNIC — you enter your CNIC and location details, verify an OTP, and download the Fard as a PDF."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is checking a Punjab land record online free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The basic check and digital view are generally described as free, with a small fee reported for certified or stamped copies. Confirm the current fee on the portal itself, since this wasn't independently verified this session."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can overseas Pakistanis check land records online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, generally using an NICOP or passport number instead of a domestic CNIC path, with the OTP sent to a number they can access from abroad. Confirm the current process directly, since remote-access details change."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my land record is not appearing on the portal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Check that the mobile number linked to your CNIC is current, that you selected the correct district and tehsil, and that the property hasn't simply not been digitized yet. If it's still under a relative's name, that's a mutation issue, not a search error."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are documents downloaded from the portal accepted by banks and courts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Multiple sources describe portal-issued documents as accepted for these purposes, but confirm this with the specific bank or court involved in your case, since acceptance requirements can vary."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a registered mobile number to check my land record?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the OTP verification step that confirms your identity is sent to the mobile number linked to your CNIC, so without access to that number you generally cannot complete the check online."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I check someone else's land record using my own CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The system is built to verify a specific CNIC holder's own record through their own linked mobile number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is PLRA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PLRA stands for the Punjab Land Records Authority, the government body established in 2017 that runs Punjab's digitized land-record system in place of the older manual patwari process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What replaced the Patwari system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Punjab Land Records Authority's digital record system, built on the LRMIS project that began in 2006, replaced the traditional patwari-based manual record-keeping process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between a Fard and a Jamabandi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Fard is a specific-owner extract showing current ownership — what you get from an online check. A Jamabandi is the full periodic revenue register for an entire mauza that the Fard is drawn from."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why doesn't my land show up if it belonged to my parent or another relative?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because an online CNIC search only returns records currently registered under that exact CNIC. If ownership hasn't been formally transferred to you through a mutation (intiqaal) yet, the land will still show under the previous owner's record, not yours."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/punjab-land-record-check-guide/#howto",
+      "name": "How to Check Punjab Land Records Online by CNIC",
+      "step": [
+        { "@type": "HowToStep", "position": 1, "text": "Open the current official land-record portal — verify the domain against a current Board of Revenue Punjab notice first." },
+        { "@type": "HowToStep", "position": 2, "text": "Enter your CNIC number, typically without dashes." },
+        { "@type": "HowToStep", "position": 3, "text": "Select your district and tehsil, and mauza if the form asks for it." },
+        { "@type": "HowToStep", "position": 4, "text": "Choose the document or record type you want, if more than one is offered." },
+        { "@type": "HowToStep", "position": 5, "text": "Enter the OTP sent by SMS to your registered mobile number." },
+        { "@type": "HowToStep", "position": 6, "text": "Download the resulting document, usually as a PDF." }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/punjab-land-record-check-guide/#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pakbenefits.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Punjab Schemes", "item": "https://pakbenefits.com/punjab-schemes/" },
+        { "@type": "ListItem", "position": 3, "name": "How to Check Punjab Land Records Online by CNIC", "item": "https://pakbenefits.com/punjab-land-record-check-guide/" }
+      ]
+    }
+  ]
+}

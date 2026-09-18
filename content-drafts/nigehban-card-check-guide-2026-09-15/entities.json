@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "canonical": "Nigehban Card",
+      "type": "Product",
+      "aliases": ["Ramzan Nigehban Card", "Ramzan Nigehban Package", "CM Nigehban Card Program", "Nigehban Ramzan Package"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "CNIC",
+      "type": "Other",
+      "aliases": ["Computerized National Identity Card", "13-digit CNIC"],
+      "sameAs": ["https://en.wikipedia.org/wiki/CNIC_(Pakistan)"],
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Punjab Socio-Economic Registry",
+      "type": "Org",
+      "aliases": ["PSER"],
+      "sameAs": ["https://pser.punjab.gov.pk/"],
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "8070",
+      "type": "Other",
+      "aliases": ["8070 SMS code", "8070 short code"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Rs 10,000 cash assistance",
+      "type": "Money",
+      "aliases": ["Rs. 10,000", "10000 Nigehban card amount"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Government of Punjab",
+      "type": "Org",
+      "aliases": ["Punjab Government", "CM Maryam Nawaz's office"],
+      "sameAs": ["https://punjab.gov.pk/"],
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Punjab Social Protection Authority",
+      "type": "Org",
+      "aliases": ["PSPA"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Punjab Information Technology Board",
+      "type": "Org",
+      "aliases": ["PITB"],
+      "sameAs": ["https://www.pitb.gov.pk/"],
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "CM Special Monitoring Unit",
+      "type": "Org",
+      "aliases": ["SMU"],
+      "sameAs": ["https://smu.punjab.gov.pk/"],
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Rashan package",
+      "type": "Product",
+      "aliases": ["ration package", "subsidized groceries"],
+      "sameAs": [],
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "PMT score",
+      "type": "Metric",
+      "aliases": ["Proxy Means Test score", "poverty score"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "BISP beneficiaries",
+      "type": "Other",
+      "aliases": ["BISP households"],
+      "sameAs": [],
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Helpline 0800-02345",
+      "type": "Other",
+      "aliases": ["Punjab Government Helpline"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Distribution channels",
+      "type": "Other",
+      "aliases": ["HBL Konnect", "UBL Omni", "branchless banking agents"],
+      "sameAs": [],
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "9999",
+      "type": "Other",
+      "aliases": ["9999 SMS code"],
+      "sameAs": [],
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Rs 47 billion budget",
+      "type": "Money",
+      "aliases": ["total budget"],
+      "sameAs": [],
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "4.2 million families",
+      "type": "Metric",
+      "aliases": [],
+      "sameAs": [],
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 3
+    }
+  ],
+  "relationships": [
+    "Nigehban Card —administered by→ Government of Punjab / CM Maryam Nawaz's office",
+    "Nigehban Card —draws eligibility from→ Punjab Socio-Economic Registry (PSER)",
+    "PSER —operated by→ Punjab Social Protection Authority (PSPA), tech support from PITB",
+    "Nigehban Card —checked via→ SMS to 8070 (majority-corroborated) or PSER portal login",
+    "Nigehban Card —provides→ Rs 10,000 (ATM-style card) plus a subsidized rashan package",
+    "PMT score below 32 —reported to qualify a household for→ Nigehban Card",
+    "BISP beneficiaries —given priority for→ Nigehban Card",
+    "Nigehban Card —excludes→ government employees, large landowners, high-income households",
+    "CM Special Monitoring Unit —oversees→ Nigehban Card Program implementation",
+    "Nigehban Card —distributed through→ HBL Konnect, UBL Omni, bank ATMs, branchless banking agents",
+    "Nigehban Card —distinct programme from→ federal PM Ramzan Relief Package (9999) and BISP's 8171",
+    "9999 —claimed by a minority of sources as→ Nigehban's own code, contradicting the majority 8070 claim",
+    "Registration/PSER-enrollment deadline (~mid-February) —marks close of→ that year's cycle window"
+  ]
+}

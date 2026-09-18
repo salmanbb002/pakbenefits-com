@@ -1,0 +1,219 @@
+{
+  "primaryKeyword": "ramzan package check",
+  "entities": [
+    {
+      "canonical": "Prime Minister's Ramzan Relief Package (PMRRP)",
+      "type": "GovernmentProgram",
+      "aliases": ["Ramzan Package", "Ramzan Relief Package", "9999 Ramzan Package", "8171 Ramzan Package (incorrect branding by some sources)"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1,
+      "attributes": {
+        "administeredBy": "National Information Technology Board (NITB)",
+        "checkedVia": ["pmrrp.nitb.gov.pk web portal", "SMS to 9999"],
+        "reportedAmount": "Rs 13,000 (federal figure, third-party reported, not confirmed on the official portal excerpt fetched)"
+      }
+    },
+    {
+      "canonical": "National Information Technology Board (NITB)",
+      "type": "Organization",
+      "aliases": ["NITB"],
+      "sameAs": "https://en.wikipedia.org/wiki/National_Information_Technology_Board",
+      "kind": "entity",
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Benazir Income Support Programme (BISP)",
+      "type": "GovernmentProgram",
+      "aliases": ["BISP", "Benazir Kafaalat"],
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1,
+      "attributes": {
+        "relationshipToPMRRP": "administratively separate program; its own SMS code is 8171, not confirmed as PMRRP's code"
+      }
+    },
+    {
+      "canonical": "CNIC (Computerized National Identity Card)",
+      "type": "Concept",
+      "aliases": ["CNIC"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "SMS short code 9999",
+      "type": "Metric",
+      "aliases": ["9999"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "SMS short code 8171",
+      "type": "Metric",
+      "aliases": ["8171"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "National Socio-Economic Registry (NSER)",
+      "type": "Concept",
+      "aliases": ["NSER"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": 1
+    },
+    {
+      "canonical": "Rs 13,000 federal package figure",
+      "type": "Money",
+      "aliases": ["Rs. 13,000"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 3,
+      "tier": 2
+    },
+    {
+      "canonical": "Rs 10,000 provincial/CM package figure",
+      "type": "Money",
+      "aliases": ["Rs. 10,000"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "tier": 2
+    },
+    {
+      "canonical": "PMT score (Proxy Means Test)",
+      "type": "Metric",
+      "aliases": ["PMT score"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 2,
+      "tier": 2
+    },
+    {
+      "canonical": "National Database and Registration Authority (NADRA)",
+      "type": "Organization",
+      "aliases": ["NADRA"],
+      "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+      "kind": "entity",
+      "competitor_count": 2,
+      "tier": 2
+    },
+    {
+      "canonical": "SMS short code 8070",
+      "type": "Metric",
+      "aliases": ["8070"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "tier": 2
+    },
+    {
+      "canonical": "Punjab Socio-Economic Registry (PSER)",
+      "type": "Concept",
+      "aliases": ["PSER"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "tier": 2
+    },
+    {
+      "canonical": "KPK Ramzan Package (provincial variant)",
+      "type": "GovernmentProgram",
+      "aliases": ["Ramzan Package KPK 2026"],
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "tier": 2
+    },
+    {
+      "canonical": "Payment distribution channels",
+      "type": "Process",
+      "aliases": ["bank transfer", "ATM biometric withdrawal", "mobile wallets", "cash centers"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 4,
+      "tier": 2
+    },
+    {
+      "canonical": "Rejection reasons",
+      "type": "Concept",
+      "aliases": ["high-income tax filer exclusion", "government employee exclusion"],
+      "sameAs": null,
+      "kind": "term",
+      "competitor_count": 2,
+      "tier": 2
+    },
+    {
+      "canonical": "Easypaisa",
+      "type": "Product",
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "tier": 3
+    },
+    {
+      "canonical": "JazzCash",
+      "type": "Product",
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "tier": 3
+    },
+    {
+      "canonical": "Ehsaas Rashan Subsidy (8123)",
+      "type": "GovernmentProgram",
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "tier": 3,
+      "note": "Named by one source only as a distinct program from PMRRP; mentioned for disambiguation, not absorbed as a topic."
+    },
+    {
+      "canonical": "Nigehban Relief / Nigehban Ramadan Package",
+      "type": "GovernmentProgram",
+      "sameAs": null,
+      "kind": "entity",
+      "competitor_count": 1,
+      "tier": 3,
+      "note": "One source maps this to SMS code 9999 as a separate program; contradicts other sources. Stated as an open discrepancy, not resolved. Own dedicated article queued separately (Round-2 keyword batch)."
+    }
+  ],
+  "relationships": [
+    "PMRRP -administeredBy-> National Information Technology Board (NITB)",
+    "PMRRP -checkedVia-> pmrrp.nitb.gov.pk and SMS to 9999",
+    "PMRRP -commonlyReportedToPay-> Rs 13,000 (unconfirmed on official portal excerpt)",
+    "Provincial/CM Ramzan package -commonlyReportedToPay-> Rs 10,000, administered separately per province",
+    "Eligibility -determinedLargelyBy-> existing NSER / BISP database records",
+    "BISP -administrativelySeparateFrom-> PMRRP, despite both drawing on NSER data",
+    "8171 -isBISPsOwnSMSCode-> not confirmed as PMRRP's code by the official NITB-linked source",
+    "9999 -isTheSMSCode-> cited by the official-portal-adjacent and majority of sources for PMRRP",
+    "PMT score -usedWithin-> NSER to help identify low-income households",
+    "Rejection -canFollowFrom-> high-income tax-filer status or regular government employment",
+    "Ramadan 2026 -occurred-> 19 February - 21 March 2026 in Pakistan",
+    "Punjab's provincial variant -drawsOn-> PSER (Punjab Socio-Economic Registry)",
+    "Nigehban Relief and Ehsaas Rashan Subsidy -namedByOneSourceAsSeparateFrom-> PMRRP, with inconsistent SMS-code claims across sources"
+  ],
+  "dedupeLog": [
+    "'Benazir Kafaalat' folded into the existing BISP entity (canonical form already used on pakbenefits.com).",
+    "'9999 Web Portal' (a competitor's own branding) treated as an alias/term under PMRRP, not a separate entity.",
+    "Full BISP registration mechanics parked out-of-scope — belongs to /how-to-register-bisp-online-guide/, not repeated here.",
+    "Full Nigehban Card program details and full 'land record' topic parked out-of-scope — each is its own separate article (Round-2 keyword batch); linked, not absorbed."
+  ]
+}

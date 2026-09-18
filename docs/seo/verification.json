@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-16T23:36:30.653Z",
+  "checkedAt": "2026-09-18T03:23:20.717Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 59,
+  "routeCount": 60,
   "failures": [],
   "pending": [],
   "pages": [
@@ -692,6 +692,19 @@
       "title": "How to Check BISP Eligibility: Portal, SMS & Office | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 146,
       "editorialWords": 1444,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-online-registration-mistakes/",
+      "title": "7 Mistakes That Delay BISP Online Registration (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 153,
+      "editorialWords": 1330,
       "schemaTypes": [
         "Organization",
         "WebSite",
