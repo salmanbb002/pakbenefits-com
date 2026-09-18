@@ -49,18 +49,17 @@ Site pillar pages (the 9 permanent category hubs each cluster maps to):
 **Sub-topic: General BISP/Benazir Programme (11 kw)** — `benazir form`, `benazir income support program[...]`, `bisp`, `bisp registration`, `bisp score check`, `bisp verification`, `online benazir`
 **Sub-topic: Registration/Application Process (26 kw)** — the "how to apply/register" long tail across BISP, Ehsaas, and stray program-name variants
 
-**Status: ⚠️ One real gap.**
+**Status: ✅ Fully covered.**
 
 | Angle | Coverage |
 |---|---|
-| How to check status via portal | `check-bisp-eligibility-8171` — covers the *checking mechanism*, not *who qualifies* |
-| **Who qualifies — income/household/PMT criteria in plain terms** | **GAP — no post exists.** This is the only genuine unclosed keyword intent on the entire sheet. |
+| How to check status via portal | `check-bisp-eligibility-8171`, `how-to-check-bisp-eligibility-guide` |
+| Who qualifies — income/household/PMT criteria | `bisp-eligibility-criteria-guide` |
 | What "benazir form" means | `benazir-form` |
 | Registration walkthrough | `how-to-register-bisp-online-guide` |
+| Mistakes that delay registration & scams | `bisp-online-registration-mistakes` |
 | Documents needed | `documents-for-bisp-registration` |
 | Account status | `check-bisp-account-status` |
-
-**Recommended new post:** *"BISP Eligibility Criteria: Who Qualifies and Who Doesn't"* — targets `eligibility criteria for bisp`, `how to check bisp eligibility`, `bisp score check`. No editorial blockers; can be drafted directly from the existing pillar's verified facts plus official BISP eligibility thresholds. **This is the single priority action from the whole 201-keyword sheet.**
 
 **Noise not worth pages:** `fc online registration slip`, `ihsas program kpk online registration 2021`, `nphp online registration` — off-topic/mis-scraped queries, not BISP/Ehsaas programmes. Ignore.
 
@@ -167,7 +166,7 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | Cluster | Keywords | Status |
 |---|---|---|
 | 1. 8171 Portal & CNIC Check | 49 | ✅ Covered |
-| 2. BISP Registration & Application | 39 | ⚠️ 1 gap (Eligibility Criteria) |
+| 2. BISP Registration & Application | 39 | ✅ Covered |
 | 3. Benazir Kafaalat | 17 | ✅ Covered |
 | 4. Brand/Navigational | 4 | ✅ Covered by design |
 | 5. Ehsaas Emergency Cash | 10 | ✅ Covered |
@@ -179,15 +178,15 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | 11. Payment & Balance Check | 7 | ✅ Covered |
 | 12. Punjab Rozgar Scheme | 5 | ✅ Covered |
 | 13. Urdu/Roman Urdu Layer | 1 | ⚠️ Deferred (Phase 5 decision) |
-| **Total** | **201** | **197 covered / 2 open items** |
+| **Total** | **201** | **199 covered / 1 open item (Urdu deferred)** |
 
 ## Roadmap
 
-**Phase 1 — Done.** 24 articles + 8 pillars live, covering 12 of 13 clusters.
+**Phase 1 — Done.** Baseline articles + pillars live, covering 12 of 13 clusters.
 
-**Phase 2 — Next (no blockers).** Draft *"BISP Eligibility Criteria: Who Qualifies and Who Doesn't"* to close the one real keyword gap. This is the single concrete next action from this strategy.
+**Phase 2 — Done.** Closed eligibility criteria gap via *"BISP Eligibility Criteria"* (`bisp-eligibility-criteria-guide` & `how-to-check-bisp-eligibility-guide`) and published *"7 Mistakes That Delay a BISP Online Registration"* (`bisp-online-registration-mistakes`).
 
-**Phase 3 — Optional depth (do only where Search Console data justifies it, not by default).** The 4 comparison/troubleshooting angles noted above under Clusters 6, 10, 11, plus "7 Mistakes That Delay BISP Registration" — these add topical depth on already-covered intents rather than closing gaps. Recommend reviewing Search Console query data after Phase 2 ships before committing to any of these, so effort follows actual unranked queries instead of guessing.
+**Phase 3 — Optional depth (do only where Search Console data justifies it, not by default).** The comparison/troubleshooting angles noted above under Clusters 6, 10, 11 (e.g., "What Counts as a Good PMT Score", "Approved but No Cash Received", "NSER Survey Not Found").
 
 **Phase 4 — Editorial hold.** "BISP and Ehsaas: How the Two Names Relate" — requires a human to verify the current official rebranding framing on bisp.gov.pk before drafting; do not publish this from assumed history.
 

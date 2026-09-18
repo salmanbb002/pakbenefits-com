@@ -8,19 +8,19 @@ Source: `keyword-clusters.csv` (201 unique keywords / 13 clusters). This plan do
 
 ## Week 1 — 8171 Portal & CNIC Check (largest cluster, 49 keywords)
 
-| Date | Title | Primary keyword(s) targeted | Intent | Target page |
-|---|---|---|---|---|
-| Mon Aug 17 | 8171 Web Portal Not Working? What to Check Before You Assume It's Down | "8171 web portal", "8171 check online 2026" | Troubleshooting | /8171/ |
-| Wed Aug 19 | 8171, 786, and Ehsaas Tracking: Which Number Should You Actually Use? | "786 web portal", "ehsaas tracking pass gov pk", "5771/7181 check online" (typo variants) | Clarification | /8171/ |
-| Fri Aug 21 | How to Check Your BISP Status by CNIC Online (2026 Method) | "ehsaas program cnic check online", "bisp registration check by cnic", "online cnic verification" | Informational | /8171/ |
+| Date | Title | Primary keyword(s) targeted | Intent | Target page | Status |
+|---|---|---|---|---|---|
+| Mon Aug 17 | 8171 Web Portal Not Working? What to Check Before You Assume It's Down | "8171 web portal", "8171 check online 2026" | Troubleshooting | /8171/ | ✅ Published (`/8171-web-portal-not-working/`) |
+| Wed Aug 19 | 8171, 786, and Ehsaas Tracking: Which Number Should You Actually Use? | "786 web portal", "ehsaas tracking pass gov pk", "5771/7181 check online" (typo variants) | Clarification | /8171/ | ✅ Published (`/8171-786-ehsaas-tracking-official-number/`) |
+| Fri Aug 21 | How to Check Your BISP Status by CNIC Online (2026 Method) | "ehsaas program cnic check online", "bisp registration check by cnic", "online cnic verification" | Informational | /8171/ | ✅ Published (`/check-bisp-status-by-cnic-online/`) |
 
 ## Week 2 — BISP Registration & Ehsaas Brand (39 + 23 keywords)
 
-| Date | Title | Primary keyword(s) targeted | Intent | Target page |
-|---|---|---|---|---|
-| Mon Aug 24 | BISP Eligibility Criteria in 2026: Who Qualifies and Who Doesn't | "eligibility criteria for bisp", "how to check bisp eligibility" | Informational | /bisp-registration/ |
-| Wed Aug 26 | BISP and Ehsaas: How the Two Names Relate | "ehsaas program", "benazir income support program" (brand-confusion queries) | Informational | /bisp-registration/ or /ehsaas-programs/ |
-| Fri Aug 28 | 7 Mistakes That Delay a BISP Online Registration | "how to apply bisp online", "bisp online registration check by cnic" | Informational | /bisp-registration/ |
+| Date | Title | Primary keyword(s) targeted | Intent | Target page | Status |
+|---|---|---|---|---|---|
+| Mon Aug 24 | BISP Eligibility Criteria in 2026: Who Qualifies and Who Doesn't | "eligibility criteria for bisp", "how to check bisp eligibility" | Informational | /bisp-registration/ | ✅ Published (`/bisp-eligibility-criteria-guide/`) |
+| Wed Aug 26 | BISP and Ehsaas: How the Two Names Relate | "ehsaas program", "benazir income support program" (brand-confusion queries) | Informational | /bisp-registration/ or /ehsaas-programs/ | ⚠️ Editorial Hold (requires official framing check) |
+| Fri Aug 28 | 7 Mistakes That Delay a BISP Online Registration | "how to apply bisp online", "bisp online registration check by cnic", "bisp dynamic registration process" | Informational | /bisp-registration/ | ✅ Published (`/bisp-online-registration-mistakes/`) |
 
 **Editorial flag on Aug 26's post**: the BISP↔Ehsaas naming relationship has real political/administrative history (rebranding under different governments). Do not publish this one on the standard "write from the existing pillar" pattern — it needs an editor to verify the current official framing on bisp.gov.pk before anything about "why the name changed" goes live. Everything else in this calendar is safe to draft directly from verified program mechanics already established in the pillar guides.
 

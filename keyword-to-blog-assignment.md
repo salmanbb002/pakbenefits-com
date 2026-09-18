@@ -12,9 +12,9 @@ Source: `keyword-clusters.csv` (201 keywords / 20 sub-topic buckets). Cross-refe
 | 2 | 8171 Portal & CNIC Check — Web Portal Status Check | 38 | ✅ Covered | `8171-web-portal-not-working`, `check-bisp-status-by-cnic-online`, `check-bisp-eligibility-8171`, `8171-register`, `/8171/` pillar. Year-variant keywords (2022/2023/2025/2026) deliberately **not** split into separate pages — pillar page is kept current instead |
 | 3 | 8171 Portal & CNIC Check — CNIC-Based Status Check | 6 | ✅ Covered | `check-bisp-status-by-cnic-online` |
 | 4 | 8171 Portal & CNIC Check — Portal Login | 1 | ✅ Covered | `bisp-login-username-password` |
-| 5 | **BISP Registration — Eligibility Criteria** | 2 | ⚠️ **GAP** | `check-bisp-eligibility-8171` covers *how to check* status via the portal, but nothing covers *who qualifies* (income thresholds, household criteria, PMT cutoff in plain terms) — the distinct "criteria" intent. This was Week 2 / Aug 24 in the Month 1 calendar and was never drafted. |
+| 5 | BISP Registration — Eligibility Criteria | 2 | ✅ Covered | `bisp-eligibility-criteria-guide` (who qualifies / cutoff), `how-to-check-bisp-eligibility-guide` |
 | 6 | BISP Registration — General BISP/Benazir Programme | 11 | ✅ Covered | `benazir-form`, `check-bisp-account-status`, `/bisp-registration/` pillar |
-| 7 | BISP Registration — Registration/Application Process | 26 | ✅ Covered | `how-to-register-bisp-online-guide`, `documents-for-bisp-registration`, `/bisp-registration/` pillar. Note: "fc online registration slip," "ihsas program kpk online registration," "nphp online registration" are off-topic/mis-scraped stray queries — not worth dedicated content, low relevance to this site |
+| 7 | BISP Registration — Registration/Application Process | 26 | ✅ Covered | `bisp-online-registration-mistakes`, `how-to-register-bisp-online-guide`, `documents-for-bisp-registration`, `/bisp-registration/` pillar. Note: "fc online registration slip," "ihsas program kpk online registration," "nphp online registration" are off-topic/mis-scraped stray queries — not worth dedicated content, low relevance to this site |
 | 8 | Benazir Kafaalat — Registration & CNIC Check | 17 | ✅ Covered | `benazir-kafaalat-registration-cnic-check-guide`, `benazir-kafaalat-payment-guide` |
 | 9 | Brand/Navigational — Official Website Lookup | 4 | ✅ Covered (by design) | Served via `officialLinks` on existing pages, not a standalone post — these are pure navigational queries ("bisp website," "ehsaas program website"); a dedicated blog would be thin content |
 | 10 | Ehsaas Emergency Cash Programme | 10 | ✅ Covered | `ehsaas-emergency-cash-program-guide` |
@@ -34,7 +34,7 @@ Source: `keyword-clusters.csv` (201 keywords / 20 sub-topic buckets). Cross-refe
 These don't close keyword *gaps* (their target keywords are already served above) — they add topical depth/troubleshooting angles the calendar reasoned would strengthen authority:
 
 - "BISP and Ehsaas: How the Two Names Relate" — **editorial hold**, needs a human to verify the current official BISP↔Ehsaas rebranding framing before drafting (flagged in the calendar, not something to draft unverified)
-- "7 Mistakes That Delay a BISP Online Registration"
+- "7 Mistakes That Delay a BISP Online Registration" — ✅ Published on 18 Sep 2026 (`/bisp-online-registration-mistakes/`)
 - "What Counts as a 'Good' PMT Score for BISP?"
 - "NSER Survey Not Found in the System? Here's What It Means"
 - "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons"
@@ -43,4 +43,4 @@ These don't close keyword *gaps* (their target keywords are already served above
 
 ## Recommendation
 
-Only **one** new post is needed to close a genuine keyword gap with no editorial blockers: **BISP Eligibility Criteria (who qualifies)** — row 5 above. Everything else is either already live, intentionally excluded (doorway pages, unverified addresses, off-topic stray queries), or blocked pending a human decision (Urdu launch timing, BISP↔Ehsaas political-history verification).
+The primary keyword gap for **BISP Eligibility Criteria (who qualifies)** has been closed by `bisp-eligibility-criteria-guide`, and the high-intent troubleshooting angle **"7 Mistakes That Delay a BISP Online Registration"** has been published (`/bisp-online-registration-mistakes/`). Everything else is either live, intentionally excluded (doorway pages, unverified addresses, off-topic stray queries), or held pending strategic decisions (Urdu launch timing, BISP↔Ehsaas political-history verification).
