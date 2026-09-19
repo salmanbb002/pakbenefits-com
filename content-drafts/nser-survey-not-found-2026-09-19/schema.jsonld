@@ -1,0 +1,248 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/nser-survey-not-found/#article",
+      "headline": "NSER Survey Not Found: What the 8171 \"No Record\" Message Means",
+      "description": "Getting an NSER survey not found message on 8171? Learn what it means, why your CNIC is missing from the registry, and the exact steps to get an NSER record.",
+      "inLanguage": "en-PK",
+      "datePublished": "2026-09-19",
+      "dateModified": "2026-09-19",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/nser-survey-not-found/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Saad Hassan",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Ayesha Malik"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Live Govt Schemes & Ehsaas Programs",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://pakbenefits.com/images/registration-guide.jpg",
+        "caption": "A household representative preparing documents for an NSER survey at a BISP registration desk"
+      },
+      "about": [
+        {
+          "@type": "Dataset",
+          "name": "National Socio-Economic Registry (NSER)",
+          "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme (BISP)",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "WebSite",
+          "name": "8171 Web Portal",
+          "sameAs": "https://8171.bisp.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority (NADRA)",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentOffice",
+          "name": "BISP Tehsil Office"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NSER dynamic registry"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Proxy Means Test (PMT) score"
+        },
+        {
+          "@type": "ContactPoint",
+          "name": "BISP helpline 0800-26477",
+          "telephone": "0800-26477"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".article-answer", "h1"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/nser-survey-not-found/#howto",
+      "name": "How to get an NSER record at a BISP Tehsil Office",
+      "description": "The official in-person process for registering or updating a household in the National Socio-Economic Registry.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Find your registration point",
+          "text": "Find your nearest BISP Tehsil Office or Benazir Registration Center. Every tehsil has a designated registration point."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Take your documents",
+          "text": "Take your original CNIC and the B-Forms of any children you are including in the household record."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Tell the counter what you need",
+          "text": "Tell the counter you need NSER survey registration or a record update, and show the 8171 message if you have it."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Complete the household questionnaire",
+          "text": "Answer the household questionnaire accurately - housing, assets, income sources, dependants and living conditions. These answers shape the PMT assessment."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Complete biometric verification",
+          "text": "Complete biometric verification so the record can be linked to your identity."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Keep the confirmation",
+          "text": "Collect any confirmation or token the desk provides and note the date of the visit."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/nser-survey-not-found/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does \"NSER survey not found\" mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It means BISP holds no valid household record linked to your CNIC, so the 8171 system has nothing to display. It is a registration gap, not a rejection, and it is fixed by completing or updating the NSER survey at a BISP Tehsil Office."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I check my NSER registration by CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Enter your 13-digit CNIC on the official 8171 portal at 8171.bisp.gov.pk and complete the captcha, or send your CNIC by SMS to 8171 from a SIM registered in your own name. Both routes use the same household record."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an online NSER registration form?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. BISP does not provide an online form for NSER or BISP registration. Registration and updates require an in-person visit to a BISP Tehsil Office with biometric verification. Websites claiming otherwise are not official."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I register for NSER from home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The household questionnaire and biometric verification are completed in person at a designated registration point. You can prepare documents at home and check your status online, but the registration itself is an office process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents do I need for the NSER survey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Take your original valid CNIC, the NADRA B-Forms of dependent children, and a recent utility bill if available. If you hold a previous survey token or reference, take that as well."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does 8171 say no record found when my family is poor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because the system is reporting a missing record, not judging your need. Poverty does not create a record by itself; a completed survey does. Visit a BISP Tehsil Office to have the household entered into the registry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does an NSER update take to show on 8171?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no fixed published timeline. Processing depends on verification workload, and a check made immediately after a survey can still show no record. Wait, then recheck periodically and follow up with the office if nothing changes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I update my NSER record more than once?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The registry is designed for updates when household circumstances genuinely change, such as a birth, death, marriage or change of address. There is no fee, and repeated updates are not a substitute for accurate information."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does \"no record\" mean I am rejected for BISP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. A missing record and a rejection are different outcomes. \"No record\" means the household has not been registered or the record has expired; \"not eligible\" means a record exists but the assessment is above the threshold."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between NSER and PMT score?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "NSER is the household database that stores survey information. The PMT score is the assessment calculated from that information to estimate household welfare. One is the record; the other is the number derived from it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the NSER survey free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Registration and updates at BISP offices are free. Anyone demanding a fee to register you, release a record or improve a score is acting outside the official process and should be reported through the BISP helpline (0800-26477)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/nser-survey-not-found/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "NSER & PMT Score",
+          "item": "https://pakbenefits.com/nser-pmt-score/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NSER Survey Not Found: What the 8171 \"No Record\" Message Means",
+          "item": "https://pakbenefits.com/nser-survey-not-found/"
+        }
+      ]
+    }
+  ]
+}

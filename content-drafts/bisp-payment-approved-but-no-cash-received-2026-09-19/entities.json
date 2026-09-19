@@ -1,0 +1,214 @@
+[
+  {
+    "canonical": "BISP payment status",
+    "type": "Process",
+    "aliases": ["approved payment", "payment generated", "payment released", "paid", "pending"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Benazir Programme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "WebPortal",
+    "aliases": ["8171", "8171.bisp.gov.pk", "BISP web portal"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentityDocument",
+    "aliases": ["CNIC", "13-digit CNIC"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Kafaalat quarterly installment",
+    "type": "Money",
+    "aliases": ["Kafaalat payment", "quarterly installment", "Rs 14,500"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric verification",
+    "type": "Process",
+    "aliases": ["fingerprint match", "thumb verification", "biometric mismatch"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA", "NADRA Sahulat Center"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "PublicRegistry",
+    "aliases": ["NSER", "NSER survey record", "household record"],
+    "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "District payment phase",
+    "type": "Process",
+    "aliases": ["phased disbursement", "district-wise release", "collection window"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Payment point (bank, agent or camp)",
+    "type": "Place",
+    "aliases": ["bank branch", "agent", "camp", "payment center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Mobile wallet / social protection account",
+    "type": "Product",
+    "aliases": ["digital wallet", "social wallet", "bank-linked wallet"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric SIM registration",
+    "type": "Process",
+    "aliases": ["registered SIM", "SIM on own CNIC", "mobile number registration"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP helpline 0800-26477",
+    "type": "ContactPoint",
+    "aliases": ["0800-26477", "BISP helpline"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Payment deduction complaint",
+    "type": "Process",
+    "aliases": ["agent deduction", "commission demand", "missing amount"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Transaction receipt / mini-statement",
+    "type": "Document",
+    "aliases": ["receipt", "mini-statement", "failed-transaction slip"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "HBL Konnect / Bank Alfalah",
+    "type": "Organization",
+    "aliases": ["partner banks", "bank agents"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "JazzCash / Easypaisa",
+    "type": "Product",
+    "aliases": ["mobile money channels"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Ehsaas tracking",
+    "type": "Concept",
+    "aliases": ["ehsaas program balance check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "BISP Digital Wallet rollout",
+    "type": "Process",
+    "aliases": ["digital payments rollout", "Benazir SIM"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "HBL helpline 021-111-111-425",
+    "type": "Other",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "note": "Parked: unverified against an official bank source; omitted from the draft."
+  },
+  {
+    "canonical": "8070 ration-funds diversion claim",
+    "type": "Other",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "note": "Parked: unverifiable competitor claim; excluded."
+  }
+]

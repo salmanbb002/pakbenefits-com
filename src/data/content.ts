@@ -8576,7 +8576,1111 @@ export const articles: Article[] = [
       { "label": "Visit the official BISP website", "href": "https://www.bisp.gov.pk/" },
       { "label": "Visit the official NADRA portal", "href": "https://www.nadra.gov.pk/" }
     ]
-  }
+  },
+
+{
+  "slug": "what-counts-as-a-good-pmt-score",
+  "title": "What Counts as a \"Good\" PMT Score for BISP?",
+  "excerpt": "A good PMT score for BISP is 32 or below on the Proxy Means Test scale. See the relaxed 37 cut-off, what each score band means, and how to check your household record by CNIC on 8171.",
+  "metaTitle": "What Counts as a Good PMT Score for BISP? (2026 Guide)",
+  "metaDescription": "A good PMT score for BISP is 32 or below on the 0-100 scale. See the exact cut-off, the relaxed 37 limit, and how to check your score by CNIC.",
+  "focusKeyword": "what counts as a good pmt score",
+  "lsiKeywords": [
+    "pmt score",
+    "pmt score bisp",
+    "what is pmt score",
+    "8171 pmt score check",
+    "8171 web portal pmt score check",
+    "pmt score check online",
+    "pmt score check online by cnic pakistan",
+    "bisp pmt score"
+  ],
+  "entities": [
+    "BISP",
+    "PMT Score",
+    "Proxy Means Test",
+    "NSER",
+    "8171 Web Portal",
+    "NADRA",
+    "CNIC",
+    "Benazir Kafaalat"
+  ],
+  "primaryCategory": "NSER & PMT Score",
+  "categorySlugs": [
+    "nser-pmt-score",
+    "8171"
+  ],
+  "date": "September 19, 2026",
+  "publishedDate": "September 19, 2026",
+  "readTime": "10 min read",
+  "image": "/images/hero-support.jpg",
+  "imageAlt": "A family reviewing household eligibility information for a BISP PMT score check",
+  "author": contributors.saadHassan,
+  "reviewer": contributors.ayeshaMalik,
+  "sections": [
+    {
+      "title": "What Is a PMT Score, and What Does It Measure?",
+      "paragraphs": [
+        "A PMT score is a poverty estimate that BISP calculates for a household, not a monthly income figure. PMT stands for Proxy Means Test. Instead of asking a family to prove earnings, the assessment uses recorded indicators - housing condition, assets, family size, education and utility use - to estimate welfare.",
+        "The score sits on a 0 to 100 scale. A lower score indicates a household with fewer resources; a higher score suggests greater economic stability. Two families with similar daily earnings can receive different scores if their recorded assets, housing or dependants differ. That is the \"proxy\" part of the name: the number estimates circumstances indirectly."
+      ],
+      "subsections": [
+        {
+          "title": "How the NSER Survey Produces Your Score",
+          "paragraphs": [
+            "The National Socio-Economic Registry (NSER) is the household database behind the score. An authorized enumerator records household details during the NSER survey, either at a BISP Tehsil Office registration desk or during an outreach visit. The recorded data is cross-checked against NADRA identity records before the PMT is calculated centrally.",
+            "BISP has maintained NSER since 2011. The 2010-11 nationwide survey covered about 27 million households, and the update completed between 2019 and 2021 brought the registry to roughly 35 million households. The registry now works as a dynamic registry, which means a household can register or update information through the authorized process instead of waiting years for the next door-to-door round."
+          ]
+        },
+        {
+          "title": "Why a Lower PMT Score Means Stronger Eligibility",
+          "paragraphs": [
+            "BISP targets assistance at the poorest households, so the eligibility rule works in the opposite direction to a school result. A lower PMT score is the better outcome for programme access. If a household genuinely has fewer assets and lower consumption, the recorded indicators should produce a lower number.",
+            "This is also why no legitimate agent can promise a specific score. The assessment is calculated from recorded household facts and programme rules. It is not negotiated at a counter, and it cannot be produced by an online calculator that never sees the NSER record."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "What is a PMT score?",
+          "href": "/what-is-pmt-score/"
+        }
+      ]
+    },
+    {
+      "title": "What Counts as a \"Good\" PMT Score for BISP?",
+      "paragraphs": [
+        "For BISP's core cash transfer, a good PMT score is 32 or below. Households scoring within that range fall inside the standard Benazir Kafaalat eligibility threshold, while higher scores are normally outside it. A separate relaxed threshold of 37 applies to households that include a certified differently-abled member.",
+        "The word \"good\" needs one clarification. In ordinary conversation people call a high score good. In BISP terms, \"good\" means \"likely to qualify\", and that is a lower number. If someone tells you a score of 45 is good because it is higher, they are describing financial stability, not eligibility."
+      ],
+      "subsections": [
+        {
+          "title": "The Standard BISP Cut-Off: 32 or Below",
+          "paragraphs": [
+            "A PMT score of 32 or below is the standard working threshold for Benazir Kafaalat. It is a programme rule set and reviewed by BISP, not a fixed law of nature. The score itself is calculated centrally after the survey; the enumerator at the desk does not decide it.",
+            "Meeting the cut-off is necessary but not automatically sufficient. BISP also applies verification and exclusion checks, including cross-matching against other government databases. A household can score below the cut-off and still face a verification hold if recorded facts conflict with other official records."
+          ]
+        },
+        {
+          "title": "The Relaxed 37 Cut-Off for Households With a Disability",
+          "paragraphs": [
+            "Households that include a legally certified differently-abled member are assessed against a relaxed threshold of 37. The disability status must be recorded officially - typically through NADRA's special CNIC process or a recognised disability certificate - for the relaxed rule to apply.",
+            "If a household believes it qualifies for the relaxed threshold but the record does not reflect the disability, the correct step is to correct the identity or household record first. A registration desk cannot apply a rule that the database does not show."
+          ]
+        },
+        {
+          "title": "PMT Score Bands and What Each Band Means",
+          "paragraphs": [
+            "These bands are a reading aid, not an official table. BISP sets the applicable threshold and applies it to its own verified data. Treat the exact number and rule as programme information, and confirm your own case through an official channel."
+          ]
+        }
+      ],
+      "table": {
+        "caption": "PMT score bands and their practical meaning for BISP",
+        "headers": [
+          "PMT score band",
+          "What it generally indicates",
+          "Practical meaning for BISP"
+        ],
+        "rows": [
+          [
+            "0-32",
+            "Deepest recorded poverty",
+            "Within the standard Benazir Kafaalat threshold"
+          ],
+          [
+            "33-37",
+            "Low income, above the standard cut-off",
+            "May qualify only under the relaxed disability rule"
+          ],
+          [
+            "38-50",
+            "Moderate recorded stability",
+            "Normally outside Kafaalat; some provincial schemes use their own limits"
+          ],
+          [
+            "51-100",
+            "Higher recorded stability",
+            "Generally outside core BISP cash support"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "How to Check Your PMT Score Online by CNIC (8171)",
+      "paragraphs": [
+        "You can check your household's available PMT and eligibility information by entering your 13-digit CNIC on the official 8171 web portal or by sending it by SMS to 8171. The public route shows what BISP has recorded for the household. It is free, and it is the only checking route this site recommends."
+      ],
+      "subsections": [
+        {
+          "title": "Method 1: The 8171 Web Portal, Step by Step",
+          "bullets": [
+            "Open the official portal at 8171.bisp.gov.pk and check the address before typing anything.",
+            "Enter your 13-digit CNIC without dashes or spaces.",
+            "Complete the image code (captcha) shown on the page.",
+            "Submit the form and read the entire result, including any instruction it gives."
+          ],
+          "paragraphs": [
+            "If the page fails to load, refresh it or try again later. A page error is not a statement about your household."
+          ]
+        },
+        {
+          "title": "Method 2: SMS to 8171",
+          "paragraphs": [
+            "Send your 13-digit CNIC by SMS to 8171 from a SIM registered in your own name. The reply usually states your recorded status - for example eligible, under process, or an instruction to complete a survey. Keep the reply. The exact wording and the date are useful if you later need to ask an office about the record."
+          ]
+        },
+        {
+          "title": "What the 8171 Result Shows - and What It Does Not",
+          "paragraphs": [
+            "The portal is an eligibility and status check. A numeric PMT score is not guaranteed to be displayed. Some results show a status message without the underlying number, and a missing number does not mean the score is zero.",
+            "This is the single biggest misunderstanding around PMT score checks. Several third-party sites claim the portal reveals an exact score, and some sell \"calculators\" that supposedly reproduce it. Neither is reliable. A private calculator has no access to NSER, so it cannot reproduce an official assessment. If you need the recorded detail behind your result, ask BISP through its official desk or helpline (0800-26477)."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Official 8171 access and status guidance",
+          "href": "/8171/"
+        },
+        {
+          "label": "PMT score check: the detailed guide",
+          "href": "/nser-pmt-score-check-guide/"
+        },
+        {
+          "label": "Portal troubleshooting guide",
+          "href": "/8171-web-portal-not-working/"
+        }
+      ]
+    },
+    {
+      "title": "Is a \"Good\" Score the Same for Every Programme?",
+      "paragraphs": [
+        "No. A PMT score of 32 or below is a BISP threshold, and other programmes can set different limits for their own schemes. Provincial programmes, utility subsidies and housing initiatives may use NSER data with their own eligibility rules."
+      ],
+      "subsections": [
+        {
+          "title": "BISP and Benazir Kafaalat",
+          "paragraphs": [
+            "The core case is the one described above: 32 or below for the standard threshold, 37 for households with a certified differently-abled member. This is the threshold most readers mean when they search for a good PMT score."
+          ]
+        },
+        {
+          "title": "Provincial Schemes and Utility Subsidies",
+          "paragraphs": [
+            "Provincial governments in Punjab and other provinces use poverty data for their own programmes, including ration and subsidy schemes. Their thresholds, verification steps and review cycles are separate from BISP's, so a score that qualifies for one scheme may not qualify for another. Check the responsible department's current terms before applying."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Benazir Kafaalat programme overview",
+          "href": "/benazir-kafaalat/"
+        },
+        {
+          "label": "Punjab scheme eligibility differences",
+          "href": "/punjab-schemes/"
+        }
+      ]
+    },
+    {
+      "title": "Why Your PMT Score Is Missing or Looks Wrong",
+      "paragraphs": [
+        "A missing result or an unexpectedly high score usually points to a record problem, not a final rejection. The 8171 message is only as accurate as the household information BISP holds, and that information can be incomplete, outdated or mismatched."
+      ],
+      "subsections": [
+        {
+          "title": "Common Causes of a Missing or Outdated Record",
+          "bullets": [
+            "No completed NSER survey for the household.",
+            "A CNIC that is not linked to the household record.",
+            "A recent marriage, move or family change that has not been recorded.",
+            "An expired survey that needs recertification.",
+            "A data entry or NADRA mismatch in a name, CNIC or family relationship."
+          ],
+          "paragraphs": []
+        },
+        {
+          "title": "How to Request a Correction or Re-Survey",
+          "paragraphs": [
+            "Take the specific facts to a BISP Tehsil Office and ask what update process applies. Bring your original CNIC and any documents that support the correction, such as children's B-Forms or a utility bill. If the underlying identity record is wrong, correct it at NADRA first, because BISP validates household data against NADRA.",
+            "A correction request is not a guarantee of a different score. The corrected information still has to be assessed under the programme's rules. What you can control is whether the record is accurate and complete."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "BISP registration and update process",
+          "href": "/how-to-register-bisp-online-guide/"
+        },
+        {
+          "label": "Documents for BISP record inquiries",
+          "href": "/documents-for-bisp-registration/"
+        },
+        {
+          "label": "CNIC verification and official responsibilities",
+          "href": "/cnic-verification-guide/"
+        }
+      ]
+    },
+    {
+      "title": "What Changed in 2026: A Dated Reference Table",
+      "paragraphs": [
+        "PMT content ages badly. Many high-ranking pages still quote 2024 figures, and some describe a Rs 13,500 quarterly payment that has since been revised. Use the dated references below instead of undated screenshots.",
+        "Payment amounts and thresholds change. Before relying on any figure, confirm the current position through BISP, and treat a social media screenshot without a date as unverified."
+      ],
+      "table": {
+        "caption": "Dated reference points for BISP PMT and Kafaalat questions (as of September 2026)",
+        "headers": [
+          "Item",
+          "Current reference",
+          "Date / source basis"
+        ],
+        "rows": [
+          [
+            "Kafaalat quarterly payment",
+            "Rs 14,500 (raised from Rs 13,500)",
+            "Announced February 2026; PID briefing 22 June 2026"
+          ],
+          [
+            "Planned further increase",
+            "Announced for January 2027",
+            "PID briefing 22 June 2026"
+          ],
+          [
+            "Standard PMT threshold",
+            "32 or below",
+            "BISP programme practice"
+          ],
+          [
+            "Relaxed threshold",
+            "37 with certified disability",
+            "BISP programme practice"
+          ],
+          [
+            "NSER registry size",
+            "About 35 million households",
+            "BISP NSER update completed 2019-2021"
+          ],
+          [
+            "Beneficiary recertification",
+            "After three years",
+            "BISP NSER dynamic registry cycle"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "BISP balance and payment-cycle guide",
+          "href": "/bisp-balance-check-by-cnic-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Can You Lower Your PMT Score?",
+      "paragraphs": [
+        "You cannot legitimately lower a PMT score by hiding assets, copying another household's answers or paying an agent. NSER data is cross-checked against national databases, and deliberately false information can create an inaccurate record and expose a household to penalties.",
+        "What you can do is make sure the recorded facts are correct. If circumstances have genuinely worsened - a breadwinner lost work, a family member died, a household was affected by a disaster - the authorized process is to report the change through BISP so the record can be reviewed. That is a correction of facts, not manipulation of a score.",
+        "Beware of anyone promising a guaranteed score reduction for a fee. BISP services are free, and its helpline is 0800-26477."
+      ],
+      "links": [
+        {
+          "label": "Recognize fake score and registration offers",
+          "href": "/avoid-bisp-fraud/"
+        },
+        {
+          "label": "Household eligibility guide hub",
+          "href": "/nser-pmt-score/"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is a good PMT score for BISP?",
+      "answer": "A good PMT score for BISP is 32 or below, because BISP assistance targets households with the lowest recorded welfare. Lower scores indicate greater financial need and a stronger position within the eligibility threshold."
+    },
+    {
+      "question": "What is the maximum PMT score to qualify for Benazir Kafaalat?",
+      "answer": "The standard threshold is 32. Households with a certified differently-abled member are assessed against a relaxed threshold of 37. Meeting the threshold is necessary, but BISP also applies its own verification checks."
+    },
+    {
+      "question": "Does the 8171 portal always show my exact PMT score?",
+      "answer": "No. The official route shows available household eligibility and status information, and a numeric score is not guaranteed to appear. If you need the recorded detail, ask BISP through its official desk or helpline."
+    },
+    {
+      "question": "How do I check my PMT score online by CNIC?",
+      "answer": "Enter your 13-digit CNIC on the official 8171 portal at 8171.bisp.gov.pk and complete the captcha, or send your CNIC by SMS to 8171 from a SIM registered in your name."
+    },
+    {
+      "question": "What does a PMT score between 33 and 37 mean?",
+      "answer": "It is above the standard cut-off but inside the relaxed disability threshold. A household in this band may qualify only if it includes a certified differently-abled member, and BISP decides each case on its verified record."
+    },
+    {
+      "question": "Can a PMT score change over time?",
+      "answer": "Yes. A score can change after an approved household update, after recertification, or when cross-checks against other official records reveal a change in recorded circumstances. Beneficiaries undergo recertification on BISP's cycle, which its NSER documentation describes as after three years."
+    },
+    {
+      "question": "Can I check my PMT score without a CNIC?",
+      "answer": "No. The household record is linked to a CNIC, so the 8171 check requires the applicant's 13-digit CNIC. A family member cannot check another adult's record without that person's identity number."
+    },
+    {
+      "question": "How do I fix a wrong PMT score?",
+      "answer": "Take the specific error to a BISP Tehsil Office with your original CNIC and supporting documents, and ask which correction or re-survey process applies. If the error is in your NADRA identity record, correct that first."
+    },
+    {
+      "question": "Can I lower my PMT score by hiding assets?",
+      "answer": "No. Deliberately false information is treated as fraud, and BISP cross-checks household data against national databases. Only genuine changes in circumstances should be reported through the authorized process."
+    },
+    {
+      "question": "Is a good PMT score the same for every government programme?",
+      "answer": "No. Other programmes, including provincial schemes and utility subsidies, can set their own thresholds even when they use the same NSER data. Confirm the current rule with the department responsible for that programme."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official BISP 8171 Web Portal",
+      "href": "https://8171.bisp.gov.pk/"
+    },
+    {
+      "label": "BISP Official Website",
+      "href": "https://www.bisp.gov.pk/"
+    },
+    {
+      "label": "NADRA Official Portal",
+      "href": "https://www.nadra.gov.pk/"
+    }
+  ]
+},
+
+{
+  "slug": "bisp-payment-approved-but-no-cash-received",
+  "title": "BISP Payment \"Approved\" But No Cash Received: What to Do",
+  "excerpt": "An approved BISP payment is generated, not collected. Learn the seven reasons the cash does not arrive - district phases, biometric mismatch, wallet and SIM issues, NSER verification holds - and the official fix for each.",
+  "metaTitle": "BISP Payment Approved but No Cash Received? 7 Fixes (2026)",
+  "metaDescription": "Your BISP payment shows approved but no cash arrived? Learn the real reasons - biometric mismatch, unpaid phases, wallet issues - and the official fix for each.",
+  "focusKeyword": "bisp payment approved but no cash received",
+  "lsiKeywords": [
+    "bisp payment check",
+    "bisp check balance online by cnic 2026",
+    "bisp payment method",
+    "ehsaas program balance check",
+    "bisp payment not received",
+    "bisp 8171 payment status check",
+    "bisp payment missing in wallet"
+  ],
+  "entities": [
+    "BISP",
+    "8171 Web Portal",
+    "CNIC",
+    "NSER",
+    "NADRA",
+    "Benazir Kafaalat",
+    "Biometric Verification",
+    "HBL Konnect",
+    "Bank Alfalah"
+  ],
+  "primaryCategory": "Payment Check",
+  "categorySlugs": [
+    "payment-check",
+    "benazir-kafaalat",
+    "8171"
+  ],
+  "date": "September 19, 2026",
+  "publishedDate": "September 19, 2026",
+  "readTime": "10 min read",
+  "image": "/images/bisp-cnic-status-check.jpg",
+  "imageAlt": "A beneficiary checking BISP payment status by CNIC on the 8171 portal",
+  "author": contributors.saadHassan,
+  "reviewer": contributors.ayeshaMalik,
+  "sections": [
+    {
+      "title": "What Does \"Approved\" Actually Mean on BISP?",
+      "paragraphs": [
+        "An approved status means BISP has generated your installment for the relevant payment cycle. It does not mean the cash is sitting in your hand, your bank account or your mobile wallet. The money can be approved at programme level while a separate step still blocks collection.",
+        "This distinction matters because beneficiaries often read \"approved\" as \"paid\". When they reach an agent and the balance is not there, they assume the payment was lost or stolen. In most cases, the installment is still waiting on a verification step, a collection attempt or a payment phase that has not reached their district."
+      ],
+      "subsections": [
+        {
+          "title": "Three Different Records Behind One Word",
+          "paragraphs": [
+            "A BISP payment involves at least three records, and they do not update at the same moment.",
+            "When you check the 8171 web portal or receive an SMS, you are reading programme information. When you visit a payment point, you are testing the collection record. If the two disagree, the useful question is: which record is holding the payment, and who controls it?"
+          ],
+          "bullets": [
+            "The household record - your NSER data and PMT assessment. This decides whether your household is inside the eligibility threshold.",
+            "The payment record - BISP's decision to generate and release an installment for a specific cycle. This is what \"approved\" or \"payment generated\" describes.",
+            "The collection record - the transaction at a bank, agent, wallet or camp. This is the only record that confirms cash actually changed hands."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "BISP balance check by CNIC and installment guide",
+          "href": "/bisp-balance-check-by-cnic-2026/"
+        },
+        {
+          "label": "BISP account status guide",
+          "href": "/check-bisp-account-status/"
+        }
+      ]
+    },
+    {
+      "title": "How to Check Your BISP Payment Status by CNIC in 2026",
+      "paragraphs": [
+        "Start with the official 8171 route before travelling anywhere. It tells you what BISP currently holds for your CNIC and often gives the instruction that resolves the confusion. The check is free."
+      ],
+      "subsections": [
+        {
+          "title": "Checking Through the 8171 Web Portal",
+          "bullets": [
+            "Open the official portal at 8171.bisp.gov.pk and confirm the address before entering anything.",
+            "Type your 13-digit CNIC without dashes or spaces.",
+            "Complete the image code (captcha) shown on the page.",
+            "Submit the form and read the whole reply, including any instruction at the end."
+          ],
+          "paragraphs": [
+            "If the page will not load, refresh it or try again later. A blank page or a failed captcha is a technical error, not a payment decision."
+          ]
+        },
+        {
+          "title": "Checking by SMS to 8171",
+          "paragraphs": [
+            "Send your 13-digit CNIC by SMS to 8171 from a SIM registered in your own name. The automated reply usually states your recorded status and may ask you to complete a survey or visit an office. Keep the message and note the date; if you later file a complaint, the exact wording is your evidence of what the system told you."
+          ]
+        },
+        {
+          "title": "Reading the Reply: Paid, Pending, Generated, Under Verification",
+          "paragraphs": [
+            "Exact wording can vary between the portal and SMS, so read the message you actually received rather than comparing it to a screenshot.",
+            "A status word is not a final decision. Treat it as the starting point for the correct follow-up."
+          ]
+        }
+      ],
+      "table": {
+        "caption": "What common 8171 status replies usually mean",
+        "headers": [
+          "Reply you may see",
+          "What it usually means",
+          "First action"
+        ],
+        "rows": [
+          [
+            "Approved / Payment generated",
+            "BISP has created the installment for this cycle",
+            "Check whether your district phase has started, then try the official payment point"
+          ],
+          [
+            "Pending",
+            "The installment is not yet released for collection",
+            "Wait for the phase or instruction; recheck 8171"
+          ],
+          [
+            "Paid / Disbursed",
+            "The system records the amount as collected",
+            "Ask the provider for the transaction record if you did not receive it"
+          ],
+          [
+            "Under verification",
+            "A record check is holding the payment",
+            "Visit the BISP office with your CNIC and ask what needs updating"
+          ],
+          [
+            "No record found",
+            "The household is not linked to a valid survey record",
+            "Complete or update the NSER survey at a BISP Tehsil Office"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Official 8171 web portal access guide",
+          "href": "/8171/"
+        },
+        {
+          "label": "Portal troubleshooting guide",
+          "href": "/8171-web-portal-not-working/"
+        }
+      ]
+    },
+    {
+      "title": "Why Your Payment Is Approved but Not Received: 7 Common Causes",
+      "paragraphs": [
+        "Most \"approved but no cash\" cases trace back to one of these seven causes. Each has a different fix, which is why paying an agent to \"release\" the payment rarely helps."
+      ],
+      "subsections": [
+        {
+          "title": "1. Your District Phase Has Not Started",
+          "paragraphs": [
+            "BISP releases payments in phases, and districts are served at different times within a cycle. An installment can be announced nationally while your area's collection window is still ahead. If 8171 says approved but the payment point has nothing, ask when your district phase begins rather than travelling daily."
+          ]
+        },
+        {
+          "title": "2. Biometric Verification Failed at the Payment Point",
+          "paragraphs": [
+            "Payment collection at banks, agents and camps usually requires a fingerprint match against NADRA records. Worn fingerprints, a damaged thumb or a device error can fail the match even when the payment is approved. The fix is the official one: ask the payment point or BISP what verification alternative applies, and update your biometric record at NADRA if the prints no longer scan reliably."
+          ]
+        },
+        {
+          "title": "3. The Payment Is Stuck in a Wallet or Bank Account",
+          "paragraphs": [
+            "If your installment was routed to a mobile wallet or a social protection account, the cash may be in that account rather than at a counter. Open the wallet app or ask the provider for a mini-statement. Remember that a zero wallet balance and a BISP eligibility result are different records; one does not explain the other."
+          ]
+        },
+        {
+          "title": "4. Your SIM or Mobile Number Is Not Registered to Your CNIC",
+          "paragraphs": [
+            "BISP sends payment alerts and some wallet instructions to the number linked with your record. A SIM registered under a husband's, son's or shopkeeper's CNIC can block those messages or fail wallet activation. Use a SIM issued biometrically in your own name and keep it active."
+          ]
+        },
+        {
+          "title": "5. NSER Survey Data Needs Re-Verification",
+          "paragraphs": [
+            "If the household record is outdated, or a data cross-check flags a mismatch, the payment can be held for verification even after it was generated. This is the single most common cause behind repeated \"approved but nothing at the counter\" visits. Visit the BISP Tehsil Office, ask exactly which fact needs re-verification and bring the document that proves it."
+          ]
+        },
+        {
+          "title": "6. Someone Collected It or Deducted a Share",
+          "paragraphs": [
+            "A payment can be marked as paid because someone collected it with a matching identity document or because an agent completed the transaction and kept part of the amount. If the provider's record shows a withdrawal you did not make, treat it as a complaint with evidence: note the date, location, amount and the person involved, then report it through BISP and the provider."
+          ]
+        },
+        {
+          "title": "7. CNIC or Family Record Mismatch",
+          "paragraphs": [
+            "An expired CNIC, a name spelling difference or a family relationship that changed without being recorded can hold a payment at the last step. Fix identity errors at NADRA first, then ask BISP whether the household record needs updating to match."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "CNIC verification guide",
+          "href": "/cnic-verification-guide/"
+        },
+        {
+          "label": "BISP payment methods and collection",
+          "href": "/bisp-payment-method/"
+        },
+        {
+          "label": "Registration and household updates",
+          "href": "/how-to-register-bisp-online-guide/"
+        }
+      ]
+    },
+    {
+      "title": "Step-by-Step: How to Fix a Missing BISP Payment",
+      "paragraphs": [
+        "Work through the steps in order. Skipping to a new payment point or a new agent usually creates duplicate confusion rather than a release."
+      ],
+      "bullets": [
+        "Check your status on the official 8171 portal or by SMS and write down the exact wording and date.",
+        "Confirm which payment cycle the message refers to. An approved amount for a previous cycle is a different question from the current one.",
+        "Ask whether your district's phase has started before travelling to a payment point.",
+        "Attempt collection once at the official payment point named for your case and keep the receipt or failed-transaction slip.",
+        "If biometric verification fails, ask for the approved alternative and update your fingerprints at NADRA if needed.",
+        "If the record is under verification, visit the BISP Tehsil Office with your original CNIC and supporting documents, and ask which fact needs correction.",
+        "If the provider records a payment you never received, file a complaint with both the provider and BISP, and keep every reference number."
+      ]
+    },
+    {
+      "title": "What to Do at the Bank, Agent or Camp",
+      "paragraphs": [
+        "Ask for the transaction record, not just a verbal answer. If the counter says there is no money, request a mini-statement or a failed-transaction confirmation where the channel provides one. If the payment is released, count the cash before leaving and keep the receipt.",
+        "A deduction should never be treated as normal. BISP payment release does not depend on paying an agent a commission. If someone demands a share, note the location, date and amount, keep any receipt and report the incident through the BISP helpline (0800-26477) and the authorized provider. Ask for the component amounts and covered periods before accepting an explanation for a partial payment."
+      ],
+      "links": [
+        {
+          "label": "Kafaalat payment guide",
+          "href": "/benazir-kafaalat-payment-guide/"
+        },
+        {
+          "label": "BISP fraud reporting and evidence checklist",
+          "href": "/avoid-bisp-fraud/"
+        }
+      ]
+    },
+    {
+      "title": "Approved but No Cash: Quick Diagnostic Table",
+      "paragraphs": [
+        "Keep a short written record of each step: date, office or provider, message wording, reference number. That record turns a repeated complaint into a case an office can trace."
+      ],
+      "table": {
+        "caption": "Match what you see to the record holding the payment",
+        "headers": [
+          "What you see",
+          "What it usually means",
+          "First action",
+          "Where to resolve"
+        ],
+        "rows": [
+          [
+            "8171 says approved; payment point has nothing",
+            "District phase not started, or verification hold",
+            "Confirm the phase, then check the record",
+            "8171, then BISP Tehsil Office"
+          ],
+          [
+            "Fingerprint rejected at the counter",
+            "Biometric mismatch",
+            "Ask for the official alternative",
+            "Payment point / NADRA"
+          ],
+          [
+            "Wallet shows zero but 8171 says approved",
+            "Wallet not activated, SIM mismatch, or funds elsewhere",
+            "Request a mini-statement",
+            "Wallet or bank provider"
+          ],
+          [
+            "SMS never arrived",
+            "Registered number issue",
+            "Update your mobile number on the record",
+            "BISP office / telecom"
+          ],
+          [
+            "Provider says \"already paid\"",
+            "Collection record exists",
+            "Ask for the transaction details",
+            "Provider, then BISP complaint"
+          ],
+          [
+            "Status says under verification",
+            "Record check in progress",
+            "Ask which fact needs proof",
+            "BISP Tehsil Office"
+          ],
+          [
+            "8171 says no record",
+            "No valid survey link",
+            "Register or update the NSER record",
+            "BISP Tehsil Office"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "How to Protect Yourself From Payment Scams",
+      "paragraphs": [
+        "The most common scam around a missing payment is a person who offers to \"release\" it for a fee. No private agent can change a BISP record, unlock a verification hold or guarantee a release date. BISP registration, record updates and payment checks are free.",
+        "Trust messages from 8171, verify the portal address before entering your CNIC, and never share an unredacted CNIC, bank PIN or wallet code with a caller or in a public comment. If someone claims your payment is stuck and asks for payment to fix it, preserve the message and report it through the official helpline (0800-26477). The anti-fraud guide on this site lists the warning signs in more detail."
+      ],
+      "links": [
+        {
+          "label": "Recognize BISP deduction and online scams",
+          "href": "/avoid-bisp-fraud/"
+        },
+        {
+          "label": "ehsaas tracking",
+          "href": "/ehsaas-tracking-check-payment-status/"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why does my BISP payment show approved but I have no cash?",
+      "answer": "An approved status means BISP generated the installment for the cycle; it does not confirm collection. Check whether your district phase has started, then try the official payment point, and ask BISP which record is holding the payment if the counter has nothing."
+    },
+    {
+      "question": "How do I check my BISP balance online by CNIC in 2026?",
+      "answer": "Use the official 8171 portal at 8171.bisp.gov.pk, enter your 13-digit CNIC and complete the captcha, or send your CNIC by SMS to 8171. The result shows programme status information rather than a guaranteed bank balance."
+    },
+    {
+      "question": "What does \"Payment Generated\" mean on 8171?",
+      "answer": "It means BISP has created the installment for the relevant cycle. It is a programme-side step, not proof that a bank, wallet or agent has the cash ready for collection."
+    },
+    {
+      "question": "How long does it take to receive a stuck BISP payment?",
+      "answer": "There is no single published turnaround because the cause decides the timeline. A phase issue resolves when your district's collection window opens; a verification hold resolves after the record is corrected and processed."
+    },
+    {
+      "question": "What should I do if my fingerprint fails at the payment point?",
+      "answer": "Ask the payment point or BISP which official alternative applies to your case. If your fingerprints no longer scan reliably, update your biometric record at a NADRA office before the next collection attempt."
+    },
+    {
+      "question": "Can I collect a BISP payment without a smartphone?",
+      "answer": "Yes. Collection at banks, agents and camps uses your original CNIC and biometric verification, and the 8171 SMS route works on a basic phone. A smartphone is only needed if your payment is routed to a mobile wallet."
+    },
+    {
+      "question": "What if an agent deducted money from my BISP payment?",
+      "answer": "Keep the receipt and note the location, date and amount, then report the deduction through the BISP helpline (0800-26477) and the authorized provider. BISP payment release does not depend on paying an agent a commission."
+    },
+    {
+      "question": "Does a zero wallet balance mean my payment was rejected?",
+      "answer": "No. A wallet balance, a released installment and an eligibility result are different records. Ask the provider about credits and withdrawals on the account, and ask BISP about the programme record."
+    },
+    {
+      "question": "Can I receive a missed installment later?",
+      "answer": "A pending or held installment can be released after the blocking issue is resolved, and previous unpaid installments may be added together. Confirm the position for your own case rather than relying on another beneficiary's experience."
+    },
+    {
+      "question": "Who do I contact about a missing BISP payment?",
+      "answer": "Start with the official 8171 status check, then the BISP helpline (0800-26477) or your BISP Tehsil Office for programme records, and the bank or wallet provider for transaction records. Keep every reference number you are given."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official BISP 8171 Web Portal",
+      "href": "https://8171.bisp.gov.pk/"
+    },
+    {
+      "label": "BISP Official Website and Support",
+      "href": "https://www.bisp.gov.pk/"
+    },
+    {
+      "label": "Kafaalat briefing: 22 June 2026",
+      "href": "https://pid.gov.pk/site/press_detail/33066"
+    }
+  ]
+},
+
+{
+  "slug": "nser-survey-not-found",
+  "title": "NSER Survey Not Found: What the 8171 \"No Record\" Message Means",
+  "excerpt": "An NSER survey not found reply is a missing record, not a rejection. Learn why your CNIC is not linked to the registry, how to check status online, and the exact steps to register or update at a BISP Tehsil Office.",
+  "metaTitle": "NSER Survey Not Found? What \"No Record\" Means (2026 Fix)",
+  "metaDescription": "Getting an NSER survey not found message on 8171? Learn what it means, why your CNIC is missing from the registry, and the exact steps to get an NSER record.",
+  "focusKeyword": "nser survey not found",
+  "lsiKeywords": [
+    "nser check online",
+    "nser survey online registration check",
+    "nser online registration",
+    "nser check balance online",
+    "social security registration check",
+    "economic survey of punjab",
+    "nser registration check by cnic"
+  ],
+  "entities": [
+    "NSER",
+    "BISP",
+    "8171 Web Portal",
+    "CNIC",
+    "NADRA",
+    "PMT Score",
+    "BISP Tehsil Office"
+  ],
+  "primaryCategory": "NSER & PMT Score",
+  "categorySlugs": [
+    "nser-pmt-score",
+    "bisp-registration",
+    "8171"
+  ],
+  "date": "September 19, 2026",
+  "publishedDate": "September 19, 2026",
+  "readTime": "10 min read",
+  "image": "/images/registration-guide.jpg",
+  "imageAlt": "A household representative preparing documents for an NSER survey at a BISP registration desk",
+  "author": contributors.saadHassan,
+  "reviewer": contributors.ayeshaMalik,
+  "sections": [
+    {
+      "title": "What \"NSER Survey Not Found\" Actually Means",
+      "paragraphs": [
+        "The message describes a database gap, not a decision about your household's need. NSER is the National Socio-Economic Registry, the household database BISP uses to assess eligibility. If your CNIC is not linked to a completed survey record, the 8171 system has nothing to show you.",
+        "That is why the reply sounds harsher than it is. A missing record is usually a registration problem, and registration problems can be fixed through the official process. The survey that creates the record is free, and it is available through BISP's dynamic registry at tehsil level."
+      ],
+      "subsections": [
+        {
+          "title": "Not Found Is Different From Not Eligible",
+          "paragraphs": [
+            "These two results call for completely different actions, and mixing them up wastes months."
+          ],
+          "bullets": [
+            "\"No record found\" means the system cannot find a household record for the CNIC. The fix is to register or update the NSER survey.",
+            "\"Not eligible\" means a record exists and the assessment places the household outside the programme threshold. The fix is to check whether the recorded facts are accurate and current."
+          ]
+        },
+        {
+          "title": "How the NSER Record Connects to Your CNIC",
+          "paragraphs": [
+            "The household record is built around identity. The CNIC of the applicant links the household roster, the address, the assets and the dependants into one record. When BISP validates the survey data, it cross-checks names and relationships against NADRA.",
+            "This is why small identity mismatches cause large problems. A married woman still listed under her father's household, a name spelling that differs between documents, or a CNIC that was renewed after the survey can all leave the 8171 system unable to match the record to the person checking."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "NSER and PMT score hub",
+          "href": "/nser-pmt-score/"
+        },
+        {
+          "label": "CNIC verification across programmes",
+          "href": "/cnic-verification-guide/"
+        }
+      ]
+    },
+    {
+      "title": "Why Your NSER Record Is Missing: 6 Common Reasons",
+      "paragraphs": [
+        "Most \"no record\" replies trace back to one of six situations. Identifying the right one tells you exactly what to do at the registration desk."
+      ],
+      "subsections": [
+        {
+          "title": "1. Your Household Was Never Surveyed",
+          "paragraphs": [
+            "The most common reason is simple: no one from the household ever completed an NSER survey. Millions of families were covered by the 2010-11 nationwide survey and the 2019-2021 update, but coverage was never universal, and new households form every year."
+          ]
+        },
+        {
+          "title": "2. Your CNIC Is Not Linked to the Household Record",
+          "paragraphs": [
+            "The household may have a survey record, but your CNIC may not be attached to it. This happens when a family member completed the survey and the applicant's identity details were recorded incompletely or with an error."
+          ]
+        },
+        {
+          "title": "3. You Recently Married or Changed Household",
+          "paragraphs": [
+            "Marriage, divorce, separation or moving to a new city changes which household you belong to. Until the roster is updated, the system may still associate you with a parent's household - or with no active record at all."
+          ]
+        },
+        {
+          "title": "4. Your Survey Data Has Expired",
+          "paragraphs": [
+            "NSER is a dynamic registry, not a permanent list. BISP's own documentation describes recertification for beneficiaries after three years, and periodic socio-economic updates for other households. A survey completed years ago may no longer be treated as current."
+          ]
+        },
+        {
+          "title": "5. A Data Entry Error or NADRA Mismatch",
+          "paragraphs": [
+            "A mistyped CNIC digit, a different spelling of a name, or a family relationship that does not match NADRA records can stop the record from linking. BISP validates household data against NADRA, so identity errors should be corrected at NADRA first."
+          ]
+        },
+        {
+          "title": "6. System Sync Delay After a Recent Update",
+          "paragraphs": [
+            "If you completed a survey or update recently, the record may simply not be visible yet. Processing is not instant, and a check made too soon can return \"no record\" temporarily."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How to Check NSER Status Online by CNIC",
+      "paragraphs": [
+        "Use the official 8171 route. It is free, it works from any phone, and it is the only status check this site recommends. Third-party sites cannot see your NSER record, no matter what they claim."
+      ],
+      "subsections": [
+        {
+          "title": "Check Through the 8171 Web Portal",
+          "bullets": [
+            "Open the official portal at 8171.bisp.gov.pk and check the address before entering anything.",
+            "Enter your 13-digit CNIC without dashes or spaces.",
+            "Complete the image code (captcha) shown on the page.",
+            "Submit the form and read the whole reply, including any instruction at the end."
+          ],
+          "paragraphs": [
+            "If the result says no record, note the exact wording and the date. That wording tells the registration desk what the system needs."
+          ]
+        },
+        {
+          "title": "Check Through SMS to 8171",
+          "paragraphs": [
+            "Send your 13-digit CNIC by SMS to 8171 from a SIM registered in your own name. The reply usually carries the same kind of status information and may instruct you to complete a survey. Keep the message - it is useful evidence if a later visit produces a different answer."
+          ]
+        },
+        {
+          "title": "Provincial Surveys and Social Security Registration Are Separate",
+          "paragraphs": [
+            "Searches for an \"economic survey of Punjab\" or \"social security registration check\" sometimes land on BISP content, but these are different systems. Punjab runs its own socio-economic survey for provincial programmes, and provincial social security institutions maintain their own contributor records. A BISP NSER check will not show those records, and those departments cannot update NSER. Identify which system holds the record you need before visiting an office."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Official 8171 web portal access guide",
+          "href": "/8171/"
+        },
+        {
+          "label": "Portal troubleshooting guide",
+          "href": "/8171-web-portal-not-working/"
+        },
+        {
+          "label": "Punjab scheme eligibility differences",
+          "href": "/punjab-schemes/"
+        }
+      ]
+    },
+    {
+      "title": "How to Get an NSER Record: Step-by-Step at a BISP Tehsil Office",
+      "paragraphs": [
+        "The fix for a missing record is an in-person visit. There is no online form, and no website can register your household remotely."
+      ],
+      "bullets": [
+        "Find your nearest BISP Tehsil Office or Benazir Registration Center. Every tehsil has a designated registration point.",
+        "Take your original CNIC and the B-Forms of any children you are including in the household record.",
+        "Tell the counter you need NSER survey registration or a record update, and show the 8171 message if you have it.",
+        "Answer the household questionnaire accurately - housing, assets, income sources, dependants and living conditions. These answers shape the PMT assessment.",
+        "Complete biometric verification so the record can be linked to your identity.",
+        "Collect any confirmation or token the desk provides and note the date of the visit."
+      ],
+      "subsections": [
+        {
+          "title": "Documents to Take",
+          "bullets": [
+            "Original, valid CNIC of the applicant (an expired CNIC is a common reason visits are turned away).",
+            "NADRA Child Registration Certificates (B-Forms) for dependent children.",
+            "A recent utility bill if you have one, to support the address record.",
+            "Any previous survey slip, token or reference you already hold."
+          ],
+          "paragraphs": []
+        },
+        {
+          "title": "What Happens at the Desk",
+          "paragraphs": [
+            "Staff enter your household information into the registry, verify it against identity records and take your biometrics. Ask them to read your details back to you before you leave - a wrong digit or an omitted child is easier to fix at the counter than months later."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Documents for BISP record inquiries",
+          "href": "/documents-for-bisp-registration/"
+        },
+        {
+          "label": "BISP registration and update process",
+          "href": "/how-to-register-bisp-online-guide/"
+        }
+      ]
+    },
+    {
+      "title": "How Long an NSER Update Takes and How to Follow Up",
+      "paragraphs": [
+        "There is no single published turnaround time, and anyone who quotes an exact number of days is guessing. Processing depends on verification workload and whether the record needs a NADRA cross-check.",
+        "The practical approach is to wait before rechecking, then check periodically through the official 8171 portal or SMS. If several weeks pass with no change, return to the same office with your visit date and any reference number, and ask what is outstanding. Follow up on the existing record rather than starting a fresh registration each time."
+      ],
+      "links": [
+        {
+          "label": "PMT score check: the detailed guide",
+          "href": "/nser-pmt-score-check-guide/"
+        },
+        {
+          "label": "What counts as a good PMT score for BISP?",
+          "href": "/what-counts-as-a-good-pmt-score/"
+        }
+      ]
+    },
+    {
+      "title": "NSER Survey Not Found: Quick Fix Table",
+      "paragraphs": [
+        "Keep the date and wording of every check. A simple log turns \"the system keeps saying no record\" into a specific question an office can answer."
+      ],
+      "table": {
+        "caption": "What each 8171 message means and what to do next",
+        "headers": [
+          "Message or situation",
+          "What it means",
+          "What to do"
+        ],
+        "rows": [
+          [
+            "\"Record not found\" on 8171",
+            "No valid household record linked to the CNIC",
+            "Register or update the NSER survey at a BISP Tehsil Office"
+          ],
+          [
+            "\"Survey karwayen\" / survey required",
+            "The household record is missing or expired",
+            "Complete a fresh survey at the desk"
+          ],
+          [
+            "Record found but \"under process\"",
+            "Data is being verified",
+            "Wait, then recheck 8171; follow up with the office if it stalls"
+          ],
+          [
+            "Record found but \"not eligible\"",
+            "Assessment places the household above the threshold",
+            "Check whether recorded facts are accurate; ask about a review process"
+          ],
+          [
+            "No SMS reply at all",
+            "SIM or network issue, not necessarily a record issue",
+            "Retry from a SIM registered to your CNIC, or use the portal"
+          ],
+          [
+            "Checked soon after a survey",
+            "Processing not complete",
+            "Wait before rechecking"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "The \"Online NSER Registration\" Myth: What Not to Do",
+      "paragraphs": [
+        "Several websites describe an \"online NSER registration\" with account creation, form submission, document upload and a tracking ID. That process does not exist. BISP does not accept household registration through third-party websites, and it does not issue tracking IDs from them.",
+        "Do not enter your CNIC, family details or documents on any site that claims to register you for NSER or BISP. The real process requires an in-person visit and biometric verification. A website that promises online enrollment is either uninformed or collecting personal data for other purposes.",
+        "The survey is free. No BISP staff member or agent should ask for money to register you, speed up your file or improve your assessment. Official communication comes from 8171, and the official helpline is 0800-26477."
+      ],
+      "links": [
+        {
+          "label": "Recognize fake registration offers",
+          "href": "/avoid-bisp-fraud/"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What does \"NSER survey not found\" mean?",
+      "answer": "It means BISP holds no valid household record linked to your CNIC, so the 8171 system has nothing to display. It is a registration gap, not a rejection, and it is fixed by completing or updating the NSER survey at a BISP Tehsil Office."
+    },
+    {
+      "question": "How do I check my NSER registration by CNIC?",
+      "answer": "Enter your 13-digit CNIC on the official 8171 portal at 8171.bisp.gov.pk and complete the captcha, or send your CNIC by SMS to 8171 from a SIM registered in your own name. Both routes use the same household record."
+    },
+    {
+      "question": "Is there an online NSER registration form?",
+      "answer": "No. BISP does not provide an online form for NSER or BISP registration. Registration and updates require an in-person visit to a BISP Tehsil Office with biometric verification. Websites claiming otherwise are not official."
+    },
+    {
+      "question": "Can I register for NSER from home?",
+      "answer": "No. The household questionnaire and biometric verification are completed in person at a designated registration point. You can prepare documents at home and check your status online, but the registration itself is an office process."
+    },
+    {
+      "question": "What documents do I need for the NSER survey?",
+      "answer": "Take your original valid CNIC, the NADRA B-Forms of dependent children, and a recent utility bill if available. If you hold a previous survey token or reference, take that as well."
+    },
+    {
+      "question": "Why does 8171 say no record found when my family is poor?",
+      "answer": "Because the system is reporting a missing record, not judging your need. Poverty does not create a record by itself; a completed survey does. Visit a BISP Tehsil Office to have the household entered into the registry."
+    },
+    {
+      "question": "How long does an NSER update take to show on 8171?",
+      "answer": "There is no fixed published timeline. Processing depends on verification workload, and a check made immediately after a survey can still show no record. Wait, then recheck periodically and follow up with the office if nothing changes."
+    },
+    {
+      "question": "Can I update my NSER record more than once?",
+      "answer": "Yes. The registry is designed for updates when household circumstances genuinely change, such as a birth, death, marriage or change of address. There is no fee, and repeated updates are not a substitute for accurate information."
+    },
+    {
+      "question": "Does \"no record\" mean I am rejected for BISP?",
+      "answer": "No. A missing record and a rejection are different outcomes. \"No record\" means the household has not been registered or the record has expired; \"not eligible\" means a record exists but the assessment is above the threshold."
+    },
+    {
+      "question": "What is the difference between NSER and PMT score?",
+      "answer": "NSER is the household database that stores survey information. The PMT score is the assessment calculated from that information to estimate household welfare. One is the record; the other is the number derived from it."
+    },
+    {
+      "question": "Is the NSER survey free?",
+      "answer": "Yes. Registration and updates at BISP offices are free. Anyone demanding a fee to register you, release a record or improve a score is acting outside the official process and should be reported through the BISP helpline (0800-26477)."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official BISP 8171 Web Portal",
+      "href": "https://8171.bisp.gov.pk/"
+    },
+    {
+      "label": "BISP Official Website",
+      "href": "https://www.bisp.gov.pk/"
+    },
+    {
+      "label": "BISP NSER programme information",
+      "href": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj"
+    }
+  ]
+}
+
 ];
 
 export const informationPages: InformationPage[] = [

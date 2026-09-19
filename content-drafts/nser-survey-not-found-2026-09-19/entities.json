@@ -1,0 +1,204 @@
+[
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "PublicRegistry",
+    "aliases": ["NSER", "NSER database", "household registry", "National Socio Economic Registry"],
+    "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER record not found status",
+    "type": "Concept",
+    "aliases": ["no record found", "NSER survey not found", "record mojood nahi", "Survey karwayen"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Benazir Programme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "WebPortal",
+    "aliases": ["8171", "8171.bisp.gov.pk", "8171 SMS service"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentityDocument",
+    "aliases": ["CNIC", "13-digit CNIC", "shanakhti card"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA", "NADRA cross-validation"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "GovernmentOffice",
+    "aliases": ["Tehsil office", "Benazir Registration Center", "BRC", "registration desk"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NSER dynamic registry",
+    "type": "Process",
+    "aliases": ["dynamic survey", "Dynamic Registry", "on-demand registration"],
+    "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Proxy Means Test score",
+    "type": "Metric",
+    "aliases": ["PMT score", "poverty score", "PMT assessment"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Survey document set",
+    "type": "Document",
+    "aliases": ["original CNIC", "B-Forms", "utility bill", "survey token"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric verification",
+    "type": "Process",
+    "aliases": ["fingerprint verification", "biometric authentication"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Beneficiary recertification cycle",
+    "type": "Process",
+    "aliases": ["recertification", "two-year cyclic update", "three-year recertification", "survey expiry"],
+    "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PMT eligibility threshold",
+    "type": "Metric",
+    "aliases": ["cut-off 32", "relaxed 37", "BISP threshold"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP helpline 0800-26477",
+    "type": "ContactPoint",
+    "aliases": ["0800-26477", "BISP helpline"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Provincial socio-economic systems",
+    "type": "Process",
+    "aliases": ["economic survey of Punjab", "Punjab Socio-Economic Survey", "social security registration check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB", "pitb.gov.pk NSER page"],
+    "sameAs": "https://pitb.gov.pk/bisp",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Taleemi Wazaif",
+    "type": "SocialWelfareProgram",
+    "aliases": ["education stipends", "Waseela-e-Taleem"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Mobile registration vans",
+    "type": "Process",
+    "aliases": ["outreach registration", "MRV"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "NSER Ilmi online registration claim",
+    "type": "Other",
+    "aliases": ["NSER Ilmi", "online NSER tracking ID"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "note": "Debunked in the draft: no online NSER registration form exists."
+  },
+  {
+    "canonical": "Ehsaas Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["Ehsaas", "Ehsaas Kafaalat (historic)"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "note": "Parked: brand term would blur the NSER troubleshooting intent."
+  }
+]

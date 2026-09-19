@@ -1,0 +1,228 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/what-counts-as-a-good-pmt-score/#article",
+      "headline": "What Counts as a \"Good\" PMT Score for BISP?",
+      "description": "A good PMT score for BISP is 32 or below on the 0–100 scale. See the exact cut-off, the relaxed 37 limit, and how to check your score by CNIC.",
+      "inLanguage": "en-PK",
+      "datePublished": "2026-09-19",
+      "dateModified": "2026-09-19",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/what-counts-as-a-good-pmt-score/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Saad Hassan",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Ayesha Malik"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Live Govt Schemes & Ehsaas Programs",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://pakbenefits.com/images/hero-support.jpg",
+        "caption": "A family reviewing household eligibility information for a BISP PMT score check"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Proxy Means Test (PMT) score",
+          "description": "The household poverty assessment BISP calculates from NSER survey data on a 0–100 scale."
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme (BISP)",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Dataset",
+          "name": "National Socio-Economic Registry (NSER)",
+          "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj"
+        },
+        {
+          "@type": "WebSite",
+          "name": "8171 Web Portal",
+          "sameAs": "https://8171.bisp.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority (NADRA)",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Kafaalat"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "PMT eligibility cut-off (32 standard, 37 relaxed)"
+        },
+        {
+          "@type": "Place",
+          "name": "Punjab, Pakistan"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".article-answer", "h1"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/what-counts-as-a-good-pmt-score/#howto",
+      "name": "How to check your PMT score online by CNIC on the 8171 portal",
+      "description": "The official route for checking the household PMT and eligibility information BISP holds.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open the official portal",
+          "text": "Open the official portal at 8171.bisp.gov.pk and check the address before typing anything."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Enter your CNIC",
+          "text": "Enter your 13-digit CNIC without dashes or spaces."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Complete the captcha",
+          "text": "Complete the image code (captcha) shown on the page."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Read the full result",
+          "text": "Submit the form and read the entire result, including any instruction it gives."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/what-counts-as-a-good-pmt-score/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a good PMT score for BISP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A good PMT score for BISP is 32 or below, because BISP assistance targets households with the lowest recorded welfare. Lower scores indicate greater financial need and a stronger position within the eligibility threshold."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum PMT score to qualify for Benazir Kafaalat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The standard threshold is 32. Households with a certified differently-abled member are assessed against a relaxed threshold of 37. Meeting the threshold is necessary, but BISP also applies its own verification checks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the 8171 portal always show my exact PMT score?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The official route shows available household eligibility and status information, and a numeric score is not guaranteed to appear. If you need the recorded detail, ask BISP through its official desk or helpline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I check my PMT score online by CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Enter your 13-digit CNIC on the official 8171 portal at 8171.bisp.gov.pk and complete the captcha, or send your CNIC by SMS to 8171 from a SIM registered in your name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a PMT score between 33 and 37 mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is above the standard cut-off but inside the relaxed disability threshold. A household in this band may qualify only if it includes a certified differently-abled member, and BISP decides each case on its verified record."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a PMT score change over time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. A score can change after an approved household update, after recertification, or when cross-checks against other official records reveal a change in recorded circumstances. Beneficiaries undergo recertification on BISP's cycle, which its NSER documentation describes as after three years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I check my PMT score without a CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The household record is linked to a CNIC, so the 8171 check requires the applicant's 13-digit CNIC. A family member cannot check another adult's record without that person's identity number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I fix a wrong PMT score?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Take the specific error to a BISP Tehsil Office with your original CNIC and supporting documents, and ask which correction or re-survey process applies. If the error is in your NADRA identity record, correct that first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I lower my PMT score by hiding assets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Deliberately false information is treated as fraud, and BISP cross-checks household data against national databases. Only genuine changes in circumstances should be reported through the authorized process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a good PMT score the same for every government programme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Other programmes, including provincial schemes and utility subsidies, can set their own thresholds even when they use the same NSER data. Confirm the current rule with the department responsible for that programme."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/what-counts-as-a-good-pmt-score/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "NSER & PMT Score",
+          "item": "https://pakbenefits.com/nser-pmt-score/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What Counts as a \"Good\" PMT Score for BISP?",
+          "item": "https://pakbenefits.com/what-counts-as-a-good-pmt-score/"
+        }
+      ]
+    }
+  ]
+}

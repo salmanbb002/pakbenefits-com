@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-18T03:23:20.717Z",
+  "checkedAt": "2026-09-19T10:13:05.720Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 60,
+  "routeCount": 63,
   "failures": [],
   "pending": [],
   "pages": [
@@ -705,6 +705,45 @@
       "title": "7 Mistakes That Delay BISP Online Registration (2026) | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 153,
       "editorialWords": 1330,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/what-counts-as-a-good-pmt-score/",
+      "title": "What Counts as a Good PMT Score for BISP? (2026 Guide) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 142,
+      "editorialWords": 2107,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-payment-approved-but-no-cash-received/",
+      "title": "BISP Payment Approved but No Cash Received? 7 Fixes (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 160,
+      "editorialWords": 2117,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/nser-survey-not-found/",
+      "title": "NSER Survey Not Found? What \"No Record\" Means (2026 Fix) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 157,
+      "editorialWords": 1959,
       "schemaTypes": [
         "Organization",
         "WebSite",

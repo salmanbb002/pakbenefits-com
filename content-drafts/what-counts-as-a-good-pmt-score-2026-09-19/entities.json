@@ -1,0 +1,223 @@
+[
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT score", "PMT", "poverty score", "Proxy Means Test"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Benazir Programme", "Ehsaas (historic umbrella)"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "PublicRegistry",
+    "aliases": ["NSER", "NSER database", "household registry"],
+    "sameAs": "https://www.bisp.gov.pk/Detail/NzI5YTMyYTMtYjE1My00NGUwLTgwYTItZWUwYTZkYWZjYmNj",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "WebPortal",
+    "aliases": ["8171 portal", "8171.bisp.gov.pk", "BISP web portal"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PMT eligibility cut-off",
+    "type": "Metric",
+    "aliases": ["cut-off 32", "relaxed cut-off 37", "BISP threshold"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Kafaalat",
+    "type": "SocialWelfareProgram",
+    "aliases": ["Kafaalat", "BISP quarterly cash transfer", "Kafalat"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA", "identity authority"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentityDocument",
+    "aliases": ["CNIC", "13-digit CNIC", "shanakhti card"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NSER dynamic registry",
+    "type": "Process",
+    "aliases": ["dynamic survey", "dynamic registration", "MELA framework"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "GovernmentOffice",
+    "aliases": ["Tehsil office", "registration desk", "BISP office"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Beneficiary recertification",
+    "type": "Process",
+    "aliases": ["recertification", "re-survey", "record review"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Kafaalat quarterly payment",
+    "type": "Money",
+    "aliases": ["Rs 14,500", "quarterly installment", "Rs 13,500 (superseded)"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP helpline 0800-26477",
+    "type": "ContactPoint",
+    "aliases": ["0800-26477", "BISP helpline"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Provincial poverty targeting",
+    "type": "Process",
+    "aliases": ["Punjab ration schemes", "provincial schemes", "utility subsidies"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Differently-abled certified status",
+    "type": "Attribute",
+    "aliases": ["disability certificate", "special CNIC", "differently-abled member"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Child Registration Certificate",
+    "type": "IdentityDocument",
+    "aliases": ["B-Form", "CRC"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Ehsaas Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["Ehsaas", "Ehsaas Kafaalat (historic)"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Punjab Socio-Economic Registry",
+    "type": "PublicRegistry",
+    "aliases": ["PSER", "Punjab Socio-Economic Survey"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Taleemi Wazaif",
+    "type": "SocialWelfareProgram",
+    "aliases": ["Benazir education stipends", "Waseela-e-Taleem"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Benazir Nashonuma",
+    "type": "SocialWelfareProgram",
+    "aliases": ["Nashonuma", "nutrition programme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Private PMT calculator",
+    "type": "SecurityRisk",
+    "aliases": ["unofficial PMT calculator", "online score estimator"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "8171 by preparation point",
+    "type": "Other",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "note": "Parked: navigational/brand query for a third-party site; not a BISP PMT concept."
+  }
+]
