@@ -134,14 +134,16 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 
 ---
 
-## Cluster 11 — Payment & Balance Check (7 keywords, 2 sub-topics) → `/payment-check/`
+## Cluster 11 — Payment & Balance Check (12 keywords, 3 sub-topics) → `/payment-check/`
 
 **Sub-topic: BISP Card Status (3 kw)** — `benazir sim card`, `bisp card check`, `bisp id card check`
 **Sub-topic: Payment Status/Balance (4 kw)** — `bisp check balance online by cnic 2026`, `bisp payment check`, `bisp payment method`, `ehsaas program balance check`
+**Sub-topic: Biometric Verification & Troubleshooting (5 kw)** — `bisp biometric verification failed`, `bisp fingerprint problem solution`, `bisp error 93 error 99`, `bisp facial recognition verification nadra`, `bisp non bvs form procedure`
 
-**Status: ✅ Covered.** `bisp-8171-payment-balance-check-guide` + `check-bisp-account-status` together cover card status and balance/payment checking.
-
-**Optional depth angle (not a gap):** "BISP Payment Shows 'Approved' But No Cash Received" — a troubleshooting angle the guide touches but doesn't dedicate a full walkthrough to. Worth doing if support/comment questions keep surfacing this specific failure mode.
+**Status: ✅ Covered.**
+- `bisp-8171-payment-balance-check-guide` + `check-bisp-account-status` (card status & balance checking)
+- `bisp-payment-approved-but-no-cash-received` (approved but uncollected payment troubleshooting)
+- `bisp-biometric-verification-failed` (fingerprint mismatch, Error 93/99, NADRA facial verification, and Non-BVS form)
 
 ---
 

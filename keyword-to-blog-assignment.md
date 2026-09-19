@@ -25,7 +25,7 @@ Source: `keyword-clusters.csv` (201 keywords / 20 sub-topic buckets). Cross-refe
 | 15 | PMT Score & NSER — NSER Registration | 14 | ✅ Covered | `nser-pmt-score-check-guide` |
 | 16 | PMT Score & NSER — PMT Score Check | 9 | ✅ Covered | `nser-pmt-score-check-guide` |
 | 17 | Payment & Balance — BISP Card Status | 3 | ✅ Covered | `check-bisp-account-status`, `bisp-8171-payment-balance-check-guide` |
-| 18 | Payment & Balance — Payment Status/Balance | 4 | ✅ Covered | `bisp-8171-payment-balance-check-guide`, `/payment-check/` pillar |
+| 18 | Payment & Balance — Payment Status/Balance & Biometrics | 9 | ✅ Covered | `bisp-biometric-verification-failed`, `bisp-payment-approved-but-no-cash-received`, `bisp-8171-payment-balance-check-guide`, `/payment-check/` pillar |
 | 19 | Provincial Schemes — Punjab Rozgar | 5 | ✅ Covered | `punjab-rozgar-scheme-guide` |
 | 20 | **Urdu/Roman Urdu Layer** | 1 | ⚠️ **GAP (deferred)** | No Urdu content exists yet. Your Month 1 plan flagged this as a Phase 5 pilot (was slated for Sep 11) — the single biggest untapped lever per the original audit, but intentionally not started yet |
 
@@ -35,10 +35,11 @@ These don't close keyword *gaps* (their target keywords are already served above
 
 - "BISP and Ehsaas: How the Two Names Relate" — **editorial hold**, needs a human to verify the current official BISP↔Ehsaas rebranding framing before drafting (flagged in the calendar, not something to draft unverified)
 - "7 Mistakes That Delay a BISP Online Registration" — ✅ Published on 18 Sep 2026 (`/bisp-online-registration-mistakes/`)
-- "What Counts as a 'Good' PMT Score for BISP?"
-- "NSER Survey Not Found in the System? Here's What It Means"
+- "What Counts as a 'Good' PMT Score for BISP?" — ✅ Published on 19 Sep 2026 (`/what-counts-as-a-good-pmt-score/`)
+- "NSER Survey Not Found in the System? Here's What It Means" — ✅ Published on 19 Sep 2026 (`/nser-survey-not-found/`)
 - "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons"
-- "BISP Payment Shows 'Approved' But No Cash Received"
+- "BISP Payment Shows 'Approved' But No Cash Received" — ✅ Published on 19 Sep 2026 (`/bisp-payment-approved-but-no-cash-received/`)
+- "BISP Biometric Verification Failed: Complete Step-by-Step Fix" — ✅ Published on 19 Sep 2026 (`/bisp-biometric-verification-failed/`)
 - "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?"
 
 ## Recommendation
