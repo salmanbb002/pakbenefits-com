@@ -9992,8 +9992,8 @@ export const articles: Article[] = [
   publishedDate: "September 19, 2026",
   lastChecked: "September 19, 2026",
   readTime: "18 min read",
-  image: "/images/hero-support.jpg",
-  imageAlt: "Young Pakistani entrepreneur reviewing Prime Minister Youth Loan Scheme application details",
+  image: "/images/pm-youth-loan-scheme.jpg",
+  imageAlt: "Young Pakistani entrepreneurs in a modern office reviewing Prime Minister Youth Loan Scheme application details",
   author: contributors.muhammadSalman,
   reviewer: contributors.ayeshaMalik,
   sections: [
