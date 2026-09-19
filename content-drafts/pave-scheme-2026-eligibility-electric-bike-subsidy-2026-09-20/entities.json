@@ -1,0 +1,252 @@
+[
+  {
+    "canonical": "Pakistan Accelerated Vehicle Electrification Programme",
+    "type": "Government Programme",
+    "aliases": ["PAVE Scheme", "PAVE EV Scheme", "PAVE Electric Bike Programme", "PAVE 2026", "پیو الیکٹرک بائیک اسکیم"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ministry of Industries and Production",
+    "type": "Government Ministry",
+    "aliases": ["MoIP", "Ministry of Industries", "وزارت صنعت و پیداوار"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Industries_and_Production_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Engineering Development Board",
+    "type": "Government Agency",
+    "aliases": ["EDB", "ای ڈی بی"],
+    "sameAs": "https://en.wikipedia.org/wiki/Engineering_Development_Board",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Electric Bike Subsidy (Rs 80,000)",
+    "type": "Financial Subsidy",
+    "aliases": ["Rs 80,000 E-Bike Subsidy", "Two-Wheeler EV Subsidy", "PAVE Bike Grant"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "pave.gov.pk",
+    "type": "Digital Portal",
+    "aliases": ["PAVE Official Portal", "PAVE Web Portal", "www.pave.gov.pk"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "Government Agency",
+    "aliases": ["NADRA", "نادرا"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Eligibility Criteria",
+    "type": "Regulatory Standard",
+    "aliases": ["PAVE Eligibility", "Qualification Requirements", "Age & CNIC Rules"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "CM Punjab E-Bike Scheme",
+    "type": "Provincial Programme",
+    "aliases": ["Punjab Student E-Bike Scheme", "Chief Minister Punjab E-Bike Scheme", "bikes.punjab.gov.pk"],
+    "sameAs": "https://bikes.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "First-Come, First-Served Selection",
+    "type": "Allocation Mechanism",
+    "aliases": ["FCFS Queue", "Timestamped Allocation", "Digital Queue Selection"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Approved EV Manufacturers",
+    "type": "Industrial Group",
+    "aliases": ["EDB Certified Assemblers", "PAVE Partner Brands", "Approved Electric Bike Companies"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Electric Three-Wheelers (Rs 400,000 Subsidy)",
+    "type": "Financial Subsidy",
+    "aliases": ["Electric Rickshaw Subsidy", "3-Wheeler Loader Subsidy", "Rs 400k EV Subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Installment Financing & 0% Markup Plans",
+    "type": "Financial Product",
+    "aliases": ["Zero Percent Installments", "Concessional Bank Financing", "Monthly Installments 12 to 36 Months"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Battery Technology (Lithium-ion vs Graphene)",
+    "type": "Technology Specification",
+    "aliases": ["LFP Battery", "Graphene Lead-Acid", "EV Battery Pack"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Fuel Savings & Economic Payback",
+    "type": "Economic Metric",
+    "aliases": ["Monthly Fuel Savings", "Petrol vs Electric Running Cost", "EV ROI"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Application Tracking ID & SMS Verification",
+    "type": "Digital Process",
+    "aliases": ["Tracking Number", "OTP Verification", "Application Status Check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Women & Youth Quotas",
+    "type": "Affirmative Policy",
+    "aliases": ["25% Female Quota", "Student Allocation", "Women Empowerment Quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "National Electric Vehicle Policy",
+    "type": "Public Policy",
+    "aliases": ["NEVP", "National EV Policy 2025-2030"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Brushless DC Motor (BLDC)",
+    "type": "Hardware Component",
+    "aliases": ["BLDC Hub Motor", "Electric Motor"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Driving License & Learner Permit",
+    "type": "Legal Document",
+    "aliases": ["Valid Driving License", "Traffic Police Learner Slip"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Yadea Pakistan",
+    "type": "Corporation",
+    "aliases": ["Yadea Electric", "Yadea T5", "Yadea Ruibin"],
+    "sameAs": "https://yadea.com.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Crown Group",
+    "type": "Corporation",
+    "aliases": ["Crown Electric", "Crown Micro", "Crown Benling"],
+    "sameAs": "https://crowngroup.com.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Vlektra Electric Motorcycles",
+    "type": "Corporation",
+    "aliases": ["Vlektra", "Vlektra Retro", "Vlektra Bolt"],
+    "sameAs": "https://vlektra.com/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Jolta Electric",
+    "type": "Corporation",
+    "aliases": ["Jolta", "JE-70", "JE-100"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Metro E-Vehicles",
+    "type": "Corporation",
+    "aliases": ["Metro Electric", "Metro E-Bike"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "MS Jaguar",
+    "type": "Corporation",
+    "aliases": ["MS Jaguar Electric Bike"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
