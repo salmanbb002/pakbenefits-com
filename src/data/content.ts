@@ -10708,8 +10708,8 @@ export const articles: Article[] = [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "17 min read",
-    image: "/images/hero-support.jpg",
-    imageAlt: "Pakistani commuter reviewing PAVE electric bike scheme application details on smartphone",
+    image: "/images/pave-electric-bike-scheme.jpg",
+    imageAlt: "Modern electric motorcycle in Pakistan under the federal PAVE electric bike subsidy scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
