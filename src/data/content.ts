@@ -10434,8 +10434,8 @@ export const articles: Article[] = [
     date: "September 19, 2026",
     publishedDate: "September 19, 2026",
     readTime: "12 min read",
-    image: "/images/e-bike-guide.jpg",
-    imageAlt: "A motorcyclist checking the Rs. 100 per litre petrol relief registration token on a mobile phone at a fuel station",
+    image: "/images/fuel-relief-scheme.jpg",
+    imageAlt: "A motorcyclist and small car driver displaying a fuel relief scheme SMS token at a petrol pump in Pakistan",
     author: contributors.muhammadSalman,
     sections: [
       {
