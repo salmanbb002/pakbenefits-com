@@ -1,0 +1,302 @@
+[
+  {
+    "canonical": "Prime Minister's Youth Business & Agriculture Loan Scheme",
+    "type": "Government Programme",
+    "aliases": ["PMYB&ALS", "PM Youth Loan Scheme", "PM Youth Loan", "Kamyab Jawan Program", "وزیر اعظم یوتھ بزنس اینڈ ایگریکلچر لون اسکیم"],
+    "sameAs": "https://pmyp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Prime Minister's Youth Programme",
+    "type": "Government Authority",
+    "aliases": ["PMYP", "PM Youth Program"],
+    "sameAs": "https://pmyp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "Central Bank",
+    "aliases": ["SBP", "مرکزی بینک پاکستان"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tier 1 Loan (T1)",
+    "type": "Financial Product",
+    "aliases": ["Microloan", "Interest-Free Loan", "0% Loan", "T1 Loan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tier 2 Loan (T2)",
+    "type": "Financial Product",
+    "aliases": ["Small Business Loan", "5% Markup Loan", "T2 Loan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tier 3 Loan (T3)",
+    "type": "Financial Product",
+    "aliases": ["SME Loan", "7% Markup Loan", "T3 Loan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Markup Rates (0%, 5%, 7%)",
+    "type": "Financial Metric",
+    "aliases": ["Interest Rate", "Concessional Markup", "Subsidized Pricing", "Profit Rate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Loan Limits (Rs 0.5M, 1.5M, 7.5M)",
+    "type": "Financial Metric",
+    "aliases": ["Financing Cap", "Maximum Limit", "Loan Amount Threshold"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Eligibility Criteria (Age 21–45 / 18–45)",
+    "type": "Rule / Requirement",
+    "aliases": ["Age Limit", "Applicant Qualification", "Eligibility Age"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Online Application Portal",
+    "type": "Digital System",
+    "aliases": ["pmyp.gov.pk", "PMYP Bank Form", "pmybals.pmyp.gov.pk", "Digital Youth Hub"],
+    "sameAs": "https://pmybals.pmyp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA",
+    "type": "Government Authority",
+    "aliases": ["National Database and Registration Authority", "NADRA Verisys", "نادرا"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Personal Guarantee",
+    "type": "Legal / Collateral",
+    "aliases": ["Clean Lending", "Third-party Guarantee", "Borrower Guarantee"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Small and Medium Enterprises Development Authority",
+    "type": "Semi-Government Org",
+    "aliases": ["SMEDA", "Feasibility Provider"],
+    "sameAs": "https://en.wikipedia.org/wiki/Small_and_Medium_Enterprises_Development_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Debt to Equity Ratio (90:10, 80:20)",
+    "type": "Financial Ratio",
+    "aliases": ["Borrower Equity", "Self-Financing Share", "Equity Contribution"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Loan Tenor & Grace Period",
+    "type": "Financial Term",
+    "aliases": ["3 to 8 Years Tenor", "1-Year Grace Period", "Repayment Schedule"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Participating Financial Institutions",
+    "type": "Banking Network",
+    "aliases": ["PFIs", "Commercial Banks", "Islamic Banks", "Microfinance Institutions", "Allied Bank", "Bank of Punjab", "JS Bank", "Al Baraka"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "E-CIB Credit Check",
+    "type": "Financial Process",
+    "aliases": ["Electronic Credit Information Bureau", "Default History", "CIB Report", "Credit Worthiness"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Female Entrepreneur Quota (25%)",
+    "type": "Social Policy",
+    "aliases": ["Women Quota", "Female Allocation", "Gender Inclusivity"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Business Feasibility Report",
+    "type": "Document",
+    "aliases": ["Business Plan", "Financial Projections", "Feasibility Study"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Digital Youth Hub",
+    "type": "Government Portal",
+    "aliases": ["DYH", "One-Stop Shop"],
+    "sameAs": "https://pmyp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Processing Fee (Rs. 100)",
+    "type": "Financial Metric",
+    "aliases": ["Application Fee", "Form Fee", "Token Fee"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Agriculture Financing Limits",
+    "type": "Policy Framework",
+    "aliases": ["SBP Indicative Credit Limits 2020", "Agri Production Loans", "Agri Development Loans"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Commercial Vehicle Financing",
+    "type": "Product Restriction",
+    "aliases": ["1 Vehicle Limit", "Locally Manufactured Commercial Vehicle", "Fleet Financing"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Civil Works Financing (Up to 65%)",
+    "type": "Product Restriction",
+    "aliases": ["Infrastructure Cap", "Construction Limit", "Civil Works Cap"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Working Capital vs Term Loan",
+    "type": "Financial Product",
+    "aliases": ["Operational Finance", "Capital Expenditure", "Long Term Financing"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Government Employee Exclusion",
+    "type": "Legal Restriction",
+    "aliases": ["Public Sector Prohibition", "Civil Servant Exclusion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Rana Mashhood Ahmad Khan",
+    "type": "Person",
+    "aliases": ["Chairman PMYP", "Special Assistant to PM on Youth Affairs"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "NTN & Tax Returns",
+    "type": "Tax Compliance",
+    "aliases": ["FBR Registration", "Active Taxpayer", "Tax Filing Proof"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Biometric Verification",
+    "type": "Identity Process",
+    "aliases": ["NADRA e-Sahulat", "Thumbprint Authentication"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Citizen Portal App",
+    "type": "Mobile App",
+    "aliases": ["Pakistan Citizen Portal", "Grievance Redressal App"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
