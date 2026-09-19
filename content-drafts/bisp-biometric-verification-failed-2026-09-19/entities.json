@@ -1,0 +1,212 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "Benazir Kafalat", "8171 Scheme", "BISP Ehsaas"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Biometric Verification System",
+    "type": "Process",
+    "aliases": ["BVS", "Fingerprint verification", "Thumbprint verification", "Biometric scanner"],
+    "sameAs": "https://en.wikipedia.org/wiki/Biometrics",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "Organization",
+    "aliases": ["NADRA"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Product",
+    "aliases": ["CNIC", "Smart National Identity Card", "SNIC"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "Organization",
+    "aliases": ["BISP Tehsil Center", "BISP Local Office", "Tehsil Registration Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Live Facial Recognition System",
+    "type": "Process",
+    "aliases": ["Facial Recognition Verification", "Face Verification Certificate", "Live Face Scan"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Non-BVS Disbursement Form",
+    "type": "Product",
+    "aliases": ["Failure Form", "Non-BVS Form", "Biometric Exemption Form", "Form 1"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Fingerprint Mismatch",
+    "type": "Concept",
+    "aliases": ["Thumb not matching", "Biometric failure", "Thumb expression error"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Error 93",
+    "type": "Code",
+    "aliases": ["Error 93", "Error 938", "Error 933", "Biometric transmission failure"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Error 99",
+    "type": "Code",
+    "aliases": ["Error 99", "Mobile Already Tagged"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Helpline 0800-26477",
+    "type": "Service",
+    "aliases": ["0800-26477", "BISP Toll-Free Helpline", "BISP Call Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "8171 Web Portal & SMS Service",
+    "type": "Service",
+    "aliases": ["8171 portal", "8171 SMS", "8171.bisp.gov.pk"],
+    "sameAs": "https://8171.bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Rs. 13,500 / Rs. 14,500 Installment",
+    "type": "Money",
+    "aliases": ["Rs 13500 payment", "Rs 14500 payment", "BISP quarterly stipend"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Partner Banks (HBL / Bank Alfalah)",
+    "type": "Organization",
+    "aliases": ["HBL Konnect", "Bank Alfalah", "BISP Partner Bank"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "Organization",
+    "aliases": ["NSER", "NSER Survey", "Dynamic Registry"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Worn Epidermal Ridges",
+    "type": "Concept",
+    "aliases": ["Faded fingerprints", "Dry fingerprints", "Laborer palm abrasion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Point of Sale Terminal",
+    "type": "Product",
+    "aliases": ["POS device", "Biometric POS machine", "Biometric ATM"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric Re-enrollment",
+    "type": "Process",
+    "aliases": ["NADRA biometric update", "Fingerprint refresh", "Biometric re-verification"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Digital Payment Slip",
+    "type": "Product",
+    "aliases": ["Transaction receipt", "Failure slip", "Biometric slip"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "NADRA Child Registration Certificate",
+    "type": "Product",
+    "aliases": ["B-Form", "Bay Form"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Rubina Khalid",
+    "type": "Person",
+    "aliases": ["Senator Rubina Khalid", "BISP Chairperson"],
+    "sameAs": "https://en.wikipedia.org/wiki/Rubina_Khalid",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
