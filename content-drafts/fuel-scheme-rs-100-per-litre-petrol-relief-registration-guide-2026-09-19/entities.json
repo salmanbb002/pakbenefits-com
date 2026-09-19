@@ -1,0 +1,212 @@
+[
+  {
+    "canonical": "Fuel Relief Scheme",
+    "type": "GovernmentProgram",
+    "aliases": ["PM's Fuel Relief Scheme", "PM Petrol Relief Scheme", "Rs 100 Petrol Relief Scheme", "Fuel Scheme Rs. 100 Per Litre Petrol Relief"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs. 100 Per Litre Subsidy",
+    "type": "Metric",
+    "aliases": ["Rs 100 per litre discount", "100 rupees petrol relief", "Rs 100 subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "9771 SMS Gateway",
+    "type": "Service",
+    "aliases": ["9771 shortcode", "SMS to 9771", "9771 portal"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Fuel Pass System",
+    "type": "SoftwareApplication",
+    "aliases": ["Digital Fuel Pass", "MoITT token system", "Fuel Pass portal"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card (CNIC)",
+    "type": "Identifier",
+    "aliases": ["CNIC", "NADRA CNIC", "National ID Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Petroleum Division",
+    "type": "GovernmentOrganization",
+    "aliases": ["Ministry of Energy Petroleum Wing", "Federal Petroleum Division"],
+    "sameAs": "https://petroleum.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Economic Coordination Committee (ECC)",
+    "type": "GovernmentOrganization",
+    "aliases": ["ECC", "ECC of the Cabinet"],
+    "sameAs": "https://en.wikipedia.org/wiki/Economic_Coordination_Committee_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Motorcycles and Three-Wheelers",
+    "type": "Product",
+    "aliases": ["Bikes", "Rickshaws", "Qingqis", "Two-wheelers"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Small Cars (≤800cc)",
+    "type": "Product",
+    "aliases": ["800cc cars", "Vehicles up to 800cc", "Suzuki Mehran", "Suzuki Alto"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Bank of Pakistan (SBP)",
+    "type": "CentralBank",
+    "aliases": ["SBP", "Central Bank of Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Oil and Gas Regulatory Authority (OGRA)",
+    "type": "RegulatoryBody",
+    "aliases": ["OGRA"],
+    "sameAs": "https://en.wikipedia.org/wiki/Oil_and_Gas_Regulatory_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "January 1, 2006 Registration Cutoff",
+    "type": "Date",
+    "aliases": ["2006 vehicle cutoff rule", "20-year vehicle registration criteria"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Weekly Rs. 500 Token",
+    "type": "Process",
+    "aliases": ["Rs 500 weekly token", "Four monthly tokens", "20-litre motorcycle quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "SMS Province Codes",
+    "type": "Code",
+    "aliases": ["Province initials", "Code I A G P S K B"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "SIM-CNIC Ownership Match",
+    "type": "Rule",
+    "aliases": ["SIM in own name", "Biometrically registered mobile number"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Pakistan Petroleum Dealers Association (PPDA)",
+    "type": "TradeOrganization",
+    "aliases": ["PPDA", "Petrol pump dealers association"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Offline SMS Redemption",
+    "type": "Process",
+    "aliases": ["Offline token redemption", "Non-internet station validation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Fake Portal Warning (pmfuelrelief.pk)",
+    "type": "Risk",
+    "aliases": ["pmfuelrelief.pk", "Fuel relief scam", "Phishing portal"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PTA SMS Fee Waiver",
+    "type": "Regulation",
+    "aliases": ["Free 9771 SMS", "PTA shortcode regulation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Suzuki Mehran / Alto / Bolan",
+    "type": "Product",
+    "aliases": ["Mehran", "Alto 660cc", "Bolan", "Kei cars"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "District Facilitation Camps",
+    "type": "Organization",
+    "aliases": ["Registration desks", "Administration facilitation camps"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

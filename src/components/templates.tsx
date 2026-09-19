@@ -124,7 +124,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
     datePublished: contentDateIso(article.publishedDate || article.date),
     dateModified: articleDate,
     author: { "@type": "Person", name: article.author.name, jobTitle: article.author.role },
-    editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role },
+    ...(article.reviewer ? { editor: { "@type": "Person", name: article.reviewer.name, jobTitle: article.reviewer.role } } : {}),
     publisher: { "@type": "Organization", name: "Live Govt Schemes & Ehsaas Programs", logo: { "@type": "ImageObject", url: `${siteUrl}/icon.svg` } },
     mainEntityOfPage: `${siteUrl}/${article.slug}/`,
     keywords: [article.focusKeyword, ...article.lsiKeywords].join(", "),
@@ -157,7 +157,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
                 {article.lastChecked && <span><ShieldCheck size={16} /> Official routes checked {article.lastChecked}</span>}
                 <span>{article.readTime}</span>
                 <span><UserRound size={16} /> Written by {article.author.name}</span>
-                <span>Reviewed by {article.reviewer.name}</span>
+                {article.reviewer && <span>Reviewed by {article.reviewer.name}</span>}
               </div>
             </div>
             <div className="article-hero-image">
@@ -188,10 +188,12 @@ export function ArticleTemplate({ article }: { article: Article }) {
                 <UserRound size={22} />
                 <div><strong>{article.author.name}</strong><small>{article.author.role}</small><p>{article.author.bio}</p></div>
               </div>
-              <div className="contributor-card">
-                <ShieldCheck size={22} />
-                <div><strong>{article.reviewer.name}</strong><small>{article.reviewer.role}</small><p>{article.reviewer.bio}</p></div>
-              </div>
+              {article.reviewer && (
+                <div className="contributor-card">
+                  <ShieldCheck size={22} />
+                  <div><strong>{article.reviewer.name}</strong><small>{article.reviewer.role}</small><p>{article.reviewer.bio}</p></div>
+                </div>
+              )}
             </section>
             {relatedArticles.length > 0 && (
               <section className="related-articles">
