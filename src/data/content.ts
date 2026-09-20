@@ -671,8 +671,12 @@ export const categories: Category[] = [
         ],
         "links": [
           {
-            "label": "Farmer support card and land-record checks",
+            "label": "Farmer support card guide",
             "href": "/farmer-support-card-guide/"
+          },
+          {
+            "label": "Apna Khet Apna Rozgar Scheme 2026 apply online",
+            "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
           }
         ]
       },
@@ -3825,6 +3829,10 @@ export const articles: Article[] = [
           {
             "label": "PM Youth loan guide",
             "href": "/pm-youth-business-loan-guide/"
+          },
+          {
+            "label": "Apna Khet Apna Rozgar Scheme land lease guide",
+            "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
           }
         ]
       }
@@ -4394,6 +4402,10 @@ export const articles: Article[] = [
           {
             "label": "how land records are checked online by CNIC",
             "href": "/punjab-land-record-check-guide/"
+          },
+          {
+            "label": "Apna Khet Apna Rozgar landless farmer scheme",
+            "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
           }
         ]
       },
@@ -7500,7 +7512,8 @@ export const articles: Article[] = [
         ],
         "links": [
           { "label": "Farmer Support Card eligibility", "href": "/farmer-support-card-guide/" },
-          { "label": "Punjab provincial schemes", "href": "/punjab-schemes/" }
+          { "label": "Punjab provincial schemes", "href": "/punjab-schemes/" },
+          { "label": "Apna Khet Apna Rozgar landless scheme", "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/" }
         ]
       }
     ],
