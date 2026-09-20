@@ -5375,6 +5375,7 @@ export const articles: Article[] = [
           "Your status result isn’t arbitrary — it’s a direct output of your household’s PMT (poverty score) in the NSER database. A resurvey that updates your score can shift your status between checks, even if nothing changed on your end. If you’ve never been registered at all, none of the status checks above will return a meaningful result — understand how registration actually works first.",
         ],
         links: [
+          { label: "Why was my Benazir Kafaalat case paused?", href: "/benazir-kafaalat-case-paused-reasons/" },
           { label: "See how 8171 registration actually works", href: "/8171-register/" },
           { label: "Full walkthrough of the OTP portal login", href: "/bisp-login-username-password/" },
         ],
