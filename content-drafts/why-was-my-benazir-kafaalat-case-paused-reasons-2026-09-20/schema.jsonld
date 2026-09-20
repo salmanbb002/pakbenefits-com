@@ -1,0 +1,217 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/",
+        "url": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/",
+        "name": "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons and Official Solutions",
+        "description": "Benazir Kafaalat payment paused or blocked on 8171? Discover the 6 common reasons—from expired CNIC and PMT shifts to dynamic survey lapses—and how to fix it.",
+        "breadcrumb": {
+          "@id": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/#breadcrumb"
+        }
+      },
+      "headline": "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons and Official Solutions",
+      "description": "Benazir Kafaalat payment paused or blocked on 8171? Discover the 6 common reasons—from expired CNIC and PMT shifts to dynamic survey lapses—and how to fix it.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/",
+      "datePublished": "2026-09-20T11:45:00+05:00",
+      "dateModified": "2026-09-20T11:45:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman",
+        "jobTitle": "Lead Social Welfare & Public Policy Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Kafaalat Programme",
+          "sameAs": "https://www.bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Federal Board of Revenue",
+          "sameAs": "https://en.wikipedia.org/wiki/Federal_Board_of_Revenue"
+        },
+        {
+          "@type": "WebService",
+          "name": "8171 Web Portal & SMS Service",
+          "sameAs": "https://8171.bisp.gov.pk/"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benazir Kafaalat",
+          "item": "https://pakbenefits.com/benazir-kafaalat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Why Was My Benazir Kafaalat Case Paused?",
+          "item": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Restore and Unblock a Paused Benazir Kafaalat Account",
+      "description": "Step-by-step official guide to resolving administrative holds, expired CNICs, and survey lapses on Benazir Kafaalat BISP payments.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Update Identity Documents at NADRA",
+          "text": "Renew expired Smart CNICs, update marital status (FRC), and verify children's B-Forms at your nearest NADRA center."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Visit BISP Tehsil Dynamic Registry Desk",
+          "text": "Visit the local BISP Tehsil Office with original CNIC, children's B-Forms, and a paid domestic utility bill."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Complete Biometric Re-Survey and Obtain Token",
+          "text": "Undergo the digital NSER household questionnaire, submit biometric thumb impressions, and obtain the Dynamic Registry Confirmation Slip."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Track Status on 8171 and Claim Arrears",
+          "text": "Monitor verification status on 8171.bisp.gov.pk weekly. Upon eligibility reinstatement, collect current and retroactive escrow funds."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/benazir-kafaalat-case-paused-reasons/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why is my Benazir Kafaalat account showing \"Survey Required\" on the 8171 portal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\"Survey Required\" indicates that your household’s 3-year NSER survey validity has expired. BISP mandates a dynamic re-survey every 36 months to verify ongoing eligibility. You must visit your local BISP Tehsil Center with your original CNIC, children’s B-Forms, and an electricity bill to complete the re-survey and restore payments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get my BISP Kafaalat payment if my CNIC is expired?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. BISP banking servers automatically suspend disbursements the moment a CNIC expires in NADRA’s database. You must renew your Smart CNIC at NADRA. Once renewed and updated in the BISP system (usually within 15–30 days), your paused installment will be released."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum PMT score to remain eligible for Benazir Kafaalat in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The standard PMT eligibility threshold for Benazir Kafaalat is 32 or below. For households with certified disabled persons registered in their NADRA family tree, the cutoff is relaxed to 37 or below. If your score rises above these thresholds, payments are paused or cancelled."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will I receive my missed payments once my paused BISP account is unblocked?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If your payment was paused due to administrative reasons like an expired CNIC, biometric failure, or pending re-survey, BISP holds your funds in escrow. Once your profile is officially restored, the system disburses your missed installments together in the next quarterly cycle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I check my Ehsaas Kafalat money online using my CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit the official 8171 web portal at https://8171.bisp.gov.pk/, enter your 13-digit CNIC without dashes, type the 4-digit captcha code, and click the confirmation button. The portal will display your current payment amount, release date, and collection point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if the biometric scanner shows Error 93 or Error 99?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Error 93 or 99 indicates repeated fingerprint mismatch. First, visit NADRA to clean and re-register your biometric fingerprints. If scanner failure persists due to age or skin conditions, apply for a Non-BVS exemption at your BISP Tehsil Office to authorize manual over-the-counter bank disbursements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an agent unblock my BISP payment for a fee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. PMT scores and account statuses are managed strictly through encrypted, automated government servers. No private agent, middleman, or local shopkeeper can unblock an account. Anyone demanding a fee to unblock your status is running an illegal scam and should be reported to the BISP helpline (0800-26477)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does becoming an FBR tax filer disqualify you from Benazir Kafaalat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Under federal social safety net rules, registering as an active income tax filer in the FBR database serves as an automated disqualification trigger. BISP cross-references FBR data monthly, and accounts flagged with filer status are immediately paused."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is my payment paused after getting a new mobile SIM card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In modern BISP disbursement pilots, digital wallet transfers require that the registered mobile number is biometrically issued under the female beneficiary’s own CNIC. If the SIM is registered under a male relative’s CNIC, payment alerts and digital wallet activation fail. You must update your record with a SIM in your own name at the BISP office."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take for a paused Benazir Kafaalat case to be restored?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Restoration typically takes between two to four weeks after completing your NSER re-survey or NADRA identity renewal. You can monitor the progress by checking the 8171 web portal weekly."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Benazir Programme", "Ehsaas"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Kafaalat Programme",
+    "type": "GovernmentService",
+    "aliases": ["Ehsaas Kafalat", "BISP Kafaalat", "Benazir Kafalat"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal & SMS Service",
+    "type": "WebService",
+    "aliases": ["8171 portal", "8171 web portal", "8171 SMS", "8171.bisp.gov.pk"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "DataRegistry",
+    "aliases": ["NSER", "Dynamic Registry", "BISP Survey"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT score", "PMT cutoff", "poverty score"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentityDocument",
+    "aliases": ["CNIC", "Smart Card", "Shanakhti Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "GovernmentOffice",
+    "aliases": ["Tehsil Center", "BISP Registration Center", "Dynamic Registry Desk"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric Verification",
+    "type": "Process",
+    "aliases": ["Fingerprint Scan", "BVS", "Biometric Matching", "Error 93", "Error 99"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Non-BVS Form",
+    "type": "Form",
+    "aliases": ["Manual Verification Form", "Biometric Exemption Form"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Federal Board of Revenue",
+    "type": "GovernmentOrganization",
+    "aliases": ["FBR", "Tax Filer Database"],
+    "sameAs": "https://en.wikipedia.org/wiki/Federal_Board_of_Revenue",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Quarterly Cash Grant",
+    "type": "Money",
+    "aliases": ["Rs 13,500", "Kafaalat installment", "Kafaalat kist"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Child Registration Certificate",
+    "type": "IdentityDocument",
+    "aliases": ["B-Form", "Bay Form", "CRC"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "SIM Card Ownership",
+    "type": "Requirement",
+    "aliases": ["Biometric SIM", "Registered Mobile Number"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Directorate General of Immigration & Passports",
+    "type": "GovernmentOrganization",
+    "aliases": ["Passport Office", "Foreign Travel Record"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]
