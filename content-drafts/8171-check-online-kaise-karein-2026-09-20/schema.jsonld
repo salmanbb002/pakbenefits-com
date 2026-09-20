@@ -1,0 +1,200 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/8171-check-online-kaise-karein/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/8171-check-online-kaise-karein/"
+      },
+      "headline": "8171 Check Online Kaise Karein: Official Web Portal & CNIC Status Check (2026 Guide)",
+      "description": "8171 check online kaise karein? 8171.bisp.gov.pk web portal aur 8171 SMS ke zariye CNIC eligibility, payment status aur NSER survey check karne ka mukammal tareeqa.",
+      "inLanguage": "ur-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/8171-check-online-kaise-karein/",
+      "datePublished": "2026-09-20T13:30:00+05:00",
+      "dateModified": "2026-09-20T13:30:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "8171 Web Portal",
+          "url": "https://8171.bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Kafaalat Programme"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "National Socio-Economic Registry"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer", "h1"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/8171-check-online-kaise-karein/#howto",
+      "name": "8171 Web Portal Par CNIC Check Karne Ka Tareeqa",
+      "description": "BISP 8171 official web portal par apna CNIC check karne ka step-by-step tareeqa.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Official Portal Open Karein",
+          "text": "Browser mein https://8171.bisp.gov.pk/ official URL open karein.",
+          "position": 1
+        },
+        {
+          "@type": "HowToStep",
+          "name": "13-Digit CNIC Enter Karein",
+          "text": "Pehle khane mein mustahiq khatoon ka 13-hinson ka CNIC number bina kisi dash ya space ke darj karein.",
+          "position": 2
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Captcha Code Aur Submit",
+          "text": "Dusray khane mein 4-digit security code likhein aur Maloom Karein ke green button par click karein.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/8171-check-online-kaise-karein/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "8171",
+          "item": "https://pakbenefits.com/8171/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "8171 Check Online Kaise Karein",
+          "item": "https://pakbenefits.com/8171-check-online-kaise-karein/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/8171-check-online-kaise-karein/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "8171 check online kaise karein ghar bethay?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "8171 check online karne ke liye official portal 8171.bisp.gov.pk par jayen, apna 13-hinson ka CNIC number baghair space ke darj karein, screen par nazar aane wala security code likhein aur submit button par click karein. Aapki eligibility aur raqam ki tafseel screen par foran aa jayegi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya 8171 portal par registration ka koi online form hota hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, 8171 web portal par koi online registration form nahi hai. Yeh portal sirf mojooda record aur kafaalat status check karne ke liye hai. Naye registration ke liye aapko apne qareebi BISP Tehsil Office mein ja kar NSER Dynamic Survey karwana parta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "8171 par SMS send karne ka kya format hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apne mobile ke message box mein apna 13-digit CNIC number baghair kisi dash (-) ke likhein aur usay 8171 par send kar dein. Kuch hi minute mein aapko government ki taraf se tasdeeqi message mosool ho jayega."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "8171 SMS service ke kitne charges hotay hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "8171 par SMS bhejne ke mamooli telecom charges hotay hain jo taqreeban Rs. 1.50 plus tax bante hain. Agar aapke mobile sim mein zero balance hoga to SMS send nahi hoga."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar 8171 portal par 'Record Mojood Nahi Hai' aaye to kya karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Iska matlab hai ke aapka household NSER database mein darj nahi hai ya pichla survey expire ho chuka hai. Aapko apna asli CNIC aur bachon ke B-Form le kar qareebi BISP Tehsil Office Dynamic Registry Desk jana hoga taake naya survey mukammal kiya ja sake."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Benazir Kafaalat ki raqam 2026 mein kitni hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "2026 ke quarterly payment cycle mein Benazir Kafaalat Programme ki standard qist Rs 10,500 se barha kar Rs 13,500 muqarrar ki gayi hai, jo ahl khawateen ko biometric verification ke baad di jati hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya kisi bhi mobile number se 8171 par message bheja ja sakta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Behtareen yeh hai ke SMS mustahiq khatoon ke apne naam par registered mobile SIM se bheja jaye. Ghair-tasdeeq shuda ya dosron ki SIM se message bhejne par baaz auqat security verification mein takheer ho sakti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "8171 portal par captcha code bar bar galat kyun show hota hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agar captcha code expire ho jaye ya internet slow ho to code match nahi hota. Tasweer ke sath refresh button par click karein, naya code wazeh parhein aur usay enter karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biometric verification fail hone (Error 93 ya 99) ki surat mein raqam kaise milegi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agar biometric device par aapke fingerprints scan na hon to BISP Tehsil Office mein NADRA verification desk se biometric update karwayen ya Assistant Director se Non-BVS Form tasdeeq karwa kar bank branch se cash wasool karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP ki official helpline ka number kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Benazir Income Support Programme ki official toll-free helpline ka number 0800-26477 hai, jahan aap kisi bhi scam, deduction, ya survey shikayat ke liye rabta kar sakte hain."
+          }
+        }
+      ]
+    }
+  ]
+}

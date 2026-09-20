@@ -1,0 +1,229 @@
+# Content Entry: CM Punjab Himmat Card Online Apply 2026
+
+Ready to splice into `src/data/content.ts` inside the `articles` array.
+
+```ts
+  {
+    slug: "cm-punjab-himmat-card-online-apply-2026",
+    title: "CM Punjab Himmat Card Online Apply 2026: DPMIS Registration, Eligibility & Rs 10,500 Stipend Guide",
+    excerpt: "To apply online for the CM Punjab Himmat Card, visit the official portal at dpmis.punjab.gov.pk, register your account using your 13-digit CNIC, and upload your official Social Welfare Disability Certificate. Eligible certified persons with disabilities receive a quarterly financial stipend of Rs. 10,500 via an ATM-enabled Bank of Punjab card.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Himmat Card Online Apply 2026: DPMIS & Rs 10,500 Guide",
+    metaDescription: "CM Punjab Himmat Card online apply 2026: dpmis.punjab.gov.pk par registration ka step-by-step tareeqa, PMT score <= 45 criteria, aur BOP Rs 10,500 stipend guide.",
+    focusKeyword: "cm punjab himmat card online apply",
+    lsiKeywords: [
+      "himmat card registration 2026",
+      "punjab himmat card eligibility criteria",
+      "dpmis punjab gov pk himmat card apply",
+      "himmat card stipend amount rs 10500",
+      "bank of punjab himmat card atm",
+      "punjab social welfare disability certificate",
+      "maryam nawaz himmat card scheme 2026",
+      "punjab disability card check online"
+    ],
+    entities: [
+      "CM Punjab Himmat Card Programme",
+      "Government of Punjab",
+      "Disabled Persons Management Information System",
+      "Persons with Disabilities",
+      "Bank of Punjab",
+      "Proxy Means Test Score",
+      "NADRA Special CNIC",
+      "District Medical Board Disability Certificate"
+    ],
+    primaryCategory: "other-schemes",
+    categorySlugs: [
+      "other-schemes",
+      "news"
+    ],
+    date: "September 20, 2026",
+    publishedDate: "September 20, 2026",
+    lastChecked: "September 20, 2026",
+    readTime: "13 min read",
+    image: "/images/hero-support.jpg",
+    imageAlt: "Chief Minister Punjab Himmat Card ATM distribution and financial assistance desk for persons with disabilities",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the CM Punjab Himmat Card Scheme 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Himmat Card is a targeted social protection initiative launched by Chief Minister Maryam Nawaz Sharif to provide sustained financial dignity to certified Persons with Disabilities (PWDs) across Punjab. Unlike short-term charitable donations, the Himmat Card operates as a structured, digitized quarterly social allowance."
+        ],
+        subsections: [
+          {
+            title: "Key Financial Benefits: Rs 10,500 Quarterly Stipend via Bank of Punjab",
+            paragraphs: [
+              "Beneficiaries enrolled in the Himmat Card scheme receive an unconditional quarterly stipend of Rs. 10,500 (equivalent to Rs. 3,500 per month). Funds are credited directly into a specialized, zero-balance social protection bank account managed by the Bank of Punjab (BOP). Each approved beneficiary is issued a co-branded Himmat Card that can be used at any 1Link biometric ATM or Point of Sale (POS) machine across the country without service deductions."
+            ]
+          },
+          {
+            title: "Target Population: 65,000 Certified Non-Working Persons with Disabilities",
+            paragraphs: [
+              "In its initial implementation phases, the Punjab government has allocated billions of rupees to assist approximately 65,000 vulnerable individuals across all 36 districts of Punjab. The program specifically prioritizes individuals with severe, permanent physical, sensory, or intellectual impairments who cannot engage in gainful economic activity."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "Punjab schemes and public welfare initiatives hub",
+            href: "/other-schemes/"
+          }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the Punjab Himmat Card? (Core Criteria Breakdown)",
+        paragraphs: [
+          "The Punjab Social Welfare and Bait-ul-Maal Department enforces strict computerized criteria to ensure funds reach genuinely deserving individuals:"
+        ],
+        subsections: [
+          {
+            title: "Medical Benchmark: Official 'Not Fit to Work' Disability Certification",
+            paragraphs: [
+              "The primary requirement is that the applicant must be certified as a Person with a Disability (PWD) by an authorized District Medical Board and classified explicitly as 'Not Fit to Work.' Individuals with mild or temporary disabilities who are capable of normal employment are not eligible for this unconditional cash grant (though they may access other vocational training quotas)."
+            ]
+          },
+          {
+            title: "Poverty Threshold: BISP PMT Score of 45 or Below",
+            paragraphs: [
+              "The applicant’s household must be registered in the National Socio-Economic Registry (NSER) with a Proxy Means Test (PMT) poverty score of 45 or below. This threshold is intentionally higher and more accommodating than the standard BISP Kafaalat cutoff (score <= 32), ensuring broader coverage for households burdened by medical and caretaking costs."
+            ]
+          },
+          {
+            title: "Exclusivity Condition: No Active Bait-ul-Maal, Zakat or Govt Employment",
+            paragraphs: [
+              "To prevent double dipping, applicants must not be receiving concurrent financial assistance from Pakistan Bait-ul-Maal, the provincial Zakat Fund, or other monthly social security allowances. Furthermore, applicants must not be employed in any government department, public corporation, or formal private sector organization."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "What counts as a good PMT score guide",
+            href: "/what-counts-as-a-good-pmt-score/"
+          }
+        ]
+      },
+      {
+        title: "How to Obtain the Mandatory Disability Certificate in Punjab",
+        paragraphs: [
+          "An applicant cannot register on the DPMIS portal without a verified disability certificate. Follow these steps to secure official certification:"
+        ],
+        subsections: [
+          {
+            title: "Visiting the District Social Welfare Office & DHQ Medical Board",
+            paragraphs: [
+              "Visit your local District Social Welfare Office or District Headquarter Hospital (DHQ) to obtain an assessment application form. Submit two passport-sized photographs, copies of your CNIC or B-Form, and existing medical treatment records. Appear before the District Medical Board on your scheduled clinical assessment date. Upon approval, the Social Welfare Department issues an official computerized Disability Certificate containing your unique registration number."
+            ]
+          },
+          {
+            title: "Updating Your NADRA Special CNIC with the Wheelchair Symbol",
+            paragraphs: [
+              "Once the medical certificate is issued, visit your nearest NADRA Mega Center. Present your original disability certificate to request a Special CNIC. NADRA will issue a computerized identity card featuring the universal wheelchair symbol and encoded biometric disability tags, which are required for automated government database verification."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How to Apply Online for the Himmat Card on dpmis.punjab.gov.pk (Step-by-Step)",
+        paragraphs: [
+          "The Government of Punjab has digitized the entire application workflow through the Disabled Persons Management Information System (DPMIS)."
+        ],
+        subsections: [
+          {
+            title: "Step 1: Account Creation on DPMIS Using CNIC and Mobile Number",
+            paragraphs: [
+              "Navigate to the official portal: https://dpmis.punjab.gov.pk/. Click on 'Register' and enter your 13-digit CNIC number, full name, and active mobile phone number registered under your own or your legal guardian’s name. Verify your account using the 4-digit One-Time Password (OTP) sent to your mobile phone."
+            ]
+          },
+          {
+            title: "Step 2: Uploading Disability Certificate and Personal Information",
+            paragraphs: [
+              "Log into your DPMIS profile and enter your permanent residential address, educational background, and employment status (select 'Unemployed / Not Fit to Work'). Enter your Disability Certificate number and the date of medical board evaluation. Upload clear scanned copies of your Special CNIC (front and back) and your Medical Disability Certificate (PDF or JPG format under 2MB), and select your preferred Bank of Punjab (BOP) branch for card collection."
+            ]
+          },
+          {
+            title: "Step 3: Verification, SMS Approval and Bank of Punjab Card Collection",
+            paragraphs: [
+              "After submission, your data undergoes automated cross-verification against NADRA, BISP PMT scores, and FBR databases. Once approved, you will receive an official confirmation SMS from the Punjab Government. Visit your designated Bank of Punjab branch with your original Special CNIC to complete biometric verification and collect your activated Himmat ATM card. The quarterly Rs 10,500 stipend is automatically loaded onto the card during each scheduled disbursement cycle."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Himmat Card vs BISP Kafaalat vs Bait-ul-Maal: Comparative Decision Matrix",
+        paragraphs: [
+          "To understand how the Punjab Himmat Card compares to other major social safety nets in Pakistan, review the matrix below:"
+        ],
+        table: {
+          caption: "Punjab Himmat Card vs BISP vs Bait-ul-Maal (2026)",
+          headers: ["Feature / Metric", "CM Punjab Himmat Card", "BISP Benazir Kafaalat", "Pakistan Bait-ul-Maal (PBM)"],
+          rows: [
+            ["Managing Authority", "Government of Punjab (Social Welfare)", "Federal Government (BISP)", "Federal Ministry (PASS)"],
+            ["Target Beneficiaries", "Non-working PWDs with PMT <= 45", "Low-income female household heads", "Needy disabled & destitute citizens"],
+            ["Payment Amount", "Rs. 10,500 per quarter", "Rs. 13,500 per quarter", "Variable grant / medical equipment"],
+            ["Payment Mechanism", "Bank of Punjab (BOP) ATM Card", "Biometric Campsite / ATM (Alfalah/HBL)", "Crossed Cheque / Bank Transfer"],
+            ["Application Portal", "dpmis.punjab.gov.pk", "In-person Tehsil Office (NSER)", "In-person District PBM Office"],
+            ["Disability Requirement", "Mandatory ('Not Fit to Work')", "None (General poverty criteria)", "Optional (Special window for PWDs)"]
+          ]
+        },
+        links: [
+          {
+            label: "Why was my Benazir Kafaalat case paused guide",
+            href: "/benazir-kafaalat-case-paused-reasons/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I apply online for the CM Punjab Himmat Card?",
+        answer: "Visit the official Punjab government portal at dpmis.punjab.gov.pk, create an account with your 13-digit CNIC, fill out your disability profile, upload your District Medical Board Disability Certificate and NADRA Special CNIC, and submit your application."
+      },
+      {
+        question: "How much money is given under the Himmat Card in 2026?",
+        answer: "Eligible beneficiaries receive a quarterly stipend of Rs. 10,500 (Rs. 3,500 per month) credited directly into their Bank of Punjab account."
+      },
+      {
+        question: "What is the maximum PMT score allowed for the Himmat Card?",
+        answer: "The household Proxy Means Test (PMT) poverty score must be 45 or below in the BISP NSER database."
+      },
+      {
+        question: "Can a person with a government job apply for the Himmat Card?",
+        answer: "No. Applicants must be completely unemployed and officially assessed as Not Fit to Work by an authorized medical board."
+      },
+      {
+        question: "Where can I get an official Disability Certificate in Punjab?",
+        answer: "You must visit your local District Social Welfare Office and be examined by the District Medical Board at the District Headquarter Hospital (DHQ)."
+      },
+      {
+        question: "Which bank issues the Himmat ATM card?",
+        answer: "The Bank of Punjab (BOP) is the official banking partner that issues the co-branded Himmat Card and handles biometric cash withdrawals."
+      },
+      {
+        question: "What is the official helpline number for Himmat Card inquiries?",
+        answer: "You can call the official Punjab Social Welfare helpline at 1312 for assistance regarding application status, medical boards, or card collection."
+      },
+      {
+        question: "Is there any application fee for the Himmat Card?",
+        answer: "No. Registration on the DPMIS portal and issuance of the Himmat Card are completely free of cost. Never pay any fee to agents."
+      },
+      {
+        question: "Can I receive both BISP Kafaalat and Himmat Card at the same time?",
+        answer: "No. To prevent duplicate government subsidies, Himmat Card rules require that the applicant is not an active recipient of other monthly government cash grants."
+      },
+      {
+        question: "How long does it take for the Himmat Card to be issued after applying?",
+        answer: "Document verification and PMT cross-matching typically take 3 to 6 weeks. Approved applicants are notified via SMS to collect their ATM card from their designated BOP branch."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Disabled Persons Management Information System (DPMIS) Punjab",
+        href: "https://dpmis.punjab.gov.pk/"
+      },
+      {
+        label: "Social Welfare and Bait-ul-Maal Department Punjab",
+        href: "https://swd.punjab.gov.pk/"
+      }
+    ]
+  }
+```

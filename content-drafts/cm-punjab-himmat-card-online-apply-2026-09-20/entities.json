@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "CM Punjab Himmat Card Programme",
+    "type": "Product",
+    "aliases": ["Himmat Card", "Punjab Disability Card", "Maryam Nawaz Himmat Card"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Punjab",
+    "type": "Organization",
+    "aliases": ["Punjab Government", "Social Welfare Department Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Disabled Persons Management Information System",
+    "type": "Product",
+    "aliases": ["DPMIS", "dpmis.punjab.gov.pk"],
+    "sameAs": "https://dpmis.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Persons with Disabilities",
+    "type": "Concept",
+    "aliases": ["PWDs", "Mazoor Afrad", "Special Persons"],
+    "sameAs": "https://en.wikipedia.org/wiki/Disability",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bank of Punjab",
+    "type": "Organization",
+    "aliases": ["BOP", "Bank of Punjab ATM"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT Score", "PMT Cutoff 45"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA Special CNIC",
+    "type": "Product",
+    "aliases": ["Disability CNIC", "Wheelchair Logo CNIC"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "District Medical Board Disability Certificate",
+    "type": "Product",
+    "aliases": ["Disability Certificate", "Social Welfare Medical Certificate"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Not Fit to Work Assessment",
+    "type": "Concept",
+    "aliases": ["Unfit for work", "Severe disability category"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Helpline 1312",
+    "type": "Product",
+    "aliases": ["Punjab Social Welfare Helpline", "1312 helpline"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

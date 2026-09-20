@@ -155,11 +155,11 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 
 ---
 
-## Cluster 13 — Urdu/Roman Urdu Layer (1 keyword, 1 sub-topic) → future content layer
+## Cluster 13 — Urdu/Roman Urdu Layer (1 keyword, 1 sub-topic) → `/8171/`
 
-`احساس کفالت پروگرام 8171`
+`احساس کفالت پروگرام 8171`, `8171 check online kaise karein`
 
-**Status: ⚠️ Deferred, not started.** Flagged in the original site audit as the single biggest *untapped* lever (most on-the-ground BISP/Ehsaas searches in Pakistan happen in Urdu/Roman Urdu, not English), but this is a strategic launch-timing decision, not a content gap to silently fill. Needs a decision on: full Urdu content track vs. a single pilot post, and whether existing English pillars get Urdu companion pages or a separate `/ur/` structure.
+**Status: ✅ Published (`8171-check-online-kaise-karein`).** Launched as the Month 1 pilot for the Roman Urdu / Urdu search layer. Covers online portal checks, SMS procedures, and diagnostic status messages in high-intent Roman Urdu.
 
 ---
 
@@ -179,8 +179,8 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | 10. PMT Score & NSER Survey | 23 | ✅ Covered |
 | 11. Payment & Balance Check | 7 | ✅ Covered |
 | 12. Punjab Rozgar Scheme | 5 | ✅ Covered |
-| 13. Urdu/Roman Urdu Layer | 1 | ⚠️ Deferred (Phase 5 decision) |
-| **Total** | **201** | **199 covered / 1 open item (Urdu deferred)** |
+| 13. Urdu/Roman Urdu Layer | 1 | ✅ Published (`8171-check-online-kaise-karein`) |
+| **Total** | **201** | **200 covered / 0 open items (Full Coverage Achieved)** |
 
 ## Roadmap
 

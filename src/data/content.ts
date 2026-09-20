@@ -226,6 +226,10 @@ export const categories: Category[] = [
           {
             "label": "8171 web portal not working: troubleshooting guide",
             "href": "/8171-web-portal-not-working/"
+          },
+          {
+            "label": "8171 check online kaise karein guide",
+            "href": "/8171-check-online-kaise-karein/"
           }
         ]
       },
@@ -845,6 +849,10 @@ export const categories: Category[] = [
           {
             "label": "CNIC verification across BISP and education programmes",
             "href": "/cnic-verification-guide/"
+          },
+          {
+            "label": "Benazir Taleemi Wazaif check online by CNIC complete guide",
+            "href": "/benazir-taleemi-wazaif-check-online-by-cnic/"
           }
         ]
       },
@@ -2092,7 +2100,10 @@ export const articles: Article[] = [
           "The public form currently asks for the relevant 13-digit CNIC number and the code displayed in the image. Enter the CNIC of the person whose programme status is being checked, review every digit, type the image code exactly as shown, and submit once. The image code—often called a CAPTCHA or verification code—helps validate the form submission; it does not determine BISP eligibility.",
           "If the image code is unreadable or does not appear, reload the official page to request a new image instead of guessing repeatedly. Messages about a required field, invalid code, or incomplete input are form-validation responses. They do not mean the CNIC is ineligible, deleted, or missing from the National Socio-Economic Registry (NSER). Avoid sharing an unredacted screenshot while asking someone to read the code.",
         ],
-        links: [{ label: "See the step-by-step BISP status check by CNIC", href: "/check-bisp-status-by-cnic-online/" }],
+        links: [
+          { label: "See the step-by-step BISP status check by CNIC", href: "/check-bisp-status-by-cnic-online/" },
+          { label: "8171 check online kaise karein (Roman Urdu guide)", href: "/8171-check-online-kaise-karein/" },
+        ],
       },
       {
         title: "Check 3: Test another browser or a private window",
@@ -3935,6 +3946,10 @@ export const articles: Article[] = [
             label: "Why was my Benazir Kafaalat case paused guide",
             href: "/benazir-kafaalat-case-paused-reasons/",
           },
+          {
+            label: "Benazir Taleemi Wazaif check online by CNIC guide",
+            href: "/benazir-taleemi-wazaif-check-online-by-cnic/",
+          },
         ],
       },
       {
@@ -4036,6 +4051,10 @@ export const articles: Article[] = [
           {
             "label": "CNIC verification across programmes",
             "href": "/cnic-verification-guide/"
+          },
+          {
+            "label": "Benazir Taleemi Wazaif check online by CNIC guide",
+            "href": "/benazir-taleemi-wazaif-check-online-by-cnic/"
           }
         ]
       }
@@ -11238,6 +11257,10 @@ export const articles: Article[] = [
           {
             label: "Punjab Schemes: Provincial support and official guides",
             href: "/punjab-schemes/"
+          },
+          {
+            label: "CM Punjab Himmat Card online apply 2026 guide",
+            href: "/cm-punjab-himmat-card-online-apply-2026/"
           }
         ]
       },
@@ -12032,6 +12055,740 @@ export const articles: Article[] = [
       {
         label: "Benazir Income Support Programme Official Portal",
         href: "https://www.bisp.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "8171-check-online-kaise-karein",
+    title: "8171 Check Online Kaise Karein: Official Web Portal & CNIC Status Check (2026 Guide)",
+    excerpt: "8171 check online karne ke liye official web portal 8171.bisp.gov.pk par jayen, apna 13-hinson ka CNIC number baghair dash darj karein, screen par diya gaya 4-digit captcha code likhein, aur button dabayein. Agar internet na ho to apna CNIC number 8171 par SMS karein. Yeh service mukammal taur par muft hai.",
+    showExcerpt: true,
+    metaTitle: "8171 Check Online Kaise Karein: Web Portal & CNIC SMS Guide (2026)",
+    metaDescription: "8171 check online kaise karein? 8171.bisp.gov.pk web portal aur 8171 SMS ke zariye CNIC eligibility, payment status aur NSER survey check karne ka mukammal tareeqa.",
+    focusKeyword: "8171 check online kaise karein",
+    lsiKeywords: [
+      "ehsaas 8171 check online cnic",
+      "8171 web portal check online 2026",
+      "احساس کفالت پروگرام 8171",
+      "8171 cnic check online registration",
+      "bisp 8171 check online kaise kare",
+      "8171 portal captcha code error",
+      "bisp 8171 sms check format",
+      "8171 status ahl hone par paise kab aate hain"
+    ],
+    entities: [
+      "Benazir Income Support Programme",
+      "8171 Web Portal",
+      "8171 SMS Service",
+      "Computerized National Identity Card",
+      "Benazir Kafaalat Programme",
+      "National Database and Registration Authority",
+      "National Socio-Economic Registry",
+      "Proxy Means Test Score",
+      "BISP Tehsil Office"
+    ],
+    primaryCategory: "8171",
+    categorySlugs: [
+      "8171",
+      "news"
+    ],
+    date: "September 20, 2026",
+    publishedDate: "September 20, 2026",
+    lastChecked: "September 20, 2026",
+    readTime: "12 min read",
+    image: "/images/8171-number-verification.jpg",
+    imageAlt: "Pakistani citizen checking 8171 BISP eligibility on smartphone via official web portal and SMS",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "8171 Web Portal Par CNIC Check Karne Ka Step-by-Step Tareeqa (Online Method)",
+        paragraphs: [
+          "Benazir Income Support Programme (BISP) aur Ehsaas 8171 web portal Pakistani shehriyon ko ghar bethay apni kafaalat eligibility aur payment status maloom karne ki sahulat faraham karta hai. Is digital system ke zariye aap kisi bhi office gaye baghair apne household record ki tasdeeq kar sakte hain.",
+          "Portal par status check karne ke liye darj zail teen aasaan marahil par amal karein:"
+        ],
+        subsections: [
+          {
+            title: "Step 1: Sarkari Website 8171.bisp.gov.pk Open Karein",
+            paragraphs: [
+              "Hamesha verify karein ke aap official government URL https://8171.bisp.gov.pk/ par mojood hain. Internet par BISP aur Ehsaas ke naam se milti julti darjanon ghair-tasdeeq shuda websites chal rahi hain jo fraudulent data collection karti hain. Official web portal par kisi kisam ka login, password, ya registration fee darkaar nahi hoti."
+            ]
+          },
+          {
+            title: "Step 2: 13-Digit CNIC Number Baghair Dash Ke Enter Karein",
+            paragraphs: [
+              "Portal ke pehle khane mein mustahiq aurat ya sarbarah-e-khandan ka 13-hinson par mushtamil Computerized National Identity Card (CNIC) number enter karein. CNIC type karte waqt darmian mein koi dash (-) ya space na dalein (maslan: 3520212345671). Kisi dosray fard ka CNIC darj karne se uske khandan ka record samnay aayega."
+            ]
+          },
+          {
+            title: "Step 3: 4-Hinson Ka Security Captcha Code Darj Karein",
+            paragraphs: [
+              "Dusray khane mein screen par nazar aane wala 4-digit security code (image code / captcha code) darj karein. Yeh code automated bots ko rokne ke liye design kiya gaya hai. Agar tasweer mein code wazeh na ho to us par click karke naya code generate karein, aur phir 'Maloom Karein' (Check Status) ke green button par click karein."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "8171 web portal troubleshooting guide",
+            href: "/8171-web-portal-not-working/"
+          },
+          {
+            label: "Check BISP status by CNIC online walkthrough",
+            href: "/check-bisp-status-by-cnic-online/"
+          }
+        ]
+      },
+      {
+        title: "SMS Ke Zariye 8171 Par Eligibility Aur Balance Kaise Maloom Karein? (Offline Method)",
+        paragraphs: [
+          "Agar aapke paas internet connection ya smartphone mojood nahi hai, to BISP ka official 8171 SMS gateway offline status check karne ka sab se tez zariya hai. Government of Pakistan aur Pakistan Telecommunication Authority (PTA) ne 8171 short code ko social welfare communications ke liye makhsoos kiya hua hai.",
+          "SMS service istemal karte waqt in do bunyadi baton ka khayal rakhna zaroori hai:"
+        ],
+        subsections: [
+          {
+            title: "8171 Par SMS Bhejne Ka Sahi Tareeqa Aur SIM Ownership Rules",
+            paragraphs: [
+              "Apne mobile phone ke Messages app mein jayen aur apna 13-digit CNIC number baghair dash type karein. Is SMS ko 8171 par send kar dein. Yad rahe ke behtareen nataij ke liye SMS usi mobile SIM se bhejein jo mustahiq khatoon ke apne CNIC par registered ho. Is SMS par mamooli telecom charges (~Rs. 1.50) lag sakte hain, is liye mobile account mein thora balance hona zaroori hai."
+            ]
+          },
+          {
+            title: "SMS Ke Jawab Mein Aane Wale Status Message Ka Matlab",
+            paragraphs: [
+              "SMS send karne ke chand minute baad aapko sender ID '8171' se aik official confirmation message mosool hoga. Is message mein aapki ahl hone ya na-ahl hone ki wazeh wazahat, mojooda installment ki release status, aur qareebi payment center ya bank touchpoint ka naam darj hota hai. 8171 ke ilawa kisi bhi aam 11-digit mobile number se aane wale SMS par hargiz bharosa na karein."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "Official 8171 messaging short code verification",
+            href: "/8171-786-ehsaas-tracking-official-number/"
+          }
+        ]
+      },
+      {
+        title: "8171 Portal Ke 4 Baray Pegham (Status Messages) Aur Unka Hal",
+        paragraphs: [
+          "Jab aap 8171 portal par apna CNIC enter karte hain to system NADRA aur National Socio-Economic Registry (NSER) ke markazi database se match karke chaar qisam ke status messages screen par display karta hai:"
+        ],
+        subsections: [
+          {
+            title: "Message 1: 'Aap Benazir Kafaalat Ke Liye Ahl Hain' (Payment Ready)",
+            paragraphs: [
+              "Yeh pegham zahir karta hai ke aapka household Proxy Means Test (PMT) score poverty cutoff (score <= 32) par pura utarta hai aur aapki quarterly installment jari ho chuki hai. Message mein darj raqam (Rs 10,500 ya Rs 13,500) aap apne muqarrar kardah bank touchpoint (Bank Alfalah, HBL Konnect, ya BISP Campsite) par biometric verification ke zariye foran wasool kar sakte hain."
+            ]
+          },
+          {
+            title: "Message 2: 'Aap Ki Jaanch Partaal (Verification) Jari Hai'",
+            paragraphs: [
+              "Is message ka matlab hai ke aapka NSER survey data mojood hai lekin NADRA family tree, FBR tax records, ya passport database ke sath automated cross-checking ka marhala abhi mukammal nahi hua. Aise afrad ko intezar karna chahiye aur aglay payment cycle se pehle dobara portal par apna status check karna chahiye; is surat mein tehsil office ka fori daura zaroori nahi hota."
+            ]
+          },
+          {
+            title: "Message 3: 'Aap Ka NSER Survey Record Mojood Nahi Hai' (Survey Zaroori Hai)",
+            paragraphs: [
+              "Yeh warning un afrad ko aati hai jinhon ne ya to kabhi BISP ka survey nahi karwaya, ya phir unka pichla survey karwaye 3 saal se zayed ka arsa guzar chuka hai aur unka record expire ho chuka hai. Iska wahid hal yeh hai ke sarbarah-e-khandan apne tamam zaroori dastawazat le kar qareebi BISP Tehsil Dynamic Registry Desk par jaye aur naya survey darj karwaye."
+            ]
+          },
+          {
+            title: "Message 4: 'Aap Is Program Ke Liye Ahl Nahi Hain' (PMT Score > 32)",
+            paragraphs: [
+              "Is pegham ka matlab hai ke government ke computerized evaluation formula ke mutabiq aapke gharanay ka PMT poverty score 32 se oopar hai, ya khandan ka koi fard government servant hai, passport par bayroon-e-mulk safar kar chuka hai, ya zati gaari ka malik hai. Agar aapke halat mein tabdeeli aayi ho to aap 3 saal baad dobara dynamic survey ke zariye reassessment ki darkhwast de sakte hain."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "NSER survey not found diagnostic guide",
+            href: "/nser-survey-not-found/"
+          },
+          {
+            label: "What counts as a good PMT score guide",
+            href: "/what-counts-as-a-good-pmt-score/"
+          }
+        ]
+      },
+      {
+        title: "8171 Diagnostic Decision Matrix: Portal Message vs Root Cause vs Action Required",
+        paragraphs: [
+          "Neechay diya gaya matrix aapko 8171 portal ke har response message ki asal wajah aur mutalliqah qadam wazeh karta hai:"
+        ],
+        table: {
+          caption: "8171 Diagnostic Decision Matrix (2026)",
+          headers: ["Portal Response Message", "Asal Wajah (Root Cause)", "Agla Qadam (Action Required)", "Wasooli Ka Tariqa"],
+          rows: [
+            ["Aap Benazir Kafaalat ke liye ahl hain", "PMT score <= 32 aur account active hai", "Asli CNIC le kar payment center jayen", "Bank ATM / BISP Campsite Biometric"],
+            ["Aap ki jaanch partaal jari hai", "NADRA / FBR verification process mein hai", "Aglay payment cycle tak intezar karein", "N/A (Status update hone par)"],
+            ["Survey record mojood nahi / Survey karwayen", "Survey lapse (3 saal) ya pehle survey nahi hua", "BISP Tehsil Office jayen aur Dynamic Survey karwayen", "Survey pass hone ke baad aglay cycle mein"],
+            ["Aap is program ke liye ahl nahi hain", "PMT score > 32 ya government exclusion flag", "Socio-economic halat badalney par re-survey", "N/A (Disqualified)"],
+            ["Biometric verification nakam (Error 93/99)", "Fingerprint sensor match nahi hua", "Nadra verification desk ya Non-BVS form apply karein", "BISP Tehsil Assistant Director approval"]
+          ]
+        },
+        links: [
+          {
+            label: "BISP biometric verification failed complete fix",
+            href: "/bisp-biometric-verification-failed/"
+          },
+          {
+            label: "Why was my Benazir Kafaalat case paused guide",
+            href: "/benazir-kafaalat-case-paused-reasons/"
+          }
+        ]
+      },
+      {
+        title: "8171 Par Record Na Aane Ki Surat Mein Dynamic Registration Kaise Karwayen?",
+        paragraphs: [
+          "Bohat se shehri yeh ghalat fehmi rakhte hain ke 8171 web portal par koi online registration form mojood hai. BISP mein direct online apply karne ka koi system nahi hai; online portal sirf pehle se mojood survey ka status check karne ke liye banaya gaya hai.",
+          "Agar aapka record portal par show nahi ho raha to aapko in-person registration karwana hogi:"
+        ],
+        subsections: [
+          {
+            title: "NSER Dynamic Registry Desk Par Zaroori Dastawazat (Documents)",
+            paragraphs: [
+              "Dynamic survey karwane ke liye khandani sarbarah (khatoon) ko darj zail dastawazat le kar qareebi BISP Tehsil Office jana parta hai: Asli Smart CNIC, tamam bachon ke NADRA se tasdeeq shuda B-Forms ya Smart Child Cards, ghar ke bijli aur gas ke aakhri maheenay ke paid utility bills, mazoor afrad ke liye Special CNIC (Disability Logo wala), aur bewa khawateen ke liye shohar ka NADRA Death Certificate."
+            ]
+          },
+          {
+            title: "Survey Ke Baad Record Update Hone Ka Timeframe",
+            paragraphs: [
+              "Dynamic desk par survey data darj hone ke baad system aapko aik official token receipt faraham karta hai. Is data ki computerized processing aur PMT score calculation mein taqreeban 60 se 90 din lagte hain. Is muddat ke baad aap dobara 8171.bisp.gov.pk par apna CNIC check kar sakte hain jahan aapka naya status update ho chuka hoga."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "7 mistakes that delay BISP registration",
+            href: "/bisp-online-registration-mistakes/"
+          }
+        ]
+      },
+      {
+        title: "Important Scam Warning: Fake 8171 SMS Aur Fees Mangne Walon Se Hoshiyar Rahein",
+        paragraphs: [
+          "BISP aur Benazir Kafaalat Programme ke naam par Pakistan mein mukhtalif fraudulent groh active hain jo sadah loh shehriyon ko lootne ki koshish karte hain. Apni hifazat ke liye darj zail usool zehen nasheen karein:",
+          "1. Sirf 8171 Official Hai: BISP ki tamam official maloomat sirf '8171' sender code se aati hain. Kisi bhi 11-digit mobile number se aane wala raqam ki mubarakbaad ka message jaali hota hai.",
+          "2. Koi Registration Fee Nahi: BISP dynamic registry survey, 8171 portal status check, aur kafaalat registration mukammal tor par muft hai. Koi bhi shakhs jo registration ya token ke badlay paise mangay, uski foran BISP helpline 0800-26477 par shikayat darj karein.",
+          "3. Biometric Slip Fee: ATM ya retailer dukandar ko poori raqam ada karna lazmi hai. Agar koi agent device charges ya tax ke naam par katauti kare to foran complaint desk par ruju karein."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "8171 check online kaise karein ghar bethay?",
+        answer: "8171 check online karne ke liye official portal 8171.bisp.gov.pk par jayen, apna 13-hinson ka CNIC number baghair space ke darj karein, screen par nazar aane wala security code likhein aur submit button par click karein. Aapki eligibility aur raqam ki tafseel screen par foran aa jayegi."
+      },
+      {
+        question: "Kya 8171 portal par registration ka koi online form hota hai?",
+        answer: "Nahi, 8171 web portal par koi online registration form nahi hai. Yeh portal sirf mojooda record aur kafaalat status check karne ke liye hai. Naye registration ke liye aapko apne qareebi BISP Tehsil Office mein ja kar NSER Dynamic Survey karwana parta hai."
+      },
+      {
+        question: "8171 par SMS send karne ka kya format hai?",
+        answer: "Apne mobile ke message box mein apna 13-digit CNIC number baghair kisi dash (-) ke likhein aur usay 8171 par send kar dein. Kuch hi minute mein aapko government ki taraf se tasdeeqi message mosool ho jayega."
+      },
+      {
+        question: "8171 SMS service ke kitne charges hotay hain?",
+        answer: "8171 par SMS bhejne ke mamooli telecom charges hotay hain jo taqreeban Rs. 1.50 plus tax bante hain. Agar aapke mobile sim mein zero balance hoga to SMS send nahi hoga."
+      },
+      {
+        question: "Agar 8171 portal par 'Record Mojood Nahi Hai' aaye to kya karein?",
+        answer: "Iska matlab hai ke aapka household NSER database mein darj nahi hai ya pichla survey expire ho chuka hai. Aapko apna asli CNIC aur bachon ke B-Form le kar qareebi BISP Tehsil Office Dynamic Registry Desk jana hoga taake naya survey mukammal kiya ja sake."
+      },
+      {
+        question: "Benazir Kafaalat ki raqam 2026 mein kitni hai?",
+        answer: "2026 ke quarterly payment cycle mein Benazir Kafaalat Programme ki standard qist Rs 10,500 se barha kar Rs 13,500 muqarrar ki gayi hai, jo ahl khawateen ko biometric verification ke baad di jati hai."
+      },
+      {
+        question: "Kya kisi bhi mobile number se 8171 par message bheja ja sakta hai?",
+        answer: "Behtareen yeh hai ke SMS mustahiq khatoon ke apne naam par registered mobile SIM se bheja jaye. Ghair-tasdeeq shuda ya dosron ki SIM se message bhejne par baaz auqat security verification mein takheer ho sakti hai."
+      },
+      {
+        question: "8171 portal par captcha code bar bar galat kyun show hota hai?",
+        answer: "Agar captcha code expire ho jaye ya internet slow ho to code match nahi hota. Tasweer ke sath refresh button par click karein, naya code wazeh parhein aur usay enter karein."
+      },
+      {
+        question: "Biometric verification fail hone (Error 93 ya 99) ki surat mein raqam kaise milegi?",
+        answer: "Agar biometric device par aapke fingerprints scan na hon to BISP Tehsil Office mein NADRA verification desk se biometric update karwayen ya Assistant Director se Non-BVS Form tasdeeq karwa kar bank branch se cash wasool karein."
+      },
+      {
+        question: "BISP ki official helpline ka number kya hai?",
+        answer: "Benazir Income Support Programme ki official toll-free helpline ka number 0800-26477 hai, jahan aap kisi bhi scam, deduction, ya survey shikayat ke liye rabta kar sakte hain."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Official BISP 8171 Web Portal",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "Benazir Income Support Programme Official Website",
+        href: "https://www.bisp.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "benazir-taleemi-wazaif-check-online-by-cnic",
+    title: "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts, Registration & Status Guide",
+    excerpt: "To check Benazir Taleemi Wazaif online by CNIC, visit the official 8171 portal at 8171.bisp.gov.pk, enter the mother's 13-digit CNIC without dashes, solve the 4-digit captcha, and submit. The portal displays the quarterly school stipend status for each enrolled child alongside the mother's Benazir Kafaalat payment.",
+    showExcerpt: true,
+    metaTitle: "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts & Guide",
+    metaDescription: "Benazir Taleemi Wazaif check online by CNIC: 8171 portal par bachon ke wazaif status, 2026 stipend rates (Rs 2,500–5,000), aur 70% attendance rule ki mukammal guide.",
+    focusKeyword: "benazir taleemi wazaif check online by cnic",
+    lsiKeywords: [
+      "bisp taleemi wazaif registration",
+      "taleemi wazaif stipend amount 2026",
+      "benazir taleemi wazaif app check online",
+      "bisp wazaif for students 2026",
+      "taleemi wazaif 70 attendance rule",
+      "bisp child b form verification",
+      "bisp primary graduation bonus girls",
+      "how to register child in taleemi wazaif"
+    ],
+    entities: [
+      "Benazir Taleemi Wazaif Programme",
+      "Benazir Income Support Programme",
+      "Mother's CNIC",
+      "8171 Web Portal",
+      "NADRA B-Form",
+      "70% School Attendance Rule",
+      "Quarterly Educational Stipends",
+      "BISP Tehsil Office"
+    ],
+    primaryCategory: "taleemi-wazaif",
+    categorySlugs: [
+      "taleemi-wazaif",
+      "news"
+    ],
+    date: "September 20, 2026",
+    publishedDate: "September 20, 2026",
+    lastChecked: "September 20, 2026",
+    readTime: "14 min read",
+    image: "/images/scholarship-guide.jpg",
+    imageAlt: "Pakistani school children receiving Benazir Taleemi Wazaif educational stipends and books",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "How to Check Benazir Taleemi Wazaif Status Online by Mother's CNIC",
+        paragraphs: [
+          "The Benazir Taleemi Wazaif programme (formerly known as Waseela-e-Taleem) is a conditional cash transfer initiative designed to boost school enrollment, reduce dropout rates, and encourage higher education among children from underprivileged households. Beneficiary families can verify their children’s educational stipend status through two official government routes."
+        ],
+        subsections: [
+          {
+            title: "Step-by-Step 8171 Web Portal Verification Guide",
+            paragraphs: [
+              "The official BISP 8171 web portal at https://8171.bisp.gov.pk/ allows registered mothers to inspect both their quarterly Kafaalat grant and their children's education stipends simultaneously. To perform an online check: Open 8171.bisp.gov.pk, enter the mother's 13-digit CNIC without hyphens, type the 4-digit security captcha code, and click the green 'Maloom Karein' button.",
+              "The portal returns a comprehensive status dashboard. Under the primary Kafaalat installment banner, you will find the 'Taleemi Wazaif' section displaying the names of all verified children, their enrolled grade levels, and whether their quarterly stipend has been credited or held for attendance verification."
+            ]
+          },
+          {
+            title: "Checking Children's Stipend Status via 8171 SMS Service",
+            paragraphs: [
+              "If you do not have internet access, you can verify your status via SMS. Open your mobile phone's messaging app, type the mother's 13-digit CNIC number, and send it to 8171.",
+              "Within minutes, the official 8171 gateway returns an SMS outlining the household's overall payment release, including the aggregate stipend amount disbursed for all enrolled school children. Ensure the SMS is dispatched from a SIM registered in the mother's name to prevent system delivery delays."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "8171 check online kaise karein step-by-step guide",
+            href: "/8171-check-online-kaise-karein/"
+          },
+          {
+            label: "Check BISP status by CNIC online walkthrough",
+            href: "/check-bisp-status-by-cnic-online/"
+          }
+        ]
+      },
+      {
+        title: "Benazir Taleemi Wazaif Stipend Amounts 2026 (Quarterly Rates Table)",
+        paragraphs: [
+          "The federal government provides differentiated stipend rates based on education tier and student gender. Girls receive a higher stipend across all educational levels to bridge the gender gap in literacy across Pakistan:"
+        ],
+        table: {
+          caption: "Benazir Taleemi Wazaif Quarterly Stipend Rates (2026)",
+          headers: ["Education Level", "Grade / Class", "Boys (Per Quarter)", "Girls (Per Quarter)", "Primary Graduation Bonus"],
+          rows: [
+            ["Primary Level", "Nursery to Class 5", "Rs. 2,500", "Rs. 3,000", "Rs. 3,000 (Girls only)"],
+            ["Secondary / Matric", "Class 6 to Class 10", "Rs. 3,500", "Rs. 4,000", "N/A"],
+            ["Higher Secondary / Inter", "Class 11 to Class 12", "Rs. 4,500", "Rs. 5,000", "N/A"]
+          ]
+        },
+        subsections: [
+          {
+            title: "Primary School Level (Class 1 to 5) Stipends",
+            paragraphs: [
+              "Children enrolled in primary school (Nursery through Grade 5) receive quarterly stipends to support basic schooling expenses, stationery, and uniforms. Male students receive Rs. 2,500 every three months, while female students receive Rs. 3,000 per quarter."
+            ]
+          },
+          {
+            title: "Secondary & Matric Level (Class 6 to 10) Stipends",
+            paragraphs: [
+              "As children transition into middle and high school, financial pressures often force families into child labor. To combat this, BISP provides Rs. 3,500 per quarter for boys and Rs. 4,000 per quarter for girls enrolled in Classes 6 through 10."
+            ]
+          },
+          {
+            title: "Higher Secondary & Intermediate Level (Class 11 to 12) Stipends",
+            paragraphs: [
+              "At the college and higher secondary level (FA, FSc, ICS, ICom), quarterly assistance increases to Rs. 4,500 for male students and Rs. 5,000 for female students, ensuring students can complete their intermediate certification."
+            ]
+          },
+          {
+            title: "Special Rs 3,000 Graduation Bonus for Girls",
+            paragraphs: [
+              "In addition to regular quarterly stipends, BISP awards a one-time cash incentive of Rs. 3,000 to every female student who successfully completes primary school (Grade 5) and enrolls in secondary school (Grade 6). This graduation bonus is credited directly to the mother’s account alongside her regular quarterly disbursement."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Mandatory Eligibility Criteria: Who Qualifies for Benazir Taleemi Wazaif?",
+        paragraphs: [
+          "Unlike general scholarships, Benazir Taleemi Wazaif is strictly targeted at households already verified as underprivileged under the National Socio-Economic Registry (NSER)."
+        ],
+        subsections: [
+          {
+            title: "Mother's Active Benazir Kafaalat Enrollment Requirement",
+            paragraphs: [
+              "The foundational prerequisite for Taleemi Wazaif enrollment is that the child’s mother must be an active, verified beneficiary of the Benazir Kafaalat unconditional cash transfer scheme (household PMT score <= 32). If the mother is disqualified, deceased without an updated guardianship record, or not enrolled in Kafaalat, the children cannot be admitted to the Taleemi Wazaif stipend program."
+            ]
+          },
+          {
+            title: "NADRA B-Form and Age Criteria Breakdown (4 to 22 Years)",
+            paragraphs: [
+              "Every child must be officially registered in the NADRA database with an authentic Child Registration Certificate (B-Form) linked to the mother’s CNIC. BISP enforces strict age limits for initial enrollment: Primary Education requires the child to be between 4 and 12 years; Secondary Education requires the student to be between 8 and 18 years; and Higher Secondary Education requires the student to be between 13 and 22 years."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "What counts as a good PMT score for BISP",
+            href: "/what-counts-as-a-good-pmt-score/"
+          }
+        ]
+      },
+      {
+        title: "How to Register Children for Benazir Taleemi Wazaif (Step-by-Step)",
+        paragraphs: [
+          "Registration for Benazir Taleemi Wazaif cannot be completed entirely online. Because school attendance and enrollment must be certified by educational institutions, applicants must complete a physical registration workflow:"
+        ],
+        subsections: [
+          {
+            title: "Step 1: Obtaining the School Enrollment Slip from BISP Tehsil Office",
+            paragraphs: [
+              "The mother must visit her nearest BISP Tehsil Office accompanied by her original Smart CNIC and the original NADRA B-Forms of her school-going children. The BISP dynamic registration desk verifies the mother’s Kafaalat status and issues an official printed School Enrollment Slip (Dakhla Form) for each eligible child."
+            ]
+          },
+          {
+            title: "Step 2: Head Teacher Verification, School Stamp & Admission Entry",
+            paragraphs: [
+              "Take the enrollment slip to the government or recognized private school where the child is currently studying. The school head teacher or principal must fill in the school's EMIS code, the child's admission number, class section, date of admission, and provide the head teacher's official signature and school rubber stamp."
+            ]
+          },
+          {
+            title: "Step 3: Document Submission and Biometric Slip Issuance",
+            paragraphs: [
+              "Return the stamped and signed enrollment slip to the BISP Tehsil Office. The data entry operator scans the document into the central BISP database, pairs the school record with the child’s NADRA B-Form, and issues a final computerized submission receipt. The child’s stipend begins disbursing in the following quarterly payment cycle."
+            ]
+          }
+        ]
+      },
+      {
+        title: "The 70% School Attendance Rule: Why Stipends Stop and How to Reactivate Them",
+        paragraphs: [
+          "Benazir Taleemi Wazaif is a conditional cash transfer program. Financial assistance is strictly contingent on regular school attendance."
+        ],
+        subsections: [
+          {
+            title: "How School Attendance Is Tracked and Synced with BISP Servers",
+            paragraphs: [
+              "Under program rules, every enrolled child must maintain a minimum of 70% attendance during every academic quarter. BISP compliance monitors visit public schools quarterly to collect physical attendance registers, while an increasing number of districts now sync attendance digitally via provincial education portals."
+            ]
+          },
+          {
+            title: "Resolving Attendance Mismatches and Restoring Paused Payments",
+            paragraphs: [
+              "If a child’s attendance falls below 70% in any given quarter due to unexcused absences, the BISP banking system automatically pauses that child's stipend for that cycle. To restore paused payments: Ensure the child resumes regular school attendance so their quarterly average exceeds 70%; obtain a medical certificate and an attendance correction letter from the school headmaster if the absence was due to illness; and submit the certified letter to the BISP Tehsil Office compliance officer."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "Why was my Benazir Kafaalat case paused guide",
+            href: "/benazir-kafaalat-case-paused-reasons/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How can I check Benazir Taleemi Wazaif online by CNIC?",
+        answer: "Visit 8171.bisp.gov.pk, type the mother's 13-digit CNIC number without spaces or dashes, enter the security captcha code, and click submit. The portal displays both your Kafaalat status and the Taleemi Wazaif status for each enrolled child."
+      },
+      {
+        question: "What is the stipend amount for primary school children in 2026?",
+        answer: "In 2026, boys in primary school (Nursery to Class 5) receive Rs. 2,500 per quarter, while girls receive Rs. 3,000 per quarter. Girls also receive a one-time Rs. 3,000 bonus upon graduating primary school."
+      },
+      {
+        question: "Can a father apply for Benazir Taleemi Wazaif using his CNIC?",
+        answer: "No. Under BISP statutory rules, all child education stipends are issued through the mother’s account. The mother must be an active Benazir Kafaalat recipient with a valid CNIC."
+      },
+      {
+        question: "What is the minimum school attendance required for Taleemi Wazaif?",
+        answer: "Children must maintain at least 70% attendance in school each quarter. If attendance drops below 70%, the quarterly stipend is temporarily withheld until attendance improves."
+      },
+      {
+        question: "What documents are required to register a child for Taleemi Wazaif?",
+        answer: "You need the mother’s original CNIC, the child’s original NADRA B-Form, and a BISP School Enrollment Slip signed and stamped by the school head teacher."
+      },
+      {
+        question: "Can children studying in private schools receive Taleemi Wazaif?",
+        answer: "Yes, provided the private school is registered with the district education department and the head teacher certifies the child's admission and 70% attendance on the official BISP enrollment slip."
+      },
+      {
+        question: "What is the age limit for Benazir Taleemi Wazaif enrollment?",
+        answer: "The age limits at admission are: 4 to 12 years for Primary (Grades 1–5), 8 to 18 years for Secondary (Grades 6–10), and 13 to 22 years for Higher Secondary (Grades 11–12)."
+      },
+      {
+        question: "Why did my child's Taleemi Wazaif payment not arrive this quarter?",
+        answer: "Common reasons include attendance falling below 70%, an expired B-Form or CNIC, school data synchronization delays, or the child exceeding the maximum age limit for their grade."
+      },
+      {
+        question: "How is the Taleemi Wazaif money collected?",
+        answer: "The stipend is disbursed alongside the mother’s Benazir Kafaalat payment and can be collected via biometric ATMs or partner bank payment campsites (Bank Alfalah and HBL Konnect)."
+      },
+      {
+        question: "What is the BISP official helpline for Taleemi Wazaif complaints?",
+        answer: "You can contact the official BISP toll-free helpline at 0800-26477 for inquiries regarding delayed stipends, attendance disputes, or agent deductions."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Official BISP 8171 Web Portal",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "Benazir Income Support Programme Official Portal",
+        href: "https://www.bisp.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "cm-punjab-himmat-card-online-apply-2026",
+    title: "CM Punjab Himmat Card Online Apply 2026: DPMIS Registration, Eligibility & Rs 10,500 Stipend Guide",
+    excerpt: "To apply online for the CM Punjab Himmat Card, visit the official portal at dpmis.punjab.gov.pk, register your account using your 13-digit CNIC, and upload your official Social Welfare Disability Certificate. Eligible certified persons with disabilities receive a quarterly financial stipend of Rs. 10,500 via an ATM-enabled Bank of Punjab card.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Himmat Card Online Apply 2026: DPMIS & Rs 10,500 Guide",
+    metaDescription: "CM Punjab Himmat Card online apply 2026: dpmis.punjab.gov.pk par registration ka step-by-step tareeqa, PMT score <= 45 criteria, aur BOP Rs 10,500 stipend guide.",
+    focusKeyword: "cm punjab himmat card online apply",
+    lsiKeywords: [
+      "himmat card registration 2026",
+      "punjab himmat card eligibility criteria",
+      "dpmis punjab gov pk himmat card apply",
+      "himmat card stipend amount rs 10500",
+      "bank of punjab himmat card atm",
+      "punjab social welfare disability certificate",
+      "maryam nawaz himmat card scheme 2026",
+      "punjab disability card check online"
+    ],
+    entities: [
+      "CM Punjab Himmat Card Programme",
+      "Government of Punjab",
+      "Disabled Persons Management Information System",
+      "Persons with Disabilities",
+      "Bank of Punjab",
+      "Proxy Means Test Score",
+      "NADRA Special CNIC",
+      "District Medical Board Disability Certificate"
+    ],
+    primaryCategory: "other-schemes",
+    categorySlugs: [
+      "other-schemes",
+      "news"
+    ],
+    date: "September 20, 2026",
+    publishedDate: "September 20, 2026",
+    lastChecked: "September 20, 2026",
+    readTime: "13 min read",
+    image: "/images/hero-support.jpg",
+    imageAlt: "Chief Minister Punjab Himmat Card ATM distribution and financial assistance desk for persons with disabilities",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the CM Punjab Himmat Card Scheme 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Himmat Card is a targeted social protection initiative launched by Chief Minister Maryam Nawaz Sharif to provide sustained financial dignity to certified Persons with Disabilities (PWDs) across Punjab. Unlike short-term charitable donations, the Himmat Card operates as a structured, digitized quarterly social allowance."
+        ],
+        subsections: [
+          {
+            title: "Key Financial Benefits: Rs 10,500 Quarterly Stipend via Bank of Punjab",
+            paragraphs: [
+              "Beneficiaries enrolled in the Himmat Card scheme receive an unconditional quarterly stipend of Rs. 10,500 (equivalent to Rs. 3,500 per month). Funds are credited directly into a specialized, zero-balance social protection bank account managed by the Bank of Punjab (BOP). Each approved beneficiary is issued a co-branded Himmat Card that can be used at any 1Link biometric ATM or Point of Sale (POS) machine across the country without service deductions."
+            ]
+          },
+          {
+            title: "Target Population: 65,000 Certified Non-Working Persons with Disabilities",
+            paragraphs: [
+              "In its initial implementation phases, the Punjab government has allocated billions of rupees to assist approximately 65,000 vulnerable individuals across all 36 districts of Punjab. The program specifically prioritizes individuals with severe, permanent physical, sensory, or intellectual impairments who cannot engage in gainful economic activity."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "Punjab schemes and public welfare initiatives hub",
+            href: "/other-schemes/"
+          }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the Punjab Himmat Card? (Core Criteria Breakdown)",
+        paragraphs: [
+          "The Punjab Social Welfare and Bait-ul-Maal Department enforces strict computerized criteria to ensure funds reach genuinely deserving individuals:"
+        ],
+        subsections: [
+          {
+            title: "Medical Benchmark: Official 'Not Fit to Work' Disability Certification",
+            paragraphs: [
+              "The primary requirement is that the applicant must be certified as a Person with a Disability (PWD) by an authorized District Medical Board and classified explicitly as 'Not Fit to Work.' Individuals with mild or temporary disabilities who are capable of normal employment are not eligible for this unconditional cash grant (though they may access other vocational training quotas)."
+            ]
+          },
+          {
+            title: "Poverty Threshold: BISP PMT Score of 45 or Below",
+            paragraphs: [
+              "The applicant’s household must be registered in the National Socio-Economic Registry (NSER) with a Proxy Means Test (PMT) poverty score of 45 or below. This threshold is intentionally higher and more accommodating than the standard BISP Kafaalat cutoff (score <= 32), ensuring broader coverage for households burdened by medical and caretaking costs."
+            ]
+          },
+          {
+            title: "Exclusivity Condition: No Active Bait-ul-Maal, Zakat or Govt Employment",
+            paragraphs: [
+              "To prevent double dipping, applicants must not be receiving concurrent financial assistance from Pakistan Bait-ul-Maal, the provincial Zakat Fund, or other monthly social security allowances. Furthermore, applicants must not be employed in any government department, public corporation, or formal private sector organization."
+            ]
+          }
+        ],
+        links: [
+          {
+            label: "What counts as a good PMT score guide",
+            href: "/what-counts-as-a-good-pmt-score/"
+          }
+        ]
+      },
+      {
+        title: "How to Obtain the Mandatory Disability Certificate in Punjab",
+        paragraphs: [
+          "An applicant cannot register on the DPMIS portal without a verified disability certificate. Follow these steps to secure official certification:"
+        ],
+        subsections: [
+          {
+            title: "Visiting the District Social Welfare Office & DHQ Medical Board",
+            paragraphs: [
+              "Visit your local District Social Welfare Office or District Headquarter Hospital (DHQ) to obtain an assessment application form. Submit two passport-sized photographs, copies of your CNIC or B-Form, and existing medical treatment records. Appear before the District Medical Board on your scheduled clinical assessment date. Upon approval, the Social Welfare Department issues an official computerized Disability Certificate containing your unique registration number."
+            ]
+          },
+          {
+            title: "Updating Your NADRA Special CNIC with the Wheelchair Symbol",
+            paragraphs: [
+              "Once the medical certificate is issued, visit your nearest NADRA Mega Center. Present your original disability certificate to request a Special CNIC. NADRA will issue a computerized identity card featuring the universal wheelchair symbol and encoded biometric disability tags, which are required for automated government database verification."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How to Apply Online for the Himmat Card on dpmis.punjab.gov.pk (Step-by-Step)",
+        paragraphs: [
+          "The Government of Punjab has digitized the entire application workflow through the Disabled Persons Management Information System (DPMIS)."
+        ],
+        subsections: [
+          {
+            title: "Step 1: Account Creation on DPMIS Using CNIC and Mobile Number",
+            paragraphs: [
+              "Navigate to the official portal: https://dpmis.punjab.gov.pk/. Click on 'Register' and enter your 13-digit CNIC number, full name, and active mobile phone number registered under your own or your legal guardian’s name. Verify your account using the 4-digit One-Time Password (OTP) sent to your mobile phone."
+            ]
+          },
+          {
+            title: "Step 2: Uploading Disability Certificate and Personal Information",
+            paragraphs: [
+              "Log into your DPMIS profile and enter your permanent residential address, educational background, and employment status (select 'Unemployed / Not Fit to Work'). Enter your Disability Certificate number and the date of medical board evaluation. Upload clear scanned copies of your Special CNIC (front and back) and your Medical Disability Certificate (PDF or JPG format under 2MB), and select your preferred Bank of Punjab (BOP) branch for card collection."
+            ]
+          },
+          {
+            title: "Step 3: Verification, SMS Approval and Bank of Punjab Card Collection",
+            paragraphs: [
+              "After submission, your data undergoes automated cross-verification against NADRA, BISP PMT scores, and FBR databases. Once approved, you will receive an official confirmation SMS from the Punjab Government. Visit your designated Bank of Punjab branch with your original Special CNIC to complete biometric verification and collect your activated Himmat ATM card. The quarterly Rs 10,500 stipend is automatically loaded onto the card during each scheduled disbursement cycle."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Himmat Card vs BISP Kafaalat vs Bait-ul-Maal: Comparative Decision Matrix",
+        paragraphs: [
+          "To understand how the Punjab Himmat Card compares to other major social safety nets in Pakistan, review the matrix below:"
+        ],
+        table: {
+          caption: "Punjab Himmat Card vs BISP vs Bait-ul-Maal (2026)",
+          headers: ["Feature / Metric", "CM Punjab Himmat Card", "BISP Benazir Kafaalat", "Pakistan Bait-ul-Maal (PBM)"],
+          rows: [
+            ["Managing Authority", "Government of Punjab (Social Welfare)", "Federal Government (BISP)", "Federal Ministry (PASS)"],
+            ["Target Beneficiaries", "Non-working PWDs with PMT <= 45", "Low-income female household heads", "Needy disabled & destitute citizens"],
+            ["Payment Amount", "Rs. 10,500 per quarter", "Rs. 13,500 per quarter", "Variable grant / medical equipment"],
+            ["Payment Mechanism", "Bank of Punjab (BOP) ATM Card", "Biometric Campsite / ATM (Alfalah/HBL)", "Crossed Cheque / Bank Transfer"],
+            ["Application Portal", "dpmis.punjab.gov.pk", "In-person Tehsil Office (NSER)", "In-person District PBM Office"],
+            ["Disability Requirement", "Mandatory ('Not Fit to Work')", "None (General poverty criteria)", "Optional (Special window for PWDs)"]
+          ]
+        },
+        links: [
+          {
+            label: "Why was my Benazir Kafaalat case paused guide",
+            href: "/benazir-kafaalat-case-paused-reasons/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I apply online for the CM Punjab Himmat Card?",
+        answer: "Visit the official Punjab government portal at dpmis.punjab.gov.pk, create an account with your 13-digit CNIC, fill out your disability profile, upload your District Medical Board Disability Certificate and NADRA Special CNIC, and submit your application."
+      },
+      {
+        question: "How much money is given under the Himmat Card in 2026?",
+        answer: "Eligible beneficiaries receive a quarterly stipend of Rs. 10,500 (Rs. 3,500 per month) credited directly into their Bank of Punjab account."
+      },
+      {
+        question: "What is the maximum PMT score allowed for the Himmat Card?",
+        answer: "The household Proxy Means Test (PMT) poverty score must be 45 or below in the BISP NSER database."
+      },
+      {
+        question: "Can a person with a government job apply for the Himmat Card?",
+        answer: "No. Applicants must be completely unemployed and officially assessed as Not Fit to Work by an authorized medical board."
+      },
+      {
+        question: "Where can I get an official Disability Certificate in Punjab?",
+        answer: "You must visit your local District Social Welfare Office and be examined by the District Medical Board at the District Headquarter Hospital (DHQ)."
+      },
+      {
+        question: "Which bank issues the Himmat ATM card?",
+        answer: "The Bank of Punjab (BOP) is the official banking partner that issues the co-branded Himmat Card and handles biometric cash withdrawals."
+      },
+      {
+        question: "What is the official helpline number for Himmat Card inquiries?",
+        answer: "You can call the official Punjab Social Welfare helpline at 1312 for assistance regarding application status, medical boards, or card collection."
+      },
+      {
+        question: "Is there any application fee for the Himmat Card?",
+        answer: "No. Registration on the DPMIS portal and issuance of the Himmat Card are completely free of cost. Never pay any fee to agents."
+      },
+      {
+        question: "Can I receive both BISP Kafaalat and Himmat Card at the same time?",
+        answer: "No. To prevent duplicate government subsidies, Himmat Card rules require that the applicant is not an active recipient of other monthly government cash grants."
+      },
+      {
+        question: "How long does it take for the Himmat Card to be issued after applying?",
+        answer: "Document verification and PMT cross-matching typically take 3 to 6 weeks. Approved applicants are notified via SMS to collect their ATM card from their designated BOP branch."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Disabled Persons Management Information System (DPMIS) Punjab",
+        href: "https://dpmis.punjab.gov.pk/"
+      },
+      {
+        label: "Social Welfare and Bait-ul-Maal Department Punjab",
+        href: "https://swd.punjab.gov.pk/"
       }
     ]
   }

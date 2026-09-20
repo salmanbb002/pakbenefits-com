@@ -1,0 +1,196 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/"
+      },
+      "headline": "CM Punjab Himmat Card Online Apply 2026: DPMIS Registration, Eligibility & Rs 10,500 Stipend Guide",
+      "description": "CM Punjab Himmat Card online apply 2026: dpmis.punjab.gov.pk par registration ka step-by-step tareeqa, PMT score <= 45 criteria, aur BOP Rs 10,500 stipend guide.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/",
+      "datePublished": "2026-09-20T14:15:00+05:00",
+      "dateModified": "2026-09-20T14:15:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "CM Punjab Himmat Card Programme"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Government of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentService",
+          "name": "Disabled Persons Management Information System",
+          "url": "https://dpmis.punjab.gov.pk/"
+        },
+        {
+          "@type": "BankOrCreditUnion",
+          "name": "Bank of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer", "h1"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/#howto",
+      "name": "How to Apply Online for CM Punjab Himmat Card",
+      "description": "Step-by-step procedure to apply online for Punjab Himmat Card on dpmis.punjab.gov.pk.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Create Account on DPMIS",
+          "text": "Visit https://dpmis.punjab.gov.pk/ and register using your 13-digit CNIC and mobile number.",
+          "position": 1
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Upload Disability Certificate",
+          "text": "Complete your profile, upload your Social Welfare Disability Certificate and Special CNIC.",
+          "position": 2
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Collect Bank of Punjab Card",
+          "text": "After verification approval, collect and activate your Himmat ATM card at your selected BOP branch.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Other Schemes",
+          "item": "https://pakbenefits.com/other-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab Himmat Card Online Apply 2026",
+          "item": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-himmat-card-online-apply-2026/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I apply online for the CM Punjab Himmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit the official Punjab government portal at dpmis.punjab.gov.pk, create an account with your 13-digit CNIC, fill out your disability profile, upload your District Medical Board Disability Certificate and NADRA Special CNIC, and submit your application."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much money is given under the Himmat Card in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eligible beneficiaries receive a quarterly stipend of Rs. 10,500 (Rs. 3,500 per month) credited directly into their Bank of Punjab account."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum PMT score allowed for the Himmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The household Proxy Means Test (PMT) poverty score must be 45 or below in the BISP NSER database."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a person with a government job apply for the Himmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Applicants must be completely unemployed and officially assessed as Not Fit to Work by an authorized medical board."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I get an official Disability Certificate in Punjab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You must visit your local District Social Welfare Office and be examined by the District Medical Board at the District Headquarter Hospital (DHQ)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which bank issues the Himmat ATM card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Bank of Punjab (BOP) is the official banking partner that issues the co-branded Himmat Card and handles biometric cash withdrawals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official helpline number for Himmat Card inquiries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can call the official Punjab Social Welfare helpline at 1312 for assistance regarding application status, medical boards, or card collection."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any application fee for the Himmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Registration on the DPMIS portal and issuance of the Himmat Card are completely free of cost. Never pay any fee to agents."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I receive both BISP Kafaalat and Himmat Card at the same time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. To prevent duplicate government subsidies, Himmat Card rules require that the applicant is not an active recipient of other monthly government cash grants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take for the Himmat Card to be issued after applying?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Document verification and PMT cross-matching typically take 3 to 6 weeks. Approved applicants are notified via SMS to collect their ATM card from their designated BOP branch."
+          }
+        }
+      ]
+    }
+  ]
+}

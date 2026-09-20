@@ -36,9 +36,9 @@ Source: `keyword-clusters.csv` (201 unique keywords / 13 clusters). This plan do
 
 | Date | Title | Primary keyword(s) targeted | Intent | Target page |
 |---|---|---|---|---|
-| Mon Sep 7 | BISP Payment Shows "Approved" But No Cash Received — What to Check | "bisp payment check", "ehsaas program balance check" | Troubleshooting | /payment-check/ |
-| Wed Sep 9 | Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation? | "ehsaas program loan", "ehsaas saving wallets" | Comparison | /ehsaas-programs/ |
-| Fri Sep 11 | 8171 Check Online Kaise Karein — Roman Urdu Guide (pilot) | "احساس کفالت پروگرام 8171" + Roman Urdu variant of "8171 check online" | Informational | /8171/ |
+| Mon Sep 7 | BISP Payment Shows "Approved" But No Cash Received — What to Check | "bisp payment check", "ehsaas program balance check" | Troubleshooting | /payment-check/ | ✅ Published (`/bisp-payment-approved-but-no-cash-received/`) |
+| Wed Sep 9 | Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation? | "ehsaas program loan", "ehsaas saving wallets" | Comparison | /ehsaas-programs/ | ✅ Published (`/ehsaas-interest-free-loan-vs-saving-wallet/`) |
+| Fri Sep 11 | 8171 Check Online Kaise Karein — Roman Urdu Guide (pilot) | "احساس کفالت پروگرام 8171" + Roman Urdu variant of "8171 check online" | Informational | /8171/ | ✅ Published (`/8171-check-online-kaise-karein/`) |
 
 Sep 11's post is the first entry in the Urdu/Roman Urdu layer flagged in the original audit as the single biggest untapped lever. Treat it as a pilot: measure its Search Console impressions/CTR for 3–4 weeks before committing to a full Urdu content track in Month 2.
 

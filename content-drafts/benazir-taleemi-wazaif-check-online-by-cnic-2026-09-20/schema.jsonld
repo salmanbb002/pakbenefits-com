@@ -1,0 +1,196 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/"
+      },
+      "headline": "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts, Registration & Status Guide",
+      "description": "Benazir Taleemi Wazaif check online by CNIC: 8171 portal par bachon ke wazaif status, 2026 stipend rates (Rs 2,500–5,000), aur 70% attendance rule ki mukammal guide.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/",
+      "datePublished": "2026-09-20T14:00:00+05:00",
+      "dateModified": "2026-09-20T14:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Taleemi Wazaif Programme"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentService",
+          "name": "8171 Web Portal",
+          "url": "https://8171.bisp.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer", "h1"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/#howto",
+      "name": "How to Check Benazir Taleemi Wazaif Online by CNIC",
+      "description": "Step-by-step procedure to check Benazir Taleemi Wazaif student stipends using mother's CNIC on the 8171 portal.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Open the 8171 Portal",
+          "text": "Visit the official portal at https://8171.bisp.gov.pk/.",
+          "position": 1
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Enter Mother's CNIC",
+          "text": "Type the mother's 13-digit CNIC number without hyphens or spaces.",
+          "position": 2
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Solve Captcha and Check",
+          "text": "Enter the 4-digit security code and click the Maloom Karein button to view Taleemi Wazaif details.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Taleemi Wazaif",
+          "item": "https://pakbenefits.com/taleemi-wazaif/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Benazir Taleemi Wazaif Check Online by CNIC",
+          "item": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-check-online-by-cnic/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How can I check Benazir Taleemi Wazaif online by CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit 8171.bisp.gov.pk, type the mother's 13-digit CNIC number without spaces or dashes, enter the security captcha code, and click submit. The portal displays both your Kafaalat status and the Taleemi Wazaif status for each enrolled child."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the stipend amount for primary school children in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In 2026, boys in primary school (Nursery to Class 5) receive Rs. 2,500 per quarter, while girls receive Rs. 3,000 per quarter. Girls also receive a one-time Rs. 3,000 bonus upon graduating primary school."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a father apply for Benazir Taleemi Wazaif using his CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Under BISP statutory rules, all child education stipends are issued through the mother’s account. The mother must be an active Benazir Kafaalat recipient with a valid CNIC."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minimum school attendance required for Taleemi Wazaif?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Children must maintain at least 70% attendance in school each quarter. If attendance drops below 70%, the quarterly stipend is temporarily withheld until attendance improves."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required to register a child for Taleemi Wazaif?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You need the mother’s original CNIC, the child’s original NADRA B-Form, and a BISP School Enrollment Slip signed and stamped by the school head teacher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can children studying in private schools receive Taleemi Wazaif?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, provided the private school is registered with the district education department and the head teacher certifies the child's admission and 70% attendance on the official BISP enrollment slip."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the age limit for Benazir Taleemi Wazaif enrollment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The age limits at admission are: 4 to 12 years for Primary (Grades 1–5), 8 to 18 years for Secondary (Grades 6–10), and 13 to 22 years for Higher Secondary (Grades 11–12)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did my child's Taleemi Wazaif payment not arrive this quarter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Common reasons include attendance falling below 70%, an expired B-Form or CNIC, school data synchronization delays, or the child exceeding the maximum age limit for their grade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is the Taleemi Wazaif money collected?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The stipend is disbursed alongside the mother’s Benazir Kafaalat payment and can be collected via biometric ATMs or partner bank payment campsites (Bank Alfalah and HBL Konnect)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the BISP official helpline for Taleemi Wazaif complaints?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can contact the official BISP toll-free helpline at 0800-26477 for inquiries regarding delayed stipends, attendance disputes, or agent deductions."
+          }
+        }
+      ]
+    }
+  ]
+}
