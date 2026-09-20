@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "Ehsaas Interest-Free Loan Programme",
+    "type": "GovernmentService",
+    "aliases": ["Ehsaas Loan", "IFL", "Qarz-e-Hasna", "Ehsaas Microfinance"],
+    "sameAs": "https://www.ppaf.org.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ehsaas Saving Wallets",
+    "type": "FinancialProduct",
+    "aliases": ["Ehsaas Bachat Account", "BISP Digital Wallet", "Ehsaas Wallet", "Bachat Bank Account"],
+    "sameAs": "https://www.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pakistan Poverty Alleviation Fund",
+    "type": "ApexInstitution",
+    "aliases": ["PPAF"],
+    "sameAs": "https://en.wikipedia.org/wiki/Pakistan_Poverty_Alleviation_Fund",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Akhuwat Islamic Microfinance",
+    "type": "NGO",
+    "aliases": ["Akhuwat", "AIM", "Akhuwat Foundation"],
+    "sameAs": "https://en.wikipedia.org/wiki/Akhuwat_Foundation",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT score", "PMT 0-40", "poverty score"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentityDocument",
+    "aliases": ["CNIC", "Smart Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Branchless Banking",
+    "type": "FinancialService",
+    "aliases": ["HBL Konnect", "Bank Alfalah Wallet", "Digital Accounts"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Community Guarantors",
+    "type": "Requirement",
+    "aliases": ["Zamin", "Loan Guarantor"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Micro-enterprise",
+    "type": "EconomicActivity",
+    "aliases": ["Small Business", "Self-Employment", "Productive Assets"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

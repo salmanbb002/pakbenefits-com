@@ -1,0 +1,186 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/",
+        "url": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/",
+        "name": "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?",
+        "description": "Compare Ehsaas Interest-Free Loans (Rs 20k–75k via Akhuwat/PPAF) vs. Ehsaas Saving Wallets. Discover eligibility, benefits, and which financial tool fits your household.",
+        "breadcrumb": {
+          "@id": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/#breadcrumb"
+        }
+      },
+      "headline": "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?",
+      "description": "Compare Ehsaas Interest-Free Loans (Rs 20k–75k via Akhuwat/PPAF) vs. Ehsaas Saving Wallets. Discover eligibility, benefits, and which financial tool fits your household.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/",
+      "datePublished": "2026-09-20T12:15:00+05:00",
+      "dateModified": "2026-09-20T12:15:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman",
+        "jobTitle": "Lead Social Welfare & Public Policy Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Ehsaas Interest-Free Loan Programme",
+          "sameAs": "https://www.ppaf.org.pk/"
+        },
+        {
+          "@type": "FinancialProduct",
+          "name": "Ehsaas Saving Wallets",
+          "sameAs": "https://www.bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "NGO",
+          "name": "Akhuwat Islamic Microfinance",
+          "sameAs": "https://en.wikipedia.org/wiki/Akhuwat_Foundation"
+        },
+        {
+          "@type": "Organization",
+          "name": "Pakistan Poverty Alleviation Fund",
+          "sameAs": "https://en.wikipedia.org/wiki/Pakistan_Poverty_Alleviation_Fund"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ehsaas Programmes",
+          "item": "https://pakbenefits.com/ehsaas-programs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ehsaas Loan vs Saving Wallet",
+          "item": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/ehsaas-interest-free-loan-vs-saving-wallet/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the maximum amount available under the Ehsaas Interest-Free Loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The standard loan amount ranges between Rs 20,000 and Rs 75,000. In specific agricultural and enterprise development categories, loans up to Rs 100,000 may be granted based on business feasibility and repayment track record."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any interest or markup charged on Ehsaas loans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The Ehsaas Interest-Free Loan program operates strictly on the Islamic principle of Qarz-e-Hasna. Borrowers pay 0% interest, 0% markup, and zero hidden fees, repaying only the exact amount borrowed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply for an Ehsaas interest-free loan online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. There is no official online application portal or mobile app for Ehsaas interest-free loans. All applicants must visit an authorized local branch of Akhuwat Islamic Microfinance or a PPAF partner organization in person."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible to open an Ehsaas Saving Wallet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ehsaas Saving Wallets are designated for female beneficiaries of social welfare programs, primarily active recipients of the Benazir Kafaalat unconditional cash transfer scheme whose household PMT score is 32 or below."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to maintain a minimum bank balance in an Ehsaas Saving Wallet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Ehsaas Saving Wallets feature a zero minimum balance requirement. Account holders are never penalized or charged maintenance fees, even if the account balance drops to zero."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can men apply for an Ehsaas Interest-Free Loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Both men and women aged between 18 and 60 years who possess a valid CNIC, reside within the local branch radius, and have a workable business plan are eligible to apply for an interest-free loan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for an Ehsaas interest-free loan application?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must bring their original CNIC, copies of CNICs of two local community guarantors, a recent domestic electricity or gas utility bill, two passport-sized photographs, and a brief description of their proposed business enterprise."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I withdraw money from an Ehsaas Saving Wallet at any ATM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Beneficiaries can withdraw cash at biometric ATMs operated by designated partner banks (such as Bank Alfalah and HBL) using their thumbprint and CNIC, or by using an authorized PayPak debit card at any 1Link ATM across Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does taking an Ehsaas loan disqualify my family from BISP Kafaalat stipends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Microfinance loans taken through Akhuwat for legitimate small business creation do not automatically disqualify a household from BISP Kafaalat, provided the household’s overall socioeconomic PMT score remains within the eligible cutoff threshold."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take for an interest-free loan to be approved and disbursed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The complete process—including application submission, field appraisal, community guarantor verification, and committee approval—typically takes between two to four weeks."
+          }
+        }
+      ]
+    }
+  ]
+}
