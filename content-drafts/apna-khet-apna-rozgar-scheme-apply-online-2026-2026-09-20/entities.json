@@ -1,0 +1,252 @@
+[
+  {
+    "canonical": "Apna Khet Apna Rozgar Scheme",
+    "type": "GovernmentScheme",
+    "aliases": ["AKAR Scheme", "Apna Khet Apna Rozgar Program", "Punjab Landless Farmers Scheme", "Punjab Agricultural Land Lease Scheme 2026"],
+    "sameAs": "https://akar.pulse.gop.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Government", "GoPb"],
+    "sameAs": "https://punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Chief Minister Maryam Nawaz", "CM Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "akar.pulse.gop.pk",
+    "type": "WebSite",
+    "aliases": ["AKAR Portal", "PULSE AKAR Portal", "Official Apna Khet Portal"],
+    "sameAs": "https://akar.pulse.gop.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "IdentificationDocument",
+    "aliases": ["CNIC", "NADRA CNIC", "National Identity Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Landless Farmers",
+    "type": "SocialGroup",
+    "aliases": ["Be-Zameen Kissan", "Landless Haris", "Tenant Farmers", "Agricultural Laborers"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Agricultural Land Lease",
+    "type": "LegalAgreement",
+    "aliases": ["Govt Land Allotment", "Agricultural Land Lease", "Cultivable State Land Lease"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Digital E-Balloting",
+    "type": "AdministrativeProcess",
+    "aliases": ["Computerized Balloting", "Digital Qurandazi", "Transparent Balloting"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Land Records Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["PLRA", "Arazi Record Center"],
+    "sameAs": "https://www.punjab-zameen.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Urban Land Systems Enhancement",
+    "type": "GovernmentProject",
+    "aliases": ["PULSE Project", "PULSE Punjab"],
+    "sameAs": "https://pulse.gop.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Agriculture Department Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Agri Department", "Mahkama Ziraat Punjab"],
+    "sameAs": "https://agripunjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Kisan Card",
+    "type": "FinancialService",
+    "aliases": ["Kisan Card", "CM Kisan Card"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Financial Assistance Grant",
+    "type": "MonetaryGrant",
+    "aliases": ["Rs 200,000 Cultivation Grant", "Seed & Fertilizer Aid", "Initial Cultivation Grant"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Lease Duration",
+    "type": "TemporalTerm",
+    "aliases": ["10-Year Lease", "10 to 20 Years Lease", "Long-Term Land Lease"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Nominal Lease Fee",
+    "type": "MonetaryTerm",
+    "aliases": ["Rs 100 per year", "Symbolic Rental Fee", "Token Annual Rent"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Cholistan Development Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["CDA Bahawalpur", "Cholistan Desert Region"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Riverine and Katcha Regions",
+    "type": "GeographicArea",
+    "aliases": ["Katcha Areas", "Daryaee Belts", "Riverine Lands"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "District Help Desks",
+    "type": "SupportService",
+    "aliases": ["AC Office Help Desk", "DC Office Help Desk", "Tehsil Facilitation Center"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Domicile Certificate",
+    "type": "IdentificationDocument",
+    "aliases": ["Punjab Domicile", "Permanent Resident Status"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Age Limit 18-50 Years",
+    "type": "EligibilityCriterion",
+    "aliases": ["18 to 50 Years Old", "Applicant Age Limit"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "One Person Per Household Rule",
+    "type": "EligibilityCriterion",
+    "aliases": ["Single Beneficiary Per Family", "One Applicant Per Family Unit"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Anti-Subletting Restrictions",
+    "type": "LegalRestriction",
+    "aliases": ["No Third-Party Transfer", "Personal Cultivation Mandate", "Sublease Prohibition"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA Biometric Verification",
+    "type": "VerificationProcess",
+    "aliases": ["Biometric Authentication", "NADRA e-Sahulat"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Agricultural Internship Program",
+    "type": "EducationalProgram",
+    "aliases": ["CM Agri Youth Internship", "Farm Management Stipend"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Solar Tubewell Subsidy",
+    "type": "AgriculturalSubsidy",
+    "aliases": ["Solarized Irrigation Scheme", "Tubewell Solar Power"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

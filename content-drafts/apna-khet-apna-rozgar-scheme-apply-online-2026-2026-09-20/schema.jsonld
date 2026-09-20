@@ -1,0 +1,273 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026"
+      },
+      "headline": "Apna Khet Apna Rozgar Scheme Apply Online 2026: Complete Registration Guide, Eligibility & Balloting Status",
+      "description": "Apply online for Punjab's Apna Khet Apna Rozgar Scheme 2026 at akar.pulse.gop.pk. Check eligibility, 2-5 acre land lease rules, Rs 200k grant, and balloting results.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026",
+      "datePublished": "2026-09-20T10:30:00+05:00",
+      "dateModified": "2026-09-20T10:30:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://example.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Apna Khet Apna Rozgar Scheme",
+          "url": "https://akar.pulse.gop.pk/",
+          "sameAs": "https://akar.pulse.gop.pk/",
+          "provider": {
+            "@type": "GovernmentOrganization",
+            "name": "Government of Punjab",
+            "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "jobTitle": "Chief Minister of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Land Records Authority",
+          "sameAs": "https://www.punjab-zameen.gov.pk/"
+        },
+        {
+          "@type": "GovernmentProject",
+          "name": "Punjab Urban Land Systems Enhancement",
+          "sameAs": "https://pulse.gop.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Agriculture Department Punjab",
+          "sameAs": "https://agripunjab.gov.pk/"
+        },
+        {
+          "@type": "Thing",
+          "name": "Computerized National Identity Card",
+          "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card"
+        },
+        {
+          "@type": "FinancialProduct",
+          "name": "Punjab Kisan Card"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Cholistan Development Authority"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "blockquote",
+          ".direct-answer-snippet"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026#howto",
+      "name": "How to Apply Online for Apna Khet Apna Rozgar Scheme at akar.pulse.gop.pk",
+      "description": "Step-by-step procedure to register for the Punjab Apna Khet Apna Rozgar Scheme on the official akar.pulse.gop.pk portal.",
+      "totalTime": "PT15M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Access the Official Portal",
+          "text": "Open your web browser and navigate directly to https://akar.pulse.gop.pk/ on the secure .gop.pk provincial domain.",
+          "url": "https://akar.pulse.gop.pk/"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Citizen Registration & CNIC Entry",
+          "text": "Click on the 'New Registration' button and enter your 13-digit CNIC number without hyphens or spaces."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Mobile OTP Authentication",
+          "text": "Enter your active mobile phone number registered under your CNIC. Input the 6-digit One-Time Password sent via SMS within 60 seconds."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Complete Personal & Family Details",
+          "text": "Fill in your full name, father’s or husband’s name, permanent residential address, tehsil, and district as printed on your CNIC."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Select Land Preference Zone",
+          "text": "Choose your preferred district and tehsil for state land allotment from the available provincial land parcels listed in the portal menu."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Upload Mandatory Scanned Documents",
+          "text": "Attach clear scans of your CNIC, Punjab Domicile, and signed affidavit of landlessness in JPEG or PDF format."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "name": "Review & Final Submission",
+          "text": "Verify all entered details against your official documents, check the declaration box agreeing to the lease conditions, and click 'Submit Application.'"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "name": "Save Application Tracking Slip",
+          "text": "Download and print the generated confirmation slip containing your unique Application Tracking ID for future status checks and balloting reference."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official website for Apna Khet Apna Rozgar Scheme 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The only official portal for the scheme is akar.pulse.gop.pk, managed by the Government of Punjab and the PULSE project. Citizens must avoid unofficial third-party websites and should never pay registration fees to agents."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much land is allotted to each eligible farmer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eligible beneficiaries are allotted between 2 to 5 acres of cultivable state land, with standard allocations structured as 4-acre parcels. The exact acreage depends on land availability within the applicant's selected district and tehsil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the lease duration and annual fee for the land?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The land is provided on a 10-year agricultural lease, which can be extended up to 20 years based on satisfactory cultivation performance. The annual lease fee is a nominal Rs. 100 per year, making it affordable for landless families."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can government employees or existing landowners apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, government employees, semi-government staff, and individuals who already own agricultural land are strictly disqualified from applying. The program is reserved exclusively for verified landless farmers and unemployed rural laborers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any cash assistance provided along with the land?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the Government of Punjab provides a direct financial assistance grant of Rs. 200,000 per selected family to cover initial land preparation, plowing, seeds, and fertilizers. Beneficiaries also receive Punjab Kisan Cards for interest-free seasonal crop loans."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the digital balloting system work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Land allotment is determined through a computerized digital balloting system (E-balloting) overseen by provincial committees. The algorithm randomly matches scrutinized, eligible applicants with surveyed state land plots to ensure complete transparency."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a beneficiary sell, transfer, or sublease the allotted land?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, beneficiaries are legally prohibited from selling, gifting, renting, or subletting the allotted land. The state retains complete ownership, and any attempt to transfer lease rights leads to immediate lease revocation and repossession."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the age limit for applicants in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must be between 18 and 50 years of age on the date of application submission. Age verification is conducted automatically through NADRA biometric and identity records."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can applicants without internet access submit their applications?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants without internet access or smartphones can visit the free facilitation help desks located at their local Assistant Commissioner (AC) or Deputy Commissioner (DC) office. District staff will enter the applicant's details and submit the application free of charge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if the portal shows I already own land by mistake?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If the portal mistakenly flags you as a landowner, visit your local Arazi Record Center (PLRA) to obtain an official landless certificate (Fard-e-Be-Zameeni). Present this document to your local AC office grievance desk to update your status."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are women and landless female farmers eligible to apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, eligible landless women, including widows and female heads of rural households who meet the residency and age criteria, are encouraged to apply. The scheme enforces equal access and prioritizes vulnerable female-headed farming families."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When will Phase 2 applications open for Apna Khet Apna Rozgar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Phase 2 registrations will be announced on the official portal at akar.pulse.gop.pk following the completion of land possession handovers for Phase 1 winners. Citizens should monitor the portal and district administration announcements for the next intake schedule."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agricultural Schemes",
+          "item": "https://example.com/agricultural-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Apna Khet Apna Rozgar Scheme Apply Online 2026",
+          "item": "https://example.com/blog/apna-khet-apna-rozgar-scheme-apply-online-2026"
+        }
+      ]
+    }
+  ]
+}
