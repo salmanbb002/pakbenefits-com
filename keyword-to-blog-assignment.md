@@ -37,11 +37,11 @@ These don't close keyword *gaps* (their target keywords are already served above
 - "7 Mistakes That Delay a BISP Online Registration" — ✅ Published on 18 Sep 2026 (`/bisp-online-registration-mistakes/`)
 - "What Counts as a 'Good' PMT Score for BISP?" — ✅ Published on 19 Sep 2026 (`/what-counts-as-a-good-pmt-score/`)
 - "NSER Survey Not Found in the System? Here's What It Means" — ✅ Published on 19 Sep 2026 (`/nser-survey-not-found/`)
-- "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons"
+- "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons" — ✅ Published on 20 Sep 2026 (`/benazir-kafaalat-case-paused-reasons/`)
 - "BISP Payment Shows 'Approved' But No Cash Received" — ✅ Published on 19 Sep 2026 (`/bisp-payment-approved-but-no-cash-received/`)
 - "BISP Biometric Verification Failed: Complete Step-by-Step Fix" — ✅ Published on 19 Sep 2026 (`/bisp-biometric-verification-failed/`)
-- "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?"
+- "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?" — ✅ Published on 20 Sep 2026 (`/ehsaas-interest-free-loan-vs-saving-wallet/`)
 
 ## Recommendation
 
-The primary keyword gap for **BISP Eligibility Criteria (who qualifies)** has been closed by `bisp-eligibility-criteria-guide`, and the high-intent troubleshooting angle **"7 Mistakes That Delay a BISP Online Registration"** has been published (`/bisp-online-registration-mistakes/`). Everything else is either live, intentionally excluded (doorway pages, unverified addresses, off-topic stray queries), or held pending strategic decisions (Urdu launch timing, BISP↔Ehsaas political-history verification).
+The primary keyword gap for **BISP Eligibility Criteria (who qualifies)** has been closed by `bisp-eligibility-criteria-guide`, and the high-intent troubleshooting angles have all been published. With 66 live articles covering all core clusters and 2026 flagship schemes, the next high-impact content expansion lies in **Phase 7 (Next in Pipeline)**: Roman Urdu transactional guides (13,500 tranche, balance ATM, new registration), localized BISP Tehsil Office address directories (Lahore, Rawalpindi, Karachi), and official BISP vs Ehsaas brand relationship clarification.

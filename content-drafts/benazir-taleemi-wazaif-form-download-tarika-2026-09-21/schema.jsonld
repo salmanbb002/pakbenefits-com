@@ -1,0 +1,150 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-form-download-tarika/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika: School Slip & Tehsil Verification",
+      "description": "Benazir Taleemi Wazaif form download aur jama karne ka tarika: School dakhila tasdeeq slip, B-Form verification, primary ta higher secondary stipend amounts aur submission guide.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Saad Hassan",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Benazir Taleemi Wazaif"
+        },
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "Primary to Higher Secondary Education Stipend"
+        },
+        {
+          "@type": "Thing",
+          "name": "School Admission Verification Slip"
+        },
+        {
+          "@type": "Thing",
+          "name": "National Database and Registration Authority"
+        },
+        {
+          "@type": "Thing",
+          "name": "Child Registration Certificate B-Form"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-form-download-tarika/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Benazir Taleemi Wazaif ka form kahan se milta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taleemi Wazaif ka enrollment form (school slip) kisi dukan ya website se nahi milta, yeh sirf BISP Tehsil Office ke registration desk se muft milta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya private school ke bacchon ko Taleemi Wazaif milte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Haan, agar private school government ke District Education Department se baqaida registered ho aur bacchay ki 70% haziri tasdeeq kare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya ek maa ke sab bacchon ke wazaif lag sakte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Haan, ahal khatoon ke tamam parhne wale bacchon (primary ta higher secondary) ke alag alag forms jama karwa kar sab ke wazaif lagwaye ja sakte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "School slip par kis ke sign aur stamp zaroori hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "School ke headmaster ya principal ke daskhat aur school ki official gol mohr (round stamp) hona laazmi hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bacchay ka wazeefa aana kyun band ho jata hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agar bacchay ki school mein teen maah ki majmooi haziri 70% se kam ho jaye ya bacha school chor de, toh system khud-ba-khud wazeefa rok deta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya form jama karwane ke koi charges hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, slip lene se lekar jama karwane tak poora process 100% muft hai. Kisi ko koi fees na dein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar bacha doosre school mein dakhila le le toh kya karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aap ko BISP Tehsil Office ja kar bacchay ka naya school update karwana hoga aur naye school se fresh slip jama karwani hogi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "B-Form mein walida ka naam galat ho toh kya form jama hoga?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, B-Form aur walida ke CNIC ka data match hona zaroori hai. Agar naam mein farq ho toh pehle NADRA se B-Form durust karwayen."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/benazir-taleemi-wazaif-form-download-tarika/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "taleemi-wazaif",
+          "item": "https://pakbenefits.com/taleemi-wazaif/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika: School Slip & Tehsil Verification",
+          "item": "https://pakbenefits.com/benazir-taleemi-wazaif-form-download-tarika/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-8171-paise-check-karne-ka-tarika/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash Nikalne Aur Balance Ki Mukammal Maloomat",
+      "description": "BISP 8171 paise check karne ka tarika: 8171 web portal, SMS balance check, HBL aur Bank Alfalah biometric ATM se baghair card raqam wasool karne ka step-by-step guide.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "8171 Web Portal"
+        },
+        {
+          "@type": "Thing",
+          "name": "8171 SMS Service"
+        },
+        {
+          "@type": "Thing",
+          "name": "Habib Bank Limited"
+        },
+        {
+          "@type": "Thing",
+          "name": "Bank Alfalah"
+        },
+        {
+          "@type": "Thing",
+          "name": "HBL Konnect Biometric Network"
+        },
+        {
+          "@type": "Thing",
+          "name": "Benazir Kafaalat Payment System"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-8171-paise-check-karne-ka-tarika/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP 8171 ke paise check karne ke liye official portal link kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP paise check karne ka official portal link 8171.bisp.gov.pk hai, jahan aap apna 13-hinson ka CNIC aur captcha darj karke muft status maloom kar sakte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya BISP ke paise kisi bhi bank ke ATM se nikal sakte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP ke biometric paise sirf un banks ke ATM se nikalte hain jinke paas BISP contract hai, jaise Habib Bank Limited (HBL) aur Bank Alfalah biometric ATMs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya ATM se paise nikalne ke liye ATM card ki zaroorat hoti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP beneficiaries ke liye card-less biometric system mojood hai, jismein sirf CNIC number enter karke angootha lagane par cash nikal aata hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar agent BISP ki raqam mein se 500 rupaye kat le toh kahan shikayat karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aap foran BISP ki toll-free helpline 0800-26477 par call karein ya apne qareebi BISP Tehsil Office mein agent ki shop ID ke sath likhi hui shikayat darj karwayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya 8171 ke ilawa kisi aur number se BISP ka SMS aa sakta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hargiz nahi. BISP ka koi bhi official SMS sirf 8171 se hi aata hai. Kisi private mobile number (03xx) se aane wale messages par yaqeen na karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar portal par 'Aap Kafaalat ke liye ahal hain lekin qist mojood nahi' likha aaye toh kya karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Is ka matlab hai ke aap eligible hain lekin nayi sah-mahi qist abhi banking system mein transfer nahi hui. Agli qist ki distribution shuru hote hi raqam transfer ho jayegi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya BISP paise check karne ke koi charges hote hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Official web portal (8171.bisp.gov.pk) par check karna 100% muft hai. 8171 par SMS bhejne par taqreeban 1 se 2 rupaye standard mobile balance charge hota hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar angoothe ke nishanat ATM par match na hon toh kya kiya jaye?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aap kisi doosre HBL/Bank Alfalah ATM par koshish karein. Agar musalsal na ho toh NADRA office ja kar biometrics update karein ya BISP desk se Non-BVS form hasil karein."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-8171-paise-check-karne-ka-tarika/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "payment-check",
+          "item": "https://pakbenefits.com/payment-check/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash Nikalne Aur Balance Ki Mukammal Maloomat",
+          "item": "https://pakbenefits.com/bisp-8171-paise-check-karne-ka-tarika/"
+        }
+      ]
+    }
+  ]
+}

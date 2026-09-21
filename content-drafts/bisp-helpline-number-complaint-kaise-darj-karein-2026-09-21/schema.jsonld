@@ -1,0 +1,150 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-helpline-number-complaint-kaise-darj-karein/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477, Agent Katauti & Biometric Fix",
+      "description": "BISP helpline number complaint kaise darj karein: 0800-26477 toll-free call, retailer katauti reporting, biometric fingerprint issue aur Tehsil complaint cell guide.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "BISP Toll-Free Helpline 0800-26477"
+        },
+        {
+          "@type": "Thing",
+          "name": "BISP Grievance Redressal and Monitoring Cell"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pakistan Citizen's Portal"
+        },
+        {
+          "@type": "Thing",
+          "name": "BISP Tehsil Complaint Desk"
+        },
+        {
+          "@type": "Thing",
+          "name": "Federal Ombudsman Pakistan"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-helpline-number-complaint-kaise-darj-karein/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP ki official helpline ka number kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP ki official toll-free helpline ka number 0800-26477 hai, jo mobile aur landline dono se muft milta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya BISP helpline par call karne ke paise katte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, 0800 numbers toll-free hote hain, is par call karne par ek rupaye ka balance bhi nahi lagta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Helpline par call milane ke behtareen auqat kya hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Peer ta juma subah 9:00 baje se dopehar 1:00 baje ke darmiyan call milane par foran rabtah ho jata hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar agent kataoti kar le toh kya deducted raqam wapas milti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Haan, agar aap ke paas agent ki maloomat ho aur complaint tasdeeq ho jaye, toh BISP agent se raqam wapas wasool karwa kar beneficiary ko dilwata hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar helpline par baat na ho rahi ho toh shikayat kahan karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aap apne qareebi BISP Tehsil Office mein qaaim Complaint Cell mein ja kar likhi hui darkhwast jama karwa sakte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP shikayat hal hone mein aam taur par kitna waqt lagta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Payment kataoti aur agent fraud ki shikayat 7 din mein, jabke biometric aur account block ki shikayat 14 se 21 working days mein hal hoti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya Pakistan Citizen's Portal par BISP ki shikayat darj ho sakti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Haan, Citizen Portal app mein 'Poverty Alleviation / BISP' category select karke direct Prime Minister Office ko shikayat bheji ja sakti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Shikayat darj karwane ke liye kin cheezon ki zaroorat hoti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beneficiary ka 13-hinson ka CNIC number, active mobile number, aur maslay ki mukammal tafseel (maslan dukan ka pata ya ATM location)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-helpline-number-complaint-kaise-darj-karein/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "payment-check",
+          "item": "https://pakbenefits.com/payment-check/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477, Agent Katauti & Biometric Fix",
+          "item": "https://pakbenefits.com/bisp-helpline-number-complaint-kaise-darj-karein/"
+        }
+      ]
+    }
+  ]
+}

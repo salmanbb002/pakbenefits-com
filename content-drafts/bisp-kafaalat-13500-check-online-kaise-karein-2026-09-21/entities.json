@@ -1,0 +1,56 @@
+{
+  "primaryKeyword": "bisp kafaalat 13500 check online kaise karein",
+  "targetSlug": "bisp-kafaalat-13500-check-online-kaise-karein",
+  "category": "benazir-kafaalat",
+  "entities": [
+    {
+      "name": "Benazir Income Support Programme",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "Benazir Kafaalat Programme",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "8171 Web Portal",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "Habib Bank Limited",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "Bank Alfalah",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah"
+    },
+    {
+      "name": "National Socio-Economic Registry",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "Federal Ministry of Poverty Alleviation",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    }
+  ],
+  "lsiKeywords": [
+    "benazir kafalat 13500 online check",
+    "bisp 13500 installment release date 2026",
+    "8171 web portal 13500 check by cnic",
+    "kafaalat payment bank alfalah hbl",
+    "bisp 13500 eligible status check"
+  ]
+}

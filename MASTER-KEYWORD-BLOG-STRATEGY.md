@@ -177,10 +177,10 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | 8. Ehsaas Rashan/Ration | 7 | ✅ Covered |
 | 9. Ehsaas Registration Centers | 9 | ✅ Covered (city pages held) |
 | 10. PMT Score & NSER Survey | 23 | ✅ Covered |
-| 11. Payment & Balance Check | 7 | ✅ Covered |
-| 12. Punjab Rozgar Scheme | 5 | ✅ Covered |
-| 13. Urdu/Roman Urdu Layer | 1 | ✅ Published (`8171-check-online-kaise-karein`) |
-| **Total** | **201** | **200 covered / 0 open items (Full Coverage Achieved)** |
+| 11. Payment & Balance Check | 7 | ✅ Covered & Published |
+| 12. Punjab Rozgar Scheme | 5 | ✅ Covered & Published |
+| 13. Urdu/Roman Urdu Layer | 3+ | ✅ Active (`8171-check-online-kaise-karein`, `bisp-registration-check-by-cnic-kaise-karein`, `bisp-8171-balance-check-online-kaise-karein`) |
+| **Total Tracked** | **254** | **214 Published / 27 Covered by design / 13 Planned (Next)** |
 
 ## Roadmap
 
@@ -188,16 +188,47 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 
 **Phase 2 — Done.** Closed eligibility criteria gap via *"BISP Eligibility Criteria"* (`bisp-eligibility-criteria-guide` & `how-to-check-bisp-eligibility-guide`) and published *"7 Mistakes That Delay a BISP Online Registration"* (`bisp-online-registration-mistakes`).
 
-**Phase 3 — Optional depth (do only where Search Console data justifies it, not by default).** The comparison/troubleshooting angles noted above under Clusters 6, 10, 11 (e.g., "What Counts as a Good PMT Score", "Approved but No Cash Received", "NSER Survey Not Found").
+**Phase 3 — Done.** Troubleshooting & high-intent depth articles live:
+- `what-counts-as-a-good-pmt-score`
+- `bisp-payment-approved-but-no-cash-received`
+- `nser-survey-not-found`
+- `bisp-biometric-verification-failed`
+- `benazir-kafaalat-case-paused-reasons`
+- `ehsaas-interest-free-loan-vs-saving-wallet`
 
-**Phase 4 — Editorial hold.** "BISP and Ehsaas: How the Two Names Relate" — requires a human to verify the current official rebranding framing on bisp.gov.pk before drafting; do not publish this from assumed history.
+**Phase 4 — Ready for Pipeline.** "BISP and Ehsaas: How the Two Names Relate" — official relationship & name transition guide (`bisp-and-ehsaas-difference`).
 
-**Phase 5 — Strategic decision needed.** Urdu/Roman Urdu content layer — pilot published (\`8171-check-online-kaise-karein\`), expanding based on GSC performance.
+**Phase 5 — Expanded.** Roman Urdu / Urdu search layer expanded with 3 published pillar guides (`8171-check-online-kaise-karein`, `bisp-registration-check-by-cnic-kaise-karein`, `bisp-8171-balance-check-online-kaise-karein`).
 
-**Phase 6 — 2026 Flagship Provincial Schemes & Education Expansion (Published 20-21 Sep 2026):**
-- \`cm-punjab-himmat-card-online-apply-2026\` (DPMIS Rs 10,500 PWD allowance)
-- \`cm-punjab-kisan-card-online-apply-2026\` (8070 SMS & Rs 150,000 BOP interest-free production loan)
-- \`apni-chhat-apna-ghar-scheme-online-apply-2026\` (acag.punjab.gov.pk 15 Lakh interest-free housing loan)
-- \`cm-punjab-honhaar-scholarship-program-2026\` (honhaarscholarship.punjabhec.gov.pk 100% tuition grant)
-- \`benazir-taleemi-wazaif-check-online-by-cnic\` (Primary to Higher Secondary CCT stipend guide)
+**Phase 6 — 2026 Flagship Schemes & Relief Programs (Published 19-21 Sep 2026):**
+- `cm-punjab-kisan-card-online-apply-2026` (8070 SMS & Rs 150,000 BOP interest-free production loan)
+- `apni-chhat-apna-ghar-scheme-online-apply-2026` (acag.punjab.gov.pk 15 Lakh interest-free housing loan)
+- `cm-punjab-honhaar-scholarship-program-2026` (honhaarscholarship.punjabhec.gov.pk 100% tuition grant)
+- `cm-punjab-green-tractor-scheme-2026-online-apply` (gts.punjab.gov.pk Rs 10 Lakh tractor subsidy)
+- `cm-punjab-dhee-rani-program-2026-online-apply` (cmp.punjab.gov.pk mass marriage Rs 100,000 Salami ATM card)
+- `cm-punjab-solar-panel-scheme-2026-online-apply` (energy.punjab.gov.pk Roshan Gharana 8800 SMS balloting)
+- `cm-punjab-livestock-card-scheme-2026-online-apply` (plc.punjab.gov.pk Rs 270,000 interest-free loan)
+- `cm-punjab-himmat-card-online-apply-2026` (dpmis.punjab.gov.pk Rs 10,500 PWD quarterly allowance)
+- `benazir-taleemi-wazaif-check-online-by-cnic` (Primary to Higher Secondary CCT stipend guide)
+- `apna-khet-apna-rozgar-scheme-apply-online-2026` (Agricultural land allocation & subsidy)
+- `pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply` (Federal/Provincial electric bike subsidy)
+- `fuel-scheme-rs-100-per-litre-petrol-relief-guide` (Rs 100/Litre targeted petrol subsidy verification)
+- `prime-minister-youth-loan-scheme-2026` (pmyp.gov.pk Tier 1-3 youth business loans)
+
+**Phase 7 — Roman Urdu Expansion Batch (Published 21 Sep 2026):**
+- `bisp-8171-paise-check-karne-ka-tarika` (ATM cash withdrawal, balance check & anti-kataoti guide)
+- `bisp-kafaalat-13500-check-online-kaise-karein` (New Rs 13,500 quarterly tranche check & schedule)
+- `bisp-new-registration-form-online-apply-kaise-karein` (NSER dynamic registry, fake link warning & tehsil desk)
+- `benazir-taleemi-wazaif-form-download-tarika` (School admission slip, headmaster verification & girls/boys amounts)
+- `bisp-helpline-number-complaint-kaise-darj-karein` (0800-26477 toll-free helpline, retailer deduction & biometric fix)
+
+**Phase 8 — Next in Pipeline (SEO Content Creator Execution Queue):**
+1. `bisp and ehsaas difference` (Brand clarification / historical relationship)
+2. `bisp tehsil office lahore list and addresses` (Lahore BISP & NADRA desk directory)
+3. `bisp office rawalpindi addresses and contact number` (Rawalpindi/Islamabad directory)
+4. `bisp tehsil office karachi district list` (Karachi 7 districts BISP office directory)
+5. `pmt score above 32 bisp re survey guide` (Poverty score challenge & NSER re-survey)
+6. `bisp agent deduction complaint 8171 retailer penalty` (Retailer deduction reporting)
+7. `punjab solar tube well scheme 2026 online apply` (Agri solar tube well conversion)
+8. `kisan card 8070 pin verification and bop atm activation` (PIN setup & POS fertilizer use)
 

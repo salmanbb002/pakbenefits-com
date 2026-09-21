@@ -1,0 +1,150 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-new-registration-form-online-apply-kaise-karein/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "BISP New Registration Form Online Apply Kaise Karein: NSER Dynamic Survey & Tehsil Desk Guide",
+      "description": "BISP new registration form online apply kaise karein: Kya online form mojood hai? BISP tehsil office dynamic registry, zaroori kaghazaat aur PMT cutoff ka sach.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Saad Hassan",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "National Socio-Economic Registry"
+        },
+        {
+          "@type": "Thing",
+          "name": "Dynamic Registry Survey"
+        },
+        {
+          "@type": "Thing",
+          "name": "National Database and Registration Authority"
+        },
+        {
+          "@type": "Thing",
+          "name": "Proxy Means Test Score"
+        },
+        {
+          "@type": "Thing",
+          "name": "BISP Tehsil Registration Desk"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-new-registration-form-online-apply-kaise-karein/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kya BISP new registration ka koi online form internet par mojood hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP ka koi public online apply form nahi hai. Registration sirf BISP Tehsil Desk par in-person survey ke zariye hoti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP registration form ki fee kitni hoti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP registration aur NSER dynamic survey 100% muft hai. Koi bhi officer ya agent fee lene ka majaz nahi hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP mein apply karne ke liye sab se ahem kaghazaat kaun se hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Khatoon ka asal CNIC, tamaam bacchon ke NADRA B-Form, gharaney ke bijli ya gas ka taaza tareen bill aur active mobile phone number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya mard hazraat BISP registration ke liye apply kar sakte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP Kafaalat qawaneen ke mutabiq bunyadi beneficiary sirf khandan ki ahal khatoon (bivi, maa, ya baywah) hi hoti hai. Mard hazraat sirf bator head of family data mein shamil hote hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar kisi khatoon ka shanakhti card expire ho gaya ho toh kya registration ho sakti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, expired card par biometric survey system data accept nahi karta. Pehle NADRA se card renew karwayen, phir BISP desk jayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Registration ke kitne din baad pehli qist milti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Survey data verification aur PMT score nikalne mein aam taur par 2 se 3 maah lagte hain. Ahal qarar diye jane par agli sah-mahi qist mein raqam muntaqil hoti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar survey ke baad na-ahal (ineligible) likha aaye toh kya dobara apply kar sakte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agar aap ka PMT score 32 se zayed aa jaye toh aap 2 saal baad dobara dynamic survey desk par ja kar re-survey karwa sakte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP Tehsil Office ka waqt kya hota hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP Tehsil Offices peer ta juma subah 8:00 baje se dopehar 2:00 baje tak khulay hotay hain. Token hasil karne ke liye subah jaldi jana behtar hota hai."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-new-registration-form-online-apply-kaise-karein/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "bisp-registration",
+          "item": "https://pakbenefits.com/bisp-registration/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP New Registration Form Online Apply Kaise Karein: NSER Dynamic Survey & Tehsil Desk Guide",
+          "item": "https://pakbenefits.com/bisp-new-registration-form-online-apply-kaise-karein/"
+        }
+      ]
+    }
+  ]
+}

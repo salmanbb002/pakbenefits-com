@@ -1,0 +1,57 @@
+{
+  "primaryKeyword": "bisp 8171 paise check karne ka tarika",
+  "targetSlug": "bisp-8171-paise-check-karne-ka-tarika",
+  "category": "payment-check",
+  "entities": [
+    {
+      "name": "Benazir Income Support Programme",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "8171 Web Portal",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "8171 SMS Service",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "Habib Bank Limited",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "Bank Alfalah",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah"
+    },
+    {
+      "name": "HBL Konnect Biometric Network",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited"
+    },
+    {
+      "name": "Benazir Kafaalat Payment System",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    }
+  ],
+  "lsiKeywords": [
+    "8171 se paise kaise check karein",
+    "bisp payment atm cash withdrawal",
+    "bisp balance check cnic online",
+    "hbl biometric atm bisp cash nikalna",
+    "bisp 13500 qist check online",
+    "bisp retailer katauti complaint 0800-26477"
+  ]
+}

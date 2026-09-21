@@ -1,0 +1,50 @@
+{
+  "primaryKeyword": "bisp helpline number complaint kaise darj karein",
+  "targetSlug": "bisp-helpline-number-complaint-kaise-darj-karein",
+  "category": "payment-check",
+  "entities": [
+    {
+      "name": "Benazir Income Support Programme",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "BISP Toll-Free Helpline 0800-26477",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "BISP Grievance Redressal and Monitoring Cell",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "Pakistan Citizen's Portal",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "BISP Tehsil Complaint Desk",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "Federal Ombudsman Pakistan",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    }
+  ],
+  "lsiKeywords": [
+    "bisp toll free helpline 0800-26477",
+    "bisp agent katauti complaint kaise karein",
+    "bisp biometric verification problem complaint",
+    "bisp portal online complaint portal",
+    "8171 complaint tracking number status"
+  ]
+}

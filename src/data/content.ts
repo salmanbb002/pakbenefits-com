@@ -14777,6 +14777,934 @@ export const articles: Article[] = [
       }
     ]
 }
+,
+  {
+    slug: "bisp-8171-paise-check-karne-ka-tarika",
+    title: "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash Nikalne Aur Balance Ki Mukammal Maloomat",
+    excerpt: "BISP 8171 paise check karne ka sab se aasan tarika official web portal (8171.bisp.gov.pk) par 13-hinson ka CNIC darj karna ya 8171 par SMS bhejna hai. Raqam transfer hone ke baad mustahiq khawateen qareebi HBL ya Bank Alfalah biometric ATM se baghair kisi card ya kataoti ke poori raqam wasool kar sakti hain.",
+    showExcerpt: true,
+    metaTitle: "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash & Balance Guide",
+    metaDescription: "BISP 8171 paise check karne ka tarika: 8171 web portal, SMS balance check, HBL aur Bank Alfalah biometric ATM se baghair card raqam wasool karne ka step-by-step guide.",
+    focusKeyword: "bisp 8171 paise check karne ka tarika",
+    lsiKeywords: [
+      "8171 se paise kaise check karein",
+      "bisp payment atm cash withdrawal",
+      "bisp balance check cnic online",
+      "hbl biometric atm bisp cash nikalna",
+      "bisp 13500 qist check online",
+      "bisp retailer katauti complaint 0800-26477"
+],
+    entities: [
+      "Benazir Income Support Programme",
+      "8171 Web Portal",
+      "8171 SMS Service",
+      "Habib Bank Limited",
+      "Bank Alfalah",
+      "HBL Konnect Biometric Network",
+      "Benazir Kafaalat Payment System"
+],
+    primaryCategory: "payment-check",
+    categorySlugs: [
+      "payment-check",
+      "8171",
+      "bisp-registration"
+],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "10 min read",
+    image: "/images/bisp-8171-balance-check-online.jpg",
+    imageAlt: "A beneficiary checking BISP 8171 payment status and withdrawing cash at a biometric ATM in Pakistan",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+            "title": "BISP 8171 Paise Check Karne Ka Tarika Kya Hai? (Direct Answer Block)",
+            "paragraphs": [
+                  "BISP 8171 ke paise check karne ke liye sab se pehle official web portal (8171.bisp.gov.pk) par jayen, apna 13-hinson ka CNIC number aur tasveer mein diya gaya captcha code darj karein, aur 'Maloom Karein' par click karein. Agar internet dastiyab na ho, toh apne registered mobile number se apna CNIC bina dash ke 8171 par SMS karein.",
+                  "Jab 8171 se raqam muntaqil hone ka tasdeeqi paigham mil jaye, toh mustahiq khatoon apne qareebi HBL ya Bank Alfalah ke Biometric ATM par ja kar 'BISP/Ehsaas' option muntakhib karein aur angootha laga kar baghair kisi agent kataoti ke poori raqam wasool karein."
+            ],
+            "links": [
+                  {
+                        "label": "BISP 8171 balance check online guide",
+                        "href": "/bisp-8171-balance-check-online-kaise-karein/"
+                  },
+                  {
+                        "label": "BISP registration check by CNIC guide",
+                        "href": "/bisp-registration-check-by-cnic-kaise-karein/"
+                  }
+            ]
+      },
+      {
+            "title": "8171 Web Portal Par Paise Check Karne Ka Step-by-Step Tarika",
+            "paragraphs": [
+                  "Official 8171 web portal Government of Pakistan ka certified aur muft online platform hai jahan har 24 ghante payment status live update hota hai. Yahan check karne ka tareeqa nihayat aasan hai:",
+                  "1. Apne mobile ya computer ke browser mein official link 8171.bisp.gov.pk open karein.\n2. Pehle box mein apna 13-hinson ka Shanakhti Card (CNIC) number baghair kisi dash (-) ke likhein.\n3. Dusre box mein samne tasveer (captcha) mein nazar aane wale 4-hinson ka code enter karein.\n4. Neeche diye gaye sabz button 'Maloom Karein' par click karein.",
+                  "Agar aap ki raqam jari ho chuki hai toh screen par 'Aap ki Kafaalat qist jari ho chuki hai, qareebi adayegi markaz se wasool karein' ka wazeh paigham zahir hoga. Agar qist abhi processing mein hai toh agle marhale ki tareekh batai jayegi."
+            ],
+            "table": {
+                  "caption": "BISP 8171 Check Karne Ke Mukhtalif Zariye Aur Unki Tafseelat",
+                  "headers": [
+                        "Zariya",
+                        "Charges",
+                        "Internet Ki Zaroorat",
+                        "Payment Status Detail"
+                  ],
+                  "rows": [
+                        [
+                              "8171 Web Portal",
+                              "Muft (Rs. 0)",
+                              "Haan",
+                              "Mukammal tafseel, qist ki raqam aur block status"
+                        ],
+                        [
+                              "8171 SMS Service",
+                              "Rs. 1 ta Rs. 2 + tax",
+                              "Nahi (Simple phone par chalega)",
+                              "Basic status (Aap ki raqam jari ho gayi hai ya nahi)"
+                        ],
+                        [
+                              "BISP Tehsil Desk",
+                              "Muft (Rs. 0)",
+                              "Nahi (In-person)",
+                              "Fingerprint test, PMT score aur re-survey status"
+                        ],
+                        [
+                              "BISP Helpline (0800-26477)",
+                              "Toll-Free (Muft)",
+                              "Nahi (Mobile/PTCL)",
+                              "Shikayat darj karwana aur kataoti report karna"
+                        ]
+                  ]
+            }
+      },
+      {
+            "title": "Mobile SMS Ke Zariye 8171 Se Paise Check Karne Ka Tarika",
+            "paragraphs": [
+                  "Jin khawateen ke paas smartphone ya internet ki sahulat mojood nahi hai, unke liye 8171 SMS service sab se asaan tareeqa hai. Is tareeqay mein kisi application ya link ki zaroorat nahi parti.",
+                  "Apne mobile ke SMS inbox mein jayen, New Message banayein aur apna 13-hinson ka CNIC number baghair space aur dash ke type karein (maslan: 3520112345671). Is paigham ko 8171 par send karein. Chand lamhon mein BISP ke sarkari system se jawab masool ho jayega.",
+                  "Khabardar: Sirf aur sirf 8171 se aane wale SMS par yaqeen karein. Kisi private mobile number (jaise 03xx-xxxxxxx) se aane wale lottery ya inaam ke SMS bilkul jaali aur fraud hote hain. BISP kabhi bhi kisi shakhsi number se raabta nahi karta."
+            ]
+      },
+      {
+            "title": "ATM Se BISP Ke Paise Nikalne Ka Asaan Biometric Tarika",
+            "paragraphs": [
+                  "Benazir Income Support Programme ne retailer dukanon par hone wali ghair-qanooni kataoti se bachane ke liye ATM biometric cash withdrawal ki sahulat faraham ki hai. Punjab, Sindh, Balochistan, aur KPK mein HBL aur Bank Alfalah ke ATMs is ke liye mukhtas hain.",
+                  "ATM se raqam nikalne ke ahem marahil yeh hain:",
+                  "1. Kisi bhi HBL ya Bank Alfalah biometric ATM par jayen (ATM card ki bilkul zaroorat nahi hai).\n2. ATM screen par 'Enter' ya green button dabayein aur zaban (Urdu) muntakhib karein.\n3. Screen par 'BISP' ya 'Benazir Kafaalat' ka icon select karein.\n4. Apna 13-hinson ka CNIC number screen par enter karein.\n5. Biometric scanner par apna angootha (thumb) ya ungli theek tarah se rakhein.\n6. Tasdeeq mukammal hone ke baad 'Balance Check' ya 'Raqam Ki Wasooli' (Cash Withdrawal) muntakhib karein.\n7. Raqam screen par zahir hogi. Poori raqam (maslan Rs. 10,500 ya Rs. 13,500) muntakhib karein aur machine se cash wasool karein.\n8. Machine se nikalne wali printed raseed zaroor hasil karein aur sambhal kar rakhein."
+            ],
+            "links": [
+                  {
+                        "label": "BISP biometric verification failed solution",
+                        "href": "/bisp-biometric-verification-failed/"
+                  },
+                  {
+                        "label": "BISP payment approved but no cash received fix",
+                        "href": "/bisp-payment-approved-but-no-cash-received/"
+                  }
+            ]
+      },
+      {
+            "title": "HBL Konnect Ya Retailer Se Paise Lete Waqt Ahem Hidayat (Kataoti Se Bachne Ka Hal)",
+            "paragraphs": [
+                  "Agar aap ke shehar mein biometric ATM mojood nahi hai aur aap kisi HBL Konnect agent ya registered BISP camp site se paise wasool kar rahi hain, toh darj zail baaton ka khas khayal rakhein:",
+                  "Hukumat ki taraf se BISP ki raqam par ek rupaye ki bhi kataoti jaiz nahi hai. Agent ko poori raqam ada karna lazmi hai. Kisi bhi agent ko 500 ya 1000 rupaye ki 'fee' ya 'service charges' na dein.",
+                  "Raqam lene ke baad agent ki device se nikalne wali printed machine slip zaroor talab karein. Slip par likhi hui raqam aur hath mein mili hui raqam ka mawazna karein. Agar agent slip dene se inkar kare ya raqam kam de, toh foran BISP tehsil office ya helpline par shikayat darj karwayen."
+            ]
+      },
+      {
+            "title": "BISP Ke Paise Check Karte Waqt Aam Masail Aur Unka Hal",
+            "paragraphs": [
+                  "Aksar khawateen ko paise check karte waqt chand aam masail ka samna karna parta hai:",
+                  "1. **Biometric Fingerprint Match Na Hona:** Barhi umar ki khawateen ya mehnat mazdoori karne walon ke angoothe ke nishanat ghis jate hain. Is surat mein ATM scanner ko saaf kapray se saaf karein aur ungli ko halka sa geela kar ke azmayen. Agar masla hal na ho, toh NADRA se biometric update karwayen ya Non-BVS form jama karein.",
+                  "2. **Error 933 Ya Record Block Hona:** Is ka matlab yeh hota hai ke aap ka shanakhti card expire ho chuka hai ya household record mein re-verification ki zaroorat hai. NADRA se naya card banwa kar BISP tehsil desk par update karwayen.",
+                  "3. **SMS 8171 Par Bheja Lekin Jawab Nahi Aaya:** Agar mobile balance na ho ya network congestion ho toh jawab dair se aa sakta hai. Is ka behtareen mutabadil official web portal (8171.bisp.gov.pk) par check karna hai jo foran status dikhata hai."
+            ]
+      }
+],
+    faqs: [
+      {
+            "question": "BISP 8171 ke paise check karne ke liye official portal link kya hai?",
+            "answer": "BISP paise check karne ka official portal link 8171.bisp.gov.pk hai, jahan aap apna 13-hinson ka CNIC aur captcha darj karke muft status maloom kar sakte hain."
+      },
+      {
+            "question": "Kya BISP ke paise kisi bhi bank ke ATM se nikal sakte hain?",
+            "answer": "Nahi, BISP ke biometric paise sirf un banks ke ATM se nikalte hain jinke paas BISP contract hai, jaise Habib Bank Limited (HBL) aur Bank Alfalah biometric ATMs."
+      },
+      {
+            "question": "Kya ATM se paise nikalne ke liye ATM card ki zaroorat hoti hai?",
+            "answer": "Nahi, BISP beneficiaries ke liye card-less biometric system mojood hai, jismein sirf CNIC number enter karke angootha lagane par cash nikal aata hai."
+      },
+      {
+            "question": "Agar agent BISP ki raqam mein se 500 rupaye kat le toh kahan shikayat karein?",
+            "answer": "Aap foran BISP ki toll-free helpline 0800-26477 par call karein ya apne qareebi BISP Tehsil Office mein agent ki shop ID ke sath likhi hui shikayat darj karwayen."
+      },
+      {
+            "question": "Kya 8171 ke ilawa kisi aur number se BISP ka SMS aa sakta hai?",
+            "answer": "Hargiz nahi. BISP ka koi bhi official SMS sirf 8171 se hi aata hai. Kisi private mobile number (03xx) se aane wale messages par yaqeen na karein."
+      },
+      {
+            "question": "Agar portal par 'Aap Kafaalat ke liye ahal hain lekin qist mojood nahi' likha aaye toh kya karein?",
+            "answer": "Is ka matlab hai ke aap eligible hain lekin nayi sah-mahi qist abhi banking system mein transfer nahi hui. Agli qist ki distribution shuru hote hi raqam transfer ho jayegi."
+      },
+      {
+            "question": "Kya BISP paise check karne ke koi charges hote hain?",
+            "answer": "Official web portal (8171.bisp.gov.pk) par check karna 100% muft hai. 8171 par SMS bhejne par taqreeban 1 se 2 rupaye standard mobile balance charge hota hai."
+      },
+      {
+            "question": "Agar angoothe ke nishanat ATM par match na hon toh kya kiya jaye?",
+            "answer": "Aap kisi doosre HBL/Bank Alfalah ATM par koshish karein. Agar musalsal na ho toh NADRA office ja kar biometrics update karein ya BISP desk se Non-BVS form hasil karein."
+      }
+],
+    officialLinks: [
+      {
+            "label": "8171 Official Web Portal",
+            "href": "https://8171.bisp.gov.pk/"
+      },
+      {
+            "label": "BISP Official Website",
+            "href": "https://www.bisp.gov.pk/"
+      },
+      {
+            "label": "BISP Complaint & Helpline Info",
+            "href": "https://www.bisp.gov.pk/ContactUs"
+      }
+]
+  },
+  {
+    slug: "bisp-kafaalat-13500-check-online-kaise-karein",
+    title: "BISP Kafaalat 13500 Check Online Kaise Karein: Nayi Qist, Release Date Aur Payment Status",
+    excerpt: "BISP Kafaalat ki barhai hui sah-mahi qist Rs. 13,500 check karne ke liye official 8171 web portal (8171.bisp.gov.pk) par apna 13-hinson ka CNIC number enter karein. Hukumat ne mehngai ke tanazur mein Kafaalat wazeefa barha kar Rs. 13,500 kar diya hai, jis ki marhalawar adayegi mukhtas bankon aur camp sites ke zariye jari hai.",
+    showExcerpt: true,
+    metaTitle: "BISP Kafaalat 13500 Check Online Kaise Karein: Payment Status & Dates",
+    metaDescription: "BISP Kafaalat 13500 check online kaise karein: 8171.bisp.gov.pk portal, nayi 13500 qist ki release date, eligibility criteria, aur ATM se cash wasooli ka mukammal tareeqa.",
+    focusKeyword: "bisp kafaalat 13500 check online kaise karein",
+    lsiKeywords: [
+      "benazir kafalat 13500 online check",
+      "bisp 13500 installment release date 2026",
+      "8171 web portal 13500 check by cnic",
+      "kafaalat payment bank alfalah hbl",
+      "bisp 13500 eligible status check"
+],
+    entities: [
+      "Benazir Income Support Programme",
+      "Benazir Kafaalat Programme",
+      "8171 Web Portal",
+      "Habib Bank Limited",
+      "Bank Alfalah",
+      "National Socio-Economic Registry",
+      "Federal Ministry of Poverty Alleviation"
+],
+    primaryCategory: "benazir-kafaalat",
+    categorySlugs: [
+      "benazir-kafaalat",
+      "8171",
+      "payment-check"
+],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "11 min read",
+    image: "/images/benazir-kafaalat.jpg",
+    imageAlt: "A Pakistani woman checking BISP Benazir Kafaalat 13500 installment online via smartphone",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+            "title": "BISP Kafaalat 13500 Check Online Kaise Karein? (Direct Answer Block)",
+            "paragraphs": [
+                  "BISP Kafaalat ki Rs. 13,500 sah-mahi qist online check karne ke liye 8171.bisp.gov.pk portal par jayen, apna 13-hinson ka CNIC number aur tasveer mein mojood 4-digit code darj karein, aur 'Maloom Karein' dabayein. Agar status mein 'Aap 13,500 ki raqam ke ahal hain aur raqam muntaqil ho chuki hai' likha ho toh aap qareebi ATM ya BISP payment center se cash hasil kar sakti hain.",
+                  "Federal Government ne Kafaalat quarterly stipend ko barha kar 13,500 rupaye kiya hai taake ghareeb khandanoun ko barhti hui mehngai mein behtar maali madad mil sakay. Yeh raqam marhalawar mukhtalif azla mein muntaqil ki ja rahi hai."
+            ],
+            "links": [
+                  {
+                        "label": "BISP 8171 paise check karne ka tarika guide",
+                        "href": "/bisp-8171-paise-check-karne-ka-tarika/"
+                  },
+                  {
+                        "label": "Benazir Kafaalat payment guide",
+                        "href": "/benazir-kafaalat-payment-guide/"
+                  }
+            ]
+      },
+      {
+            "title": "Benazir Kafaalat Qist Rs. 10,500 Se Barha Kar Rs. 13,500 Kyun Ki Gayi?",
+            "paragraphs": [
+                  "Benazir Income Support Programme ki bunyadi Kafaalat qist pehle Rs. 10,500 thi. Wafaqi hukumat aur BISP Board ne petrol, bijli aur bunyadi ashya-e-khord-o-nosh ki qeematon ko mad-de-nazar rakhte hue is raqam mein numayan izafa karne ki manzoori di.",
+                  "Is izafay se taqreeban 9.3 million se zayed registered mustahiq khandan mustafeed ho rahe hain. Yaad rahe ke yeh raqam har teen maah (quarterly) baad adaa ki jati hai aur is ke sath Taleemi Wazaif ke paise alag se shamil kiye jate hain."
+            ],
+            "table": {
+                  "caption": "Benazir Kafaalat Qist Ki Tareekh Aur Izafay Ka Mawazna",
+                  "headers": [
+                        "Daurania",
+                        "Sah-Mahi Qist Ki Raqam",
+                        "Status",
+                        "Eligibility Cutoff (PMT Score)"
+                  ],
+                  "rows": [
+                        [
+                              "Pichla Saal (2024-2025)",
+                              "Rs. 10,500",
+                              "Mukammal ada shuda",
+                              "PMT Score 32 ya is se kam"
+                        ],
+                        [
+                              "Mojooda Saal (2026)",
+                              "Rs. 13,500",
+                              "Jari (Live Distribution)",
+                              "PMT Score 32 ya is se kam"
+                        ],
+                        [
+                              "Special District Top-up",
+                              "Rs. 13,500 + Taleemi Wazaif",
+                              "Active",
+                              "Mustahiq khandan jinke bacchay school jatay hain"
+                        ]
+                  ]
+            }
+      },
+      {
+            "title": "8171 Web Portal Par 13500 Status Check Karne Ka Mukammal Tarika",
+            "paragraphs": [
+                  "13,500 rupaye ki qist check karne ke liye kisi daftar jane ki zaroorat nahi hai. Apne mobile se yeh aasan steps follow karein:",
+                  "1. Browser mein official website https://8171.bisp.gov.pk/ open karein.\n2. Screen par aane wale form mein apna CNIC baghair space ke darj karein.\n3. Samne tasveer mein diye gaye 4 hindsay captcha box mein likhein.\n4. Green button 'Check Status' par click karein.\n5. Agar aap ki 13500 ki payment approve ho chuki hai, toh screen par bank ka naam (HBL ya Bank Alfalah) aur disbursement status zahir hoga."
+            ]
+      },
+      {
+            "title": "13500 Qist Ki Release Date Aur Marhalawar Adayegi (Schedule)",
+            "paragraphs": [
+                  "BISP kisi bhi nayi sah-mahi qist ki adayegi ek sath poore mulk mein shuru nahi karta balke do ya teen marhalon (phases) mein karta hai taake payment centers par rush aur bad-nazmi na ho.",
+                  "Pehle marhale mein Punjab, Sindh, KPK, aur Balochistan ke aadhay azla shamil kiye jate hain, jabke doosre marhale mein baqi azla aur door-daraz ilaqon ko raqam bheji jati hai. Agar aap ke ilaqay mein abhi adayegi shuru nahi hui toh aap ko 8171 par 'Aap ki qist agle marhale mein jari hogi' ka message miley ga."
+            ]
+      },
+      {
+            "title": "13500 Ki Poori Raqam Biometric ATM Se Kaise Wasool Karein?",
+            "paragraphs": [
+                  "Benazir Kafaalat ki Rs. 13,500 qist wasool karne ka sab se mehfooz tareeqa bank biometric ATM hai. Punjab aur Sindh mein HBL ATMs, jabke KPK aur Balochistan mein Bank Alfalah ke ATMs par yeh sahulat dastiyab hai.",
+                  "ATM par ja kar screen par BISP icon dabayein, 13 hinson ka CNIC likhein, biometric scanner par angootha lagayein aur 13,500 rupaye cash wasool karein. ATM se machine slip zaroor hasil karein jahan balance Rs. 0 aur wasool shuda raqam Rs. 13,500 darj hoti hai."
+            ]
+      },
+      {
+            "title": "Agar Portal Par Status 'Ahal' Aaye Lekin 13500 Na Milein Toh Kya Karein?",
+            "paragraphs": [
+                  "Agar aap 8171 portal par Kafaalat ke liye eligible hain lekin aap ke account mein 13500 transfer nahi hue, toh is ki 3 ahem wajuhat ho sakti hain:",
+                  "1. **Payment Phase Baqi Hai:** Aap ka zila abhi pehle marhale mein shamil nahi hua. 7 se 10 din baad dobara check karein.\n2. **NADRA CNIC Renewal:** Agar aap ka shanakhti card expire ho chuka hai toh BISP system foran raqam rok leta hai. Card renew karwane ke baad record sync hone mein 15 din lagte hain.\n3. **NSER Dynamic Re-survey:** BISP har 3 saal baad beneficiaries ka survey update karta hai. Agar aap ko survey karwane ka notice mila tha aur aap ne survey nahi karwaya, toh foran qareebi BISP Tehsil Desk par survey karwayen."
+            ],
+            "links": [
+                  {
+                        "label": "Why was my Benazir Kafaalat case paused reasons",
+                        "href": "/benazir-kafaalat-case-paused-reasons/"
+                  },
+                  {
+                        "label": "Check BISP account status guide",
+                        "href": "/check-bisp-account-status/"
+                  }
+            ]
+      }
+],
+    faqs: [
+      {
+            "question": "BISP Kafaalat 13500 qist kab se milna shuru hui hai?",
+            "answer": "BISP Kafaalat ki nayi 13500 sah-mahi qist hukumat ki taraf se manzoor shuda schedule ke mutabiq marhalawar jari ki ja rahi hai, jis ka status 8171 portal par check kiya ja sakta hai."
+      },
+      {
+            "question": "Kya sab khawateen ko 13500 rupaye milenge?",
+            "answer": "Nahi, sirf woh khawateen jinka NSER PMT poverty score 32 ya is se kam hai aur jo Benazir Kafaalat mein pehle se regular registered hain, unhi ko 13500 ki qist milti hai."
+      },
+      {
+            "question": "Kya Taleemi Wazaif ke paise 13500 ke andar shamil hain?",
+            "answer": "Nahi, Taleemi Wazaif ki raqam 13500 Kafaalat wazeefa ke ilawa hoti hai. Agar bacchon ki haziri 70% ho toh Taleemi Wazaif ki raqam Kafaalat qist ke sath jama ho kar milti hai."
+      },
+      {
+            "question": "8171 portal par 13500 check karne ka link kya hai?",
+            "answer": "Official status check karne ka link 8171.bisp.gov.pk hai. Yahan apna CNIC aur captcha code enter karke foran check kiya ja sakta hai."
+      },
+      {
+            "question": "Kya retailer 13500 mein se 500 ya 1000 rupaye kaat sakta hai?",
+            "answer": "Bilkul nahi. Kisi bhi agent ko 1 rupaya bhi kataoti karne ki ijazat nahi hai. Poori 13,500 raqam wasool karein aur kataoti par 0800-26477 par shikayat darj karein."
+      },
+      {
+            "question": "Agar ATM par biometric match na ho toh 13500 kaise mileinge?",
+            "answer": "Aap doosre ATM par try karein ya registered BISP tehsil campsite par biometric verification officer se tasdeeq karwa kar cash wasool karein."
+      },
+      {
+            "question": "Kya 13500 check karne ke liye mobile par balance hona zaroori hai?",
+            "answer": "Web portal (8171.bisp.gov.pk) par check karne ke liye mobile balance ki zaroorat nahi hoti, sirf internet connection hona chahiye."
+      },
+      {
+            "question": "Agar CNIC expire ho gaya ho toh kya 13500 ki qist zaya ho jayegi?",
+            "answer": "Raqam zaya nahi hoti, balke hold par chali jati hai. Naya CNIC banwa kar BISP desk par update karwane ke baad pichli ruki hui raqam bhi mil jati hai."
+      }
+],
+    officialLinks: [
+      {
+            "label": "8171 Official Web Portal",
+            "href": "https://8171.bisp.gov.pk/"
+      },
+      {
+            "label": "Benazir Income Support Programme",
+            "href": "https://www.bisp.gov.pk/"
+      },
+      {
+            "label": "BISP Kafaalat Official Information",
+            "href": "https://www.bisp.gov.pk/BenazirKafaalat"
+      }
+]
+  },
+  {
+    slug: "bisp-new-registration-form-online-apply-kaise-karein",
+    title: "BISP New Registration Form Online Apply Kaise Karein: NSER Dynamic Survey & Tehsil Desk Guide",
+    excerpt: "BISP new registration form online apply karne ke hawalay se sach yeh hai ke BISP ka koi public online application form mojood nahi hai. Registration sirf BISP Tehsil Office mein NSER Dynamic Registry desk par in-person survey ke zariye hoti hai. Yahan zaroori kaghazaat, PMT score cutoff aur registration ka mukammal tareeqa samjhein.",
+    showExcerpt: true,
+    metaTitle: "BISP New Registration Form Online Apply Kaise Karein: NSER Survey",
+    metaDescription: "BISP new registration form online apply kaise karein: Kya online form mojood hai? BISP tehsil office dynamic registry, zaroori kaghazaat aur PMT cutoff ka sach.",
+    focusKeyword: "bisp new registration form online apply kaise karein",
+    lsiKeywords: [
+      "bisp registration form online apply 2026",
+      "benazir income support program dynamic survey form",
+      "bisp tehsil office registration documents",
+      "nser dynamic registry registration process",
+      "bisp online form fake links warning"
+],
+    entities: [
+      "Benazir Income Support Programme",
+      "National Socio-Economic Registry",
+      "Dynamic Registry Survey",
+      "National Database and Registration Authority",
+      "Proxy Means Test Score",
+      "BISP Tehsil Registration Desk"
+],
+    primaryCategory: "bisp-registration",
+    categorySlugs: [
+      "bisp-registration",
+      "8171",
+      "nser-pmt-score"
+],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "12 min read",
+    image: "/images/bisp-registration.jpg",
+    imageAlt: "A Pakistani woman filling out the BISP dynamic registration survey form at a Tehsil office desk",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+            "title": "BISP New Registration Form Online Apply Kaise Karein? (Haqeeqat Aur Direct Answer)",
+            "paragraphs": [
+                  "BISP new registration form online apply karne ka koi sarkari internet portal mojood nahi hai. Benazir Income Support Programme ne wazeh kiya hai ke awam kisi bhi website, mobile app ya online link par apna shanakhti card aur data darj na karein kyunke online form bilkul jaali hain.",
+                  "BISP mein new registration ka wahid qanooni tareeqa yeh hai ke gharana ki khatoon sarbarah apne qareebi BISP Tehsil Office mein qaaim NSER Dynamic Registry Desk par ja kar in-person biometric survey mukammal karwaye. Yeh survey 100% muft hota hai."
+            ],
+            "links": [
+                  {
+                        "label": "BISP online registration mistakes guide",
+                        "href": "/bisp-online-registration-mistakes/"
+                  },
+                  {
+                        "label": "How to register BISP online guide",
+                        "href": "/how-to-register-bisp-online-guide/"
+                  }
+            ]
+      },
+      {
+            "title": "Online Registration Form Ke Naam Par Honay Wale Fraud Se Hoshiyar",
+            "paragraphs": [
+                  "Social media (Facebook, WhatsApp, TikTok) par mukhtalif ghair-tasdeeq shuda links gardish karte hain jahan dawah kiya jata hai ke 'Ghar baithe BISP form online bharein aur 25000 wasool karein'. Yeh tamam links phishing aur data chori ke zariye hote hain.",
+                  "BISP na toh kisi Google Form ke zariye dakhila karta hai, na hi koi APK app download karne ko kehta hai, aur na hi registration ke naam par Rs. 500 ya Rs. 1000 fee mangta hai. BISP registration sirf official tehsil center par automated tablet computer ke zariye hoti hai."
+            ]
+      },
+      {
+            "title": "BISP Dynamic Survey Desk Par Registration Ka Step-by-Step Amal",
+            "paragraphs": [
+                  "Agar aap ne pehle BISP survey nahi karwaya ya aap ka survey 3 saal purana ho chuka hai, toh darj zail tareeqay se registration karwayen:",
+                  "1. **Token Hasil Karein:** Subah 8:00 se 2:00 baje ke darmiyan apne qareebi BISP Tehsil Office jayen aur reception se survey token lein.\n2. **Kaghazaat Ki Check:** BISP staff aap ka asal CNIC aur bacchon ke NADRA B-Form check karega.\n3. **Data Entry & Sawalat:** Data Entry Operator aap ke gharaney ki aamdani, afrad ki tadaad, zameen, bijli/gas ke bill aur makaan ke baray mein 30 se zayed sawalat pochega.\n4. **Biometric Verification:** Operator biometric device par aap ke angoothe ke nishanat register karega.\n5. **Affidavit & Confirmation:** Form mukammal hone ke baad aap ko ek printed raseed di jayegi jis par aap ka survey tracking number darj hoga."
+            ],
+            "table": {
+                  "caption": "BISP Registration: Zaroori Kaghazaat Ki Mukammal Fehrist",
+                  "headers": [
+                        "Kaghaz Ka Naam",
+                        "Kis Idaray Ka Ho",
+                        "Asal Ya Copy",
+                        "Kyun Zaroori Hai"
+                  ],
+                  "rows": [
+                        [
+                              "Khatoon Ka CNIC",
+                              "NADRA (Ghair-myaadi/Valid)",
+                              "Asal (Original) lazmi",
+                              "Bunyadi shanakht aur biometric verification"
+                        ],
+                        [
+                              "Bacchon Ke B-Form / CRC",
+                              "NADRA",
+                              "Asal (Original) lazmi",
+                              "Taleemi Wazaif aur gharaney ki tadaad ke liye"
+                        ],
+                        [
+                              "Bijli Ya Gas Ka Bill",
+                              "WAPDA / SNGPL / SSGC",
+                              "Aakhri maah ka bill",
+                              "Gharaney ke ikhrajat aur PMT score ta'ayyun"
+                        ],
+                        [
+                              "Shohar Ka Death Certificate",
+                              "Union Council / NADRA",
+                              "Agar baywah (widow) hon",
+                              "Special widow priority category mein shamil hone ke liye"
+                        ],
+                        [
+                              "Disability Certificate",
+                              "Social Welfare / NADRA",
+                              "Agar maazoor afrad hon",
+                              "Himmat Card aur special relaxation ke liye"
+                        ]
+                  ]
+            }
+      },
+      {
+            "title": "NSER Survey Ke Baad PMT Score Kaise Banta Hai?",
+            "paragraphs": [
+                  "BISP registration form bharwane ke baad aap ka data central server par transfer hota hai jahan Proxy Means Test (PMT) algorithm gharaney ka poverty score nikalta hai.",
+                  "PMT score 0 se 100 ke darmiyan hota hai. Benazir Kafaalat ke liye eligibility cutoff 32 points muqarrar hai. Agar aap ka PMT score 32 ya is se kam ho, toh aap ko ahal qarar de kar qist jari kar di jati hai. Agar score 32 se ooper ho toh system na-ahal qarar deta hai."
+            ],
+            "links": [
+                  {
+                        "label": "What is PMT score complete guide",
+                        "href": "/what-is-pmt-score/"
+                  },
+                  {
+                        "label": "What counts as a good PMT score",
+                        "href": "/what-counts-as-a-good-pmt-score/"
+                  }
+            ]
+      },
+      {
+            "title": "Registration Ke Kitne Din Baad Status 8171 Par Check Karein?",
+            "paragraphs": [
+                  "Dynamic survey mukammal hone ke baad NADRA aur BISP verification mein aam taur par 45 se 90 din (taqreeban 2 se 3 maah) lagte hain. Is dauran FBR data, gariyon ki malkiyat aur passport/foreign travel ka data cross-check hota hai.",
+                  "Registration ke 2 maah baad aap official web portal (8171.bisp.gov.pk) par apna CNIC daal kar check karein. Agar survey mukammal ho chuka hoga toh aap ka PMT score aur eligibility status wahan show ho jayega."
+            ]
+      }
+],
+    faqs: [
+      {
+            "question": "Kya BISP new registration ka koi online form internet par mojood hai?",
+            "answer": "Nahi, BISP ka koi public online apply form nahi hai. Registration sirf BISP Tehsil Desk par in-person survey ke zariye hoti hai."
+      },
+      {
+            "question": "BISP registration form ki fee kitni hoti hai?",
+            "answer": "BISP registration aur NSER dynamic survey 100% muft hai. Koi bhi officer ya agent fee lene ka majaz nahi hai."
+      },
+      {
+            "question": "BISP mein apply karne ke liye sab se ahem kaghazaat kaun se hain?",
+            "answer": "Khatoon ka asal CNIC, tamaam bacchon ke NADRA B-Form, gharaney ke bijli ya gas ka taaza tareen bill aur active mobile phone number."
+      },
+      {
+            "question": "Kya mard hazraat BISP registration ke liye apply kar sakte hain?",
+            "answer": "BISP Kafaalat qawaneen ke mutabiq bunyadi beneficiary sirf khandan ki ahal khatoon (bivi, maa, ya baywah) hi hoti hai. Mard hazraat sirf bator head of family data mein shamil hote hain."
+      },
+      {
+            "question": "Agar kisi khatoon ka shanakhti card expire ho gaya ho toh kya registration ho sakti hai?",
+            "answer": "Nahi, expired card par biometric survey system data accept nahi karta. Pehle NADRA se card renew karwayen, phir BISP desk jayen."
+      },
+      {
+            "question": "Registration ke kitne din baad pehli qist milti hai?",
+            "answer": "Survey data verification aur PMT score nikalne mein aam taur par 2 se 3 maah lagte hain. Ahal qarar diye jane par agli sah-mahi qist mein raqam muntaqil hoti hai."
+      },
+      {
+            "question": "Agar survey ke baad na-ahal (ineligible) likha aaye toh kya dobara apply kar sakte hain?",
+            "answer": "Agar aap ka PMT score 32 se zayed aa jaye toh aap 2 saal baad dobara dynamic survey desk par ja kar re-survey karwa sakte hain."
+      },
+      {
+            "question": "BISP Tehsil Office ka waqt kya hota hai?",
+            "answer": "BISP Tehsil Offices peer ta juma subah 8:00 baje se dopehar 2:00 baje tak khulay hotay hain. Token hasil karne ke liye subah jaldi jana behtar hota hai."
+      }
+],
+    officialLinks: [
+      {
+            "label": "8171 Web Portal Status Check",
+            "href": "https://8171.bisp.gov.pk/"
+      },
+      {
+            "label": "BISP Registration Information",
+            "href": "https://www.bisp.gov.pk/Registration"
+      },
+      {
+            "label": "BISP Tehsil Office Directory",
+            "href": "https://www.bisp.gov.pk/TehsilOffices"
+      }
+]
+  },
+  {
+    slug: "benazir-taleemi-wazaif-form-download-tarika",
+    title: "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika: School Slip & Tehsil Verification",
+    excerpt: "Benazir Taleemi Wazaif ka school dakhila tasdeeq form (Admission Certificate Slip) BISP Tehsil Office se muft hasil kiya jata hai. School headmaster se tasdeeq aur stamp lagwane ke baad form jama karne ka mukammal tarika, primary ta higher secondary ke wazaif ki nayi raqam aur 70% attendance shart yahan samjhein.",
+    showExcerpt: true,
+    metaTitle: "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika",
+    metaDescription: "Benazir Taleemi Wazaif form download aur jama karne ka tarika: School dakhila tasdeeq slip, B-Form verification, primary ta higher secondary stipend amounts aur submission guide.",
+    focusKeyword: "benazir taleemi wazaif form download aur jama karne ka tarika",
+    lsiKeywords: [
+      "taleemi wazaif admission slip download",
+      "benazir taleemi wazaif form kahan se milega",
+      "taleemi wazaif school headmaster stamp",
+      "bisp child stipend enrollment procedure",
+      "taleemi wazaif 70 percent attendance requirement"
+],
+    entities: [
+      "Benazir Taleemi Wazaif",
+      "Benazir Income Support Programme",
+      "Primary to Higher Secondary Education Stipend",
+      "School Admission Verification Slip",
+      "National Database and Registration Authority",
+      "Child Registration Certificate B-Form"
+],
+    primaryCategory: "taleemi-wazaif",
+    categorySlugs: [
+      "taleemi-wazaif",
+      "8171",
+      "bisp-registration"
+],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "10 min read",
+    image: "/images/taleemi-wazaif.jpg",
+    imageAlt: "A school student holding the Benazir Taleemi Wazaif admission verification certificate slip in Pakistan",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+            "title": "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika (Direct Answer Block)",
+            "paragraphs": [
+                  "Benazir Taleemi Wazaif ka dakhila form (School Verification Slip) kisi aam website se download nahi hota balke yeh BISP Tehsil Office ke system se har bacchay ke B-Form par barcode ke sath generate hota hai. Yeh slip BISP Tehsil Desk se bilkul muft milti hai.",
+                  "Form hasil karne ke baad bacchay ke sarkari ya registered niji school ke headmaster se dakhila number, class aur principal ka daskhat-o-mohr (stamp) lagwayen. Is ke baad asal slip BISP Tehsil Office mein jama karwayen taake bacchay ka sah-mahi wazeefa Kafaalat qist ke sath shuru ho sakay."
+            ],
+            "links": [
+                  {
+                        "label": "Benazir Taleemi Wazaif check online by CNIC guide",
+                        "href": "/benazir-taleemi-wazaif-check-online-by-cnic/"
+                  },
+                  {
+                        "label": "Taleemi Wazaif registration guide",
+                        "href": "/taleemi-wazaif-registration-guide/"
+                  }
+            ]
+      },
+      {
+            "title": "Taleemi Wazaif Ke Liye Ahal Bacchay Kaun Hain? (Eligibility Conditions)",
+            "paragraphs": [
+                  "Benazir Taleemi Wazaif mein har bacha shamil nahi ho sakta. Is ke liye darj zail 3 bunyadi sharait lazmi hain:",
+                  "1. **Maa Ka BISP Kafaalat Beneficiary Hona:** Bacchay ki walida ka Benazir Kafaalat programme mein active aur ahal hona lazmi hai.\n2. **B-Form Tasdeeq:** Bacchay ka NADRA se jari shuda Child Registration Certificate (B-Form) mojood ho aur maa ke shanakhti card ke sath link ho.\n3. **Umar Aur Class Ki Hadh:** Bacchay ki umar Primary (4 ta 12 saal), Middle (8 ta 15 saal), Secondary/Matric (13 ta 18 saal), aur Higher Secondary (15 ta 20 saal) ke darmiyan ho."
+            ]
+      },
+      {
+            "title": "School Dakhila Tasdeeq Slip Kaise Bharein? (Step-by-Step)",
+            "paragraphs": [
+                  "Jab aap BISP Tehsil Desk se bacchay ki printed enrollment slip hasil karein, toh is mein darj zail khaney school intizamia se pur karwayen:",
+                  "1. **School Ka Naam Aur EMIS Code:** Sarkari school ka EMIS code ya registered private school ka registration number likhein.\n2. **Bacchay Ka Dakhila Number (Admission/Reg No):** School register mein bacchay ka jo dakhila number hai woh darj karein.\n3. **Mojooda Class Aur Section:** Bacha jis class mein parh raha hai (maslan Class 4-A).\n4. **Headmaster / Principal Ka Daskhat Aur Stamp:** School ke sarbarah ka daskhat aur school ki gol mohr (official round seal) lagwana laazmi hai. Baghair mohr ke form reject ho jata hai."
+            ]
+      },
+      {
+            "title": "Primary Se Higher Secondary Wazaif Ki Nayi Raqam (Girls vs Boys)",
+            "paragraphs": [
+                  "Government of Pakistan ne larkiyon ki taleem ko farogh dene ke liye tamam darjaat mein larkiyon ka wazeefa larkon se zyada muqarrar kiya hai. Is ke ilawa Primary taleem mukammal karne par larkiyon ko Rs. 3,000 ka aik dafa Graduation Bonus bhi diya jata hai."
+            ],
+            "table": {
+                  "caption": "Benazir Taleemi Wazaif Ki Nayi Sah-Mahi (Quarterly) Raqam",
+                  "headers": [
+                        "Taleemi Marhala (Level)",
+                        "Larka (Boys)",
+                        "Larki (Girls)",
+                        "Attendance Shart"
+                  ],
+                  "rows": [
+                        [
+                              "Primary (Class 1 ta 5)",
+                              "Rs. 2,500",
+                              "Rs. 3,000",
+                              "Kam az kam 70% haziri"
+                        ],
+                        [
+                              "Middle (Class 6 ta 8)",
+                              "Rs. 3,500",
+                              "Rs. 4,000",
+                              "Kam az kam 70% haziri"
+                        ],
+                        [
+                              "Secondary / Matric (Class 9 ta 10)",
+                              "Rs. 4,500",
+                              "Rs. 5,000",
+                              "Kam az kam 70% haziri"
+                        ],
+                        [
+                              "Higher Secondary / Inter (Class 11 ta 12)",
+                              "Rs. 5,500",
+                              "Rs. 6,000",
+                              "Kam az kam 70% haziri"
+                        ],
+                        [
+                              "Primary Graduation Bonus",
+                              "N/A",
+                              "Rs. 3,000 (One-time)",
+                              "Primary pass karne par"
+                        ]
+                  ]
+            }
+      },
+      {
+            "title": "Form Jama Karwane Ke Baad Wazeefa Kab Shuru Hota Hai?",
+            "paragraphs": [
+                  "School slip BISP Tehsil Office mein jama karne ke baad bacchay ka status 'Enrolled' ho jata hai. Is ke baad BISP ka Compliance Monitor har maah school se bacchay ki haziri ka record hasil karta hai.",
+                  "Agar bacchay ki attendance kam az kam 70 feesad ho, toh agle sah-mahi cycle mein maa ki Benazir Kafaalat qist (Rs. 13,500) ke sath bacchay ke Taleemi Wazaif ke paise khud-ba-khud account mein jama ho kar ATM par show ho jate hain."
+            ],
+            "links": [
+                  {
+                        "label": "BISP registration check by CNIC dynamic survey guide",
+                        "href": "/bisp-registration-check-by-cnic-kaise-karein/"
+                  },
+                  {
+                        "label": "Check BISP status by CNIC online",
+                        "href": "/check-bisp-status-by-cnic-online/"
+                  }
+            ]
+      }
+],
+    faqs: [
+      {
+            "question": "Benazir Taleemi Wazaif ka form kahan se milta hai?",
+            "answer": "Taleemi Wazaif ka enrollment form (school slip) kisi dukan ya website se nahi milta, yeh sirf BISP Tehsil Office ke registration desk se muft milta hai."
+      },
+      {
+            "question": "Kya private school ke bacchon ko Taleemi Wazaif milte hain?",
+            "answer": "Haan, agar private school government ke District Education Department se baqaida registered ho aur bacchay ki 70% haziri tasdeeq kare."
+      },
+      {
+            "question": "Kya ek maa ke sab bacchon ke wazaif lag sakte hain?",
+            "answer": "Haan, ahal khatoon ke tamam parhne wale bacchon (primary ta higher secondary) ke alag alag forms jama karwa kar sab ke wazaif lagwaye ja sakte hain."
+      },
+      {
+            "question": "School slip par kis ke sign aur stamp zaroori hain?",
+            "answer": "School ke headmaster ya principal ke daskhat aur school ki official gol mohr (round stamp) hona laazmi hai."
+      },
+      {
+            "question": "Bacchay ka wazeefa aana kyun band ho jata hai?",
+            "answer": "Agar bacchay ki school mein teen maah ki majmooi haziri 70% se kam ho jaye ya bacha school chor de, toh system khud-ba-khud wazeefa rok deta hai."
+      },
+      {
+            "question": "Kya form jama karwane ke koi charges hain?",
+            "answer": "Nahi, slip lene se lekar jama karwane tak poora process 100% muft hai. Kisi ko koi fees na dein."
+      },
+      {
+            "question": "Agar bacha doosre school mein dakhila le le toh kya karein?",
+            "answer": "Aap ko BISP Tehsil Office ja kar bacchay ka naya school update karwana hoga aur naye school se fresh slip jama karwani hogi."
+      },
+      {
+            "question": "B-Form mein walida ka naam galat ho toh kya form jama hoga?",
+            "answer": "Nahi, B-Form aur walida ke CNIC ka data match hona zaroori hai. Agar naam mein farq ho toh pehle NADRA se B-Form durust karwayen."
+      }
+],
+    officialLinks: [
+      {
+            "label": "Benazir Taleemi Wazaif Portal",
+            "href": "https://8171.bisp.gov.pk/"
+      },
+      {
+            "label": "BISP Taleemi Wazaif Guidelines",
+            "href": "https://www.bisp.gov.pk/TaleemiWazaif"
+      },
+      {
+            "label": "NADRA B-Form Verification",
+            "href": "https://www.nadra.gov.pk/"
+      }
+]
+  },
+  {
+    slug: "bisp-helpline-number-complaint-kaise-darj-karein",
+    title: "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477, Agent Katauti & Biometric Fix",
+    excerpt: "BISP toll-free helpline number 0800-26477 par muft call karke agent katauti, biometric fingerprint mismatch, Error 933 ya payment block hone ki complaint darj karwane ka mukammal tareeqa samjhein. BISP monitoring cell mein shikayat darj karwa kar tracking number hasil karein aur fori azala payen.",
+    showExcerpt: true,
+    metaTitle: "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477 Guide",
+    metaDescription: "BISP helpline number complaint kaise darj karein: 0800-26477 toll-free call, retailer katauti reporting, biometric fingerprint issue aur Tehsil complaint cell guide.",
+    focusKeyword: "bisp helpline number complaint kaise darj karein",
+    lsiKeywords: [
+      "bisp toll free helpline 0800-26477",
+      "bisp agent katauti complaint kaise karein",
+      "bisp biometric verification problem complaint",
+      "bisp portal online complaint portal",
+      "8171 complaint tracking number status"
+],
+    entities: [
+      "Benazir Income Support Programme",
+      "BISP Toll-Free Helpline 0800-26477",
+      "BISP Grievance Redressal and Monitoring Cell",
+      "Pakistan Citizen's Portal",
+      "BISP Tehsil Complaint Desk",
+      "Federal Ombudsman Pakistan"
+],
+    primaryCategory: "payment-check",
+    categorySlugs: [
+      "payment-check",
+      "8171",
+      "benazir-kafaalat"
+],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "11 min read",
+    image: "/images/bisp-login.jpg",
+    imageAlt: "A beneficiary speaking to BISP customer support helpline agent to lodge a payment complaint in Pakistan",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+            "title": "BISP Helpline Number Complaint Kaise Darj Karein? (Direct Answer Block)",
+            "paragraphs": [
+                  "BISP ke khilaf kisi bhi qisam ki shikayat (maslan agent katauti, payment block, ya fingerprint issue) darj karwane ke liye BISP ki official toll-free helpline 0800-26477 par call karein. Yeh call kisi bhi PTCL landline ya mobile SIM se bilkul muft (Rs. 0) hoti hai.",
+                  "Call milne par numainday ko apna 13-hinson ka CNIC number, maslay ki noiyat aur mutaliqa agent ya markaz ki maloomat darj karwayen. Shikayat darj hone par aap ko SMS ke zariye Complaint Tracking Number miley ga jis se aap 7 se 14 dinon mein apni shikayat ki peshraft maloom kar sakte hain."
+            ],
+            "links": [
+                  {
+                        "label": "BISP payment approved but no cash received fix",
+                        "href": "/bisp-payment-approved-but-no-cash-received/"
+                  },
+                  {
+                        "label": "BISP biometric verification failed solution",
+                        "href": "/bisp-biometric-verification-failed/"
+                  }
+            ]
+      },
+      {
+            "title": "BISP Official Helpline 0800-26477 Par Call Milne Ka Asaan Tareeqa",
+            "paragraphs": [
+                  "Aksar auqat helpline par traffic zyada hone ki waja se call hold par chali jati hai. Call jaldi connect karne ke liye darj zail tips follow karein:",
+                  "1. Apne mobile se **080026477** dial karein (aage kisi code ki zaroorat nahi hai).\n2. Zaban ke intikhab ke liye 1 dabayein (Urdu).\n3. Benazir Kafaalat shikayat ke liye mutaliqa number dabayein.\n4. BISP Call Center agent se baat karne ke liye 0 dabayein.\n5. Subah 9:00 baje se 11:00 baje ke darmiyan call karein kyunke is waqt line kam masroof hoti hai."
+            ],
+            "table": {
+                  "caption": "BISP Shikayat Darj Karwane Ke Rasmi Channels",
+                  "headers": [
+                        "Shikayat Ka Zariya",
+                        "Kharch",
+                        "Time Frame",
+                        "Kis Maslay Ke Liye Behtareen"
+                  ],
+                  "rows": [
+                        [
+                              "Helpline 0800-26477",
+                              "Muft (Toll-Free)",
+                              "Foran darj, 7 din mein hal",
+                              "Retailer katauti, payment inquiry, helpline advice"
+                        ],
+                        [
+                              "BISP Tehsil Desk",
+                              "Muft (In-person)",
+                              "Maoqe par hal ya token",
+                              "Fingerprint failure, Non-BVS form, expired CNIC"
+                        ],
+                        [
+                              "Online Portal (bisp.gov.pk)",
+                              "Muft (Internet)",
+                              "24 ghante mein response",
+                              "Written proof, raseed upload, fraud reporting"
+                        ],
+                        [
+                              "Pakistan Citizen Portal",
+                              "Muft (App)",
+                              "15 din mein review",
+                              "Afra-tafri, bribe ya BISP staff ke rawaiye ki shikayat"
+                        ]
+                  ]
+            }
+      },
+      {
+            "title": "Agent Ya Retailer Ki Ghair-Qanooni Kataoti (Rs. 500-1000) Ki Complaint",
+            "paragraphs": [
+                  "BISP ke qawaneen ke tehat kisi bhi retailer, franchise ya HBL Konnect agent ko 1 rupaye ki kataoti ka bhi haq nahi hai. Agar koi dukaandar aap ki raqam (maslan Rs. 10,500 ya Rs. 13,500) mein se 500 ya 1000 rupaye kaat raha hai, toh yeh sangeen jurm hai.",
+                  "Complaint darj karte waqt yeh 4 cheezein note karein:\n- Agent ki dukan ka naam aur pata.\n- Agent ka POS Device Machine Number ya HBL Konnect Agent ID.\n- Adayegi ki tareekh aur waqt.\n- Agent ne jo kataoti ki uski printed slip ya raseed (agar di ho).",
+                  "BISP Monitoring Cell aisi shikayat par foran action leta hai, agent ki device block karta hai aur deducted cash beneficiary ko wapas dilwata hai."
+            ]
+      },
+      {
+            "title": "Biometric Fingerprint Mismatch Aur Error 933 Ki Shikayat",
+            "paragraphs": [
+                  "Agar ATM ya retailer par baar baar 'Biometric Verification Failed' ya 'Error 93' / 'Error 99' aa raha ho, toh helpline par call karke 'Fingerprint Issue' darj karwayen.",
+                  "Call agent aap ka masla BISP Operations Cell ko forward karega jo aap ko qareebi Tehsil Office mein 'Non-BVS Verification' ya NADRA biometric bypass counter par refer karega taake angoothe ke baghair aap ko special cheque ya counter se raqam ada ki ja sakay."
+            ]
+      },
+      {
+            "title": "BISP Online Complaints Cell Aur Regional Offices Ke Rabtah Numbers",
+            "paragraphs": [
+                  "Helpline ke ilawa BISP ke har soobay mein Regional Complaints Directorates qaaim hain:",
+                  "- **Punjab Regional Office:** 042-99232353\n- **Sindh Regional Office:** 021-99244011\n- **KPK Regional Office:** 091-9213841\n- **Balochistan Regional Office:** 081-9202534\n- **Headquarters Islamabad:** BISP F-Block, Pak Secretariat, Islamabad.",
+                  "Agar helpline par masla hal na ho toh aap apne mutaliqa Regional Director ko written darkhwast bhej sakte hain."
+            ]
+      },
+      {
+            "title": "Complaint Darj Hone Ke Baad Status Track Kaise Karein?",
+            "paragraphs": [
+                  "Jab aap ki shikayat darj ho jati hai, toh aap ke registered mobile number par BISP-Complaint ka SMS aata hai jismein 8-digit tracking ID (maslan: BISP-2026-98124) likhi hoti hai.",
+                  "Aap 5 din baad dobara 0800-26477 dial karke apna Complaint Number bata kar live status maloom kar sakte hain. BISP policy ke mutabiq kataoti ki shikayat 7 din ke andar hal karna lazmi hai."
+            ],
+            "links": [
+                  {
+                        "label": "BISP ID card check and blocked CNIC fix",
+                        "href": "/bisp-id-card-check/"
+                  },
+                  {
+                        "label": "Check BISP account status guide",
+                        "href": "/check-bisp-account-status/"
+                  }
+            ]
+      }
+],
+    faqs: [
+      {
+            "question": "BISP ki official helpline ka number kya hai?",
+            "answer": "BISP ki official toll-free helpline ka number 0800-26477 hai, jo mobile aur landline dono se muft milta hai."
+      },
+      {
+            "question": "Kya BISP helpline par call karne ke paise katte hain?",
+            "answer": "Nahi, 0800 numbers toll-free hote hain, is par call karne par ek rupaye ka balance bhi nahi lagta."
+      },
+      {
+            "question": "Helpline par call milane ke behtareen auqat kya hain?",
+            "answer": "Peer ta juma subah 9:00 baje se dopehar 1:00 baje ke darmiyan call milane par foran rabtah ho jata hai."
+      },
+      {
+            "question": "Agar agent kataoti kar le toh kya deducted raqam wapas milti hai?",
+            "answer": "Haan, agar aap ke paas agent ki maloomat ho aur complaint tasdeeq ho jaye, toh BISP agent se raqam wapas wasool karwa kar beneficiary ko dilwata hai."
+      },
+      {
+            "question": "Agar helpline par baat na ho rahi ho toh shikayat kahan karein?",
+            "answer": "Aap apne qareebi BISP Tehsil Office mein qaaim Complaint Cell mein ja kar likhi hui darkhwast jama karwa sakte hain."
+      },
+      {
+            "question": "BISP shikayat hal hone mein aam taur par kitna waqt lagta hai?",
+            "answer": "Payment kataoti aur agent fraud ki shikayat 7 din mein, jabke biometric aur account block ki shikayat 14 se 21 working days mein hal hoti hai."
+      },
+      {
+            "question": "Kya Pakistan Citizen's Portal par BISP ki shikayat darj ho sakti hai?",
+            "answer": "Haan, Citizen Portal app mein 'Poverty Alleviation / BISP' category select karke direct Prime Minister Office ko shikayat bheji ja sakti hai."
+      },
+      {
+            "question": "Shikayat darj karwane ke liye kin cheezon ki zaroorat hoti hai?",
+            "answer": "Beneficiary ka 13-hinson ka CNIC number, active mobile number, aur maslay ki mukammal tafseel (maslan dukan ka pata ya ATM location)."
+      }
+],
+    officialLinks: [
+      {
+            "label": "BISP Official Website",
+            "href": "https://www.bisp.gov.pk/"
+      },
+      {
+            "label": "BISP Complaints & Contact Us",
+            "href": "https://www.bisp.gov.pk/ContactUs"
+      },
+      {
+            "label": "8171 Web Portal",
+            "href": "https://8171.bisp.gov.pk/"
+      }
+]
+  }
 ];
 
 export const informationPages: InformationPage[] = [

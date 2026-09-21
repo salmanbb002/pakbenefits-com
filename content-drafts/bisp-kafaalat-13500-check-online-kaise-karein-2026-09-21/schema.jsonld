@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-kafaalat-13500-check-online-kaise-karein/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "BISP Kafaalat 13500 Check Online Kaise Karein: Nayi Qist, Release Date Aur Payment Status",
+      "description": "BISP Kafaalat 13500 check online kaise karein: 8171.bisp.gov.pk portal, nayi 13500 qist ki release date, eligibility criteria, aur ATM se cash wasooli ka mukammal tareeqa.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Saad Hassan",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "Benazir Kafaalat Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "8171 Web Portal"
+        },
+        {
+          "@type": "Thing",
+          "name": "Habib Bank Limited"
+        },
+        {
+          "@type": "Thing",
+          "name": "Bank Alfalah"
+        },
+        {
+          "@type": "Thing",
+          "name": "National Socio-Economic Registry"
+        },
+        {
+          "@type": "Thing",
+          "name": "Federal Ministry of Poverty Alleviation"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-kafaalat-13500-check-online-kaise-karein/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP Kafaalat 13500 qist kab se milna shuru hui hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP Kafaalat ki nayi 13500 sah-mahi qist hukumat ki taraf se manzoor shuda schedule ke mutabiq marhalawar jari ki ja rahi hai, jis ka status 8171 portal par check kiya ja sakta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya sab khawateen ko 13500 rupaye milenge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, sirf woh khawateen jinka NSER PMT poverty score 32 ya is se kam hai aur jo Benazir Kafaalat mein pehle se regular registered hain, unhi ko 13500 ki qist milti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya Taleemi Wazaif ke paise 13500 ke andar shamil hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, Taleemi Wazaif ki raqam 13500 Kafaalat wazeefa ke ilawa hoti hai. Agar bacchon ki haziri 70% ho toh Taleemi Wazaif ki raqam Kafaalat qist ke sath jama ho kar milti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "8171 portal par 13500 check karne ka link kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Official status check karne ka link 8171.bisp.gov.pk hai. Yahan apna CNIC aur captcha code enter karke foran check kiya ja sakta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya retailer 13500 mein se 500 ya 1000 rupaye kaat sakta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bilkul nahi. Kisi bhi agent ko 1 rupaya bhi kataoti karne ki ijazat nahi hai. Poori 13,500 raqam wasool karein aur kataoti par 0800-26477 par shikayat darj karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar ATM par biometric match na ho toh 13500 kaise mileinge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aap doosre ATM par try karein ya registered BISP tehsil campsite par biometric verification officer se tasdeeq karwa kar cash wasool karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya 13500 check karne ke liye mobile par balance hona zaroori hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Web portal (8171.bisp.gov.pk) par check karne ke liye mobile balance ki zaroorat nahi hoti, sirf internet connection hona chahiye."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar CNIC expire ho gaya ho toh kya 13500 ki qist zaya ho jayegi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Raqam zaya nahi hoti, balke hold par chali jati hai. Naya CNIC banwa kar BISP desk par update karwane ke baad pichli ruki hui raqam bhi mil jati hai."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-kafaalat-13500-check-online-kaise-karein/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "benazir-kafaalat",
+          "item": "https://pakbenefits.com/benazir-kafaalat/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP Kafaalat 13500 Check Online Kaise Karein: Nayi Qist, Release Date Aur Payment Status",
+          "item": "https://pakbenefits.com/bisp-kafaalat-13500-check-online-kaise-karein/"
+        }
+      ]
+    }
+  ]
+}

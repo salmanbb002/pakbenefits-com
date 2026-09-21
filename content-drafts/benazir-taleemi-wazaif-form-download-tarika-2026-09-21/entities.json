@@ -1,0 +1,50 @@
+{
+  "primaryKeyword": "benazir taleemi wazaif form download aur jama karne ka tarika",
+  "targetSlug": "benazir-taleemi-wazaif-form-download-tarika",
+  "category": "taleemi-wazaif",
+  "entities": [
+    {
+      "name": "Benazir Taleemi Wazaif",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "Benazir Income Support Programme",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "Primary to Higher Secondary Education Stipend",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "School Admission Verification Slip",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "National Database and Registration Authority",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "Child Registration Certificate B-Form",
+      "tier": 1,
+      "type": "GovernmentOrganization / Service / Programme",
+      "sameAs": "https://www.bisp.gov.pk/"
+    }
+  ],
+  "lsiKeywords": [
+    "taleemi wazaif admission slip download",
+    "benazir taleemi wazaif form kahan se milega",
+    "taleemi wazaif school headmaster stamp",
+    "bisp child stipend enrollment procedure",
+    "taleemi wazaif 70 percent attendance requirement"
+  ]
+}
