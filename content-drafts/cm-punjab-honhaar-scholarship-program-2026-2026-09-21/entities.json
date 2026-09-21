@@ -1,0 +1,55 @@
+[
+  {
+    "canonical": "CM Punjab Honhaar Merit Scholarship Program",
+    "type": "GovernmentProgramme",
+    "aliases": [
+      "Honhaar Scholarship",
+      "Maryam Nawaz Scholarship 2026",
+      "CM Punjab Undergraduate Scholarship"
+    ],
+    "sameAs": "https://honhaarscholarship.punjabhec.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Higher Education Commission",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "PHEC",
+      "Higher Education Department Punjab"
+    ],
+    "sameAs": "https://punjabhec.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Honhaar Scholarship Portal",
+    "type": "WebSite",
+    "aliases": [
+      "honhaarscholarship.punjabhec.gov.pk",
+      "PHEC Honhaar Portal"
+    ],
+    "sameAs": "https://honhaarscholarship.punjabhec.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "100% Full Tuition Fee Grant",
+    "type": "FinancialProduct",
+    "aliases": [
+      "Full tuition waiver",
+      "Undergraduate merit grant"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  }
+]

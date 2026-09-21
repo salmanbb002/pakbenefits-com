@@ -1,0 +1,55 @@
+[
+  {
+    "canonical": "Apni Chhat Apna Ghar Scheme",
+    "type": "GovernmentProgramme",
+    "aliases": [
+      "ACAG Scheme",
+      "CM Punjab Housing Scheme 2026",
+      "Maryam Nawaz Housing Scheme"
+    ],
+    "sameAs": "https://acag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Housing and Town Planning Agency",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "PHATA",
+      "Punjab Housing Department"
+    ],
+    "sameAs": "https://phata.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "ACAG Online Portal",
+    "type": "WebSite",
+    "aliases": [
+      "acag.punjab.gov.pk",
+      "Apni Chhat Apna Ghar Portal"
+    ],
+    "sameAs": "https://acag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs. 15 Lakh Interest-Free Loan",
+    "type": "FinancialProduct",
+    "aliases": [
+      "1.5 Million Housing Loan",
+      "0% Markup Home Loan"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  }
+]

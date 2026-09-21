@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-honhaar-scholarship-program-2026/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/cm-punjab-honhaar-scholarship-program-2026/"
+      },
+      "headline": "CM Punjab Honhaar Merit Scholarship Program 2026: Online Apply, Eligibility & 100% Tuition Fee Guide",
+      "description": "Complete guide to CM Punjab Honhaar Scholarship 2026 online apply at honhaarscholarship.punjabhec.gov.pk, 68 disciplines, 50 universities, and 100% tuition grant criteria.",
+      "datePublished": "2026-09-21T08:00:00+05:00",
+      "dateModified": "2026-09-21T08:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Live Govt Schemes & Ehsaas Programs",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgramme",
+          "name": "CM Punjab Honhaar Merit Scholarship Program",
+          "sameAs": "https://honhaarscholarship.punjabhec.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Higher Education Commission",
+          "sameAs": "https://punjabhec.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Apply for CM Punjab Honhaar Scholarship Online",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Create Account on PHEC Portal",
+          "text": "Visit honhaarscholarship.punjabhec.gov.pk and register with your CNIC and email."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Enter Academic Record",
+          "text": "Provide verified Matriculation and Intermediate marks and board roll numbers."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Verify University Enrollment",
+          "text": "Select your university, campus, department, and undergraduate roll number."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Upload Required Documents",
+          "text": "Upload scans of Domicile, Intermediate result card, CNIC, and income affidavit."
+        }
+      ]
+    }
+  ]
+}

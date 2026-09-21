@@ -1,0 +1,81 @@
+[
+  {
+    "canonical": "CM Punjab Kisan Card Programme",
+    "type": "GovernmentProgramme",
+    "aliases": [
+      "Maryam Nawaz Kisan Card",
+      "Punjab Farmer Card",
+      "Kisan Card Scheme 2026"
+    ],
+    "sameAs": "https://agripunjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Agriculture Department",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "Agri Punjab",
+      "Department of Agriculture Punjab"
+    ],
+    "sameAs": "https://agripunjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "8070 SMS Portal",
+    "type": "PublicServiceService",
+    "aliases": [
+      "8070 Code",
+      "Kisan Card 8070 SMS"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "The Bank of Punjab",
+    "type": "FinancialInstitution",
+    "aliases": [
+      "BOP",
+      "Bank of Punjab Kisan Card"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Land Records Authority",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "PLRA",
+      "Arazi Record Center"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/Punjab_Land_Records_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs. 150,000 Agricultural Loan",
+    "type": "FinancialProduct",
+    "aliases": [
+      "Interest-free Kisan loan",
+      "Kharif Rabi input credit"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-19T10:46:17.135Z",
+  "checkedAt": "2026-09-21T07:14:37.838Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 63,
+  "routeCount": 76,
   "failures": [],
   "pending": [],
   "pages": [
@@ -744,6 +744,175 @@
       "title": "NSER Survey Not Found? What \"No Record\" Means (2026 Fix) | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 157,
       "editorialWords": 1959,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-biometric-verification-failed/",
+      "title": "BISP Biometric Verification Failed: Fix Fingerprint Issues (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 160,
+      "editorialWords": 2399,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/prime-minister-youth-loan-scheme-2026/",
+      "title": "Prime Minister Youth Loan Scheme 2026: Apply Online & Tiers | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 171,
+      "editorialWords": 3524,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/fuel-scheme-rs-100-per-litre-petrol-relief-guide/",
+      "title": "Fuel Scheme Rs. 100 Per Litre Petrol Relief & Registration (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 157,
+      "editorialWords": 2545,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/",
+      "title": "PAVE Scheme 2026: Eligibility, Electric Bike Subsidy & Online Apply | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 160,
+      "editorialWords": 2962,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/apna-khet-apna-rozgar-scheme-apply-online-2026/",
+      "title": "Apna Khet Apna Rozgar Scheme Apply Online 2026: Portal & Status | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 165,
+      "editorialWords": 2488,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/benazir-kafaalat-case-paused-reasons/",
+      "title": "Why Was Benazir Kafaalat Case Paused? 6 Reasons & Fix (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 158,
+      "editorialWords": 2664,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/ehsaas-interest-free-loan-vs-saving-wallet/",
+      "title": "Ehsaas Loan vs. Saving Wallet: Which Fits You? (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 169,
+      "editorialWords": 1746,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/8171-check-online-kaise-karein/",
+      "title": "8171 Check Online Kaise Karein: Web Portal & CNIC SMS Guide (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 164,
+      "editorialWords": 1853,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/benazir-taleemi-wazaif-check-online-by-cnic/",
+      "title": "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts & Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 165,
+      "editorialWords": 1468,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-himmat-card-online-apply-2026/",
+      "title": "CM Punjab Himmat Card Online Apply 2026: DPMIS & Rs 10,500 Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 161,
+      "editorialWords": 1272,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-kisan-card-online-apply-2026/",
+      "title": "CM Punjab Kisan Card Online Apply 2026: 8070 Registration & BOP Loan | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 165,
+      "editorialWords": 1531,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/apni-chhat-apna-ghar-scheme-online-apply-2026/",
+      "title": "Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Rs 15 Lakh Loan | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 160,
+      "editorialWords": 1282,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-honhaar-scholarship-program-2026/",
+      "title": "CM Punjab Honhaar Scholarship 2026: Online Apply & PHEC Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 165,
+      "editorialWords": 1202,
       "schemaTypes": [
         "Organization",
         "WebSite",

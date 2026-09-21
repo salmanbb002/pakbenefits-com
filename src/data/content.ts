@@ -10077,7 +10077,7 @@ export const articles: Article[] = [
         },
         {
           label: "8171 web portal eligibility guide",
-          href: "/8171-web-portal-check-eligibility/"
+          href: "/check-bisp-eligibility-8171/"
         }
       ]
     },
@@ -10208,7 +10208,7 @@ export const articles: Article[] = [
       links: [
         {
           label: "CM Punjab Rozgar Scheme guide",
-          href: "/cm-punjab-rozgar-scheme/"
+          href: "/punjab-rozgar-scheme-guide/"
         }
       ]
     },
@@ -10789,7 +10789,7 @@ export const articles: Article[] = [
           },
           {
             label: "Fuel relief scheme registration guide",
-            href: "/fuel-scheme-rs-100-per-litre-petrol-relief-registration-guide-2026-09-19/"
+            href: "/fuel-scheme-rs-100-per-litre-petrol-relief-guide/"
           },
           {
             label: "Other government support schemes in Pakistan",
@@ -10926,7 +10926,7 @@ export const articles: Article[] = [
         links: [
           {
             label: "CM Punjab Rozgar Scheme guide",
-            href: "/cm-punjab-rozgar-scheme/"
+            href: "/punjab-rozgar-scheme-guide/"
           }
         ]
       },
@@ -10965,7 +10965,7 @@ export const articles: Article[] = [
         links: [
           {
             label: "8171 web portal eligibility guide",
-            href: "/8171-web-portal-check-eligibility/"
+            href: "/check-bisp-eligibility-8171/"
           }
         ]
       },
@@ -12789,6 +12789,683 @@ export const articles: Article[] = [
       {
         label: "Social Welfare and Bait-ul-Maal Department Punjab",
         href: "https://swd.punjab.gov.pk/"
+      }
+    ]
+  }
+,
+  {
+    slug: "cm-punjab-kisan-card-online-apply-2026",
+    title: "CM Punjab Kisan Card Online Apply 2026: 8070 Registration, Eligibility & BOP Card Activation",
+    excerpt: "To register for the CM Punjab Kisan Card online and via SMS in 2026, send an SMS with PKC [Space] your 13-digit CNIC to 8070 using a mobile SIM registered in your own name, or submit an application through the Punjab Agriculture Department portal (agripunjab.gov.pk). Eligible farmers holding between 1 to 12.5 acres of land receive an interest-free agricultural production loan of up to Rs. 150,000 per crop season through Bank of Punjab.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Kisan Card Online Apply 2026: 8070 Registration & BOP Loan",
+    metaDescription: "CM Punjab Kisan Card online apply 2026: 8070 SMS registration syntax, PLRA land eligibility (1-12.5 acres), BOP Rs 150,000 interest-free loan, aur card status guide.",
+    focusKeyword: "cm punjab kisan card online apply 2026",
+    lsiKeywords: [
+      "maryam nawaz kisan card registration",
+      "kisan card check cnic online",
+      "8070 kisan card registration",
+      "bop kisan card balance check",
+      "kisan card eligibility criteria",
+      "punjab agriculture department kisan card",
+      "punjab kisan card helpline 0800-17000"
+    ],
+    entities: [
+      "CM Punjab Kisan Card Programme",
+      "Punjab Agriculture Department",
+      "Government of Punjab",
+      "The Bank of Punjab",
+      "Punjab Land Records Authority",
+      "8070 Registration Portal",
+      "Interest-Free Agricultural Production Loan"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "13 min read",
+    image: "/images/farmer-support.jpg",
+    imageAlt: "Chief Minister Punjab Kisan Card distribution and biometric registration desk for farmers",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the Chief Minister Punjab Kisan Card Scheme 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Kisan Card is a landmark digital agricultural transformation initiative introduced by Chief Minister Maryam Nawaz Sharif to provide direct, transparent financial assistance and zero-markup production loans to small and medium farmers. Administered by the Punjab Agriculture Department in collaboration with the Punjab Information Technology Board (PITB) and The Bank of Punjab (BOP), the program targets 500,000 farmers across all 36 districts of Punjab.",
+          "Under this welfare model, farmers receive digital financial credit specifically earmarked for agricultural inputs rather than unmonitored cash disbursements. The card enables beneficiaries to purchase certified wheat and cotton seeds, diammonium phosphate (DAP), urea, and authorized pesticides directly from over 2,500 registered dealers without intermediary markups or exploitation by private moneylenders."
+        ],
+        subsections: [
+          {
+            title: "Key Financial Package: Rs. 150,000 Interest-Free Production Loan",
+            paragraphs: [
+              "The financial ceiling of the CM Punjab Kisan Card provides up to Rs. 150,000 in interest-free loans per crop cycle (Kharif and Rabi). The loan is allocated at the rate of Rs. 30,000 per cultivated acre for up to 5 acres of agricultural land.",
+              "The credit facility operates on a strict zero-interest (0% markup) framework, where the Government of Punjab absorbs all borrowing costs and financial service charges on behalf of the registered grower. The principal amount must be repaid within a flexible six-month window following the harvest cycle, after which the credit limit automatically renews for the upcoming planting season."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Eligibility Criteria for the Punjab Kisan Card 2026",
+        paragraphs: [
+          "To qualify for the CM Punjab Kisan Card, applicants must fulfill strict agrarian, legal, and financial criteria established by the Punjab Agriculture Department and the Punjab Land Records Authority:"
+        ],
+        bullets: [
+          "Land Ownership Threshold: The applicant must legally own between 1 acre and 12.5 acres of cultivable agricultural land within the administrative boundaries of Punjab.",
+          "PLRA Cadastral Record: The applicant's land title (Fard Malkiat) must be fully digitized and verified within the Punjab Land Records Authority (PLRA) computer system.",
+          "Biometric SIM Registration: The mobile phone number used for registration must be officially registered in the applicant's own name and CNIC with the Pakistan Telecommunication Authority (PTA).",
+          "Clean Credit History: The farmer must not be an active loan defaulter with the Zarai Taraqiati Bank Limited (ZTBL), The Bank of Punjab (BOP), or any other commercial financial institution.",
+          "Residency: Must be a permanent resident of Punjab holding a valid Computerized National Identity Card (CNIC)."
+        ]
+      },
+      {
+        title: "How to Apply Online and Register via 8070 SMS: Step-by-Step",
+        paragraphs: [
+          "The Government of Punjab has established a streamlined, paperless application framework designed for maximum rural accessibility. Farmers can initiate registration through their mobile phones without visiting bureaucratic offices."
+        ],
+        subsections: [
+          {
+            title: "Step 1: Format the SMS Application",
+            paragraphs: [
+              "Open the text messaging application on your mobile phone. Ensure your phone contains a SIM card biometrically registered to your CNIC. In the message body, type: PKC [Space] 13-Digit CNIC Number (Example: PKC 3520112345671). Do not include hyphens, dashes, or extra characters."
+            ]
+          },
+          {
+            title: "Step 2: Send Message to Official Short Code 8070",
+            paragraphs: [
+              "Send the formatted text message to 8070. Standard telecommunication SMS charges apply (nominal fee of approx. Rs. 1.50). You will receive an immediate automated acknowledgment stating that your application has been received for automated scrutiny."
+            ]
+          },
+          {
+            title: "Step 3: Automated Database Verification",
+            paragraphs: [
+              "Your CNIC is instantly cross-referenced through two centralized government databases: NADRA Verification (authenticates identity, citizenship, and biometric SIM linkage) and PLRA Land Record Check (confirms agricultural acreage, ownership status, and geographic tehsil mapping)."
+            ]
+          },
+          {
+            title: "Step 4: Approval Notification and Branch Allocation",
+            paragraphs: [
+              "If your land records and identity match eligibility parameters, you will receive a confirmation SMS from 8070. The SMS confirms your approval and specifies the designated Bank of Punjab (BOP) branch or Tehsil Agriculture Office where your personalized Kisan Card will be delivered."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Bank of Punjab (BOP) Card Collection and Biometric Activation",
+        paragraphs: [
+          "Once you receive your approval SMS, complete the physical collection and biometric onboarding process through the following protocol:"
+        ],
+        bullets: [
+          "Visit Allocated BOP Branch: Bring your original valid CNIC, the mobile phone carrying the registered SIM, and a copy of your computerized land record (Fard) to the assigned Bank of Punjab branch.",
+          "Biometric Verification (KYC): The bank officer will conduct an electronic thumbprint scan to authenticate your identity against the NADRA database.",
+          "Card Handover and PIN Generation: Upon successful biometric verification, you will receive your co-branded CM Punjab Kisan Card along with instructions to set your confidential 4-digit ATM PIN at the branch ATM or designated kiosk.",
+          "Credit Disbursement: Your allocated credit limit (up to Rs. 150,000 depending on verified acreage) is activated within 24 to 48 hours for authorized merchant point-of-sale transactions."
+        ]
+      },
+      {
+        title: "Approved Subsidized Purchases: Fertilizer, Certified Seeds & Pesticides",
+        paragraphs: [
+          "The Kisan Card is a specialized closed-loop debit card designed to prevent loan diversion. It cannot be used for cash withdrawals at standard commercial ATMs. Funds must be utilized exclusively for verified agricultural inputs:",
+          "To make a purchase, present your Kisan Card at any registered agricultural dealer displaying the official CM Punjab Kisan Card merchant board. The dealer enters the required input amounts on their Bank of Punjab POS machine, after which you authenticate the transaction using your biometric thumb impression and 4-digit PIN."
+        ],
+        bullets: [
+          "DAP & Urea Fertilizer: Up to Rs. 18,000 per acre purchased at authorized fertilizer dealers via BOP POS terminals.",
+          "Certified Quality Seeds: Up to Rs. 7,000 per acre for wheat, cotton, and oilseed varieties at registered agriculture outlets.",
+          "Pesticides & Weedicides: Up to Rs. 5,000 per acre for certified crop protection chemicals."
+        ]
+      },
+      {
+        title: "How to Check Kisan Card Balance and Repayment Timelines",
+        paragraphs: [
+          "Managing your credit limit and maintaining an immaculate repayment record ensures continuous interest-free renewals across subsequent agricultural cycles:"
+        ],
+        bullets: [
+          "Checking Card Balance: You can check your available credit balance by inserting your card into any Bank of Punjab ATM, contacting the Agriculture Department helpline at 0800-17000, or sending a balance inquiry SMS if subscribed to BOP mobile banking.",
+          "Seasonal Repayment Schedule: The loan operates on a 6-month term synchronized with crop harvesting. Kharif crop loans must be repaid by November 30, while Rabi crop loans must be settled by May 31.",
+          "Repayment Methods: Payments can be deposited directly at any Bank of Punjab branch, through BOP mobile banking, or via 1Link bill payment channels using your dedicated Kisan Card account number. Timely repayment guarantees automatic limit renewal for the subsequent crop."
+        ]
+      },
+      {
+        title: "Troubleshooting Common Registration Problems",
+        paragraphs: [
+          "If your application faces delays or rejections, apply these official remedies:"
+        ],
+        bullets: [
+          "'Record Not Found' (PLRA Mismatch): If 8070 responds that no agricultural land record is associated with your CNIC, visit your local Arazi Record Center (ARC) to verify that your land ownership mutation (Inteqal) has been digitized and properly linked to your current 13-digit CNIC.",
+          "'SIM Not Registered on CNIC' Rejection: The registration system strictly rejects SMS submissions from mobile numbers registered to relatives or third parties. Re-issue your SIM in your own name at a telecom franchise before resending the text.",
+          "Loan Defaulter Flag: If an erroneous default flag appears from past institutional credit, obtain an official Clearance Certificate (NOC) from the respective bank (such as ZTBL or BOP) and submit it to your District Agriculture Officer for manual status reset."
+        ],
+        links: [
+          {
+            label: "Apna Khet Apna Rozgar Scheme apply online 2026 guide",
+            href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          },
+          {
+            label: "Farmer Support Card and Punjab agriculture subsidies guide",
+            href: "/farmer-support-card-guide/"
+          },
+          {
+            label: "CM Punjab Himmat Card online apply 2026 guide",
+            href: "/cm-punjab-himmat-card-online-apply-2026/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How can I apply for the CM Punjab Kisan Card online in 2026?",
+        answer: "You can apply by sending an SMS with PKC <space> 13-digit CNIC to 8070 from a SIM registered in your own name, or by submitting your application through the official portal at agripunjab.gov.pk."
+      },
+      {
+        question: "What is the maximum loan amount provided through the Kisan Card?",
+        answer: "The maximum interest-free loan is Rs. 150,000 per crop season, distributed at the rate of Rs. 30,000 per acre for up to 5 acres of agricultural land."
+      },
+      {
+        question: "What is the land ownership limit to qualify for the scheme?",
+        answer: "Farmers owning between 1 acre and 12.5 acres of verified agricultural land in Punjab are eligible under the primary phase of the program."
+      },
+      {
+        question: "Can I withdraw cash directly from an ATM using my Kisan Card?",
+        answer: "No. The Kisan Card is restricted to purchasing agricultural inputs (fertilizers, certified seeds, pesticides) at authorized merchant POS terminals to prevent misuse of funds."
+      },
+      {
+        question: "What is the interest or markup rate on the Kisan Card loan?",
+        answer: "The loan is 100% interest-free (0% markup). The Government of Punjab pays all markup and administrative costs on behalf of the farmer."
+      },
+      {
+        question: "How long do farmers have to repay the loan?",
+        answer: "Farmers receive a 6-month repayment period aligned with the harvest season (e.g., November 30 for Kharif crops and May 31 for Rabi crops)."
+      },
+      {
+        question: "Which bank issues and delivers the physical Kisan Card?",
+        answer: "The Bank of Punjab (BOP) is the official banking partner responsible for biometric verification, account opening, and card issuance."
+      },
+      {
+        question: "What should I do if my SMS to 8070 receives no reply?",
+        answer: "Wait 24 hours, check your mobile network balance, verify that your SIM is registered to your CNIC, and ensure the format is strictly PKC [Space] CNIC without dashes."
+      },
+      {
+        question: "What is the official helpline number for the Kisan Card scheme?",
+        answer: "You can call the Punjab Agriculture Department toll-free helpline at 0800-17000 during official working hours for registration support and complaints."
+      },
+      {
+        question: "Can tenants (muzaraeen) or leaseholders apply for the Kisan Card?",
+        answer: "Under the current 2026 phase, priority is granted to landowning farmers registered in the PLRA database. Specialized tenant modules require formal biometric endorsement from the verified landowner."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Punjab Agriculture Department Official Portal",
+        href: "https://agripunjab.gov.pk/"
+      },
+      {
+        label: "Punjab Land Records Authority (PLRA)",
+        href: "https://plra.punjab.gov.pk/"
+      },
+      {
+        label: "The Bank of Punjab Kisan Card Information",
+        href: "https://www.bop.com.pk/"
+      }
+    ]
+  },
+  {
+    slug: "apni-chhat-apna-ghar-scheme-online-apply-2026",
+    title: "Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Portal Registration, Eligibility & Rs 15 Lakh Loan Guide",
+    excerpt: "To apply online for the CM Punjab Apni Chhat Apna Ghar Scheme in 2026, register on the official government portal at acag.punjab.gov.pk using your 13-digit CNIC and mobile number, upload your land ownership documents (Fard/Registry for up to 5 Marla urban or 10 Marla rural plots), and complete your household socio-economic profile. Eligible citizens receive an interest-free construction loan of up to Rs. 15 Lakh with an installment of ~Rs. 14,000 over 7 years.",
+    showExcerpt: true,
+    metaTitle: "Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Rs 15 Lakh Loan",
+    metaDescription: "Apni Chhat Apna Ghar scheme online apply 2026: acag.punjab.gov.pk par registration ka tareeqa, 1-5 marla plot eligibility, aur 15 lakh interest-free loan guide.",
+    focusKeyword: "apni chhat apna ghar scheme online apply 2026",
+    lsiKeywords: [
+      "acag punjab gov pk online registration",
+      "cm punjab housing scheme 2026",
+      "apni chhat apna ghar eligibility criteria",
+      "15 lakh interest free loan punjab",
+      "maryam nawaz housing scheme online apply",
+      "phata housing loan scheme",
+      "acag helpline 0800-09100"
+    ],
+    entities: [
+      "Apni Chhat Apna Ghar Scheme",
+      "Punjab Housing and Town Planning Agency",
+      "acag.punjab.gov.pk Portal",
+      "Rs. 15 Lakh Construction Loan",
+      "Government of Punjab",
+      "Punjab Socio-Economic Registry",
+      "Maryam Nawaz Sharif"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "14 min read",
+    image: "/images/hero-support.jpg",
+    imageAlt: "Chief Minister Punjab Apni Chhat Apna Ghar affordable housing scheme model and online registration portal desk",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the CM Punjab Apni Chhat Apna Ghar (ACAG) Scheme 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Apni Chhat Apna Ghar (ACAG) Scheme is a transformative public housing initiative launched by Chief Minister Maryam Nawaz Sharif to address severe housing deficits and provide shelter security to underprivileged families across Punjab. Administered by the Punjab Housing and Town Planning Agency (PHATA) under the Housing, Urban Development and Public Health Engineering Department (HUD&PHED), the program aims to construct over 100,000 sustainable homes.",
+          "Unlike commercial banking mortgages that burden low-income households with exorbitant interest rates, the ACAG scheme operates on an Islamic, non-interest financial model where the Government of Punjab pays the entire markup subsidy. Borrowers only repay the exact principal borrowed, making monthly payments manageable for families earning modest wages."
+        ],
+        subsections: [
+          {
+            title: "Three Distinct Project Implementation Models",
+            paragraphs: [
+              "The ACAG program is structured across three execution pathways to accommodate diverse socio-economic backgrounds: Model 1 (Private Land Construction) provides up to Rs. 15 Lakh in interest-free loans to owners of 1-5 Marla urban or 1-10 Marla rural plots; Model 2 (Government Housing Schemes) provides turnkey houses developed on state land; and Model 3 (Urban Multi-Storey Apartments) builds subsidized apartments in major metropolitan cities."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Eligibility Criteria for the 15 Lakh Interest-Free Loan",
+        paragraphs: [
+          "To qualify for the Rs. 15 Lakh interest-free housing loan under Model 1, applicants must satisfy the following verified standards:"
+        ],
+        bullets: [
+          "Provincial Domicile & CNIC: The applicant must be a permanent resident of Punjab holding a valid Computerized National Identity Card (CNIC/NICOP).",
+          "Plot Ownership: The applicant or a member of the immediate family must hold clear, undisputed title to a residential plot measuring up to 5 Marlas in urban areas or up to 10 Marlas in rural areas.",
+          "Poverty Profile (PSER/PMT Score): The applicant must be registered in the Punjab Socio-Economic Registry (PSER) with a Proxy Means Test (PMT) score of 60 or below.",
+          "Sole Ownership Rule: The applicant must not own any other constructed residential property or home within Pakistan.",
+          "Credit History: Must have a clean credit record with no outstanding defaults with commercial banks or microfinance institutions."
+        ]
+      },
+      {
+        title: "Step-by-Step Online Registration Guide on acag.punjab.gov.pk",
+        paragraphs: [
+          "The application process is fully digitized through the dedicated provincial web portal. Follow these systematic instructions to submit your file:"
+        ],
+        subsections: [
+          {
+            title: "Step 1: Account Creation and Portal Signup",
+            paragraphs: [
+              "Visit the official web portal at https://acag.punjab.gov.pk/. Click on the 'Register / Sign Up' button. Enter your full name as printed on your CNIC, your 13-digit CNIC number, district of residence, and an active mobile number registered in your name. Verify your identity using the One-Time Password (OTP) sent via SMS."
+            ]
+          },
+          {
+            title: "Step 2: Personal Profile & Socio-Economic Assessment",
+            paragraphs: [
+              "Log into your dashboard and complete your personal bio-data. Enter your household size, current monthly income, and employment details. If you have already registered with the Punjab Socio-Economic Registry (PSER), link your PSER survey reference number to expedite verification."
+            ]
+          },
+          {
+            title: "Step 3: Land Details and Documentation Upload",
+            paragraphs: [
+              "Navigate to the 'Property Details' section. Select whether your plot is situated in an urban or rural locality, specify the exact plot size (e.g., 3 Marla, 5 Marla), and enter the Khasra/Khewat number. Upload clear scanned copies of your Fard Malkiat or registered Sale Deed, site plan (Aks Shajra), and clear boundary photos of the vacant plot."
+            ]
+          },
+          {
+            title: "Step 4: Submission and Tracking ID Generation",
+            paragraphs: [
+              "Review all entered details, accept the legal declaration confirming that you do not own another house, and click 'Submit Application'. The portal generates a unique Application Tracking ID (e.g., ACAG-2026-XXXXX). Keep this tracking code safe to monitor your scrutiny stages."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Loan Terms, Disbursement Tranches & Repayment Schedule",
+        paragraphs: [
+          "The financial framework has been engineered to ensure transparent execution and prevent fund misallocation:",
+          "Beneficiaries enjoy a 3-month grace period during the active construction phase before the first installment falls due. Repayment is structured across 84 equal monthly installments of approximately Rs. 14,000 per month."
+        ],
+        bullets: [
+          "Tranche 1 (Foundation): Rs. 500,000 (33%) disbursed for site excavation, plinth beam, and foundation construction.",
+          "Tranche 2 (Structure & Roof): Rs. 600,000 (40%) released after structural inspection of brick masonry walls and roof slab casting.",
+          "Tranche 3 (Finishing): Rs. 400,000 (27%) allocated for plaster, flooring, electrical wiring, plumbing, and fixtures."
+        ]
+      },
+      {
+        title: "Required Documents Checklist for Online Application",
+        paragraphs: [
+          "Ensure the following authentic documents are scanned and prepared prior to initiating your application on acag.punjab.gov.pk:"
+        ],
+        bullets: [
+          "Original valid CNIC of the primary applicant and spouse.",
+          "Computerized Land Title: Fard Malkiat issued by the Punjab Land Records Authority within the last 6 months, or an attested registered deed.",
+          "Plot Possession Letter or No-Objection Certificate (NOC) from the concerned local authority.",
+          "Proof of Household Income: Salary slip, income certificate, or business undertaking.",
+          "Digital Photographs: Passport-size picture of the applicant and high-resolution photos of the construction plot.",
+          "Affidavit of Non-Homeownership: Formal declaration affirming that the applicant does not possess another home."
+        ]
+      },
+      {
+        title: "Verification, Field Inspection & Balloting Process",
+        paragraphs: [
+          "Submitting your online application triggers a transparent, multi-tiered scrutiny pipeline:"
+        ],
+        bullets: [
+          "Automated Digital Pre-Scrutiny: System algorithms cross-check the CNIC against NADRA, verify land ownership against the PLRA cadastre, and confirm PMT score via PSER.",
+          "Physical Site Inspection: Field inspection officers from PHATA conduct an on-site physical visit to inspect the plot, confirm boundaries, and ensure structural feasibility.",
+          "Computerized Balloting: In tehsils where eligible applications exceed the quarterly funding allocation, a randomized, computerized public balloting is conducted by PITB.",
+          "Loan Agreement Signing: Approved candidates sign a standardized interest-free loan agreement and receive their first installment directly into their verified bank account."
+        ]
+      },
+      {
+        title: "Official Helpline and Facilitation Centers",
+        paragraphs: [
+          "For citizens encountering technical difficulties with document uploads or internet access:"
+        ],
+        bullets: [
+          "Official ACAG Toll-Free Helpline: Call 0800-09100 (Monday to Friday, 9:00 AM to 5:00 PM) for general inquiries and technical troubleshooting.",
+          "District Facilitation Centers: Assistance desks have been established in all 36 District Deputy Commissioner (DC) offices and regional PHATA offices where staff assist citizens with free scanning and online registration.",
+          "Scam Warning: The entire ACAG registration process is free of charge. Do not pay any agent, broker, or private entity claiming to guarantee loan approvals."
+        ],
+        links: [
+          {
+            label: "CM Punjab Himmat Card online apply 2026 guide",
+            href: "/cm-punjab-himmat-card-online-apply-2026/"
+          },
+          {
+            label: "CM Punjab Kisan Card online apply 2026 guide",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Apna Khet Apna Rozgar Scheme 2026 guide",
+            href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official website to apply for Apni Chhat Apna Ghar scheme?",
+        answer: "The only official portal for online registration is https://acag.punjab.gov.pk/."
+      },
+      {
+        question: "How much loan can I get under the Apni Chhat Apna Ghar scheme?",
+        answer: "Under Model 1, eligible plot owners can receive an interest-free construction loan of up to Rs. 15 Lakh (1.5 Million PKR)."
+      },
+      {
+        question: "What is the maximum plot size eligible for the scheme?",
+        answer: "Applicants can own up to 5 Marlas of land in designated urban areas or up to 10 Marlas in rural areas."
+      },
+      {
+        question: "What is the monthly installment amount and repayment duration?",
+        answer: "The loan is repaid over 7 years (84 months) with an estimated monthly installment of approximately Rs. 14,000 with zero interest."
+      },
+      {
+        question: "What is the maximum PMT score required to qualify?",
+        answer: "Applicants must be enrolled in the Punjab Socio-Economic Registry (PSER) with a Proxy Means Test (PMT) score of 60 or less."
+      },
+      {
+        question: "Do I have to pay any interest or markup on the 15 lakh loan?",
+        answer: "No. The loan is 100% interest-free (0% markup). The Punjab Government absorbs all financing costs."
+      },
+      {
+        question: "Can I apply if I already own a built house?",
+        answer: "No. The scheme is strictly reserved for homeless or non-homeowning families who own a vacant plot or unconstructed land."
+      },
+      {
+        question: "How is the loan money disbursed to the applicant?",
+        answer: "The loan is disbursed in three phased tranches (33% for foundation, 40% for walls and roof, and 27% for finishing) based on physical inspection milestones."
+      },
+      {
+        question: "What documents are required for proof of land ownership?",
+        answer: "A computerized Fard Malkiat from the Arazi Record Center (PLRA) or a registered Sale Deed (Registry) accompanied by a plot possession letter."
+      },
+      {
+        question: "What is the official helpline number for the ACAG scheme?",
+        answer: "You can contact the official helpline at 0800-09100 for support and application status inquiries."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Apni Chhat Apna Ghar Official Portal (ACAG)",
+        href: "https://acag.punjab.gov.pk/"
+      },
+      {
+        label: "Punjab Housing and Town Planning Agency (PHATA)",
+        href: "https://phata.punjab.gov.pk/"
+      },
+      {
+        label: "Punjab Socio-Economic Registry (PSER)",
+        href: "https://pser.punjab.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "cm-punjab-honhaar-scholarship-program-2026",
+    title: "CM Punjab Honhaar Merit Scholarship Program 2026: Online Apply, Eligibility & 100% Tuition Fee Guide",
+    excerpt: "To apply online for the CM Punjab Honhaar Merit Scholarship Program in 2026, register on the official portal at honhaarscholarship.punjabhec.gov.pk using your CNIC/B-Form and academic registration details. The Government of Punjab provides 100% full tuition fee coverage for 30,000 undergraduate students enrolled in 68 priority disciplines across 50 public universities and medical colleges.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Honhaar Scholarship 2026: Online Apply & PHEC Guide",
+    metaDescription: "CM Punjab Honhaar Scholarship online apply 2026: honhaarscholarship.punjabhec.gov.pk par registration, 68 disciplines, 50 universities, aur 100% tuition grant guide.",
+    focusKeyword: "cm punjab honhaar scholarship program 2026",
+    lsiKeywords: [
+      "honhaar scholarship online apply",
+      "honhaarscholarship punjabhec gov pk registration",
+      "cm punjab scholarship for bs students",
+      "honhaar scholarship eligibility criteria 2026",
+      "honhaar scholarship merit list 2026",
+      "phec scholarship portal",
+      "cm punjab scholarship for mbbs students"
+    ],
+    entities: [
+      "CM Punjab Honhaar Merit Scholarship Program",
+      "Punjab Higher Education Commission",
+      "honhaarscholarship.punjabhec.gov.pk Portal",
+      "100% Full Tuition Fee Grant",
+      "Higher Education Department Punjab",
+      "Government of Punjab",
+      "Maryam Nawaz Sharif"
+    ],
+    primaryCategory: "taleemi-wazaif",
+    categorySlugs: [
+      "taleemi-wazaif",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "13 min read",
+    image: "/images/scholarship-guide.jpg",
+    imageAlt: "Chief Minister Punjab Honhaar Merit Scholarship Program distribution and university student assistance portal",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the CM Punjab Honhaar Merit Scholarship Program 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Honhaar Merit Scholarship Program is a historic higher education funding initiative introduced by Chief Minister Maryam Nawaz Sharif to eliminate financial barriers for high-achieving undergraduate students. With an allocated budget of Rs. 130 Billion over an eight-year cycle, the program awards 30,000 comprehensive scholarships annually to students admitted to accredited universities and professional degree colleges across Punjab.",
+          "Unlike conventional partial fee waivers or loan schemes, the Honhaar Scholarship provides an unconditional 100% tuition grant. Approved funds are disbursed directly by the Punjab Higher Education Commission (PHEC) to the recipient's university treasury, ensuring that students face zero out-of-pocket tuition costs throughout their standard four-year (BS) or five-year (MBBS/Pharm-D) degree tenures."
+        ],
+        subsections: [
+          {
+            title: "Financial Coverage and Scholarship Benefits",
+            paragraphs: [
+              "The Honhaar Scholarship is designed as an end-to-end academic grant covering the total instructional expense of undergraduate education: 100% Tuition Fee Waiver (covering all standard university tuition costs), Direct Institutional Settlement (PHEC transfers funds directly to university accounts), Multi-Year Degree Security (active for all 4 years of BS or 5 years of medical degrees subject to CGPA renewal), and Equitable District Quota Distribution."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Eligibility Criteria for the Honhaar Scholarship 2026",
+        paragraphs: [
+          "To qualify for the CM Punjab Honhaar Merit Scholarship, applicants must fulfill strict territorial, demographic, and educational standards:"
+        ],
+        bullets: [
+          "Punjab Domicile: The applicant must be a citizen of Pakistan possessing a valid domicile from any district within the province of Punjab.",
+          "Age Limit: Must not exceed 22 years of age on the final application closing date.",
+          "Household Income Limit: Total monthly family income from all sources must not exceed Rs. 300,000 (supported by verified salary slips or an attested income affidavit).",
+          "Academic Enrollment: Must be freshly enrolled or currently studying in an approved undergraduate BS, MBBS, or BDS program at a recognized institution.",
+          "Minimum Academic Cutoff: Minimum 75% marks in Intermediate for public sector universities, merit admission in MBBS/BDS through UHS, or 80% marks for top-tier private universities."
+        ]
+      },
+      {
+        title: "Participating Institutions: 50 Public Universities, Medical Colleges & Private Institutes",
+        paragraphs: [
+          "The scholarship encompasses Punjab's most prestigious higher education seats across public and private sectors:"
+        ],
+        bullets: [
+          "50 Public Sector Universities: Including Punjab University (PU), GCU Lahore, UET Lahore, BZU Multan, Islamia University Bahawalpur, UAF Faisalabad, and regional public HEIs.",
+          "Public Medical & Dental Colleges: All government medical colleges including King Edward Medical University, Allama Iqbal Medical College, Nishtar Medical University, and Rawalpindi Medical University.",
+          "Top-Tier Private Universities: LUMS, FAST-NUCES, NUST, Ghulam Ishaq Khan Institute (GIKI), COMSATS, and Information Technology University (ITU) for designated technology programs."
+        ]
+      },
+      {
+        title: "68 Eligible Priority Disciplines",
+        paragraphs: [
+          "The program strategically channels funding into high-growth, high-demand academic fields:"
+        ],
+        bullets: [
+          "Computer Science & Emerging Technologies: Artificial Intelligence (AI), Software Engineering, Data Science, Cyber Security, Cloud Computing, and Information Technology.",
+          "Engineering & Applied Sciences: Electrical, Civil, Mechanical, Mechatronics, and Biomedical Engineering.",
+          "Medical & Life Sciences: MBBS, BDS, Doctor of Pharmacy (Pharm-D), Biotechnology, Microbiology, and Nursing.",
+          "Agriculture & Food Security: Agronomy, Food Science & Technology, and Plant Breeding.",
+          "Commerce & Business: Actuarial Science, FinTech, Business Analytics, and Supply Chain Management."
+        ]
+      },
+      {
+        title: "Step-by-Step Online Application on honhaarscholarship.punjabhec.gov.pk",
+        paragraphs: [
+          "Follow these exact steps to complete your registration on the provincial portal:"
+        ],
+        subsections: [
+          {
+            title: "Step 1: Portal Account Registration",
+            paragraphs: [
+              "Visit the official application portal at https://honhaarscholarship.punjabhec.gov.pk/. Click on 'Apply Online'. Enter your CNIC or B-Form number, email address, and active mobile number. Create a secure password and verify your email through the automated link."
+            ]
+          },
+          {
+            title: "Step 2: Academic Profile & Marks Entry",
+            paragraphs: [
+              "Enter your Matriculation and Intermediate marks, roll numbers, passing years, and education boards. The portal cross-verifies board data through automated BISE API integrations."
+            ]
+          },
+          {
+            title: "Step 3: University Enrollment Verification",
+            paragraphs: [
+              "Select your enrolled university from the drop-down menu, choose your campus, specify your degree discipline (e.g., BS Computer Science), and input your official University Student Registration / Roll Number."
+            ]
+          },
+          {
+            title: "Step 4: Income Declaration & Document Upload",
+            paragraphs: [
+              "Provide the employment details and monthly income of your parents/guardian. Upload clear PDF/JPG scans of your CNIC/B-Form, Domicile Certificate, Intermediate result card, university admission fee challan, and attested income certificate."
+            ]
+          },
+          {
+            title: "Step 5: Institutional Scrutiny Submission",
+            paragraphs: [
+              "Submit your application. The file is automatically forwarded to your university's designated Honhaar Scholarship Focal Person for physical scrutiny and enrollment confirmation."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Merit List Preparation, Scrutiny & Award Confirmation",
+        paragraphs: [
+          "The selection protocol ensures transparent meritocracy without discretionary quotas:"
+        ],
+        bullets: [
+          "Institutional Verification: University focal persons cross-check each applicant's admission status, academic scores, and attendance standing.",
+          "Central Merit Compilation: The Punjab Higher Education Commission compiles a unified provincial merit ranking calculated from Intermediate marks and entrance metrics.",
+          "Provisional Merit List Release: Provisional merit lists are published on honhaarscholarship.punjabhec.gov.pk allowing a 5-day window for grievance appeals.",
+          "Final Award Letters: Successful candidates receive formal electronic Award Confirmation Letters, after which PHEC releases tuition payments directly to university accounts."
+        ]
+      },
+      {
+        title: "Renewal Guidelines: Maintaining Academic Standing",
+        paragraphs: [
+          "To retain the Honhaar Scholarship in subsequent semesters, recipients must maintain designated performance standards:"
+        ],
+        bullets: [
+          "Minimum GPA Benchmark: BS students must maintain a minimum semester CGPA of 3.00 out of 4.00 (or at least 70% in annual examination systems).",
+          "Classroom Attendance: A mandatory minimum attendance threshold of 75% in all registered courses is strictly enforced.",
+          "Disciplinary Record: The scholar must remain free of university disciplinary violations, examination malpractice, or academic probation."
+        ]
+      },
+      {
+        title: "Comparison: Honhaar Scholarship vs Benazir Taleemi Wazaif & PEEF",
+        paragraphs: [
+          "Understanding the distinct scope of provincial education schemes helps students apply to the correct program:"
+        ],
+        bullets: [
+          "CM Honhaar Scholarship: Dedicated to undergraduate degrees (BS, MBBS, BDS) providing 100% full university tuition coverage administered by PHEC.",
+          "Benazir Taleemi Wazaif: Provides quarterly cash stipends (Rs 1,500 to Rs 4,500) for school and college-going children belonging to active BISP beneficiary families.",
+          "PEEF Scholarship: Operates monthly stipends and partial tuition support specifically targeted at low-income, orphan, and marginalized scholars across Punjab."
+        ],
+        links: [
+          {
+            label: "Benazir Taleemi Wazaif check online by CNIC guide",
+            href: "/benazir-taleemi-wazaif-check-online-by-cnic/"
+          },
+          {
+            label: "Taleemi Wazaif school registration guide",
+            href: "/taleemi-wazaif-registration-guide/"
+          },
+          {
+            label: "Prime Minister Youth Loan Scheme 2026 guide",
+            href: "/prime-minister-youth-loan-scheme-2026/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official website for CM Punjab Honhaar Scholarship?",
+        answer: "The official portal for registration and merit tracking is https://honhaarscholarship.punjabhec.gov.pk/."
+      },
+      {
+        question: "Does the Honhaar Scholarship cover hostel and mess expenses?",
+        answer: "No. The scholarship strictly covers 100% of the approved university tuition fees. Living, hostel, and mess expenses are borne by the student."
+      },
+      {
+        question: "What is the family income limit to be eligible for Honhaar Scholarship?",
+        answer: "The total monthly income of the applicant's family must not exceed Rs. 300,000 per month."
+      },
+      {
+        question: "Can students studying in private universities apply?",
+        answer: "Yes, students enrolled in select high-ranking private institutions (such as LUMS, FAST, GIKI, and NUST) in approved computer science and engineering disciplines are eligible."
+      },
+      {
+        question: "What is the minimum Intermediate percentage required?",
+        answer: "Applicants from public sector universities must have at least 75% marks in Intermediate, while private university applicants require at least 80% marks."
+      },
+      {
+        question: "How many scholarships are awarded each year?",
+        answer: "A total of 30,000 fully funded scholarships are awarded each academic year across Punjab."
+      },
+      {
+        question: "Are medical students (MBBS and BDS) eligible for the scheme?",
+        answer: "Yes. Students admitted on merit in all public medical and dental colleges across Punjab are fully eligible."
+      },
+      {
+        question: "How is the scholarship money disbursed?",
+        answer: "PHEC transfers the complete tuition amount directly to the student's university bank account every semester."
+      },
+      {
+        question: "What happens if my CGPA drops below 3.00 in university?",
+        answer: "If a student's semester CGPA drops below 3.00, the scholarship may be suspended until academic performance is restored according to PHEC policy."
+      },
+      {
+        question: "What is the age limit for applying?",
+        answer: "The applicant must not be more than 22 years of age on the official application deadline date."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Punjab Higher Education Commission Honhaar Portal",
+        href: "https://honhaarscholarship.punjabhec.gov.pk/"
+      },
+      {
+        label: "Punjab Higher Education Commission (PHEC)",
+        href: "https://punjabhec.gov.pk/"
+      },
+      {
+        label: "Higher Education Department Punjab (HED)",
+        href: "https://hed.punjab.gov.pk/"
       }
     ]
   }

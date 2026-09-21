@@ -192,4 +192,12 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 
 **Phase 4 — Editorial hold.** "BISP and Ehsaas: How the Two Names Relate" — requires a human to verify the current official rebranding framing on bisp.gov.pk before drafting; do not publish this from assumed history.
 
-**Phase 5 — Strategic decision needed.** Urdu/Roman Urdu content layer — needs a scope decision (pilot vs. full track, `/ur/` structure vs. companion pages) before any drafting starts.
+**Phase 5 — Strategic decision needed.** Urdu/Roman Urdu content layer — pilot published (\`8171-check-online-kaise-karein\`), expanding based on GSC performance.
+
+**Phase 6 — 2026 Flagship Provincial Schemes & Education Expansion (Published 20-21 Sep 2026):**
+- \`cm-punjab-himmat-card-online-apply-2026\` (DPMIS Rs 10,500 PWD allowance)
+- \`cm-punjab-kisan-card-online-apply-2026\` (8070 SMS & Rs 150,000 BOP interest-free production loan)
+- \`apni-chhat-apna-ghar-scheme-online-apply-2026\` (acag.punjab.gov.pk 15 Lakh interest-free housing loan)
+- \`cm-punjab-honhaar-scholarship-program-2026\` (honhaarscholarship.punjabhec.gov.pk 100% tuition grant)
+- \`benazir-taleemi-wazaif-check-online-by-cnic\` (Primary to Higher Secondary CCT stipend guide)
+
