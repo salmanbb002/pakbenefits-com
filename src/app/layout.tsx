@@ -4,6 +4,7 @@ import { Header } from "@/components/header";
 import "./globals.css";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
+const ADSENSE_CLIENT = "ca-pub-8745257816592066";
 const siteName = "Live Govt Schemes & Ehsaas Programs";
 const defaultTitle = "Pakistan Government Schemes, BISP 8171 & Ehsaas Guides";
 const defaultDescription =
@@ -50,6 +51,7 @@ export const metadata: Metadata = {
       "QWAtW6sHuXeM2iC5X3CcSWev0PC2XGqHFD3XNi3I9LY",
     ],
   },
+  other: { "google-adsense-account": ADSENSE_CLIENT },
 };
 
 const organizationSchema = {
@@ -88,6 +90,13 @@ const websiteSchema = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }} />
