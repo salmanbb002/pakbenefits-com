@@ -4431,6 +4431,10 @@ export const articles: Article[] = [
           {
             "label": "Apna Khet Apna Rozgar landless farmer scheme",
             "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          },
+          {
+            "label": "CM Punjab Kisan Card online apply 2026 & 8070 SMS registration guide",
+            "href": "/cm-punjab-kisan-card-online-apply-2026/"
           }
         ]
       },
@@ -7543,7 +7547,9 @@ export const articles: Article[] = [
         "links": [
           { "label": "Farmer Support Card eligibility", "href": "/farmer-support-card-guide/" },
           { "label": "Punjab provincial schemes", "href": "/punjab-schemes/" },
-          { "label": "Apna Khet Apna Rozgar landless scheme", "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/" }
+          { "label": "Apna Khet Apna Rozgar landless scheme", "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/" },
+          { "label": "CM Punjab Kisan Card online apply 2026 guide", "href": "/cm-punjab-kisan-card-online-apply-2026/" },
+          { "label": "Apni Chhat Apna Ghar scheme online apply 2026 guide", "href": "/apni-chhat-apna-ghar-scheme-online-apply-2026/" }
         ]
       }
     ],
@@ -10078,6 +10084,10 @@ export const articles: Article[] = [
         {
           label: "8171 web portal eligibility guide",
           href: "/check-bisp-eligibility-8171/"
+        },
+        {
+          label: "CM Punjab Honhaar Merit Scholarship Program 2026 guide",
+          href: "/cm-punjab-honhaar-scholarship-program-2026/"
         }
       ]
     },
@@ -11261,6 +11271,14 @@ export const articles: Article[] = [
           {
             label: "CM Punjab Himmat Card online apply 2026 guide",
             href: "/cm-punjab-himmat-card-online-apply-2026/"
+          },
+          {
+            label: "CM Punjab Kisan Card online apply 2026 & 8070 registration",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Apni Chhat Apna Ghar scheme online apply 2026 guide",
+            href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
           }
         ]
       },
@@ -12393,6 +12411,10 @@ export const articles: Article[] = [
           {
             label: "Check BISP status by CNIC online walkthrough",
             href: "/check-bisp-status-by-cnic-online/"
+          },
+          {
+            label: "CM Punjab Honhaar Merit Scholarship Program 2026 guide",
+            href: "/cm-punjab-honhaar-scholarship-program-2026/"
           }
         ]
       },
@@ -12633,6 +12655,14 @@ export const articles: Article[] = [
           {
             label: "Punjab schemes and public welfare initiatives hub",
             href: "/other-schemes/"
+          },
+          {
+            label: "CM Punjab Kisan Card online apply 2026 guide",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Apni Chhat Apna Ghar scheme online apply 2026 guide",
+            href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
           }
         ]
       },
@@ -12951,6 +12981,10 @@ export const articles: Article[] = [
           {
             label: "CM Punjab Himmat Card online apply 2026 guide",
             href: "/cm-punjab-himmat-card-online-apply-2026/"
+          },
+          {
+            label: "Apni Chhat Apna Ghar scheme online apply 2026 guide",
+            href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
           }
         ]
       }
@@ -13172,6 +13206,10 @@ export const articles: Article[] = [
           {
             label: "Apna Khet Apna Rozgar Scheme 2026 guide",
             href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          },
+          {
+            label: "Punjab Land Record online check & Fard Malkiat guide",
+            href: "/punjab-land-record-check-guide/"
           }
         ]
       }
