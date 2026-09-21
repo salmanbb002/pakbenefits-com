@@ -1,0 +1,198 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-livestock-card-scheme-2026-online-apply/#article",
+      "headline": "CM Punjab Livestock Card Scheme 2026 Online Apply: PLC Portal Registration, 8070 SMS & Eligibility",
+      "description": "CM Punjab livestock card scheme 2026 online apply: plc.punjab.gov.pk registration, 8070 SMS, Rs 135,000 to Rs 540,000 BOP interest-free feed loan, SPMS-9211 animal tagging.",
+      "url": "https://pakbenefits.com/cm-punjab-livestock-card-scheme-2026-online-apply/",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman",
+        "jobTitle": "Lead Welfare Schemes Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "article > p:first-of-type"
+        ]
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Punjab Livestock Card Scheme",
+          "sameAs": "https://plc.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Livestock & Dairy Development Department",
+          "sameAs": "https://livestock.punjab.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "FinancialService",
+          "name": "The Bank of Punjab",
+          "sameAs": "https://www.bop.com.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "sameAs": "https://pitb.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/cm-punjab-livestock-card-scheme-2026-online-apply/#howto",
+      "name": "How to Apply for the CM Punjab Livestock Card",
+      "description": "Step-by-step instructions to register via SMS or online portal and receive your Bank of Punjab Livestock Card.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "SMS Registration via 8070",
+          "text": "Send PLC followed by your 13-digit CNIC to 8070 or visit plc.punjab.gov.pk to register online."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Veterinary On-Farm Inspection",
+          "text": "Coordinate with local Civil Veterinary Hospital staff to inspect and verify 5 to 20 healthy male calves."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "SPMS-9211 Ear-Tagging",
+          "text": "Have veterinary doctors attach unique digital yellow ear-tags to your calves and log records into the SPMS-9211 database."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Bank of Punjab Card Collection",
+          "text": "Visit your assigned BOP branch with your original CNIC and tagging certificate to collect your chip-enabled Livestock Card."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Purchase Feed at Registered POS Dealers",
+          "text": "Swipe your card at authorized feed and silage merchants to purchase cattle feed at zero interest."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-livestock-card-scheme-2026-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the primary purpose of the CM Punjab Livestock Card Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The CM Punjab Livestock Card Scheme provides interest-free working capital loans of Rs. 135,000 to Rs. 540,000 for purchasing animal feed, silage, and mineral supplements to support smallholder cattle fattening."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the SMS code to apply for the Punjab Livestock Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Farmers can initiate registration by texting PLC followed by a space and their 13-digit CNIC number to the official shortcode 8070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much loan can I get under the Livestock Card Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The loan amount ranges from Rs. 135,000 for 5 male calves up to Rs. 540,000 for 20 male calves, calculated at Rs. 27,000 per registered animal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the Punjab Livestock Card charge any interest or markup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The loan is 100% interest-free with 0% bank markup, as the Government of Punjab fully subsidizes all financial costs through The Bank of Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I withdraw cash from an ATM using the Livestock Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the Livestock Card is locked to Point of Sale (POS) machines at registered feed mills, silage dealers, and nutrition stores to prevent fund diversion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What age must the male calves be to qualify for the scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Calves must be healthy male cow or buffalo young stock aged between 9 months and 2 years, verified by livestock veterinary staff."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do farmers have to repay the loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Farmers repay the principal amount in a single bullet payment within 120 to 150 days, coinciding with the sale of fattened animals at livestock markets."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens during the SPMS-9211 animal verification step?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A veterinary officer physically inspects the calves, vaccinates them against disease, attaches official yellow plastic ear tags, and logs the records into the SPMS-9211 database."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can farmers with bad credit history apply for the Livestock Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must pass State Bank of Pakistan e-CIB credit checks; individuals with unresolved bank defaults are not eligible until arrears are settled."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official helpline for the Punjab Livestock Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official toll-free helpline for inquiries, complaints, and application tracking is 0800-09211, operated 24/7 by the Punjab Livestock Department."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/cm-punjab-livestock-card-scheme-2026-online-apply/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Punjab Schemes",
+          "item": "https://pakbenefits.com/punjab-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab Livestock Card Scheme 2026 Online Apply",
+          "item": "https://pakbenefits.com/cm-punjab-livestock-card-scheme-2026-online-apply/"
+        }
+      ]
+    }
+  ]
+}

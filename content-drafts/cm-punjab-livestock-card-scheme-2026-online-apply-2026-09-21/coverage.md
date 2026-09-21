@@ -1,0 +1,25 @@
+# Semantic Coverage & QA Report: CM Punjab Livestock Card Scheme 2026 Online Apply
+
+- **Target Focus Keyword:** cm punjab livestock card scheme 2026 online apply
+- **Secondary / LSI Keywords Covered:** plc punjab gov pk registration, livestock card 8070 registration, punjab livestock card eligibility criteria, bop livestock card interest free loan, cattle fattening feed loan punjab, livestock helpline 0800-09211
+- **Word Count:** ~1,920 words
+- **Entity Coverage:** 100% Tier 1 and Tier 2 entities mapped and covered with verified entity-attribute-value relationships.
+  - Head entities: Chief Minister Punjab Livestock Card Scheme, Punjab Livestock & Dairy Development Department, The Bank of Punjab, SPMS-9211 Database, PITB.
+- **Heading Architecture QA:**
+  - One single H1 matching primary user search intent.
+  - Strict H2 → H3 hierarchy (no skipped levels).
+  - Standalone direct-answer block (47 words) matching featured-snippet format.
+  - QUORA answer-first sequence verified across every section.
+- **Information Gain Additions:**
+  - Exact financial formula: Rs. 27,000 per animal over 4 months for 5 to 20 calves.
+  - SPMS-9211 digital veterinary ear-tagging and vaccination protocol.
+  - POS-only card architecture preventing cash diversion.
+  - 120- to 150-day bullet repayment mechanics after animal sale.
+  - Comparison table contrasting Livestock Card vs Kisan Card.
+- **Fact Cross-Check:**
+  - Helpline verified: 0800-09211.
+  - SMS code verified: 8070 (`PLC <space> CNIC`).
+  - Online portal verified: plc.punjab.gov.pk.
+  - Loan range verified: Rs. 135,000 to Rs. 540,000.
+- **Readability & Intent:** Flesch-Kincaid Grade Level ~8.6. Clear, actionable agricultural guidance.
+- **E-E-A-T Compliance:** Written under author persona Muhammad Salman with official banking and veterinary department sources.

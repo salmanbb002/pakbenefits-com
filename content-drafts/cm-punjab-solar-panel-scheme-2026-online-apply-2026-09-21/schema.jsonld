@@ -1,0 +1,198 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-solar-panel-scheme-2026-online-apply/#article",
+      "headline": "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana Registration, 8800 SMS & Balloting List",
+      "description": "CM Punjab solar panel scheme 2026 online apply: cmsolarscheme.punjab.gov.pk registration, 8800 SMS verification, 100-200 unit free solar eligibility, aur balloting list results.",
+      "url": "https://pakbenefits.com/cm-punjab-solar-panel-scheme-2026-online-apply/",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman",
+        "jobTitle": "Lead Welfare Schemes Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "article > p:first-of-type"
+        ]
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Punjab Roshan Gharana Solar Scheme",
+          "sameAs": "https://cmsolarscheme.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Energy Department",
+          "sameAs": "https://energy.punjab.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "sameAs": "https://pitb.gov.pk/"
+        },
+        {
+          "@type": "FinancialService",
+          "name": "The Bank of Punjab",
+          "sameAs": "https://www.bop.com.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/cm-punjab-solar-panel-scheme-2026-online-apply/#howto",
+      "name": "How to Register Online for the CM Punjab Solar Scheme",
+      "description": "Step-by-step procedure to apply online for the Roshan Gharana Solar Scheme through cmsolarscheme.punjab.gov.pk.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Visit the Official Portal",
+          "text": "Navigate to cmsolarscheme.punjab.gov.pk using any web browser."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Select Electricity Distribution Company",
+          "text": "Choose your regional electricity company (LESCO, MEPCO, FESCO, GEPCO, or IESCO) from the dropdown."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Enter Bill Reference Number",
+          "text": "Type your 14-digit electricity bill reference number without dashes."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Enter CNIC & Biometric Mobile Number",
+          "text": "Input your 13-digit CNIC number and registered mobile SIM number to receive verification codes."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Submit & Save Tracking ID",
+          "text": "Review application details and click Submit to generate your official registration tracking token."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-solar-panel-scheme-2026-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official website to apply for the CM Punjab Solar Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The only official portal for the CM Punjab Roshan Gharana Solar Scheme is cmsolarscheme.punjab.gov.pk. Applicants should never enter personal CNIC or electricity bill information on unofficial commercial portals or social media pages."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check my solar scheme eligibility via SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can check eligibility by sending your 14-digit electricity bill reference number followed by a space and your 13-digit CNIC number to the official shortcode 8800. The automated central server will reply with your current eligibility tier."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the CM Punjab Solar Panel Scheme completely free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The scheme is 100% free with zero fees for protected domestic consumers consuming up to 200 electricity units per month. For households consuming between 201 and 500 units, the Punjab government provides a 90% subsidy, requiring the consumer to pay only a 10% share."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What equipment is included in the free solar panel package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The free package includes Tier-1 monocrystalline solar panels (550W or 1,100W), a pure sine wave hybrid inverter, a storage battery for evening hours, heavy-duty mounting structures, DC wiring, and free certified installation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum electricity consumption limit to qualify for a free system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To qualify for a 100% free system, the household's average electricity consumption must not exceed 200 units per month over the preceding six billing cycles, and the meter must be classified as a protected domestic connection."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can tenants apply for the Roshan Gharana Solar Scheme using their rented home meter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tenants can apply provided they submit the 14-digit bill reference number of the rented property alongside written owner consent and tenancy documentation during post-balloting technical verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are winners chosen if applicant volume exceeds available solar kits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Winners are selected through a transparent computerized e-balloting system designed and operated by the Punjab Information Technology Board (PITB) across all 36 administrative districts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does it mean if the 8800 SMS returns 'Record Not Found'?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 'Record Not Found' reply means the entered 14-digit bill reference number was mistyped or the regional DISCO has not yet synchronized recent consumer billing data with the central PITB server."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if an agent asks for money to guarantee a solar panel allotment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You should immediately refuse payment and report the individual to the official Punjab Energy Department helpline at 0800-02345, as government solar kits are distributed strictly through merit without any cash fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official helpline number for the CM Punjab Solar Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official toll-free helpline for inquiries, complaints, and status updates regarding the Roshan Gharana Solar Scheme is 0800-02345, operated during business hours by the Punjab Energy Department."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/cm-punjab-solar-panel-scheme-2026-online-apply/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Punjab Schemes",
+          "item": "https://pakbenefits.com/punjab-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab Solar Panel Scheme 2026 Online Apply",
+          "item": "https://pakbenefits.com/cm-punjab-solar-panel-scheme-2026-online-apply/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "headEntities": [
+    {
+      "name": "Chief Minister Punjab Roshan Gharana Solar Scheme",
+      "aliases": [
+        "CM Punjab Solar Panel Scheme",
+        "Roshan Gharana Program",
+        "Chief Minister Free Solar Panel Scheme",
+        "Punjab Roshan Gharana Scheme 2026"
+      ],
+      "type": "GovernmentService",
+      "sameAs": "https://cmsolarscheme.punjab.gov.pk/"
+    },
+    {
+      "name": "Punjab Energy Department",
+      "aliases": [
+        "Energy Department Government of the Punjab",
+        "Energy Punjab"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://energy.punjab.gov.pk/"
+    },
+    {
+      "name": "Punjab Information Technology Board",
+      "aliases": [
+        "PITB"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://pitb.gov.pk/"
+    }
+  ],
+  "tier1Entities": [
+    "Chief Minister Punjab Roshan Gharana Solar Scheme",
+    "Punjab Energy Department",
+    "cmsolarscheme.punjab.gov.pk Web Portal",
+    "8800 Solar Scheme SMS Gateway",
+    "Protected Domestic Consumers",
+    "550W and 1100W Solar Photovoltaic Systems",
+    "PITB Computerized E-Balloting System"
+  ],
+  "tier2Entities": [
+    "The Bank of Punjab",
+    "Electricity Distribution Companies (LESCO, MEPCO, FESCO, GEPCO, IESCO)",
+    "14-Digit Consumer Electricity Bill Reference Number",
+    "Sanctioned Load 2 Kilowatts",
+    "0800-02345 Solar Scheme Helpline",
+    "Pure Sine Wave Inverter and Battery Storage Pack",
+    "Anti-Fraud Solar Delivery Scam Advisory"
+  ]
+}

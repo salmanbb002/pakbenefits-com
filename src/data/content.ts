@@ -10976,6 +10976,10 @@ export const articles: Article[] = [
           {
             label: "8171 web portal eligibility guide",
             href: "/check-bisp-eligibility-8171/"
+          },
+          {
+            label: "BISP 8171 balance check online aur ATM se cash wasool karne ka tarika",
+            href: "/bisp-8171-balance-check-online-kaise-karein/"
           }
         ]
       },
@@ -11632,6 +11636,10 @@ export const articles: Article[] = [
           {
             label: "Check BISP status by CNIC online walkthrough",
             href: "/check-bisp-status-by-cnic-online/"
+          },
+          {
+            label: "BISP 8171 balance check online aur ATM se cash nikalne ka tarika",
+            href: "/bisp-8171-balance-check-online-kaise-karein/"
           }
         ]
       },
@@ -12979,6 +12987,14 @@ export const articles: Article[] = [
             href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
           },
           {
+            label: "CM Punjab Livestock Card interest-free feed loan guide",
+            href: "/cm-punjab-livestock-card-scheme-2026-online-apply/"
+          },
+          {
+            label: "CM Punjab Roshan Gharana Solar Scheme 2026 online apply",
+            href: "/cm-punjab-solar-panel-scheme-2026-online-apply/"
+          },
+          {
             label: "Farmer Support Card and Punjab agriculture subsidies guide",
             href: "/farmer-support-card-guide/"
           },
@@ -14160,7 +14176,607 @@ export const articles: Article[] = [
         href: "https://swd.punjab.gov.pk/"
       }
     ]
-  }
+  },
+{
+    slug: "cm-punjab-solar-panel-scheme-2026-online-apply",
+    title: "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana Registration, 8800 SMS & Balloting List",
+    excerpt: "To apply for the CM Punjab Solar Panel Scheme 2026 online, protected electricity consumers in Punjab must submit their 14-digit bill reference number and CNIC via the official portal (cmsolarscheme.punjab.gov.pk) or by sending an SMS to 8800. The Punjab government provides 100% free complete solar kits (550W to 1,100W) to households consuming under 200 monthly units through transparent PITB computerized e-balloting.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana & 8800 SMS",
+    metaDescription: "CM Punjab solar panel scheme 2026 online apply: cmsolarscheme.punjab.gov.pk registration, 8800 SMS verification, 100-200 unit free solar eligibility, aur balloting list results.",
+    focusKeyword: "cm punjab solar panel scheme 2026 online apply",
+    lsiKeywords: [
+      "roshan gharana program online registration",
+      "cmsolarscheme punjab gov pk registration",
+      "8800 solar scheme sms check",
+      "punjab free solar panel eligibility 200 units",
+      "roshan gharana scheme balloting list",
+      "cm solar scheme helpline"
+    ],
+    entities: [
+      "Chief Minister Punjab Roshan Gharana Solar Scheme",
+      "Punjab Energy Department",
+      "Punjab Information Technology Board",
+      "The Bank of Punjab",
+      "Electricity Distribution Companies (LESCO, MEPCO, FESCO, GEPCO, IESCO)",
+      "Protected Domestic Consumers",
+      "PITB Computerized E-Balloting System"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "12 min read",
+    image: "/images/cm-punjab-solar-panel-scheme.jpg",
+    imageAlt: "Modern rooftop solar panel installation under Chief Minister Punjab Roshan Gharana energy relief scheme",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the CM Punjab Roshan Gharana Solar Panel Scheme 2026?",
+        paragraphs: [
+          "The CM Punjab Roshan Gharana Solar Panel Scheme 2026 is a flagship social welfare and energy independence initiative launched by Chief Minister Maryam Nawaz Sharif to shield low- and middle-income families from soaring electricity tariffs. Managed jointly by the Punjab Energy Department and the Punjab Information Technology Board (PITB), the program provides comprehensive, field-ready rooftop solar energy systems to hundreds of thousands of domestic consumers across all 36 districts of Punjab.",
+          "Unlike traditional commercial solar leasing programs that mandate cumbersome interest charges or recurring service fees, the Roshan Gharana Program provides 100% free solar power packages to the poorest protected consumers and heavy 90% capital subsidies to middle-tier households. By generating clean solar electricity right at the domestic roof level, the scheme drastically reduces baseline grid demand and permanently lowers monthly utility bills for vulnerable working-class citizens."
+        ],
+        links: [
+          {
+            label: "Apni Chhat Apna Ghar interest-free housing loan scheme",
+            href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
+          },
+          {
+            label: "CM Punjab Kisan Card agricultural subsidy registration",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          }
+        ]
+      },
+      {
+        title: "Complete Eligibility Criteria: Who Qualifies for Free vs Subsidized Solar Systems?",
+        paragraphs: [
+          "Eligibility for the Chief Minister Solar Scheme is governed strictly by verifiable historical electricity billing data rather than arbitrary political discretionary quotas. The Punjab Energy Department interfaces directly with regional power distribution companies (DISCOs)—including LESCO, GEPCO, FESCO, MEPCO, and IESCO—to audit consumer consumption histories across the prior six billing cycles."
+        ],
+        bullets: [
+          "Tier 1 Free Solar (Up to 200 Units): Domestic consumers officially designated as 'Protected Consumers' maintaining an average monthly consumption below 200 units qualify for 100% free systems with zero upfront payments.",
+          "Tier 2 Subsidized Financing (201 to 500 Units): Households consuming 201 to 500 units receive a 90% Punjab government subsidy, with the remaining 10% financed via 5-year interest-free loans through The Bank of Punjab (BOP).",
+          "Clean Billing Record: Meters must possess a verifiable 14-digit consumer reference number with zero unresolved theft cases, court litigation, or commercial tariff conversions.",
+          "Sanctioned Electrical Load: Domestic load must not exceed 2 kW for low-tier protected allocations.",
+          "Punjab Residency: Valid 13-digit CNIC belonging to a permanent resident of Punjab."
+        ]
+      },
+      {
+        title: "How to Register Online for the Roshan Gharana Solar Scheme via cmsolarscheme.punjab.gov.pk",
+        paragraphs: [
+          "Applying for the CM Punjab Solar Scheme online takes less than five minutes through the unified PITB energy portal without requiring any paper application forms. Follow these verified steps:"
+        ],
+        bullets: [
+          "Open your web browser and navigate to the official portal: cmsolarscheme.punjab.gov.pk.",
+          "Select your relevant electricity distribution company (LESCO, MEPCO, FESCO, GEPCO, or IESCO) from the dropdown menu.",
+          "Enter your 14-digit electricity bill reference number exactly as shown on your recent monthly paper bill.",
+          "Input your 13-digit Computerized National Identity Card (CNIC) number without dashes or spaces.",
+          "Provide an active mobile SIM number biometrically registered in your own name to receive instant SMS updates.",
+          "Submit your application and note down your official computerized tracking token."
+        ]
+      },
+      {
+        title: "How to Check Application Status & Eligibility via 8800 SMS Service",
+        paragraphs: [
+          "For citizens without internet connectivity or smartphones, the Punjab government provides an automated SMS gateway through shortcode 8800:"
+        ],
+        bullets: [
+          "Open the SMS composer on your mobile handset.",
+          "Type your 14-digit electricity bill reference number, insert one space, and type your 13-digit CNIC (e.g., 12345678901234 3520112345671).",
+          "Send the message to the official government shortcode 8800.",
+          "Receive an instant automated confirmation stating your consumer category, data match status, or balloting outcome."
+        ]
+      },
+      {
+        title: "Technical Specifications: Solar Panels, Inverters & Battery Storage Included",
+        paragraphs: [
+          "Every solar kit distributed under the CM Punjab Roshan Gharana program adheres to stringent Tier-1 quality standards certified by the Pakistan Engineering Council (PEC) and the Alternative Energy Development Board (AEDB):"
+        ],
+        bullets: [
+          "Tier-1 Photovoltaic Modules: Monocrystalline PERC panels rated at 550W each with high temperature coefficient resilience.",
+          "Intelligent Hybrid Inverters: Pure sine wave solar hybrid inverter with integrated MPPT charge controllers.",
+          "Storage Battery Pack: Maintenance-free deep-cycle tubular or lithium iron phosphate energy storage unit for evening lighting and fans.",
+          "Mounting & Safety: Heavy-duty galvanized mounting brackets, lightning arrestors, surge breakers, and DC copper cabling.",
+          "Certified Installation: Turnkey installation and electrical testing by authorized engineering contractors at zero charge."
+        ]
+      },
+      {
+        title: "Roshan Gharana Scheme Balloting List 2026: How to Check Results Online",
+        paragraphs: [
+          "Because applicant volume exceeds the initial quota of hardware kits, beneficiaries are selected through transparent, district-wise computerized e-balloting conducted by PITB.",
+          "To check your result, visit cmsolarscheme.punjab.gov.pk and enter your CNIC or 14-digit bill reference number in the 'Balloting Results' portal. Successful winners also receive an official confirmation SMS directly from shortcode 8800 before technical teams visit for roof structural inspection."
+        ]
+      },
+      {
+        title: "Critical Scam Alert: Protecting Yourself from Fake Solar Registration Fees",
+        paragraphs: [
+          "Due to high public interest, fraudulent operators frequently attempt to swindle citizens with fake solar allotment claims. Observe these safety protocols:"
+        ],
+        bullets: [
+          "Zero Application Fee: The Government of Punjab charges zero application or token fees. Anyone demanding Rs. 1,000 to Rs. 5,000 is an imposter.",
+          "No Mobile Wallet Payments: Never transfer funds via EasyPaisa, JazzCash, or bank accounts for 'guaranteed balloting selection'.",
+          "Official Channels Only: Use only cmsolarscheme.punjab.gov.pk and SMS 8800.",
+          "Helpline Verification: Call the official Energy Department helpline at 0800-02345 to report fraudulent solicitations."
+        ]
+      },
+      {
+        title: "Roshan Gharana Solar Scheme Overview Table: 2026 System Specifications & Costs",
+        paragraphs: [
+          "Compare the three core consumer tiers under the Roshan Gharana Solar Scheme:"
+        ],
+        table: {
+          caption: "CM Punjab Roshan Gharana Solar Scheme 2026 Tiers and Specifications",
+          headers: ["Scheme Parameter", "Protected Tier 1 (≤100 Units)", "Protected Tier 2 (101–200 Units)", "Subsidized Tier 3 (201–500 Units)"],
+          rows: [
+            ["Photovoltaic Capacity", "550W (1 Panel)", "1,100W (2 Panels)", "2 kW to 3.5 kW Array"],
+            ["Inverter System", "Pure Sine Wave Hybrid", "Pure Sine Wave Hybrid", "High-Efficiency Hybrid / On-Grid"],
+            ["Battery Storage", "Tubular / Lithium Unit", "High-Capacity Storage Pack", "Optional Storage / Grid-Tied"],
+            ["Government Subsidy", "100% Free", "100% Free", "90% Capital Subsidy"],
+            ["Citizen Contribution", "Rs. 0 (Free)", "Rs. 0 (Free)", "10% Down Payment + BOP Loan"],
+            ["Verification Channel", "cmsolarscheme / 8800 SMS", "cmsolarscheme / 8800 SMS", "cmsolarscheme & BOP Branches"],
+            ["Installation Fee", "Rs. 0 (Free by Certified EPC)", "Rs. 0 (Free by Certified EPC)", "Standardized Subsidized Rates"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official website to apply for the CM Punjab Solar Scheme?",
+        answer: "The only official portal for the CM Punjab Roshan Gharana Solar Scheme is cmsolarscheme.punjab.gov.pk. Applicants should never enter personal CNIC or electricity bill information on unofficial commercial portals or social media pages."
+      },
+      {
+        question: "How can I check my solar scheme eligibility via SMS?",
+        answer: "You can check eligibility by sending your 14-digit electricity bill reference number followed by a space and your 13-digit CNIC number to the official shortcode 8800. The automated central server will reply with your current eligibility tier."
+      },
+      {
+        question: "Is the CM Punjab Solar Panel Scheme completely free?",
+        answer: "The scheme is 100% free with zero fees for protected domestic consumers consuming up to 200 electricity units per month. For households consuming between 201 and 500 units, the Punjab government provides a 90% subsidy, requiring the consumer to pay only a 10% share."
+      },
+      {
+        question: "What equipment is included in the free solar panel package?",
+        answer: "The free package includes Tier-1 monocrystalline solar panels (550W or 1,100W), a pure sine wave hybrid inverter, a storage battery for evening hours, heavy-duty mounting structures, DC wiring, and free certified installation."
+      },
+      {
+        question: "What is the maximum electricity consumption limit to qualify for a free system?",
+        answer: "To qualify for a 100% free system, the household's average electricity consumption must not exceed 200 units per month over the preceding six billing cycles, and the meter must be classified as a protected domestic connection."
+      },
+      {
+        question: "Can tenants apply for the Roshan Gharana Solar Scheme using their rented home meter?",
+        answer: "Tenants can apply provided they submit the 14-digit bill reference number of the rented property alongside written owner consent and tenancy documentation during post-balloting technical verification."
+      },
+      {
+        question: "How are winners chosen if applicant volume exceeds available solar kits?",
+        answer: "Winners are selected through a transparent computerized e-balloting system designed and operated by the Punjab Information Technology Board (PITB) across all 36 administrative districts."
+      },
+      {
+        question: "What does it mean if the 8800 SMS returns 'Record Not Found'?",
+        answer: "A 'Record Not Found' reply means the entered 14-digit bill reference number was mistyped or the regional DISCO has not yet synchronized recent consumer billing data with the central PITB server."
+      },
+      {
+        question: "What should I do if an agent asks for money to guarantee a solar panel allotment?",
+        answer: "You should immediately refuse payment and report the individual to the official Punjab Energy Department helpline at 0800-02345, as government solar kits are distributed strictly through merit without any cash fees."
+      },
+      {
+        question: "What is the official helpline number for the CM Punjab Solar Scheme?",
+        answer: "The official toll-free helpline for inquiries, complaints, and status updates regarding the Roshan Gharana Solar Scheme is 0800-02345, operated during business hours by the Punjab Energy Department."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "CM Punjab Roshan Gharana Solar Portal",
+        href: "https://cmsolarscheme.punjab.gov.pk/"
+      },
+      {
+        label: "Punjab Energy Department",
+        href: "https://energy.punjab.gov.pk/"
+      }
+    ]
+},
+{
+    slug: "cm-punjab-livestock-card-scheme-2026-online-apply",
+    title: "CM Punjab Livestock Card Scheme 2026 Online Apply: PLC Portal Registration, 8070 SMS & Eligibility",
+    excerpt: "To apply for the CM Punjab Livestock Card Scheme 2026 online, livestock farmers in Punjab must register by sending an SMS with their CNIC to 8070 or applying through the official portal (plc.punjab.gov.pk). The Punjab government provides Rs. 135,000 to Rs. 540,000 in 100% interest-free loans via The Bank of Punjab for purchasing animal feed and silage for 5 to 20 calves.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Livestock Card Scheme 2026 Online Apply: 8070 SMS & PLC Portal",
+    metaDescription: "CM Punjab livestock card scheme 2026 online apply: plc.punjab.gov.pk registration, 8070 SMS, Rs 135,000 to Rs 540,000 BOP interest-free feed loan, SPMS-9211 animal tagging.",
+    focusKeyword: "cm punjab livestock card scheme 2026 online apply",
+    lsiKeywords: [
+      "plc punjab gov pk registration",
+      "livestock card 8070 registration",
+      "punjab livestock card eligibility criteria",
+      "bop livestock card interest free loan",
+      "cattle fattening feed loan punjab",
+      "livestock helpline 0800-09211"
+    ],
+    entities: [
+      "Chief Minister Punjab Livestock Card Scheme",
+      "Punjab Livestock & Dairy Development Department",
+      "The Bank of Punjab",
+      "SPMS-9211 Animal Ear-Tagging Database",
+      "Punjab Information Technology Board",
+      "Concentrated Cattle Feed Wanda"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "12 min read",
+    image: "/images/cm-punjab-livestock-card-scheme.jpg",
+    imageAlt: "Pakistani cattle farmer with healthy young calves at rural Punjab livestock farm",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the CM Punjab Livestock Card Scheme 2026?",
+        paragraphs: [
+          "The CM Punjab Livestock Card Scheme 2026 is an agricultural finance initiative designed by Chief Minister Maryam Nawaz Sharif to formalize and expand rural livestock farming across Punjab. Executed collaboratively by the Punjab Livestock and Dairy Development Department (L&DD), the Punjab Information Technology Board (PITB), and The Bank of Punjab (BOP), the program injects billions of rupees in interest-free working capital into the livestock sector.",
+          "Rather than giving cash handouts that can be diverted to non-productive household consumption, the scheme equips 80,000 registered livestock breeders with a specialized debit card. This card enables farmers to purchase high-protein concentrated cattle feed (Wanda), silage, and vital mineral mixtures from verified agribusiness vendors, accelerating animal weight gain and substantially elevating domestic meat yields for domestic consumption and export."
+        ],
+        links: [
+          {
+            label: "CM Punjab Kisan Card interest-free input loan guide",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Apna Khet Apna Rozgar landless rural farmer scheme",
+            href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          }
+        ]
+      },
+      {
+        title: "Loan Amount Breakdown: How the Rs. 135,000 to Rs. 540,000 Feed Credit Works",
+        paragraphs: [
+          "The financing provided under the Punjab Livestock Card functions as an interest-free, closed-loop credit facility tailored directly to the biological fattening cycle of young ruminants. The Punjab government fully subsidizes the banking markup, meaning farmers repay only the exact principal amount borrowed.",
+          "The credit allocation is calibrated at a standardized rate of Rs. 27,000 per registered animal across a 120-day fattening duration. Farmers owning the minimum threshold of 5 male calves receive an interest-free loan of Rs. 135,000, while those managing 10 calves receive Rs. 270,000. Farmers managing the maximum permissible threshold of 20 male calves receive the top credit limit of Rs. 540,000. Funds are disbursed in monthly installments directly onto the Livestock Card to guarantee that animals receive consistent, scheduled nutritional inputs throughout their development cycle."
+        ]
+      },
+      {
+        title: "Eligibility Criteria for Livestock Farmers: Cattle Count & Verification Rules",
+        paragraphs: [
+          "Eligibility for the Livestock Card is tied directly to physical animal inventory, digital veterinary verification, and personal financial reliability. The program targets dedicated smallholders and pastoralists rather than large commercial feedlot conglomerates:"
+        ],
+        bullets: [
+          "Punjab Domicile: Applicants must be permanent residents of Punjab holding a valid 13-digit Computerized National Identity Card (CNIC).",
+          "Calf Inventory Limits: The farmer must physically own and maintain between 5 and 20 healthy male cattle (cow) or buffalo calves aged between 9 months and 2 years.",
+          "Biometric SIM Ownership: The mobile phone number provided during application must be biometrically registered with NADRA in the applicant's own name.",
+          "Credit Bureau (e-CIB) Clearance: Applicants must have a clean credit record with no outstanding defaults or bad-debt write-offs in the State Bank of Pakistan's electronic Credit Information Bureau.",
+          "Livestock Database Registration: All applicant livestock must be registered, vaccinated, and digitally ear-tagged in the Punjab Livestock Department's SPMS-9211 database system."
+        ]
+      },
+      {
+        title: "How to Register via 8070 SMS Service: Step-by-Step Code Format",
+        paragraphs: [
+          "The simplest method to initiate registration for the Punjab Livestock Card is through the government's dedicated 8070 SMS service, which works on any basic mobile phone:"
+        ],
+        bullets: [
+          "Open the text messaging application on your mobile handset.",
+          "In the message window, type PLC, leave a single space, and then type your 13-digit CNIC number without hyphens (for example: PLC 3520112345671).",
+          "Send this text message to the official shortcode 8070.",
+          "Receive an automated response confirming that your application has been received and logged into the central PITB livestock verification database.",
+          "Keep your mobile phone active to receive follow-up scheduling calls from your local veterinary officer for on-farm physical animal inspection."
+        ]
+      },
+      {
+        title: "How to Apply Online on the Official plc.punjab.gov.pk Web Portal",
+        paragraphs: [
+          "Farmers who prefer applying via internet browser or through rural digital facilitation centers can submit their credentials directly on the official Punjab Livestock Card web portal:"
+        ],
+        bullets: [
+          "Navigate to the official web address: plc.punjab.gov.pk.",
+          "Click on the 'Farmer Online Registration' tab on the main landing page.",
+          "Enter your 13-digit CNIC number and registered mobile phone number.",
+          "Input your residential address, including your district, tehsil, and union council.",
+          "Declare your current animal count, specifying the exact number of male cow calves and buffalo calves available for fattening.",
+          "Submit the digital form to generate your computerized application tracking number, which can be printed or saved for banking records."
+        ]
+      },
+      {
+        title: "Mandatory In-Person Step: SPMS-9211 Animal Tagging at Veterinary Hospitals",
+        paragraphs: [
+          "Following your registration on 8070 or the web portal, a team from your local Civil Veterinary Hospital or Tehsil Livestock Dispensary will visit your farm, or you may bring your animals to the nearest designated center.",
+          "Each approved male calf receives a tamper-proof yellow plastic ear tag containing a unique 8-digit identification code. The veterinary officer uploads these tag numbers, the animal's weight, and health status into the provincial SPMS-9211 database. Once this digital health certificate is verified, the application is transmitted electronically to The Bank of Punjab for final credit underwriting."
+        ],
+        links: [
+          {
+            label: "CM Punjab Green Tractor Scheme 2026 online registration guide",
+            href: "/cm-punjab-green-tractor-scheme-2026-online-apply/"
+          }
+        ]
+      },
+      {
+        title: "How to Collect and Use Your BOP Livestock Card at Feed POS Dealers",
+        paragraphs: [
+          "Once The Bank of Punjab completes automated credit screening, the approved applicant receives a collection SMS directing them to their assigned BOP district branch.",
+          "The farmer visits the branch with their CNIC and SPMS-9211 certificate to collect the card. The Livestock Card operates through Bank of Punjab Point of Sale (POS) terminals installed at pre-registered feed mills, silage suppliers, and mineral nutrition shops across Punjab. The cost of feed is debited directly from the government-subsidized credit limit, ensuring funds cannot be cashed out or misappropriated for non-agricultural spending."
+        ]
+      },
+      {
+        title: "Repayment Terms & 120-Day Bullet Settlement Schedule",
+        paragraphs: [
+          "The financial facility operates on a soft bullet repayment model structured over a 120- to 150-day cycle. Throughout the 4-month rearing period, the farmer incurs zero monthly installments and zero accumulated interest markup.",
+          "Once the calves attain optimum market weight (typically 250 to 350 kg) after 120 days of intensive feeding, the farmer sells the fattened animals at local livestock markets (Mandis) and settles the principal loan in one single payment at The Bank of Punjab to qualify for the next cycle."
+        ]
+      },
+      {
+        title: "Punjab Livestock Card vs CM Kisan Card: Key Differences Comparison Table",
+        paragraphs: [
+          "Review the core differences between Punjab's two flagship rural empowerment cards:"
+        ],
+        table: {
+          caption: "CM Punjab Livestock Card vs CM Punjab Kisan Card Comparison",
+          headers: ["Program Dimension", "CM Punjab Livestock Card Scheme", "CM Punjab Kisan Card Scheme"],
+          rows: [
+            ["Target Beneficiary", "Small Cattle and Buffalo Calves Breeders", "Crop Cultivators & Agricultural Landowners"],
+            ["Loan Amount", "Rs. 135,000 to Rs. 540,000", "Up to Rs. 150,000 per Acre (Max Rs. 150,000 total)"],
+            ["Financing Purpose", "Animal Feed (Wanda), Silage & Mineral Mixtures", "Agricultural Inputs (Fertilizer, Certified Seed, Pesticides)"],
+            ["Managing Department", "Punjab Livestock & Dairy Development (L&DD)", "Punjab Agriculture Department"],
+            ["Eligibility Measure", "Ownership of 5 to 20 Tagged Male Calves", "Ownership of up to 12.5 Acres of Farmland (PLRA)"],
+            ["Registration Channel", "SMS to 8070 / plc.punjab.gov.pk", "SMS to 8070 / Agriculture Field Offices"],
+            ["Mandatory Verification", "SPMS-9211 Veterinary Animal Ear-Tagging", "PLRA Land Record Digital Ownership Match"],
+            ["Repayment Structure", "120–150 Days Bullet Repayment (Post-Sale)", "6-Month Crop Harvest Cycle (Rabi/Kharif)"],
+            ["Banking Partner", "The Bank of Punjab (BOP)", "The Bank of Punjab (BOP)"],
+            ["Helpline Support", "0800-09211 (Livestock Department)", "0800-17000 (Agriculture Department)"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the primary purpose of the CM Punjab Livestock Card Scheme?",
+        answer: "The CM Punjab Livestock Card Scheme provides interest-free working capital loans of Rs. 135,000 to Rs. 540,000 for purchasing animal feed, silage, and mineral supplements to support smallholder cattle fattening."
+      },
+      {
+        question: "What is the SMS code to apply for the Punjab Livestock Card?",
+        answer: "Farmers can initiate registration by texting PLC followed by a space and their 13-digit CNIC number to the official shortcode 8070."
+      },
+      {
+        question: "How much loan can I get under the Livestock Card Scheme?",
+        answer: "The loan amount ranges from Rs. 135,000 for 5 male calves up to Rs. 540,000 for 20 male calves, calculated at Rs. 27,000 per registered animal."
+      },
+      {
+        question: "Does the Punjab Livestock Card charge any interest or markup?",
+        answer: "The loan is 100% interest-free with 0% bank markup, as the Government of Punjab fully subsidizes all financial costs through The Bank of Punjab."
+      },
+      {
+        question: "Can I withdraw cash from an ATM using the Livestock Card?",
+        answer: "No, the Livestock Card is locked to Point of Sale (POS) machines at registered feed mills, silage dealers, and nutrition stores to prevent fund diversion."
+      },
+      {
+        question: "What age must the male calves be to qualify for the scheme?",
+        answer: "Calves must be healthy male cow or buffalo young stock aged between 9 months and 2 years, verified by livestock veterinary staff."
+      },
+      {
+        question: "How long do farmers have to repay the loan?",
+        answer: "Farmers repay the principal amount in a single bullet payment within 120 to 150 days, coinciding with the sale of fattened animals at livestock markets."
+      },
+      {
+        question: "What happens during the SPMS-9211 animal verification step?",
+        answer: "A veterinary officer physically inspects the calves, vaccinates them against disease, attaches official yellow plastic ear tags, and logs the records into the SPMS-9211 database."
+      },
+      {
+        question: "Can farmers with bad credit history apply for the Livestock Card?",
+        answer: "Applicants must pass State Bank of Pakistan e-CIB credit checks; individuals with unresolved bank defaults are not eligible until arrears are settled."
+      },
+      {
+        question: "What is the official helpline for the Punjab Livestock Card?",
+        answer: "The official toll-free helpline for inquiries, complaints, and application tracking is 0800-09211, operated 24/7 by the Punjab Livestock Department."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Punjab Livestock Card Portal",
+        href: "https://plc.punjab.gov.pk/"
+      },
+      {
+        label: "Punjab Livestock & Dairy Development Department",
+        href: "https://livestock.punjab.gov.pk/"
+      },
+      {
+        label: "The Bank of Punjab Agricultural Financing",
+        href: "https://www.bop.com.pk/"
+      }
+    ]
+},
+{
+    slug: "bisp-8171-balance-check-online-kaise-karein",
+    title: "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat Paise Check Aur ATM Se Nikalne Ka Mukammal Tarika",
+    excerpt: "BISP 8171 balance check online karne ke liye official web portal (8171.bisp.gov.pk) par apna 13-hinson ka CNIC number enter karein ya 8171 par SMS bhejein. Benazir Kafaalat ki te-maahi qist Rs. 10,500 hai, jo aap apne qareebi HBL ATM par baghair card biometric tasdeeq ke zariye ya HBL Konnect biometric shop se baghair kisi kataoti ke poori wasool kar sakte hain.",
+    showExcerpt: true,
+    metaTitle: "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat & ATM Guide",
+    metaDescription: "BISP 8171 balance check online kaise karein: 8171.bisp.gov.pk portal, 8171 SMS, HBL ATM biometric cash nikalne ka tarika, aur Rs 10,500 kafaalat kataoti se bachne ki hidayat.",
+    focusKeyword: "bisp 8171 balance check online kaise karein",
+    lsiKeywords: [
+      "benazir kafaalat paise check karne ka tarika",
+      "8171 balance check cnic online urdu",
+      "bisp payment atm se nikalne ka tarika",
+      "hbl konnect bisp biometric cash collection",
+      "bisp 10500 installment check karne ka tarika",
+      "bisp helpline number 0800-26477"
+    ],
+    entities: [
+      "Benazir Income Support Programme",
+      "8171 Web Portal",
+      "8171 SMS Service",
+      "Habib Bank Limited",
+      "Bank Alfalah",
+      "HBL Konnect Biometric Network",
+      "Benazir Kafaalat Quarterly Installment"
+    ],
+    primaryCategory: "payment-check",
+    categorySlugs: [
+      "payment-check",
+      "8171",
+      "bisp-registration"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "11 min read",
+    image: "/images/bisp-8171-balance-check-online.jpg",
+    imageAlt: "Pakistani female beneficiary withdrawing Benazir Kafaalat cash from HBL biometric ATM",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "BISP 8171 Balance Check Online Kaise Karein? (Web Portal Ka Asaan Tarika)",
+        paragraphs: [
+          "8171 web portal ke zariye Benazir Kafaalat ke paise check karne ka tareeqa nihayat aasan, muft aur fori hai. Government of Pakistan ne BISP beneficiaries ki sahulat ke liye central database ko online portal se munsalik kiya hai taake khawateen ko dukanon ke chakkar na lagane paren.",
+          "Apne mobile ya computer ke browser mein official website 8171.bisp.gov.pk open karein, apna 13-hinson ka CNIC number aur captcha code darj karein, aur 'Maloom Karein' par click karein. Screen par foran aap ki qist ka status aur raqam ki tafseel zahir ho jayegi."
+        ],
+        links: [
+          {
+            label: "8171 check online kaise karein portal guide",
+            href: "/8171-check-online-kaise-karein/"
+          },
+          {
+            label: "BISP registration check by CNIC dynamic survey guide",
+            href: "/bisp-registration-check-by-cnic-kaise-karein/"
+          }
+        ]
+      },
+      {
+        title: "Mobile SMS 8171 Ke Zariye Kafaalat Balance Maloom Karne Ka Tarika",
+        paragraphs: [
+          "Jin khawateen ya afrad ke paas internet ya smartphone ki sahulat nahi hai, woh saday key-pad walay phone se 8171 SMS service ke zariye bhi apna balance maloom kar sakte hain:",
+          "Hamesha yaad rakhein ke BISP ka official SMS sirf aur sirf 8171 se aata hai. Kisi private mobile number (maslan 0300 ya 0345) se aane walay lottery ya inaami SMS fraud hote hain."
+        ],
+        bullets: [
+          "Mobile phone ka SMS compose option open karein.",
+          "Apna 13-hinson ka CNIC number bina space ya dash ke type karein (maslan: 3520112345671).",
+          "Is message ko official number 8171 par send kar dein.",
+          "Chand lamhon mein BISP ke automated server se tasdeeqi message mosool hoga jis mein qist ka status darj hoga."
+        ]
+      },
+      {
+        title: "HBL ATM Se BISP Payment Nikalne Ka Step-by-Step Tarika (Baghair ATM Card)",
+        paragraphs: [
+          "BISP beneficiaries ko ATM se paise nikalne ke liye kisi plastic ATM debit card ki zaroorat nahi hoti. Habib Bank Limited (HBL) ke tamam biometric ATMs par baghair card sirf angoothay ke nishan se cash nikalne ki sahulat mojood hai:"
+        ],
+        bullets: [
+          "Qareebi HBL ATM machine par jayen aur keypad par sabz rang ka 'Enter / OK' button dabayein.",
+          "Screen par zabanon ki list mein se 'Urdu' zaban ka intekhab karein.",
+          "Samne aane walay options mein se 'BISP / Benazir Kafaalat' par click karein.",
+          "Apna 13-hinson ka CNIC number keypad se type karein aur tasdeeq karein.",
+          "Biometric fingerprint device par apna seedha (right) angootha ya ungli scan karein.",
+          "Screen par balance (Rs. 10,500) nazar aane par 'Raqam Nikalwayen' select karein aur cash aur computerized slip wasool karein."
+        ],
+        links: [
+          {
+            label: "BISP biometric verification failed complete step-by-step fix",
+            href: "/bisp-biometric-verification-failed/"
+          }
+        ]
+      },
+      {
+        title: "HBL Konnect Aur Bank Alfalah Biometric Retailer Se Cash Collection",
+        paragraphs: [
+          "Agar aap ke ilaqay mein ATM machine mojood nahi hai, to aap BISP ke registered biometric payment agents se bhi apni raqam wasool kar sakti hain. Punjab, Sindh, aur Balochistan mein HBL Konnect jabke KPK aur Gilgit-Baltistan mein Bank Alfalah ke agents payment disburse karte hain.",
+          "Agent ke paas jane se pehle apna asal NADRA CNIC card lazmi sath rakhein. Agent ki biometric device par apna CNIC enter karwayen aur angootha scan karein. Payment success hone par agent se apni poori raqam wasool karein aur printed receipt zaroor mangain."
+        ]
+      },
+      {
+        title: "BISP 10,500 Installment Mein Illegal Deduction (Kataoti) Se Kaise Bachein?",
+        paragraphs: [
+          "BISP ki raqam wasool karte waqt sab se bara masla dukanon aur agents ki ghair-qanooni kataoti (illegal deduction) hai, jahan agents bholi-bhali khawateen se 500 se 1,000 rupay tak kat letay hain:"
+        ],
+        bullets: [
+          "Poori Raqam Wasool Karein: Government of Pakistan ki janib se muqarrar karda qist Rs. 10,500 poori hai. Kisi agent ko 1 rupay bhi service charges na dein.",
+          "Computerized Slip Lazmi Lein: Har transaction ke baad printed receipt hasil karein jis par saaf likha hota hai ke bank charges Rs. 0 hain.",
+          "Pehle Angootha Na Lagwayen: Agar koi agent kahe ke 'Pehle angootha lagao kal paise milenge', to hargiz angootha na lagayein.",
+          "0800-26477 Helpline Par Shikayat: Agar koi agent kataoti kare, to foran BISP ki toll-free helpline 0800-26477 par us dukandar ki complaint darj karwayen."
+        ],
+        links: [
+          {
+            label: "BISP payment approved but no cash received troubleshooting guide",
+            href: "/bisp-payment-approved-but-no-cash-received/"
+          }
+        ]
+      },
+      {
+        title: "Biometric Verification Failed (Error 93) Ka Asal Hal Kya Hai?",
+        paragraphs: [
+          "Bohat si buzurg aur mehnat kash khawateen ko ATM ya dukan par angootha lagane par 'Biometric Verification Failed' ya 'Error 93' ka masla pesh aata hai.",
+          "Angoothay ko saaf paani se dho kar achi tarah saaf karein ya halka sa moisturizer lagayein taake lakeerain wazeh ho sakein. Agar phir bhi masla hal na ho, to qareebi BISP Tehsil Office ke Biometric Facilitation Desk par tashreef le jayen, jahan NADRA verification ke zariye payment release ka token issue kiya jata hai."
+        ]
+      },
+      {
+        title: "BISP Payment Withdrawal Channels Comparison Table",
+        paragraphs: [
+          "BISP ki raqam nikalne ke mukhtalif zariye aur unke fawaid ka mawazna:"
+        ],
+        table: {
+          caption: "BISP Benazir Kafaalat Cash Collection Methods Comparison",
+          headers: ["Payment Method", "Kahan Se Nikalwayen", "Fees / Charges", "Zaroori Cheezain", "Faiday & Ehtiyat"],
+          rows: [
+            ["HBL Biometric ATM", "Kisi bhi HBL ATM Machine", "100% Muft (Rs. 0 Fee)", "Asal CNIC + Angootha", "Zero Kataoti, 24 ghantay dastiyab"],
+            ["HBL Konnect Retailer", "Qareebi HBL Konnect Shop", "100% Muft (Rs. 0 Fee)", "Asal CNIC + Biometric Thumb", "Gaon mein qareeb tareen, slip lazmi lein"],
+            ["Bank Alfalah Campsite", "Designated BISP Camps / Schools", "100% Muft (Rs. 0 Fee)", "Asal CNIC + BISP SMS", "KPK/Gilgit mein police security intizam"],
+            ["BISP Tehsil Center Desk", "Sarkari BISP Tehsil Office", "100% Muft (Rs. 0 Fee)", "Asal CNIC + Shikayat Token", "Biometric Error 93 aur blocked case hal"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "BISP 8171 balance check karne ki official website konsi hai?",
+        answer: "BISP balance aur ahal hone ka status check karne ki wahid official website 8171.bisp.gov.pk hai. Kisi bhi ghair-sarkari portal par apna CNIC number hargiz enter na karein."
+      },
+      {
+        question: "8171 par SMS bhej kar balance kaise check karte hain?",
+        answer: "Apne mobile phone ke Write SMS mein apna 13-hinson ka CNIC number bina dash ke type karein aur 8171 par send karein. Chand lamhon mein tasdeeqi jawab mil jayega."
+      },
+      {
+        question: "Kya ATM se BISP ke paise nikalne ke liye ATM card hona zaroori hai?",
+        answer: "Nahi, ATM card ki koi zaroorat nahi hoti. Aap HBL ke biometric ATM par sabz rang ka button daba kar bina card angoothay ke nishan se paise nikal sakti hain."
+      },
+      {
+        question: "Benazir Kafaalat ki taaza tareen qist ki raqam kitni hai?",
+        answer: "Benazir Kafaalat ki standard te-maahi qist Rs. 10,500 hai. Jin khawateen ke bachay Taleemi Wazaif mein registered hain unko school wazaif ki izafi raqam bhi sath milti hai."
+      },
+      {
+        question: "Agar dukan wala 500 ya 1000 rupay kataoti kare to kya karein?",
+        answer: "Dukan wale ko koi kataoti na dein aur foran BISP ki toll-free helpline 0800-26477 par call kar ke dukandar ke khilaf complaint darj karwayen."
+      },
+      {
+        question: "Biometric verification failed ya Error 93 ka matlab kya hai?",
+        answer: "Iska matlab hai ke machine par aap ke angoothay ke nishan match nahi hue. Haath dho kar doosri ungli scan karein ya BISP Tehsil Office ke verification desk se rabta karein."
+      },
+      {
+        question: "HBL Konnect shop se paise wasool karte waqt receipt lena kyun zaroori hai?",
+        answer: "Receipt par nikaali gayi raqam aur zero fees saaf darj hoti hai, jis se retailer aap se ghair-qanooni kataoti nahi kar sakta aur payment ka pakka sabot rehta hai."
+      },
+      {
+        question: "Kya shauhar ya beta aurat ki jagah ja kar BISP ke paise nikal sakta hai?",
+        answer: "Nahi, BISP ke qawaneen ke mutabiq registered mustahiq khatoon ka khud physical mojood hona aur biometric angootha lagana lazmi hai."
+      },
+      {
+        question: "Agar 8171 portal par 'Record Not Found' aaye to kya karein?",
+        answer: "Iska matlab hai ke aap ka NSER survey mojood nahi hai. Apne qareebi BISP Tehsil Office ja kar Dynamic Registry Desk par naya survey karwayen."
+      },
+      {
+        question: "BISP ki official complaint helpline ka number kya hai?",
+        answer: "BISP ki official toll-free complaint helpline ka number 0800-26477 hai, jis par subah 9 se raat 11 baje tak muft call kar ke madad li ja sakti hai."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Official 8171 Web Portal",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "Benazir Income Support Programme (BISP)",
+        href: "https://www.bisp.gov.pk/"
+      }
+    ]
+}
 ];
 
 export const informationPages: InformationPage[] = [

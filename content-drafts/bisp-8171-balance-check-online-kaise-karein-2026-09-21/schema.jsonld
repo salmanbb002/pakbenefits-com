@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-8171-balance-check-online-kaise-karein/#article",
+      "headline": "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat Paise Check Aur ATM Se Nikalne Ka Mukammal Tarika",
+      "description": "BISP 8171 balance check online kaise karein: 8171.bisp.gov.pk portal, 8171 SMS, HBL ATM biometric cash nikalne ka tarika, aur Rs 10,500 kafaalat kataoti se bachne ki hidayat.",
+      "url": "https://pakbenefits.com/bisp-8171-balance-check-online-kaise-karein/",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "inLanguage": "ur-Latn",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman",
+        "jobTitle": "Lead Welfare Schemes Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "article > p:first-of-type"
+        ]
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://www.bisp.gov.pk/"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "8171 Web Portal",
+          "sameAs": "https://8171.bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "FinancialService",
+          "name": "Habib Bank Limited",
+          "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/bisp-8171-balance-check-online-kaise-karein/#howto",
+      "name": "HBL ATM Se BISP Payment Nikalne Ka Tarika",
+      "description": "Baghair card HBL ATM se biometric thumb verification ke zariye BISP Benazir Kafaalat cash nikalne ka step-by-step procedure.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Sabz Button Dabayein",
+          "text": "ATM keypad par sabz (green) rang ka Enter / OK button dabayein."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Urdu Zaban Ka Intekhab",
+          "text": "Screen par aane wali zabanon mein se Urdu select karein."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "BISP Option Aur CNIC Enter Karein",
+          "text": "BISP / Benazir Kafaalat option par click karein aur apna 13-hinson ka CNIC number enter karein."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Biometric Angootha Scan Karein",
+          "text": "Scanner par apna seedha angootha ya ungli rakh kar biometric tasdeeq mukammal karein."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Cash Aur Receipt Wasool Karein",
+          "text": "Rs. 10,500 Cash Withdrawal select karein aur machine se poori raqam aur printed receipt wasool karein."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-8171-balance-check-online-kaise-karein/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP 8171 balance check karne ki official website konsi hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP balance aur ahal hone ka status check karne ki wahid official website 8171.bisp.gov.pk hai. Kisi bhi ghair-sarkari portal par apna CNIC number hargiz enter na karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "8171 par SMS bhej kar balance kaise check karte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apne mobile phone ke Write SMS mein apna 13-hinson ka CNIC number bina dash ke type karein aur 8171 par send karein. Chand lamhon mein tasdeeqi jawab mil jayega."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya ATM se BISP ke paise nikalne ke liye ATM card hona zaroori hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, ATM card ki koi zaroorat nahi hoti. Aap HBL ke biometric ATM par sabz rang ka button daba kar bina card angoothay ke nishan se paise nikal sakti hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Benazir Kafaalat ki taaza tareen qist ki raqam kitni hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Benazir Kafaalat ki standard te-maahi qist Rs. 10,500 hai. Jin khawateen ke bachay Taleemi Wazaif mein registered hain unko school wazaif ki izafi raqam bhi sath milti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar dukan wala 500 ya 1000 rupay kataoti kare to kya karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dukan wale ko koi kataoti na dein aur foran BISP ki toll-free helpline 0800-26477 par call kar ke dukandar ke khilaf complaint darj karwayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Biometric verification failed ya Error 93 ka matlab kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Iska matlab hai ke machine par aap ke angoothay ke nishan match nahi hue. Haath dho kar doosri ungli scan karein ya BISP Tehsil Office ke verification desk se rabta karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "HBL Konnect shop se paise wasool karte waqt receipt lena kyun zaroori hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Receipt par nikaali gayi raqam aur zero fees saaf darj hoti hai, jis se retailer aap se ghair-qanooni kataoti nahi kar sakta aur payment ka pakka sabot rehta hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya shauhar ya beta aurat ki jagah ja kar BISP ke paise nikal sakta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP ke qawaneen ke mutabiq registered mustahiq khatoon ka khud physical mojood hona aur biometric angootha lagana lazmi hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar 8171 portal par 'Record Not Found' aaye to kya karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Iska matlab hai ke aap ka NSER survey mojood nahi hai. Apne qareebi BISP Tehsil Office ja kar Dynamic Registry Desk par naya survey karwayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP ki official complaint helpline ka number kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP ki official toll-free complaint helpline ka number 0800-26477 hai, jis par subah 9 se raat 11 baje tak muft call kar ke madad li ja sakti hai."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-8171-balance-check-online-kaise-karein/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Payment Check",
+          "item": "https://pakbenefits.com/payment-check/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP 8171 Balance Check Online Kaise Karein",
+          "item": "https://pakbenefits.com/bisp-8171-balance-check-online-kaise-karein/"
+        }
+      ]
+    }
+  ]
+}

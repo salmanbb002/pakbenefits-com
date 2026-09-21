@@ -1,0 +1,51 @@
+{
+  "headEntities": [
+    {
+      "name": "Benazir Income Support Programme",
+      "aliases": [
+        "BISP",
+        "Benazir Kafaalat Program",
+        "Benazir Income Support Scheme"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://www.bisp.gov.pk/"
+    },
+    {
+      "name": "8171 Web Portal",
+      "aliases": [
+        "8171 bisp gov pk",
+        "8171 SMS Service",
+        "8171 Portal"
+      ],
+      "type": "GovernmentService",
+      "sameAs": "https://8171.bisp.gov.pk/"
+    },
+    {
+      "name": "Habib Bank Limited",
+      "aliases": [
+        "HBL",
+        "HBL Konnect",
+        "HBL Biometric ATM"
+      ],
+      "type": "FinancialService",
+      "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited"
+    }
+  ],
+  "tier1Entities": [
+    "Benazir Income Support Programme",
+    "8171 Web Portal",
+    "8171 SMS Service",
+    "Rs 10,500 Benazir Kafaalat Quarterly Installment",
+    "13-Digit Computerized National Identity Card",
+    "HBL Konnect Biometric Retailer Network",
+    "HBL ATM Biometric Cash Withdrawal"
+  ],
+  "tier2Entities": [
+    "Bank Alfalah Biometric Campsite",
+    "Cardless ATM Biometric Transaction",
+    "Illegal Deduction Kataoti Prevention",
+    "Official Computerized Transaction Slip",
+    "Biometric Fingerprint Failure Error 93",
+    "0800-26477 BISP Official Helpline"
+  ]
+}

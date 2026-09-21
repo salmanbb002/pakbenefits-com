@@ -1,0 +1,49 @@
+{
+  "headEntities": [
+    {
+      "name": "Chief Minister Punjab Livestock Card Scheme",
+      "aliases": [
+        "CM Punjab Livestock Card",
+        "Punjab Livestock Card",
+        "PLC Punjab",
+        "Cattle Fattening Loan Scheme"
+      ],
+      "type": "GovernmentService",
+      "sameAs": "https://plc.punjab.gov.pk/"
+    },
+    {
+      "name": "Punjab Livestock & Dairy Development Department",
+      "aliases": [
+        "L&DD Punjab",
+        "Livestock Department Government of Punjab"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://livestock.punjab.gov.pk/"
+    },
+    {
+      "name": "The Bank of Punjab",
+      "aliases": [
+        "BOP"
+      ],
+      "type": "FinancialService",
+      "sameAs": "https://www.bop.com.pk/"
+    }
+  ],
+  "tier1Entities": [
+    "Chief Minister Punjab Livestock Card Scheme",
+    "plc.punjab.gov.pk Registration Portal",
+    "8070 SMS Registration Shortcode",
+    "Rs 135,000 to Rs 540,000 Interest-Free Loan",
+    "The Bank of Punjab",
+    "Punjab Livestock & Dairy Development Department",
+    "5 to 20 Male Cattle and Buffalo Calves"
+  ],
+  "tier2Entities": [
+    "SPMS-9211 Animal Ear-Tagging Database",
+    "Concentrated Cattle Feed (Wanda) and Silage",
+    "120 to 150 Days Bullet Repayment",
+    "BOP Point of Sale (POS) Terminals",
+    "0800-09211 Livestock Helpline",
+    "Clean Credit Bureau e-CIB Clearance"
+  ]
+}
