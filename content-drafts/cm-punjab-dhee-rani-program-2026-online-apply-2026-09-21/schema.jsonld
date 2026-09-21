@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-dhee-rani-program-2026-online-apply/#article",
+      "headline": "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Portal Registration, Eligibility & Salami ATM Card",
+      "description": "CM Punjab Dhee Rani Program 2026 online apply: cmp.punjab.gov.pk registration, Rs 100,000 Salami ATM card, bridal gifts package, eligibility, helpline 1312, aur dates.",
+      "url": "https://pakbenefits.com/cm-punjab-dhee-rani-program-2026-online-apply/",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Lead Welfare Schemes Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Punjab Dhee Rani Program",
+          "sameAs": "https://cmp.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Social Welfare and Bait-ul-Maal Department",
+          "sameAs": "https://swd.punjab.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-dhee-rani-program-2026-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the cash grant amount given under the CM Punjab Dhee Rani Program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every eligible bride receives a financial wedding gift (Salami) of Rs. 100,000 disbursed directly through a dedicated Bank of Punjab ATM card."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the age limit for brides in the Dhee Rani Program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The bride must be between 18 and 40 years old at the time of application submission."
+          }
+        }
+      ]
+    }
+  ]
+}

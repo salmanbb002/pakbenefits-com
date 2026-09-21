@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-green-tractor-scheme-2026-online-apply/#article",
+      "headline": "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Portal Registration, Eligibility & Balloting Results",
+      "description": "CM Punjab Green Tractor Scheme 2026 online apply: gts.punjab.gov.pk registration, Rs 10 lakh subsidy, 1-50 acre land eligibility, e-balloting results, aur tractor brand list.",
+      "url": "https://pakbenefits.com/cm-punjab-green-tractor-scheme-2026-online-apply/",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Lead Welfare Schemes Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Punjab Green Tractor Scheme",
+          "sameAs": "https://gts.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Agriculture Department",
+          "sameAs": "https://agripunjab.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-green-tractor-scheme-2026-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the subsidy amount under the CM Punjab Green Tractor Scheme 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Punjab government provides a flat subsidy of Rs. 1,000,000 (10 Lakh PKR) per tractor directly toward the ex-factory invoice of 9,500 new green tractors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much land is required to be eligible for the Green Tractor Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Farmers must own between 1 acre and 50 acres of agricultural land in Punjab, verified digitally through the Punjab Land Records Authority (PLRA) database."
+          }
+        }
+      ]
+    }
+  ]
+}

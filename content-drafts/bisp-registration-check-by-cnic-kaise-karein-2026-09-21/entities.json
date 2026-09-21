@@ -1,0 +1,50 @@
+{
+  "headEntities": [
+    {
+      "name": "Benazir Income Support Programme",
+      "aliases": [
+        "BISP",
+        "Benazir Kafaalat",
+        "8171 Programme"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+    },
+    {
+      "name": "8171 Web Portal",
+      "aliases": [
+        "8171 bisp gov pk",
+        "8171 Portal",
+        "8171 SMS Service"
+      ],
+      "type": "WebSite",
+      "sameAs": "https://8171.bisp.gov.pk/"
+    },
+    {
+      "name": "National Socio-Economic Registry",
+      "aliases": [
+        "NSER",
+        "NSER Dynamic Registry",
+        "Dynamic Survey"
+      ],
+      "type": "DataRegistry",
+      "sameAs": "https://bisp.gov.pk/Detail/Y2Q0NTllNDYtYWRkYS00MTIxLThjMWUtNDM4MDFjMzc1M2Fm"
+    }
+  ],
+  "tier1Entities": [
+    "Benazir Income Support Programme",
+    "8171 Web Portal",
+    "National Socio-Economic Registry",
+    "Poverty Means Test Score",
+    "NADRA CNIC Verification",
+    "BISP Tehsil Registration Office"
+  ],
+  "tier2Entities": [
+    "Benazir Kafaalat Rs 10500 Stipend",
+    "Dynamic Registry Desk",
+    "NADRA Child Registration Certificate Form-B",
+    "Biometric Verification Fingerprint",
+    "HBL Konnect / Bank Alfalah Campsite",
+    "0800-26477 BISP Helpline"
+  ]
+}

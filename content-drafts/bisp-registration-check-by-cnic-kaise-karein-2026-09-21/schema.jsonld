@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-registration-check-by-cnic-kaise-karein/#article",
+      "headline": "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal, SMS aur Dynamic Survey Guide",
+      "description": "BISP registration check by CNIC kaise karein: 8171 web portal status, 8171 SMS tarika, BISP tehsil office dynamic survey documents aur Rs 10,500 kafaalat tafseelat.",
+      "url": "https://pakbenefits.com/bisp-registration-check-by-cnic-kaise-karein/",
+      "datePublished": "2026-09-21T00:00:00+05:00",
+      "dateModified": "2026-09-21T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Lead Welfare Schemes Analyst"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "WebSite",
+          "name": "8171 Web Portal",
+          "sameAs": "https://8171.bisp.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-registration-check-by-cnic-kaise-karein/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP registration check online kaise karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP registration online check karne ke liye official 8171.bisp.gov.pk portal open karein, apna 13-hinson ka CNIC number aur captcha code enter karein, aur Maloom Karein par click karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya BISP ki new registration online ghar bethay ho sakti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP ki nayi registration internet par kisi form se nahi hoti; iske liye khandan ki khatoon sarbarah ko qareebi BISP Tehsil Office ja kar biometric NSER survey karwana parta hai."
+          }
+        }
+      ]
+    }
+  ]
+}

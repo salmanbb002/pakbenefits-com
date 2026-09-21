@@ -1,0 +1,48 @@
+{
+  "headEntities": [
+    {
+      "name": "Chief Minister Punjab Green Tractor Scheme",
+      "aliases": [
+        "Green Tractor Scheme",
+        "CM Punjab Tractor Subsidy",
+        "GTS Punjab"
+      ],
+      "type": "GovernmentService",
+      "sameAs": "https://gts.punjab.gov.pk/"
+    },
+    {
+      "name": "Punjab Agriculture Department",
+      "aliases": [
+        "Agriculture Department Government of the Punjab",
+        "Agri Punjab"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://agripunjab.gov.pk/"
+    },
+    {
+      "name": "Punjab Land Records Authority",
+      "aliases": [
+        "PLRA",
+        "Arazi Record Center"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://en.wikipedia.org/wiki/Punjab_Land_Records_Authority"
+    }
+  ],
+  "tier1Entities": [
+    "Chief Minister Punjab Green Tractor Scheme",
+    "Punjab Agriculture Department",
+    "GTS Portal",
+    "Rs 10 Lakh Tractor Subsidy",
+    "Punjab Land Records Authority",
+    "Computerized E-Balloting System"
+  ],
+  "tier2Entities": [
+    "The Bank of Punjab",
+    "Millat Tractors Massey Ferguson",
+    "Al Ghazi Tractors New Holland",
+    "50 to 85 Horsepower Engines",
+    "0800-17000 Agriculture Helpline",
+    "Excise Department Registration Lock-In"
+  ]
+}

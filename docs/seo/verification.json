@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-21T07:58:18.503Z",
+  "checkedAt": "2026-09-21T10:35:38.800Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 76,
+  "routeCount": 79,
   "failures": [],
   "pending": [],
   "pages": [
@@ -913,6 +913,45 @@
       "title": "CM Punjab Honhaar Scholarship 2026: Online Apply & PHEC Guide | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 165,
       "editorialWords": 1202,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-registration-check-by-cnic-kaise-karein/",
+      "title": "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal & SMS Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 164,
+      "editorialWords": 1486,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-green-tractor-scheme-2026-online-apply/",
+      "title": "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Registration & Subsidy | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 174,
+      "editorialWords": 1454,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-dhee-rani-program-2026-online-apply/",
+      "title": "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Registration & Helpline 1312 | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 167,
+      "editorialWords": 1386,
       "schemaTypes": [
         "Organization",
         "WebSite",

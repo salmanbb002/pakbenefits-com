@@ -1,0 +1,47 @@
+{
+  "headEntities": [
+    {
+      "name": "Chief Minister Punjab Dhee Rani Program",
+      "aliases": [
+        "Dhee Rani Program",
+        "CM Punjab Collective Marriage Scheme",
+        "CMP Punjab"
+      ],
+      "type": "GovernmentService",
+      "sameAs": "https://cmp.punjab.gov.pk/"
+    },
+    {
+      "name": "Punjab Social Welfare and Bait-ul-Maal Department",
+      "aliases": [
+        "Social Welfare Department Punjab",
+        "SWD Punjab"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://swd.punjab.gov.pk/"
+    },
+    {
+      "name": "Helpline 1312",
+      "aliases": [
+        "Dhee Rani Helpline",
+        "Punjab 1312 Helpline"
+      ],
+      "type": "ContactPoint"
+    }
+  ],
+  "tier1Entities": [
+    "Chief Minister Punjab Dhee Rani Program",
+    "Punjab Social Welfare and Bait-ul-Maal Department",
+    "CMP Portal cmp punjab gov pk",
+    "Rs 100,000 Salami Cash Grant",
+    "Bank of Punjab ATM Card",
+    "Helpline 1312"
+  ],
+  "tier2Entities": [
+    "Bridal Dowry Gift Box",
+    "Collective Marriage Ceremony",
+    "Deputy Director Social Welfare",
+    "Special Verification Committee",
+    "Nikah Registration NADRA",
+    "Maryam Ko Batayn App"
+  ]
+}

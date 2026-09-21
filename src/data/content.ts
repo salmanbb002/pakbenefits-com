@@ -12152,6 +12152,10 @@ export const articles: Article[] = [
           {
             label: "Check BISP status by CNIC online walkthrough",
             href: "/check-bisp-status-by-cnic-online/"
+          },
+          {
+            label: "BISP registration check by CNIC aur dynamic survey guide",
+            href: "/bisp-registration-check-by-cnic-kaise-karein/"
           }
         ]
       },
@@ -13504,6 +13508,656 @@ export const articles: Article[] = [
       {
         label: "Higher Education Department Punjab (HED)",
         href: "https://hed.punjab.gov.pk/"
+      }
+    ]
+  }
+,
+  {
+    slug: "bisp-registration-check-by-cnic-kaise-karein",
+    title: "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal, SMS aur Dynamic Survey Guide",
+    excerpt: "BISP registration aur ahal hone ka status check karne ke liye 8171.bisp.gov.pk web portal par apna 13-hinson ka CNIC number enter karein ya 8171 par SMS bhejein. Agar aap ka record mojood nahi hai, to registration kisi private online form se nahi balki qareebi BISP Tehsil Office ke NSER Dynamic Registry desk par biometric survey karwa kar hoti hai.",
+    showExcerpt: true,
+    metaTitle: "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal & SMS Guide",
+    metaDescription: "BISP registration check by CNIC kaise karein: 8171 web portal status, 8171 SMS tarika, BISP tehsil office dynamic survey documents aur Rs 10,500 kafaalat tafseelat.",
+    focusKeyword: "bisp registration check by cnic kaise karein",
+    lsiKeywords: [
+      "benazir income support program check karne ka tarika",
+      "8171 par cnic check karne ka tarika",
+      "bisp payment check online 2026 urdu",
+      "bisp dynamic survey documents list",
+      "bisp 8171 portal par status dekhne ka tarika",
+      "bisp tehsil office registration desk",
+      "benazir kafaalat online check by cnic"
+    ],
+    entities: [
+      "Benazir Income Support Programme",
+      "8171 Web Portal",
+      "National Socio-Economic Registry",
+      "Dynamic Registry Survey",
+      "Poverty Means Test",
+      "NADRA CNIC Verification",
+      "Benazir Kafaalat Quarterly Stipend",
+      "BISP Tehsil Office Registration Desk"
+    ],
+    primaryCategory: "8171",
+    categorySlugs: [
+      "8171",
+      "bisp-registration",
+      "payment-check"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "12 min read",
+    image: "/images/bisp-registration-check-by-cnic.jpg",
+    imageAlt: "Pakistani woman holding CNIC card at government BISP registration facilitation desk",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "BISP Registration Check by CNIC Ka Asal Tareeqa Kya Hai?",
+        paragraphs: [
+          "BISP registration aur eligibility status maloom karne ke do ahem tareeqay hain: pehla online 8171 web portal aur doosra 8171 SMS service. Yaad rakhein ke internet par koi aisi app ya private website nahi hai jo direct online form bhar kar aap ka naam BISP mein shamil kar sake.",
+          "Government of Pakistan ne BISP ki registration ko transparent banane ke liye National Socio-Economic Registry (NSER) dynamic survey lazmi qarar diya hai. Online portal sirf yeh batata hai ke aap ka gharana ahal hai, na-ahal hai, ya aap ko qareebi BISP office ja kar apna survey update karwane ki zaroorat hai."
+        ],
+        links: [
+          {
+            label: "8171 check online kaise karein step-by-step guide",
+            href: "/8171-check-online-kaise-karein/"
+          },
+          {
+            label: "Check BISP status by CNIC online walkthrough",
+            href: "/check-bisp-status-by-cnic-online/"
+          }
+        ]
+      },
+      {
+        title: "8171 Web Portal Par CNIC Online Check Karne Ka Step-by-Step Process",
+        paragraphs: [
+          "8171 web portal ke zariye ghar bethay eligibility check karne ka mukammal tareeqa darj zail hai:",
+          "Portal par status check karte waqt hamesha browser ka URL double-check karein taake aap kisi fake phishing website par apna CNIC enter na karein."
+        ],
+        bullets: [
+          "Apne mobile ya computer ke browser mein official link 8171.bisp.gov.pk open karein.",
+          "Pehle box mein apna 13-hinson ka Computerized National Identity Card (CNIC) number bina dash (-) ya space ke enter karein.",
+          "Doosre box mein samne image mein diya gaya 4-hinson ka captcha code darj karein.",
+          "Harf aur adad verify karne ke baad green button 'Maloom Karein' ya 'Check Eligibility' par click karein.",
+          "Screen par aap ke gharane ka status foran zahir ho jayega ke aap Benazir Kafaalat ke liye ahal hain ya nahi."
+        ]
+      },
+      {
+        title: "Mobile SMS 8171 Ke Zariye BISP Status Check Karne Ka Tareeqa",
+        paragraphs: [
+          "Agar aap ke paas internet ya smartphone nahi hai, to aap saday mobile se SMS bhej kar bhi status maloom kar sakte hain:",
+          "Hamesha yaad rakhein ke BISP ka official SMS sirf 8171 se aata hai. Kisi private mobile number (maslan 0300, 0312, 0345) se aane walay lottery ya inaami messages 100% fraud hote hain."
+        ],
+        bullets: [
+          "Apne phone ka Write Message / SMS option open karein.",
+          "Apna 13-hinson ka CNIC number bina kisi space ya dash ke type karein (maslan: 3520112345671).",
+          "Is message ko official short code 8171 par send kar dein.",
+          "Kuch minutes mein BISP ki janib se ek tasdeeqi SMS mosool hoga jis mein aap ki eligibility aur payment status ki wazahat hogi."
+        ]
+      },
+      {
+        title: "BISP Tehsil Office Dynamic Registry Survey: Registration Kaise Hoti Hai?",
+        paragraphs: [
+          "Agar 8171 portal par check karne se message aaye ke 'Aap ka gharana NSER survey mein shamil nahi hai' ya 'Apna survey update karwayen', to iska matlab hai ke aap ko physical registration karwani hogi:",
+          "Is biometric survey ke baad BISP ka automated system aap ka Poverty Means Test (PMT) score calculate karta hai. Agar aap ka PMT score 32 ya is se kam ho, to aap ka gharana Benazir Kafaalat ke Rs. 10,500 wazifay ke liye ahal qarar de diya jata hai."
+        ],
+        bullets: [
+          "Apne shehar ya tehsil ke official BISP Tehsil Registration Center tashreef le jayen.",
+          "Office ke Token Counter se Dynamic Registry ka token hasil karein.",
+          "Registration Desk par mojood Data Entry Operator aap ki aur aap ke bachon ki maloomat NSER database mein darj karega.",
+          "Operator aap se gharelu aamdani, bijli/gas ke bills, zameen, aur afraad-e-khana ki tafseelat poochega.",
+          "Khatoon sarbarah ki biometric ungliyon ke nishan (fingerprints) scan kiye jayenge aur computer survey slip di jayegi."
+        ],
+        links: [
+          {
+            label: "Documents for BISP and Taleemi Wazaif registration guide",
+            href: "/documents-for-bisp-registration/"
+          },
+          {
+            label: "What counts as a good PMT score for public programmes guide",
+            href: "/what-counts-as-a-good-pmt-score/"
+          }
+        ]
+      },
+      {
+        title: "BISP Registration Ke Liye Zaroori Dastawaizaat (Documents List)",
+        paragraphs: [
+          "BISP Tehsil Office jane se pehle darj zail asal dastawaizaat zaroor sath le kar jayen:",
+          "Agar aap ke bachon ka Form-B nahi bana hua, to pehle NADRA office ja kar B-Form banwayen, kyunke Form-B ke baghair bachon ka Taleemi Wazaif stipend shamil nahi ho sakta."
+        ],
+        bullets: [
+          "Khatoon sarbarah ka asal NADRA CNIC (jo expire na hua ho).",
+          "Shauhar ka asal CNIC card ya Death Certificate (agar baywah hain).",
+          "Tamam bachon ke NADRA Form-B / Child Registration Certificate (CRC).",
+          "Ghar ka taaza tareen bijli aur gas ka utility bill.",
+          "Applicant khatoon ke apne naam par register shuda active mobile SIM.",
+          "Mazoor afraad ke liye NADRA ka Special Disability CNIC (jis par wheelchair ka nishan ho)."
+        ]
+      },
+      {
+        title: "8171 Portal Ke Mukhtalif Status Messages Ka Matlab Aur Hal",
+        paragraphs: [
+          "Jab aap 8171 portal par apna CNIC check karte hain, to aam taur par darj zail char qisam ke jawabat aate hain:"
+        ],
+        bullets: [
+          "Aap Benazir Kafaalat ke liye ahal hain: Iska matlab hai ke aap ka PMT score criteria ke mutabiq hai. Agar installment jari ho chuki hai, to aap qareebi HBL Konnect, Bank Alfalah campsite, ya biometric ATM se Rs. 10,500 wasool kar sakte hain.",
+          "Aap ke gharane ka survey mukammal nahi hai: Iska matlab hai ke aap ka NSER survey record expire ho chuka hai ya pehle kabhi survey nahi hua. Foran BISP tehsil center ja kar dynamic registry karwayen.",
+          "Aap ka PMT score ahal hone ki hadd se ziyada hai: Iska matlab hai ke NSER records ke mutabiq aap ki aamdani ya assets BISP eligibility limit (PMT 32) se zyada hain.",
+          "Jan parrtal jari hai (Under Verification): Iska matlab hai ke aap ka survey jama ho chuka hai aur NADRA / data cross-matching process mein hai."
+        ]
+      },
+      {
+        title: "Fake SMS, Fraud Calls Aur Private Registration Forms Se Bachne Ki Hidayat",
+        paragraphs: [
+          "Pakistani awam ko dhoka dainay ke liye dhokaybaaz mukhtalif tareeqay istemal karte hain:",
+          "BISP registration aur biometric survey ke dauran kisi bhi agent ko rishwat na dein aur kisi ghair-tasdeeq shuda link par apna CNIC share na karein."
+        ],
+        bullets: [
+          "Private WhatsApp Links: WhatsApp ya Facebook par kisi aisi link par click na karein jo BISP form bharne ka daawa kare. BISP ki registration internet par kisi form se nahi hoti.",
+          "Advance Fee Scam: BISP ka survey aur registration 100% muft (free) hai. Agar koi shakhs token dainay ya jaldi ahal karwane ke naam par paise mangay, to foran helpline par shikayat karein.",
+          "Fake 8171 Numbers: Agar kisi aam mobile number se call aye ke aap ka wazifa nikal aya hai, to usay koi OTP ya password na dein. BISP kabhi phone par ATM PIN nahi maangta."
+        ],
+        links: [
+          {
+            label: "Avoid BISP fraud: Seven red flags to recognize",
+            href: "/avoid-bisp-fraud/"
+          }
+        ]
+      },
+      {
+        title: "BISP Registration Aur Payment Check Summary Table",
+        paragraphs: [
+          "Darj zail table mein BISP status check karne aur registration ke mukhtalif zariye aur unki tafseelat bayan ki gayi hain:"
+        ],
+        table: {
+          caption: "BISP Status Check aur Registration Tareeqon Ka Mوازna",
+          headers: ["Tareeqa / Zariya", "Kahan Check Karein", "Kharcha / Fee", "Zaroorat", "Natija / Faida"],
+          rows: [
+            ["8171 Web Portal", "8171.bisp.gov.pk", "Muft (Free)", "13-Digit CNIC + Internet", "Foran eligibility aur payment status maloom hota hai"],
+            ["8171 SMS Service", "Send CNIC to 8171", "Sadah SMS charges", "13-Digit CNIC + Phone", "Baghair internet BISP tasdeeqi message mosool hota hai"],
+            ["BISP Tehsil Office", "Qareebi Tehsil Center", "Muft (Free)", "Asal CNIC + B-Form + Bills", "NSER Dynamic Survey aur nae gharane ki registration"],
+            ["Helpline Inquiry", "0800-26477", "Toll-Free", "CNIC aur Shikayat Tafseelat", "Payment deduction ya staff bad-sulooki ki official complaint"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "BISP registration check online kaise karein?",
+        answer: "BISP registration aur eligibility status online check karne ke liye official 8171.bisp.gov.pk portal open karein, apna 13-hinson ka CNIC number aur samne nazar aane wala security code darj karein, aur Maloom Karein par click karein."
+      },
+      {
+        question: "BISP ka official SMS code kya hai?",
+        answer: "BISP ka wahid official SMS code 8171 hai, aur iske ilawa kisi doosre number se aane wala message fraud hota hai."
+      },
+      {
+        question: "Kya BISP ki nayi registration online mobile se ho sakti hai?",
+        answer: "Nahi, BISP ki nayi registration internet ya kisi mobile app se nahi hoti; iske liye khandan ki khatoon sarbarah ko qareebi BISP Tehsil Office ja kar biometric NSER dynamic survey karwana parta hai."
+      },
+      {
+        question: "BISP dynamic registry survey ke liye kon se documents zaroori hain?",
+        answer: "Survey ke liye khatoon ka asal CNIC, tamam bachon ka NADRA Form-B, ghar ka bijli/gas ka taaza tareen bill, aur khatoon ke naam par active mobile SIM zaroori hai."
+      },
+      {
+        question: "BISP Benazir Kafaalat ki raqam kitni hai aur kab milti hai?",
+        answer: "Benazir Kafaalat ki quarterly installment Rs. 10,500 hai jo har teen maah baad ahal khawateen ko biometric bank campsite ya ATM ke zariye di jati hai."
+      },
+      {
+        question: "PMT score kya hota hai aur BISP ke liye kitna hona chahiye?",
+        answer: "PMT (Poverty Means Test) score aap ke gharelu halaat aur aamdani ka pemana hai, aur BISP Kafaalat mein ahal hone ke liye yeh score 32 ya is se kam hona lazmi hai (mazoor afraad ke liye 37 tak ahal hain)."
+      },
+      {
+        question: "Agar 8171 par check karne par 'Aap ka survey mojood nahi hai' aaye to kya karein?",
+        answer: "Agar survey mojood na hone ka message aaye, to apne zillay ya tehsil ke BISP office jakar Dynamic Registry Desk se naya token le kar biometric survey darj karwayen."
+      },
+      {
+        question: "BISP payment kahan se wasool ki ja sakti hai?",
+        answer: "Ahal khawateen apni raqam HBL Konnect (Punjab, Sindh, Balochistan) ya Bank Alfalah (KPK, AJK, GB) ke biometric agents, campsites, aur ATMs se wasool kar sakti hain."
+      },
+      {
+        question: "Agar biometric verification fail ho jaye to payment kaise milegi?",
+        answer: "Agar fingerprint verification teen baar fail ho jaye, to BISP tehsil office ja kar biometric exception form jama karwayen taake payment alternate verification ke zariye jari ho sake."
+      },
+      {
+        question: "BISP ki official helpline ka number kya hai?",
+        answer: "BISP ki official toll-free helpline ka number 0800-26477 hai jahan subah 8 se shaam 4 bajay tak muft call ki ja sakti hai."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Official BISP 8171 Web Portal",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "Benazir Income Support Programme Official Portal",
+        href: "https://bisp.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "cm-punjab-green-tractor-scheme-2026-online-apply",
+    title: "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Portal Registration, Eligibility & Balloting Results",
+    excerpt: "To register for the CM Punjab Green Tractor Scheme 2026 online, eligible farmers in Punjab must submit their CNIC and land ownership details through the official GTS portal (gts.punjab.gov.pk). The Punjab government provides a flat subsidy of Rs. 1,000,000 (10 Lakh) on 9,500 modern green tractors for farmers holding between 1 to 50 acres of agricultural land through transparent computerized e-balloting.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Registration & Subsidy",
+    metaDescription: "CM Punjab Green Tractor Scheme 2026 online apply: gts.punjab.gov.pk registration, Rs 10 lakh subsidy, 1-50 acre land eligibility, e-balloting results, aur tractor brand list.",
+    focusKeyword: "cm punjab green tractor scheme 2026 online apply",
+    lsiKeywords: [
+      "gts punjab gov pk registration",
+      "green tractor scheme balloting result 2026",
+      "green tractor subsidy 10 lakh",
+      "punjab agriculture green tractor eligibility criteria",
+      "cm punjab tractor scheme portal",
+      "punjab kisan tractor balloting winners list",
+      "punjab agriculture department helpline 0800-17000"
+    ],
+    entities: [
+      "Chief Minister Punjab Green Tractor Scheme",
+      "Punjab Agriculture Department",
+      "Government of Punjab",
+      "Chief Minister Maryam Nawaz Sharif",
+      "GTS Portal",
+      "The Bank of Punjab",
+      "Punjab Land Records Authority",
+      "Computerized E-Balloting System"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "13 min read",
+    image: "/images/cm-punjab-green-tractor-scheme.jpg",
+    imageAlt: "Bright green agricultural tractor operating in a fertile rural Punjab farmland under government tractor subsidy scheme",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the Chief Minister Punjab Green Tractor Scheme 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Green Tractor Scheme 2026 is an unprecedented public agricultural modernization initiative aimed at accelerating farm mechanization, reducing cultivation turnaround time, and shielding smallholder farmers from high machinery costs. Spearheaded by Chief Minister Maryam Nawaz Sharif and executed by the Punjab Agriculture Department in coordination with the Punjab Information Technology Board (PITB), the program disburses a massive multi-billion rupee subsidy package.",
+          "Unlike commercial agricultural financing loans that incur recurring bank markups or long-term debt burdens, the Green Tractor Scheme provides a one-time non-repayable government grant of Rs. 1,000,000 directly credited toward the invoice of a new tractor. Beneficiaries only pay the remaining balance directly to their chosen authorized manufacturer through The Bank of Punjab (BOP)."
+        ],
+        links: [
+          {
+            label: "CM Punjab Kisan Card online apply 2026 guide",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Apna Khet Apna Rozgar landless farmer scheme",
+            href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          }
+        ]
+      },
+      {
+        title: "Key Scheme Features: Flat Subsidy, Quotas & Approved Tractor Brands",
+        paragraphs: [
+          "The program introduces strict quality, performance, and transparency standards to ensure real farmers receive dependable, field-ready machinery:"
+        ],
+        bullets: [
+          "Flat Financial Subsidy: The government pays a fixed Rs. 1,000,000 (10 Lakh) per tractor, regardless of the horsepower category chosen by the balloting winner.",
+          "District Quota Allocation: The 9,500 total tractors are distributed equitably across all 36 districts of Punjab based on aggregate cultivated agricultural acreage, preventing urban bias.",
+          "Multiple Horsepower Ranges: Farmers can select tractors ranging from 50 Horsepower (HP) up to 85 HP suitable for small tillage, deep plowing, rotary hoeing, or trolley hauling.",
+          "Approved Domestic Manufacturers: Leading agricultural machinery manufacturers registered with the Ministry of Industries and Production—including Millat Tractors (Massey Ferguson models such as MF-240, MF-260, MF-375, MF-385) and Al-Ghazi Tractors (New Holland models such as NH-480, Ghazi, NH-640)—participate with standardized ex-factory pricing."
+        ]
+      },
+      {
+        title: "Eligibility Criteria: Landholding Limits & Identity Verification Rules",
+        paragraphs: [
+          "To ensure that wealthy corporate landlords and non-farming investors do not hijack government welfare subsidies, stringent digital eligibility thresholds are enforced:"
+        ],
+        bullets: [
+          "Punjab Residency & Domicile: Applicants must possess a valid, active 13-digit Computerized National Identity Card (CNIC) with permanent residence registered in Punjab.",
+          "Landholding Limits (1 to 50 Acres): The applicant must own between a minimum of 1 acre and a maximum of 50 acres of agricultural land in Punjab as of the official scheme announcement date.",
+          "PLRA Digital Land Record Integration: Landownership is automatically verified through the real-time API of the Punjab Land Records Authority (PLRA). Manual patwari certificates are not accepted unless the village is officially non-digitized.",
+          "Active Mobile SIM: The mobile phone number submitted during online registration must be biometrically issued in the applicant farmer's own CNIC.",
+          "One Tractor per Household: Only one member of an immediate family (husband, wife, dependent children) can receive a subsidized green tractor."
+        ],
+        links: [
+          {
+            label: "Punjab Land Record online check and Fard Malkiat guide",
+            href: "/punjab-land-record-check-guide/"
+          },
+          {
+            label: "Farmer Support Card eligibility and agricultural inputs guide",
+            href: "/farmer-support-card-guide/"
+          }
+        ]
+      },
+      {
+        title: "Step-by-Step Online Registration Process on the GTS Punjab Portal",
+        paragraphs: [
+          "Applying for the Green Tractor Scheme is 100% digital, paperless, and free of application charges. Follow these verified steps:"
+        ],
+        bullets: [
+          "Access the Official Portal: Open your desktop or smartphone web browser and navigate strictly to gts.punjab.gov.pk.",
+          "Enter National Identity Number: On the homepage registration screen, type your 13-digit CNIC number without hyphens or spaces.",
+          "Enter Biometric Mobile Number: Provide your active personal mobile number to receive system notifications, application tracking IDs, and balloting status updates.",
+          "Select District, Tehsil, and Mauza: Choose the location where your agricultural land is situated. The portal will cross-query the PLRA database to confirm your exact cultivated acreage.",
+          "Select Preferred Tractor Brand & Horsepower: Choose your desired tractor manufacturer (e.g., Millat Tractors or Al-Ghazi Tractors) and the specific model/HP bracket.",
+          "Accept Terms & Submit: Review the automated declaration confirming you will not sell or transfer the vehicle for three years, check the agreement box, and click Submit Application."
+        ]
+      },
+      {
+        title: "Computerized Balloting (Qurandazi) & How to Check Winner Lists by CNIC",
+        paragraphs: [
+          "Because the number of applications far exceeds the 9,500 available units, winners are selected through an automated, transparent computerized e-balloting system audited by independent observers:",
+          "Successful applicants receive an official notification SMS detailing their allotment serial number and deadlines for bank document submission."
+        ],
+        bullets: [
+          "District-Wise Balloting Sessions: Balloting is conducted transparently at the Directorate General of Agriculture (Field) in Lahore in the presence of agricultural ministers and media representatives.",
+          "Checking Results Online: Within hours of balloting conclusion, the complete district-wise lists of successful farmers and waiting-list candidates are uploaded to gts.punjab.gov.pk.",
+          "CNIC Query Search: Farmers can enter their CNIC into the portal's Balloting Results search bar to immediately view their status: Selected, Waiting List, or Ineligible."
+        ]
+      },
+      {
+        title: "Post-Balloting Procedure: Verification, Bank Challan & Tractor Delivery",
+        paragraphs: [
+          "Once selected in the computerized balloting, candidates must follow a standardized legal and financial fulfillment procedure:"
+        ],
+        bullets: [
+          "Intimation Letter Collection: Download the official Allotment Intimation Letter from the GTS portal or collect it from the office of the Deputy Director of Agriculture (Extension) in your district.",
+          "Physical Land Record Verification: Visit the local Arazi Record Center (ARC) or Agriculture Extension office with your original CNIC and Fard Malkiat to complete physical biometric verification.",
+          "Bank Challan Deposit: Open an account or visit any designated branch of The Bank of Punjab (BOP). Pay the remaining cost of the chosen tractor through a secure bank pay order payable to the authorized tractor manufacturer.",
+          "Allotment Order Issuance: Once the bank confirms payment clearance, the Agriculture Department issues the formal Manufacturing Allotment Order.",
+          "Physical Tractor Handover: The selected manufacturer delivers the signature green-painted tractor to the designated local dealership within 30 to 45 days, where the farmer collects the vehicle along with warranty papers."
+        ]
+      },
+      {
+        title: "Important Rules: Non-Transferable Lock-In Period & Resale Prohibition",
+        paragraphs: [
+          "To prevent black-marketing, commercial flipping, and exploitation by private dealers, strict legal covenants govern all subsidized tractors:"
+        ],
+        bullets: [
+          "Three-Year Ownership Lock-In: Beneficiaries are legally prohibited from selling, renting out under third-party lease, or transferring ownership of the tractor for a minimum of 3 years (36 months).",
+          "Excise Department Title Restriction: The tractor's registration book and computerized smart card issued by the Punjab Excise, Taxation & Narcotics Control Department bear an indelible lien restriction: 'CM Punjab Green Tractor Scheme — Non-Transferable till Date'.",
+          "Field Audits and Legal Penalties: Agriculture extension officers conduct random on-site farm inspections. If a subsidized tractor is discovered to have been sold or illegally operated outside Punjab, the government reserves the right to recover the full Rs. 1,000,000 subsidy along with heavy penalties."
+        ]
+      },
+      {
+        title: "CM Punjab Green Tractor Scheme Specifications & Cost Breakdown",
+        paragraphs: [
+          "The following table provides an estimated comparison of tractor brands, horsepower ranges, and financial shares under the scheme:"
+        ],
+        table: {
+          caption: "Green Tractor Scheme Models, Horsepower & Financial Breakdown",
+          headers: ["Tractor Brand / Manufacturer", "Popular Models", "Horsepower (HP) Range", "Approximate Market Price (PKR)", "Government Subsidy (PKR)", "Estimated Farmer Share (PKR)"],
+          rows: [
+            ["Millat Tractors (Massey Ferguson)", "MF-240, MF-260, MF-375", "50 HP – 75 HP", "Rs. 2,600,000 – Rs. 3,800,000", "Rs. 1,000,000 (Flat)", "Rs. 1,600,000 – Rs. 2,800,000"],
+            ["Al-Ghazi Tractors (New Holland)", "NH-480, Ghazi, NH-640", "55 HP – 85 HP", "Rs. 2,750,000 – Rs. 4,100,000", "Rs. 1,000,000 (Flat)", "Rs. 1,750,000 – Rs. 3,100,000"],
+            ["Orient / Other Domestic Brands", "504D, IMT Series", "50 HP – 65 HP", "Rs. 2,300,000 – Rs. 2,900,000", "Rs. 1,000,000 (Flat)", "Rs. 1,300,000 – Rs. 1,900,000"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the subsidy amount under the CM Punjab Green Tractor Scheme 2026?",
+        answer: "The Punjab government provides a flat subsidy of Rs. 1,000,000 (10 Lakh PKR) per tractor directly toward the purchase price of 9,500 new green tractors."
+      },
+      {
+        question: "What is the landholding eligibility requirement for the Green Tractor Scheme?",
+        answer: "Farmers must own between 1 acre and 50 acres of agricultural land in Punjab, verified digitally through the Punjab Land Records Authority (PLRA) database."
+      },
+      {
+        question: "How are winners selected in the Green Tractor Scheme?",
+        answer: "Winners are selected through a transparent, computerized district-level e-balloting system audited by independent observers and media representatives."
+      },
+      {
+        question: "What are the approved tractor brands available under the scheme?",
+        answer: "Approved domestic manufacturers include Millat Tractors (Massey Ferguson) and Al-Ghazi Tractors (New Holland), covering horsepower brackets from 50 HP to 85 HP."
+      },
+      {
+        question: "Where can I check the Green Tractor Scheme balloting results online?",
+        answer: "Balloting results and district-wise winner lists can be checked online by entering your CNIC at the official portal gts.punjab.gov.pk."
+      },
+      {
+        question: "Can I sell or transfer the subsidized green tractor after receiving it?",
+        answer: "No, beneficiaries are legally prohibited from selling, leasing, or transferring ownership of the tractor for a mandatory lock-in period of 3 years (36 months)."
+      },
+      {
+        question: "How is the remaining price of the tractor paid by the farmer?",
+        answer: "After receiving the allotment letter, the farmer deposits the remaining cost (tractor market price minus the Rs. 10 Lakh subsidy) through a Bank of Punjab challan or pay order."
+      },
+      {
+        question: "Is there any registration fee or application processing charge?",
+        answer: "No, online application submission through gts.punjab.gov.pk is completely free of charge."
+      },
+      {
+        question: "Can multiple family members from the same household receive a green tractor?",
+        answer: "No, the scheme strictly enforces a one-tractor-per-family policy to ensure equitable distribution across agricultural households."
+      },
+      {
+        question: "What is the official helpline number for the Green Tractor Scheme?",
+        answer: "For queries and grievance redressal, farmers can contact the Punjab Agriculture Department toll-free helpline at 0800-17000."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "CM Punjab Green Tractor Scheme Portal",
+        href: "https://gts.punjab.gov.pk/"
+      },
+      {
+        label: "Punjab Agriculture Department Official Portal",
+        href: "https://agripunjab.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "cm-punjab-dhee-rani-program-2026-online-apply",
+    title: "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Portal Registration, Eligibility & Salami ATM Card",
+    excerpt: "To apply for the CM Punjab Dhee Rani Program 2026 online, submit your application through the official CMP portal (cmp.punjab.gov.pk) or visit your district Social Welfare office. The Punjab government provides a Rs. 100,000 cash grant (Salami) via Bank of Punjab ATM card, a comprehensive bridal gift box worth Rs. 200,000, and fully hosted collective wedding arrangements for deserving daughters across Punjab.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Registration & Helpline 1312",
+    metaDescription: "CM Punjab Dhee Rani Program 2026 online apply: cmp.punjab.gov.pk registration, Rs 100,000 Salami ATM card, bridal gifts package, eligibility, helpline 1312, aur dates.",
+    focusKeyword: "cm punjab dhee rani program 2026 online apply",
+    lsiKeywords: [
+      "cmp punjab gov pk dhee rani registration",
+      "dhee rani scheme eligibility criteria",
+      "dhee rani program helpline 1312",
+      "maryam nawaz collective marriage program 2026",
+      "dhee rani online form submission",
+      "punjab social welfare mass marriage grant",
+      "cm punjab bridal salami atm card"
+    ],
+    entities: [
+      "Chief Minister Punjab Dhee Rani Program",
+      "Punjab Social Welfare and Bait-ul-Maal Department",
+      "Government of Punjab",
+      "Chief Minister Maryam Nawaz Sharif",
+      "CMP Portal",
+      "The Bank of Punjab",
+      "Helpline 1312",
+      "Collective Marriage Ceremony"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 21, 2026",
+    publishedDate: "September 21, 2026",
+    lastChecked: "September 21, 2026",
+    readTime: "12 min read",
+    image: "/images/cm-punjab-dhee-rani-program.jpg",
+    imageAlt: "CM Punjab Dhee Rani collective marriage ceremony registration and social welfare facilitation desk",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the Chief Minister Punjab Dhee Rani Program 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Dhee Rani Program is a comprehensive social welfare and female empowerment initiative designed to alleviate the crushing financial burdens of wedding expenses for impoverished, orphaned, and vulnerable families in Punjab. Administered by the Punjab Social Welfare & Bait-ul-Maal Department in partnership with the Punjab Information Technology Board (PITB), the program honors newly-wed daughters with dignity rather than treating social assistance as charity.",
+          "In Pakistani society, inflation and social pressures often force low-income parents into predatory debt or delay daughters' marriages for years. The Dhee Rani Program resolves this hardship by providing direct financial capital, necessary domestic durable goods, and an honorable, state-facilitated collective marriage ceremony supervised by district administration officials."
+        ],
+        links: [
+          {
+            label: "CM Punjab Himmat Card online apply 2026 guide",
+            href: "/cm-punjab-himmat-card-online-apply-2026/"
+          },
+          {
+            label: "Apni Chhat Apna Ghar scheme online apply 2026 guide",
+            href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
+          }
+        ]
+      },
+      {
+        title: "Complete Financial and Material Assistance Package: Salami & Jahez Box",
+        paragraphs: [
+          "Every couple selected through the verified Dhee Rani selection process receives a comprehensive three-tier support package:"
+        ],
+        bullets: [
+          "Rs. 100,000 Direct Cash Salami: Disbursed directly into the bride's newly issued Bank of Punjab (BOP) account and accessible via an active ATM card. This unencumbered cash allows the young couple to start their marital life with immediate financial security.",
+          "Comprehensive Bridal Essentials Box (Jahez Package): A formal gift package worth approximately Rs. 200,000 comprising 24 essential household items, including a Holy Quran with translation and prayer mat, a formal bridal jewelry set, double bed with mattress, 72-piece dinner set, 14-piece cookware set, electric stand fan, sewing machine, and electric iron.",
+          "Fully Catered Reception for 20 Guests: The government arranges a dignified wedding reception hall, floral decorations, and meals for 20 invited family members and close relatives per couple, ensuring an honorable celebration without catering debts."
+        ]
+      },
+      {
+        title: "Eligibility Criteria: Age, Domicile & Vulnerability Thresholds",
+        paragraphs: [
+          "To ensure transparent selection and prevent commercial exploitation, the Social Welfare Department enforces strict statutory eligibility criteria:"
+        ],
+        bullets: [
+          "Provincial Domicile: The bride must be a permanent resident of Punjab holding a verified Punjab domicile certificate and a valid Computerized National Identity Card (CNIC).",
+          "Age Window: The bride must be aged between 18 and 40 years at the time of online application submission.",
+          "Priority Vulnerability Categories: Preference is legally accorded to destitute young women, orphans who have lost one or both parents, persons with disabilities (holding a NADRA Special Disability CNIC), and daughters of disabled or chronically ill parents.",
+          "Marital Status: The bride must be unmarried and must have a verified, confirmed marriage match (intended groom) with formal parental consent.",
+          "Applicant Identity: The application can be submitted either directly by the bride herself, her father, mother, or legal guardian."
+        ],
+        links: [
+          {
+            label: "CNIC verification and identity checks across programmes",
+            href: "/cnic-verification-guide/"
+          },
+          {
+            label: "Punjab provincial schemes directory and welfare initiatives",
+            href: "/punjab-schemes/"
+          }
+        ]
+      },
+      {
+        title: "How to Apply Online via the CMP Punjab Portal (cmp.punjab.gov.pk)",
+        paragraphs: [
+          "The online registration process is simple, secure, and accessible from any smartphone or computer:"
+        ],
+        bullets: [
+          "Navigate to the Official Portal: Open cmp.punjab.gov.pk or download the official 'Maryam Ko Batayn' mobile application.",
+          "Create Applicant Account: Register using the applicant's 13-digit CNIC, active mobile phone number, and a secure password.",
+          "Fill Out Bridal Profile: Enter the bride's personal biodata, date of birth, educational background, father's/guardian's details, and exact residential address.",
+          "Enter Groom's Particulars: Provide the prospective groom's full name, CNIC number, residential address, and family contact information.",
+          "Upload Required Scanned Documents: Attach clear photographs or scans of the bride's CNIC, groom's CNIC, bride's Punjab domicile, father's/guardian's CNIC, and death certificate of parents (if applying under orphan quota) or disability certificate (if applying under PWD quota).",
+          "Submit Application: Review all entered information, tick the legal affidavit checkbox confirming the accuracy of the data, and click Submit Application. The portal will issue an automated Application Tracking ID."
+        ]
+      },
+      {
+        title: "In-Person Application Option at District Social Welfare Offices",
+        paragraphs: [
+          "For applicants living in rural villages without internet connectivity or smart devices, the Punjab government provides an accessible offline registration channel:"
+        ],
+        bullets: [
+          "Visit District Headquarters: Applicants can visit the office of the Deputy Director of Social Welfare & Bait-ul-Maal in their respective district headquarters.",
+          "Free Physical Form: Collect the official physical Dhee Rani application form free of charge from the reception facilitation desk.",
+          "Staff Assistance: Dedicated social welfare case officers are stationed to assist illiterate applicants in filling out the form, scanning documents, and uploading the data onto the provincial CMP database.",
+          "Official Receipt: Ensure you obtain a signed and stamped counterfoil receipt displaying your application registration serial number."
+        ]
+      },
+      {
+        title: "Verification Process: Special Verification Committees & On-Ground Inspection",
+        paragraphs: [
+          "To preserve program integrity and prevent fake marriage claims or multiple submissions, a robust dual-stage scrutiny protocol is conducted:"
+        ],
+        bullets: [
+          "Desktop Scrutiny: PITB and NADRA cross-verify identity records, age eligibility, and marital history to ensure neither party has claimed duplicate benefits.",
+          "On-Ground Field Inquiries: Specially notified District Scrutiny Committees—headed by the Deputy Commissioner and comprising the Deputy Director of Social Welfare, Assistant Commissioner, and local notables—conduct physical field inquiries at the applicant's neighborhood to verify genuine financial distress.",
+          "Helpline 1312 Support: Applicants can call the dedicated toll-free helpline 1312 at any stage to check application scrutiny progress, report delays, or request guidance."
+        ]
+      },
+      {
+        title: "Collective Wedding Ceremony Organization, Logistics & Guest Arrangements",
+        paragraphs: [
+          "Once applications are approved, the Social Welfare Department schedules regional collective marriage ceremonies across all administrative divisions:"
+        ],
+        bullets: [
+          "Divisional Event Venues: Ceremonies are organized at prestigious public convention centers, sports complexes, or marquee halls managed by the government.",
+          "Formal Nikah Registration: Registered Nikah Khawans (marriage registrars) are arranged on-site to execute and officially register the Nikah-Nama with the local Union Council without registration fees.",
+          "Logistical Transport: The district administration coordinates designated passenger vans or buses to transport couples and their 20 invited guests from tehsil centers to the venue and back."
+        ]
+      },
+      {
+        title: "CM Punjab Dhee Rani Assistance Package Breakdown Table",
+        paragraphs: [
+          "The following table details the comprehensive package provided to every married couple under the scheme:"
+        ],
+        table: {
+          caption: "CM Punjab Dhee Rani Program Package and Benefits Breakdown",
+          headers: ["Category", "Component / Benefit", "Specification / Value", "Disbursing Authority"],
+          rows: [
+            ["Financial Grant (Salami)", "Direct Cash Transfer", "Rs. 100,000 (One-Time)", "The Bank of Punjab (BOP) ATM Card"],
+            ["Spiritual & Formal Gifts", "Holy Quran & Prayer Mat", "Formal translation edition with velvet prayer rug", "Social Welfare Department Punjab"],
+            ["Domestic Furniture", "Double Bed & Foam Mattress", "Master MoltyFoam / equivalent quality set", "Social Welfare Department Punjab"],
+            ["Kitchen & Dining Set", "72-Piece Dinner Set & Cookware", "14-piece non-stick pots, pans & tableware", "Approved Vendor Consortia"],
+            ["Home Appliances", "Stand Fan, Sewing Machine, Iron", "Energy-efficient domestic durable appliances", "Approved Vendor Consortia"],
+            ["Ceremonial Feast", "Wedding Meal for 20 Guests", "Traditional wedding banquet & refreshments", "District Administration Hospitality"],
+            ["Registration Support", "Official Nikah Registration", "Legal Nikah-Nama execution & Union Council fees", "Local Government & Community Development"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the cash grant amount given under the CM Punjab Dhee Rani Program?",
+        answer: "Every eligible bride receives a financial wedding gift (Salami) of Rs. 100,000 disbursed directly through a dedicated Bank of Punjab ATM card."
+      },
+      {
+        question: "What is the age limit for brides in the Dhee Rani Program?",
+        answer: "The bride must be between 18 and 40 years old at the time of application submission."
+      },
+      {
+        question: "What items are included in the Dhee Rani bridal gift box (Jahez package)?",
+        answer: "The package includes 24 household essentials worth approximately Rs. 200,000, including a Holy Quran, prayer mat, double bed with mattress, 72-piece dinner set, cookware set, stand fan, sewing machine, and electric iron."
+      },
+      {
+        question: "How many wedding guests can attend the collective marriage ceremony?",
+        answer: "The Punjab government hosts and caters a full meal banquet for up to 20 invited guests per registered couple at no cost to the family."
+      },
+      {
+        question: "How can applicants apply online for the Dhee Rani Program?",
+        answer: "Applications can be submitted online at the official portal cmp.punjab.gov.pk or through the 'Maryam Ko Batayn' mobile application."
+      },
+      {
+        question: "Can an application be submitted in person if internet access is unavailable?",
+        answer: "Yes, physical application forms can be collected and submitted free of charge at the office of the Deputy Director of Social Welfare & Bait-ul-Maal in your district."
+      },
+      {
+        question: "Who is given priority in the Dhee Rani Program selection?",
+        answer: "Priority is legally accorded to destitute young women, orphans, persons with disabilities (PWDs), and daughters of disabled or deceased parents."
+      },
+      {
+        question: "Is Nikah registration included in the ceremony arrangements?",
+        answer: "Yes, official Nikah registration by authorized registrars is arranged on-site, and Union Council registration fees are fully covered by the government."
+      },
+      {
+        question: "What is the dedicated helpline number for the Dhee Rani Program?",
+        answer: "Applicants can call the dedicated Punjab Social Welfare toll-free helpline at 1312 for application assistance and verification updates."
+      },
+      {
+        question: "How is applicant eligibility verified before the collective wedding?",
+        answer: "Verification is conducted through desktop data scrutiny with NADRA and PITB, followed by on-ground field inquiries by the District Scrutiny Committee."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "CM Punjab Dhee Rani Program Portal",
+        href: "https://cmp.punjab.gov.pk/"
+      },
+      {
+        label: "Punjab Social Welfare and Bait-ul-Maal Department",
+        href: "https://swd.punjab.gov.pk/"
       }
     ]
   }
