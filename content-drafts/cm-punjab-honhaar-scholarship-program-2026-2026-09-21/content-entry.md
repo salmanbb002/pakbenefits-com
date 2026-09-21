@@ -34,8 +34,8 @@
   "publishedDate": "September 21, 2026",
   "lastChecked": "September 21, 2026",
   "readTime": "13 min read",
-  "image": "/images/scholarship-guide.jpg",
-  "imageAlt": "Chief Minister Punjab Honhaar Merit Scholarship Program distribution and university student assistance portal",
+  "image": "/images/cm-punjab-honhaar-scholarship.jpg",
+  "imageAlt": "Pakistani university students walking on Punjab campus lawn under CM Punjab Honhaar Merit Scholarship Program",
   author: contributors.muhammadSalman,
   "sections": [
     {

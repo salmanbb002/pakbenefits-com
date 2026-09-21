@@ -34,8 +34,8 @@
   "publishedDate": "September 21, 2026",
   "lastChecked": "September 21, 2026",
   "readTime": "14 min read",
-  "image": "/images/hero-support.jpg",
-  "imageAlt": "Chief Minister Punjab Apni Chhat Apna Ghar affordable housing scheme model and online registration portal desk",
+  "image": "/images/apni-chhat-apna-ghar-scheme.jpg",
+  "imageAlt": "Pakistani family proudly standing in front of their newly constructed brick home under Apni Chhat Apna Ghar scheme in Punjab",
   author: contributors.muhammadSalman,
   "sections": [
     {
