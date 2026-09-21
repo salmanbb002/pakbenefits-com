@@ -34,8 +34,8 @@
   "publishedDate": "September 21, 2026",
   "lastChecked": "September 21, 2026",
   "readTime": "13 min read",
-  "image": "/images/farmer-support.jpg",
-  "imageAlt": "Chief Minister Punjab Kisan Card distribution and biometric registration desk for farmers",
+  "image": "/images/cm-punjab-kisan-card.jpg",
+  "imageAlt": "Pakistani farmer holding official Chief Minister Punjab Kisan Card in an agricultural wheat field",
   author: contributors.muhammadSalman,
   "sections": [
     {
