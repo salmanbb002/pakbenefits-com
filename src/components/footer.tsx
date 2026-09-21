@@ -44,6 +44,7 @@ export function Footer() {
             <Link href="/privacy-policy/">Privacy policy</Link>
             <Link href="/terms-and-conditions/">Terms & conditions</Link>
             <Link href="/disclaimer/">Disclaimer</Link>
+            <Link href="/cookie-policy/">Cookie policy</Link>
             <Link href="/cnic-verification-guide/">CNIC verification</Link>
             <Link href="/avoid-bisp-fraud/">Fraud prevention</Link>
           </nav>
@@ -61,7 +62,9 @@ export function Footer() {
         <p>© 2026 Live Govt Schemes &amp; Ehsaas Programs. Independent public information.</p>
         <div className="footer-bottom-links">
           <Link href="/privacy-policy/">Privacy</Link>
+          <Link href="/terms-and-conditions/">Terms</Link>
           <Link href="/disclaimer/">Disclaimer</Link>
+          <Link href="/cookie-policy/">Cookies</Link>
           <Link href="/contact-us/">Contact</Link>
         </div>
       </div>

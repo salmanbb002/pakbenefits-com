@@ -14167,38 +14167,73 @@ export const informationPages: InformationPage[] = [
   {
     slug: "about-us",
     title: "About Live Govt Schemes & Ehsaas Programs",
-    eyebrow: "Our purpose",
-    intro: "We translate public-service announcements into clear, practical guides and send readers back to the official source for every important action.",
+    eyebrow: "Our Mission & Team",
+    date: "September 21, 2026",
+    intro: "PakBenefits (pakbenefits.com) is an independent public-interest publication providing plain-language guides, verification steps, and procedural walkthroughs for Pakistani welfare schemes, citizen services, and public support programmes.",
     sections: [
       {
-        title: "Why we built this site",
+        title: "Our Mission & Purpose",
         paragraphs: [
-          "Important programme information is often scattered across portals, notices, and press releases. People can lose time—or trust the wrong person—when the next step is unclear. Live Govt Schemes & Ehsaas Programs organizes that information around the questions people actually ask.",
-          "Our pages are educational summaries. We do not decide eligibility, process applications, release payments, or represent any government department.",
+          "Millions of Pakistani citizens and low-income families are entitled to government social safety nets, educational stipends, agricultural subsidies, and youth enterprise grants. However, crucial application instructions and policy updates are frequently fragmented across disparate government portals, departmental press releases, and gazette notices. This lack of centralized clarity often leads to misinformation, delays, and exploitation by unauthorized agents.",
+          "Live Govt Schemes & Ehsaas Programs was founded to bridge this information divide. We synthesize official government notifications into practical, step-by-step guides that answer the exact procedural questions citizens face—from checking CNIC eligibility to troubleshooting biometric verification issues. Our goal is to empower readers with accurate knowledge so they can complete public service applications independently and securely.",
+          "We operate strictly as an educational publisher. We do not process welfare applications, disburse public funds, access private citizen records, or represent any government ministry or department.",
         ],
       },
       {
-        title: "How we work",
+        title: "Editorial Leadership & Core Contributors",
         paragraphs: [
-          "We begin with a responsible government department or programme portal, compare the available instructions, and write a plain-language guide. We add publication dates, scam warnings, and direct official links so readers can verify details themselves.",
+          "Our content is researched, written, and verified by dedicated analysts with direct experience in public-sector financing, social protection, and public administration reporting in Pakistan:",
+        ],
+        subsections: [
+          {
+            title: "Muhammad Salman — Founder & Public Programmes Lead",
+            paragraphs: [
+              "Muhammad Salman oversees editorial direction, public financing schemes, and youth enterprise initiatives across PakBenefits. He cross-references all guides against State Bank of Pakistan (SBP) regulatory circulars, federal gazettes, and provincial ministry directives to guarantee financial and legal accuracy.",
+            ],
+          },
+          {
+            title: "Saad Hassan — Public Programmes Editor",
+            paragraphs: [
+              "Saad has specialized in covering BISP, Ehsaas, and provincial welfare frameworks since 2024. He investigates digital portal workflows, tests public interfaces (such as 8171 and PULSE), and translates complex technical criteria into accessible Urdu and English instructions.",
+            ],
+          },
+          {
+            title: "Ayesha Malik — Social Protection Editorial Reviewer",
+            paragraphs: [
+              "Ayesha conducts secondary factual reviews for social protection, poverty alleviation, and educational stipend guides. She validates all quota rules, PMT score cutoffs, and documentation checklists against official BISP and NADRA NSER announcements prior to publication.",
+            ],
+          },
+        ],
+      },
+      {
+        title: "Editorial Methodology & Fact-Checking Standards",
+        paragraphs: [
+          "To ensure maximum reliability, every article published on PakBenefits adheres to strict editorial standards:",
         ],
         bullets: [
-          "Official source before summary.",
-          "Clear distinction between confirmed facts and practical advice.",
-          "No CNIC collection, payment processing, or approval promises.",
-          "Corrections when an official process changes.",
+          "Primary Source Verification: Every guide begins with confirmed government circulars, legislative acts, or authenticated digital portals (.gov.pk or .gop.pk).",
+          "Dual-Review Publishing Workflow: No guide goes live without being drafted by a subject specialist and independently reviewed by an editorial fact-checker.",
+          "Direct Source Attribution: We provide direct, clickable links to official government submission portals so readers can independently verify information.",
+          "Zero Data Collection: We strictly enforce a policy against collecting citizen CNIC numbers, mobile OTPs, bank credentials, or biometric information.",
+          "Proactive Anti-Fraud Warnings: Every guide prominently highlights scam warnings, reminding readers that official government welfare programs never charge registration fees.",
         ],
       },
       {
-        title: "Who writes and reviews our guides",
+        title: "Editorial Independence & Advertising Ethics",
         paragraphs: [
-          "Every guide is written by our public-programmes editorial team and checked by a second reviewer against the current official portal before publication. Author and reviewer names appear on each guide, and we note the last review date so you can judge how current the information is.",
+          "PakBenefits maintains absolute editorial independence. We are a privately operated publication funded through non-intrusive online advertising, including Google AdSense.",
+          "Commercial advertisers and sponsors have zero influence over our editorial assessments, procedural guides, or program reviews. All advertisements are clearly distinguished from editorial content, and we do not accept sponsored content that misleads citizens regarding public welfare entitlements.",
         ],
       },
       {
-        title: "Independent and transparent",
+        title: "Corrections Policy & Community Feedback",
         paragraphs: [
-          "Live Govt Schemes & Ehsaas Programs is an independent information website. It is not affiliated with BISP, NADRA, the Government of Pakistan, or any provincial department. Government names are used only to identify the programmes being discussed.",
+          "Public welfare initiatives, eligibility thresholds, and portal URLs change periodically. We actively monitor official press briefings and update our existing articles promptly to reflect current procedures. Every guide displays its publication and last-checked review date.",
+          "If you identify an outdated link, an inaccurate instruction, or an unannounced policy change, we encourage you to notify our editorial team immediately. We investigate and resolve legitimate corrections within 24 to 48 business hours.",
+        ],
+        links: [
+          { label: "Contact our editorial desk", href: "/contact-us/" },
+          { label: "Review our independent disclaimer", href: "/disclaimer/" },
         ],
       },
     ],
@@ -14206,82 +14241,259 @@ export const informationPages: InformationPage[] = [
   {
     slug: "contact-us",
     title: "Contact the Editorial Desk",
-    eyebrow: "Questions & corrections",
-    date: "September 13, 2026",
-    intro: "Tell us about a broken official link, an unclear explanation, or a programme update that needs editorial review.",
+    eyebrow: "Feedback & Inquiries",
+    date: "September 21, 2026",
+    intro: "Have a question about an article, spotted an outdated government link, or want to suggest a new guide? Get in touch with our editorial team.",
     sections: [
       {
-        title: "What we can help with",
+        title: "How to Reach Our Team",
         paragraphs: [
-          "We welcome corrections, accessibility feedback, and suggestions for future guides. Please include the page title and a public official source where possible.",
+          "PakBenefits welcomes feedback from readers, journalists, legal representatives, and public-sector authorities. You can contact our lead editor directly via email:",
+        ],
+        links: [
+          { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
         ],
       },
       {
-        title: "What we cannot do",
+        title: "Operating Hours & Response Time",
         paragraphs: [
-          "We cannot check individual eligibility, view a payment record, submit an application, or resolve a government case. Please use the official programme portal or office for those requests.",
+          "Our editorial office operates Monday through Friday, from 9:00 AM to 6:00 PM (Pakistan Standard Time, PKT).",
+          "We review all incoming correspondence diligently and aim to respond to editorial feedback, factual corrections, and media inquiries within 24 to 48 business hours.",
         ],
         bullets: [
-          "Do not email a CNIC image or number.",
-          "Do not send bank details, passwords, PINs, or OTPs.",
-          "Do not pay anyone claiming to be our registration agent.",
+          "Location: Lahore / Islamabad, Pakistan",
+          "Business Days: Monday to Friday (excluding public holidays)",
+          "Response Commitment: Within 24–48 hours for verified inquiries",
         ],
       },
       {
-        title: "Email the editorial desk",
-        paragraphs: ["Contact Muhammad Salman about editorial corrections, broken links, accessibility feedback or suggestions for PakBenefits. Include the page address and a public official source where relevant. Please keep CNIC numbers, identity documents and banking details out of your message."],
-        links: [{ label: "salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" }],
+        title: "What We Can Help With",
+        paragraphs: [
+          "Please feel free to reach out to our team regarding:",
+        ],
+        bullets: [
+          "Editorial Corrections: Reporting an updated rule, eligibility revision, or deadline extension in an existing guide.",
+          "Broken Link Notifications: Flagging an inaccessible government URL, server timeout, or revised portal domain.",
+          "Topic Suggestions: Recommending provincial schemes, public grants, or educational scholarships we have not yet covered.",
+          "Copyright & Intellectual Property: DMCA notices, attribution requests, or content syndication permissions.",
+          "Advertising & Partnership Queries: Inquiries regarding ethical advertising display and compliance.",
+        ],
+      },
+      {
+        title: "What We CANNOT Do (Important Public Notice)",
+        paragraphs: [
+          "Because PakBenefits is an independent educational publisher and NOT a government authority, our editorial desk cannot perform administrative or official functions:",
+        ],
+        bullets: [
+          "We CANNOT check your personal BISP, 8171, or Ehsaas eligibility status.",
+          "We CANNOT accept, process, or forward welfare, loan, or tractor applications.",
+          "We CANNOT resolve thumbprint or biometric verification failures (these require visiting your local NADRA or BISP office).",
+          "We CANNOT disburse payments, reissue lost ATM cards, or unblock stopped stipends.",
+          "We CANNOT expedite official balloting or grant approvals.",
+        ],
+      },
+      {
+        title: "Security & Privacy Notice: Do Not Send Personal Documents",
+        paragraphs: [
+          "In accordance with our strict data protection and privacy policies, we request that you DO NOT include sensitive personal identifiers in your correspondence.",
+          "Please never email photographs or scans of your CNIC, B-Form, passport, bank account numbers, ATM PINs, mobile wallet passwords, or SMS verification codes (OTPs). Any message containing sensitive personal or financial credentials will be immediately deleted without response to safeguard citizen privacy.",
+        ],
+        links: [
+          { label: "Read our full Privacy Policy", href: "/privacy-policy/" },
+          { label: "Read our Independent Disclaimer", href: "/disclaimer/" },
+        ],
       },
     ],
   },
   {
     slug: "privacy-policy",
     title: "Privacy Policy",
-    eyebrow: "Last updated July 2026",
-    intro: "This policy explains the limited information an informational website may receive and the choices available to visitors.",
+    eyebrow: "Data Protection & AdSense Compliance",
+    date: "September 21, 2026",
+    intro: "This Privacy Policy governs the manner in which PakBenefits (pakbenefits.com) collects, uses, maintains, and discloses information collected from visitors. It details our complete compliance with Google AdSense advertising policies, third-party cookies, and international data privacy regulations.",
     sections: [
       {
-        title: "Information you choose to send",
+        title: "1. Overview & General Policy Statement",
         paragraphs: [
-          "You can read this website without creating an account. If you contact the editorial desk, we receive the email address and message you choose to provide. Please do not send identity numbers or financial information.",
+          "PakBenefits, published as Live Govt Schemes & Ehsaas Programs ('we', 'us', or 'our'), operates https://pakbenefits.com as a free public informational resource. We are committed to safeguarding the privacy and personal data of every individual who visits our website.",
+          "You can access and read all guides, comparative tables, and public-service tutorials on our site without registering for an account, subscribing to paid services, or providing any personal identifying information.",
+          "We do NOT collect, solicit, store, or process Computerized National Identity Card (CNIC) numbers, biometric identifiers, bank account credentials, ATM PINs, or One-Time Passwords (OTPs).",
         ],
       },
       {
-        title: "Basic website data",
+        title: "2. Google AdSense & Third-Party Advertising Cookies",
         paragraphs: [
-          "Hosting and security providers may process standard technical records such as an IP address, browser type, requested page, and timestamp to deliver and protect the service. We do not sell personal information.",
+          "This website uses Google AdSense, a web advertising service provided by Google LLC ('Google'), to display commercial advertisements across our pages.",
+          "In compliance with official Google AdSense Publisher Policies, we explicitly disclose the following to all visitors:",
+        ],
+        bullets: [
+          "Third-Party Vendors & Google Cookies: Third-party vendors, including Google, use cookies to serve advertisements based on a user's prior visits to this website or other websites across the Internet.",
+          "Advertising & DoubleClick DART Cookies: Google's use of advertising cookies (including the DoubleClick cookie) enables it and its advertising partners to serve ads to our visitors based on their visit to our site and/or other sites on the World Wide Web.",
+          "Opting Out of Personalized Advertising: Users may opt out of personalized advertising at any time by visiting Google Ads Settings at https://adssettings.google.com.",
+          "Third-Party Vendor Opt-Out: Alternatively, users can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting the Digital Advertising Alliance Consumer Choice page at https://www.aboutads.info/choices/ or the Network Advertising Initiative at https://optout.networkadvertising.org/.",
+          "How Google Uses Information: For a detailed understanding of how Google processes information when you visit partner sites, please review Google's official privacy resource: 'How Google uses information from sites or apps that use our services' at https://policies.google.com/technologies/partner-sites.",
+        ],
+        links: [
+          { label: "Google Ads Settings (Opt Out)", href: "https://adssettings.google.com" },
+          { label: "AboutAds Consumer Choice Tool", href: "https://www.aboutads.info/choices/" },
+          { label: "How Google Uses Data on Partner Sites", href: "https://policies.google.com/technologies/partner-sites" },
         ],
       },
       {
-        title: "External official links",
+        title: "3. Log Files & Server Telemetry",
         paragraphs: [
-          "Our guides link to government and programme websites. Their privacy practices apply after you leave Live Govt Schemes & Ehsaas Programs. Check the destination address before entering personal information.",
+          "PakBenefits follows a standard procedure of utilizing log files. These files log visitors when they access website pages, a universal practice implemented by hosting providers and Content Delivery Networks (CDNs) such as Cloudflare and Vercel for operational telemetry and infrastructure security.",
+          "The information collected by log files includes: Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamps, referring/exit pages, and the number of clicks on site navigation elements.",
+          "This technical data is not linked to any information that is personally identifiable. The sole purpose of this information is to analyze broader traffic trends, administer the website, prevent malicious denial-of-service (DDoS) attempts, track aggregate user movement, and optimize site loading speeds across mobile and desktop devices.",
+        ],
+      },
+      {
+        title: "4. Web Beacons & Third-Party Ad Networks",
+        paragraphs: [
+          "Third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons in their respective advertisements and links that appear on PakBenefits. These technologies are sent directly to the user's browser, automatically receiving your IP address when this occurs.",
+          "These technologies are used by third-party advertising partners to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.",
+          "Please note that PakBenefits has no access to or control over these cookies and tracking technologies that are used by third-party advertisers. We encourage you to consult the respective privacy policies of these third-party ad servers for more detailed information on their practices and instructions on how to opt out of certain options.",
+        ],
+      },
+      {
+        title: "5. Information You Choose to Send to Our Editorial Desk",
+        paragraphs: [
+          "The only personal information we collect is data you voluntarily provide when contacting our editorial desk via email. This typically includes your email address, sender name, and the text of your inquiry or correction.",
+          "We use this information solely to review your feedback, answer your questions, or implement necessary corrections. We never sell, rent, lease, or distribute your email address or personal communications to commercial third parties, marketers, or data brokers.",
+        ],
+      },
+      {
+        title: "6. External Links to Government & Third-Party Portals",
+        paragraphs: [
+          "Our articles contain hyperlinks to external websites, including official Pakistani government portals (e.g., akar.pulse.gop.pk, 8171.bisp.gov.pk, pass.gov.pk).",
+          "If you click on a third-party link, you will be directed to that external organization's site. Please be aware that external sites are not operated or controlled by PakBenefits. We strongly advise you to review the Privacy Policy and terms of every site you visit. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+        ],
+      },
+      {
+        title: "7. User Privacy Rights (GDPR & CCPA/CPRA Disclosures)",
+        paragraphs: [
+          "We respect global privacy frameworks, including the European Union General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA/CPRA). Depending on your jurisdiction, you possess the following statutory rights:",
+        ],
+        bullets: [
+          "The Right to Access: You have the right to request copies of any personal communications or data we hold concerning you.",
+          "The Right to Rectification: You have the right to request that we correct any information you believe is inaccurate or incomplete.",
+          "The Right to Erasure: You have the right to request that we erase your personal correspondence records from our communication logs.",
+          "The Right to Restrict Processing: You have the right to request that we restrict the processing of your personal data under certain conditions.",
+          "The Right to Opt-Out: We do not sell personal data. You maintain the absolute right to opt out of interest-based ad tracking as detailed in Section 2.",
+        ],
+      },
+      {
+        title: "8. Children's Online Privacy Protection Act (COPPA)",
+        paragraphs: [
+          "Protecting children's privacy in the digital age is of utmost importance. PakBenefits does not knowingly collect or solicit any personally identifiable information from children under the age of 13.",
+          "Our content is aimed at general adult audiences, eligible citizens, and family heads seeking public welfare information. If a parent or guardian believes that PakBenefits has inadvertently collected personal information from a child under 13, please contact our editorial desk immediately, and we will make best efforts to promptly delete such records from our servers.",
+        ],
+      },
+      {
+        title: "9. Updates to This Privacy Policy & Contact",
+        paragraphs: [
+          "We may update our Privacy Policy periodically to reflect changes in our operational practices, advertising standards, or legal obligations. We advise you to review this page periodically for any changes. Changes are effective immediately upon posting to this URL.",
+          "If you have questions, privacy concerns, or opt-out inquiries regarding this Privacy Policy, please contact our Data Protection and Editorial Lead:",
+        ],
+        links: [
+          { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
+          { label: "View our Cookie Policy", href: "/cookie-policy/" },
         ],
       },
     ],
   },
   {
     slug: "terms-and-conditions",
-    title: "Terms and Conditions",
-    eyebrow: "Responsible use",
-    intro: "By using this site, you agree to treat its content as general educational information and verify important decisions with the responsible official organization.",
+    title: "Terms and Conditions of Service",
+    eyebrow: "Legal Framework & Terms of Use",
+    date: "September 21, 2026",
+    intro: "These Terms and Conditions govern your access to and use of PakBenefits (pakbenefits.com). By accessing, browsing, or using this website, you agree to be legally bound by these terms. If you do not accept these terms in full, you must discontinue using this website immediately.",
     sections: [
       {
-        title: "Informational purpose",
+        title: "1. Acceptance of Terms & Legal Agreement",
         paragraphs: [
-          "Content is provided to explain public programmes in accessible language. It is not an official decision, legal advice, financial advice, or a guarantee of eligibility, payment, approval, or availability.",
+          "By accessing https://pakbenefits.com ('Website', 'PakBenefits', 'we', 'us', or 'our'), you acknowledge that you have read, understood, and agreed to be legally bound by these Terms and Conditions and our Privacy Policy.",
+          "These terms apply to all visitors, readers, automated search crawlers, and users who access or interact with any part of our service.",
         ],
       },
       {
-        title: "Accuracy and changes",
+        title: "2. Independent Educational Nature (Not an Official Service)",
         paragraphs: [
-          "We aim to keep guides useful, but public programmes can change without notice. The latest official portal, notice, or department instruction controls if it differs from a summary on this site.",
+          "PakBenefits is an independent educational and public-interest publishing website. All content, procedural guides, eligibility breakdowns, and documentation checklists published on this site are provided strictly for general educational, journalistic, and informational purposes.",
+          "PakBenefits is NOT an official agency, ministry, or department of the Government of Pakistan or any provincial authority. Content published on this website does not constitute official administrative decisions, legal advice, financial advice, or welfare entitlement guarantees.",
+          "We have no authority to approve scheme applications, enroll beneficiaries, disburse payments, issue Kisan Cards, or rectify official government database records.",
         ],
       },
       {
-        title: "Acceptable use",
+        title: "3. Intellectual Property Rights & Fair Use",
         paragraphs: [
-          "You may share links to our public guides. You may not impersonate this website, misrepresent our content as an official decision, scrape personal data, or use our name to charge people for registration assistance.",
+          "Unless otherwise stated, all original text, article formulations, research synthesis, layout design, infographics, data structures, and custom comparison tables published on PakBenefits are the proprietary intellectual property of PakBenefits and are protected by applicable copyright, trademark, and intellectual property laws.",
+        ],
+        bullets: [
+          "Permitted Use: You are granted a limited, non-exclusive, revocable license to access, view, and read our content for personal, non-commercial educational use. You may share hyperlinks to our articles on social media or informational forums.",
+          "Prohibited Reproduction: You may not scrape, systematically copy, republish, mirror, sell, license, or commercially redistribute our full articles, database structures, or proprietary guides without express prior written consent from the publisher.",
+          "Attribution Requirement: Quotations or brief excerpts of our work must include clear, conspicuous editorial attribution naming PakBenefits and a direct do-follow hyperlink to the original source URL.",
+          "Third-Party Trademarks: Names of government programs (such as BISP, Ehsaas, NADRA, 8171, and provincial schemes) belong exclusively to their respective government authorities and are referenced strictly under nominative fair use for descriptive, educational reporting.",
+        ],
+      },
+      {
+        title: "4. User Conduct & Acceptable Use Policy",
+        paragraphs: [
+          "As a condition of using PakBenefits, you agree not to use the website for any purpose that is unlawful, harmful, or prohibited by these terms. Specifically, you agree that you shall NOT:",
+        ],
+        bullets: [
+          "Impersonate PakBenefits, its authors, or any government official or public authority.",
+          "Use our name, brand, or content to solicit money, charging vulnerable citizens for public welfare scheme registration or forms.",
+          "Use automated bots, scrapers, data-mining tools, or spiders to extract bulk content or overwhelm our server infrastructure.",
+          "Introduce viruses, Trojans, worms, logic bombs, or other malicious software targeting our hosting infrastructure or user devices.",
+          "Attempt to gain unauthorized access to our server systems, databases, or administration dashboards.",
+        ],
+      },
+      {
+        title: "5. Third-Party Advertisements & Google AdSense",
+        paragraphs: [
+          "PakBenefits displays commercial advertisements delivered by automated third-party ad networks, primarily Google AdSense.",
+          "The inclusion of any commercial advertisement on PakBenefits does not constitute an endorsement, recommendation, guarantee, or warranty of the advertised product, service, or business.",
+          "PakBenefits exercises no direct editorial control over the commercial claims, landing pages, or privacy practices of advertisers. Any business transactions, purchases, or interactions you undertake with advertisers found on or through our website are solely between you and the respective third-party advertiser. Under no circumstances shall PakBenefits be held liable for any loss or damage incurred as the result of any such dealings.",
+        ],
+      },
+      {
+        title: "6. External Links to Government & Third-Party Websites",
+        paragraphs: [
+          "Our articles frequently link to external third-party portals, including official government websites (e.g., .gov.pk and .gop.pk domains).",
+          "These links are provided purely for reader convenience and official source verification. PakBenefits has no control over the content, uptime, availability, or operational policies of external websites. The inclusion of a link does not imply endorsement of the destination site or its operators.",
+        ],
+      },
+      {
+        title: "7. Disclaimer of Warranties ('As Is' and 'As Available')",
+        paragraphs: [
+          "The website and all materials, information, and guides provided on it are made available on an 'AS IS' and 'AS AVAILABLE' basis, without warranties of any kind, either express or implied.",
+          "Public welfare initiatives, application deadlines, eligibility criteria, and disbursement quotas in Pakistan are subject to sudden government revisions, policy changes, and portal downtime. While our editorial team makes diligent efforts to ensure information is timely and accurate, we make no representations or warranties regarding the completeness, accuracy, reliability, or timeliness of any content.",
+          "Readers are solely responsible for verifying critical eligibility conditions and deadlines directly with official government departments before making financial, employment, or travel commitments.",
+        ],
+      },
+      {
+        title: "8. Limitation of Liability & Indemnification",
+        paragraphs: [
+          "To the fullest extent permitted by applicable law, in no event shall PakBenefits, its owners, editors, contributors, or technical partners be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your access to, use of, or inability to use this website or any information published herein.",
+          "You agree to defend, indemnify, and hold harmless PakBenefits and its editorial personnel from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) resulting from your violation of these Terms and Conditions or your misuse of the website.",
+        ],
+      },
+      {
+        title: "9. Modifications to Terms & Governing Law",
+        paragraphs: [
+          "We reserve the right, at our sole discretion, to modify, amend, or replace these Terms and Conditions at any time. When updates are published, the 'Last updated' date at the top of this page will be revised accordingly. Your continued use of the website following the posting of revisions constitutes your acceptance of the updated terms.",
+          "These Terms and Conditions shall be governed by and construed in accordance with the applicable laws of the Islamic Republic of Pakistan, without regard to conflict of law principles.",
+        ],
+      },
+      {
+        title: "10. Contact for Legal Notices",
+        paragraphs: [
+          "For formal inquiries, copyright matters, or questions regarding these Terms and Conditions, please contact our legal and editorial desk:",
+        ],
+        links: [
+          { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
+          { label: "Review our Independent Disclaimer", href: "/disclaimer/" },
         ],
       },
     ],
@@ -14289,25 +14501,142 @@ export const informationPages: InformationPage[] = [
   {
     slug: "disclaimer",
     title: "Independent Website Disclaimer",
-    eyebrow: "Please read before acting",
-    intro: "Live Govt Schemes & Ehsaas Programs is not a government website and is not affiliated with BISP, NADRA, or any federal or provincial department.",
+    eyebrow: "Public Safety & Non-Affiliation Notice",
+    date: "September 21, 2026",
+    intro: "Please read this disclaimer carefully before relying on any instructional guide, eligibility breakdown, or procedural overview published on PakBenefits (pakbenefits.com).",
     sections: [
       {
-        title: "No official authority",
+        title: "1. Strict Non-Affiliation Declaration (Independent Platform)",
         paragraphs: [
-          "We cannot enroll a beneficiary, approve an application, change a household record, check a private payment record, or issue funds. Only the responsible programme and its authorized partners can do so.",
+          "PakBenefits, published as Live Govt Schemes & Ehsaas Programs, is an entirely private, independent public information resource operated by private educational researchers.",
+          "PakBenefits is NOT affiliated with, authorized by, sponsored by, endorsed by, or in any way officially connected with the Benazir Income Support Programme (BISP), Ehsaas Programme, National Database and Registration Authority (NADRA), Ministry of Poverty Alleviation and Social Safety (PASS), Punjab Land Records Authority (PLRA), Government of Punjab, Government of Pakistan, or any other federal or provincial statutory authority.",
+          "Official government websites can be identified by the '.gov.pk' or '.gop.pk' domain extension. Our website URL is https://pakbenefits.com, a privately registered commercial domain.",
         ],
       },
       {
-        title: "Verify before acting",
+        title: "2. No Administrative Authority or Access to Official Records",
         paragraphs: [
-          "Use the official links included in each guide and confirm deadlines, eligibility criteria, documents, amounts, and payment arrangements before you travel, apply, or make a financial decision.",
+          "We do not possess access to official government servers, NSER registries, or citizen financial records. As an educational publisher, PakBenefits has zero administrative powers:",
+        ],
+        bullets: [
+          "We CANNOT check your personal BISP, 8171, or Ehsaas eligibility records.",
+          "We CANNOT register you for any welfare scheme, agricultural subsidy, or interest-free loan.",
+          "We CANNOT approve, accelerate, or modify public welfare applications.",
+          "We CANNOT disburse payments, resolve ATM biometric errors, or rectify NADRA family tree records.",
+          "We CANNOT alter your Poverty Means Test (PMT) score or household registration.",
         ],
       },
       {
-        title: "Never send private information",
+        title: "3. Government Welfare Programs Are 100% Free of Charge",
         paragraphs: [
-          "This website does not need your CNIC, bank account, password, PIN, biometric data, or OTP. If someone requests those details while claiming to represent Live Govt Schemes & Ehsaas Programs, stop the conversation.",
+          "Official government welfare programs across Pakistan—including Benazir Kafaalat, Taleemi Wazaif, Nashonuma, Punjab Kisan Card, Green Tractor Scheme, and Youth Business Loans—NEVER require citizens to pay application fees, token charges, or agent commissions to unofficial third parties.",
+          "PakBenefits will NEVER charge you money for reading guides, accessing links, or downloading informational materials. Beware of fraudulent individuals or agents who demand payment in exchange for guaranteeing scheme approval or expediting balloting results.",
+        ],
+      },
+      {
+        title: "4. Urgent Citizen Security Warning: Never Share Confidential Credentials",
+        paragraphs: [
+          "PakBenefits strictly enforces a zero-data-collection policy for personal citizen identifiers. To protect yourself from identity theft and financial fraud, observe the following rules at all times:",
+        ],
+        bullets: [
+          "NEVER share your 13-digit CNIC number, B-Form number, or family certificate with unofficial websites.",
+          "NEVER reveal your ATM PIN, mobile banking password, or JazzCash / Easypaisa security codes.",
+          "NEVER share SMS One-Time Passwords (OTPs) received from 8171, banks, or telecommunication providers.",
+          "NEVER provide thumbprint or biometric authentication to unauthorized street agents.",
+        ],
+      },
+      {
+        title: "5. Third-Party Advertising Disclaimer (Google AdSense)",
+        paragraphs: [
+          "Advertisements displayed across PakBenefits are served by third-party advertising networks, including Google AdSense. These ads are generated dynamically and automatically by algorithms based on user interest and context.",
+          "The display of an advertisement on this website does NOT constitute an endorsement, recommendation, or verification by PakBenefits of the advertised product, commercial enterprise, or service. Readers must exercise prudent personal judgment and due diligence before interacting with any external advertisement or entering into commercial transactions.",
+        ],
+      },
+      {
+        title: "6. Educational Content & Requirement for Verification",
+        paragraphs: [
+          "All articles, step-by-step guides, payment calendars, and eligibility overviews published on PakBenefits are developed through rigorous secondary research and synthesis of publicly available official notifications. However, government policies, quotas, stipend amounts, and procedural rules change frequently without advance public notice.",
+          "The information on this website is provided for general informational and guidance purposes only. Readers must confirm all procedural steps, deadlines, required documents, and payment details directly with the official responsible department or through verified '.gov.pk' portals before undertaking travel, submitting legal undertakings, or making financial decisions.",
+        ],
+      },
+      {
+        title: "7. Trademark & Fair Use Acknowledgment",
+        paragraphs: [
+          "All product names, logos, acronyms, and brand names referenced on this website—including BISP, Ehsaas, 8171, NADRA, Kisan Card, and provincial government titles—are registered trademarks or intellectual property of their respective official government bodies.",
+          "The use of these names and references on PakBenefits is strictly for descriptive, informational, and educational reporting purposes under the doctrine of nominative fair use. Their mention does not imply any affiliation with or endorsement by the trademark holders.",
+        ],
+        links: [
+          { label: "Read our full Privacy Policy", href: "/privacy-policy/" },
+          { label: "Read our Terms and Conditions", href: "/terms-and-conditions/" },
+          { label: "Contact our editorial desk", href: "/contact-us/" },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "cookie-policy",
+    title: "Cookie Policy",
+    eyebrow: "How We Use Cookies & Tracking",
+    date: "September 21, 2026",
+    intro: "This Cookie Policy explains how PakBenefits (pakbenefits.com) uses cookies and similar tracking technologies when you visit our website, including mandatory disclosures regarding Google AdSense advertising cookies and how you can manage your preferences.",
+    sections: [
+      {
+        title: "1. What Are Cookies?",
+        paragraphs: [
+          "Cookies are small text files that are stored on your computer, smartphone, or tablet when you visit a website. They are widely used by website operators to make websites function efficiently, improve user experience, and provide reporting information.",
+          "Cookies can be 'persistent' (remaining on your device until they expire or are deleted) or 'session' cookies (which are deleted automatically as soon as you close your web browser).",
+        ],
+      },
+      {
+        title: "2. Categories of Cookies We Use",
+        paragraphs: [
+          "PakBenefits utilizes limited categories of cookies to deliver a fast, secure, and accessible reading experience:",
+        ],
+        bullets: [
+          "Essential & Functional Cookies: These cookies are strictly necessary to enable basic site features, such as caching static assets, maintaining security protocols via Cloudflare/Vercel, and remembering basic user interface preferences.",
+          "Analytical & Performance Cookies: These cookies gather anonymous, aggregate metrics regarding which pages are visited most frequently, average read times, and error occurrences. They do not collect personally identifiable information.",
+          "Advertising & Targeting Cookies (Google AdSense): These cookies are set by third-party advertising partners (principally Google) to track your visits across websites and display relevant, interest-based advertisements.",
+        ],
+      },
+      {
+        title: "3. Google AdSense & DoubleClick DART Cookies",
+        paragraphs: [
+          "PakBenefits partners with Google AdSense to serve advertisements across our pages. In delivering these ads, Google utilizes the DoubleClick DART cookie and related ad-serving technologies.",
+        ],
+        bullets: [
+          "Purpose: Google's use of advertising cookies enables it and its partners to serve targeted advertisements based on your visit to PakBenefits and other websites on the Internet.",
+          "Mechanism: When you visit our website, Google may place a cookie in your browser or read existing cookies to determine your approximate location, device type, and topical interests.",
+          "Opting Out: You can opt out of Google's personalized advertising at any time by visiting Google Ads Settings (https://adssettings.google.com).",
+          "Third-Party Ad Networks: You can also opt out of participating ad networks through the Digital Advertising Alliance Consumer Choice tool at https://www.aboutads.info/choices/ or the Network Advertising Initiative at https://optout.networkadvertising.org/.",
+        ],
+        links: [
+          { label: "Google Ads Settings (Manage Preferences)", href: "https://adssettings.google.com" },
+          { label: "AboutAds Opt-Out Portal", href: "https://www.aboutads.info/choices/" },
+          { label: "How Google Uses Cookie Data", href: "https://policies.google.com/technologies/partner-sites" },
+        ],
+      },
+      {
+        title: "4. How to Control & Disable Cookies in Your Browser",
+        paragraphs: [
+          "You have the right to decide whether to accept or reject cookies. You can configure or modify your web browser controls to accept or refuse cookies at any time. If you choose to reject cookies, you may still use our website, though some visual features and advertising delivery may function with reduced personalization.",
+          "Instructions for managing cookies in the most popular browsers:",
+        ],
+        bullets: [
+          "Google Chrome: Go to Settings > Privacy and Security > Third-Party Cookies. Here you can choose to block third-party cookies or customize site permissions.",
+          "Mozilla Firefox: Navigate to Settings > Privacy & Security > Cookies and Site Data. Select 'Standard', 'Strict', or 'Custom' protection.",
+          "Apple Safari (macOS/iOS): Open Preferences > Privacy > Cookies and website data. Choose 'Block all cookies' or manage cross-site tracking preferences.",
+          "Microsoft Edge: Go to Settings > Cookies and site permissions > Manage and delete cookies and site data.",
+        ],
+      },
+      {
+        title: "5. Policy Updates & Questions",
+        paragraphs: [
+          "We may update this Cookie Policy from time to time to reflect operational, legal, or regulatory requirements. We encourage you to review this policy periodically to stay informed about our use of cookies.",
+          "If you have questions regarding our use of cookies or tracking technologies, please contact our editorial desk:",
+        ],
+        links: [
+          { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
+          { label: "Read our full Privacy Policy", href: "/privacy-policy/" },
         ],
       },
     ],

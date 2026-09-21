@@ -222,6 +222,11 @@ export function InformationTemplate({ page }: { page: InformationPage }) {
           <span className="eyebrow">{page.eyebrow}</span>
           <h1>{page.title}</h1>
           <p>{page.intro}</p>
+          {page.date && (
+            <div className="article-byline" style={{ marginTop: "14px", display: "flex", alignItems: "center", gap: "8px" }}>
+              <CalendarDays size={16} /> <span>Last updated: {page.date}</span>
+            </div>
+          )}
         </div>
       </section>
       <section className="section info-page-section">
@@ -231,16 +236,84 @@ export function InformationTemplate({ page }: { page: InformationPage }) {
               <section key={section.title}>
                 <h2>{section.title}</h2>
                 {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
-                {section.bullets && <ul>{section.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul>}
-                {section.links?.map((link) => <a className="text-link" href={link.href} key={link.href}>{link.label} <ArrowUpRight size={15} /></a>)}
+                {section.bullets && (
+                  <ul>
+                    {section.bullets.map((bullet) => (
+                      <li key={bullet}>
+                        <CheckCircle2 size={18} style={{ display: "inline-block", verticalAlign: "text-bottom", marginRight: "6px", color: "var(--primary, #047857)" }} />
+                        <span>{bullet}</span>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+                {section.subsections?.map((subsection) => (
+                  <div className="article-subsection" key={subsection.title} style={{ marginTop: "24px" }}>
+                    <h3 style={{ fontSize: "1.25rem", color: "var(--navy, #0f172a)", marginBottom: "8px" }}>{subsection.title}</h3>
+                    {subsection.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+                    {subsection.bullets && (
+                      <ul>
+                        {subsection.bullets.map((bullet) => (
+                          <li key={bullet}>
+                            <CheckCircle2 size={16} style={{ display: "inline-block", verticalAlign: "text-bottom", marginRight: "6px", color: "var(--primary, #047857)" }} />
+                            <span>{bullet}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                ))}
+                {section.table && (
+                  <div className="article-table-wrap" style={{ marginTop: "20px", overflowX: "auto" }}>
+                    <table style={{ width: "100%", borderCollapse: "collapse" }}>
+                      {section.table.caption && <caption>{section.table.caption}</caption>}
+                      <thead>
+                        <tr>
+                          {section.table.headers.map((header) => <th scope="col" key={header}>{header}</th>)}
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {section.table.rows.map((row, rIdx) => (
+                          <tr key={rIdx}>
+                            {row.map((cell, cIdx) => <td key={cIdx}>{cell}</td>)}
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                )}
+                {section.links && section.links.length > 0 && (
+                  <div style={{ marginTop: "18px", display: "flex", flexWrap: "wrap", gap: "12px" }}>
+                    {section.links.map((link) =>
+                      link.href.startsWith("http") ? (
+                        <a className="text-link" href={link.href} target="_blank" rel="noreferrer noopener" key={link.href} style={{ display: "inline-flex", alignItems: "center", gap: "4px" }}>
+                          {link.label} <ExternalLink size={14} />
+                        </a>
+                      ) : (
+                        <Link className="text-link" href={link.href} key={link.href} style={{ display: "inline-flex", alignItems: "center", gap: "4px" }}>
+                          {link.label} <ArrowUpRight size={14} />
+                        </Link>
+                      ),
+                    )}
+                  </div>
+                )}
               </section>
             ))}
           </div>
           <aside className="info-side-card">
             <ShieldCheck size={28} />
-            <h2>Your privacy matters</h2>
-            <p>Never send a CNIC image, OTP, bank PIN, or password to an information website.</p>
-            <Link className="text-link" href="/privacy-policy/">Read privacy policy <ArrowUpRight size={15} /></Link>
+            <h2>Trust & Compliance</h2>
+            <p>PakBenefits is an independent educational platform. We never ask for CNIC, OTP, PIN, or fee payments.</p>
+            <div style={{ marginTop: "24px", paddingTop: "18px", borderTop: "1px solid var(--line, #e2e8f0)" }}>
+              <p style={{ fontWeight: 600, fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "0.05em", color: "var(--muted, #64748b)", marginBottom: "12px" }}>Policy & Compliance Pages</p>
+              <nav style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
+                <Link href="/about-us/" className="text-link" style={{ fontWeight: page.slug === "about-us" ? 700 : 400 }}>About Us</Link>
+                <Link href="/contact-us/" className="text-link" style={{ fontWeight: page.slug === "contact-us" ? 700 : 400 }}>Contact Us</Link>
+                <Link href="/privacy-policy/" className="text-link" style={{ fontWeight: page.slug === "privacy-policy" ? 700 : 400 }}>Privacy Policy (AdSense)</Link>
+                <Link href="/terms-and-conditions/" className="text-link" style={{ fontWeight: page.slug === "terms-and-conditions" ? 700 : 400 }}>Terms & Conditions</Link>
+                <Link href="/disclaimer/" className="text-link" style={{ fontWeight: page.slug === "disclaimer" ? 700 : 400 }}>Independent Disclaimer</Link>
+                <Link href="/cookie-policy/" className="text-link" style={{ fontWeight: page.slug === "cookie-policy" ? 700 : 400 }}>Cookie Policy</Link>
+              </nav>
+            </div>
           </aside>
         </div>
       </section>
