@@ -27,7 +27,7 @@ Source: `keyword-clusters.csv` (201 keywords / 20 sub-topic buckets). Cross-refe
 | 17 | Payment & Balance — BISP Card Status | 3 | ✅ Covered | `check-bisp-account-status`, `bisp-8171-payment-balance-check-guide` |
 | 18 | Payment & Balance — Payment Status/Balance & Biometrics | 9 | ✅ Covered | `bisp-biometric-verification-failed`, `bisp-payment-approved-but-no-cash-received`, `bisp-8171-payment-balance-check-guide`, `/payment-check/` pillar |
 | 19 | Provincial Schemes — Punjab Rozgar | 5 | ✅ Covered | `punjab-rozgar-scheme-guide` |
-| 20 | **Urdu/Roman Urdu Layer** | 1 | ⚠️ **GAP (deferred)** | No Urdu content exists yet. Your Month 1 plan flagged this as a Phase 5 pilot (was slated for Sep 11) — the single biggest untapped lever per the original audit, but intentionally not started yet |
+| 20 | **Urdu/Roman Urdu Layer** | 3+ | ✅ Covered & Active | `8171-check-online-kaise-karein` (pilot) + `bisp-registration-check-by-cnic-kaise-karein` (full dynamic survey & status guide) |
 
 ## Bonus depth angles already identified in `content-calendar-month-1.md` (Weeks 2–4) but not yet drafted
 
