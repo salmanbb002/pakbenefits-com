@@ -15551,8 +15551,8 @@ export const articles: Article[] = [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
-    image: "/images/bisp-login.jpg",
-    imageAlt: "A beneficiary speaking to BISP customer support helpline agent to lodge a payment complaint in Pakistan",
+    image: "/images/bisp-helpline-complaint.jpg",
+    imageAlt: "Official BISP 0800-26477 helpline and grievance redressal guide for agent katauti and biometric complaints",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
