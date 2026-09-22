@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/punjab-solar-tube-well-scheme-2026-online-apply/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/punjab-solar-tube-well-scheme-2026-online-apply/"
+      },
+      "headline": "Punjab Solar Tube Well Scheme 2026 Online Apply: Eligibility, Subsidy Rates, Registration Portal & Balloting",
+      "description": "Punjab Solar Tube Well Scheme 2026 online apply: cmstp.punjab.gov.pk portal registration, 67% government subsidy, 10-20 HP system capacities, and balloting criteria.",
+      "image": "https://pakbenefits.com/images/punjab-solar-tube-well-scheme.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "mainEntityOfPage": "https://pakbenefits.com/punjab-solar-tube-well-scheme-2026-online-apply/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Solarization of Agricultural Tube Wells Scheme Punjab",
+          "sameAs": "https://agriculture.punjab.gov.pk"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/punjab-solar-tube-well-scheme-2026-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I apply for the Punjab Solar Tube Well Scheme 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can apply online by visiting the official scheme portal at cmstp.punjab.gov.pk or agriculture.punjab.gov.pk and submitting your CNIC, mobile number, land ownership Fard, and tube well details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What percentage of subsidy does the Punjab government offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Punjab government provides a 67% capital grant for the approved benchmark cost of the solar pumping system, while the farmer pays the remaining 33% share."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minimum land requirement to qualify?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Farmers must own at least 1 acre of agricultural land, with preference given to small and medium landholders owning up to 25 acres."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can farmers with diesel tube wells apply for this solar program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, farmers with existing functional diesel engine tube wells are eligible and prioritized to relieve them from recurring diesel expenses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What system capacities are available under the scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The scheme provides solar systems matching 10 HP, 15 HP, and 20 HP agricultural pumping requirements (approximately 10 kW to 20 kW solar panel arrays)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do I deposit the farmer equity share?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Successful applicants selected through computerized balloting deposit their 33% share directly into a designated government escrow account at The Bank of Punjab (BOP)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are beneficiaries selected if applications exceed the district quota?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beneficiaries are selected through a transparent, computerized e-balloting system administered by the Punjab Information Technology Board (PITB)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for the solar tube well application?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You need your original CNIC, a computerized land ownership Fard issued within the last 90 days, Khasra Girdawari, an electricity bill (if converting an electric tube well), and an attested affidavit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I sell or transfer the solar panels after installation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the terms strictly prohibit selling, renting, or transferring the equipment to another location for a mandatory minimum period of 3 years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who can I contact if I need help with my application?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can contact the Punjab Agriculture Department toll-free helpline at 0800-17000 or visit your local Tehsil Agriculture (Water Management) office for in-person support."
+          }
+        }
+      ]
+    }
+  ]
+}

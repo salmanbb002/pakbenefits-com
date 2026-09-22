@@ -1,0 +1,42 @@
+{
+  "focusKeyword": "bisp and ehsaas difference",
+  "searchIntent": "Informational / Conceptual Comparison",
+  "tier1Entities": [
+    "Benazir Income Support Programme (BISP)",
+    "BISP Act 2010",
+    "Ehsaas Programme",
+    "Ministry of Poverty Alleviation and Social Safety (PASS)",
+    "National Socio-Economic Registry (NSER)",
+    "8171 Web Portal & SMS Service",
+    "Benazir Kafaalat",
+    "Ehsaas Kafaalat",
+    "Benazir Taleemi Wazaif",
+    "Benazir Nashonuma"
+  ],
+  "tier2Entities": [
+    "Poverty Means Test (PMT Score)",
+    "National Database and Registration Authority (NADRA)",
+    "Unconditional Cash Transfer (UCT)",
+    "Conditional Cash Transfer (CCT)",
+    "Ehsaas Emergency Cash",
+    "Tehsil Registration Centers",
+    "Dynamic Registry Survey",
+    "Toll-free Helpline 0800-26477"
+  ],
+  "lsiKeywords": [
+    "difference between bisp and ehsaas program",
+    "is ehsaas and bisp the same",
+    "bisp vs ehsaas 8171",
+    "benazir income support programme vs ehsaas",
+    "bisp kafaalat and ehsaas kafaalat difference",
+    "how to check bisp or ehsaas status",
+    "ehsaas program new update 2026"
+  ],
+  "peopleAlsoAsk": [
+    "What is the difference between BISP and Ehsaas program?",
+    "Is Ehsaas program still working in Pakistan?",
+    "Is 8171 for BISP or Ehsaas?",
+    "Do I need to register separately for BISP and Ehsaas?",
+    "What happened to Ehsaas Kafaalat in 2026?"
+  ]
+}

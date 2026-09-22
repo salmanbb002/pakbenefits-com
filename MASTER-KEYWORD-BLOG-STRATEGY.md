@@ -180,7 +180,7 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | 11. Payment & Balance Check | 7 | ✅ Covered & Published |
 | 12. Punjab Rozgar Scheme | 5 | ✅ Covered & Published |
 | 13. Urdu/Roman Urdu Layer | 3+ | ✅ Active (`8171-check-online-kaise-karein`, `bisp-registration-check-by-cnic-kaise-karein`, `bisp-8171-balance-check-online-kaise-karein`) |
-| **Total Tracked** | **254** | **214 Published / 27 Covered by design / 13 Planned (Next)** |
+| **Total Tracked** | **258** | **226 Published / 27 Covered by design / 5 Planned (Next)** |
 
 ## Roadmap
 
@@ -196,7 +196,7 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 - `benazir-kafaalat-case-paused-reasons`
 - `ehsaas-interest-free-loan-vs-saving-wallet`
 
-**Phase 4 — Ready for Pipeline.** "BISP and Ehsaas: How the Two Names Relate" — official relationship & name transition guide (`bisp-and-ehsaas-difference`).
+**Phase 4 — Done.** "BISP and Ehsaas: How the Two Names Relate" — official relationship & name transition guide published (`bisp-and-ehsaas-difference-guide`).
 
 **Phase 5 — Expanded.** Roman Urdu / Urdu search layer expanded with 3 published pillar guides (`8171-check-online-kaise-karein`, `bisp-registration-check-by-cnic-kaise-karein`, `bisp-8171-balance-check-online-kaise-karein`).
 
@@ -222,13 +222,15 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 - `benazir-taleemi-wazaif-form-download-tarika` (School admission slip, headmaster verification & girls/boys amounts)
 - `bisp-helpline-number-complaint-kaise-darj-karein` (0800-26477 toll-free helpline, retailer deduction & biometric fix)
 
-**Phase 8 — Next in Pipeline (SEO Content Creator Execution Queue):**
-1. `bisp and ehsaas difference` (Brand clarification / historical relationship)
-2. `bisp tehsil office lahore list and addresses` (Lahore BISP & NADRA desk directory)
-3. `bisp office rawalpindi addresses and contact number` (Rawalpindi/Islamabad directory)
-4. `bisp tehsil office karachi district list` (Karachi 7 districts BISP office directory)
-5. `pmt score above 32 bisp re survey guide` (Poverty score challenge & NSER re-survey)
-6. `bisp agent deduction complaint 8171 retailer penalty` (Retailer deduction reporting)
-7. `punjab solar tube well scheme 2026 online apply` (Agri solar tube well conversion)
-8. `kisan card 8070 pin verification and bop atm activation` (PIN setup & POS fertilizer use)
+**Phase 8 — Autumn 2026 Operational Batch (Published 22 Sep 2026):**
+- `bisp-and-ehsaas-difference-guide` (Historical & statutory evolution from BISP Act 2010 to Ehsaas and 2026 restoration)
+- `punjab-solar-tube-well-scheme-2026-online-apply` (cmstp.punjab.gov.pk 67% subsidy agricultural solar conversion)
+- `kisan-card-8070-pin-verification-bop-activation` (BOP ATM biometric PIN activation & POS subsidized fertilizer purchases)
+
+**Phase 9 — Next in Pipeline (Remaining Execution Queue):**
+1. `bisp tehsil office lahore list and addresses` (Lahore BISP & NADRA desk directory)
+2. `bisp office rawalpindi addresses and contact number` (Rawalpindi/Islamabad directory)
+3. `bisp tehsil office karachi district list` (Karachi 7 districts BISP office directory)
+4. `pmt score above 32 bisp re survey guide` (Poverty score challenge & NSER re-survey)
+5. `bisp agent deduction complaint 8171 retailer penalty` (Retailer deduction reporting & 0800-26477)
 

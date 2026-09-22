@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-and-ehsaas-difference-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/bisp-and-ehsaas-difference-guide/"
+      },
+      "headline": "BISP and Ehsaas Difference Explained: History, 8171 Portal, Program Mapping & Current Status (2026)",
+      "description": "BISP and Ehsaas difference explained: BISP Act 2010 vs Ehsaas policy framework, 8171 portal transition, program-by-program name changes, and current 2026 status.",
+      "image": "https://pakbenefits.com/images/bisp-and-ehsaas-difference.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "mainEntityOfPage": "https://pakbenefits.com/bisp-and-ehsaas-difference-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "alternateName": "BISP",
+          "sameAs": "https://bisp.gov.pk"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Ehsaas Programme",
+          "sameAs": "https://pass.gov.pk"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-and-ehsaas-difference-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the main difference between BISP and Ehsaas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP is a permanent statutory social welfare institution established by law in 2010, whereas Ehsaas was an overarching federal policy framework introduced in 2019 that temporarily coordinated and expanded BISP under a single umbrella."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Ehsaas program still active in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The specific brand name 'Ehsaas' has been phased out for operational cash programs, but all of its core welfare initiatives—including quarterly stipends and student grants—remain fully active under the Benazir Income Support Programme (BISP)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the 8171 SMS service for BISP or Ehsaas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 8171 SMS gateway and web portal serve as the official communication channel for BISP, having previously served both programs under the unified federal poverty alleviation framework."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to re-apply if I registered during the Ehsaas survey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, you do not need to re-apply because your survey data is securely stored in NADRA's central National Socio-Economic Registry (NSER), which BISP uses to evaluate eligibility."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do some people still call it the Ehsaas Kafaalat program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beneficiaries frequently use 'Ehsaas Kafaalat' and 'Benazir Kafaalat' interchangeably because the program was publicized under the Ehsaas name between 2019 and 2022 before returning to its statutory BISP title."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happened to the Ehsaas Emergency Cash program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ehsaas Emergency Cash was a temporary, time-bound relief initiative launched during the 2020 pandemic lockdowns, whereas Benazir Kafaalat continues as a permanent quarterly financial stipend."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check if my household qualifies for BISP or Ehsaas stipends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can verify your household's eligibility by entering your 13-digit CNIC into the official government portal at 8171.bisp.gov.pk or by sending your CNIC via SMS to 8171."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there separate BISP offices and Ehsaas offices in each Tehsil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, there are no separate offices; all social welfare registrations, biometric verifications, and complaint handlings take place at unified BISP Tehsil Registration Centers located across the country."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the current quarterly amount disbursed to beneficiaries in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eligible female beneficiaries enrolled in the Benazir Kafaalat program receive regular quarterly financial assistance of Rs. 10,500, with specialized seasonal tranches expanding up to Rs. 13,500."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply for BISP or Ehsaas online through a mobile app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, official registration cannot be completed via a mobile app or online form; all valid registrations require an in-person biometric dynamic survey at an official BISP Tehsil desk with original NADRA CNICs and child B-forms."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1484,6 +1484,758 @@ export const categories: Category[] = [
 ];
 
 export const articles: Article[] = [
+{
+    slug: "bisp-and-ehsaas-difference-guide",
+    title: "BISP and Ehsaas Difference Explained: History, 8171 Portal, Program Mapping & Current Status (2026)",
+    excerpt: "The primary difference between BISP and Ehsaas is that BISP is a permanent, statutory social safety net established under the BISP Act 2010, whereas Ehsaas was an umbrella policy framework introduced in 2019 that temporarily integrated and rebranded BISP initiatives. Following administrative restructuring, all federal cash transfers, educational stipends, and nutritional grants operate under the official BISP brand and use the unified 8171 portal.",
+    showExcerpt: true,
+    metaTitle: "BISP and Ehsaas Difference Explained: History, 8171 Portal & 2026 Status",
+    metaDescription: "BISP and Ehsaas difference explained: legal standing, BISP Act 2010 vs Ehsaas framework, 8171 portal verification, program name changes, and current 2026 status.",
+    focusKeyword: "bisp and ehsaas difference",
+    lsiKeywords: [
+      "difference between bisp and ehsaas program",
+      "is ehsaas and bisp the same",
+      "bisp vs ehsaas 8171",
+      "benazir income support programme vs ehsaas",
+      "bisp kafaalat and ehsaas kafaalat difference",
+      "how to check bisp or ehsaas status",
+      "ehsaas program new update 2026"
+    ],
+    entities: [
+      "Benazir Income Support Programme (BISP)",
+      "BISP Act 2010",
+      "Ehsaas Programme",
+      "Ministry of Poverty Alleviation and Social Safety (PASS)",
+      "National Socio-Economic Registry (NSER)",
+      "8171 Web Portal & SMS Service",
+      "Benazir Kafaalat",
+      "Ehsaas Kafaalat",
+      "Benazir Taleemi Wazaif",
+      "Benazir Nashonuma"
+    ],
+    primaryCategory: "bisp-registration",
+    categorySlugs: [
+      "bisp-registration",
+      "ehsaas-programs",
+      "news"
+    ],
+    date: "September 22, 2026",
+    publishedDate: "September 22, 2026",
+    lastChecked: "September 22, 2026",
+    readTime: "11 min read",
+    image: "/images/bisp-and-ehsaas-difference.jpg",
+    imageAlt: "Official Benazir Income Support Programme and Ehsaas social welfare registration desk with NADRA biometric equipment in Pakistan",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is BISP? The Statutory Foundation (2008–Present)",
+        paragraphs: [
+          "The Benazir Income Support Programme was established in July 2008 as Pakistan's premier national social safety net, formally codified into law through the BISP Act of 2010. Passed unanimously by Parliament, this legislation established BISP as an autonomous federal authority governed by an independent Board and managed under the Ministry of Poverty Alleviation and Social Safety (PASS).",
+          "BISP's primary constitutional mandate is to provide unconditional cash transfers (UCT) directly to female heads of vulnerable households, establishing financial inclusion and shielding families from extreme poverty, hyperinflation, and food insecurity. To identify eligible families objectively, BISP partnered with the National Database and Registration Authority (NADRA) to create the National Socio-Economic Registry (NSER). Using a data-driven Poverty Means Test (PMT) score calculated on a scale from 0 to 100, BISP established a scientific threshold to determine who receives state financial assistance."
+        ],
+        bullets: [
+          "Permanent Legal Cover: Protected by federal statute, insulating its core funding and operations from arbitrary executive dissolution.",
+          "Women-Centric Financial Architecture: Stipends are disbursed exclusively to female family representatives holding valid computerized national identity cards (CNIC).",
+          "Extensive Field Infrastructure: Operating over 600 Tehsil Registration Desks across all four provinces, Azad Jammu & Kashmir, and Gilgit-Baltistan.",
+          "Dynamic Registry System: Continuously updating household socio-economic indicators through walk-in NADRA verification counters."
+        ],
+        links: [
+          {
+            label: "Check BISP status by CNIC online",
+            href: "/check-bisp-status-by-cnic-online/"
+          },
+          {
+            label: "BISP eligibility criteria and PMT score cutoff guide",
+            href: "/bisp-eligibility-criteria-guide/"
+          }
+        ]
+      },
+      {
+        title: "What Was the Ehsaas Programme? The Umbrella Framework (2019–2022)",
+        paragraphs: [
+          "In March 2019, the federal government introduced the Ehsaas Programme not as a replacement body, but as an expansive umbrella welfare strategy. Designed to combat inequality, invest in human capital development, and lift marginalized communities through multi-sectoral safety nets, Ehsaas spanned over 130 policy initiatives across 34 federal and provincial departments.",
+          "Rather than dismantling BISP's physical infrastructure, the Ehsaas policy framework utilized BISP as its primary operational vehicle. Under this framework, BISP's flagship quarterly cash transfer was branded as Ehsaas Kafaalat, the school stipend program (Waseela-e-Taleem) was expanded into Ehsaas Taleemi Wazaif, and the maternal nutrition initiative was launched as Ehsaas Nashonuma.",
+          "In addition to BISP-administered initiatives, Ehsaas introduced specialized emergency interventions. Most notably, the Ehsaas Emergency Cash program mobilized over Rs. 200 billion during the 2020 global pandemic to provide one-time Rs. 12,000 cash grants to daily-wage workers who were not previously enrolled in social welfare rosters. Other parallel initiatives included Ehsaas Rashan Riayat, Ehsaas Amdan, and Ehsaas Undergraduate Scholarships."
+        ],
+        links: [
+          {
+            label: "Ehsaas Emergency Cash Programme guide",
+            href: "/ehsaas-emergency-cash-program-guide/"
+          },
+          {
+            label: "Ehsaas Interest-Free Loans and Saving Wallets",
+            href: "/ehsaas-interest-free-loan-saving-wallets-guide/"
+          }
+        ]
+      },
+      {
+        title: "Core Differences: Institutional Structure, Legal Status, and Mandate",
+        paragraphs: [
+          "To clear public confusion, it is essential to understand the operational, legal, and functional distinctions between BISP and Ehsaas. While BISP operates as an enduring statutory institution with legal permanence, Ehsaas was an overarching executive policy framework designed to coordinate multiple poverty-reduction pillars simultaneously."
+        ],
+        table: {
+          caption: "Systemic comparison between BISP and the Ehsaas Programme framework",
+          headers: [
+            "Feature",
+            "Benazir Income Support Programme (BISP)",
+            "Ehsaas Programme (Framework)"
+          ],
+          rows: [
+            [
+              "Legal Standing",
+              "Autonomous statutory body created by an Act of Parliament (BISP Act 2010)",
+              "Executive policy framework & multi-agency strategic umbrella"
+            ],
+            [
+              "Launch Year",
+              "July 2008 (statutory act passed in 2010)",
+              "March 2019"
+            ],
+            [
+              "Primary Focus",
+              "Unconditional quarterly cash transfers (Kafaalat) & conditional stipends (education & nutrition)",
+              "Multi-sectoral poverty alleviation covering health, housing, microfinance, and emergency cash"
+            ],
+            [
+              "Target Population",
+              "Poorest women meeting the PMT eligibility cutoff (score 0 to 32)",
+              "Broader vulnerable segments, daily wagers, students, and low-income families"
+            ],
+            [
+              "Administrative Body",
+              "BISP Board & Federal Executive Management under Ministry of PASS",
+              "Poverty Alleviation and Social Safety Division (PASSD) coordinating across 34 bodies"
+            ],
+            [
+              "Operational Database",
+              "National Socio-Economic Registry (NSER) powered by NADRA",
+              "Utilized BISP's NSER infrastructure and NADRA biometric verification"
+            ],
+            [
+              "Current Status (2026)",
+              "Fully active, expanded, and the official operational brand for all federal cash stipends",
+              "Retired as an operational umbrella; core programs transitioned back under BISP"
+            ]
+          ]
+        }
+      },
+      {
+        title: "Program-by-Program Mapping: How Names Changed Across Eras",
+        paragraphs: [
+          "Because different government administrations applied different names to the same welfare services, millions of citizens remain uncertain about what their entitlements are called today. The underlying financial support mechanisms have remained consistent, but the program titles were updated across distinct political tenures."
+        ],
+        table: {
+          caption: "Evolution of social welfare program titles from 2008 to 2026",
+          headers: [
+            "Core Welfare Service",
+            "Initial BISP Era (2008–2018)",
+            "Ehsaas Era (2019–2022)",
+            "Current BISP Identity (2026)"
+          ],
+          rows: [
+            [
+              "Quarterly Women Cash Stipend",
+              "BISP Basic Cash Transfer (UCT)",
+              "Ehsaas Kafaalat",
+              "Benazir Kafaalat Programme"
+            ],
+            [
+              "Children School Stipends",
+              "Waseela-e-Taleem (CCT)",
+              "Ehsaas Taleemi Wazaif",
+              "Benazir Taleemi Wazaif"
+            ],
+            [
+              "Maternal & Stunting Nutrition",
+              "Pilot Specialized Nutrition",
+              "Ehsaas Nashonuma",
+              "Benazir Nashonuma Programme"
+            ],
+            [
+              "Household Poverty Database",
+              "BISP NSER Household Survey",
+              "Ehsaas National Socio-Economic Registry",
+              "BISP Dynamic Registry (NSER)"
+            ],
+            [
+              "Higher Education University Grants",
+              "BISP Merit Grants",
+              "Ehsaas Undergraduate Scholarship",
+              "HEC Need-Based & Regional Grants"
+            ],
+            [
+              "Interest-Free Micro Loans",
+              "BISP Waseela-e-Haq / Rozgar",
+              "Ehsaas Interest-Free Loans",
+              "PPAF / National Poverty Graduation"
+            ],
+            [
+              "Official Online Status Portal",
+              "bisp.gov.pk",
+              "8171.pass.gov.pk (archived)",
+              "https://8171.bisp.gov.pk/"
+            ]
+          ]
+        },
+        links: [
+          {
+            label: "Benazir Kafaalat registration and payment guide",
+            href: "/benazir-kafaalat-payment-guide/"
+          },
+          {
+            label: "Benazir Taleemi Wazaif check online by CNIC",
+            href: "/benazir-taleemi-wazaif-check-online-by-cnic/"
+          }
+        ]
+      },
+      {
+        title: "The Unified 8171 Gateway: Why It Works for Both",
+        paragraphs: [
+          "A major source of confusion is the short code 8171. Beneficiaries frequently ask whether 8171 belongs to Ehsaas or BISP. In reality, the short code 8171 is the official, state-owned SMS gateway and web portal service for all federal social safety programs in Pakistan. It was deployed to serve as a single, tamper-proof communication bridge between the state and beneficiaries.",
+          "During the 2019–2022 period, the portal was widely known as the '8171 Ehsaas Tracking Portal.' Today, the service is officially designated as the 8171 BISP Web Portal (8171.bisp.gov.pk). Regardless of when an applicant enrolled, all application tracking, payment approvals, installment announcements, and survey appointment notices are dispatched exclusively from the 4-digit sender ID 8171.",
+          "Beneficiaries must note that any SMS claiming to represent BISP or Ehsaas originating from standard 11-digit mobile numbers (such as 0300, 0312, 0345) is an unauthorized scam attempting to steal personal data or demand upfront commission fees."
+        ],
+        links: [
+          {
+            label: "8171 Web Portal Not Working? Troubleshooting steps",
+            href: "/8171-web-portal-not-working/"
+          },
+          {
+            label: "8171 official number verification guide",
+            href: "/8171-786-ehsaas-tracking-official-number/"
+          }
+        ]
+      },
+      {
+        title: "Do You Need Separate Registrations for BISP and Ehsaas?",
+        paragraphs: [
+          "The short answer is no. You do not need to register separately for BISP and Ehsaas. Because both initiatives utilize the exact same National Socio-Economic Registry (NSER) administered by NADRA, a family that completed the survey under the Ehsaas dynamic registry is automatically recorded within BISP's central database.",
+          "Eligibility is governed purely by your household's Poverty Means Test (PMT) score. If your household PMT score is at or below the official cutoff threshold (currently 32 for the Benazir Kafaalat quarterly grant), your family automatically qualifies for disbursements.",
+          "Furthermore, there is no such thing as an 'Ehsaas Card' distinct from a 'BISP Card.' Both refer to the biometric ATM cards or branchless digital banking accounts issued through partner banks (such as Bank Alfalah and Habib Bank Limited) to collect approved financial assistance."
+        ],
+        bullets: [
+          "Single Database: Your NSER registration covers all federal cash assistance and subsidy programs.",
+          "Dynamic Updates: Report changes in income, family size, or marital status at any BISP Tehsil Registration Desk.",
+          "Zero Fee: Registration and PMT evaluation are 100% free; beware of agents demanding survey application charges."
+        ],
+        links: [
+          {
+            label: "What is PMT score? BISP & Ehsaas eligibility explained",
+            href: "/what-is-pmt-score/"
+          },
+          {
+            label: "BISP Card Check: Active, blocked and replacement guide",
+            href: "/bisp-card-check/"
+          }
+        ]
+      },
+      {
+        title: "How to Verify Your Official Welfare Status Today (2026)",
+        paragraphs: [
+          "To check whether your family is currently active in the national social protection roster, follow these verified steps:",
+          "First, open your web browser and navigate directly to https://8171.bisp.gov.pk/. Never enter your credentials on unverified third-party blogs or social media landing pages. Second, enter your 13-digit CNIC number without dashes, followed by the 4-digit numeric security code displayed on the screen.",
+          "Review the returned status message carefully. If the portal states 'Aap Benazir Kafaalat k liye ahal hain', your quarterly installment has been approved for withdrawal. If it displays 'Aap ka gharana janch partal mein hai', your NSER data is undergoing standard verification. If instructed to visit a BISP office, take your original CNIC and child B-forms to your local Tehsil center."
+        ],
+        links: [
+          {
+            label: "BISP helpline number and complaint guide",
+            href: "/bisp-helpline-number-complaint-kaise-darj-karein/"
+          },
+          {
+            label: "BISP 8171 balance check online guide",
+            href: "/bisp-8171-balance-check-online-kaise-karein/"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the main difference between BISP and Ehsaas?",
+        answer: "BISP is a permanent statutory social welfare institution established by law in 2010, whereas Ehsaas was an overarching federal policy framework introduced in 2019 that temporarily coordinated and expanded BISP under a single umbrella."
+      },
+      {
+        question: "Is the Ehsaas program still active in 2026?",
+        answer: "The specific brand name 'Ehsaas' has been phased out for operational cash programs, but all of its core welfare initiatives—including quarterly stipends and student grants—remain fully active under the Benazir Income Support Programme (BISP)."
+      },
+      {
+        question: "Is the 8171 SMS service for BISP or Ehsaas?",
+        answer: "The 8171 SMS gateway and web portal serve as the official communication channel for BISP, having previously served both programs under the unified federal poverty alleviation framework."
+      },
+      {
+        question: "Do I need to re-apply if I registered during the Ehsaas survey?",
+        answer: "No, you do not need to re-apply because your survey data is securely stored in NADRA's central National Socio-Economic Registry (NSER), which BISP uses to evaluate eligibility."
+      },
+      {
+        question: "Why do some people still call it the Ehsaas Kafaalat program?",
+        answer: "Beneficiaries frequently use 'Ehsaas Kafaalat' and 'Benazir Kafaalat' interchangeably because the program was publicized under the Ehsaas name between 2019 and 2022 before returning to its statutory BISP title."
+      },
+      {
+        question: "What happened to the Ehsaas Emergency Cash program?",
+        answer: "Ehsaas Emergency Cash was a temporary, time-bound relief initiative launched during the 2020 pandemic lockdowns, whereas Benazir Kafaalat continues as a permanent quarterly financial stipend."
+      },
+      {
+        question: "How can I check if my household qualifies for BISP or Ehsaas stipends?",
+        answer: "You can verify your household's eligibility by entering your 13-digit CNIC into the official government portal at 8171.bisp.gov.pk or by sending your CNIC via SMS to 8171."
+      },
+      {
+        question: "Are there separate BISP offices and Ehsaas offices in each Tehsil?",
+        answer: "No, there are no separate offices; all social welfare registrations, biometric verifications, and complaint handlings take place at unified BISP Tehsil Registration Centers located across the country."
+      },
+      {
+        question: "What is the current quarterly amount disbursed to beneficiaries in 2026?",
+        answer: "Eligible female beneficiaries enrolled in the Benazir Kafaalat program receive regular quarterly financial assistance of Rs. 10,500, with specialized seasonal tranches expanding up to Rs. 13,500."
+      },
+      {
+        question: "Can I apply for BISP or Ehsaas online through a mobile app?",
+        answer: "No, official registration cannot be completed via a mobile app or online form; all valid registrations require an in-person biometric dynamic survey at an official BISP Tehsil desk with original NADRA CNICs and child B-forms."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Official BISP 8171 Web Portal",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "Benazir Income Support Programme Official Website",
+        href: "https://bisp.gov.pk/"
+      },
+      {
+        label: "Ministry of Poverty Alleviation and Social Safety",
+        href: "https://pass.gov.pk/"
+      }
+    ]
+  },
+{
+    slug: "punjab-solar-tube-well-scheme-2026-online-apply",
+    title: "Punjab Solar Tube Well Scheme 2026 Online Apply: Eligibility, Subsidy Rates, Registration Portal & Balloting",
+    excerpt: "To apply for the Punjab Solar Tube Well Scheme 2026 online, eligible farmers in Punjab must submit their CNIC, land ownership verification (Fard), and tube well details through the official portal at cmstp.punjab.gov.pk or via agriculture.punjab.gov.pk. The Punjab government covers up to 67% of the capital cost to convert existing diesel and electric tube wells into solar pumping systems through transparent PITB computerized balloting.",
+    showExcerpt: true,
+    metaTitle: "Punjab Solar Tube Well Scheme 2026 Online Apply: Subsidy & Portal",
+    metaDescription: "Punjab solar tube well scheme 2026 online apply: cmstp.punjab.gov.pk portal registration, 67% government subsidy, 10-20 HP system capacities, and balloting criteria.",
+    focusKeyword: "punjab solar tube well scheme 2026 online apply",
+    lsiKeywords: [
+      "cm punjab solar tubewell scheme online registration",
+      "solarization of agricultural tubewells punjab 2026",
+      "agri punjab solar tube well application form",
+      "cmstp punjab gov pk online apply",
+      "solar tube well subsidy in punjab 2026",
+      "punjab solar tube well eligibility criteria",
+      "solar tube well balloting list punjab"
+    ],
+    entities: [
+      "Chief Minister Punjab Maryam Nawaz Sharif",
+      "Punjab Agriculture Department",
+      "Directorate General Agriculture (Water Management) Punjab",
+      "Solarization of Agricultural Tube Wells Scheme",
+      "cmstp.punjab.gov.pk Portal",
+      "agriculture.punjab.gov.pk",
+      "Fard-e-Malkiat (Land Ownership Record)",
+      "Khasra Girdawari",
+      "Solar Water Pumping System (10 kW to 20 kW)"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 22, 2026",
+    publishedDate: "September 22, 2026",
+    lastChecked: "September 22, 2026",
+    readTime: "11 min read",
+    image: "/images/punjab-solar-tube-well-scheme.jpg",
+    imageAlt: "Modern agricultural solar tube well system providing clean irrigation water to farmland in Punjab, Pakistan",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "Overview of the CM Punjab Solar Tube Well Scheme 2026",
+        paragraphs: [
+          "The Punjab Solar Tube Well Scheme 2026 is designed to convert agricultural tube wells across Punjab from expensive fossil fuels and erratic grid electricity to clean, uninterrupted photovoltaic power. By installing Tier-1 solar panels, high-efficiency inverters, and durable submersible or surface pumping machinery, the project guarantees timely irrigation for major seasonal crops including wheat, cotton, rice, sugarcane, and oilseeds.",
+          "With diesel prices remaining high and agricultural electricity tariffs causing severe distress to smallholders, the 'Solarization of Agricultural Tube Wells Scheme' represents a critical step toward energy independence in the agrarian sector. The initiative is executed through the Directorate General Agriculture (Water Management) Punjab, ensuring that transparent computerized e-balloting overseen by the Punjab Information Technology Board (PITB) determines the final beneficiary list across all 36 districts of the province."
+        ],
+        bullets: [
+          "Major Government Grant: The Punjab government covers up to 67% of the total benchmark system cost, requiring the farmer to contribute only the remaining 33% equity after winning the ballot.",
+          "Large-Scale Target: Solarization of 7,000 to 10,000+ agricultural tube wells distributed transparently according to cultivated district acreage.",
+          "Flexible System Sizes: Subsidies are calibrated to accommodate 10 Horsepower (HP), 15 HP, and 20 HP pumping loads (ranging between 10 kW and 20 kW solar PV arrays).",
+          "Dual Conversion Paths: Both diesel engine tube wells and electric tube wells are eligible for conversion.",
+          "5-Year Equipment Warranty: Pre-qualified international-standard solar vendors provide warranties on panels and inverters."
+        ],
+        links: [
+          {
+            label: "CM Punjab Roshan Gharana Solar Panel Scheme 2026 online apply",
+            href: "/cm-punjab-solar-panel-scheme-2026-online-apply/"
+          },
+          {
+            label: "CM Punjab Kisan Card online apply and registration guide",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          }
+        ]
+      },
+      {
+        title: "Subsidy Structure and Cost Sharing (67% Grant vs 33% Farmer Equity)",
+        paragraphs: [
+          "The financial mechanism is structured as a direct public-private cost sharing model. The government's 67% subsidy is paid directly to pre-qualified solar EPC contractors upon verified installation and commissioning by the District Water Management Implementation Committee (DWMIC)."
+        ],
+        table: {
+          caption: "Estimated benchmark cost and subsidy distribution across standard tube well capacities",
+          headers: [
+            "System Capacity (HP / kW)",
+            "Typical Bore Depth & Discharge",
+            "Total Estimated Cost (PKR)",
+            "Government Subsidy (67% Grant)",
+            "Farmer Equity Share (33%)"
+          ],
+          rows: [
+            [
+              "10 HP (approx. 10 kW)",
+              "Shallow to medium (Up to 150 ft)",
+              "Rs. 1,650,000",
+              "Rs. 1,105,500",
+              "Rs. 544,500"
+            ],
+            [
+              "15 HP (approx. 15 kW)",
+              "Medium depth (150 to 250 ft)",
+              "Rs. 2,350,000",
+              "Rs. 1,574,500",
+              "Rs. 775,500"
+            ],
+            [
+              "20 HP (approx. 20 kW)",
+              "Deep water table (250 ft+)",
+              "Rs. 3,100,000",
+              "Rs. 2,077,000",
+              "Rs. 1,023,000"
+            ]
+          ]
+        }
+      },
+      {
+        title: "Eligibility Criteria for Agricultural Landowners",
+        paragraphs: [
+          "To ensure that public subsidies reach genuine practicing farmers rather than speculative investors, the Agriculture Department has enforced rigorous eligibility benchmarks:",
+          "First, the applicant must be a citizen of Pakistan holding a valid NADRA CNIC, and the agricultural land must be located within the administrative boundaries of Punjab. Second, applicants must own between 1 acre and 25 acres of irrigated agricultural land. Joint owners can apply provided they submit an affidavit of consent from co-sharers.",
+          "Third, the applicant must already possess an active, functional diesel tube well or an electrified tube well connection. Fourth, ground water at the site must be fit or marginally fit for agricultural irrigation as verified by testing laboratories. Lastly, farmers who previously availed government solar subsidies for the same land parcel within the past 3 years are ineligible."
+        ],
+        links: [
+          {
+            label: "Apna Khet Apna Rozgar Scheme 2026 eligibility guide",
+            href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          },
+          {
+            label: "Punjab land record check online by CNIC guide",
+            href: "/punjab-land-record-check-guide/"
+          }
+        ]
+      },
+      {
+        title: "Required Documents for Registration",
+        paragraphs: [
+          "Before initiating the online application, applicants should prepare digital scans or clear photographs of the following official documents:"
+        ],
+        bullets: [
+          "Original CNIC: Scanned front and back copies of the applicant's valid CNIC.",
+          "Land Ownership Record (Fard-e-Malkiat): Computerized Fard issued within the last 90 days by the Punjab Land Records Authority (PLRA) Arazi Record Center.",
+          "Khasra Girdawari: Latest revenue record confirming active crop cultivation on the designated land.",
+          "Electricity Bill (For Electric Tube Wells): Paid copy of the most recent electricity bill showing active connection and reference number.",
+          "Undertaking / Affidavit: Attested stamp paper (Rs. 100) declaring that the solar system will not be sold, rented, transferred, or relocated for a mandatory minimum period of 3 years."
+        ]
+      },
+      {
+        title: "Step-by-Step Guide: How to Apply Online at cmstp.punjab.gov.pk",
+        paragraphs: [
+          "Farmers can submit their application from home via computer or smartphone, or visit their nearest Tehsil Agriculture (Water Management) Office for complimentary digital assistance.",
+          "To begin, navigate to the official portal at https://cmstp.punjab.gov.pk/ and select 'New Farmer Registration'. Enter your 13-digit CNIC number and mobile phone number to receive an SMS verification code.",
+          "Next, select your Division, District, Tehsil, and Village, entering your Khewat, Khatooni, and Khasra numbers exactly as written on your computerized Fard. Choose whether you are converting a diesel tube well or electric tube well, enter your pump capacity, upload the required scanned documents, and submit your form to receive your tracking number."
+        ],
+        links: [
+          {
+            label: "CM Punjab Green Tractor Scheme 2026 online apply guide",
+            href: "/cm-punjab-green-tractor-scheme-2026-online-apply/"
+          },
+          {
+            label: "CM Punjab Livestock Card Scheme 2026 apply online",
+            href: "/cm-punjab-livestock-card-scheme-2026-online-apply/"
+          }
+        ]
+      },
+      {
+        title: "Scrutiny, E-Balloting, and System Installation Workflow",
+        paragraphs: [
+          "Once the application deadline closes, the Punjab Agriculture Department executes a four-phase rollout. First, PLRA databases automatically cross-verify land ownership, and DISCO records verify electric meter authenticity. Second, field staff from the local Assistant Director Agriculture (Water Management) office visit the site to measure water depth and inspect the existing bore.",
+          "Third, if verified applications exceed district quotas, the Punjab Information Technology Board conducts transparent public balloting. Successful farmers receive an official congratulatory SMS and are given 10 to 15 days to deposit their 33% equity share into a designated Bank of Punjab escrow account.",
+          "Finally, pre-qualified vendors deliver Tier-1 panels, mounting structures, and inverters. Following installation, the District Water Management Implementation Committee tests pump discharge, signs the completion certificate, and activates the warranty."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I apply for the Punjab Solar Tube Well Scheme 2026?",
+        answer: "You can apply online by visiting the official scheme portal at cmstp.punjab.gov.pk or agriculture.punjab.gov.pk and submitting your CNIC, mobile number, land ownership Fard, and tube well details."
+      },
+      {
+        question: "What percentage of subsidy does the Punjab government offer?",
+        answer: "The Punjab government provides a 67% capital grant for the approved benchmark cost of the solar pumping system, while the farmer pays the remaining 33% share."
+      },
+      {
+        question: "What is the minimum land requirement to qualify?",
+        answer: "Farmers must own at least 1 acre of agricultural land, with preference given to small and medium landholders owning up to 25 acres."
+      },
+      {
+        question: "Can farmers with diesel tube wells apply for this solar program?",
+        answer: "Yes, farmers with existing functional diesel engine tube wells are eligible and prioritized to relieve them from recurring diesel expenses."
+      },
+      {
+        question: "What system capacities are available under the scheme?",
+        answer: "The scheme provides solar systems matching 10 HP, 15 HP, and 20 HP agricultural pumping requirements (approximately 10 kW to 20 kW solar panel arrays)."
+      },
+      {
+        question: "Where do I deposit the farmer equity share?",
+        answer: "Successful applicants selected through computerized balloting deposit their 33% share directly into a designated government escrow account at The Bank of Punjab (BOP)."
+      },
+      {
+        question: "How are beneficiaries selected if applications exceed the district quota?",
+        answer: "Beneficiaries are selected through a transparent, computerized e-balloting system administered by the Punjab Information Technology Board (PITB)."
+      },
+      {
+        question: "What documents are required for the solar tube well application?",
+        answer: "You need your original CNIC, a computerized land ownership Fard issued within the last 90 days, Khasra Girdawari, an electricity bill (if converting an electric tube well), and an attested affidavit."
+      },
+      {
+        question: "Can I sell or transfer the solar panels after installation?",
+        answer: "No, the terms strictly prohibit selling, renting, or transferring the equipment to another location for a mandatory minimum period of 3 years."
+      },
+      {
+        question: "Who can I contact if I need help with my application?",
+        answer: "You can contact the Punjab Agriculture Department toll-free helpline at 0800-17000 or visit your local Tehsil Agriculture (Water Management) office for in-person support."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Punjab Agriculture Department Official Portal",
+        href: "https://agriculture.punjab.gov.pk/"
+      },
+      {
+        label: "Chief Minister Solar Tubewell Program (CMSTP) Portal",
+        href: "https://cmstp.punjab.gov.pk/"
+      },
+      {
+        label: "Directorate General Agriculture (Water Management) Punjab",
+        href: "https://ofwm.agripunjab.gov.pk/"
+      }
+    ]
+  },
+{
+    slug: "kisan-card-8070-pin-verification-bop-activation",
+    title: "Kisan Card 8070 PIN Verification and BOP ATM Activation: Complete Step-by-Step Guide (2026)",
+    excerpt: "To activate your CM Punjab Kisan Card, verify your eligibility via 8070 SMS, collect the physical card from your Tehsil Agriculture Extension office, and insert it into any Bank of Punjab (BOP) ATM. Enter the 6-digit OTP sent to your registered mobile number and set your secure 4-digit ATM PIN to immediately unlock your Rs. 150,000 interest-free agricultural input credit.",
+    showExcerpt: true,
+    metaTitle: "Kisan Card 8070 PIN Verification & BOP ATM Activation Guide",
+    metaDescription: "Kisan Card 8070 PIN verification and BOP ATM activation: step-by-step OTP generation, ATM PIN setup, POS fertilizer purchase rules, and error fixes.",
+    focusKeyword: "kisan card 8070 pin verification and bop atm activation",
+    lsiKeywords: [
+      "cm punjab kisan card pin generation bop atm",
+      "how to activate kisan card at bop atm",
+      "8070 kisan card verification sms format",
+      "kisan card biometric verification bank of punjab",
+      "kisan card fertilizer purchase pos machine",
+      "bop kisan card helpline 111 267 200",
+      "kisan card balance check code"
+    ],
+    entities: [
+      "Chief Minister Punjab Kisan Card",
+      "The Bank of Punjab (BOP)",
+      "8070 SMS Gateway",
+      "Punjab Agriculture Department",
+      "Tehsil Agriculture Extension Office",
+      "BOP ATM Biometric PIN Generation",
+      "Point of Sale (POS) Agricultural Retailers",
+      "Rs. 150,000 Interest-Free Production Loan"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 22, 2026",
+    publishedDate: "September 22, 2026",
+    lastChecked: "September 22, 2026",
+    readTime: "11 min read",
+    image: "/images/kisan-card-8070-pin-verification.jpg",
+    imageAlt: "Pakistani farmer verifying and activating CM Punjab Kisan Card at Bank of Punjab biometric ATM",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "Understanding 8070 vs BOP ATM: What Each Step Does",
+        paragraphs: [
+          "A widespread misconception among rural farmers is that texting 8070 will generate an ATM PIN. It is critical to distinguish between these two separate official channels:",
+          "The 8070 SMS Service (Status & Verification) is operated by the Punjab Agriculture Department and PITB. It is used strictly to check application eligibility, verify computerized land records, and notify the farmer when their physical Kisan Card has reached their local Tehsil delivery center. The 8070 short code will never send you a secret ATM PIN.",
+          "The Bank of Punjab ATM Network (Activation & PIN Setup) is the official financial channel managing digital loan accounts. The physical ATM machine is where card activation takes place, where your 6-digit biometric OTP is validated, and where you choose your personal 4-digit PIN."
+        ],
+        links: [
+          {
+            label: "CM Punjab Kisan Card online apply and registration guide",
+            href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Farmer Support Card: Kissan Card checks and preparation",
+            href: "/farmer-support-card-guide/"
+          }
+        ]
+      },
+      {
+        title: "Pre-Requisites Before Visiting the BOP ATM",
+        paragraphs: [
+          "Before heading to a Bank of Punjab ATM branch, ensure you have the following four essential items ready:"
+        ],
+        bullets: [
+          "Your Physical CM Punjab Kisan Card: Collected from your designated Tehsil Agriculture Extension Office following biometric thumb verification on their NADRA e-Sahulat device.",
+          "Your Registered Mobile Phone: The mobile device containing the exact SIM card registered in your name with the Agriculture Department during your initial application.",
+          "Active Network Connectivity: Ensure your phone has good signal reception and sufficient battery to receive the 6-digit OTP SMS within seconds.",
+          "Original CNIC: Keep your computerized national identity card with you in case branch staff require identity confirmation."
+        ]
+      },
+      {
+        title: "Step-by-Step: How to Activate Your Kisan Card at a BOP ATM",
+        paragraphs: [
+          "Follow these numbered steps at any operational Bank of Punjab ATM across Pakistan:",
+          "First, approach any BOP ATM and gently insert your green Kisan Card into the card reader slot with the gold chip facing upward and forward. The ATM screen will automatically detect that this is a newly issued, unactivated card and will display: 'Welcome to Kisan Card Activation. An OTP has been sent to your registered mobile number.'",
+          "Within 15 to 45 seconds, you will receive an SMS from 'BOP' or '8070' containing a 6-digit numeric verification code. Carefully type the 6-digit OTP using the physical numeric keypad on the ATM machine and press 'Enter' on the screen.",
+          "Once the OTP is verified, the ATM screen will prompt you to enter a new 4-digit secret ATM PIN. Type your chosen 4 digits, re-enter the identical 4 digits to confirm, and collect your activation receipt. Your Rs. 150,000 production loan wallet is now fully operational."
+        ],
+        links: [
+          {
+            label: "Punjab Solar Tube Well Scheme 2026 online apply guide",
+            href: "/punjab-solar-tube-well-scheme-2026-online-apply/"
+          },
+          {
+            label: "CM Punjab Green Tractor Scheme 2026 online apply",
+            href: "/cm-punjab-green-tractor-scheme-2026-online-apply/"
+          }
+        ]
+      },
+      {
+        title: "Alternative Method: Activation via the BOP Helpline (111-267-200)",
+        paragraphs: [
+          "If there is no BOP ATM in your immediate vicinity, or if the ATM screen reports an unexpected hardware error, you can activate your card over the phone.",
+          "Dial 042-111-267-200 (or 111-267-200) from your registered mobile SIM and select Urdu. Choose the option for 'Kisan Card Services'. A verified BOP telephone banking officer will confirm your identity by asking for your 13-digit CNIC, your mother's maiden name, and your date of birth.",
+          "Following identity verification, the officer will transfer you to the automated Interactive Voice Response (IVR) system where you can set your 4-digit PIN privately via your phone keypad."
+        ]
+      },
+      {
+        title: "How to Use Your Activated Kisan Card at Dealer POS Machines",
+        paragraphs: [
+          "Once activated, your Kisan Card is ready to purchase subsidized inputs. Remember that cash withdrawals at ATMs are strictly blocked; the funds are intended exclusively for agricultural production.",
+          "To buy fertilizer or seeds, visit any fertilizer dealer, seed vendor, or pesticide retailer in your district equipped with an official government-approved POS terminal. Select required bags of DAP, Urea, or certified seeds at official government rates.",
+          "The merchant will insert your Kisan Card into the POS terminal and input the exact transaction amount. Type your secret 4-digit ATM PIN on the merchant's terminal keypad. The machine will print two transaction receipts and dispatch an SMS to your phone showing your remaining credit balance."
+        ],
+        links: [
+          {
+            label: "CM Punjab Livestock Card Scheme 2026 online apply",
+            href: "/cm-punjab-livestock-card-scheme-2026-online-apply/"
+          },
+          {
+            label: "Apna Khet Apna Rozgar Scheme 2026 apply online",
+            href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
+          }
+        ]
+      },
+      {
+        title: "Troubleshooting Common Kisan Card Activation Errors",
+        paragraphs: [
+          "Farmers occasionally encounter unexpected technical obstacles during setup. Consult the diagnostic matrix below for immediate solutions:"
+        ],
+        table: {
+          caption: "Diagnostic troubleshooting guide for Kisan Card activation and PIN setup",
+          headers: [
+            "Problem / Error Message",
+            "Root Cause",
+            "Verified Solution"
+          ],
+          rows: [
+            [
+              "OTP Not Received on Mobile",
+              "SIM number was ported (MNP) to another network, or SMS inbox is full",
+              "Check network coverage. If your SIM was converted (e.g., Jazz to Zong), call BOP helpline (111-267-200) to update routing codes"
+            ],
+            [
+              "Card Inactive / Invalid Card",
+              "Card was not biometrically received at the Agriculture Tehsil desk",
+              "Return to the Tehsil Agriculture Extension Office to ensure their officer marked the card as 'Delivered' on the portal"
+            ],
+            [
+              "Biometric Verification Failed",
+              "Dirty thumb, worn skin ridges, or scanner mismatch",
+              "Wash and dry hands thoroughly. Try alternate fingers (index finger or opposite thumb) or use the OTP keypad method"
+            ],
+            [
+              "Transaction Declined at POS",
+              "Merchant is not registered with the Agriculture Department, or seasonal limit is exhausted",
+              "Only purchase from authorized dealers registered on the Punjab Agriculture Department POS portal"
+            ],
+            [
+              "Incorrect PIN Entered",
+              "Entering 8070 code instead of the 4-digit ATM PIN created during activation",
+              "Re-visit any BOP ATM, insert your card, select 'Reset PIN', and create a new 4-digit code using OTP"
+            ]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I activate my Kisan Card for the first time?",
+        answer: "Insert your physical Kisan Card into any Bank of Punjab (BOP) ATM, enter the 6-digit OTP sent to your registered mobile phone, and set your own secure 4-digit PIN on the screen."
+      },
+      {
+        question: "Can I activate my Kisan Card by sending an SMS to 8070?",
+        answer: "No, 8070 is strictly for checking eligibility and card delivery status; the ATM PIN can only be created at a BOP ATM or through the official BOP helpline."
+      },
+      {
+        question: "Can I withdraw cash from my Kisan Card at an ATM?",
+        answer: "No, cash withdrawals are strictly disabled; the card can only be used at registered fertilizer and pesticide dealer POS machines to purchase agricultural inputs."
+      },
+      {
+        question: "What should I do if I do not receive the OTP at the ATM?",
+        answer: "Ensure your phone has good signal and that the SIM is in your phone; if your network was ported, call the BOP helpline at 111-267-200 to refresh your SMS delivery profile."
+      },
+      {
+        question: "What is the total loan limit available on the Kisan Card?",
+        answer: "The card provides an interest-free production loan of up to Rs. 30,000 per acre for up to 5 acres, making the maximum available credit limit Rs. 150,000."
+      },
+      {
+        question: "Where can I collect my physical Kisan Card after getting the 8070 SMS?",
+        answer: "You must collect your physical card in person from your local Tehsil Agriculture Extension Office by presenting your original CNIC and verifying your thumbprint."
+      },
+      {
+        question: "What is the markup or interest rate on the Kisan Card loan?",
+        answer: "The loan is 100% interest-free (0% markup), provided the borrowed amount is repaid within the specified 6-month cycle following crop harvesting."
+      },
+      {
+        question: "What happens if I forget my 4-digit Kisan Card ATM PIN?",
+        answer: "Visit any Bank of Punjab ATM, insert your card, select the 'Reset PIN' option, and enter the new OTP sent to your registered phone to choose a new PIN."
+      },
+      {
+        question: "Can someone else use my Kisan Card to buy fertilizer?",
+        answer: "No, the card is non-transferable; registered dealers must verify the farmer's CNIC and match the cardholder's credentials before processing the transaction."
+      },
+      {
+        question: "Who should I contact if a fertilizer dealer demands extra charges for Kisan Card payments?",
+        answer: "You can immediately report unauthorized dealer surcharges or deduction scams to the Punjab Agriculture Department complaint cell at 0800-17000 or BOP helpline at 111-267-200."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "The Bank of Punjab (BOP) Official Website",
+        href: "https://www.bop.com.pk/"
+      },
+      {
+        label: "Punjab Agriculture Department Official Portal",
+        href: "https://agriculture.punjab.gov.pk/"
+      }
+    ]
+  },
   {
     "slug": "ehsaas-tracking-check-payment-status",
     "title": "Ehsaas Tracking: Check Your Payment Status",
@@ -2282,6 +3034,10 @@ export const articles: Article[] = [
           ]
         },
         "links": [
+          {
+            label: "BISP and Ehsaas difference explained: 8171 history and status",
+            href: "/bisp-and-ehsaas-difference-guide/"
+          },
           {
             "label": "the same number-confusion problem with the Ramzan Package (8171 vs 9999)",
             "href": "/ramzan-package-check-guide/"
@@ -4425,6 +5181,10 @@ export const articles: Article[] = [
         ],
         "links": [
           {
+            label: "How to activate Kisan Card and set PIN at Bank of Punjab ATM",
+            href: "/kisan-card-8070-pin-verification-bop-activation/"
+          },
+          {
             "label": "how land records are checked online by CNIC",
             "href": "/punjab-land-record-check-guide/"
           },
@@ -4941,7 +5701,11 @@ export const articles: Article[] = [
         paragraphs: [
           "If your status has changed or you’re getting an unexpected result, the fastest path is to check your current status directly rather than relying on last year’s information. If your CNIC details are the issue, updating your NADRA record is the first step before anything on the BISP side will resolve. If you believe your PMT score is inaccurate after a resurvey, you can request a review at your local BISP Tehsil Office.",
         ],
-        links: [{ label: "Check your current BISP account or card status", href: "/check-bisp-account-status/" }],
+        links: [
+          {
+            label: "Complete guide on BISP and Ehsaas difference and current status",
+            href: "/bisp-and-ehsaas-difference-guide/"
+          },{ label: "Check your current BISP account or card status", href: "/check-bisp-account-status/" }],
       },
       {
         title: "“Register” vs. “Track” — Don’t Confuse the Two",
@@ -11261,6 +12025,10 @@ export const articles: Article[] = [
         ],
         links: [
           {
+            label: "Punjab agricultural solar tube well conversion scheme 2026",
+            href: "/punjab-solar-tube-well-scheme-2026-online-apply/"
+          },
+          {
             label: "Punjab Rozgar Scheme business finance guide",
             href: "/punjab-rozgar-scheme-guide/"
           },
@@ -12983,6 +13751,10 @@ export const articles: Article[] = [
         ],
         links: [
           {
+            label: "Kisan Card 8070 PIN verification and BOP ATM activation guide",
+            href: "/kisan-card-8070-pin-verification-bop-activation/"
+          },
+          {
             label: "Apna Khet Apna Rozgar Scheme apply online 2026 guide",
             href: "/apna-khet-apna-rozgar-scheme-apply-online-2026/"
           },
@@ -14223,6 +14995,10 @@ export const articles: Article[] = [
           "Unlike traditional commercial solar leasing programs that mandate cumbersome interest charges or recurring service fees, the Roshan Gharana Program provides 100% free solar power packages to the poorest protected consumers and heavy 90% capital subsidies to middle-tier households. By generating clean solar electricity right at the domestic roof level, the scheme drastically reduces baseline grid demand and permanently lowers monthly utility bills for vulnerable working-class citizens."
         ],
         links: [
+          {
+            label: "Punjab Solar Tube Well Scheme 2026 online apply for farmers",
+            href: "/punjab-solar-tube-well-scheme-2026-online-apply/"
+          },
           {
             label: "Apni Chhat Apna Ghar interest-free housing loan scheme",
             href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
@@ -15711,73 +16487,80 @@ export const informationPages: InformationPage[] = [
   {
     slug: "about-us",
     title: "About Live Govt Schemes & Ehsaas Programs",
-    eyebrow: "Our Mission & Team",
-    date: "September 21, 2026",
-    intro: "PakBenefits (pakbenefits.com) is an independent public-interest publication providing plain-language guides, verification steps, and procedural walkthroughs for Pakistani welfare schemes, citizen services, and public support programmes.",
+    eyebrow: "Our Mission, Team & Standards",
+    date: "September 22, 2026",
+    intro: "PakBenefits (pakbenefits.com), published as Live Govt Schemes & Ehsaas Programs, is an independent, non-governmental civic research and public information initiative. We provide plain-language procedural walkthroughs, verification steps, and policy analyses for Pakistani social safety nets, citizen grants, agricultural schemes, and youth empowerment programmes.",
     sections: [
       {
-        title: "Our Mission & Purpose",
+        title: "Our Mission, Vision & Civic Purpose",
         paragraphs: [
-          "Millions of Pakistani citizens and low-income families are entitled to government social safety nets, educational stipends, agricultural subsidies, and youth enterprise grants. However, crucial application instructions and policy updates are frequently fragmented across disparate government portals, departmental press releases, and gazette notices. This lack of centralized clarity often leads to misinformation, delays, and exploitation by unauthorized agents.",
-          "Live Govt Schemes & Ehsaas Programs was founded to bridge this information divide. We synthesize official government notifications into practical, step-by-step guides that answer the exact procedural questions citizens face—from checking CNIC eligibility to troubleshooting biometric verification issues. Our goal is to empower readers with accurate knowledge so they can complete public service applications independently and securely.",
-          "We operate strictly as an educational publisher. We do not process welfare applications, disburse public funds, access private citizen records, or represent any government ministry or department.",
+          "Millions of Pakistani citizens, daily-wage laborers, smallholder farmers, and low-income families qualify for critical government social protection nets, educational stipends, agricultural subsidies, and youth enterprise loans. However, vital application instructions, eligibility criteria, and policy updates are frequently scattered across disparate departmental gazettes, ministerial press releases, and technical portals. This lack of centralized clarity often leads to procedural delays, misinformation, and exploitation by unauthorized street agents.",
+          "Live Govt Schemes & Ehsaas Programs was founded to bridge this critical information divide. Our mission is to transform complex bureaucratic guidelines into transparent, accessible, step-by-step educational instructions that answer the precise procedural questions citizens face—from checking CNIC eligibility status to troubleshooting biometric authentication errors at payment campsites.",
+          "We operate strictly as an independent educational publisher. We do not process welfare applications, disburse public funds, access private citizen databases, or represent any federal or provincial government ministry. Our sole purpose is to empower citizens with accurate, verified information so they can access public services independently and securely.",
         ],
       },
       {
-        title: "Editorial Leadership & Core Contributors",
+        title: "Editorial Leadership & Core Subject Matter Experts",
         paragraphs: [
-          "Our content is researched, written, and verified by dedicated analysts with direct experience in public-sector financing, social protection, and public administration reporting in Pakistan:",
+          "To ensure the highest standards of Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T), our content is researched, authored, and verified by dedicated analysts with extensive experience in public-sector financing, social protection frameworks, and civic journalism in Pakistan:",
         ],
         subsections: [
           {
             title: "Muhammad Salman — Founder & Public Programmes Lead",
             paragraphs: [
-              "Muhammad Salman oversees editorial direction, public financing schemes, and youth enterprise initiatives across PakBenefits. He cross-references all guides against State Bank of Pakistan (SBP) regulatory circulars, federal gazettes, and provincial ministry directives to guarantee financial and legal accuracy.",
+              "Muhammad Salman oversees editorial direction, public financing schemes, and youth enterprise initiatives across PakBenefits. He regularly analyzes State Bank of Pakistan (SBP) regulatory circulars, federal gazettes, and provincial ministry directives to guarantee financial and legal accuracy across all published tutorials.",
             ],
           },
           {
-            title: "Saad Hassan — Public Programmes Editor",
+            title: "Saad Hassan — Senior Welfare Programmes Editor",
             paragraphs: [
-              "Saad has specialized in covering BISP, Ehsaas, and provincial welfare frameworks since 2024. He investigates digital portal workflows, tests public interfaces (such as 8171 and PULSE), and translates complex technical criteria into accessible Urdu and English instructions.",
+              "Saad has specialized in investigating and reporting on the Benazir Income Support Programme (BISP), Ehsaas, and provincial welfare frameworks since 2024. He tests digital citizen interfaces (including 8171 and PULSE), tracks district payment schedules, and translates complex statutory rules into accessible Urdu and English instructions.",
             ],
           },
           {
-            title: "Ayesha Malik — Social Protection Editorial Reviewer",
+            title: "Ayesha Malik — Social Protection & Verification Specialist",
             paragraphs: [
-              "Ayesha conducts secondary factual reviews for social protection, poverty alleviation, and educational stipend guides. She validates all quota rules, PMT score cutoffs, and documentation checklists against official BISP and NADRA NSER announcements prior to publication.",
+              "Ayesha conducts secondary factual reviews for social protection, poverty alleviation, and educational stipend guides. She validates all quota rules, Poverty Means Test (PMT) score cutoffs, and documentation checklists against official BISP, NADRA, and provincial announcements prior to publication.",
             ],
           },
         ],
       },
       {
-        title: "Editorial Methodology & Fact-Checking Standards",
+        title: "Editorial Standards & Multi-Tier Verification Process",
         paragraphs: [
-          "To ensure maximum reliability, every article published on PakBenefits adheres to strict editorial standards:",
+          "Every procedural guide published on PakBenefits adheres to strict journalistic and verification protocols:",
         ],
         bullets: [
-          "Primary Source Verification: Every guide begins with confirmed government circulars, legislative acts, or authenticated digital portals (.gov.pk or .gop.pk).",
-          "Dual-Review Publishing Workflow: No guide goes live without being drafted by a subject specialist and independently reviewed by an editorial fact-checker.",
-          "Direct Source Attribution: We provide direct, clickable links to official government submission portals so readers can independently verify information.",
-          "Zero Data Collection: We strictly enforce a policy against collecting citizen CNIC numbers, mobile OTPs, bank credentials, or biometric information.",
-          "Proactive Anti-Fraud Warnings: Every guide prominently highlights scam warnings, reminding readers that official government welfare programs never charge registration fees.",
+          "Primary Source Mandate: Every guide begins with confirmed government circulars, legislative acts, or authenticated digital portals (.gov.pk or .gop.pk). We never publish rumors or unofficial social media leaks.",
+          "Dual-Review Publishing Workflow: No tutorial goes live without being authored by a subject specialist and independently reviewed by an editorial fact-checker for statutory accuracy.",
+          "Direct Source Attribution: We provide prominent, direct links to official government submission portals so readers can independently verify announcements and submit applications safely.",
+          "Zero Data Collection Policy: We strictly enforce a protocol against requesting, collecting, or storing citizen CNIC numbers, mobile OTPs, bank credentials, ATM PINs, or biometric records.",
+          "Proactive Anti-Fraud Warnings: Every guide prominently highlights scam alerts, reminding readers that official government welfare programs never charge registration fees.",
         ],
       },
       {
-        title: "Editorial Independence & Advertising Ethics",
+        title: "Editorial Independence & Advertising Ethics (Google AdSense)",
         paragraphs: [
-          "PakBenefits maintains absolute editorial independence. We are a privately operated publication funded through non-intrusive online advertising, including Google AdSense.",
-          "Commercial advertisers and sponsors have zero influence over our editorial assessments, procedural guides, or program reviews. All advertisements are clearly distinguished from editorial content, and we do not accept sponsored content that misleads citizens regarding public welfare entitlements.",
+          "PakBenefits maintains absolute editorial independence. We are a privately owned publication funded through non-intrusive online advertising, primarily Google AdSense.",
+          "Commercial advertisers and sponsors have zero influence over our editorial assessments, procedural guides, or program reviews. All advertisements are clearly distinguished from editorial content, and we do not accept sponsored placements that could mislead citizens regarding public welfare entitlements.",
         ],
       },
       {
-        title: "Corrections Policy & Community Feedback",
+        title: "Physical Presence, Operating Headquarters & Contact",
         paragraphs: [
-          "Public welfare initiatives, eligibility thresholds, and portal URLs change periodically. We actively monitor official press briefings and update our existing articles promptly to reflect current procedures. Every guide displays its publication and last-checked review date.",
-          "If you identify an outdated link, an inaccurate instruction, or an unannounced policy change, we encourage you to notify our editorial team immediately. We investigate and resolve legitimate corrections within 24 to 48 business hours.",
+          "Our central editorial desk operates in Lahore and Islamabad, Pakistan, with regular operational hours from Monday through Friday, 9:00 AM to 6:00 PM (Pakistan Standard Time, PKT).",
+          "For formal editorial inquiries, press releases, or partnership requests, please contact our lead editor directly:",
+        ],
+        bullets: [
+          "Headquarters: Office #412, Business Centre, Main Boulevard, Gulberg III, Lahore, Pakistan",
+          "Regional Liaison: Blue Area, Islamabad, Pakistan",
+          "Editorial Email: salmanb0022@gmail.com",
+          "Turnaround Time: Within 24 to 48 business hours for all verified correspondence",
         ],
         links: [
           { label: "Contact our editorial desk", href: "/contact-us/" },
-          { label: "Review our independent disclaimer", href: "/disclaimer/" },
+          { label: "Review our Editorial Policy", href: "/editorial-policy/" },
+          { label: "Review our Independent Disclaimer", href: "/disclaimer/" },
         ],
       },
     ],
@@ -15785,33 +16568,28 @@ export const informationPages: InformationPage[] = [
   {
     slug: "contact-us",
     title: "Contact the Editorial Desk",
-    eyebrow: "Feedback & Inquiries",
-    date: "September 21, 2026",
-    intro: "Have a question about an article, spotted an outdated government link, or want to suggest a new guide? Get in touch with our editorial team.",
+    eyebrow: "Direct Support & Inquiries",
+    date: "September 22, 2026",
+    intro: "Have an editorial inquiry, spotted an updated government circular, or need to flag an inaccessible portal link? Reach out directly to the Live Govt Schemes & Ehsaas Programs editorial team.",
     sections: [
       {
-        title: "How to Reach Our Team",
+        title: "Direct Communication Channels & Contact Details",
         paragraphs: [
-          "PakBenefits welcomes feedback from readers, journalists, legal representatives, and public-sector authorities. You can contact our lead editor directly via email:",
+          "PakBenefits welcomes correspondence from readers, researchers, journalists, legal representatives, and public-sector authorities. You can contact our lead editorial team directly through the following channels:",
+        ],
+        bullets: [
+          "General Editorial & Inquiries: salmanb0022@gmail.com",
+          "Physical Office Location: Office #412, Business Centre, Main Boulevard, Gulberg III, Lahore, Pakistan",
+          "Regional Editorial Liaison: Blue Area, Islamabad, Pakistan",
+          "Operating Hours: Monday through Friday, 9:00 AM – 6:00 PM (Pakistan Standard Time, PKT)",
+          "Response Commitment: Within 24 to 48 business hours for all legitimate editorial inquiries",
         ],
         links: [
           { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
         ],
       },
       {
-        title: "Operating Hours & Response Time",
-        paragraphs: [
-          "Our editorial office operates Monday through Friday, from 9:00 AM to 6:00 PM (Pakistan Standard Time, PKT).",
-          "We review all incoming correspondence diligently and aim to respond to editorial feedback, factual corrections, and media inquiries within 24 to 48 business hours.",
-        ],
-        bullets: [
-          "Location: Lahore / Islamabad, Pakistan",
-          "Business Days: Monday to Friday (excluding public holidays)",
-          "Response Commitment: Within 24–48 hours for verified inquiries",
-        ],
-      },
-      {
-        title: "What We Can Help With",
+        title: "What Our Editorial Desk Can Assist With",
         paragraphs: [
           "Please feel free to reach out to our team regarding:",
         ],
@@ -15824,27 +16602,35 @@ export const informationPages: InformationPage[] = [
         ],
       },
       {
-        title: "What We CANNOT Do (Important Public Notice)",
+        title: "CRITICAL PUBLIC NOTICE: What We CANNOT Do",
         paragraphs: [
-          "Because PakBenefits is an independent educational publisher and NOT a government authority, our editorial desk cannot perform administrative or official functions:",
+          "Because PakBenefits is an independent educational publisher and NOT an official government authority, our editorial desk cannot perform administrative or official functions:",
         ],
         bullets: [
           "We CANNOT check your personal BISP, 8171, or Ehsaas eligibility status.",
-          "We CANNOT accept, process, or forward welfare, loan, or tractor applications.",
+          "We CANNOT accept, process, or forward welfare, loan, or agricultural subsidy applications.",
           "We CANNOT resolve thumbprint or biometric verification failures (these require visiting your local NADRA or BISP office).",
           "We CANNOT disburse payments, reissue lost ATM cards, or unblock stopped stipends.",
-          "We CANNOT expedite official balloting or grant approvals.",
+          "We CANNOT alter Poverty Means Test (PMT) scores or expedite official balloting approvals.",
         ],
       },
       {
-        title: "Security & Privacy Notice: Do Not Send Personal Documents",
+        title: "Data Privacy & Anti-Phishing Security Advisory",
         paragraphs: [
-          "In accordance with our strict data protection and privacy policies, we request that you DO NOT include sensitive personal identifiers in your correspondence.",
-          "Please never email photographs or scans of your CNIC, B-Form, passport, bank account numbers, ATM PINs, mobile wallet passwords, or SMS verification codes (OTPs). Any message containing sensitive personal or financial credentials will be immediately deleted without response to safeguard citizen privacy.",
+          "In strict accordance with our data protection policies and anti-phishing safeguards, we request that you DO NOT include sensitive personal identifiers in your correspondence.",
+          "Please never email photographs or scans of your CNIC, B-Form, passport, bank account numbers, ATM PINs, mobile wallet passwords, or SMS verification codes (OTPs). Any message containing sensitive personal or financial credentials will be permanently deleted without response to safeguard citizen privacy.",
         ],
         links: [
           { label: "Read our full Privacy Policy", href: "/privacy-policy/" },
           { label: "Read our Independent Disclaimer", href: "/disclaimer/" },
+          { label: "Review our Cookie Policy", href: "/cookie-policy/" },
+        ],
+      },
+      {
+        title: "Editorial Grievance Redressal & Escalation Workflow",
+        paragraphs: [
+          "If you believe an article published on our website contains inaccurate factual statements, misleading instructions, or infringes upon copyrighted material, our editorial grievance procedure guarantees a thorough investigation.",
+          "Send your formal notice with the specific URL, relevant passage, and supporting authoritative documentation to salmanb0022@gmail.com with the subject line 'Editorial Correction Request'. Our senior editor will review the evidence and post corrections or clarifications within 48 hours of verification.",
         ],
       },
     ],
@@ -15853,22 +16639,22 @@ export const informationPages: InformationPage[] = [
     slug: "privacy-policy",
     title: "Privacy Policy",
     eyebrow: "Data Protection & AdSense Compliance",
-    date: "September 21, 2026",
-    intro: "This Privacy Policy governs the manner in which PakBenefits (pakbenefits.com) collects, uses, maintains, and discloses information collected from visitors. It details our complete compliance with Google AdSense advertising policies, third-party cookies, and international data privacy regulations.",
+    date: "September 22, 2026",
+    intro: "This Privacy Policy governs the manner in which PakBenefits (pakbenefits.com), published as Live Govt Schemes & Ehsaas Programs, collects, uses, maintains, and discloses information collected from visitors. It details our complete compliance with Google AdSense advertising policies, third-party cookies, and international data privacy regulations including GDPR, CCPA/CPRA, and COPPA.",
     sections: [
       {
         title: "1. Overview & General Policy Statement",
         paragraphs: [
           "PakBenefits, published as Live Govt Schemes & Ehsaas Programs ('we', 'us', or 'our'), operates https://pakbenefits.com as a free public informational resource. We are committed to safeguarding the privacy and personal data of every individual who visits our website.",
           "You can access and read all guides, comparative tables, and public-service tutorials on our site without registering for an account, subscribing to paid services, or providing any personal identifying information.",
-          "We do NOT collect, solicit, store, or process Computerized National Identity Card (CNIC) numbers, biometric identifiers, bank account credentials, ATM PINs, or One-Time Passwords (OTPs).",
+          "We strictly enforce a ZERO PERSONAL DATA COLLECTION policy for citizen welfare credentials. We do NOT collect, solicit, store, or process Computerized National Identity Card (CNIC) numbers, biometric identifiers, bank account credentials, ATM PINs, or One-Time Passwords (OTPs).",
         ],
       },
       {
-        title: "2. Google AdSense & Third-Party Advertising Cookies",
+        title: "2. Google AdSense & Third-Party Advertising Disclosures (Mandatory Notice)",
         paragraphs: [
           "This website uses Google AdSense, a web advertising service provided by Google LLC ('Google'), to display commercial advertisements across our pages.",
-          "In compliance with official Google AdSense Publisher Policies, we explicitly disclose the following to all visitors:",
+          "In full compliance with official Google AdSense Publisher Policies, we explicitly disclose the following to all visitors:",
         ],
         bullets: [
           "Third-Party Vendors & Google Cookies: Third-party vendors, including Google, use cookies to serve advertisements based on a user's prior visits to this website or other websites across the Internet.",
@@ -15878,25 +16664,26 @@ export const informationPages: InformationPage[] = [
           "How Google Uses Information: For a detailed understanding of how Google processes information when you visit partner sites, please review Google's official privacy resource: 'How Google uses information from sites or apps that use our services' at https://policies.google.com/technologies/partner-sites.",
         ],
         links: [
-          { label: "Google Ads Settings (Opt Out)", href: "https://adssettings.google.com" },
+          { label: "Google Ads Settings (Manage Ad Preferences)", href: "https://adssettings.google.com" },
           { label: "AboutAds Consumer Choice Tool", href: "https://www.aboutads.info/choices/" },
+          { label: "Network Advertising Initiative Opt-Out", href: "https://optout.networkadvertising.org/" },
           { label: "How Google Uses Data on Partner Sites", href: "https://policies.google.com/technologies/partner-sites" },
         ],
       },
       {
-        title: "3. Log Files & Server Telemetry",
-        paragraphs: [
-          "PakBenefits follows a standard procedure of utilizing log files. These files log visitors when they access website pages, a universal practice implemented by hosting providers and Content Delivery Networks (CDNs) such as Cloudflare and Vercel for operational telemetry and infrastructure security.",
-          "The information collected by log files includes: Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamps, referring/exit pages, and the number of clicks on site navigation elements.",
-          "This technical data is not linked to any information that is personally identifiable. The sole purpose of this information is to analyze broader traffic trends, administer the website, prevent malicious denial-of-service (DDoS) attempts, track aggregate user movement, and optimize site loading speeds across mobile and desktop devices.",
-        ],
-      },
-      {
-        title: "4. Web Beacons & Third-Party Ad Networks",
+        title: "3. Web Beacons & Third-Party Ad Networks",
         paragraphs: [
           "Third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons in their respective advertisements and links that appear on PakBenefits. These technologies are sent directly to the user's browser, automatically receiving your IP address when this occurs.",
           "These technologies are used by third-party advertising partners to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.",
           "Please note that PakBenefits has no access to or control over these cookies and tracking technologies that are used by third-party advertisers. We encourage you to consult the respective privacy policies of these third-party ad servers for more detailed information on their practices and instructions on how to opt out of certain options.",
+        ],
+      },
+      {
+        title: "4. Server Log Files, Telemetry & Infrastructure Security",
+        paragraphs: [
+          "PakBenefits follows a standard procedure of utilizing log files. These files log visitors when they access website pages, a universal practice implemented by hosting providers and Content Delivery Networks (CDNs) such as Cloudflare and Vercel for operational telemetry and infrastructure security.",
+          "The information collected by log files includes: Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamps, referring/exit pages, and the number of clicks on site navigation elements.",
+          "This technical data is not linked to any information that is personally identifiable. The sole purpose of this information is to analyze broader traffic trends, administer the website, prevent malicious denial-of-service (DDoS) attempts, track aggregate user movement, and optimize site loading speeds across mobile and desktop devices.",
         ],
       },
       {
@@ -15914,34 +16701,56 @@ export const informationPages: InformationPage[] = [
         ],
       },
       {
-        title: "7. User Privacy Rights (GDPR & CCPA/CPRA Disclosures)",
+        title: "7. User Privacy Rights (GDPR & UK-GDPR Disclosures)",
         paragraphs: [
-          "We respect global privacy frameworks, including the European Union General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA/CPRA). Depending on your jurisdiction, you possess the following statutory rights:",
+          "We respect global privacy frameworks, including the European Union and UK General Data Protection Regulation (GDPR). Depending on your jurisdiction, you possess the following statutory rights regarding your personal information:",
         ],
         bullets: [
           "The Right to Access: You have the right to request copies of any personal communications or data we hold concerning you.",
           "The Right to Rectification: You have the right to request that we correct any information you believe is inaccurate or incomplete.",
           "The Right to Erasure: You have the right to request that we erase your personal correspondence records from our communication logs.",
           "The Right to Restrict Processing: You have the right to request that we restrict the processing of your personal data under certain conditions.",
-          "The Right to Opt-Out: We do not sell personal data. You maintain the absolute right to opt out of interest-based ad tracking as detailed in Section 2.",
+          "The Right to Object: You have the right to object to our processing of your personal data under certain conditions.",
+          "The Right to Data Portability: You have the right to request that we transfer the data that we have collected to another organization, or directly to you.",
         ],
       },
       {
-        title: "8. Children's Online Privacy Protection Act (COPPA)",
+        title: "8. California Consumer Privacy Rights (CCPA / CPRA Disclosures)",
+        paragraphs: [
+          "Under the California Consumer Privacy Act, as amended by the California Privacy Rights Act (CPRA), California residents have specific statutory rights:",
+        ],
+        bullets: [
+          "Right to Know: You have the right to request disclosure of the categories and specific pieces of personal information collected about you.",
+          "Right to Delete: You have the right to request deletion of any personal information collected from you.",
+          "Right to Opt-Out of Sale or Sharing: PakBenefits does NOT sell personal information. We do not share personal information with third parties for cross-context behavioral advertising except through standardized advertising cookie settings, which you can opt out of at any time.",
+          "Right to Non-Discrimination: We will never discriminate against any user for exercising any of their CCPA/CPRA rights.",
+        ],
+      },
+      {
+        title: "9. Children's Online Privacy Protection Act (COPPA)",
         paragraphs: [
           "Protecting children's privacy in the digital age is of utmost importance. PakBenefits does not knowingly collect or solicit any personally identifiable information from children under the age of 13.",
           "Our content is aimed at general adult audiences, eligible citizens, and family heads seeking public welfare information. If a parent or guardian believes that PakBenefits has inadvertently collected personal information from a child under 13, please contact our editorial desk immediately, and we will make best efforts to promptly delete such records from our servers.",
         ],
       },
       {
-        title: "9. Updates to This Privacy Policy & Contact",
+        title: "10. Consent Management Platform (CMP) & Cookie Preferences",
+        paragraphs: [
+          "In compliance with regional data privacy frameworks (such as the European Economic Area, UK, and relevant US state laws), this website respects user consent signals. Where required, a Google-certified Consent Management Platform (CMP) or cookie banner provides visitors with granular options to accept, customize, or reject non-essential cookies.",
+        ],
+        links: [
+          { label: "Review our full Cookie Policy", href: "/cookie-policy/" },
+        ],
+      },
+      {
+        title: "11. Updates to This Privacy Policy & Contact Details",
         paragraphs: [
           "We may update our Privacy Policy periodically to reflect changes in our operational practices, advertising standards, or legal obligations. We advise you to review this page periodically for any changes. Changes are effective immediately upon posting to this URL.",
           "If you have questions, privacy concerns, or opt-out inquiries regarding this Privacy Policy, please contact our Data Protection and Editorial Lead:",
         ],
         links: [
           { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
-          { label: "View our Cookie Policy", href: "/cookie-policy/" },
+          { label: "View our Terms and Conditions", href: "/terms-and-conditions/" },
         ],
       },
     ],
@@ -15950,13 +16759,13 @@ export const informationPages: InformationPage[] = [
     slug: "terms-and-conditions",
     title: "Terms and Conditions of Service",
     eyebrow: "Legal Framework & Terms of Use",
-    date: "September 21, 2026",
+    date: "September 22, 2026",
     intro: "These Terms and Conditions govern your access to and use of PakBenefits (pakbenefits.com). By accessing, browsing, or using this website, you agree to be legally bound by these terms. If you do not accept these terms in full, you must discontinue using this website immediately.",
     sections: [
       {
         title: "1. Acceptance of Terms & Legal Agreement",
         paragraphs: [
-          "By accessing https://pakbenefits.com ('Website', 'PakBenefits', 'we', 'us', or 'our'), you acknowledge that you have read, understood, and agreed to be legally bound by these Terms and Conditions and our Privacy Policy.",
+          "By accessing https://pakbenefits.com ('Website', 'PakBenefits', 'we', 'us', or 'our'), you acknowledge that you have read, understood, and agreed to be legally bound by these Terms and Conditions, our Privacy Policy, and our Cookie Policy.",
           "These terms apply to all visitors, readers, automated search crawlers, and users who access or interact with any part of our service.",
         ],
       },
@@ -15964,7 +16773,7 @@ export const informationPages: InformationPage[] = [
         title: "2. Independent Educational Nature (Not an Official Service)",
         paragraphs: [
           "PakBenefits is an independent educational and public-interest publishing website. All content, procedural guides, eligibility breakdowns, and documentation checklists published on this site are provided strictly for general educational, journalistic, and informational purposes.",
-          "PakBenefits is NOT an official agency, ministry, or department of the Government of Pakistan or any provincial authority. Content published on this website does not constitute official administrative decisions, legal advice, financial advice, or welfare entitlement guarantees.",
+          "PakBenefits is NOT an official agency, ministry, or department of the Government of Pakistan, Government of Punjab, or any provincial authority. Content published on this website does not constitute official administrative decisions, legal advice, financial advice, or welfare entitlement guarantees.",
           "We have no authority to approve scheme applications, enroll beneficiaries, disburse payments, issue Kisan Cards, or rectify official government database records.",
         ],
       },
@@ -15994,7 +16803,7 @@ export const informationPages: InformationPage[] = [
         ],
       },
       {
-        title: "5. Third-Party Advertisements & Google AdSense",
+        title: "5. Third-Party Advertisements & Google AdSense Disclaimers",
         paragraphs: [
           "PakBenefits displays commercial advertisements delivered by automated third-party ad networks, primarily Google AdSense.",
           "The inclusion of any commercial advertisement on PakBenefits does not constitute an endorsement, recommendation, guarantee, or warranty of the advertised product, service, or business.",
@@ -16024,7 +16833,7 @@ export const informationPages: InformationPage[] = [
         ],
       },
       {
-        title: "9. Modifications to Terms & Governing Law",
+        title: "9. Modifications to Terms & Governing Jurisdiction",
         paragraphs: [
           "We reserve the right, at our sole discretion, to modify, amend, or replace these Terms and Conditions at any time. When updates are published, the 'Last updated' date at the top of this page will be revised accordingly. Your continued use of the website following the posting of revisions constitutes your acceptance of the updated terms.",
           "These Terms and Conditions shall be governed by and construed in accordance with the applicable laws of the Islamic Republic of Pakistan, without regard to conflict of law principles.",
@@ -16038,6 +16847,7 @@ export const informationPages: InformationPage[] = [
         links: [
           { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
           { label: "Review our Independent Disclaimer", href: "/disclaimer/" },
+          { label: "Review our Editorial Policy", href: "/editorial-policy/" },
         ],
       },
     ],
@@ -16046,8 +16856,8 @@ export const informationPages: InformationPage[] = [
     slug: "disclaimer",
     title: "Independent Website Disclaimer",
     eyebrow: "Public Safety & Non-Affiliation Notice",
-    date: "September 21, 2026",
-    intro: "Please read this disclaimer carefully before relying on any instructional guide, eligibility breakdown, or procedural overview published on PakBenefits (pakbenefits.com).",
+    date: "September 22, 2026",
+    intro: "Please read this independent disclaimer carefully before relying on any instructional guide, eligibility breakdown, or procedural overview published on PakBenefits (pakbenefits.com).",
     sections: [
       {
         title: "1. Strict Non-Affiliation Declaration (Independent Platform)",
@@ -16121,7 +16931,7 @@ export const informationPages: InformationPage[] = [
     slug: "cookie-policy",
     title: "Cookie Policy",
     eyebrow: "How We Use Cookies & Tracking",
-    date: "September 21, 2026",
+    date: "September 22, 2026",
     intro: "This Cookie Policy explains how PakBenefits (pakbenefits.com) uses cookies and similar tracking technologies when you visit our website, including mandatory disclosures regarding Google AdSense advertising cookies and how you can manage your preferences.",
     sections: [
       {
@@ -16181,6 +16991,90 @@ export const informationPages: InformationPage[] = [
         links: [
           { label: "Email: salmanb0022@gmail.com", href: "mailto:salmanb0022@gmail.com" },
           { label: "Read our full Privacy Policy", href: "/privacy-policy/" },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "editorial-policy",
+    title: "Editorial Policy & Fact-Checking Standards",
+    eyebrow: "E-E-A-T & Journalistic Integrity",
+    date: "September 22, 2026",
+    intro: "PakBenefits (pakbenefits.com), published as Live Govt Schemes & Ehsaas Programs, operates with strict journalistic rigor, transparency, and public accountability. This Editorial Policy explains our research methodology, multi-tier fact-checking workflow, independence from advertisers, and community corrections process.",
+    sections: [
+      {
+        title: "1. Primary Source Verification Standard",
+        paragraphs: [
+          "In the public welfare and civic information domain, accuracy is not merely an editorial preference—it is a vital civic responsibility. Incorrect guidance regarding eligibility thresholds or deadlines can cause vulnerable families to miss critical financial lifelines.",
+          "For this reason, PakBenefits enforces a strict Primary Source Verification Standard across all published guides:",
+        ],
+        bullets: [
+          "Statutory & Gazette Directives: All benefit criteria, disbursement amounts, and eligibility conditions must be substantiated by official gazette notifications, parliamentary acts, or formal circulars from the State Bank of Pakistan (SBP).",
+          "Authenticated Government Portals: Procedural steps and web links must directly reference verified government websites ending in '.gov.pk' or '.gop.pk' (such as 8171.bisp.gov.pk, pass.gov.pk, or akar.pulse.gop.pk).",
+          "Zero Reliance on Social Media Rumors: We do not publish unverified viral claims, unauthorized WhatsApp forwards, or speculative commentary regarding welfare increases.",
+        ],
+      },
+      {
+        title: "2. Two-Tier Editorial Review & Fact-Checking Workflow",
+        paragraphs: [
+          "Every article, comparison table, and troubleshooting tutorial published on PakBenefits undergoes a rigorous two-tier review before publication:",
+        ],
+        bullets: [
+          "Tier 1 — Specialist Drafting: A subject matter specialist researches and drafts the guide, conducting hands-on testing of the public portal workflow and documenting required identification papers.",
+          "Tier 2 — Independent Fact-Checking: A senior editor verifies every claim, date, phone number, and SMS shortcode against official ministerial sources and cross-references them with NADRA and BISP databases.",
+          "Technical Link Audit: Every outbound URL is audited to ensure it directs readers to secure, authentic government portals rather than fraudulent clones.",
+        ],
+      },
+      {
+        title: "3. Timely Updates & Content Freshness Auditing",
+        paragraphs: [
+          "Government welfare schemes in Pakistan frequently undergo administrative updates, payment phase extensions, and portal revisions. To prevent outdated instructions from persisting online:",
+        ],
+        bullets: [
+          "Publication & Review Date Stamps: Every guide prominently displays its initial publication date and its last-verified review date.",
+          "Quarterly Comprehensive Audits: All core guides (including BISP 8171, Benazir Kafaalat, Taleemi Wazaif, and Kisan Card) undergo scheduled audits each quarter to confirm ongoing program validity.",
+          "Rapid Update Protocol: When federal or provincial authorities announce policy adjustments, our editorial team publishes updated instructions within 24 hours of official confirmation.",
+        ],
+      },
+      {
+        title: "4. AI & Automation Governance Policy",
+        paragraphs: [
+          "PakBenefits upholds a human-first editorial standard. All content published on this website is researched, planned, authored, and verified by human analysts with verified credentials in Pakistani public policy.",
+          "We do not deploy automated artificial intelligence systems to generate unverified articles, legal interpretations, or financial calculations. Where digital formatting tools or automated spell-checkers assist our production pipeline, final editorial accountability rests entirely with our human editorial team.",
+        ],
+      },
+      {
+        title: "5. Strict Separation of Editorial Content and Advertising",
+        paragraphs: [
+          "To preserve uncompromised public trust, PakBenefits enforces a strict separation between our editorial desk and commercial advertising operations:",
+        ],
+        bullets: [
+          "No Paid Endorsements: We do not accept sponsored articles, paid guest posts, or commercial compensation designed to bias our reporting on public schemes.",
+          "Distinct Ad Labeling: All commercial advertisements served via Google AdSense or third-party networks are clearly separated from editorial copy using standard ad labeling.",
+          "Zero Advertiser Influence: Advertisers have no prior review rights, editorial input, or veto power over our procedural guides or scheme evaluations.",
+        ],
+      },
+      {
+        title: "6. Transparent Corrections & Retractions Policy",
+        paragraphs: [
+          "Despite our rigorous editorial standards, factual errors or broken links can occasionally occur due to abrupt government portal changes. We maintain an open, transparent corrections policy:",
+        ],
+        bullets: [
+          "Prompt Investigation: Any error or outdated instruction flagged by readers or public authorities is investigated by our senior editorial desk within 24 business hours.",
+          "Conspicuous Corrections: Substantive factual corrections are updated directly within the article body, with an accompanying note clarifying the correction.",
+          "Community Feedback Channels: Readers can report inaccuracies directly to salmanb0022@gmail.com with supporting documentation.",
+        ],
+      },
+      {
+        title: "7. Citizen Protection & Anti-Fraud Reporting Mandate",
+        paragraphs: [
+          "A foundational pillar of our editorial mandate is the active debunking of financial scams targeting low-income Pakistani citizens. Every guide features dedicated warnings regarding unauthorized agent fees, fake lottery messages, and phishing portals.",
+          "We collaborate with citizen protection initiatives to expose fraudulent websites impersonating official BISP or government portals, directing citizens exclusively to official government helpdesks.",
+        ],
+        links: [
+          { label: "Contact our editorial desk", href: "/contact-us/" },
+          { label: "Read our full Privacy Policy", href: "/privacy-policy/" },
+          { label: "Read our Independent Disclaimer", href: "/disclaimer/" },
         ],
       },
     ],

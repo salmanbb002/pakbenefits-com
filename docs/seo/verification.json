@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-21T10:35:38.800Z",
+  "checkedAt": "2026-09-22T06:47:59.897Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 79,
+  "routeCount": 92,
   "failures": [],
   "pending": [],
   "pages": [
@@ -144,6 +144,45 @@
         "WebSite",
         "BreadcrumbList",
         "CollectionPage",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-and-ehsaas-difference-guide/",
+      "title": "BISP and Ehsaas Difference Explained: History, 8171 Portal & 2026 Status | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 161,
+      "editorialWords": 1614,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/punjab-solar-tube-well-scheme-2026-online-apply/",
+      "title": "Punjab Solar Tube Well Scheme 2026 Online Apply: Subsidy & Portal | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 165,
+      "editorialWords": 1200,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/kisan-card-8070-pin-verification-bop-activation/",
+      "title": "Kisan Card 8070 PIN Verification & BOP ATM Activation Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 148,
+      "editorialWords": 1221,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
         "FAQPage"
       ]
     },
@@ -961,9 +1000,113 @@
       ]
     },
     {
+      "path": "/cm-punjab-solar-panel-scheme-2026-online-apply/",
+      "title": "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana & 8800 SMS | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 177,
+      "editorialWords": 1389,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-livestock-card-scheme-2026-online-apply/",
+      "title": "CM Punjab Livestock Card Scheme 2026 Online Apply: 8070 SMS & PLC Portal | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 172,
+      "editorialWords": 1471,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-8171-balance-check-online-kaise-karein/",
+      "title": "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat & ATM Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 174,
+      "editorialWords": 1203,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-8171-paise-check-karne-ka-tarika/",
+      "title": "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash & Balance Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 167,
+      "editorialWords": 1279,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-kafaalat-13500-check-online-kaise-karein/",
+      "title": "BISP Kafaalat 13500 Check Online Kaise Karein: Payment Status & Dates | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 171,
+      "editorialWords": 998,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-new-registration-form-online-apply-kaise-karein/",
+      "title": "BISP New Registration Form Online Apply Kaise Karein: NSER Survey | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 160,
+      "editorialWords": 918,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/benazir-taleemi-wazaif-form-download-tarika/",
+      "title": "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 178,
+      "editorialWords": 822,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-helpline-number-complaint-kaise-darj-karein/",
+      "title": "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477 Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 165,
+      "editorialWords": 898,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
       "path": "/about-us/",
       "title": "About Live Govt Schemes & Ehsaas Programs | Live Govt Schemes & Ehsaas Programs",
-      "descriptionLength": 143,
+      "descriptionLength": 363,
       "editorialWords": null,
       "schemaTypes": [
         "Organization",
@@ -974,7 +1117,7 @@
     {
       "path": "/contact-us/",
       "title": "Contact the Editorial Desk | Live Govt Schemes & Ehsaas Programs",
-      "descriptionLength": 112,
+      "descriptionLength": 189,
       "editorialWords": null,
       "schemaTypes": [
         "Organization",
@@ -985,7 +1128,7 @@
     {
       "path": "/privacy-policy/",
       "title": "Privacy Policy | Live Govt Schemes & Ehsaas Programs",
-      "descriptionLength": 120,
+      "descriptionLength": 385,
       "editorialWords": null,
       "schemaTypes": [
         "Organization",
@@ -995,8 +1138,8 @@
     },
     {
       "path": "/terms-and-conditions/",
-      "title": "Terms and Conditions | Live Govt Schemes & Ehsaas Programs",
-      "descriptionLength": 160,
+      "title": "Terms and Conditions of Service | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 278,
       "editorialWords": null,
       "schemaTypes": [
         "Organization",
@@ -1007,7 +1150,29 @@
     {
       "path": "/disclaimer/",
       "title": "Independent Website Disclaimer | Live Govt Schemes & Ehsaas Programs",
-      "descriptionLength": 144,
+      "descriptionLength": 182,
+      "editorialWords": null,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/cookie-policy/",
+      "title": "Cookie Policy | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 254,
+      "editorialWords": null,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/editorial-policy/",
+      "title": "Editorial Policy & Fact-Checking Standards | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 320,
       "editorialWords": null,
       "schemaTypes": [
         "Organization",

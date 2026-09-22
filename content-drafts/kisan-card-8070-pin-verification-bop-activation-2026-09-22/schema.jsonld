@@ -1,0 +1,151 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/kisan-card-8070-pin-verification-bop-activation/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/kisan-card-8070-pin-verification-bop-activation/"
+      },
+      "headline": "Kisan Card 8070 PIN Verification and BOP ATM Activation: Complete Step-by-Step Guide (2026)",
+      "description": "Kisan Card 8070 PIN verification and BOP ATM activation: step-by-step OTP generation, ATM PIN setup, POS fertilizer purchase rules, and error fixes.",
+      "image": "https://pakbenefits.com/images/kisan-card-8070-pin-verification.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "mainEntityOfPage": "https://pakbenefits.com/kisan-card-8070-pin-verification-bop-activation/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Chief Minister Punjab Kisan Card Scheme",
+          "sameAs": "https://agriculture.punjab.gov.pk"
+        },
+        {
+          "@type": "FinancialProduct",
+          "name": "Bank of Punjab Kisan Card"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Activate Your Kisan Card at a Bank of Punjab ATM",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Insert Kisan Card",
+          "text": "Insert your Kisan Card into any Bank of Punjab ATM machine."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive and Enter OTP",
+          "text": "Check your registered mobile phone for a 6-digit OTP code and enter it on the ATM screen."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Set 4-Digit PIN",
+          "text": "Choose and confirm your confidential 4-digit secret ATM PIN on the keypad."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/kisan-card-8070-pin-verification-bop-activation/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I activate my Kisan Card for the first time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Insert your physical Kisan Card into any Bank of Punjab (BOP) ATM, enter the 6-digit OTP sent to your registered mobile phone, and set your own secure 4-digit PIN on the screen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I activate my Kisan Card by sending an SMS to 8070?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, 8070 is strictly for checking eligibility and card delivery status; the ATM PIN can only be created at a BOP ATM or through the official BOP helpline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I withdraw cash from my Kisan Card at an ATM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, cash withdrawals are strictly disabled; the card can only be used at registered fertilizer and pesticide dealer POS machines to purchase agricultural inputs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if I do not receive the OTP at the ATM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ensure your phone has good signal and that the SIM is in your phone; if your network was ported, call the BOP helpline at 111-267-200 to refresh your SMS delivery profile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the total loan limit available on the Kisan Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The card provides an interest-free production loan of up to Rs. 30,000 per acre for up to 5 acres, making the maximum available credit limit Rs. 150,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I collect my physical Kisan Card after getting the 8070 SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You must collect your physical card in person from your local Tehsil Agriculture Extension Office by presenting your original CNIC and verifying your thumbprint."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the markup or interest rate on the Kisan Card loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The loan is 100% interest-free (0% markup), provided the borrowed amount is repaid within the specified 6-month cycle following crop harvesting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if I forget my 4-digit Kisan Card ATM PIN?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit any Bank of Punjab ATM, insert your card, select the 'Reset PIN' option, and enter the new OTP sent to your registered phone to choose a new PIN."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can someone else use my Kisan Card to buy fertilizer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the card is non-transferable; registered dealers must verify the farmer's CNIC and match the cardholder's credentials before processing the transaction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who should I contact if a fertilizer dealer demands extra charges for Kisan Card payments?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can immediately report unauthorized dealer surcharges or deduction scams to the Punjab Agriculture Department complaint cell at 0800-17000 or BOP helpline at 111-267-200."
+          }
+        }
+      ]
+    }
+  ]
+}

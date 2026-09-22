@@ -312,6 +312,7 @@ export function InformationTemplate({ page }: { page: InformationPage }) {
                 <Link href="/terms-and-conditions/" className="text-link" style={{ fontWeight: page.slug === "terms-and-conditions" ? 700 : 400 }}>Terms & Conditions</Link>
                 <Link href="/disclaimer/" className="text-link" style={{ fontWeight: page.slug === "disclaimer" ? 700 : 400 }}>Independent Disclaimer</Link>
                 <Link href="/cookie-policy/" className="text-link" style={{ fontWeight: page.slug === "cookie-policy" ? 700 : 400 }}>Cookie Policy</Link>
+                <Link href="/editorial-policy/" className="text-link" style={{ fontWeight: page.slug === "editorial-policy" ? 700 : 400 }}>Editorial Policy</Link>
               </nav>
             </div>
           </aside>

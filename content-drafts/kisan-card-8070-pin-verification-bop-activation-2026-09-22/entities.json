@@ -1,0 +1,39 @@
+{
+  "focusKeyword": "kisan card 8070 pin verification and bop atm activation",
+  "searchIntent": "Procedural / Technical Troubleshooting",
+  "tier1Entities": [
+    "Chief Minister Punjab Kisan Card",
+    "The Bank of Punjab (BOP)",
+    "8070 SMS Gateway",
+    "Punjab Agriculture Department",
+    "Tehsil Agriculture Extension Office",
+    "BOP ATM Biometric PIN Generation",
+    "Point of Sale (POS) Agricultural Retailers",
+    "Rs. 150,000 Interest-Free Production Loan"
+  ],
+  "tier2Entities": [
+    "National Database and Registration Authority (NADRA)",
+    "One-Time Password (OTP)",
+    "Registered Mobile SIM Card",
+    "Subsidized Fertilizers (DAP and Urea)",
+    "Punjab Land Records Authority (PLRA)",
+    "BOP Customer Helpline 111-267-200",
+    "Biometric Mismatch (Error Code 8070)"
+  ],
+  "lsiKeywords": [
+    "cm punjab kisan card pin generation bop atm",
+    "how to activate kisan card at bop atm",
+    "8070 kisan card verification sms format",
+    "kisan card biometric verification bank of punjab",
+    "kisan card fertilizer purchase pos machine",
+    "bop kisan card helpline 111 267 200",
+    "kisan card balance check code"
+  ],
+  "peopleAlsoAsk": [
+    "How do I activate my Kisan Card at a Bank of Punjab ATM?",
+    "What is the 8070 SMS format for Kisan Card verification?",
+    "How to generate Kisan Card PIN for the first time?",
+    "Can I withdraw cash from my Kisan Card?",
+    "What should I do if I don't receive the OTP on my registered mobile number?"
+  ]
+}
