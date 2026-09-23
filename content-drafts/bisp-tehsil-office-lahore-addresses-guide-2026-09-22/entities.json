@@ -1,0 +1,43 @@
+{
+  "focusKeyword": "bisp tehsil office lahore list and addresses",
+  "searchIntent": "Navigational / Informational",
+  "tier1Entities": [
+    "Benazir Income Support Programme (BISP)",
+    "BISP Punjab Regional Office (48-L Model Town Extension, Lahore)",
+    "BISP Central Zonal Office Punjab (Karim Block, Allama Iqbal Town)",
+    "Tehsil Model Town BISP Office (Township & Green Town)",
+    "Tehsil Lahore Cantt BISP Office (Gujjarpura, Bedian Road & Lidhar)",
+    "Tehsil Shalimar BISP Office (Harbanspura & Garhi Shahu)",
+    "Tehsil Lahore City BISP Office (Johar Town & Multan Road)",
+    "Tehsil Raiwind BISP Office (Barkat Pura, Raiwind)",
+    "National Socio-Economic Registry (NSER Dynamic Registry)",
+    "National Database and Registration Authority (NADRA)"
+  ],
+  "tier2Entities": [
+    "Benazir Kafaalat Program (Rs 13,500 Quarterly Stipend)",
+    "Benazir Taleemi Wazaif Education Stipends",
+    "Benazir Nashonuma Nutrition Desks",
+    "Biometric Verification System (BVS) & Non-BVS Bypass Form",
+    "0800-26477 (BISP National Toll-Free Helpline)",
+    "8171 SMS Service & Web Portal (8171.bisp.gov.pk)",
+    "Child Registration Certificate (NADRA B-Form)",
+    "Proxy Poverty Score (PMT Cutoff Threshold 32)"
+  ],
+  "lsiKeywords": [
+    "bisp registration center lahore near me",
+    "bisp office model town lahore address",
+    "bisp tehsil office cantt lahore contact number",
+    "bisp dynamic survey registration desk lahore",
+    "bisp shalimar office timing lahore",
+    "bisp regional office lahore contact number",
+    "bisp office johar town lahore address",
+    "bisp raiwind center location"
+  ],
+  "peopleAlsoAsk": [
+    "Where is the BISP head office located in Lahore?",
+    "What are the official working hours of BISP offices in Lahore?",
+    "What documents are needed for BISP dynamic survey registration in Lahore?",
+    "How can I register my family for Benazir Kafaalat at a Lahore Tehsil office?",
+    "Is there any fee charged for BISP survey at Lahore Tehsil centers?"
+  ]
+}

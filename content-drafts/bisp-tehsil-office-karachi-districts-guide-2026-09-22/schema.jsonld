@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-tehsil-office-karachi-districts-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/bisp-tehsil-office-karachi-districts-guide/"
+      },
+      "headline": "BISP Tehsil Office Karachi District List: Verified Centers Across All 7 Districts, Addresses & Helpline (2026)",
+      "description": "Verified BISP Tehsil Office Karachi district list: complete directory across Karachi East, West, South, Central, Malir, Korangi, Keamari, survey centers, and contact info.",
+      "image": "https://pakbenefits.com/images/bisp-tehsil-office-karachi.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "mainEntityOfPage": "https://pakbenefits.com/bisp-tehsil-office-karachi-districts-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://bisp.gov.pk"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-tehsil-office-karachi-districts-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is the main BISP Sindh Regional Office located in Karachi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BISP Sindh Regional Office is located at House # B-39, Block-11, Gulshan-e-Iqbal, Near NIPA, Karachi (Phone: 021-99333067)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many administrative districts have BISP offices in Karachi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP operates dynamic registration centers across all 7 administrative districts of Karachi: Central, East, South, West, Korangi, Malir, and Keamari."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP Tehsil Office for District Central Karachi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "District Central residents can visit BISP centers in Liaquatabad (near Super Market), North Nazimabad (Block H), or New Karachi (Sector 5-E)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which BISP office serves Korangi and Landhi residents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Korangi residents can access BISP registration centers at Bhittai Colony / Babar Market in Landhi, Korangi Industrial Area, and Shah Faisal Colony."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can South Karachi and Lyari residents register for BISP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Residents of Karachi South can visit the BISP Center near Civil Hospital and Lyari General Hospital in Old Golimar / Kharadar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP registration center for Keamari and Baldia Town?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Keamari district beneficiaries can visit the BISP Dynamic Registration Center located at the KMC Office Complex on Hub River Road, Baldia Town."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the official working hours of BISP offices in Karachi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP centers across Karachi operate Monday through Friday from 8:00 AM to 4:00 PM, with token issuance closing daily at 2:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for BISP survey registration in Karachi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must bring their original NADRA Smart CNIC, computerized child B-Forms, latest paid electricity/gas bill, and personal mobile phone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can elderly Karachi residents resolve fingerprint biometric failures at Tehsil offices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all Karachi Tehsil centers have Non-BVS desks where senior citizens and workers can submit fingerprint mismatch appeals for manual cash disbursement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the BISP toll-free helpline number for Karachi beneficiaries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Karachi beneficiaries can call the nationwide toll-free helpline at 0800-26477 without any fee from any mobile or landline network."
+          }
+        }
+      ]
+    }
+  ]
+}

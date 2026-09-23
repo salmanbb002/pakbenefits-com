@@ -1,0 +1,42 @@
+{
+  "focusKeyword": "bisp office rawalpindi addresses and contact number",
+  "searchIntent": "Navigational / Informational",
+  "tier1Entities": [
+    "Benazir Income Support Programme (BISP)",
+    "BISP Rawalpindi Divisional Office (Chaklala Scheme 3)",
+    "BISP Tehsil Office Gujar Khan (Munawarabad)",
+    "BISP Tehsil Office Taxila (Wahdat Colony)",
+    "BISP Tehsil Office Kahuta (PAF Road)",
+    "BISP Tehsil Office Kallar Syedan (Pindi Road)",
+    "BISP Tehsil Office Murree (Sunny Bank)",
+    "BISP Headquarters Islamabad (F-Block Pak Secretariat)",
+    "National Socio-Economic Registry (NSER Dynamic Registry)",
+    "National Database and Registration Authority (NADRA)"
+  ],
+  "tier2Entities": [
+    "Benazir Kafaalat (Rs 13,500 Quarterly Grant)",
+    "Benazir Taleemi Wazaif Education Stipends",
+    "Biometric Verification System (BVS) & Error 93/99 Resolution",
+    "0800-26477 (National Toll-Free Helpline)",
+    "8171 SMS Service & Web Portal (8171.bisp.gov.pk)",
+    "Child Registration Certificate (NADRA B-Form)",
+    "Proxy Means Test (PMT Cutoff Threshold 32)"
+  ],
+  "lsiKeywords": [
+    "bisp office rawalpindi contact number",
+    "bisp office chaklala scheme 3 rawalpindi address",
+    "bisp tehsil office gujar khan location",
+    "bisp office taxila address phone number",
+    "bisp registration center rawalpindi near me",
+    "bisp murree office address",
+    "bisp helpline number rawalpindi",
+    "bisp head office islamabad contact number"
+  ],
+  "peopleAlsoAsk": [
+    "What is the contact number of BISP office Rawalpindi?",
+    "Where is the BISP office located in Rawalpindi?",
+    "What are the office timings of BISP centers in Rawalpindi?",
+    "How can I register for BISP in Rawalpindi or Gujar Khan?",
+    "Where is BISP head office situated in Islamabad?"
+  ]
+}

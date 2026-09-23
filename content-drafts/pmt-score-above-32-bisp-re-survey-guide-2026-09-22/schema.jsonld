@@ -1,0 +1,207 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/pmt-score-above-32-bisp-re-survey-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/pmt-score-above-32-bisp-re-survey-guide/"
+      },
+      "headline": "PMT Score Above 32 BISP Re-Survey Guide: Official Procedure to Challenge Poverty Score and Re-Register (2026)",
+      "description": "Is your BISP PMT score above 32? Learn how to challenge an ineligible poverty score, qualify for the 2-year NSER dynamic re-survey, update family records, and re-apply.",
+      "image": "https://pakbenefits.com/images/pmt-score-above-32-bisp-re-survey.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "mainEntityOfPage": "https://pakbenefits.com/pmt-score-above-32-bisp-re-survey-guide/",
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "AdministrativeSystem",
+          "name": "National Socio-Economic Registry",
+          "sameAs": "https://bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "WebApplication",
+          "name": "8171 Web Portal",
+          "sameAs": "https://8171.bisp.gov.pk/"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Appeal and Request an NSER Re-Survey at the BISP Tehsil Desk",
+      "description": "Step-by-step procedure for female household heads to challenge an ineligible PMT score above 32 by requesting a dynamic re-survey at a local BISP Tehsil Office.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Visit Local BISP Tehsil Center",
+          "text": "Visit your local BISP Tehsil Office during official working hours between 8:00 AM and 4:00 PM."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Obtain Dynamic Registry Token",
+          "text": "Present the female applicant's original CNIC at the reception desk to collect an official survey token."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "NADRA Biometric Authentication",
+          "text": "Provide biometric thumbprint verification at the desk counter to validate identity against NADRA records."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Complete Household Interview",
+          "text": "Provide comprehensive, verifiable household socioeconomic information to the authorized enumerator."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Collect Acknowledgement Receipt",
+          "text": "Verify the digital summary on-screen and retain the stamped acknowledgement token receipt for 8171 tracking."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/pmt-score-above-32-bisp-re-survey-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I check my exact PMT score number online using my CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the official 8171 portal does not display your numerical PMT score publicly; it only shows whether your household is eligible, ineligible, or pending survey verification. To obtain your exact numeric score, you must visit your local BISP Tehsil Office and ask the desk officer to view your NSER profile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did my PMT score increase even though our family income stayed the same?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your score may have increased due to changes in household asset indicators, such as higher electricity bill consumption, registered vehicle purchases, or family members turning 18 and acquiring CNICs without registered dependents. Inflationary adjustments and algorithm recalibrations across national survey baselines can also alter relative rankings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an unmarried woman apply for a BISP re-survey if the family PMT is above 32?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Under standard BISP Kafaalat rules, unmarried adult women are not eligible as independent primary beneficiaries unless they are registered orphans or hold a certified disability CNIC. Cash transfers are targeted exclusively at ever-married women (married, widowed, or divorced) representing poor households."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a family member traveling abroad raise the PMT score above 32?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, international travel registered on any family member's CNIC in the NADRA database automatically elevates the household PMT score above the eligibility ceiling. Passports with overseas employment or tourist travel history are treated as strong indicators of non-poor socioeconomic status."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if the BISP computer system rejects my re-survey due to the 2-year rule?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If two years have not elapsed since your last survey and you have experienced a major qualifying life change (such as widowhood or disability), update your marital or disability status at NADRA first. Once your NADRA profile is officially updated, the BISP dynamic registry system will override the lock-in restriction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the NSER dynamic re-survey conducted at home or at the office?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Current NSER dynamic registry re-surveys are conducted exclusively at permanent BISP Tehsil Desks located at official government offices. Door-to-door survey teams are only deployed during special nationwide census drives, not for individual household appeal requests."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "If my PMT score drops to 30, when will I receive my first Kafaalat payment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Once your score successfully updates to 32 or below, you become eligible for the next quarterly disbursement cycle announced by BISP. Payments are not issued immediately on survey day; they follow scheduled government fiscal quarters."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can having a utility bill in a landlord's name affect my PMT score?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, presenting an electricity bill with high unit consumption—even if rented—can adversely influence your calculated score because the algorithm associates the meter's consumption with your living standard. If renting, ensure you clarify your shared tenancy status with the enumerator during the interview."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the PMT score cutoff for the Taleemi Wazaif education stipend?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The PMT score cutoff for Benazir Taleemi Wazaif is 35 or below, provided the mother is an enrolled Kafaalat beneficiary. Families slightly above the 32 Kafaalat threshold may still qualify for child education grants if their score remains under 35."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I lodge a complaint if a BISP office refuses to conduct my valid re-survey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If an official refuses your re-survey despite completing the two-year waiting period or having valid exemption documents, register an official grievance by calling the BISP toll-free helpline at 0800-26477 or file a complaint on the Pakistan Citizen Portal (PCP) app under the BISP category."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "NSER Survey & PMT Score",
+          "item": "https://pakbenefits.com/nser-pmt-score/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PMT Score Above 32 BISP Re-Survey Guide",
+          "item": "https://pakbenefits.com/pmt-score-above-32-bisp-re-survey-guide/"
+        }
+      ]
+    }
+  ]
+}

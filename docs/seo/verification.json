@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-22T06:47:59.897Z",
+  "checkedAt": "2026-09-22T19:32:17.481Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 92,
+  "routeCount": 97,
   "failures": [],
   "pending": [],
   "pages": [
@@ -144,6 +144,32 @@
         "WebSite",
         "BreadcrumbList",
         "CollectionPage",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/pmt-score-above-32-bisp-re-survey-guide/",
+      "title": "PMT Score Above 32 BISP Re-Survey Guide: Lower Score & Re-Apply (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 168,
+      "editorialWords": 1770,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-agent-deduction-complaint-retailer-penalty/",
+      "title": "BISP Agent Deduction Complaint & Retailer Penalty Guide (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 166,
+      "editorialWords": 1491,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
         "FAQPage"
       ]
     },
@@ -1095,6 +1121,45 @@
       "title": "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477 Guide | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 165,
       "editorialWords": 898,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-tehsil-office-lahore-addresses-guide/",
+      "title": "BISP Tehsil Office Lahore List & Addresses: 2026 Directory | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 158,
+      "editorialWords": 1809,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-office-rawalpindi-addresses-guide/",
+      "title": "BISP Office Rawalpindi Addresses & Contact Number (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 171,
+      "editorialWords": 1396,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-tehsil-office-karachi-districts-guide/",
+      "title": "BISP Tehsil Office Karachi District List (2026 Directory) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 171,
+      "editorialWords": 1525,
       "schemaTypes": [
         "Organization",
         "WebSite",

@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-office-rawalpindi-addresses-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/bisp-office-rawalpindi-addresses-guide/"
+      },
+      "headline": "BISP Office Rawalpindi Addresses and Contact Number: Tehsil Directory, Dynamic Survey Desks & Helpline (2026)",
+      "description": "Verified BISP office Rawalpindi addresses and contact number guide: Chaklala, Gujar Khan, Taxila, Kahuta, Murree, Kallar Syedan centers, phone numbers, and survey timings.",
+      "image": "https://pakbenefits.com/images/bisp-office-rawalpindi.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "mainEntityOfPage": "https://pakbenefits.com/bisp-office-rawalpindi-addresses-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://bisp.gov.pk"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-office-rawalpindi-addresses-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official address of the main BISP office in Rawalpindi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The main BISP Divisional Office in Rawalpindi is located at House # 805-A, Street # 01, Chaklala Scheme 3, Rawalpindi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the contact number for the BISP Rawalpindi office?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BISP Rawalpindi Divisional Office can be contacted at 051-9280453, or through the national toll-free helpline at 0800-26477."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP Tehsil Office located in Gujar Khan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BISP Tehsil Office in Gujar Khan is situated at Ward No. 12, Munawarabad, Near Sarwar Shaheed College, Gujar Khan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can residents of Taxila visit for BISP registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taxila residents can visit the BISP Tehsil Office located opposite the Police Station in Wahdat Colony, Taxila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the operating hours of BISP offices in Rawalpindi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP offices in Rawalpindi operate from 8:00 AM to 4:00 PM, Monday through Friday, with token distribution ending at 2:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP office in Murree located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BISP Murree Tehsil Office is located at Walker Estate, Near Ara Machine, Sunny Bank, Murree."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for BISP registration in Rawalpindi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You must bring your original NADRA CNIC, computerized child B-Forms, a recent household electricity bill, and an active mobile phone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP Federal Headquarters in Islamabad located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP Federal Headquarters is located at F-Block, Pak Secretariat, Islamabad, reachable by phone at 051-9246326."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I solve biometric fingerprint mismatch at Rawalpindi Tehsil offices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Rawalpindi Tehsil offices feature designated Non-BVS desks to record fingerprint failure complaints and submit biometric bypass approvals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee charged for the BISP dynamic survey in Rawalpindi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, all NSER surveys, tokens, and registration services at BISP centers in Rawalpindi are completely free of charge."
+          }
+        }
+      ]
+    }
+  ]
+}

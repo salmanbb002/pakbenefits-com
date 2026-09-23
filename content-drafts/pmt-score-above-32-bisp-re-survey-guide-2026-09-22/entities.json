@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "canonical": "Benazir Income Support Programme",
+      "type": "GovernmentOrganization",
+      "aliases": ["BISP", "Benazir Programme", "Ehsaas Kafaalat"],
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "National Socio-Economic Registry",
+      "type": "AdministrativeSystem",
+      "aliases": ["NSER", "NSER Dynamic Registry", "NSER Survey"],
+      "sameAs": "https://bisp.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Proxy Means Test Score",
+      "type": "Metric",
+      "aliases": ["PMT Score", "PMT Poverty Ranking", "Poverty Score"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "National Database and Registration Authority",
+      "type": "GovernmentOrganization",
+      "aliases": ["NADRA", "NADRA Database"],
+      "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": false,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "8171 Web Portal",
+      "type": "WebApplication",
+      "aliases": ["8171 Portal", "8171.bisp.gov.pk", "8171 SMS Gateway"],
+      "sameAs": "https://8171.bisp.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Benazir Kafaalat",
+      "type": "GovernmentBenefit",
+      "aliases": ["BISP Kafaalat", "Kafaalat Cash Transfer"],
+      "sameAs": "https://bisp.gov.pk/Kafaalat",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "BISP Tehsil Dynamic Registry Desk",
+      "type": "CivicStructure",
+      "aliases": ["BISP Tehsil Office", "NSER Registration Desk", "Tehsil Center"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": "Tier 2"
+    },
+    {
+      "canonical": "Benazir Taleemi Wazaif",
+      "type": "GovernmentBenefit",
+      "aliases": ["Taleemi Wazaif", "BISP Education Stipend"],
+      "sameAs": "https://bisp.gov.pk/TaleemiWazaif",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": "Tier 2"
+    },
+    {
+      "canonical": "Poverty Cutoff Threshold",
+      "type": "QuantitativeValue",
+      "aliases": ["Cutoff 32", "Eligibility Threshold", "Poverty Score 37"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Two-Year Mandatory Waiting Lock-in",
+      "type": "AdministrativeRule",
+      "aliases": ["2-Year Re-survey Rule", "Lock-in Period", "Two Year Waiting Period"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": "Tier 2"
+    }
+  ]
+}

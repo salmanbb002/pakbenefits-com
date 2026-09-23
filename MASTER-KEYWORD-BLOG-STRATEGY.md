@@ -180,7 +180,7 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | 11. Payment & Balance Check | 7 | ✅ Covered & Published |
 | 12. Punjab Rozgar Scheme | 5 | ✅ Covered & Published |
 | 13. Urdu/Roman Urdu Layer | 3+ | ✅ Active (`8171-check-online-kaise-karein`, `bisp-registration-check-by-cnic-kaise-karein`, `bisp-8171-balance-check-online-kaise-karein`) |
-| **Total Tracked** | **258** | **226 Published / 27 Covered by design / 5 Planned (Next)** |
+| **Total Tracked** | **258** | **231 Published / 27 Covered by design / 0 Planned (All Phases Complete)** |
 
 ## Roadmap
 
@@ -227,10 +227,10 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 - `punjab-solar-tube-well-scheme-2026-online-apply` (cmstp.punjab.gov.pk 67% subsidy agricultural solar conversion)
 - `kisan-card-8070-pin-verification-bop-activation` (BOP ATM biometric PIN activation & POS subsidized fertilizer purchases)
 
-**Phase 9 — Next in Pipeline (Remaining Execution Queue):**
-1. `bisp tehsil office lahore list and addresses` (Lahore BISP & NADRA desk directory)
-2. `bisp office rawalpindi addresses and contact number` (Rawalpindi/Islamabad directory)
-3. `bisp tehsil office karachi district list` (Karachi 7 districts BISP office directory)
-4. `pmt score above 32 bisp re survey guide` (Poverty score challenge & NSER re-survey)
-5. `bisp agent deduction complaint 8171 retailer penalty` (Retailer deduction reporting & 0800-26477)
+**Phase 9 — Metropolitan Tehsil Office Directories & Final Execution Queue (Published 22 Sep 2026):**
+- `bisp-tehsil-office-lahore-addresses-guide` (Verified directory of BISP Tehsil Offices & dynamic survey registration desks in Lahore)
+- `bisp-office-rawalpindi-addresses-guide` (Verified directory of Rawalpindi & Islamabad district BISP offices and contact channels)
+- `bisp-tehsil-office-karachi-districts-guide` (Verified directory of Karachi division BISP centers across all 7 districts: East, West, South, Central, Malir, Korangi, Keamari)
+- `pmt-score-above-32-bisp-re-survey-guide` (Official procedure to challenge poverty cutoff score >32 & request NSER dynamic re-survey)
+- `bisp-agent-deduction-complaint-retailer-penalty` (Anti-fraud guide to reporting fee cuts, retailer blacklisting, 0800-26477 complaint filing & full cash recovery)
 

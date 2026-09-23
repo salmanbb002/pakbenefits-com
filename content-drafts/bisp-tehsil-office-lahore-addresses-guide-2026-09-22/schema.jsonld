@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-tehsil-office-lahore-addresses-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/bisp-tehsil-office-lahore-addresses-guide/"
+      },
+      "headline": "BISP Tehsil Office Lahore List and Addresses: Verified Dynamic Survey Centers & Regional Directory (2026)",
+      "description": "Verified BISP Tehsil Office Lahore list and addresses: Model Town, Lahore Cantt, Shalimar, Raiwind, City desks, dynamic survey centers, timings, and helpline.",
+      "image": "https://pakbenefits.com/images/bisp-tehsil-office-lahore.jpg",
+      "datePublished": "2026-09-22T08:00:00+05:00",
+      "dateModified": "2026-09-22T08:00:00+05:00",
+      "mainEntityOfPage": "https://pakbenefits.com/bisp-tehsil-office-lahore-addresses-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://bisp.gov.pk"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-tehsil-office-lahore-addresses-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is the main BISP Regional Office located in Lahore?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BISP Punjab Regional Office is located at 48-L, Model Town Extension, Lahore, reachable by phone at 042-35219118."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the official working hours of BISP offices in Lahore?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP Tehsil Offices in Lahore operate Monday through Friday from 8:00 AM to 4:00 PM, with token distribution closing at 2:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any registration fee for the BISP survey in Lahore?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, all NSER dynamic survey registration and profile updates at Lahore BISP Tehsil Offices are 100% free of cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can residents of Model Town and Township register for BISP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Residents can visit the Model Town Tehsil Office at 277/16, B-1, Township, College Road, or the center at Government Boys High School, Township Main Market."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which BISP office serves Lahore Cantt and Bedian Road residents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lahore Cantt residents are served by the BISP Tehsil Office on Gujjar Pura Road in Aziz Bhatti Town, as well as dynamic centers at Lidhar and PKLI Bedian Road."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for the BISP dynamic survey in Lahore?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must bring their original NADRA CNIC, computerized Child Registration Certificates (B-Forms), a recent electricity/gas bill, and an active mobile phone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I solve biometric fingerprint verification failure at a Lahore Tehsil office?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Lahore Tehsil Offices have designated Non-BVS desks to submit fingerprint mismatch applications and refer beneficiaries for authorized manual payment processing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP Tehsil Office for Shalimar and Harbanspura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Shalimar Tehsil Dynamic Registration Center is situated at Government Muslim High School, Gawala Mandi, Harbanspura, Lahore."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I enroll my school-going children in Benazir Taleemi Wazaif in Lahore?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit your local Lahore Tehsil Office with your children's NADRA B-Forms and school admission slips signed and stamped by the school headmaster."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official BISP toll-free helpline number for Lahore residents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official nationwide toll-free helpline for BISP inquiries, complaints, and center directions is 0800-26477."
+          }
+        }
+      ]
+    }
+  ]
+}

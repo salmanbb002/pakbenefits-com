@@ -26,7 +26,11 @@ const server = createServer(async (req, res) => {
     if ((await stat(file)).isDirectory()) file = resolve(file, 'index.html');
     res.writeHead(200, { 'Content-Type': types[extname(file)] || 'application/octet-stream' });
     res.end(await readFile(file));
-  } catch { res.writeHead(404, { 'Content-Type': 'text/html' }); res.end(await readFile(resolve(output, '404.html'))); }
+  } catch {
+    res.writeHead(404, { 'Content-Type': 'text/html' });
+    const notFound = await readFile(resolve(output, '404.html')).catch(() => readFile(resolve(output, '_not-found/index.html'))).catch(() => '404 Not Found');
+    res.end(notFound);
+  }
 });
 if (!live) await new Promise((done, reject) => { server.once('error', reject); server.listen(0, '127.0.0.1', done); });
 const base = live ? 'https://pakbenefits.com' : `http://127.0.0.1:${server.address().port}`;
@@ -54,6 +58,8 @@ try {
   }
   browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
+  await context.route('**/*googlesyndication.com/**', route => route.abort());
+  await context.route('**/*doubleclick.net/**', route => route.abort());
   const page = await context.newPage();
   const browserErrors = [];
   page.on('pageerror', error => browserErrors.push(error.message));

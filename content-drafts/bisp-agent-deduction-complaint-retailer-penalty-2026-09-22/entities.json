@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "canonical": "Benazir Income Support Programme",
+      "type": "GovernmentOrganization",
+      "aliases": ["BISP", "Benazir Kafaalat Programme", "BISP Central Administration"],
+      "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Point of Sale Biometric Retailer",
+      "type": "Organization",
+      "aliases": ["BISP Retailer", "POS Agent", "BISP Franchise Shopkeeper", "Franchise Agent"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "BISP Toll-Free Helpline 0800-26477",
+      "type": "ContactPoint",
+      "aliases": ["0800-26477", "BISP Toll-Free Number", "BISP Complaint Helpline"],
+      "sameAs": "https://bisp.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Retailer Penalty and Device Blocking",
+      "type": "AdministrativeSanction",
+      "aliases": ["Retailer Blacklisting", "POS Deactivation", "Device Freeze", "Retailer Penalty"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Habib Bank Limited",
+      "type": "FinancialInstitution",
+      "aliases": ["HBL", "HBL Konnect", "Konnect Franchise"],
+      "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Bank Alfalah",
+      "type": "FinancialInstitution",
+      "aliases": ["Alfalah", "Bank Alfalah Islamic"],
+      "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Federal Investigation Agency Cyber Crime Wing",
+      "type": "GovernmentOrganization",
+      "aliases": ["FIA", "FIA Cyber Crime", "1991 Helpline"],
+      "sameAs": "https://en.wikipedia.org/wiki/Federal_Investigation_Agency",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": "Tier 2"
+    },
+    {
+      "canonical": "Pakistan Citizen Portal",
+      "type": "WebApplication",
+      "aliases": ["PCP", "Citizen Portal App"],
+      "sameAs": "https://citizenportal.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": "Tier 2"
+    },
+    {
+      "canonical": "Rs. 13,500 Quarterly Tranche",
+      "type": "MonetaryAmount",
+      "aliases": ["13500 Kafaalat Payment", "Full Disbursement Amount"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": "Tier 1"
+    },
+    {
+      "canonical": "Biometric ATM Cash Withdrawal",
+      "type": "FinancialService",
+      "aliases": ["Biometric ATM", "ATM Cash Collection", "HBL ATM Withdrawal"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": "Tier 2"
+    }
+  ]
+}

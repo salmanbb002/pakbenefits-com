@@ -1,0 +1,44 @@
+{
+  "focusKeyword": "bisp tehsil office karachi district list",
+  "searchIntent": "Navigational / Informational",
+  "tier1Entities": [
+    "Benazir Income Support Programme (BISP)",
+    "BISP Sindh Regional Office (Gulshan-e-Iqbal Block 11, Karachi)",
+    "District Karachi Central (Liaquatabad & North Nazimabad)",
+    "District Karachi East (Gulshan-e-Iqbal & Jamshed Town)",
+    "District Karachi South (Saddar, Lyari & Clifton)",
+    "District Karachi West (Orangi Town & Manghopir)",
+    "District Keamari (Baldia Town & Mauripur)",
+    "District Korangi (Landhi & Korangi Industrial Area)",
+    "District Malir (Gadap Town & Bin Qasim)",
+    "National Socio-Economic Registry (NSER Dynamic Registry)",
+    "National Database and Registration Authority (NADRA)"
+  ],
+  "tier2Entities": [
+    "Benazir Kafaalat (Rs 13,500 Quarterly Cash Transfer)",
+    "Benazir Taleemi Wazaif Education Stipends",
+    "Benazir Nashonuma Nutrition Desks (Sindh)",
+    "Biometric Verification System (BVS) & Non-BVS Bypass Form",
+    "0800-26477 (National Toll-Free Helpline)",
+    "8171 SMS Code & Online Verification Portal (8171.bisp.gov.pk)",
+    "Child Registration Certificate (NADRA B-Form)",
+    "Proxy Means Test (PMT Cutoff Score 32)"
+  ],
+  "lsiKeywords": [
+    "bisp office karachi district central address",
+    "bisp office korangi landhi contact number",
+    "bisp center lyari south karachi address",
+    "bisp registration center karachi near me",
+    "bisp malir office location",
+    "bisp orangi town center address",
+    "bisp baldia center keamari district",
+    "bisp sindh regional office karachi phone number"
+  ],
+  "peopleAlsoAsk": [
+    "Where is BISP regional office situated in Karachi?",
+    "How many BISP districts are there in Karachi?",
+    "Where is the BISP registration office in District Central Karachi?",
+    "What documents are needed for BISP survey in Karachi?",
+    "What are the office timings of BISP Tehsil centers in Karachi?"
+  ]
+}
