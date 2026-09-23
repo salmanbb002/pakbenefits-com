@@ -1,0 +1,217 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/"
+      },
+      "headline": "Ehsaas Undergraduate Scholarship 2026 Online Apply: HEC Portal Check, 100% Tuition Fee & Rs 4,000 Stipend Guide",
+      "description": "Apply for HEC Ehsaas Undergraduate Scholarship 2026 online. Step-by-step guide to portal registration, eligibility, 100% tuition fee, and Rs 4,000 monthly stipend.",
+      "inLanguage": "en-US",
+      "mainEntityOfPage": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/",
+      "datePublished": "2026-09-23T00:00:00+05:00",
+      "dateModified": "2026-09-23T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Higher Education & Social Welfare Researcher",
+        "url": "https://pakbenefits.com/authors/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/images/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "EducationalOccupationalProgram",
+          "name": "HEC Ehsaas Undergraduate Scholarship Project",
+          "url": "https://ehsaas.hec.gov.pk/",
+          "programType": "Higher Education Grant",
+          "provider": {
+            "@type": "GovernmentOrganization",
+            "name": "Higher Education Commission of Pakistan",
+            "sameAs": "https://en.wikipedia.org/wiki/Higher_Education_Commission_(Pakistan)"
+          }
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Federal Education and Professional Training"
+        },
+        {
+          "@type": "FinancialProduct",
+          "name": "Higher Education Living Stipend"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "p:first-of-type",
+          ".direct-answer-block"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Taleemi Wazaif",
+          "item": "https://pakbenefits.com/taleemi-wazaif/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ehsaas Undergraduate Scholarship Online Apply",
+          "item": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/#howto-apply",
+      "name": "How to Apply for HEC Ehsaas Undergraduate Scholarship Online",
+      "description": "Step-by-step instructions to create an HEC e-portal account and submit the online undergraduate scholarship application.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Register on HEC Portal",
+          "text": "Visit ehsaas.hec.gov.pk or scholarships.hec.gov.pk and create an account with your CNIC, email, and mobile number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Fill Personal and Academic Information",
+          "text": "Enter your educational grades (Matric, Inter), degree program details, and university registration number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Complete Financial Assessment",
+          "text": "Declare father/guardian income, household monthly utility bills, rent expenses, and sibling education costs."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Submit and Print Application",
+          "text": "Submit the online form and print the PDF application docket."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Submit to University Financial Aid Office",
+          "text": "Attach attested income certificates and utility bills and submit the physical docket to your university FAO for ISAC interview scrutiny."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/ehsaas-undergraduate-scholarship-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the monthly stipend amount for the HEC Ehsaas Undergraduate Scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The monthly stipend amount is Rs. 4,000 per month, totaling Rs. 40,000 to Rs. 50,000 per academic year, paid directly to the student's bank account in addition to 100% full university tuition fee reimbursement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can students in private universities apply for the Ehsaas Undergraduate Scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the Ehsaas Undergraduate Scholarship is strictly restricted to regular undergraduate students enrolled in 135+ HEC-recognized public sector universities and degree awarding institutions across Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the family income limit to qualify for the Ehsaas Scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The general family monthly income threshold is under Rs. 45,000 per month, though students from households earning up to Rs. 60,000 may be considered by university committees if they have large family sizes or high medical expenses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I apply for the HEC Ehsaas Scholarship online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can apply online by creating an applicant profile on the official HEC portal at ehsaas.hec.gov.pk, completing the academic and financial need assessment sections, and submitting the printed form with supporting documents to your university Financial Aid Office."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a quota reserved for female students in this scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, exactly 50% of all 50,000 annual scholarships are legally reserved for female undergraduate students across all academic disciplines to promote women's higher education."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can 2nd year or 3rd year university students apply for a new scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, new scholarship applications are accepted exclusively from undergraduate students enrolled in their 1st or 2nd semester (first year). Continuing students in higher semesters cannot apply for new awards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are evening or self-finance students eligible for the scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, students enrolled in evening programs, weekend shifts, self-finance seats, or executive programs are not eligible; the scholarship covers only regular morning open-merit students."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for the university ISAC interview?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You must bring original CNICs/B-Forms, original paid utility bills, original attested Union Council income certificate, rent agreement (if applicable), and semester fee vouchers to the ISAC interview."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply if I am already receiving another scholarship like PEEF?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, holding dual scholarships is strictly prohibited under HEC guidelines. If you are awarded the HEC Ehsaas Scholarship, you must surrender any other ongoing provincial or private scholarship."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the Ehsaas Undergraduate Scholarship last?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The scholarship covers the entire 4-year or 5-year duration of your undergraduate degree program, provided you maintain minimum passing CGPA standards and continuous semester enrollment."
+          }
+        }
+      ]
+    }
+  ]
+}

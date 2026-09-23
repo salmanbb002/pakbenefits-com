@@ -17951,6 +17951,796 @@ export const articles: Article[] = [
       }
     ]
   }
+,
+  {
+    slug: "bisp-atm-se-paise-nikalwane-ka-tarika",
+    title: "BISP ATM Se Paise Nikalwane Ka Tarika: HBL Konnect Aur Bank Alfalah Biometric ATM Cash Withdrawal (2026)",
+    excerpt: "BISP ATM se paise nikalne ke liye kisi bhi qareebi HBL ya Bank Alfalah biometric ATM par jayen, touch screen par 'Urdu' aur 'BISP/Ehsaas Cash' muntakhib karein, apna 13-hinson ka CNIC number enter karein, biometric scanner par angootha laga kar tasdeeq karein, aur bina kisi agent kataoti ke apni poori Rs. 13,500 qist wasool karein.",
+    showExcerpt: true,
+    metaTitle: "BISP ATM Se Paise Nikalne Ka Tarika 2026: HBL & Bank Alfalah",
+    metaDescription: "BISP ATM se paise nikalne ka mukammal tarika: HBL Konnect aur Bank Alfalah BVS ATMs se bina card fingerprint laga kar Rs 13500 baghair kataoti wasool karein.",
+    focusKeyword: "bisp atm se paise kaise nikale",
+    lsiKeywords: [
+      "hbl konnect bisp biometric atm withdrawal",
+      "bank alfalah bisp atm cash collection",
+      "bisp atm cardless withdrawal",
+      "bisp biometric fingerprint atm hbl",
+      "bisp atm se paise nikalne ka tarika 2026",
+      "bisp agent kataoti se bachne ka tarika"
+    ],
+    entities: [
+      "Benazir Income Support Programme (BISP)",
+      "Habib Bank Limited (HBL)",
+      "Bank Alfalah",
+      "Biometric Verification System (BVS)",
+      "Rs. 13,500 Quarterly Tranche",
+      "8171 SMS Service",
+      "NADRA Biometric Verification"
+    ],
+    primaryCategory: "payment-check",
+    categorySlugs: [
+      "payment-check",
+      "benazir-kafaalat",
+      "news"
+    ],
+    date: "September 23, 2026",
+    publishedDate: "September 23, 2026",
+    lastChecked: "September 23, 2026",
+    readTime: "8 min read",
+    image: "/images/bisp-atm-withdrawal.jpg",
+    imageAlt: "BISP beneficiary withdrawing cash from HBL biometric ATM using fingerprint verification without card",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "BISP ATM Se Paise Kaise Nikale? (Direct Biometric Answer)",
+        paragraphs: [
+          "Benazir Income Support Programme (BISP) ki qist baghair kisi private retailer ya shopkeeper ki ghair-qanooni kataoti ke wasool karne ka behtareen aur mehfooz zariya Biometric Automated Teller Machine (ATM) hai. Hakoomat-e-Pakistan ne lab-e-saahil aur shehri ilaqon mein biometric ATMs ko BISP aur NADRA ke live verification system ke sath munsalik kar diya hai taake mustahiq khawateen ko unka poora haq (Rs. 13,500) baghair kisi transaction fee ke mile.",
+          "Jab aap ke registered mobile number par 8171 se raqam ki muntaqili ka tasdeeqi paigham masool ho, toh aap ko plastic debit card ya ATM card ki zaroorat nahi hoti. Sirf apna Asal Computerized Shanakhti Card (CNIC) lekar apne sobai partner bank ke biometric ATM branch tashreef le jayen aur cardless screen menu ke zariye cash wasool karein."
+        ],
+        links: [
+          {
+            label: "BISP 8171 balance check online guide",
+            href: "/bisp-8171-balance-check-online-kaise-karein/"
+          },
+          {
+            label: "BISP retailer illegal deduction complaint guide",
+            href: "/bisp-agent-deduction-complaint-retailer-penalty/"
+          }
+        ]
+      },
+      {
+        title: "Province-Wise BISP Partner Bank ATM Allocation Matrix",
+        paragraphs: [
+          "BISP ne transaction load aur bank operations ko behtar banane ke liye sobon ke lehaaz se mukhtas partner banks taaiyun kiye hain. Ghalat bank ke ATM par jane se biometric verification nahi hogi:"
+        ],
+        table: {
+          caption: "BISP Partner Bank Regional ATM Allocation Matrix (2026)",
+          headers: ["Subah / Khitta (Region)", "Designated Partner Bank", "ATM Technology", "Biometric Network"],
+          rows: [
+            ["Punjab", "Habib Bank Limited (HBL)", "BVS Biometric Touch ATM", "HBL Konnect Banking System"],
+            ["Sindh", "Habib Bank Limited (HBL)", "BVS Biometric Touch ATM", "HBL Konnect Branch Network"],
+            ["Balochistan", "Habib Bank Limited (HBL)", "BVS Biometric Touch ATM", "HBL Konnect Express Hubs"],
+            ["Khyber Pakhtunkhwa (KP)", "Bank Alfalah Limited", "BVS Biometric Screen ATM", "Alfalah Islamic & Digital BVS"],
+            ["Azad Jammu & Kashmir (AJK)", "Bank Alfalah Limited", "BVS Biometric Screen ATM", "Bank Alfalah Branchless BVS"],
+            ["Gilgit-Baltistan (GB)", "Bank Alfalah Limited", "BVS Biometric Screen ATM", "Bank Alfalah Biometric Units"],
+            ["Islamabad Capital Territory", "HBL / Bank Alfalah (Designated)", "BVS Biometric ATM", "Direct Central BISP Switch"]
+          ]
+        }
+      },
+      {
+        title: "HBL Konnect ATM Se BISP Ke Paise Nikalne Ka Step-by-Step Tarika",
+        paragraphs: [
+          "HBL biometric ATM machine se baghair ATM card ke BISP Kafaalat raqam nikalne ka mukammal tareeqa darj zail hai:"
+        ],
+        bullets: [
+          "ATM Booth Mein Dakhil Hon Aur Screen Touch Karein: Kisi bhi HBL Biometric ATM par jayen. Agar screen par normal standby screen hai, toh screen ko touch karein ya green button (Enter) dabayein taake Main Menu khul jaye.",
+          "Zaban Muntakhib Karein: Screen par do zabanon ke ikhtiyarat aayenge (English aur Urdu). Asani ke liye Urdu par click karein.",
+          "BISP / Ehsaas Option Ka Intikhab: Screen ke dayen ya bayen janib 'BISP' ya 'Ehsaas Programme Biometric Withdrawal' ka button nazar aayega, us par click karein.",
+          "13-Hinson Ka CNIC Number Enter Karein: Screen par numeric keypad ya ATM buttons ki madad se mustahiq khatoon ka 13-hinson ka Shanakhti Card number baghair kisi dash (-) ke type karein (maslan: 3520112345671) aur 'Darust' (Correct) ka button dabayein.",
+          "Biometric Scanner Par Angootha Rakhein: Screen par fingerprint scan ka ishara aayega. ATM machine ke sath lage sabz scanner par apna dayen ya bayen haath ka angootha (ya registered ungli) saaf karke seedha rakhein.",
+          "NADRA Tasdeeq Ka Intezar Karein: 3 se 5 seconds ke andar machine NADRA database se aap ke fingerprint ki tasdeeq karegi.",
+          "Raqam Ka Intikhab Karein (Rs. 13,500): Tasdeeq hone ke baad screen par aap ka balance aur 'Raqam Ki Wasooli' (Cash Withdrawal) ka option aayega. Full amount Rs. 13,500 muntakhib karein.",
+          "Cash Aur Raseed Wasool Karein: Machine ke cash dispenser slot se 13,500 rupay cash bahar aayega. Cash ginein aur machine se nikalne wali printed slip zaroor hasil karein."
+        ]
+      },
+      {
+        title: "Bank Alfalah Biometric ATM Se BISP Cash Collection Ka Tarika",
+        paragraphs: [
+          "Bank Alfalah ke biometric ATMs se cash nikalne ka amal nihayat aasan aur mehfooz hai:"
+        ],
+        bullets: [
+          "Bank Alfalah BVS enabled ATM screen par ja kar 'Biometric / Cardless Transactions' ka icon tap karein.",
+          "Menu se 'BISP Cash Collection' muntakhib karein.",
+          "Apna 13-hinson ka CNIC number screen par darj karein aur 'Confirm' dabayein.",
+          "Biometric scanner roshan hone par apna angootha scanner ki satah par mazbooti se rakhein.",
+          "Screen par 'Benazir Kafaalat Payment' ki tasdeeq dekh kar 'Cash Withdrawal' par click karein.",
+          "Amount field mein Rs. 13,500 muntakhib karein ya custom amount mein 13,500 darj karein.",
+          "Machine se taaza currency notes aur transaction receipt wasool karein."
+        ]
+      },
+      {
+        title: "POS Retailer Banam Biometric ATM: Kataoti Se Bachne Ka Mawazna",
+        paragraphs: [
+          "Bohot se beneficiaries dukanon par franchise agents ke paas jate hain jahan agent 500 se 1,500 rupay tak ki ghair-qanooni kataoti kar lete hain. Neeche diye gaye mawaznay se wazeh hota hai ke ATM istemal karna kyun behtar hai:"
+        ],
+        table: {
+          caption: "Retailer Agent vs Biometric ATM Service Comparison",
+          headers: ["Khusoosiyat / Feature", "Private POS Retailer / Shop", "Official Biometric ATM (HBL / Alfalah)"],
+          rows: [
+            ["Fee / Kataoti", "Rs. 500 ta Rs. 1,500 ghair-qanooni cut", "Rs. 0 (100% Free & Zero Deduction)"],
+            ["Net Cash Handover", "Rs. 12,000 ta Rs. 13,000 (Naqas)", "Mukammal Rs. 13,500 (Poori Raqam)"],
+            ["Printed Official Slip", "Aksar dukan-dar raseed phaar dete hain", "Official Bank Machine Slip lazmi milti hai"],
+            ["Awami Rush Aur Intezar", "Lambi qatarein aur zillat", "Pur-sukoon air-conditioned ATM booth"],
+            ["Dastiyabi (Timing)", "Subah 10 baje se shaam 5 baje tak", "24 Ghante, 7 Din (24/7 Available)"],
+            ["Fraud Ka Khatra", "Device block hone aur scam ka khatra", "100% Mehfooz Bank Central Server Link"]
+          ]
+        },
+        links: [
+          {
+            label: "BISP biometric verification failed solution",
+            href: "/bisp-biometric-verification-failed/"
+          },
+          {
+            label: "BISP payment approved but no cash received fix",
+            href: "/bisp-payment-approved-but-no-cash-received/"
+          }
+        ]
+      },
+      {
+        title: "BISP ATM Biometric Errors Aur Unka Fauri Hal (Fingerprint & Cash Issues)",
+        paragraphs: [
+          "Agar ATM par paise nikalte waqt koi rukawat pesh aaye, toh ghabrane ki zaroorat nahi:"
+        ],
+        bullets: [
+          "Biometric Fingerprint Mismatch (Error 93 ya Error 99): Haathon ko dho kar achi tarah saaf karein aur halka sa moisturize karein. ATM scanner par angoothe ko halka sa daba kar center mein rakhein. Agar musalsal 3 baar fail ho jaye toh doosri ungli (index finger) aazmayen.",
+          "Temporary Technical Issue / Cardless System Down: Bank server ya NADRA live link down hone par 15 se 20 minute intezar karein ya qareebi doosri branch ke ATM par chale jayen.",
+          "ATM Cash Retained / Slip Nikli Magar Cash Nahi Mila: Fauri taur par ATM booth ke guard ko mutala karein, printed slip apne paas rakhein, bank manager ko application dein, aur BISP helpline 0800-26477 par shikayat darj karwayen."
+        ]
+      },
+      {
+        title: "ATM Par Paise Nikalte Waqt Zaroori Hifazati Tadabeer (Safety Tips)",
+        paragraphs: [
+          "ATM istemal karte waqt in ahem baton ka khas khayal rakhein:"
+        ],
+        bullets: [
+          "Kisi Ajnabi Ko CNIC Ya Fingerprint Na Dein: ATM booth ke andar sirf mustahiq khatoon ya unka qabil-e-aitimad mehram dakhil ho.",
+          "Bank Guard Ki Madad Lein: Agar screen samajh na aa rahi ho toh bahir khade kisi private bande ke bajaye sirf uniformed bank security guard se madad lein.",
+          "Raseed Phenk Kar Na Aayein: ATM se nikalne wali transaction slip ko hamesha apne paas mehfooz rakhein.",
+          "8171 SMS Ki Tasdeeq: ATM se cash nikalte hi aap ke mobile par 8171 se raqam nikalne ka SMS aayega."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Kya BISP ke paise nikalne ke liye plastic ATM card hona zaroori hai?",
+        answer: "Nahi, BISP Kafaalat ke paise nikalne ke liye kisi plastic ATM debit card ki zaroorat nahi hoti. Yeh service mukammal taur par cardless biometric system par munhasir hai jahan sirf aap ka CNIC number aur angootha kafi hota hai."
+      },
+      {
+        question: "HBL ATM se BISP ke paise nikalne par bank kitni fees kat-ta hai?",
+        answer: "HBL ya Bank Alfalah biometric ATM se BISP raqam nikalne par bilkul zero fee kat-ti hai. Yeh service Hakoomat-e-Pakistan ki taraf se mustahiqeen ke liye 100% muft faraham ki gayi hai."
+      },
+      {
+        question: "Agar ATM par angootha match na ho toh kya karna chahiye?",
+        answer: "Agar ATM par angootha tasdeeq na ho, toh haathon ko saaf karke doosri ungli se koshish karein. Agar phir bhi masla barqarar rahe toh BISP Tehsil Office ja kar BVS verification update karwayen ya designated bank counter se manual verification karwayen."
+      },
+      {
+        question: "Punjab aur Sindh ke ilaqon mein kis bank ke ATM par jana hoga?",
+        answer: "Punjab, Sindh aur Balochistan ke mustahiqeen ko Habib Bank Limited (HBL) ke biometric ATMs par jana hoga."
+      },
+      {
+        question: "KPK, Azad Kashmir aur Gilgit-Baltistan ke liye kon sa ATM istemal hoga?",
+        answer: "Khyber Pakhtunkhwa (KP), Azad Jammu & Kashmir (AJK) aur Gilgit-Baltistan (GB) ke mustahiqeen Bank Alfalah ke biometric ATMs se cash wasool kar sakte hain."
+      },
+      {
+        question: "Kya 8171 SMS aane se pehle ATM se paise nikal sakte hain?",
+        answer: "Nahi, jab tak aap ke CNIC par BISP ki taraf se quarterly tranche release na ho aur 8171 se tasdeeqi SMS na mile ya 8171 portal par status approved na ho, tab tak ATM se raqam nahi niklegi."
+      },
+      {
+        question: "Agar ATM screen par 'No Funds / Insufficient Balance' aaye toh kya matlab hai?",
+        answer: "Is ka matlab hai ke aap ki is sah-mahi (quarter) ki qist abhi BISP central account se jari nahi hui ya aap ka survey update hone wala hai. Apna status 8171 web portal par check karein."
+      },
+      {
+        question: "Kya kisi doosre bank (jaise UBL, Meezan ya MCB) ke ATM se BISP paise nikal sakte hain?",
+        answer: "Nahi, BISP biometric withdrawal sirf designated partner banks (HBL aur Bank Alfalah) ke khas BVS touch ATMs par faal hai. Doosre commercial banks ke ATMs par cardless BISP menu dastiyab nahi hota."
+      },
+      {
+        question: "Agar ATM se paise nikalte waqt light chali jaye ya cash phans jaye toh kya karein?",
+        answer: "Fauri taur par bank branch ke manager ko likhi hui darkhwast dein aur BISP toll-free helpline 0800-26477 par complaint darj karwayen. Bank audit ke baad phansi hui raqam 24 se 48 ghante mein dobara jari kar di jati hai."
+      },
+      {
+        question: "Kya koi dukan-dar ya agent ATM se paise nikalne par commission maang sakta hai?",
+        answer: "Bilkul nahi. ATM se paise nikalna mukammal taur par muft hai aur kisi bhi shakhs ko koi commission ya rishwat dena qanoonan jurm hai."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "BISP Official Website",
+        href: "https://www.bisp.gov.pk/"
+      },
+      {
+        label: "8171 Official Web Portal",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "HBL Konnect Official Portal",
+        href: "https://www.hbl.com/personal/hbl-konnect"
+      },
+      {
+        label: "Bank Alfalah BVS ATM Network",
+        href: "https://www.bankalfalah.com/"
+      }
+    ]
+  },
+  {
+    slug: "bisp-dynamic-survey-token-required-documents-guide",
+    title: "BISP Dynamic Survey Ke Liye Kon Se Documents Chahiye: Tehsil Desk Timing Aur Token System Guide (2026)",
+    excerpt: "BISP Dynamic Survey ke liye asal CNIC, tamam bachon ka NADRA B-Form (CRC), haaliya bijli ya gas ka utility bill, aur registered mobile SIM zaroori hain. Bewa khawateen ke liye shohar ka Death Certificate aur mazoor afraad ke liye Wheelchair CNIC lazmi hai. Tehsil office desk Pir ta Juma subah 8:00 baje se shaam 4:00 baje tak khula hota hai.",
+    showExcerpt: true,
+    metaTitle: "BISP Survey Documents List & Token Guide (2026 Timings)",
+    metaDescription: "BISP Dynamic Survey ke liye zaroori documents ki mukammal list: CNIC, B-Form, bijli ka bill, Tehsil office desk timings aur token lene ka step-by-step tareeqa.",
+    focusKeyword: "bisp survey ke liye kon se documents chahiye",
+    lsiKeywords: [
+      "bisp dynamic registration desk timing",
+      "nser survey token system",
+      "bisp dynamic survey documents list 2026",
+      "bisp tehsil office dynamic registry desk",
+      "nser token lene ka tarika",
+      "bisp registration documents for widow and disabled"
+    ],
+    entities: [
+      "National Socio-Economic Registry (NSER)",
+      "Benazir Income Support Programme (BISP)",
+      "BISP Tehsil Dynamic Registration Desk",
+      "Computerized National Identity Card (CNIC)",
+      "NADRA Child Registration Certificate (B-Form)",
+      "Electricity Utility Bill",
+      "NSER Survey Token System",
+      "Proxy Means Test (PMT) Score"
+    ],
+    primaryCategory: "nser-pmt-score",
+    categorySlugs: [
+      "nser-pmt-score",
+      "bisp-registration",
+      "news"
+    ],
+    date: "September 23, 2026",
+    publishedDate: "September 23, 2026",
+    lastChecked: "September 23, 2026",
+    readTime: "9 min read",
+    image: "/images/bisp-dynamic-survey-documents.jpg",
+    imageAlt: "BISP beneficiary female presenting CNIC and documents at Tehsil office dynamic survey registration desk",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "BISP Dynamic Survey Ke Liye Kon Se Documents Chahiye? (Direct Checklist)",
+        paragraphs: [
+          "Benazir Income Support Programme (BISP) aur National Socio-Economic Registry (NSER) ke dynamic survey mein shamil hone ke liye mustahiq khawateen ko official Tehsil Registration Desk par jana parta hai. Ghalat ya na-mukammal dastawizat le jane ki soorat mein registration token jari nahi kiya jata aur survey mukammal nahi ho pata.",
+          "Dynamic survey mukammal taur par computerized hai jahan data entry operator aap ke gharane ki aamdani, afrad ki tadaad, zameeni jaidad, aur bijli ke kharche ka andaza laga kar PMT (Proxy Means Test) score generate karta hai. Survey karwane se pehle darj zail asal dastawizat (Original Documents) ka sath hona lazmi hai."
+        ],
+        links: [
+          {
+            label: "NSER survey and PMT score check guide",
+            href: "/nser-pmt-score-check-guide/"
+          },
+          {
+            label: "PMT score above 32 BISP re-survey guide",
+            href: "/pmt-score-above-32-bisp-re-survey-guide/"
+          }
+        ]
+      },
+      {
+        title: "Category-Wise Zaroori Documents Ki Mukammal List",
+        paragraphs: [
+          "BISP registration desk par mukhtalif categories ke liye makhsoos qanooni asnaad talab kiye jate hain. Neeche diye gaye table mein har category ke mutabiq zaroori dastawizat ki wazahat mojood hai:"
+        ],
+        table: {
+          caption: "BISP Dynamic Survey Category-Wise Required Documents (2026)",
+          headers: ["Applicant Category", "Lazmi Asnaad (Mandatory Documents)", "Zaroori Sharat / Detail"],
+          rows: [
+            ["Shadi-Shuda Khawateen (General Married)", "Asal CNIC (Khatoon + Shohar), Tamam Bachon Ke NADRA B-Form, Ghar Ka Bijli Bill", "CNIC expire na ho, B-Form par tamam bachay darj hon"],
+            ["Bewa Khawateen (Widows)", "Asal CNIC (Bewa Status Update), Shohar Ka NADRA Death Certificate, B-Form", "NADRA record mein shohar ki wafaat update hona lazmi hai"],
+            ["Talaq-Yafta Khawateen (Divorced Women)", "Asal CNIC (Divorced Status Update), Union Council Talaq Nama, Bachon Ka B-Form", "NADRA mein marital status 'Mutalaqa' darj hona chahiye"],
+            ["Mazoor Afraad (Persons with Disabilities)", "Special Disability CNIC (Wheelchair Logo), Medical Board Certificate", "NADRA se jari shuda mazoor shanakhti card"],
+            ["Khwajasara (Transgender Community)", "Khwajasara Category Ka Asal CNIC (Guru Registration Slip Optional)", "NADRA record mein Gender field update ho"],
+            ["Ghair-Shadi-Shuda Yateem Larki", "Asal CNIC, Walidain Dono Ke Death Certificates, Guardian FRC", "Dono walidain ki wafaat ka sarkari certificate"]
+          ]
+        }
+      },
+      {
+        title: "BISP Tehsil Dynamic Registration Desk Office Timings (2026 Schedule)",
+        paragraphs: [
+          "BISP Tehsil dynamic registry desks pure Pakistan mein haftawar muqarrara auqaat par khule rehte hain. Token lene ke liye subah jaldi pohanchne ki hidayat ki jati hai:"
+        ],
+        table: {
+          caption: "BISP Tehsil Office Operating Hours & Token Desk Schedule",
+          headers: ["Din (Working Days)", "Office Timings", "Token Counter Timings", "Jumma Break (Namaz & Lunch)"],
+          rows: [
+            ["Peer (Monday)", "Subah 08:00 AM ta Shaam 04:00 PM", "Subah 08:00 AM ta Dopehr 01:00 PM", "N/A"],
+            ["Mangal (Tuesday)", "Subah 08:00 AM ta Shaam 04:00 PM", "Subah 08:00 AM ta Dopehr 01:00 PM", "N/A"],
+            ["Budh (Wednesday)", "Subah 08:00 AM ta Shaam 04:00 PM", "Subah 08:00 AM ta Dopehr 01:00 PM", "N/A"],
+            ["Jumerat (Thursday)", "Subah 08:00 AM ta Shaam 04:00 PM", "Subah 08:00 AM ta Dopehr 01:00 PM", "N/A"],
+            ["Juma (Friday)", "Subah 08:00 AM ta Shaam 04:00 PM", "Subah 08:00 AM ta Subah 11:30 AM", "12:30 PM ta 02:00 PM"],
+            ["Hafta (Saturday)", "Chutti (Closed)", "Band", "Band"],
+            ["Itwar (Sunday)", "Chutti (Closed)", "Band", "Band"]
+          ]
+        },
+        links: [
+          {
+            label: "BISP Tehsil office Lahore addresses & timing",
+            href: "/bisp-tehsil-office-lahore-addresses-guide/"
+          },
+          {
+            label: "BISP Tehsil office Karachi districts guide",
+            href: "/bisp-tehsil-office-karachi-districts-guide/"
+          }
+        ]
+      },
+      {
+        title: "NSER Dynamic Survey Ka Token Lene Aur Registration Ka Step-by-Step Tarika",
+        paragraphs: [
+          "Tehsil office mein dynamic survey karwane ka amal darj zail 4 marahil par mushtamil hota hai:"
+        ],
+        bullets: [
+          "Marhala 1: Entry Gate Aur Shanakhti Card Screening: Tehsil office ke entry counter par apna asal CNIC staff ko dikhayen. Staff system mein check karega ke aap ka pichla survey 3 saal purana ho chuka hai ya aap pehli baar aayi hain.",
+          "Marhala 2: Automated Token Generation: Screening clear hone ke baad token issuing counter se aap ko ek computerized NSER Token Slip milegi. Mazoor afraad, bewaon aur umer raseeda khawateen ke liye Priority Green Tokens jari kiye jate hain.",
+          "Marhala 3: Data Entry Desk Par Survey Interview: Apna token number call hone par muta-alliqa Data Entry Operator (DEO) ke desk par tashreef le jayen. Operator tamam asal asnaad verify karega aur survey software mein data enter karega.",
+          "Marhala 4: Biometric Angootha Aur Survey Slip Ki Wasooli: Biometric device par aap ke angoothe ka nishan liya jayega aur operator aap ko ek NSER Survey Confirmation Slip print karke dega."
+        ]
+      },
+      {
+        title: "Survey Ke Dauran Operator Kon Se Sawalat Poochta Hai? (Asset & Income Questions)",
+        paragraphs: [
+          "Dynamic survey software gharane ke PMT score ka taaiyun karne ke liye darj zail ahem sawalat poochta hai:"
+        ],
+        bullets: [
+          "Ghar Ki Sakht Aur Kamray: Makaan zati hai ya kiraye ka? Paka makaan hai ya kacha? Ghar mein kul kitne kamray hain?",
+          "Gharana Ke Afrad Aur Taleem: Kul kitne afrad rehte hain? Bachon ki umar aur school jane ki tafseelat.",
+          "Maweshi Aur Zameeni Jaidad: Kya aap ke paas koi zameeni raqba, kheti baari, ya maweshi (gaye, bhains, bakri) hain?",
+          "Gharelu Ashiya (Household Assets): Ghar mein fridge, washing machine, solar panel, bike, ya AC mojood hai ya nahi?",
+          "Mahana Bijli Ka Kharcha: Bijli ke bill par kitne units aate hain aur mahana aamdani ka andaza kitna hai?",
+          "Beroon-e-Mulk Safar: Kya ghar ka koi fard foreign country gaya hai?"
+        ]
+      },
+      {
+        title: "Survey Slip Sambhalne Aur 8171 Par Status Check Karne Ka Amal",
+        paragraphs: [
+          "Survey mukammal hone ke baad milne wali Confirmation Receipt ko intihai hifazat se rakhein.",
+          "Survey ka data process hone aur PMT score calculate hone mein taqreeban 20 se 45 din ka waqt lagta hai. Is arsay ke baad aap 8171.bisp.gov.pk web portal par apna CNIC number enter karke check kar sakte hain ke aap ki Kafaalat qist jari hui hai ya nahi."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Kya BISP Dynamic Survey karwane ke liye koi fees ada karni parti hai?",
+        answer: "Nahi, BISP dynamic survey aur token system Hakoomat-e-Pakistan ki taraf se 100% muft hai. Agar koi shakhs token dilwane ya jaldi survey karwane ke paise maangay toh fauri helpline 0800-26477 par report karein."
+      },
+      {
+        question: "Agar bachon ka B-Form na bana ho toh kya survey ho sakta hai?",
+        answer: "Nahi, 18 saal se kam umar bachon ke B-Form ke baghair survey mukammal nahi hota aur bachon ke Taleemi Wazaif bhi jari nahi ho sakte. Pehle NADRA se B-Form banwayen phir survey ke liye jayen."
+      },
+      {
+        question: "Kya bijli ka bill zati makaan ka hona zaroori hai?",
+        answer: "Nahi, agar aap kiraye ke ghar mein rehte hain toh makan-malik ke naam ka mojooda bijli bill bhi qabil-e-qabool hai. Survey mein sirf consumer number aur usage units note kiye jate hain."
+      },
+      {
+        question: "BISP Tehsil Office ka token counter kis waqt band hota hai?",
+        answer: "Aam dinon (Peer ta Jumerat) mein token counter dopahar 01:00 baje band ho jata hai jabke Juma ke roz subah 11:30 baje token generation band ho jati hai."
+      },
+      {
+        question: "Kya shohar ka CNIC sath le jana zaroori hai?",
+        answer: "Ji haan, shadi-shuda khatoon ke liye shohar ka asal CNIC ya uski wazeh copy hona lazmi hai taake shohar ka status aur aamdani system mein link ho sake."
+      },
+      {
+        question: "Bewa khatoon ke liye kaun sa death certificate lagta hai?",
+        answer: "Bewa khatoon ke liye NADRA ka computerized Death Certificate lagta hai. Purana ya ghair-computerized parcha qabil-e-qabool nahi hota."
+      },
+      {
+        question: "BISP dynamic survey ke baad kitne dinon mein paise milte hain?",
+        answer: "Dynamic survey ke baad data verification aur PMT score nikalne mein 3 se 6 hafte (20-45 din) lagte hain. Agar PMT score 32 se kam aaye toh agli sah-mahi qist jari kar di jati hai."
+      },
+      {
+        question: "Kya Saturday aur Sunday ko BISP dynamic survey desk khula hota hai?",
+        answer: "Nahi, Saturday aur Sunday ko tamam sarkari BISP tehsil offices aur registration desks band hote hain."
+      },
+      {
+        question: "Agar shanakhti card expire ho chuka ho toh kya survey hoga?",
+        answer: "Nahi, expire CNIC par system data accept nahi karta. Pehle NADRA office se apna CNIC renew karwayen aur phir BISP desk tashreef le jayen."
+      },
+      {
+        question: "Agar kisi khatoon ke biometric fingerprints ghis chuke hon toh survey kaise hoga?",
+        answer: "Agar biometric scan fail ho jaye toh operator manual system override aur live webcam tasveer ke zariye dynamic survey complete karta hai."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "BISP Official Web Portal",
+        href: "https://www.bisp.gov.pk/"
+      },
+      {
+        label: "8171 Dynamic Survey Check",
+        href: "https://8171.bisp.gov.pk/"
+      },
+      {
+        label: "NADRA Official Portal (B-Form and CNIC)",
+        href: "https://www.nadra.gov.pk/"
+      }
+    ]
+  }
+,
+  {
+    slug: "sehat-sahulat-card-kpk-check-online-hospital-list",
+    title: "KPK Sehat Sahulat Card Check Online 2026: 8500 SMS, 10 Lakh Treatment Coverage & Empaneled Hospital List",
+    excerpt: "Check KPK Sehat Card Plus eligibility and balance online by CNIC or 8500 SMS. Learn how to access Rs 10 Lakh free inpatient treatment, view the 2026 empaneled panel hospitals list, and follow the hospital counter admission process.",
+    showExcerpt: true,
+    metaTitle: "KPK Sehat Card Check Online by CNIC & Hospital List 2026",
+    metaDescription: "Check KPK Sehat Card Plus status online by CNIC or 8500 SMS. View Rs 10 Lakh free treatment package, empaneled panel hospitals list, and admission process.",
+    focusKeyword: "sehat card check online cnic kpk",
+    lsiKeywords: [
+      "sehat sahulat program hospital list",
+      "kpk sehat card treatment coverage",
+      "sehat card 8500 sms check cnic",
+      "sehat card plus kpk panel hospital list 2026",
+      "sehat card balance check by cnic kpk",
+      "state life sehat card plus kpk counter procedure"
+    ],
+    entities: [
+      "Sehat Card Plus Khyber Pakhtunkhwa",
+      "Rs 1,000,000 (10 Lakh PKR) Annual Coverage",
+      "8500 SMS Verification Service",
+      "State Life Insurance Corporation of Pakistan",
+      "Empaneled Panel Hospitals",
+      "Computerized National Identity Card (CNIC)",
+      "Inpatient Department (IPD) Healthcare",
+      "Priority Tertiary Care Packages"
+    ],
+    primaryCategory: "other-schemes",
+    categorySlugs: [
+      "other-schemes",
+      "news"
+    ],
+    date: "September 23, 2026",
+    publishedDate: "September 23, 2026",
+    lastChecked: "September 23, 2026",
+    readTime: "9 min read",
+    image: "/images/sehat-card-plus-kpk.jpg",
+    imageAlt: "Patient verifying KPK Sehat Card Plus eligibility at hospital State Life facilitation desk using CNIC",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What is KPK Sehat Card Plus and How Much Treatment is Free?",
+        paragraphs: [
+          "To check your KPK Sehat Card Plus eligibility and available balance online, send your 13-digit CNIC number without dashes via SMS to 8500 or enter it on the official portal at sehatcardplus.gov.pk. Every permanent Khyber Pakhtunkhwa resident automatically qualifies for Rs. 1,000,000 (10 Lakh) free annual inpatient healthcare coverage per family at over 1,000 empaneled hospitals across Pakistan using their original CNIC.",
+          "Khyber Pakhtunkhwa Sehat Card Plus (Sehat Sahulat Program) is the provincial government's flagship universal health insurance initiative, executed in collaboration with the State Life Insurance Corporation of Pakistan. Unlike targeted welfare subsidies requiring complex means-testing, Sehat Card Plus provides universal healthcare entitlement to 100% of families holding permanent residence registered on their Computerized National Identity Card (CNIC) in Khyber Pakhtunkhwa, including the merged tribal districts.",
+          "The program replaces expensive out-of-pocket medical expenditures with an automated, cashless healthcare safety net. Beneficiaries do not need a physical plastic insurance card to access medical services; an active original NADRA CNIC or juvenile B-Form acts as your direct digital health wallet across all designated public and private healthcare facilities."
+        ],
+        links: [
+          {
+            label: "Government schemes and provincial relief guides",
+            href: "/other-schemes/"
+          },
+          {
+            label: "Punjab Himmat Card online apply guide",
+            href: "/cm-punjab-himmat-card-online-apply-2026/"
+          },
+          {
+            label: "Ehsaas Undergraduate Scholarship 2026 portal apply guide",
+            href: "/ehsaas-undergraduate-scholarship-online-apply/"
+          }
+        ]
+      },
+      {
+        title: "Universal Coverage Model: Rs. 1,000,000 Annual Family Health Limit",
+        paragraphs: [
+          "Under the 2026 Sehat Card Plus framework, every registered family unit receives an annual health coverage pool of Rs. 1,000,000 (10 Lakh PKR). This financial allocation resets automatically at the start of each fiscal cycle, ensuring that severe illness does not push vulnerable households into catastrophic medical debt.",
+          "The family health pool operates on a shared basis for all legal members recorded in NADRA's family registration database. If one family member undergoes a surgical procedure costing Rs. 250,000, the remaining Rs. 750,000 balance remains accessible for any other registered dependent within that same calendar year."
+        ]
+      },
+      {
+        title: "Secondary Care vs. Priority Tertiary Healthcare Packages",
+        paragraphs: [
+          "The Sehat Card Plus coverage framework divides inpatient healthcare into two primary medical tiers:",
+          "1. Secondary Healthcare Packages (Baseline Surgical & Medical Care): Covers general surgical operations, maternal and child healthcare, normal vaginal deliveries, Cesarean sections (C-sections), appendectomies, gallbladder surgeries, hernia repairs, fractures, and emergency pediatric hospitalizations (allocating up to Rs. 200,000 to Rs. 300,000).",
+          "2. Priority Tertiary Healthcare Packages (Specialized & Chronic Care): Covers complex life-saving procedures including open-heart bypass surgery, coronary angioplasty and stenting, oncology treatments (chemotherapy and radiation), end-stage renal disease dialysis, kidney transplantation, advanced neurosurgery, and multi-trauma care, utilizing the full Rs. 1,000,000 ceiling."
+        ]
+      },
+      {
+        title: "How to Check KPK Sehat Card Eligibility Online & via 8500 SMS",
+        paragraphs: [
+          "Verifying whether your household is active in the Sehat Card Plus database takes less than two minutes through two official verification gateways:"
+        ],
+        bullets: [
+          "Method 1 (Instant 8500 SMS): Open your mobile SMS app, type your 13-digit CNIC number without dashes or spaces (e.g. 1730112345671), and send it to 8500. You will receive an instant reply detailing your family eligibility and panel hospital access.",
+          "Method 2 (Online Web Portal): Visit sehatcardplus.gov.pk, click on 'Check Eligibility' (اہلیت چیک کریں), enter your 13-digit CNIC, solve the captcha, and click 'Check Status' to view family details and coverage status.",
+          "Carrier Charges: Standard mobile network charges (approx Rs. 2 + tax) apply on SMS sent to 8500. Ensure your mobile balance is active."
+        ]
+      },
+      {
+        title: "Which Medical Treatments, Surgeries & Diseases Are Covered?",
+        paragraphs: [
+          "Sehat Card Plus is strictly an inpatient hospital admission and surgical coverage program. Knowing what is included versus excluded prevents billing misunderstandings:"
+        ],
+        bullets: [
+          "Fully Covered Inpatient Care: Cardiology (angiography, angioplasty, bypass), Oncology (chemotherapy, radiation, tumor surgeries), Nephrology (hemodialysis, kidney stones, kidney transplant), General Surgery (hernia, gallbladder, appendix), and Maternity (normal delivery, C-section).",
+          "What is Excluded (OPD Restrictions): Routine Outpatient Department (OPD) clinic consultations, daily pharmacy medicines purchased from external medical stores, cosmetic surgery, and walk-in diagnostic blood tests not tied to a hospital bed admission are NOT covered."
+        ]
+      },
+      {
+        title: "KPK Sehat Card Empaneled Panel Hospitals List (District-Wise Matrix)",
+        paragraphs: [
+          "State Life Insurance Corporation maintains an empaneled network of over 1,000 public and private medical institutions across KP and inter-provincial hubs:"
+        ],
+        table: {
+          caption: "KPK Sehat Card Plus Empaneled Hospital Directory (2026)",
+          headers: ["District / Division", "Major Empaneled Public Hospitals", "Top Empaneled Private Panel Hospitals", "Specialty Care Available"],
+          rows: [
+            ["Peshawar", "Lady Reading Hospital (LRH), Khyber Teaching Hospital (KTH), Hayatabad Medical Complex (HMC), PIC", "Northwest General Hospital, Rehman Medical Institute (RMI), Peshawar General Hospital", "Advanced Cardiac Surgery, Oncology, Renal Transplants, Neurosurgery"],
+            ["Abbottabad / Hazara", "Ayub Teaching Hospital (ATH), DHQ Hospital Abbottabad", "Women Medical Complex, Jinnah International Hospital, Pine Hills Hospital", "Trauma & Orthopedics, General Surgery, Gynecology, ICU"],
+            ["Mardan", "Mardan Medical Complex (MMC), DHQ Hospital Mardan", "Rustam Hospital, Shahbaz Medical Complex, Mardan General Hospital", "Maternal Health, Dialysis, General Laparoscopic Surgery"],
+            ["Swat / Malakand", "Saidu Teaching Hospital (STH), Saidu Group of Hospitals", "Swat Medical Complex, Shifa Hospital Saidu Sharif", "Cardiology, Emergency Trauma, Neonatal ICU, Orthopedics"],
+            ["Bannu & D.I. Khan", "Khalifa Gul Nawaz Teaching Hospital Bannu, Mufti Mehmood Memorial Hospital D.I. Khan", "Al-Shifa Hospital Bannu, Gomal Medical Complex D.I. Khan", "Dialysis, Pediatric Surgery, Maternal Healthcare"],
+            ["Kohat & Karak", "Liaquat Memorial Teaching Hospital (LMTH) Kohat, KDA Teaching Hospital Kohat", "Kohat General Hospital, Al-Razi Medical Complex", "General Surgery, C-Section, Emergency Trauma"],
+            ["Merged Districts (NMDs)", "DHQ Landi Kotal (Khyber), DHQ Ghalanai (Mohmand), DHQ Khar (Bajaur)", "Local Empaneled Units & Direct Referral to Peshawar MTIs", "Secondary Surgeries, Emergency Resuscitation, Maternity"],
+            ["Federal / Inter-Provincial", "PIMS Islamabad, Rawalpindi Institute of Cardiology (RIC), Holy Family Hospital", "Quaid-e-Azam International Hospital, Shifa International (Specialized Packages)", "Specialized Inter-Provincial Tertiary Referrals"]
+          ]
+        }
+      },
+      {
+        title: "How to Get Admitted and Claim Cashless Treatment at Panel Hospitals",
+        paragraphs: [
+          "To access cashless treatment, follow the simple hospital counter procedure upon arrival:"
+        ],
+        bullets: [
+          "1. Locate the Desk: Visit the dedicated State Life / Sehat Card Facilitation Desk in the hospital reception or emergency area.",
+          "2. Present Documents: Provide the patient's original CNIC (or original B-Form + father's CNIC for minors under 18).",
+          "3. Biometric Verification: The desk officer scans your CNIC through the State Life system to verify eligibility and allocate pre-authorization.",
+          "4. Receive Cashless Care: Hospital completes all surgery, diagnostics, bed stay, and nursing care without asking for cash.",
+          "5. Collect Take-Home Medicine: Receive up to 7 days of free prescribed discharge medications upon signing the satisfaction slip."
+        ]
+      },
+      {
+        title: "Troubleshooting Common Issues & Official Helplines",
+        paragraphs: [
+          "If your CNIC shows 'Ineligible' despite living in KP, check your permanent address at NADRA; Sehat Card eligibility strictly requires permanent residence registered in Khyber Pakhtunkhwa.",
+          "If any empaneled hospital asks for cash bribes or forces outside medicine purchases during admission, immediately contact the official KPK Sehat Card Plus toll-free helpline at 0800-89898 or State Life at 0800-01001 for immediate investigation."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How can I check my KPK Sehat Card eligibility by CNIC?",
+        answer: "You can check your KPK Sehat Card eligibility instantly by sending your 13-digit CNIC number without spaces or dashes via SMS to 8500, or by entering your CNIC on the official portal at sehatcardplus.gov.pk. The system will reply with your family eligibility status and district details within seconds."
+      },
+      {
+        question: "What is the annual treatment limit on KPK Sehat Card Plus?",
+        answer: "The annual treatment limit under KPK Sehat Card Plus is Rs. 1,000,000 (10 Lakh PKR) per registered family unit. This coverage resets automatically every financial year and covers inpatient hospital admissions, major surgeries, and tertiary healthcare."
+      },
+      {
+        question: "Can I get free medicines from a medical store using Sehat Card?",
+        answer: "No, Sehat Card Plus does not cover routine outdoor pharmacy purchases from standalone medical stores. Free medicines are provided exclusively during an authorized inpatient hospital admission, along with up to 7 days of take-home recovery medication supplied at hospital discharge."
+      },
+      {
+        question: "Which SMS code is used to check Sehat Card status in KPK?",
+        answer: "The official SMS code to check Sehat Card status in Khyber Pakhtunkhwa is 8500. Sending your CNIC to any other unauthorized four-digit number will not yield official insurance status records."
+      },
+      {
+        question: "Are normal child deliveries and C-sections covered under Sehat Card?",
+        answer: "Yes, both normal deliveries and Cesarean sections (C-sections) are fully covered under the maternal healthcare package of Sehat Card Plus at all empaneled public and private maternity hospitals. The package includes delivery charges, operation theater costs, surgeon fees, and post-natal care."
+      },
+      {
+        question: "Do I need a physical plastic Sehat Card to get hospital treatment?",
+        answer: "No, a physical plastic card is no longer required to receive healthcare benefits under Sehat Card Plus. Your original Computerized National Identity Card (CNIC) or a child's NADRA B-Form acts as your direct digital health card at all empaneled hospital facilitation desks."
+      },
+      {
+        question: "Can KP residents get free treatment in Islamabad or Rawalpindi hospitals?",
+        answer: "Yes, KP residents holding eligible CNICs can access free treatment for specialized tertiary procedures at designated empaneled hospitals in Islamabad and Rawalpindi, including PIMS, Rawalpindi Institute of Cardiology (RIC), and empaneled private tertiary care centers."
+      },
+      {
+        question: "Is cancer chemotherapy and kidney dialysis covered under Sehat Card Plus?",
+        answer: "Yes, both cancer chemotherapy cycles and chronic kidney failure hemodialysis are fully covered under the priority tertiary care packages of Sehat Card Plus. Patients receive ongoing sessions at designated panel oncology and nephrology centers without paying out-of-pocket fees."
+      },
+      {
+        question: "What should I do if a child under 18 needs hospital admission?",
+        answer: "If a child under 18 requires hospital admission, bring the child's original NADRA B-Form (Child Registration Certificate) along with the original CNIC of the father or registered guardian to the hospital Sehat Card desk for biometric verification and admission authorization."
+      },
+      {
+        question: "How can I lodge a complaint against a panel hospital for refusing Sehat Card?",
+        answer: "You can lodge an immediate complaint against any empaneled hospital refusing Sehat Card services or demanding cash by calling the Sehat Card Plus toll-free helpline at 0800-89898, the State Life helpline at 0800-01001, or through the Pakistan Citizens' Portal (PCP)."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "Sehat Card Plus Official Portal (Khyber Pakhtunkhwa)",
+        href: "https://sehatcardplus.gov.pk/"
+      },
+      {
+        label: "Federal Sehat Sahulat Program Portal (State Life)",
+        href: "https://pmhealthprogram.gov.pk/"
+      }
+    ]
+  },
+  {
+    slug: "ehsaas-undergraduate-scholarship-online-apply",
+    title: "Ehsaas Undergraduate Scholarship 2026 Online Apply: HEC Portal Check, 100% Tuition Fee & Rs 4,000 Stipend Guide",
+    excerpt: "Apply online for HEC Ehsaas Undergraduate Scholarship 2026 on ehsaas.hec.gov.pk. Learn how to secure 100% full tuition fee coverage, Rs 4,000 monthly stipend, prepare university FAO documents, and clear the ISAC interview.",
+    showExcerpt: true,
+    metaTitle: "Ehsaas Undergraduate Scholarship 2026: HEC Portal Apply & Check",
+    metaDescription: "Apply for HEC Ehsaas Undergraduate Scholarship 2026 online. Step-by-step guide to portal registration, eligibility, 100% tuition fee, and Rs 4,000 monthly stipend.",
+    focusKeyword: "ehsaas undergraduate scholarship portal check",
+    lsiKeywords: [
+      "hec ehsaas scholarship 2026 online apply",
+      "ehsaas scholarship portal hec gov pk",
+      "ehsaas undergraduate scholarship eligibility criteria",
+      "hec scholarship 50000 undergraduate apply online",
+      "ehsaas scholarship stipend amount rs 4000 per month",
+      "isac interview financial aid office university"
+    ],
+    entities: [
+      "HEC Ehsaas Undergraduate Scholarship Project",
+      "Higher Education Commission of Pakistan",
+      "100% Full Tuition Fee Waiver",
+      "Rs. 4,000 / Month Living Stipend",
+      "HEC Online Application Portal (ehsaas.hec.gov.pk)",
+      "Institutional Scholarship Award Committee (ISAC)",
+      "University Financial Aid Office (FAO)",
+      "50% Female Student Quota"
+    ],
+    primaryCategory: "taleemi-wazaif",
+    categorySlugs: [
+      "taleemi-wazaif",
+      "other-schemes",
+      "news"
+    ],
+    date: "September 23, 2026",
+    publishedDate: "September 23, 2026",
+    lastChecked: "September 23, 2026",
+    readTime: "9 min read",
+    image: "/images/ehsaas-undergraduate-scholarship.jpg",
+    imageAlt: "Pakistani university undergraduate student checking HEC Ehsaas scholarship status on online portal",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    sections: [
+      {
+        title: "What is the HEC Ehsaas Undergraduate Scholarship Project?",
+        paragraphs: [
+          "To apply for the HEC Ehsaas Undergraduate Scholarship 2026, submit your online application through the official Higher Education Commission portal at ehsaas.hec.gov.pk. The federal program awards 50,000 annual need-based scholarships covering 100% full university tuition fees plus a Rs. 4,000 monthly living stipend for undergraduate students enrolled in 135+ public sector universities across Pakistan.",
+          "The Higher Education Commission (HEC) Ehsaas Undergraduate Scholarship Project—now administered under the Benazir Higher Education Scholarship initiative—is Pakistan’s largest need-based undergraduate grant program. Designed to eliminate financial barriers preventing talented students from low-income households from completing university education, the project awards 50,000 new scholarships each academic year.",
+          "Unlike merit-exclusive programs where only the highest test scorers qualify regardless of financial background, this federal initiative evaluates financial need alongside baseline academic admission. Once awarded, the scholarship covers the student’s complete 4-year or 5-year degree duration, provided they maintain satisfactory academic progress and continuous enrollment."
+        ],
+        links: [
+          {
+            label: "Benazir Taleemi Wazaif school stipend guide",
+            href: "/benazir-taleemi-wazaif-check-online-by-cnic/"
+          },
+          {
+            label: "Punjab Honhaar Scholarship Program 2026",
+            href: "/cm-punjab-honhaar-scholarship-program-2026/"
+          },
+          {
+            label: "KPK Sehat Sahulat Card 10 Lakh treatment check guide",
+            href: "/sehat-sahulat-card-kpk-check-online-hospital-list/"
+          }
+        ]
+      },
+      {
+        title: "Comprehensive Coverage: 100% Tuition Fee + Rs. 4,000 Monthly Living Stipend",
+        paragraphs: [
+          "The scholarship package delivers two major financial benefits throughout the undergraduate degree:",
+          "1. 100% Full Tuition Fee Coverage: HEC directly reimburses the public sector university for the student's complete institutional costs, including admission fees, semester tuition, laboratory charges, library fees, and mandatory examination costs.",
+          "2. Monthly Living & Maintenance Stipend (Rs. 4,000 / Month): Beneficiary students receive an annual living allowance of Rs. 40,000 to Rs. 50,000 (disbursed as Rs. 4,000 per month across the academic session). This cash stipend is transferred directly into the student's personal designated bank account to cover books, transport, study supplies, and daily living expenditures."
+        ]
+      },
+      {
+        title: "50% Quota for Female Students & 2% for Special Persons",
+        paragraphs: [
+          "To address national gender disparities in higher education, the federal government mandates that 50% of all 50,000 annual scholarships are strictly reserved for female applicants. This policy has significantly boosted female enrollment in engineering, medical sciences, computer science, and agriculture across underdeveloped rural districts.",
+          "Additionally, a dedicated 2% quota is legally reserved for students with disabilities (special persons) holding official NADRA disability CNICs or Special Medical Board certificates."
+        ]
+      },
+      {
+        title: "Who is Eligible? Complete Criteria for 4-Year BS Degree Programs",
+        paragraphs: [
+          "Before beginning your online application on the HEC portal, review the mandatory eligibility criteria to ensure your admission status qualifies:"
+        ],
+        bullets: [
+          "Eligible: Regular newly admitted students enrolled in 1st or 2nd semester of 4-year/5-year BS undergraduate programs at 135+ HEC-recognized public universities.",
+          "Income Threshold: Household monthly family income must typically be below Rs. 45,000 (or up to Rs. 60,000 in cases of high dependency ratio).",
+          "Ineligible: Evening, weekend, private university, self-finance, and distance learning students do NOT qualify.",
+          "No Dual Scholarships: Students already receiving any other full educational scholarship (PEEF, BEEF, or institutional grants) cannot hold dual awards."
+        ]
+      },
+      {
+        title: "Ineligible Student Categories & Disqualification Matrix",
+        paragraphs: [
+          "Review the summary table below to ensure you do not apply under an ineligible category:"
+        ],
+        table: {
+          caption: "HEC Ehsaas Undergraduate Scholarship Ineligibility Matrix",
+          headers: ["Student Category", "Eligibility Status", "Reason for Ineligibility"],
+          rows: [
+            ["Private University Students", "Ineligible", "Scheme applies exclusively to 135+ HEC-recognized public sector universities."],
+            ["Evening / Self-Finance Programs", "Ineligible", "Only regular open-merit morning program admissions qualify for federal subsidies."],
+            ["Distance Learning / Affiliated Colleges", "Ineligible", "External degree programs, private candidates, and non-constituent private colleges are excluded."],
+            ["Existing Scholarship Holders", "Ineligible", "Students already receiving any other full scholarship (PEEF, HEC Need-Based, BEEF) cannot hold dual awards."],
+            ["Postgraduate / Master / MPhil / PhD", "Ineligible", "Scheme is strictly restricted to undergraduate (Bachelor’s) degree programs."],
+            ["Family Income Exceeding Threshold", "Ineligible", "High-income households fail the mandatory financial means-testing assessment."]
+          ]
+        }
+      },
+      {
+        title: "Step-by-Step Online Application Process on HEC Portal (ehsaas.hec.gov.pk)",
+        paragraphs: [
+          "Follow these practical steps to submit your online application and complete institutional submission:"
+        ],
+        bullets: [
+          "1. Register on Portal: Visit ehsaas.hec.gov.pk, register with your 13-digit CNIC, email, and mobile number, and verify via 6-digit OTP.",
+          "2. Fill Academic Information: Complete your Matriculation, Intermediate, and current university registration details.",
+          "3. Financial Need Assessment: Enter family income, monthly utility bills, house ownership/rental details, and sibling schooling costs.",
+          "4. Submit & Print Form: Finalize the online form, download the generated PDF application, and sign the declaration.",
+          "5. Submit to University FAO: Attach attested salary/income certificates, utility bills, rent agreement, and submit the physical docket to your university Financial Aid Office."
+        ]
+      },
+      {
+        title: "The Selection Procedure: University Financial Aid Office & ISAC Interview",
+        paragraphs: [
+          "The university Financial Aid Office conducts rigorous document scrutiny before calling candidates to appear in front of the Institutional Scholarship Award Committee (ISAC).",
+          "During the 5 to 10-minute ISAC interview, the committee assesses genuine financial distress, source of parent livelihood, and utility expenditure patterns. Selected candidates are published on the university notice board and sign a formal Deed of Agreement on stamp paper before funds are disbursed."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the monthly stipend amount for the HEC Ehsaas Undergraduate Scholarship?",
+        answer: "The monthly stipend amount is Rs. 4,000 per month, totaling Rs. 40,000 to Rs. 50,000 per academic year, paid directly to the student's bank account in addition to 100% full university tuition fee reimbursement."
+      },
+      {
+        question: "Can students in private universities apply for the Ehsaas Undergraduate Scholarship?",
+        answer: "No, the Ehsaas Undergraduate Scholarship is strictly restricted to regular undergraduate students enrolled in 135+ HEC-recognized public sector universities and degree awarding institutions across Pakistan."
+      },
+      {
+        question: "What is the family income limit to qualify for the Ehsaas Scholarship?",
+        answer: "The general family monthly income threshold is under Rs. 45,000 per month, though students from households earning up to Rs. 60,000 may be considered by university committees if they have large family sizes or high medical expenses."
+      },
+      {
+        question: "How can I apply for the HEC Ehsaas Scholarship online?",
+        answer: "You can apply online by creating an applicant profile on the official HEC portal at ehsaas.hec.gov.pk, completing the academic and financial need assessment sections, and submitting the printed form with supporting documents to your university Financial Aid Office."
+      },
+      {
+        question: "Is there a quota reserved for female students in this scholarship?",
+        answer: "Yes, exactly 50% of all 50,000 annual scholarships are legally reserved for female undergraduate students across all academic disciplines to promote women's higher education."
+      },
+      {
+        question: "Can 2nd year or 3rd year university students apply for a new scholarship?",
+        answer: "No, new scholarship applications are accepted exclusively from undergraduate students enrolled in their 1st or 2nd semester (first year). Continuing students in higher semesters cannot apply for new awards."
+      },
+      {
+        question: "Are evening or self-finance students eligible for the scholarship?",
+        answer: "No, students enrolled in evening programs, weekend shifts, self-finance seats, or executive programs are not eligible; the scholarship covers only regular morning open-merit students."
+      },
+      {
+        question: "What documents are required for the university ISAC interview?",
+        answer: "You must bring original CNICs/B-Forms, original paid utility bills, original attested Union Council income certificate, rent agreement (if applicable), and semester fee vouchers to the ISAC interview."
+      },
+      {
+        question: "Can I apply if I am already receiving another scholarship like PEEF?",
+        answer: "No, holding dual scholarships is strictly prohibited under HEC guidelines. If you are awarded the HEC Ehsaas Scholarship, you must surrender any other ongoing provincial or private scholarship."
+      },
+      {
+        question: "How long does the Ehsaas Undergraduate Scholarship last?",
+        answer: "The scholarship covers the entire 4-year or 5-year duration of your undergraduate degree program, provided you maintain minimum passing CGPA standards and continuous semester enrollment."
+      }
+    ],
+    officialLinks: [
+      {
+        label: "HEC Ehsaas Undergraduate Scholarship Portal",
+        href: "https://ehsaas.hec.gov.pk/"
+      },
+      {
+        label: "Higher Education Commission Official Website",
+        href: "https://hec.gov.pk/"
+      }
+    ]
+  }
 ];
 
 export const informationPages: InformationPage[] = [

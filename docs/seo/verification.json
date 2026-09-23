@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-22T19:32:17.481Z",
+  "checkedAt": "2026-09-23T19:02:14.263Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 97,
+  "routeCount": 99,
   "failures": [],
   "pending": [],
   "pages": [
@@ -1160,6 +1160,32 @@
       "title": "BISP Tehsil Office Karachi District List (2026 Directory) | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 171,
       "editorialWords": 1525,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-atm-se-paise-nikalwane-ka-tarika/",
+      "title": "BISP ATM Se Paise Nikalne Ka Tarika 2026: HBL & Bank Alfalah | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 157,
+      "editorialWords": 1525,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-dynamic-survey-token-required-documents-guide/",
+      "title": "BISP Survey Documents List & Token Guide (2026 Timings) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 159,
+      "editorialWords": 1217,
       "schemaTypes": [
         "Organization",
         "WebSite",

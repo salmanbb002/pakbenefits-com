@@ -1,0 +1,122 @@
+[
+  {
+    "canonical": "Sehat Card Plus Khyber Pakhtunkhwa",
+    "type": "Health Insurance Scheme",
+    "aliases": ["KPK Sehat Sahulat Program", "KP Sehat Card Plus", "KP Universal Health Card"],
+    "sameAs": "https://sehatcardplus.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 1,000,000 (10 Lakh PKR) Annual Coverage",
+    "type": "Financial Benefit",
+    "aliases": ["10 Lakh Free Treatment", "Rs 1 Million Health Insurance Cover", "KP Sehat Package Limit"],
+    "sameAs": "https://sehatcardplus.gov.pk/coverage-package",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8500 SMS Verification Service",
+    "type": "Communication Service",
+    "aliases": ["8500 CNIC Check", "8500 SMS Gateway", "8500 Sehat Card Code"],
+    "sameAs": "https://sehatcardplus.gov.pk/check-eligibility",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Life Insurance Corporation of Pakistan",
+    "type": "Organization",
+    "aliases": ["State Life", "SLIC", "State Life Sehat Card Facilitation Desk"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Life_Insurance_Corporation_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Empaneled Panel Hospitals",
+    "type": "Healthcare Facilities",
+    "aliases": ["Sehat Card Panel Hospitals", "Designated Hospitals List", "KP Empaneled Medical Centers"],
+    "sameAs": "https://sehatcardplus.gov.pk/empaneled-hospitals",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card (CNIC)",
+    "type": "Identity Document",
+    "aliases": ["CNIC", "NADRA Shanakhti Card", "Smart CNIC"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Identity_Card_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Inpatient Department (IPD) Healthcare",
+    "type": "Medical Care Category",
+    "aliases": ["Inpatient Treatment", "Hospital Admission", "Surgical Hospitalization"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Outpatient Department (OPD) Exclusion",
+    "type": "Policy Restriction",
+    "aliases": ["OPD Checkup Exclusion", "Outdoor Clinic Visits", "Routine Prescription Medications"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Priority Tertiary Care Packages",
+    "type": "Medical Care Category",
+    "aliases": ["Tertiary Treatment", "Cardiovascular Surgery", "Oncology Chemotherapy", "Dialysis & Kidney Transplant"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Secondary Care Medical Procedures",
+    "type": "Medical Care Category",
+    "aliases": ["General Surgery", "Maternity & C-Section", "Pediatric Care", "Appendectomy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA Family Tree & B-Form",
+    "type": "Legal Registry",
+    "aliases": ["Child Registration Certificate", "B-Form", "Family Registration Certificate FRC"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Toll-Free Support Helpline (0800-89898)",
+    "type": "Support Service",
+    "aliases": ["Sehat Card Helpline", "0800-89898", "0800-01001 State Life Helpline"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

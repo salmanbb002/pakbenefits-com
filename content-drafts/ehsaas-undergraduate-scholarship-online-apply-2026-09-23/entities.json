@@ -1,0 +1,122 @@
+[
+  {
+    "canonical": "HEC Ehsaas Undergraduate Scholarship Project",
+    "type": "Educational Scholarship Program",
+    "aliases": ["Benazir Undergraduate Scholarship", "HEC-EUSP", "Ehsaas Higher Education Scholarship"],
+    "sameAs": "https://ehsaas.hec.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Higher Education Commission of Pakistan",
+    "type": "Organization",
+    "aliases": ["HEC Pakistan", "HEC Islamabad", "Higher Education Commission"],
+    "sameAs": "https://en.wikipedia.org/wiki/Higher_Education_Commission_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "100% Full Tuition Fee Waiver",
+    "type": "Financial Benefit",
+    "aliases": ["Full Tuition Coverage", "University Fee Exemption", "100 Percent Tuition Grant"],
+    "sameAs": "https://hec.gov.pk/english/scholarships/Ehsaas/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs. 4,000 / Month Living Stipend",
+    "type": "Financial Benefit",
+    "aliases": ["Rs 4000 Monthly Allowance", "Rs 40,000 Annual Stipend", "Ehsaas Student Maintenance Allowance"],
+    "sameAs": "https://hec.gov.pk/english/scholarships/Ehsaas/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "HEC Online Application Portal (ehsaas.hec.gov.pk)",
+    "type": "Web Application",
+    "aliases": ["HEC E-Portal", "scholarships.hec.gov.pk", "Ehsaas HEC Online Portal"],
+    "sameAs": "https://ehsaas.hec.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Institutional Scholarship Award Committee (ISAC)",
+    "type": "University Committee",
+    "aliases": ["ISAC Committee", "ISAC Interview Panel", "Institutional Financial Aid Committee"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "University Financial Aid Office (FAO)",
+    "type": "Department",
+    "aliases": ["FAO Office", "Student Financial Aid Center", "University Scholarship Section"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "50% Female Student Quota",
+    "type": "Policy Quota",
+    "aliases": ["50 Percent Women Reservation", "Female Scholarship Allocation", "Gender Inclusion Quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "2% Disability / Special Needs Quota",
+    "type": "Policy Quota",
+    "aliases": ["Special Persons Quota", "Disabled Student Reservation", "PWD Educational Grant"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Household Monthly Income Threshold (< Rs. 45,000)",
+    "type": "Financial Metric",
+    "aliases": ["Family Income Limit", "Income Threshold", "Poverty Means-Test Cutoff"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "HEC-Recognized Public Sector Universities",
+    "type": "Institution Category",
+    "aliases": ["135+ Public Universities", "Participating Government Universities", "HEC Approved Public Institutions"],
+    "sameAs": "https://hec.gov.pk/english/universities/pages/recognised.aspx",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Benazir Income Support Programme (BISP)",
+    "type": "Organization",
+    "aliases": ["BISP Pakistan", "National Socio-Economic Registry"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

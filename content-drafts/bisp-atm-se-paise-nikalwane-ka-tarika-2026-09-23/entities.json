@@ -1,0 +1,122 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "8171 Scheme", "Benazir Kafaalat Program"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Habib Bank Limited",
+    "type": "Organization",
+    "aliases": ["HBL", "HBL Konnect", "HBL Biometric ATM"],
+    "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bank Alfalah",
+    "type": "Organization",
+    "aliases": ["Alfalah Bank", "BAF BVS ATM", "Alfalah Biometric"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Biometric ATM Withdrawal",
+    "type": "Process",
+    "aliases": ["BVS ATM Cash Collection", "Cardless ATM Withdrawal", "ATM Se Paise Nikalna"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs. 13,500 Quarterly Tranche",
+    "type": "Money",
+    "aliases": ["BISP Kafaalat 13500", "BISP Stipend Amount", "Kafaalat Qist"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 SMS Gateway",
+    "type": "Service",
+    "aliases": ["8171 Web Portal", "8171 Official Code", "8171 Confirmation SMS"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA Biometric Verification",
+    "type": "Organization",
+    "aliases": ["NADRA Fingerprint Tasdeeq", "BVS Verification", "Biometric Authentication"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Product",
+    "aliases": ["CNIC", "Shanakhti Card", "13-Digit CNIC"],
+    "sameAs": "https://en.wikipedia.org/wiki/CNIC_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Agent Illegal Deduction",
+    "type": "Concept",
+    "aliases": ["Retailer Kataoti", "POS Fee Deduction", "Ghair Qanooni Kataoti"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "ATM Transaction Slip",
+    "type": "Product",
+    "aliases": ["ATM Raseed", "Printed Slip", "Machine Transaction Receipt"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Biometric Error Codes",
+    "type": "Concept",
+    "aliases": ["Biometric Error 93", "Biometric Error 99", "Fingerprint Not Match"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Toll-Free Helpline",
+    "type": "Service",
+    "aliases": ["0800-26477", "BISP Complaint Helpline", "BISP Helpline Number"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

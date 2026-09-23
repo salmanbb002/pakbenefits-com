@@ -1,0 +1,122 @@
+[
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "Organization",
+    "aliases": ["NSER", "NSER Dynamic Survey", "NSER Registry"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "8171 Scheme", "Benazir Kafaalat"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Dynamic Registration Desk",
+    "type": "Place",
+    "aliases": ["Tehsil Office Survey Center", "Dynamic Registry Counter", "BISP Registration Desk"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Product",
+    "aliases": ["CNIC", "Shanakhti Card", "Original CNIC"],
+    "sameAs": "https://en.wikipedia.org/wiki/CNIC_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA Child Registration Certificate",
+    "type": "Product",
+    "aliases": ["B-Form", "CRC", "NADRA Bay Form", "Family Registration Certificate"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Electricity Utility Bill",
+    "type": "Product",
+    "aliases": ["Bijli Ka Bill", "WAPDA Bill", "K-Electric Bill", "Sui Gas Bill"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER Survey Token System",
+    "type": "Process",
+    "aliases": ["Dynamic Token", "Queue Token Counter", "Token Lene Ka Tarika"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT Score", "Poverty Cutoff Score", "PMT 32 Threshold"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Registration Desk Operating Hours",
+    "type": "Concept",
+    "aliases": ["BISP Office Timing", "Desk Timing 8 AM to 4 PM", "Office Hours"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Special Category Certificates",
+    "type": "Product",
+    "aliases": ["NADRA Death Certificate", "Disability Special CNIC", "Talaq Nama Union Council"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Data Entry Operator",
+    "type": "Person",
+    "aliases": ["DEO", "Survey Computer Operator", "Registration Staff"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NSER Survey Confirmation Slip",
+    "type": "Product",
+    "aliases": ["Survey Receipt", "Registration Slip", "Token Confirmation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

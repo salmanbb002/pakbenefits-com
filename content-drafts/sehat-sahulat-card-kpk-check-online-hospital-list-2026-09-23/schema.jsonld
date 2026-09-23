@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/"
+      },
+      "headline": "KPK Sehat Sahulat Card Check Online 2026: 8500 SMS, 10 Lakh Treatment Coverage & Empaneled Hospital List",
+      "description": "Check KPK Sehat Card Plus status online by CNIC or 8500 SMS. View Rs 10 Lakh free treatment package, empaneled panel hospitals list, and admission process.",
+      "inLanguage": "en-US",
+      "mainEntityOfPage": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/",
+      "datePublished": "2026-09-23T00:00:00+05:00",
+      "dateModified": "2026-09-23T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Social Welfare & Government Programs Researcher",
+        "url": "https://pakbenefits.com/authors/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/images/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Sehat Card Plus Khyber Pakhtunkhwa",
+          "url": "https://sehatcardplus.gov.pk/",
+          "serviceType": "Universal Health Insurance",
+          "provider": {
+            "@type": "GovernmentOrganization",
+            "name": "Government of Khyber Pakhtunkhwa Health Department"
+          }
+        },
+        {
+          "@type": "Organization",
+          "name": "State Life Insurance Corporation of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Life_Insurance_Corporation_of_Pakistan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "MedicalSpecialty",
+          "name": "Cardiology"
+        },
+        {
+          "@type": "MedicalSpecialty",
+          "name": "Oncology"
+        },
+        {
+          "@type": "MedicalSpecialty",
+          "name": "Nephrology"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "p:first-of-type",
+          ".direct-answer-block"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Other Schemes",
+          "item": "https://pakbenefits.com/other-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "KPK Sehat Card Check Online & Hospital List",
+          "item": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/#howto-eligibility",
+      "name": "How to Check KPK Sehat Card Eligibility by CNIC via 8500 SMS",
+      "description": "Step-by-step instructions to check your family's Sehat Card Plus eligibility and panel hospital access using your 13-digit CNIC.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open SMS Application",
+          "text": "Open the text messaging app on your mobile phone."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Type 13-Digit CNIC",
+          "text": "Enter your 13-digit Computerized National Identity Card (CNIC) number without any dashes or spaces (e.g. 1730112345671)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Send SMS to 8500",
+          "text": "Send the text message to the official shortcode 8500."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Receive Eligibility Confirmation",
+          "text": "Receive an automated State Life SMS response verifying family eligibility, registered district, and empaneled hospital access."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/sehat-sahulat-card-kpk-check-online-hospital-list/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How can I check my KPK Sehat Card eligibility by CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can check your KPK Sehat Card eligibility instantly by sending your 13-digit CNIC number without spaces or dashes via SMS to 8500, or by entering your CNIC on the official portal at sehatcardplus.gov.pk. The system will reply with your family eligibility status and district details within seconds."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the annual treatment limit on KPK Sehat Card Plus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The annual treatment limit under KPK Sehat Card Plus is Rs. 1,000,000 (10 Lakh PKR) per registered family unit. This coverage resets automatically every financial year and covers inpatient hospital admissions, major surgeries, and tertiary healthcare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get free medicines from a medical store using Sehat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, Sehat Card Plus does not cover routine outdoor pharmacy purchases from standalone medical stores. Free medicines are provided exclusively during an authorized inpatient hospital admission, along with up to 7 days of take-home recovery medication supplied at hospital discharge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which SMS code is used to check Sehat Card status in KPK?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official SMS code to check Sehat Card status in Khyber Pakhtunkhwa is 8500. Sending your CNIC to any other unauthorized four-digit number will not yield official insurance status records."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are normal child deliveries and C-sections covered under Sehat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both normal deliveries and Cesarean sections (C-sections) are fully covered under the maternal healthcare package of Sehat Card Plus at all empaneled public and private maternity hospitals. The package includes delivery charges, operation theater costs, surgeon fees, and post-natal care."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a physical plastic Sehat Card to get hospital treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, a physical plastic card is no longer required to receive healthcare benefits under Sehat Card Plus. Your original Computerized National Identity Card (CNIC) or a child's NADRA B-Form acts as your direct digital health card at all empaneled hospital facilitation desks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can KP residents get free treatment in Islamabad or Rawalpindi hospitals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, KP residents holding eligible CNICs can access free treatment for specialized tertiary procedures at designated empaneled hospitals in Islamabad and Rawalpindi, including PIMS, Rawalpindi Institute of Cardiology (RIC), and empaneled private tertiary care centers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is cancer chemotherapy and kidney dialysis covered under Sehat Card Plus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both cancer chemotherapy cycles and chronic kidney failure hemodialysis are fully covered under the priority tertiary care packages of Sehat Card Plus. Patients receive ongoing sessions at designated panel oncology and nephrology centers without paying out-of-pocket fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if a child under 18 needs hospital admission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If a child under 18 requires hospital admission, bring the child's original NADRA B-Form (Child Registration Certificate) along with the original CNIC of the father or registered guardian to the hospital Sehat Card desk for biometric verification and admission authorization."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I lodge a complaint against a panel hospital for refusing Sehat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can lodge an immediate complaint against any empaneled hospital refusing Sehat Card services or demanding cash by calling the Sehat Card Plus toll-free helpline at 0800-89898, the State Life helpline at 0800-01001, or through the Pakistan Citizens' Portal (PCP)."
+          }
+        }
+      ]
+    }
+  ]
+}

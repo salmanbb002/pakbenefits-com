@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-atm-se-paise-nikalwane-ka-tarika/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "BISP ATM Se Paise Nikalwane Ka Tarika: HBL Konnect Aur Bank Alfalah Biometric ATM Cash Withdrawal (2026)",
+      "description": "BISP ATM se paise nikalne ka mukammal tarika: HBL Konnect aur Bank Alfalah BVS ATMs se bina card fingerprint laga kar Rs 13500 baghair kataoti wasool karein.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-23T00:00:00+05:00",
+      "dateModified": "2026-09-23T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "Habib Bank Limited",
+          "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited"
+        },
+        {
+          "@type": "Thing",
+          "name": "Bank Alfalah",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Biometric Verification System",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cardless ATM Cash Withdrawal"
+        },
+        {
+          "@type": "Thing",
+          "name": "8171 SMS Gateway"
+        },
+        {
+          "@type": "Thing",
+          "name": "HBL Konnect"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-snippet", "h1", "h2"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-atm-se-paise-nikalwane-ka-tarika/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Payment Check",
+          "item": "https://pakbenefits.com/payment-check/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP ATM Se Paise Nikalne Ka Tarika",
+          "item": "https://pakbenefits.com/bisp-atm-se-paise-nikalwane-ka-tarika/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/bisp-atm-se-paise-nikalwane-ka-tarika/#howto",
+      "name": "How to Withdraw BISP Kafaalat Payment from HBL & Bank Alfalah Biometric ATM",
+      "description": "Step-by-step cardless biometric cash withdrawal guide for BISP beneficiaries at partner bank ATMs without agent deductions.",
+      "totalTime": "PT5M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Touch ATM Screen",
+          "text": "Visit a designated HBL or Bank Alfalah BVS ATM and touch the screen or press the Enter key to activate the cardless menu."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Select Urdu & BISP Service",
+          "text": "Choose Urdu as language and select 'BISP / Ehsaas Biometric Cash Withdrawal' from the screen options."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Enter 13-Digit CNIC",
+          "text": "Type the beneficiary's 13-digit CNIC number without any dashes and press correct/confirm."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Scan Thumb / Fingerprint",
+          "text": "Place the registered thumb or index finger on the illuminated biometric scanner for real-time NADRA verification."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Select Full Amount (Rs. 13,500)",
+          "text": "Choose the Cash Withdrawal option and select the full quarterly tranche of Rs. 13,500."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Collect Net Cash & Printed Slip",
+          "text": "Collect the dispensed cash notes and keep the printed transaction receipt for your records."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-atm-se-paise-nikalwane-ka-tarika/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kya BISP ke paise nikalne ke liye plastic ATM card hona zaroori hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP Kafaalat ke paise nikalne ke liye kisi plastic ATM debit card ki zaroorat nahi hoti. Yeh service mukammal taur par cardless biometric system par munhasir hai jahan sirf aap ka CNIC number aur angootha kafi hota hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "HBL ATM se BISP ke paise nikalne par bank kitni fees kat-ta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HBL ya Bank Alfalah biometric ATM se BISP raqam nikalne par bilkul zero fee kat-ti hai. Yeh service Hakoomat-e-Pakistan ki taraf se mustahiqeen ke liye 100% muft faraham ki gayi hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar ATM par angootha match na ho toh kya karna chahiye?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agar ATM par angootha tasdeeq na ho, toh haathon ko saaf karke doosri ungli se koshish karein. Agar phir bhi masla barqarar rahe toh BISP Tehsil Office ja kar BVS verification update karwayen ya designated bank counter se manual verification karwayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Punjab aur Sindh ke ilaqon mein kis bank ke ATM par jana hoga?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Punjab, Sindh aur Balochistan ke mustahiqeen ko Habib Bank Limited (HBL) ke biometric ATMs par jana hoga."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "KPK, Azad Kashmir aur Gilgit-Baltistan ke liye kon sa ATM istemal hoga?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Khyber Pakhtunkhwa (KP), Azad Jammu & Kashmir (AJK) aur Gilgit-Baltistan (GB) ke mustahiqeen Bank Alfalah ke biometric ATMs se cash wasool kar sakte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya 8171 SMS aane se pehle ATM se paise nikal sakte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, jab tak aap ke CNIC par BISP ki taraf se quarterly tranche release na ho aur 8171 se tasdeeqi SMS na mile ya 8171 portal par status approved na ho, tab tak ATM se raqam nahi niklegi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar ATM screen par 'No Funds / Insufficient Balance' aaye toh kya matlab hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Is ka matlab hai ke aap ki is sah-mahi (quarter) ki qist abhi BISP central account se jari nahi hui ya aap ka survey update hone wala hai. Apna status 8171 web portal par check karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya kisi doosre bank (jaise UBL, Meezan ya MCB) ke ATM se BISP paise nikal sakte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP biometric withdrawal sirf designated partner banks (HBL aur Bank Alfalah) ke khas BVS touch ATMs par faal hai. Doosre commercial banks ke ATMs par cardless BISP menu dastiyab nahi hota."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar ATM se paise nikalte waqt light chali jaye ya cash phans jaye toh kya karein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fauri taur par bank branch ke manager ko likhi hui darkhwast dein aur BISP toll-free helpline 0800-26477 par complaint darj karwayen. Bank audit ke baad phansi hui raqam 24 se 48 ghante mein dobara jari kar di jati hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya koi dukan-dar ya agent ATM se paise nikalne par commission maang sakta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bilkul nahi. ATM se paise nikalna mukammal taur par muft hai aur kisi bhi shakhs ko koi commission ya rishwat dena qanoonan jurm hai."
+          }
+        }
+      ]
+    }
+  ]
+}

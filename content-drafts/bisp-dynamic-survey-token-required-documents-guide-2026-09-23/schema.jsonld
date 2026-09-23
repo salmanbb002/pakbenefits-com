@@ -1,0 +1,212 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-dynamic-survey-token-required-documents-guide/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://pakbenefits.com/#website",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "headline": "BISP Dynamic Survey Ke Liye Kon Se Documents Chahiye: Tehsil Desk Timing Aur Token System Guide (2026)",
+      "description": "BISP Dynamic Survey ke liye zaroori documents ki mukammal list: CNIC, B-Form, bijli ka bill, Tehsil office desk timings aur token lene ka step-by-step tareeqa.",
+      "inLanguage": "ur-Latn",
+      "datePublished": "2026-09-23T00:00:00+05:00",
+      "dateModified": "2026-09-23T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "National Socio-Economic Registry",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "BISP Tehsil Registration Desk"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Computerized National Identity Card",
+          "sameAs": "https://en.wikipedia.org/wiki/CNIC_(Pakistan)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Child Registration Certificate (B-Form)"
+        },
+        {
+          "@type": "Thing",
+          "name": "NSER Token System"
+        },
+        {
+          "@type": "Thing",
+          "name": "Proxy Means Test (PMT) Score"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-snippet", "h1", "h2"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/bisp-dynamic-survey-token-required-documents-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "NSER & PMT Score",
+          "item": "https://pakbenefits.com/nser-pmt-score/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP Survey Documents & Token Guide",
+          "item": "https://pakbenefits.com/bisp-dynamic-survey-token-required-documents-guide/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/bisp-dynamic-survey-token-required-documents-guide/#howto",
+      "name": "How to Get NSER Survey Token and Complete BISP Dynamic Registration",
+      "description": "Step-by-step workflow to prepare documents, obtain early morning survey token, and complete dynamic registry interview at BISP Tehsil Office.",
+      "totalTime": "PT45M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Initial Screening at Gate",
+          "text": "Present original CNICs and B-Forms to security/reception staff at BISP Tehsil Office between 8:00 AM and 1:00 PM."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Obtain Automated NSER Token",
+          "text": "Collect computerized queue token from the issuance counter (Priority green tokens issued for widows and disabled applicants)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Data Entry Desk Interview",
+          "text": "Answer Data Entry Operator questions regarding household composition, rooms, livestock, assets, and electricity consumption."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Biometric Verification & Confirmation Slip",
+          "text": "Scan your thumb on the biometric device and receive the stamped NSER Dynamic Survey Confirmation Receipt."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/bisp-dynamic-survey-token-required-documents-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kya BISP Dynamic Survey karwane ke liye koi fees ada karni parti hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, BISP dynamic survey aur token system Hakoomat-e-Pakistan ki taraf se 100% muft hai. Agar koi shakhs token dilwane ya jaldi survey karwane ke paise maangay toh fauri helpline 0800-26477 par report karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar bachon ka B-Form na bana ho toh kya survey ho sakta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, 18 saal se kam umar bachon ke B-Form ke baghair survey mukammal nahi hota aur bachon ke Taleemi Wazaif bhi jari nahi ho sakte. Pehle NADRA se B-Form banwayen phir survey ke liye jayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya bijli ka bill zati makaan ka hona zaroori hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, agar aap kiraye ke ghar mein rehte hain toh makan-malik ke naam ka mojooda bijli bill bhi qabil-e-qabool hai. Survey mein sirf consumer number aur usage units note kiye jate hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP Tehsil Office ka token counter kis waqt band hota hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aam dinon (Peer ta Jumerat) mein token counter dopahar 01:00 baje band ho jata hai jabke Juma ke roz subah 11:30 baje token generation band ho jati hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya shohar ka CNIC sath le jana zaroori hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ji haan, shadi-shuda khatoon ke liye shohar ka asal CNIC ya uski wazeh copy hona lazmi hai taake shohar ka status aur aamdani system mein link ho sake."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bewa khatoon ke liye kaun sa death certificate lagta hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bewa khatoon ke liye NADRA ka computerized Death Certificate lagta hai. Purana ya ghair-computerized parcha qabil-e-qabool nahi hota."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP dynamic survey ke baad kitne dinon mein paise milte hain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dynamic survey ke baad data verification aur PMT score nikalne mein 3 se 6 hafte (20-45 din) lagte hain. Agar PMT score 32 se kam aaye toh agli sah-mahi qist jari kar di jati hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kya Saturday aur Sunday ko BISP dynamic survey desk khula hota hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, Saturday aur Sunday ko tamam sarkari BISP tehsil offices aur registration desks band hote hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar shanakhti card expire ho chuka ho toh kya survey hoga?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nahi, expire CNIC par system data accept nahi karta. Pehle NADRA office se apna CNIC renew karwayen aur phir BISP desk tashreef le jayen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Agar kisi khatoon ke biometric fingerprints ghis chuke hon toh survey kaise hoga?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agar biometric scan fail ho jaye toh operator manual system override aur live webcam tasveer ke zariye dynamic survey complete karta hai."
+          }
+        }
+      ]
+    }
+  ]
+}
