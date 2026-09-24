@@ -1,206 +1,230 @@
-# Benazir Nashonuma Program Online Check 2026: 8171 CNIC Status, Rs 3,000 Nutrition Cash & Registration Guide
+# Benazir Nashonuma Program Online Check CNIC & Registration 2026
 
-> **Quick Answer:** The Benazir Nashonuma Program is a specialized BISP Conditional Cash Transfer offering pregnant women and mothers of children under 2 years quarterly stipends of Rs 2,500 (for boys and mothers) and Rs 3,000 (for girls), alongside free Specialized Nutritious Food (Wawa Mum sachets). Verify your household eligibility online by entering your 13-digit CNIC on the official 8171 web portal (`8171.bisp.gov.pk`) and visit your nearest Tehsil Headquarter Hospital Facilitation Center for biometric clinical enrollment.
-
----
-
-## What is the Benazir Nashonuma Program and Who is Eligible in 2026?
-
-The Benazir Nashonuma Program is Pakistan’s flagship maternal and child nutrition initiative designed to eradicate childhood stunting, wasting, and maternal anemia among low-income households. Operating under the Benazir Income Support Programme (BISP) in partnership with the World Food Programme (WFP), the program targets the critical "First 1,000 Days of Life"—spanning from conception to a child’s second birthday (23 months of age). Eligible families receive quarterly conditional cash transfers (CCT) and specialized lipid-based nutritional supplements (SNF) to protect infant cognitive and physical growth.
-
-Eligibility is strictly linked to the National Socio-Economic Registry (NSER). To qualify for Benazir Nashonuma, a woman must belong to an active BISP Kafalat beneficiary family or hold a verified Proxy Means Test (PMT) poverty score of 32 or below. Beneficiaries must also be either clinically confirmed pregnant or have biological children under two years of age registered in NADRA's civil database.
-
-```
-+---------------------------------------------------------------------------------------------------+
-|                            BENAZIR NASHONUMA PROGRAM OVERVIEW (2026)                              |
-+--------------------------+------------------------------------------------------------------------+
-| Governing Authority      | Benazir Income Support Programme (BISP) & Ministry of Poverty Alleviation|
-| Technical Partner        | United Nations World Food Programme (WFP) & Provincial Health Depts    |
-| Target Beneficiaries     | Pregnant & Lactating Women (PLW) + Children aged 0 to 23 months        |
-| Poverty Cut-off (PMT)    | Proxy Means Test (PMT) score equal to or below 32                      |
-| Primary Cash Benefits    | Rs 2,500/month (Mothers & Boys) | Rs 3,000/month (Girls) paid quarterly  |
-| Nutrition Supplement     | Free Specialized Nutritious Food (SNF) / Wawa Mum lipid sachets       |
-| Clinical Centers         | 500+ Nashonuma Facilitation Centers located in DHQ & THQ Hospitals     |
-| Eligibility Check Portal | Official 8171 Web Portal (8171.bisp.gov.pk)                            |
-+--------------------------+------------------------------------------------------------------------+
-```
-
-### Core Focus on the First 1,000 Days of Life
-
-The biological window between conception and a child's second birthday determines lifelong neurological architecture and physical immunity. Chronic malnutrition during these 1,000 days causes irreversible stunting, reduced adult earning potential, and heightened vulnerability to chronic infections. By tying cash stipends directly to clinical antenatal checkups, institutional delivery, and routine infant vaccinations, Benazir Nashonuma creates a robust safety net that prevents malnutrition before deficits become permanent.
-
-### PMT Score Cut-Off and BISP Kafalat Linkage
-
-Families already receiving the regular BISP Kafalat quarterly stipend of Rs 13,500 automatically meet the basic financial poverty threshold for Nashonuma. If your household is not currently receiving Kafalat but your family PMT score on the NSER dynamic registry is 32 or lower, pregnant mothers and infants remain eligible for direct enrollment at hospital facilitation desks upon presenting proof of pregnancy or infant birth records.
+To check your Benazir Nashonuma Program eligibility online, verify your household status on the official BISP 8171 web portal or SMS your 13-digit CNIC to 8171. Active Benazir Kafaalat families with pregnant mothers or children under two years receive quarterly stipends of Rs 2,500 to Rs 3,500 alongside free specialized nutritional food.
 
 ---
 
-## How to Check Benazir Nashonuma Program Status by CNIC via 8171 Portal
+## What Is the Benazir Nashonuma Program and Who Is It For?
 
-Checking your family’s eligibility status for the Benazir Nashonuma Program is carried out through the central BISP 8171 automated database. While physical clinical registration occurs exclusively at hospital counters, you can confirm whether your household CNIC is pre-cleared for social protection benefits from home using any web browser or mobile phone.
+The Benazir Nashonuma Program is a specialized conditional cash transfer initiative managed by the Benazir Income Support Programme to prevent childhood stunting and maternal malnutrition across Pakistan. Operating in close partnership with the United Nations World Food Programme, the initiative targets vulnerable families currently registered under the national socioeconomic registry.
 
-### Step-by-Step 8171 Online Verification Guide
+Eligible beneficiaries receive direct financial assistance every three months alongside medical checkups and nutritional supplements. This intervention ensures low-income households can afford essential maternal healthcare, balanced dietary requirements, and infant medical care during early development stages.
 
-1. **Access the Official Web Portal**: Open your mobile or desktop web browser and visit `https://8171.bisp.gov.pk/`.
-2. **Enter Mother’s 13-Digit CNIC**: Type the Computerized National Identity Card number of the pregnant woman or mother without dashes (e.g., `3520112345671`).
-3. **Submit the Captcha Code**: Enter the 4-digit security code displayed on the screen into the verification box to prevent automated query blocking.
-4. **Click "Maloom Karein" (Check Status)**: The portal will query the live NSER database and immediately display your household status.
-5. **Interpret the Verification Response**:
-   - **Eligible (Ahal)**: Your family is active in the BISP network with a qualifying PMT score. You may proceed directly to the nearest Tehsil Hospital Nashonuma Center with your documents.
-   - **Survey Required (Dynamic Registry)**: Your family data is outdated or exceeds the cutoff. You must visit the BISP Tehsil Office to update your socio-economic profile.
-   - **Ineligible (Na-Ahal)**: The registered PMT score exceeds the threshold of 32.
+### The First 1,000 Days Window: Maternal and Infant Nutrition Focus
 
-```
-[ Step 1: Open 8171.bisp.gov.pk ] ---> [ Step 2: Input 13-Digit CNIC ] ---> [ Step 3: Enter Captcha Code ]
-                                                                                         |
-                                                                                         v
-[ Result: Eligible -> Visit THQ Desk ] <--- [ Result: Survey Required -> Update at BISP ] <---+
-```
+The first 1,000 days—spanning from the start of pregnancy until a child reaches two years of age—form the critical biological foundation for physical growth and neurological development. Medical evidence confirms that nutritional deficits during this narrow window cause irreversible cognitive impairment, weakened immunity, and chronic childhood stunting.
 
-### 8171 SMS Ineligibility and Survey Status Codes Explained
+Benazir Nashonuma structures its conditional cash disbursements around this 1,000-day window to guarantee timely clinical oversight. Mothers receive specialized nutrition counseling, scheduled growth tracking, and food supplements from the first trimester through the child's second birthday.
 
-Beneficiaries without internet connectivity can send their 13-digit CNIC number via SMS to **8171**. If the response states that your family is eligible for Kafalat, you are automatically eligible to register any eligible pregnancy or child under 2 years for Nashonuma cash grants. If the SMS indicates that you need to visit a registration center, it indicates your household dynamic survey has expired or requires biometric re-verification.
+### Core Eligibility Criteria: BISP Kafaalat and PMT Score Thresholds
+
+Beneficiary enrollment for Nashonuma requires prior qualification under the national social safety net. Only families meeting specific socioeconomic thresholds qualify for physical center onboarding.
+
+The mandatory eligibility criteria include:
+* **Active Kafaalat Registration:** The female family head must be an active beneficiary of the Benazir Kafaalat Program.
+* **Proxy Means Test (PMT) Score:** Household PMT poverty score must be at or below 32 as verified in the National Socio-Economic Registry (NSER).
+* **Target Demographics:** A woman must be medically confirmed pregnant or lactating with an infant aged between 0 and 23 months.
+* **Valid NADRA Documentation:** Both the mother's Computerized National Identity Card (CNIC) and the child’s NADRA B-Form / Child Registration Certificate (CRC) must be valid and active.
 
 ---
 
-## Cash Grant Breakdown: How Much Money is Given for Mothers, Boys, and Girls?
+## How to Check Benazir Nashonuma Eligibility Online by CNIC
 
-Benazir Nashonuma conditional cash transfers are disbursed on a quarterly cycle directly alongside or through dedicated BISP payment channels. The stipend structure is deliberately calibrated to provide financial compensation for transport costs to health facilities, nutritious diet acquisition, and to combat cultural gender bias by offering higher cash incentives for female infants.
+Online eligibility verification for the Benazir Nashonuma Program is conducted through the central BISP 8171 digital verification infrastructure. While physical registration happens at healthcare centers, confirming your underlying eligibility status online saves unnecessary travel.
 
-| Beneficiary Category | Target Group / Condition | Monthly Equivalent | Quarterly Cash Grant (Disbursed) | In-Kind Nutrition Supplement |
-|---|---|---|---|---|
-| **Pregnant Women** | From confirmed pregnancy through delivery (ANC visits) | Rs 2,500 | **Rs 7,500** per quarter | Iron-Folic Acid + Wawa Mum SNF Sachets |
-| **Lactating Mothers** | Nursing mothers of infants aged 0–6 months | Rs 2,500 | **Rs 7,500** per quarter | Specialized Nutritious Food (SNF) Sachets |
-| **Male Infant (Boy)** | Child aged 0 to 23 months (EPI vaccination & growth monitoring) | Rs 2,500 | **Rs 7,500** per quarter | Monthly Lipid Nutrition Sachets (Maamoul) |
-| **Female Infant (Girl)** | Child aged 0 to 23 months (EPI vaccination & growth monitoring) | Rs 3,000 | **Rs 9,000** per quarter | Monthly Lipid Nutrition Sachets (Maamoul) |
+Beneficiaries can perform the verification through the official government web interface or via direct mobile SMS using any registered telecom network.
 
-### Quarterly Nutrition Cash Schedule (2026 Update)
+```
++-----------------------------------------------------------------------------------+
+|                        BISP 8171 ONLINE VERIFICATION STEPS                         |
++-----------------------------------------------------------------------------------+
+| 1. Open official portal: 8171.bisp.gov.pk                                         |
+| 2. Enter 13-digit CNIC number without dashes                                      |
+| 3. Enter the 4-digit captcha code shown on the screen                             |
+| 4. Click 'Check Eligibility' (Maloom Karein) to view family Kafaalat status       |
++-----------------------------------------------------------------------------------+
+```
 
-Under the updated 2026 operational framework, cash grants are released in synchronized quarterly tranches (January–March, April–June, July–September, and October–December). A mother nursing twin infant girls who is also registered herself can receive up to Rs 25,500 quarterly (Rs 7,500 maternal grant + Rs 9,000 for each female child), provided health attendance conditions are fully satisfied.
+### Step 1: Verify Active BISP Status on the 8171 Web Portal
 
-### Why Girl Children Receive Higher Cash Incentives (Rs 3,000 vs Rs 2,500)
+The primary method for online verification is the web portal at `8171.bisp.gov.pk`. This portal connects directly to the national welfare database and confirms whether your household PMT score is eligible for specialized sub-programs like Nashonuma.
 
-Female infants in disadvantaged socio-economic percentiles face disproportionate risks of neglect, dietary deficit, and delayed medical intervention. To actively incentivize families to prioritize healthcare, nutrition, and timely immunization for female infants, the Federal Government structures the Nashonuma grant with a dedicated 20% premium for girls (Rs 3,000 monthly vs Rs 2,500 for boys), mirroring the affirmative action model utilized in Benazir Taleemi Wazaif.
+To perform the web check:
+1. Open an internet browser and navigate to `https://8171.bisp.gov.pk`.
+2. Type your 13-digit CNIC number into the first data field without dashes or spaces.
+3. Type the 4-digit numeric captcha displayed in the verification image.
+4. Click the green verification button to retrieve your household status.
+
+A positive status indicates that your household is active and eligible to present documents at the nearest district hospital Nashonuma desk.
+
+### Step 2: Confirm Household Status via 8171 SMS Service
+
+Families without internet access can verify their status using standard cellular SMS. This official short code operates across Jazz, Telenor, Zong, and Ufone networks.
+
+To verify via SMS:
+1. Open the messaging app on any mobile phone.
+2. Enter your 13-digit CNIC number in the message body.
+3. Send the SMS to the official short code **8171**.
+4. Receive a response message detailing your household eligibility and payment status within minutes.
+
+Ensure you send the inquiry exclusively to 8171. Official BISP communications never originate from private 11-digit mobile phone numbers.
 
 ---
 
-## How to Register for Benazir Nashonuma: Hospital Facilitation Center Process
+## How to Register at the Nashonuma Facilitation Center
 
-Unlike general cash relief programs, **Benazir Nashonuma registration cannot be completed entirely online**. Because the program involves clinical health validation and nutritional distribution, physical enrollment at a designated Nashonuma Facilitation Center (NFC) is mandatory. These centers operate inside Government Tehsil Headquarter (THQ) Hospitals and District Headquarter (DHQ) Hospitals across all districts of Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan, Gilgit-Baltistan, and Azad Jammu & Kashmir.
+Physical registration at an authorized Nashonuma Facilitation Center is mandatory to complete biological and biometric onboarding. Because Nashonuma is a conditional health program requiring physical measurements, online portal submission alone cannot complete enrollment.
 
-```
-+---------------------------------------------------------------------------------------------------+
-|                        NASHONUMA FACILITATION CENTER (NFC) REGISTRATION WORKFLOW                  |
-+---------------------------------------------------------------------------------------------------+
-| 1. DESK ARRIVAL      | Present mother's original CNIC and Child's NADRA B-Form / CRC card.        |
-| 2. NSER VERIFICATION | Staff verifies household PMT score <= 32 on the internal BISP portal.      |
-| 3. CLINICAL EXAM     | LHW/Nurse performs anthropometric check: height, weight, MUAC tape test.  |
-| 4. HEALTH CARD ENTRY | Clinical staff records ANC milestone or child's EPI immunization card.    |
-| 5. DIGITAL ENROLLMENT| Biometric thumbprint verification creates linked Nashonuma beneficiary ID. |
-| 6. SNF DISTRIBUTION  | Mother receives 1-month quota of Wawa Mum sachets + nutrition counselling.|
-+---------------------------------------------------------------------------------------------------+
-```
+Facilitation centers operate inside Tehsil Headquarter (THQ) and District Headquarter (DHQ) government hospitals across all 156 districts in Pakistan.
 
-### Mandatory Documents Checklist for Registration
+| Online 8171 Check vs Hospital Facilitation Center |
+|---|
+| **Feature / Parameter** | **8171 Online Portal & SMS** | **Nashonuma Facilitation Center (DHQ/THQ)** |
+| **Primary Purpose** | Confirms base Kafaalat PMT eligibility | Completes clinical, biometric, & nutrition enrollment |
+| **Location** | Anywhere via mobile or computer | Government DHQ / THQ Hospital premises |
+| **Physical Exam Required** | No | Yes (Weight, height, pregnancy check, MUAC) |
+| **Document Submission** | Digital lookup only | Physical verification of original CNIC & B-Form |
+| **Food Sachet Handout** | No | Yes (Quarterly supply of Wawa Mum / Maamta) |
+| **Biometric Scan** | Not required | Mandatory fingerprint / iris registration |
 
-To ensure seamless registration without multiple hospital visits, bring the following original documentation:
+### Required Original Documents Checklist
 
-1. **Mother’s Original CNIC**: Valid Computerized National Identity Card issued by NADRA.
-2. **Child’s NADRA B-Form / CRC**: Official Child Registration Certificate linking the infant to the mother’s CNIC.
-3. **EPI Immunization Card (Hifazati Teekay Card)**: Issued by the government vaccinator showing up-to-date vaccine doses.
-4. **Antenatal Care (ANC) Card / Ultrasound Report**: For pregnant mothers, showing gestational age and clinical checkup history.
-5. **Active Mobile SIM Card**: Registered under the mother’s or husband’s CNIC to receive official payment SMS alerts from 8171.
+Before visiting the facilitation center, applicants must assemble all original official records. Photocopies without originals will lead to application rejection.
 
-### Clinical Screening, Weight Monitoring, and SNF Food Supplement Handout
+Applicants must present:
+* **Original CNIC:** Valid NADRA-issued smart card or CNIC belonging to the mother.
+* **Child’s NADRA B-Form:** Official birth certificate issued by NADRA containing the child's 13-digit identity number.
+* **EPI Vaccination Card:** Expanded Programme on Immunization record card showing up-to-date infant vaccines.
+* **Maternal Health Card:** Proof of pregnancy, ultrasound report, or hospital antenatal record for expecting mothers.
+* **Registered SIM Card:** A mobile SIM registered under the beneficiary's own CNIC.
 
-During each monthly center visit, medical staff conduct comprehensive anthropometric assessments. Children are weighed using digital scales, measured for recumbent length, and evaluated for acute malnutrition using Mid-Upper Arm Circumference (MUAC) color-coded bands. Mothers receive a 30-day supply of Specialized Nutritious Food (SNF)—such as *Wawa Mum* or *Maamoul* lipid paste enriched with vitamins, minerals, and essential fatty acids—along with mandatory dietary counseling sessions.
+### Hospital Facilitation Desk Registration & Biometric Verification
 
----
+Upon arriving at the DHQ or THQ hospital facilitation counter, the registration workflow follows four structured steps:
 
-## Health Compliance Conditions: Mandatory Checkups to Keep Cash Flowing
-
-Benazir Nashonuma is a *conditional* program; receiving quarterly cash payments is legally tied to adhering to government health protocols. If a beneficiary misses scheduled clinic visits or drops out of the vaccination cycle, quarterly cash disbursals are automatically frozen in the BISP system until compliance is restored.
-
-```
-+---------------------------------------------------------------------------------------------------+
-|                          MANDATORY HEALTH COMPLIANCE MILESTONES (2026)                            |
-+--------------------------+-----------------------------------+------------------------------------+
-| Target Beneficiary       | Minimum Required Clinic Visits    | Mandatory Medical Milestones       |
-+--------------------------+-----------------------------------+------------------------------------+
-| **Pregnant Women**       | At least 4 Antenatal Visits (ANC) | Tetanus Toxoid (TT), Iron-Folic    |
-|                          | (1 per trimester + pre-delivery)  | acid intake, ultrasound check      |
-+--------------------------+-----------------------------------+------------------------------------+
-| **Lactating Mothers**    | 2 Postnatal Visits (PNC)          | Post-delivery recovery check,      |
-|                          | (Within 6 weeks of childbirth)    | exclusive breastfeeding session    |
-+--------------------------+-----------------------------------+------------------------------------+
-| **Infant (0–6 Months)**  | Monthly Center Visit              | Growth tracking, BCG, OPV, Penta,  |
-|                          | (6 total checkups)                | Rota immunization series           |
-+--------------------------+-----------------------------------+------------------------------------+
-| **Child (6–23 Months)**  | Bi-Monthly Center Visit           | Measles vaccine 1 & 2, MUAC test,  |
-|                          | (Synchronized with SNF refills)   | complementary feeding counselling  |
-+--------------------------+-----------------------------------+------------------------------------+
-```
-
-### Antenatal (ANC) and Postnatal (PNC) Visit Milestones
-
-Pregnant women must attend at least four clinical checkups throughout pregnancy. During these visits, medical officers check maternal blood pressure, screen for gestational diabetes and anemia, administer Tetanus Toxoid (TT) immunizations, and monitor fetal heartbeat. Following delivery, postnatal checkups ensure maternal recovery and reinforce exclusive breastfeeding practices for the child's first six months.
-
-### EPI Vaccination Schedule and Growth Monitoring Requirements
-
-Children enrolled in Nashonuma must follow Pakistan’s national Expanded Programme on Immunization (EPI) schedule. Missing the Pentavalent, Pneumococcal, or Measles vaccine doses flags the child’s profile as "Non-Compliant" in the BISP central health dashboard, temporarily withholding the upcoming quarterly cash installment until the local health worker logs the updated vaccination stamp.
+1. **Initial Screening & Token Issuance:** The registration clerk scans the mother's CNIC against the national database to verify active BISP Kafaalat enrollment.
+2. **Clinical & Nutritional Assessment:** Healthcare staff record the mother's weight, blood pressure, and hemoglobin levels. For infants, staff measure mid-upper arm circumference (MUAC), height, and weight to identify acute stunting or wasting.
+3. **Biometric Enrollment:** The mother completes fingerprint biometric registration linked to NADRA's central identity server.
+4. **Awareness Session & Sachet Issuance:** Beneficiaries attend an interactive 15-minute counseling session on hygiene, exclusive breastfeeding, and complementary feeding before collecting their quarterly nutritional food packets.
 
 ---
 
-## Common Problems and Solutions: Biometric Issues, B-Form Missing, and Delays
+## Benazir Nashonuma Stipend Amounts and Payment Schedule (2026)
 
-### How to Register Newborn Children Without a NADRA B-Form
+Benazir Nashonuma provides differentiated quarterly cash disbursements based on the gender of the child to actively encourage female infant healthcare and nutrition. The stipend includes an integrated travel subsidy of Rs 500 per visit to offset transport costs to the hospital.
 
-A frequent roadblock occurs when mothers visit the clinic immediately after delivery without obtaining a NADRA Child Registration Certificate (B-Form). Nashonuma hospital desks cannot link a child to the mother’s database profile without an official 13-digit child CRC number. To resolve this:
-1. Obtain the official Birth Certificate from your local Union Council within 60 days of delivery.
-2. Visit the nearest NADRA Registration Center (NRC) with both parents' CNICs and the Union Council birth certificate to generate the B-Form.
-3. Bring the newly issued B-Form and the hospital birth card to the Nashonuma Facilitation Center for instant digital registration.
+Payments are disbursed every three months through designated partner banks, including HBL Konnect in Punjab, Sindh, and Balochistan, and Bank Alfalah in Khyber Pakhtunkhwa, Gilgit-Baltistan, and Azad Jammu & Kashmir.
 
-### What to Do If Nashonuma Payments are Delayed or Blocked
+```
++-----------------------------------------------------------------------------------+
+|                   BENAZIR NASHONUMA QUARTERLY STIPEND RATES (2026)                |
++-----------------------------------------------------------------------------------+
+| Beneficiary Category          | Base Nutrition Cash | Travel Allowance | Total / Qtr |
++-------------------------------+---------------------+------------------+-------------+
+| Pregnant & Lactating Mother   | Rs 2,000            | Rs 500           | Rs 2,500    |
+| Male Child (0–23 Months)      | Rs 2,000            | Rs 500           | Rs 2,500    |
+| Female Child (0–23 Months)    | Rs 2,500–3,000      | Rs 500           | Rs 3,000–3,500 |
++-------------------------------+---------------------+------------------+-------------+
+```
 
-If your 8171 web check indicates eligibility but no cash transfers arrive during the payment cycle:
-- **Check Attendance Compliance**: Verify with your Tehsil hospital desk that your latest clinical checkup or child vaccination was successfully recorded in the digital tablet software.
-- **Biometric Failure at Payment Retailer**: If the POS agent's biometric scanner fails to recognize your thumbprint, visit your nearest designated bank branch (Bank Alfalah in KP/AJK/GB; Habib Bank Limited - HBL in Punjab/Sindh/Balochistan) or BISP Tehsil Office for biometric bypass verification.
-- **Dynamic Survey Expiry**: Beneficiaries whose NSER socioeconomic profile has exceeded the 3-year validity limit must complete a re-survey at the BISP Tehsil Registration Center.
-- **Official BISP Helpline**: File an official grievance by calling the BISP toll-free helpline at **0800-26477** (0800-BISP7) between 8:00 AM and 4:00 PM on working days.
+### Quarterly Cash Transfer Breakdown: Boy Child vs Girl Child
+
+The quarterly cash amount for an enrolled mother during pregnancy and lactation is Rs 2,500 per quarter. Upon giving birth, the infant receives a dedicated cash entitlement in addition to the mother's regular Benazir Kafaalat baseline payment.
+
+For a male infant, the program disburses Rs 2,500 per quarter (Rs 2,000 nutrition cash plus Rs 500 transport allowance). For a female infant, the program disburses Rs 3,000 to Rs 3,500 per quarter (including transport allowance), providing higher economic incentives for female child healthcare compliance.
+
+### Specialized Nutritious Food (SNF) Distribution Rules
+
+In addition to direct cash transfers, registered beneficiaries receive Specialized Nutritious Food (SNF) formulated to meet international dietary standards:
+
+* **Maamta Supplement for Mothers:** Fortified lipid-based paste packets enriched with micronutrients, iron, folate, and calcium distributed to pregnant and nursing mothers.
+* **Wawa Mum for Children (6–23 Months):** Ready-to-Use Supplementary Food (RUSF) containing high-density protein, vitamins, and minerals specifically formulated to prevent acute infant wasting.
+
+Mothers receive a 90-day ration during each quarterly center visit, provided they comply with health checkup schedules.
 
 ---
 
-## Frequently Asked Questions (FAQs)
+## 1,000-Day Milestone & Compliance Schedule
 
-### 1. Can any woman in Pakistan apply for the Benazir Nashonuma Program?
-No, registration is strictly restricted to pregnant women and mothers of children under 2 years who belong to families registered with a BISP Proxy Means Test (PMT) poverty score of 32 or below.
+Cash disbursements are tied directly to health compliance milestones. Missing a scheduled clinical checkup or skipping infant immunizations results in the temporary withholding of quarterly cash installments.
 
-### 2. How much total money is given for a newborn baby girl under Nashonuma?
-A female child receives Rs 3,000 per month (disbursed as Rs 9,000 per quarter) from birth until she reaches 23 months of age, providing up to Rs 72,000 in direct nutrition cash support over two years.
+```
++-----------------------------------------------------------------------------------+
+|                       COMPLIANCE & PAYMENT MILESTONE MATRIX                        |
++-----------------------------------------------------------------------------------+
+| Milestone Stage       | Required Clinical Action          | Compliance Condition  |
++-----------------------+-----------------------------------+-----------------------+
+| Trimester 1 & 2       | Antenatal Checkup 1 & 2           | Ultrasound / ANC Card |
+| Trimester 3           | Antenatal Checkup 3 & Tetanus Shot| EPI Tetanus Toxoid    |
+| Birth to 6 Months     | Postnatal Checkup & Birth B-Form  | Exclusive Breastfeed  |
+| 6 to 12 Months        | EPI Measles 1 + Growth Tracking   | MUAC & Weight Log     |
+| 12 to 24 Months       | EPI Booster + Nutrition Screening | Biannual Hospital Visit|
++-----------------------+-----------------------------------+-----------------------+
+```
 
-### 3. Is there an online registration form to download for Benazir Nashonuma?
-No, there is no downloadable online registration form. Registration requires physical clinical screening, biometric verification, and anthropometric measurement at a government THQ or DHQ hospital Nashonuma Facilitation Center.
+---
 
-### 4. What is Wawa Mum and is it given free of charge?
-Wawa Mum is a specialized, nutrient-dense lipid paste fortified with essential micronutrients, vitamins, and minerals provided completely free of cost to enrolled mothers and infants to prevent stunting and wasting.
+## Common Benazir Nashonuma Problems and How to Resolve Them
 
-### 5. Can a mother receive both BISP Kafalat and Benazir Nashonuma cash simultaneously?
-Yes, an eligible mother receives her regular BISP Kafalat quarterly stipend (Rs 13,500) alongside her separate Nashonuma nutrition cash grants (Rs 2,500 to Rs 3,000 monthly) without any deduction.
+Beneficiaries occasionally experience administrative delays or technical errors during registration and cash collection. Understanding standard resolution protocols prevents payment disruptions.
 
-### 6. Where are Benazir Nashonuma Facilitation Centers located?
-Nashonuma Facilitation Centers (NFCs) are established in designated wards inside all District Headquarter (DHQ) and Tehsil Headquarter (THQ) Government Hospitals across Pakistan.
+### Biometric Fingerprint Failure at Cash Points
 
-### 7. What happens if I miss a scheduled vaccination or hospital checkup?
-Missing a mandatory ANC checkup or EPI vaccination milestone results in a temporary freeze on your upcoming quarterly cash stipend until your visit is verified and updated in the clinic database.
+Fingerprint biometric mismatches frequently occur at biometric Point of Sale (POS) agent locations due to weathered skin or aging sensor hardware.
 
-### 8. Is a NADRA B-Form mandatory to register an infant in Nashonuma?
-Yes, the child’s NADRA Child Registration Certificate (B-Form) is mandatory because it legally links the child’s identity to the mother’s CNIC in the central BISP registry.
+To resolve biometric verification issues:
+1. Attempt verification at a designated partner bank branch (HBL or Bank Alfalah) rather than an outdoor agent kiosk.
+2. Request an iris scanner verification where available at district BISP Tehsil offices.
+3. If multiple biometric attempts fail, visit the nearest NADRA Mega Center to update your biometric fingerprint data on your CNIC record.
 
-### 9. Which bank distributes Benazir Nashonuma cash payments?
-Payments are disbursed biometrically through partner banks: Bank Alfalah in Khyber Pakhtunkhwa, Gilgit-Baltistan, and AJK; and Habib Bank Limited (HBL / Konnect) across Punjab, Sindh, and Balochistan.
+### "Record Not Found" or Inactive Kafaalat Status
 
-### 10. Can a pregnant woman register if she is expecting her third child?
-Yes, pregnant women from qualifying low-income households can register for each pregnancy and enroll up to two concurrent children under two years of age.
+If the 8171 portal displays "Record Not Found" or indicates that your household is not registered, your National Socio-Economic Registry survey data may be outdated.
 
-### 11. How can I lodge a complaint if an agent demands a deduction from my Nashonuma grant?
-Never pay any fee or deduction. Lodge an immediate complaint by calling the BISP toll-free helpline at 0800-26477 or visit the Assistant Director at your local BISP Tehsil Office with the retailer’s POS ID and receipt.
+Beneficiaries must visit their local BISP Tehsil Registration Center to complete a Dynamic Registry survey. Bringing utility bills, land ownership documents (or rental contracts), and CNICs of all family members ensures an accurate PMT score reassessment.
+
+---
+
+## Official Safety Advisory: Avoiding 8171 Fraud and Unauthorized Agents
+
+BISP beneficiaries are targeted by fraudulent SMS campaigns and unauthorized middle agents pretending to offer instant cash approvals.
+
+Follow these security practices:
+* **Only Trust Short Code 8171:** Legitimate government updates only originate from short code **8171**. Any text message received from regular 11-digit mobile numbers (such as `0300-XXXXXXX` or `0345-XXXXXXX`) is fraudulent.
+* **Zero Registration Fees:** Registration at all DHQ/THQ Nashonuma Facilitation Centers is 100% free of cost. Never pay any fee to hospital staff or private agents.
+* **Protect Your OTP:** Never share SMS verification codes, ATM PINs, or identity passwords with anyone over the phone.
+* **Official BISP Helpline:** Report fraudulent calls and extortion attempts immediately to the official toll-free BISP helpline at **0800-26477**.
+
+---
+
+## Frequently Asked Questions
+
+### Can I check my Benazir Nashonuma status online using my CNIC?
+Yes, you can check your base household eligibility online by entering your 13-digit CNIC number at `8171.bisp.gov.pk` or by sending an SMS to 8171. However, full medical and nutritional registration for Nashonuma requires a physical visit to a facilitation center at a DHQ or THQ hospital.
+
+### How much money is given in the Benazir Nashonuma Program in 2026?
+Eligible beneficiaries receive Rs 2,500 per quarter for pregnant and lactating mothers, Rs 2,500 per quarter for a male child, and Rs 3,000 to Rs 3,500 per quarter for a female child. Each quarterly installment includes an integrated Rs 500 travel allowance.
+
+### Who is eligible to enroll in the Nashonuma Program?
+Families currently registered with an active Benazir Kafaalat status and a PMT poverty score of 32 or below are eligible. Within those households, pregnant women, nursing mothers, and children under two years of age qualify directly.
+
+### Can a mother not registered under BISP Kafaalat apply for Nashonuma?
+No, active registration under the Benazir Kafaalat Program is a strict prerequisite for Nashonuma enrollment. Unregistered mothers must first complete the Dynamic Registry survey at their local BISP Tehsil office to determine Kafaalat eligibility.
+
+### What documents are required to register at the hospital facilitation desk?
+Applicants must bring the mother's original NADRA CNIC, the child's original NADRA B-Form, the child's EPI immunization card, and hospital antenatal health records for pregnant women. All documents must be original physical copies.
+
+### Where are Benazir Nashonuma Facilitation Centers located?
+Nashonuma Facilitation Centers are established inside Tehsil Headquarter (THQ) and District Headquarter (DHQ) government hospitals across all 156 districts in Pakistan.
+
+### Why is the stipend higher for a female child?
+The Government of Pakistan provides a higher stipend for female infants (Rs 3,000–3,500 vs Rs 2,500) to incentivize families to provide equal healthcare, immunization, and nutritional attention to girl children.
+
+### What is Specialized Nutritious Food (SNF) and is it free?
+Specialized Nutritious Food includes fortified sachets (Wawa Mum for infants and Maamta for mothers) designed to prevent stunting and wasting. These sachets are distributed 100% free of charge at facilitation centers during quarterly checkups.
+
+### What happens if I miss a scheduled hospital checkup?
+Missing a scheduled health examination or vaccination milestone will temporarily freeze your upcoming quarterly cash transfer. The payment is released once the beneficiary completes the required clinical checkup and updates their compliance record.
+
+### How do I report an agent demanding money for Nashonuma registration?
+You can report fraudulent agents and extortion attempts by calling the official BISP toll-free helpline at 0800-26477 or by filing an official complaint at your nearest district BISP office.

@@ -3,90 +3,133 @@
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://pakbenefits.com/punjab-schemes/cm-punjab-free-laptop-scheme-2026-online-apply/#article",
+      "@id": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/#article",
       "isPartOf": {
         "@type": "WebPage",
-        "@id": "https://pakbenefits.com/punjab-schemes/cm-punjab-free-laptop-scheme-2026-online-apply/"
+        "@id": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/"
       },
-      "headline": "CM Punjab Free Laptop Scheme 2026 Online Apply: Maryam Nawaz Portal, Eligibility & Merit List Guide",
-      "description": "Apply online for CM Maryam Nawaz Free Laptop Scheme 2026 at laptop.punjab.gov.pk. Check eligibility, merit CGPA, documents, and 110,000 laptop distribution.",
-      "inLanguage": "en-PK",
-      "mainEntityOfPage": "https://pakbenefits.com/punjab-schemes/cm-punjab-free-laptop-scheme-2026-online-apply/",
+      "headline": "CM Punjab Laptop Scheme 2026 Online Apply, Eligibility & Merit List",
+      "description": "Apply online for CM Punjab Laptop Scheme 2026 via cmlaptophed.punjab.gov.pk. Check eligibility, CGPA merit criteria, laptop specs, and merit list status.",
       "datePublished": "2026-09-24T00:00:00+05:00",
       "dateModified": "2026-09-24T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/",
       "author": {
         "@type": "Person",
-        "name": "Muhammad Salman",
-        "jobTitle": "Public Programmes & Financial Schemes Lead"
+        "name": "TODO: Author Name",
+        "url": "https://example.com/author/TODO"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "PakBenefits",
-        "url": "https://pakbenefits.com"
+        "name": "TODO: Publisher Name",
+        "url": "https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
       },
       "about": [
         {
           "@type": "GovernmentService",
-          "name": "CM Punjab Free Laptop Scheme",
-          "sameAs": "https://hed.punjab.gov.pk/"
+          "name": "Higher Education Department Punjab",
+          "sameAs": "https://hed.punjab.gov.pk"
         },
         {
-          "@type": "GovernmentOrganization",
-          "name": "Higher Education Department Punjab",
-          "sameAs": "https://hed.punjab.gov.pk/"
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
         }
       ],
       "mentions": [
         {
-          "@type": "GovernmentOrganization",
-          "name": "Punjab Information Technology Board",
-          "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board"
+          "@type": "Product",
+          "name": "Intel Core i7 13th Generation Laptop",
+          "sameAs": "https://en.wikipedia.org/wiki/Intel_Core"
         },
         {
           "@type": "GovernmentOrganization",
-          "name": "Higher Education Commission Pakistan",
-          "sameAs": "https://en.wikipedia.org/wiki/Higher_Education_Commission_(Pakistan)"
+          "name": "Punjab Higher Education Commission",
+          "sameAs": "https://punjabhec.gov.pk"
         }
       ],
       "speakable": {
         "@type": "SpeakableSpecification",
-        "cssSelector": [".quick-answer-box", "blockquote"]
+        "cssSelector": [".direct-answer", "h1", ".summary-lead"]
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://pakbenefits.com/punjab-schemes/cm-punjab-free-laptop-scheme-2026-online-apply/#breadcrumb",
+      "@id": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://pakbenefits.com"
+          "item": "https://example.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Punjab Schemes",
-          "item": "https://pakbenefits.com/punjab-schemes"
+          "name": "Student Schemes",
+          "item": "https://example.com/education/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "CM Punjab Free Laptop Scheme 2026",
-          "item": "https://pakbenefits.com/punjab-schemes/cm-punjab-free-laptop-scheme-2026-online-apply"
+          "name": "CM Punjab Laptop Scheme 2026",
+          "item": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/#howto",
+      "name": "How to Apply for the CM Punjab Laptop Scheme Online",
+      "description": "Step-by-step instructions to register on cmlaptophed.punjab.gov.pk and verify academic records.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Visit HED Official Portal",
+          "text": "Go to cmlaptophed.punjab.gov.pk and select Student Registration 2026."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Verify CNIC & Punjab Domicile",
+          "text": "Enter your 13-digit CNIC/B-Form and verify residency against the provincial database via OTP."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Submit Academic & University Information",
+          "text": "Input university enrollment details, semester status, and Intermediate board marks, then upload scanned credentials."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Track Application & Institutional Verification",
+          "text": "Save the generated Application Tracking ID and coordinate with your University Focal Person for institutional verification."
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://pakbenefits.com/punjab-schemes/cm-punjab-free-laptop-scheme-2026-online-apply/#faq",
+      "@id": "https://example.com/cm-punjab-free-laptop-scheme-2026-online-apply/#faq",
       "mainEntity": [
         {
           "@type": "Question",
           "name": "What is the official website to apply for the CM Punjab Laptop Scheme 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The official portal for registration and tracking is https://laptop.punjab.gov.pk/ managed by the Higher Education Department Punjab and PITB."
+            "text": "The only official portal for online registration, status checking, and merit lists is https://cmlaptophed.punjab.gov.pk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minimum percentage required to get a laptop in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "General BS undergraduate students require at least 65% marks in Intermediate, while medical and dental college students (MBBS/BDS) require a minimum of 80% marks in F.Sc Pre-Medical."
           }
         },
         {
@@ -94,79 +137,63 @@
           "name": "Are private university students eligible for the CM Laptop Scheme?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, the scheme is strictly restricted to regular, full-time students enrolled in HEC-recognized public sector universities and government colleges in Punjab."
+            "text": "The primary quota is reserved for regular students of public sector universities and government colleges. Students from select chartered private institutions are only eligible if specifically notified under designated HED scholarship allocations."
           }
         },
         {
           "@type": "Question",
-          "name": "What is the minimum CGPA required to qualify for a free laptop?",
+          "name": "Which laptop model and specifications are distributed in 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Undergraduate students in the semester system must possess a minimum CGPA of 3.00 out of 4.00, while MS/MPhil students require at least 3.20 CGPA in their latest official semester results."
+            "text": "Selected students receive an Intel Core i7 13th Generation laptop equipped with 16 GB DDR5 RAM, a 512 GB NVMe SSD, a 15.6-inch Full HD display, and genuine Windows 11 Pro."
           }
         },
         {
           "@type": "Question",
-          "name": "What are the hardware specifications of the laptops being distributed in 2026?",
+          "name": "Can students with an Azad Kashmir or Gilgit-Baltistan domicile studying in Punjab apply?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The 2026 laptops feature Intel Core i7 / Core i5 latest-generation high-performance processors, 16GB high-speed RAM, 512GB NVMe SSD storage, and genuine licensed Windows 11 Pro."
+            "text": "Students from other provinces or regions studying in Punjab public universities are considered under specific reserved quota allocations if nominated officially by their respective regional higher education departments."
           }
         },
         {
           "@type": "Question",
-          "name": "Can a student who received a laptop under the PM Laptop Scheme apply again?",
+          "name": "How do I check if my name is on the Punjab Laptop Scheme Merit List?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, any student who has previously received a government laptop under any federal or provincial scheme is legally disqualified from receiving another machine."
+            "text": "Visit cmlaptophed.punjab.gov.pk, navigate to the 'Merit List' section, select your university and department, and search by your CNIC or student roll number."
           }
         },
         {
           "@type": "Question",
-          "name": "Is a Punjab Domicile mandatory to apply for the laptop scheme?",
+          "name": "What should I do if my university focal person has not verified my data?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, applicants must possess a valid Punjab Domicile Certificate, except for students from Balochistan, AJK, or GB admitted on officially recognized inter-provincial government quota seats."
+            "text": "Visit your university's Directorate of Student Affairs or the designated Institutional Focal Person with your student ID card and Intermediate result card to request manual verification."
           }
         },
         {
           "@type": "Question",
-          "name": "Are students of Virtual University (VU) or AIOU eligible?",
+          "name": "Can a student who already received a laptop from HEC apply again?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, students enrolled in distance learning, virtual education, evening shifts, or non-regular weekend executive programs are ineligible for the scheme."
+            "text": "No, any student who previously received a laptop under any federal or provincial government initiative is strictly barred from applying again."
           }
         },
         {
           "@type": "Question",
-          "name": "What should I do if my university or department is not listed on the portal?",
+          "name": "What documents must I bring to the laptop distribution ceremony?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If your university department is missing, immediately contact your university's Institutional Laptop Scheme Focal Person or Student Affairs Office to request departmental integration from PITB."
+            "text": "Selected students must present their original CNIC/B-Form, original Punjab Domicile, original student ID card, latest semester fee receipt, and an attested copy of their Intermediate result card."
           }
         },
         {
           "@type": "Question",
-          "name": "How do I correct a wrong CGPA entered during online submission?",
+          "name": "What happens if the online portal is closed when I try to apply?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You cannot edit academic details once submitted. However, during the 7-day provisional merit list grievance window, you can submit an official written application along with your verified transcript to your university focal person."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does a student have to pay any delivery charges or security deposit for the laptop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, the CM Punjab Laptop Scheme is 100% free of charge. The provincial government covers all hardware, software licensing, and administrative distribution expenses."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can medical (MBBS/BDS) and engineering (UET) students apply?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, regular students of government medical colleges and public sector engineering universities across Punjab are fully eligible and receive dedicated departmental quotas."
+            "text": "If the portal application window has expired, monitor the official HED portal for announcements regarding Phase II extensions, grievance resolution rounds, or subsequent academic cycle openings."
           }
         }
       ]

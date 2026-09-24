@@ -19348,7 +19348,7 @@ export const articles: Article[] = [
       "NADRA Biometric Verification",
       "8171 Web Portal"
     ],
-    primaryCategory: "bisp-guides",
+    primaryCategory: "bisp-registration",
     categorySlugs: [
       "bisp-guides",
       "8171",
@@ -19373,11 +19373,11 @@ export const articles: Article[] = [
         links: [
           {
             label: "Check BISP 8171 balance and tranche status",
-            href: "/bisp-8171-balance-check-online-by-cnic-guide/"
+            href: "/bisp-8171-balance-check-online-kaise-karein/"
           },
           {
             label: "How to report illegal agent deductions",
-            href: "/bisp-agent-deduction-complaint-8171/"
+            href: "/bisp-agent-deduction-complaint-retailer-penalty/"
           },
           {
             label: "BISP dynamic survey required documents guide",
@@ -19557,7 +19557,7 @@ export const articles: Article[] = [
       "NSER Dynamic Survey",
       "0800-26477 Toll-Free Helpline"
     ],
-    primaryCategory: "bisp-guides",
+    primaryCategory: "bisp-registration",
     categorySlugs: [
       "bisp-guides",
       "8171"
@@ -19759,7 +19759,7 @@ export const articles: Article[] = [
       "Jalalpur Pirwala BISP Desk",
       "NSER Dynamic Survey"
     ],
-    primaryCategory: "bisp-guides",
+    primaryCategory: "bisp-registration",
     categorySlugs: [
       "bisp-guides",
       "8171"

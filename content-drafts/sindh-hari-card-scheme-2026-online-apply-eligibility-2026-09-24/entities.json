@@ -1,132 +1,122 @@
 [
   {
-    "canonical": "Sindh Hari Card Scheme",
-    "type": "AgriculturalSocialScheme",
-    "aliases": ["Benazir Hari Card", "Sindh Hari Welfare Card", "Sindh Farmer Subsidy Card 2026"],
-    "sameAs": "https://sindh.gov.pk/",
+    "canonical": "Benazir Hari Card",
+    "type": "GovernmentAgriculturalScheme",
+    "aliases": ["Sindh Hari Card", "Hari Card Scheme", "BHC Sindh"],
+    "sameAs": "https://agriculture.sindh.gov.pk",
     "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 1"
   },
   {
-    "canonical": "Agriculture, Supply and Prices Department Sindh",
+    "canonical": "Agriculture Department Sindh",
     "type": "GovernmentDepartment",
-    "aliases": ["Sindh Agriculture Department", "Directorate of Agriculture Extension Sindh"],
-    "sameAs": "https://sindh.gov.pk/",
+    "aliases": ["Agriculture Supply & Prices Department Sindh", "Sindh Agri Dept"],
+    "sameAs": "https://agriculture.sindh.gov.pk",
     "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 1"
   },
   {
-    "canonical": "Sindh Bank Limited",
-    "type": "CommercialBank",
-    "aliases": ["Sindh Bank", "Sindh Bank Hari Card Desk", "Sindh Bank Branch"],
+    "canonical": "benazirharicard.gos.pk",
+    "type": "WebPortal",
+    "aliases": ["BHC Portal", "Sindh Hari Card Portal"],
+    "sameAs": "https://www.benazirharicard.gos.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Sindh Bank",
+    "type": "FinancialInstitution",
+    "aliases": ["Sindh Bank Limited", "Disbursement Bank"],
     "sameAs": "https://en.wikipedia.org/wiki/Sindh_Bank",
     "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 1"
   },
   {
-    "canonical": "Small Farmers and Haris Landholding Limit",
-    "type": "AgriculturalClassification",
-    "aliases": ["Up to 12.5 Acres", "Up to 25 Acres", "Subsistence Farmers", "Tenant Haris"],
+    "canonical": "Form VII Land Record",
+    "type": "LegalLandRecord",
+    "aliases": ["Form-VII", "Khatoni", "Deh Land Record", "Form 7 Sindh Revenue"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Farmer Cash Subsidy",
+    "type": "FinancialGrant",
+    "aliases": ["Direct Fertilizer Subsidy", "Kisan Relief Cash", "DBT subsidy"],
     "sameAs": "",
     "kind": "term",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 1"
   },
   {
-    "canonical": "Direct Electronic Cash Subsidies",
-    "type": "FinancialBenefit",
-    "aliases": ["Fertilizer Subsidy", "DAP Cash Grant", "Per Acre Subsidy", "Seed Assistance"],
+    "canonical": "Smallholder Farmers & Haris",
+    "type": "BeneficiaryGroup",
+    "aliases": ["Small farmers", "Tenant haris", "Sindh cultivators"],
     "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Land Revenue Record Form VII",
-    "type": "LegalDocument",
-    "aliases": ["Form-VII BoR Sindh", "Deh Record", "Khatooni", "Tapedar Record"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Biometric ATM and POS Verification",
-    "type": "BankingTechnology",
-    "aliases": ["1-Link ATM", "Biometric Thumbprint Scan", "Chip ATM Card", "POS Agent"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Computerized National Identity Card",
-    "type": "IdentityDocument",
-    "aliases": ["CNIC", "Shanakhti Card", "Smart Card"],
-    "sameAs": "https://en.wikipedia.org/wiki/National_Identity_Card_(Pakistan)",
     "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 2"
   },
   {
-    "canonical": "Tehsil Agriculture Extension Office",
-    "type": "GovernmentFacility",
-    "aliases": ["Tehsil Agriculture Office", "Field Assistant Desk", "Agriculture Extension Wing"],
+    "canonical": "Mukhtiarkar Revenue Office",
+    "type": "LocalGovernmentOffice",
+    "aliases": ["Mukhtiarkar", "Tapedar", "Assistant Commissioner Office"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Fertilizer and Seed Relief",
+    "type": "AgriculturalSubsidy",
+    "aliases": ["DAP subsidy", "Urea relief", "Certified seed vouchers"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Solar Tube Well Scheme",
+    "type": "GovernmentSubsidyScheme",
+    "aliases": ["80% solar tubewell subsidy", "solar irrigation grant"],
     "sameAs": "",
     "kind": "entity",
     "competitor_count": 3,
     "in_title_or_h2": true,
-    "tier": 2
+    "tier": "Tier 2"
   },
   {
-    "canonical": "DAP and Urea Fertilizer Subsidies",
-    "type": "AgriculturalProduct",
-    "aliases": ["DAP Subsidy", "Urea Cash Relief", "Crop Nutrient Support"],
+    "canonical": "Crop Takaful Insurance",
+    "type": "InsuranceProduct",
+    "aliases": ["Crop Insurance Sindh", "Farmer Disaster Insurance"],
     "sameAs": "",
-    "kind": "product",
-    "competitor_count": 3,
-    "in_title_or_h2": true,
-    "tier": 2
-  },
-  {
-    "canonical": "Tenant Farmer and Sharecropper Verification",
-    "type": "LegalStatus",
-    "aliases": ["Muzara Hari", "Tenancy Agreement", "Mukhtiarkar Certification"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 3,
-    "in_title_or_h2": true,
-    "tier": 2
-  },
-  {
-    "canonical": "Kharif and Rabi Crop Seasons",
-    "type": "AgriculturalSeason",
-    "aliases": ["Rabi Wheat Season", "Kharif Cotton Rice Season", "Seasonal Subsidy Cycle"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 3,
-    "in_title_or_h2": true,
-    "tier": 2
-  },
-  {
-    "canonical": "Sindh Board of Revenue",
-    "type": "GovernmentOrganization",
-    "aliases": ["BoR Sindh", "Sindh Revenue Department"],
-    "sameAs": "https://sindh.gov.pk/",
     "kind": "entity",
     "competitor_count": 3,
     "in_title_or_h2": true,
-    "tier": 2
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Biometric ATM Card",
+    "type": "FinancialCard",
+    "aliases": ["Hari ATM Card", "Sindh Bank PayPak Card"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
   }
 ]

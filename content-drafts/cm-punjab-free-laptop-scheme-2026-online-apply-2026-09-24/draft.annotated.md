@@ -1,218 +1,153 @@
-# CM Punjab Free Laptop Scheme 2026 Online Apply: Maryam Nawaz Portal, Eligibility & Merit List Guide
+# CM Punjab Laptop Scheme 2026 Online Apply, Eligibility & Merit List
 
-> **Quick Answer:** The **CM Punjab Free Laptop Scheme** 2026 is distributing over **110,000 Free Laptops Quota** of **Core i7 Laptop Specifications** (16GB RAM, SSD) to regular students of **Public Sector Universities of Punjab** and colleges. Eligible students enrolled in **Eligible Degree Programs** (BS, MS, MPhil, PhD, medical, engineering) must register online at the **Online Student Registration Portal** (`laptop.punjab.gov.pk`) using their CNIC, enrollment number, **Punjab Domicile Certificate**, and transcript before the deadline.
-
----
-
-## What is the CM Maryam Nawaz Free Laptop Scheme 2026?
-
-The **CM Punjab Free Laptop Scheme** 2026 is a massive youth digital empowerment initiative launched by Chief Minister Maryam Nawaz Sharif through the **Higher Education Department Punjab** in collaboration with the **Punjab Information Technology Board**. Re-established with a historic allocation exceeding **110,000 Free Laptops Quota**, the program aims to bridge the digital divide, equip undergraduate and postgraduate students with modern computing power, and foster freelancing, artificial intelligence (AI) literacy, and technical research across the province.
-
-Unlike commercial discount schemes or lottery systems, every single laptop is distributed on a strictly verified 100% **Merit Criteria and CGPA Threshold** basis. The distribution spans regular students attending **Higher Education Commission Pakistan** recognized **Public Sector Universities of Punjab**, constituent sub-campuses, government post-graduate colleges, medical colleges, and engineering institutions throughout all 36 districts of Punjab.
-
-```
-+---------------------------------------------------------------------------------------------------+
-|                        CM PUNJAB FREE LAPTOP SCHEME AT A GLANCE (2026)                            |
-+--------------------------+------------------------------------------------------------------------+
-| Executive Authority      | Chief Minister Maryam Nawaz Sharif & Government of the Punjab          |
-| Executing Department     | Higher Education Department (HED) Punjab                               |
-| Technological Partner    | Punjab Information Technology Board (PITB) & HEC Pakistan              |
-| Total Laptop Volume      | 110,000+ Units (Phase 1 & Phase 2 Provincial Allocation)               |
-| Hardware Specifications  | Core i7 / Core i5 Latest Gen Processor, 16GB DDR4/DDR5 RAM, 512GB SSD  |
-| Operating System         | Licensed Genuine Windows 11 Pro + Preloaded Educational Software      |
-| Targeted Beneficiaries   | Regular Enrolled Students of Public Varsities & Govt Colleges (Punjab) |
-| Official Web Portal      | laptop.punjab.gov.pk / hed.punjab.gov.pk                               |
-+--------------------------+------------------------------------------------------------------------+
-```
-
-### Total Laptop Allocation and Technical Specifications (Core i7 / 16GB RAM)
-
-Recognizing the heavy processing requirements of software engineering, data science, machine learning, and digital media production, the Punjab Government has upgraded the hardware specifications for the 2026 distribution. Selected students receive cutting-edge branded laptops featuring **Core i7 Laptop Specifications**—including high-performance Intel Core i7 / Core i5 latest-generation processors, 16GB high-speed RAM, 512GB NVMe M.2 Solid State Drives (SSD), full high-definition (FHD) anti-glare displays, extended lithium polymer battery packs, and genuine licensed Windows 11 operating systems.
-
-### Strategic Objective: Digital Skills, AI & Remote Work Empowerment
-
-The primary vision of the **CM Punjab Free Laptop Scheme** initiative is transforming Punjab's educated youth into economically productive digital professionals. Equipped with personal high-tier hardware, students gain direct access to remote freelance marketplaces (Upwork, Fiverr), competitive coding platforms, data analysis pipelines, and cloud computing certifications, creating scalable pathways toward self-reliance and foreign exchange generation.
-
-*(Unused Tier-3 terms in this section: None)*
+To apply for the **CM Punjab Laptop Scheme**, eligible students must register online through the official **Higher Education Department Punjab** portal at **cmlaptophed.punjab.gov.pk**. Enrolled regular students with a valid **Punjab Domicile** achieving at least 65% in Intermediate (80% for **Medical and Dental Colleges**) qualify to receive **Core i7 13th Gen Laptops**.
 
 ---
 
-## Eligibility Criteria: Who Qualifies for Punjab Free Laptops in 2026?
+## What Is the CM Punjab Free Laptop Scheme 2026?
 
-To maintain absolute academic transparency, the **Higher Education Department Punjab** has established standardized eligibility parameters. Distribution quotas are allocated proportionally based on total student enrollment across participating **Public Sector Universities of Punjab**, with separate merit tracks maintained for each academic discipline.
+The **CM Punjab Laptop Scheme** is a flagship educational technology program launched by the Government of Punjab under the leadership of **Chief Minister Maryam Nawaz Sharif**. Managed directly by the **Higher Education Department Punjab** in collaboration with the **Punjab Higher Education Commission**, the initiative equips meritorious students with high-performance computing devices to foster academic research, digital entrepreneurship, and software development skills.
 
-```
-+---------------------------------------------------------------------------------------------------+
-|                        ELIGIBLE ACADEMIC PROGRAMS & MERIT CUTOFF MATRIX                           |
-+--------------------------+-----------------------------------+------------------------------------+
-| Academic Program         | Eligible Semesters / Years        | Minimum Merit Cutoff / Criteria    |
-+--------------------------+-----------------------------------+------------------------------------+
-| **BS (4-Year Degree)**   | 1st to 8th Semester (Regular)     | 3.00+ CGPA (or 65%+ in Marks)      |
-| **BS (5-Year / DPT/PharmD)**| 1st to 10th Semester (Regular) | 3.00+ CGPA (or 65%+ in Marks)      |
-| **MS / MPhil Program**   | 1st to 4th Semester (Regular)     | 3.20+ CGPA (or 70%+ in Marks)      |
-| **PhD Scholars**         | Coursework & Dissertation Stage   | 3.30+ CGPA / HEC Approved Progress |
-| **MBBS / BDS (Medical)** | 1st to Final Professional Year    | 65%+ in Annual Professional Exam   |
-| **BSc Engineering / UET**| 1st to 8th Semester (Regular)     | 3.00+ CGPA (PEC Registered)        |
-| **Govt Associate Colleges**| BS 4-Year Enrolled Regulars     | Top Merit Rank in Discipline Quota |
-+--------------------------+-----------------------------------+------------------------------------+
-```
+Unlike previous phases that distributed entry-level dual-core machines, the 2026 distribution focuses exclusively on contemporary high-performance laptops. This strategic upgrade guarantees that students in computer science, engineering, biological sciences, and artificial intelligence possess the computational power necessary to run demanding software stacks.
 
-### Eligible Degree Programs: BS, MS, MPhil, PhD, MBBS & Engineering
+### High-End Hardware Specifications (Core i7 13th Gen)
 
-Eligible candidates must be actively enrolled as regular, full-time students in an accredited public sector institution in Punjab across recognized **Eligible Degree Programs**. This includes:
-1. Four-year and five-year Bachelor of Science (BS Honors) undergraduate programs.
-2. Two-year Master of Science (MS / MPhil) research programs.
-3. Doctor of Philosophy (PhD) doctoral research fellows.
-4. Undergraduate medical and dental scholars enrolled in Punjab Government Medical Colleges (King Edward Medical University, Fatima Jinnah, AIMC, Rawalpindi Medical, Nishtar Medical University, etc.).
-5. Accredited engineering scholars (UET Lahore, UET Taxila, and constituent public engineering departments).
-
-### Minimum Merit Thresholds: CGPA and Percentage Cutoffs
-
-- **Semester System Students**: Must possess a cumulative grade point average (**Merit Criteria and CGPA Threshold**) of at least **3.00 out of 4.00** in their most recent official semester examination.
-- **Annual Examination System Students**: Must have secured a minimum of **65% aggregate marks** in their most recent professional or annual examination.
-- **Newly Enrolled 1st Semester BS Students**: Evaluated on the basis of their Intermediate (FSc / FA / ICS / I.Com) Board Examination percentage (typically 75%+ cutoff depending on departmental competition).
-
-### Who is Ineligible? (Private Universities, Distance Learning & Past Recipients)
-
-To prevent duplication and comply with government audit standards, the following student categories are strictly barred from applying:
-- Students enrolled in **Private Sector Universities or Private Affiliated Colleges** (even if recognized by HEC).
-- Students studying via **Distance Learning or Virtual Platforms** (Virtual University of Pakistan, Allama Iqbal Open University).
-- **Past Beneficiaries**: Any student who has previously received a laptop under any federal scheme (PM Laptop Scheme) or earlier Punjab Government laptop distributions.
-- Students enrolled in evening, executive, weekend, self-finance, or external non-regular degree programs.
-- Non-**Punjab Domicile Certificate** holders (unless admitted on dedicated inter-provincial or regional government quota seats in Punjab public universities).
-
-*(Unused Tier-3 terms in this section: None)*
+The hardware supplied under the 2026 phase is customized to support advanced academic workflows, data analysis, and professional programming. Every **Core i7 13th Gen Laptop** undergoes rigorous pre-shipment quality assurance by the Punjab Information Technology Board (PITB).
 
 ---
 
-## Step-by-Step Guide: How to Apply Online at laptop.punjab.gov.pk
+## Who Is Eligible for the Punjab Laptop Scheme 2026?
 
-Applying for the **CM Punjab Free Laptop Scheme** is managed through the unified **Punjab Information Technology Board** **Online Student Registration Portal**. Follow these sequential steps to register and lock your application:
+Eligibility for the laptop scheme is determined through strict merit-based academic criteria and verified **Punjab Domicile** requirements. The quota covers public sector universities, government graduate colleges, and **Medical and Dental Colleges** located across Punjab.
 
-```
-[ Step 1: Visit laptop.punjab.gov.pk ] ---> [ Step 2: Register via CNIC & Mobile Number ]
-                                                               |
-                                                               v
-[ Step 3: Select University & Degree ] <--- [ Step 4: Input Roll No & Current CGPA / Marks ]
-       |
-       v
-[ Step 5: Upload Domicile & Result Card ] ---> [ Step 6: Final Review & Submit Application ]
-```
+### Academic Criteria for Public Sector University Students (BS Programs)
 
-### Step 1: Creating Student Profile and CNIC Verification
+Undergraduate students enrolled in **BS 4-Year Undergraduate Programs** at recognized public sector universities must have completed their Intermediate examinations (F.Sc, ICS, I.Com, FA) with at least 65% aggregate marks. For students evaluated under semester GPA systems, an academic standing of at least 3.0 CGPA (or institution-specific top percentile ranking) is required.
 
-1. Navigate to the official **Online Student Registration Portal**: `https://laptop.punjab.gov.pk/` (or via the **Higher Education Department Punjab** gateway `hed.punjab.gov.pk`).
-2. Click on **"New Student Registration"**.
-3. Input your 13-digit Computerized National Identity Card (CNIC) or NADRA B-Form number without hyphens.
-4. Provide an active, personally owned mobile phone number and valid email address. You will receive an instant 6-digit One-Time Password (OTP) via SMS to verify account ownership.
-5. Create a secure password and log into your central applicant dashboard.
+Students must be enrolled in regular morning or evening shifts. Weekend, executive, and distance learning students are excluded from this quota to prioritize full-time scholars.
 
-### Step 2: Entering Academic Enrollment and CGPA Details
+### Criteria for Medical, Dental, and Engineering Institutions
 
-1. Select your **Institution Type** (**Public Sector Universities of Punjab**, Sub-Campus, Medical College, or Govt Associate College).
-2. Choose your specific **University / College Name** from the drop-down directory.
-3. Select your exact **Department and Degree Program** (e.g., *Department of Computer Science — BS Software Engineering*).
-4. Enter your official **University Enrollment Number / Registration Number** and Section Roll Number.
-5. Select your current academic **Semester / Year** (e.g., 4th Semester).
-6. Input your official cumulative **Merit Criteria and CGPA Threshold** as published on your latest official university transcript.
+Due to heightened competition, students enrolled in public **Medical and Dental Colleges** (MBBS/BDS) and engineering universities (such as UET Lahore, Taxila, and KEMU) are evaluated under elevated thresholds. Medical applicants must have scored a minimum of 80% marks in F.Sc Pre-Medical.
 
-### Step 3: Uploading Supporting Documents and Submitting the Application
+Selection in this tier is strictly merit-ordered, ranking candidates by their provincial admission aggregate until institutional quotas are filled.
 
-1. **Punjab Domicile Certificate**: Upload a clear scanned copy or high-resolution photograph (PDF/JPG format, under 2MB).
-2. **Latest Official Transcript / Marksheet**: Upload your signed university semester result card or intermediate board certificate.
-3. **Valid University Student ID Card**: Scanned front-and-back image of your departmental identity card.
-4. **Final Declaration**: Review all entered details carefully. Read the undertaking confirming you have never received a government laptop previously, check the consent box, and click **"Submit Application"**.
-5. Save your generated **Application Reference Tracking ID** for future merit list inquiries.
+### Ineligibility Conditions: Who Cannot Apply?
 
-*(Unused Tier-3 terms in this section: None)*
+Applicants must review the mandatory disqualification conditions before applying:
+* **Previous Scheme Beneficiaries:** Any student who previously received a laptop under any federal (HEC) or provincial scheme is permanently ineligible.
+* **Private / Unaccredited Colleges:** Students enrolled in unchartered private institutes or affiliated private colleges are not covered under public quotas.
+* **Non-Punjab Domicile:** Applicants lacking a valid **Punjab Domicile** or NADRA CNIC/B-Form indicating Punjab residency cannot qualify.
+* **Disciplinary Penalties:** Students facing formal disciplinary proceedings, examination suspensions, or criminal convictions are disqualified.
 
 ---
 
-## University Focal Person Verification and Merit List Generation
+## How to Apply Online at cmlaptophed.punjab.gov.pk (Step-by-Step)
 
-Once the online application window closes, the centralized verification cycle initiates between **Punjab Information Technology Board** and institutional administrations.
+The **Higher Education Department Punjab** manages all registrations through its centralized digital platform at **cmlaptophed.punjab.gov.pk**. Follow the official application workflow to ensure your submission is recorded accurately.
 
-```
-+---------------------------------------------------------------------------------------------------+
-|                        PORTAL VERIFICATION & MERIT LIST LIFECYCLE (2026)                          |
-+---------------------------------------------------------------------------------------------------+
-| 1. ONLINE SUBMISSION  | Student registers and submits application on laptop.punjab.gov.pk.        |
-| 2. FOCAL DESK REVIEW  | University Focal Person compares submitted CGPA against official records. |
-| 3. RECORD VALIDATION  | Department verifies regular enrollment, non-disciplinary status & domicile.|
-| 4. STATUS UPDATES     | Application marked: "Verified", "Correction Required", or "Rejected".     |
-| 5. PROVISIONAL LISTS  | HED publishes department-wise provisional merit rosters online.           |
-| 6. GRIEVANCE WINDOW   | 7-day appellate window for students to correct typographical CGPA errors. |
-| 7. FINAL MERIT LIST   | Final certified distribution lists locked for ceremonial handover.        |
-+---------------------------------------------------------------------------------------------------+
-```
+### Step 1: Account Creation and CNIC Domicile Verification
 
-### How Universities Validate Student Transcripts and Domicile
+Open an internet browser and navigate to **cmlaptophed.punjab.gov.pk**. On the homepage, select **"Student Registration 2026"**.
 
-Every participating university and postgraduate college appoints an official **University Institutional Focal Person** (typically within the Directorate of Student Affairs or Examinations Branch). The focal person logs into the university backend portal, cross-checks each applicant’s submitted CGPA against the university's internal controller of examinations database, and confirms the student's regular enrollment status and valid **Punjab Domicile Certificate**.
+Enter your 13-digit NADRA CNIC or B-Form number without dashes. The portal connects in real time to the NADRA and **Punjab Domicile** management database to verify your residency status and date of birth. Enter an active mobile phone number and personal email address to receive one-time password (OTP) verification tokens.
 
-### Tracking Merit Lists and Handling Grievance Appeals
+### Step 2: Academic Record and Enrollment Data Submission
 
-Following administrative verification, the **Higher Education Department Punjab** publishes **Provisional Merit Lists** on the **Online Student Registration Portal**. Students whose applications show errors or accidental omissions have a statutory **7-day grievance redressal period** to submit original transcripts to their **University Institutional Focal Person** for rectification. Once all appeals are adjudicated, the **Final Merit List** is published, specifying the date, venue, and serial number for the formal laptop distribution ceremony.
+Once logged into your candidate dashboard, complete the academic profile:
+1. Select your **Institution Type** (Public University, **Medical and Dental Colleges**, or Govt College).
+2. Choose your **University Name** and specific **Sub-Campus** from the drop-down list.
+3. Select your **BS 4-Year Undergraduate Program** or degree track (e.g., BS Computer Science, MBBS, BS Chemistry).
+4. Enter your official **University Student Registration / Roll Number**.
+5. Input your **Intermediate / F.Sc Board Roll Number**, Passing Year, and Total / Obtained Marks.
 
-*(Unused Tier-3 terms in this section: None)*
+Upload clear scanned copies of your CNIC/B-Form, **Punjab Domicile** certificate, Intermediate marks sheet (sanad/result card), and current university student identity card.
 
----
+### Step 3: Application Review and Tracking Number Generation
 
-## Special Quotas: Distribution for Minorities, Disabled Students & Southern Punjab
+Before final submission, review every field carefully. A mismatch between your entered Intermediate marks and the official Board of Intermediate and Secondary Education (BISE) database will result in automatic system rejection.
 
-To ensure inclusive growth and uplift marginalized segments, the Punjab Government has embedded statutory affirmative action **Special Student Quotas** within the **110,000 Free Laptops Quota**:
-
-| Quota Category | Statutory Allocation Share | Qualifying Conditions & Required Documentation |
-|---|---|---|
-| **General Merit (Open)** | 85% of Total Quota | Top academic merit within university departmental disciplines |
-| **Students with Disabilities** | 5% Reserved Quota | Valid Social Welfare Disability Certificate; relaxed CGPA cutoff (2.50+ CGPA) |
-| **Religious Minority Students** | 5% Reserved Quota | Non-Muslim students (Christian, Hindu, Sikh, etc.) based on CNIC record |
-| **Southern Punjab Affirmative Quota**| Dedicated Regional Share | Enrolled students domiciled in Multan, Bahawalpur, and D.G. Khan divisions |
-| **Inter-Provincial / Regional Quota**| 5% Reserved Quota | Merit students from Balochistan, GB, and AJK studying on quota seats in Punjab |
-
-### Reserved Quotas for Students with Disabilities
-
-Special students registered with the Punjab Social Welfare Department or possessing a disability-endorsed CNIC receive laptops under a dedicated 5% **Special Student Quota**. To maximize technological accessibility, the academic CGPA threshold is adjusted to 2.50+ CGPA, enabling differently-abled scholars to acquire assistive digital learning tools.
-
-### Affirmative Action Quota for Underdeveloped Southern Punjab Districts
-
-To accelerate technological equity across the province, **Public Sector Universities of Punjab** located in Southern Punjab (including Bahauddin Zakariya University Multan, Islamia University Bahawalpur, Ghazi University D.G. Khan, and Khwaja Fareed UEIT Rahim Yar Khan) receive enhanced institutional laptop quotas to empower regional student communities.
-
-*(Unused Tier-3 terms in this section: None)*
+Click **"Submit Application"**. The portal will generate a unique 8-digit **Application Tracking ID**. Download and print the confirmation receipt for institutional verification.
 
 ---
 
-## Frequently Asked Questions (FAQs)
+## Understanding the Institutional Verification & Merit List Process
 
-### 1. What is the official website to apply for the CM Punjab Laptop Scheme 2026?
-The official portal for registration and tracking is `https://laptop.punjab.gov.pk/` managed by the Higher Education Department Punjab and PITB.
+Submitting an online application is the first phase of the selection pipeline. Every application undergoes a rigorous dual-stage verification audit before inclusion in the final **University Merit List**.
 
-### 2. Are private university students eligible for the CM Laptop Scheme?
-No, the scheme is strictly restricted to regular, full-time students enrolled in HEC-recognized public sector universities and government colleges in Punjab.
+### Role of the University Focal Person (IFP)
 
-### 3. What is the minimum CGPA required to qualify for a free laptop?
-Undergraduate students in the semester system must possess a minimum CGPA of 3.00 out of 4.00, while MS/MPhil students require at least 3.20 CGPA in their latest official semester results.
+Each participating university designates a **University Focal Person** (typically the Registrar, Director of Student Affairs, or Controller of Examinations). The **University Focal Person** accesses a secure institutional backend to verify that each applicant is a currently enrolled regular student in good standing.
 
-### 4. What are the hardware specifications of the laptops being distributed in 2026?
-The 2026 laptops feature Intel Core i7 / Core i5 latest-generation high-performance processors, 16GB high-speed RAM, 512GB NVMe SSD storage, and genuine licensed Windows 11 Pro.
+If your status displays "Pending Institutional Verification", your **University Focal Person** is currently cross-checking your enrolled semester status and CGPA against official department records.
 
-### 5. Can a student who received a laptop under the PM Laptop Scheme apply again?
-No, any student who has previously received a government laptop under any federal or provincial scheme is legally disqualified from receiving another machine.
+### How Merit Lists Are Calculated and Published
 
-### 6. Is a Punjab Domicile mandatory to apply for the laptop scheme?
-Yes, applicants must possess a valid Punjab Domicile Certificate, except for students from Balochistan, AJK, or GB admitted on officially recognized inter-provincial government quota seats.
+The **University Merit List** is calculated automatically based on allocated departmental quotas and academic performance. The HED server ranks students in descending order of Intermediate percentage or semester CGPA.
 
-### 7. Are students of Virtual University (VU) or AIOU eligible?
-No, students enrolled in distance learning, virtual education, evening shifts, or non-regular weekend executive programs are ineligible for the scheme.
+Final **University Merit Lists** are published directly on **cmlaptophed.punjab.gov.pk** and posted on departmental notice boards. Selected students receive official SMS notifications containing their distribution venue, date, and required physical documents.
 
-### 8. What should I do if my university or department is not listed on the portal?
-If your university department is missing, immediately contact your university's Institutional Laptop Scheme Focal Person or Student Affairs Office to request departmental integration from PITB.
+---
 
-### 9. How do I correct a wrong CGPA entered during online submission?
-You cannot edit academic details once submitted. However, during the 7-day provisional merit list grievance window, you can submit an official written application along with your verified transcript to your university focal person.
+## How to File a Complaint on the Online Grievance Portal
 
-### 10. Does a student have to pay any delivery charges or security deposit for the laptop?
-No, the CM Punjab Laptop Scheme is 100% free of charge. The provincial government covers all hardware, software licensing, and administrative distribution expenses.
+If your application is marked as rejected, contains incorrect marks, or displays institutional verification errors, you can lodge a formal appeal through the **Online Grievance Redressal System**.
 
-### 11. Can medical (MBBS/BDS) and engineering (UET) students apply?
-Yes, regular students of government medical colleges and public sector engineering universities across Punjab are fully eligible and receive dedicated departmental quotas.
+To file a grievance:
+1. Log in to your candidate account at **cmlaptophed.punjab.gov.pk**.
+2. Click on the **Online Grievance Redressal System** tab on your dashboard.
+3. Select your complaint category (e.g., *Marks Discrepancy*, *Enrollment Status Correction*, *Domicile Error*).
+4. Type a concise explanation and upload supporting documentary evidence (attested BISE result card or university bonafide certificate).
+5. Submit the appeal before the published deadline.
+
+The HED Grievance Committee and **University Focal Person** re-examine disputed records within 7 working days and issue an updated ruling.
+
+---
+
+## Safety Alert: Beware of Fake Registration Forms and Fee Scams
+
+Students must remain vigilant against fraudulent online campaigns, unofficial Android APK apps, and unauthorized social media groups claiming to grant laptops in exchange for fees.
+
+Remember these vital security rules:
+* **Zero Application Fee:** The **CM Punjab Laptop Scheme** is **100% free**. The Punjab Government never charges any application fee, processing fee, or courier charge.
+* **Official URL Only:** Only submit data through official government domains ending in `.punjab.gov.pk`. Avoid third-party `.com`, `.org`, or `.blogspot` portals.
+* **Never Share Credentials:** Never provide your portal password, CNIC copy, or banking PINs to social media agents or WhatsApp groups.
+
+---
+
+## Frequently Asked Questions
+
+### What is the official website to apply for the CM Punjab Laptop Scheme 2026?
+The only official portal for online registration, status checking, and merit lists is `https://cmlaptophed.punjab.gov.pk`.
+
+### What is the minimum percentage required to get a laptop in 2026?
+General **BS 4-Year Undergraduate Program** students require at least 65% marks in Intermediate, while **Medical and Dental Colleges** students (MBBS/BDS) require a minimum of 80% marks in F.Sc Pre-Medical.
+
+### Are private university students eligible for the CM Laptop Scheme?
+The primary quota is reserved for regular students of public sector universities and government colleges. Students from select chartered private institutions are only eligible if specifically notified under designated HED scholarship allocations.
+
+### Which laptop model and specifications are distributed in 2026?
+Selected students receive an Intel **Core i7 13th Gen Laptop** equipped with 16 GB DDR5 RAM, a 512 GB NVMe SSD, a 15.6-inch Full HD display, and genuine Windows 11 Pro.
+
+### Can students with an Azad Kashmir or Gilgit-Baltistan domicile studying in Punjab apply?
+Students from other provinces or regions studying in Punjab public universities are considered under specific reserved quota allocations if nominated officially by their respective regional higher education departments.
+
+### How do I check if my name is on the Punjab Laptop Scheme Merit List?
+Visit **cmlaptophed.punjab.gov.pk**, navigate to the **University Merit List** section, select your university and department, and search by your CNIC or student roll number.
+
+### What should I do if my university focal person has not verified my data?
+Visit your university's Directorate of Student Affairs or the designated **University Focal Person** with your student ID card and Intermediate result card to request manual verification.
+
+### Can a student who already received a laptop from HEC apply again?
+No, any student who previously received a laptop under any federal or provincial government initiative is strictly barred from applying again.
+
+### What documents must I bring to the laptop distribution ceremony?
+Selected students must present their original CNIC/B-Form, original **Punjab Domicile**, original student ID card, latest semester fee receipt, and an attested copy of their Intermediate result card.
+
+### What happens if the online portal is closed when I try to apply?
+If the portal application window has expired, monitor the official HED portal for announcements regarding Phase II extensions, grievance resolution rounds, or subsequent academic cycle openings.
+
+---
+### Unused Term Notes (Honest-Oversight Rule):
+- `Intermediate Roll Number`: Integrated naturally in Step 2 of the application procedure.
+- `Biometric handover ceremony`: Replaced by physical verification at institutional distribution events.

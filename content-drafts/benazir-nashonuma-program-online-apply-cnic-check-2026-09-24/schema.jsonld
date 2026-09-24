@@ -3,37 +3,40 @@
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://pakbenefits.com/bisp-schemes/benazir-nashonuma-program-online-apply-cnic-check/#article",
+      "@id": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/#article",
       "isPartOf": {
         "@type": "WebPage",
-        "@id": "https://pakbenefits.com/bisp-schemes/benazir-nashonuma-program-online-apply-cnic-check/"
+        "@id": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/"
       },
-      "headline": "Benazir Nashonuma Program Online Check 2026: 8171 CNIC Status, Rs 3,000 Nutrition Cash & Registration Guide",
-      "description": "Check Benazir Nashonuma Program eligibility by CNIC via 8171 portal. Complete guide to Rs 2,500-3,000 cash grant, Wawa Mum nutrition, and center registration.",
-      "inLanguage": "en-PK",
-      "mainEntityOfPage": "https://pakbenefits.com/bisp-schemes/benazir-nashonuma-program-online-apply-cnic-check/",
+      "headline": "Benazir Nashonuma Program Online Check CNIC & Registration 2026",
+      "description": "Check Benazir Nashonuma Program eligibility by CNIC via 8171. Learn quarterly stipend rates (Rs 2,500–3,500), hospital center locations, and registration.",
       "datePublished": "2026-09-24T00:00:00+05:00",
       "dateModified": "2026-09-24T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/",
       "author": {
         "@type": "Person",
-        "name": "Saad Hassan",
-        "jobTitle": "Public Programmes Editor"
+        "name": "TODO: Author Name",
+        "url": "https://example.com/author/TODO"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "PakBenefits",
-        "url": "https://pakbenefits.com"
+        "name": "TODO: Publisher Name",
+        "url": "https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
       },
       "about": [
         {
           "@type": "GovernmentService",
-          "name": "Benazir Nashonuma Program",
-          "sameAs": "https://bisp.gov.pk/"
-        },
-        {
-          "@type": "GovernmentOrganization",
           "name": "Benazir Income Support Programme",
           "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "Thing",
+          "name": "First 1000 Days",
+          "sameAs": "https://en.wikipedia.org/wiki/First_1000_days"
         }
       ],
       "mentions": [
@@ -43,82 +46,114 @@
           "sameAs": "https://en.wikipedia.org/wiki/World_Food_Programme"
         },
         {
-          "@type": "GovernmentOrganization",
-          "name": "National Database and Registration Authority",
-          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+          "@type": "Thing",
+          "name": "Computerised National Identity Card",
+          "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card"
         }
       ],
       "speakable": {
         "@type": "SpeakableSpecification",
-        "cssSelector": [".quick-answer-box", "blockquote"]
+        "cssSelector": [".direct-answer", "h1", ".summary-lead"]
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://pakbenefits.com/bisp-schemes/benazir-nashonuma-program-online-apply-cnic-check/#breadcrumb",
+      "@id": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://pakbenefits.com"
+          "item": "https://example.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "BISP Schemes",
-          "item": "https://pakbenefits.com/bisp-schemes"
+          "name": "Government Welfare Schemes",
+          "item": "https://example.com/schemes/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Benazir Nashonuma Program Online Check",
-          "item": "https://pakbenefits.com/bisp-schemes/benazir-nashonuma-program-online-apply-cnic-check"
+          "item": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/#howto",
+      "name": "How to Check Benazir Nashonuma Eligibility and Register",
+      "description": "Step-by-step procedure to check household eligibility on 8171 portal and register at a hospital facilitation desk.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Verify BISP Status on 8171 Web Portal",
+          "text": "Visit 8171.bisp.gov.pk, enter your 13-digit CNIC and captcha code to verify active household eligibility under Benazir Kafaalat."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Assemble Mandatory Original Documents",
+          "text": "Gather the mother's original CNIC, the child's NADRA B-Form, the child's EPI immunization card, and proof of pregnancy."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Visit Nearest DHQ/THQ Nashonuma Facilitation Center",
+          "text": "Go to the government hospital facilitation counter for physical health checkups, mid-upper arm circumference measurement, and biometric registration."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Collect Specialized Nutritious Food & Await Quarterly Cash",
+          "text": "Receive 90-day Wawa Mum or Maamta nutritional sachets and collect quarterly stipend via partner bank biometric POS."
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://pakbenefits.com/bisp-schemes/benazir-nashonuma-program-online-apply-cnic-check/#faq",
+      "@id": "https://example.com/benazir-nashonuma-program-online-apply-cnic-check/#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Can any woman in Pakistan apply for the Benazir Nashonuma Program?",
+          "name": "Can I check my Benazir Nashonuma status online using my CNIC?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, registration is strictly restricted to pregnant women and mothers of children under 2 years who belong to families registered with a BISP Proxy Means Test (PMT) poverty score of 32 or below."
+            "text": "Yes, you can check your base household eligibility online by entering your 13-digit CNIC number at 8171.bisp.gov.pk or by sending an SMS to 8171. However, full medical and nutritional registration for Nashonuma requires a physical visit to a facilitation center at a DHQ or THQ hospital."
           }
         },
         {
           "@type": "Question",
-          "name": "How much total money is given for a newborn baby girl under Nashonuma?",
+          "name": "How much money is given in the Benazir Nashonuma Program in 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A female child receives Rs 3,000 per month (disbursed as Rs 9,000 per quarter) from birth until she reaches 23 months of age, providing up to Rs 72,000 in direct nutrition cash support over two years."
+            "text": "Eligible beneficiaries receive Rs 2,500 per quarter for pregnant and lactating mothers, Rs 2,500 per quarter for a male child, and Rs 3,000 to Rs 3,500 per quarter for a female child. Each quarterly installment includes an integrated Rs 500 travel allowance."
           }
         },
         {
           "@type": "Question",
-          "name": "Is there an online registration form to download for Benazir Nashonuma?",
+          "name": "Who is eligible to enroll in the Nashonuma Program?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, there is no downloadable online registration form. Registration requires physical clinical screening, biometric verification, and anthropometric measurement at a government THQ or DHQ hospital Nashonuma Facilitation Center."
+            "text": "Families currently registered with an active Benazir Kafaalat status and a PMT poverty score of 32 or below are eligible. Within those households, pregnant women, nursing mothers, and children under two years of age qualify directly."
           }
         },
         {
           "@type": "Question",
-          "name": "What is Wawa Mum and is it given free of charge?",
+          "name": "Can a mother not registered under BISP Kafaalat apply for Nashonuma?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Wawa Mum is a specialized, nutrient-dense lipid paste fortified with essential micronutrients, vitamins, and minerals provided completely free of cost to enrolled mothers and infants to prevent stunting and wasting."
+            "text": "No, active registration under the Benazir Kafaalat Program is a strict prerequisite for Nashonuma enrollment. Unregistered mothers must first complete the Dynamic Registry survey at their local BISP Tehsil office to determine Kafaalat eligibility."
           }
         },
         {
           "@type": "Question",
-          "name": "Can a mother receive both BISP Kafalat and Benazir Nashonuma cash simultaneously?",
+          "name": "What documents are required to register at the hospital facilitation desk?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, an eligible mother receives her regular BISP Kafalat quarterly stipend (Rs 13,500) alongside her separate Nashonuma nutrition cash grants (Rs 2,500 to Rs 3,000 monthly) without any deduction."
+            "text": "Applicants must bring the mother's original NADRA CNIC, the child's original NADRA B-Form, the child's EPI immunization card, and hospital antenatal health records for pregnant women. All documents must be original physical copies."
           }
         },
         {
@@ -126,47 +161,39 @@
           "name": "Where are Benazir Nashonuma Facilitation Centers located?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nashonuma Facilitation Centers (NFCs) are established in designated wards inside all District Headquarter (DHQ) and Tehsil Headquarter (THQ) Government Hospitals across Pakistan."
+            "text": "Nashonuma Facilitation Centers are established inside Tehsil Headquarter (THQ) and District Headquarter (DHQ) government hospitals across all 156 districts in Pakistan."
           }
         },
         {
           "@type": "Question",
-          "name": "What happens if I miss a scheduled vaccination or hospital checkup?",
+          "name": "Why is the stipend higher for a female child?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Missing a mandatory ANC checkup or EPI vaccination milestone results in a temporary freeze on your upcoming quarterly cash stipend until your visit is verified and updated in the clinic database."
+            "text": "The Government of Pakistan provides a higher stipend for female infants (Rs 3,000–3,500 vs Rs 2,500) to incentivize families to provide equal healthcare, immunization, and nutritional attention to girl children."
           }
         },
         {
           "@type": "Question",
-          "name": "Is a NADRA B-Form mandatory to register an infant in Nashonuma?",
+          "name": "What is Specialized Nutritious Food (SNF) and is it free?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, the child’s NADRA Child Registration Certificate (B-Form) is mandatory because it legally links the child’s identity to the mother’s CNIC in the central BISP registry."
+            "text": "Specialized Nutritious Food includes fortified sachets (Wawa Mum for infants and Maamta for mothers) designed to prevent stunting and wasting. These sachets are distributed 100% free of charge at facilitation centers during quarterly checkups."
           }
         },
         {
           "@type": "Question",
-          "name": "Which bank distributes Benazir Nashonuma cash payments?",
+          "name": "What happens if I miss a scheduled hospital checkup?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Payments are disbursed biometrically through partner banks: Bank Alfalah in Khyber Pakhtunkhwa, Gilgit-Baltistan, and AJK; and Habib Bank Limited (HBL / Konnect) across Punjab, Sindh, and Balochistan."
+            "text": "Missing a scheduled health examination or vaccination milestone will temporarily freeze your upcoming quarterly cash transfer. The payment is released once the beneficiary completes the required clinical checkup and updates their compliance record."
           }
         },
         {
           "@type": "Question",
-          "name": "Can a pregnant woman register if she is expecting her third child?",
+          "name": "How do I report an agent demanding money for Nashonuma registration?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, pregnant women from qualifying low-income households can register for each pregnancy and enroll up to two concurrent children under two years of age."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can I lodge a complaint if an agent demands a deduction from my Nashonuma grant?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Never pay any fee or deduction. Lodge an immediate complaint by calling the BISP toll-free helpline at 0800-26477 or visit the Assistant Director at your local BISP Tehsil Office with the retailer’s POS ID and receipt."
+            "text": "You can report fraudulent agents and extortion attempts by calling the official BISP toll-free helpline at 0800-26477 or by filing an official complaint at your nearest district BISP office."
           }
         }
       ]

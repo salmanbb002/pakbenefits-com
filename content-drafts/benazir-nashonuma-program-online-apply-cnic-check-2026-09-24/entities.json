@@ -1,162 +1,122 @@
 [
   {
     "canonical": "Benazir Nashonuma Program",
-    "type": "SocialProtectionScheme",
-    "aliases": ["BISP Nashonuma", "Benazir Nutrition Conditional Cash Transfer", "Nashonuma Program Pakistan"],
-    "sameAs": "https://bisp.gov.pk/",
-    "kind": "entity",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Benazir Income Support Programme",
-    "type": "GovernmentOrganization",
-    "aliases": ["BISP", "BISP 8171", "Benazir Program"],
+    "type": "GovernmentNutritionProgram",
+    "aliases": ["BISP Nashonuma", "Nashonuma Scheme", "Ehsas Nashonuma"],
     "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
     "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 1"
   },
   {
-    "canonical": "8171 Web Portal",
-    "type": "WebApplication",
-    "aliases": ["8171 Pass Gov Pk", "8171 SMS Service", "8171 Online Portal"],
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Ehsaas Programme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "8171 Web Portal & SMS",
+    "type": "GovernmentService",
+    "aliases": ["8171 portal", "8171 SMS service", "bisp 8171 web check"],
     "sameAs": "https://8171.bisp.gov.pk/",
     "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "CNIC",
+    "type": "IdentificationDocument",
+    "aliases": ["National Identity Card", "Shanakhti Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "First 1000 Days",
+    "type": "HealthTimeframe",
+    "aliases": ["1,000 days nutrition window", "golden window of child nutrition"],
+    "sameAs": "https://en.wikipedia.org/wiki/First_1000_days",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Nashonuma Facilitation Center",
+    "type": "MedicalFacilityDesk",
+    "aliases": ["Nashonuma Center", "DHQ/THQ Facilitation Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
   },
   {
     "canonical": "Pregnant and Lactating Women",
-    "type": "TargetDemographic",
-    "aliases": ["PLW", "Pregnant Mothers", "Haamla Aurtain", "Nursing Mothers"],
+    "type": "BeneficiaryGroup",
+    "aliases": ["PLW", "pregnant mothers", "nursing mothers"],
     "sameAs": "",
-    "kind": "term",
+    "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "First 1,000 Days of Life",
-    "type": "HealthConcept",
-    "aliases": ["Conception to 23 Months", "Pehle 1000 Din", "Window of Opportunity"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 2"
   },
   {
     "canonical": "Specialized Nutritious Food",
     "type": "NutritionalSupplement",
-    "aliases": ["SNF", "Wawa Mum", "Maamoul", "Acha Mum", "Lipid-based Nutrient Supplement"],
-    "sameAs": "",
-    "kind": "product",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Proxy Means Test Score",
-    "type": "AssessmentMetric",
-    "aliases": ["PMT Score", "NSER PMT Cut-off", "Poverty Score <= 32"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Quarterly Nutrition Cash Grant",
-    "type": "FinancialBenefit",
-    "aliases": ["Rs 2500 for Boy", "Rs 3000 for Girl", "Rs 2500 for Pregnant Mother", "Nashonuma Wazaif"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Nashonuma Facilitation Center",
-    "type": "MedicalFacility",
-    "aliases": ["NFC", "THQ Hospital Nashonuma Center", "DHQ Hospital Nashonuma Desk"],
+    "aliases": ["SNF", "Wawa Mum", "Maamta supplement"],
     "sameAs": "",
     "kind": "entity",
-    "competitor_count": 4,
+    "competitor_count": 3,
     "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Computerized National Identity Card",
-    "type": "IdentityDocument",
-    "aliases": ["CNIC", "Smart Card", "Shanakhti Card"],
-    "sameAs": "https://en.wikipedia.org/wiki/National_Identity_Card_(Pakistan)",
-    "kind": "entity",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
+    "tier": "Tier 2"
   },
   {
     "canonical": "World Food Programme",
     "type": "InternationalOrganization",
-    "aliases": ["WFP", "WFP Pakistan"],
+    "aliases": ["WFP", "UN WFP"],
     "sameAs": "https://en.wikipedia.org/wiki/World_Food_Programme",
     "kind": "entity",
     "competitor_count": 3,
     "in_title_or_h2": false,
-    "tier": 2
+    "tier": "Tier 2"
   },
   {
-    "canonical": "NADRA Child Registration Certificate",
+    "canonical": "Child B-Form",
     "type": "LegalDocument",
-    "aliases": ["B-Form", "Bay Form", "CRC", "Child Birth Registration"],
-    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "aliases": ["NADRA B-Form", "Child Registration Certificate", "CRC"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "EPI Immunization Card",
+    "type": "HealthRecord",
+    "aliases": ["vaccination card", "child immunization schedule"],
+    "sameAs": "",
     "kind": "entity",
     "competitor_count": 3,
-    "in_title_or_h2": true,
-    "tier": 2
-  },
-  {
-    "canonical": "Antenatal Care",
-    "type": "MedicalProcedure",
-    "aliases": ["ANC", "Pregnancy Checkup", "Zichgi Muaina"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 3,
-    "in_title_or_h2": true,
-    "tier": 2
-  },
-  {
-    "canonical": "Expanded Programme on Immunization",
-    "type": "PublicHealthProgram",
-    "aliases": ["EPI Vaccination", "Hifazati Teekay", "Vaccine Card"],
-    "sameAs": "https://en.wikipedia.org/wiki/Expanded_Program_on_Immunization",
-    "kind": "entity",
-    "competitor_count": 3,
-    "in_title_or_h2": true,
-    "tier": 2
-  },
-  {
-    "canonical": "Anthropometric Growth Monitoring",
-    "type": "MedicalMeasurement",
-    "aliases": ["MUAC", "Height Measurement", "Weight Measurement", "Stunting Check"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 3,
     "in_title_or_h2": false,
-    "tier": 2
+    "tier": "Tier 2"
   },
   {
-    "canonical": "BISP Dynamic Registry Survey",
-    "type": "AdministrativeProcess",
-    "aliases": ["NSER Re-survey", "Dynamic Survey", "BISP Tehsil Office Update"],
+    "canonical": "Proxy Means Test Score",
+    "type": "PovertyMetric",
+    "aliases": ["PMT score", "poverty cutoff score"],
     "sameAs": "",
     "kind": "term",
-    "competitor_count": 2,
-    "in_title_or_h2": false,
-    "tier": 2
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
   }
 ]
