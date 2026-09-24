@@ -1,0 +1,172 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "BISP Faisalabad", "BISP Kafalat"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Faisalabad District",
+    "type": "Place",
+    "aliases": ["Faisalabad Division", "Lyallpur"],
+    "sameAs": "https://en.wikipedia.org/wiki/Faisalabad_District",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Faisalabad City Tehsil Office",
+    "type": "Place",
+    "aliases": ["Al Fateh Sports Complex BISP Office", "Chak No. 224/RB BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Faisalabad Saddar Tehsil Office",
+    "type": "Place",
+    "aliases": ["Mujahid Town Dhudiwala BISP", "Jaranwala Road Saddar BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Jaranwala Tehsil Office",
+    "type": "Place",
+    "aliases": ["West Canal Road Jaranwala BISP", "Rescue 1122 Jaranwala BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Samundri Tehsil Office",
+    "type": "Place",
+    "aliases": ["Housing Colony No 2 Samundri BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tandlianwala Tehsil Office",
+    "type": "Place",
+    "aliases": ["Nazir Town Tandlianwala BISP", "Taali Peer Tandlianwala BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Chak Jhumra Tehsil Office",
+    "type": "Place",
+    "aliases": ["Nullay Wala Road Chak Jhumra BISP", "Sui Gas Office Chak Jhumra BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Divisional Office Faisalabad",
+    "type": "Place",
+    "aliases": ["Farid Town BISP Faisalabad", "Divisional Headquarters Faisalabad"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER Dynamic Survey",
+    "type": "Process",
+    "aliases": ["Dynamic Registry", "BISP Survey Desk"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Office Timings 8 AM to 4 PM",
+    "type": "Date",
+    "aliases": ["BISP Working Hours", "BISP Schedule"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Taleemi Wazaif Desk",
+    "type": "Product",
+    "aliases": ["Benazir Taleemi Wazaif Enrollment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Benazir Nashonuma Center",
+    "type": "Product",
+    "aliases": ["BISP Health & Nutrition Center"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA Biometric Verification",
+    "type": "Process",
+    "aliases": ["Thumb Verification Desk", "Biometric Validation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Token Queue System",
+    "type": "Process",
+    "aliases": ["Morning Token Issuance", "Dynamic Registry Token"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "0800-26477 Toll-Free Helpline",
+    "type": "Product",
+    "aliases": ["BISP Official Helpline"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "Product",
+    "aliases": ["8171 Portal", "8171 SMS"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "canonical": "CM Punjab Free Laptop Scheme",
+    "type": "GovernmentYouthScheme",
+    "aliases": ["CM Maryam Nawaz Laptop Scheme", "Chief Minister Youth Laptop Scheme 2026", "Punjab Free Laptop Scheme"],
+    "sameAs": "https://hed.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Higher Education Department Punjab",
+    "type": "GovernmentDepartment",
+    "aliases": ["HED Punjab", "Punjab Higher Education Department"],
+    "sameAs": "https://hed.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB", "PITB Portal", "Punjab IT Board"],
+    "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "110,000 Free Laptops Quota",
+    "type": "ProjectScope",
+    "aliases": ["110000 Laptops", "1 Lakh Laptops Quota", "Free Laptop Allocation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Online Student Registration Portal",
+    "type": "WebApplication",
+    "aliases": ["laptop.punjab.gov.pk", "HED Student Portal", "Punjab Laptop Apply Portal"],
+    "sameAs": "https://laptop.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Merit Criteria and CGPA Threshold",
+    "type": "AcademicRequirement",
+    "aliases": ["Minimum 3.0 CGPA", "65% Marks Cutoff", "Merit List Criteria"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Public Sector Universities of Punjab",
+    "type": "EducationalInstitutionCategory",
+    "aliases": ["Government Universities", "Punjab Public Sector Varsities", "Public Sector Colleges"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Domicile Certificate",
+    "type": "IdentityDocument",
+    "aliases": ["Punjab Domicile", "Provincial Residence Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Core i7 Laptop Specifications",
+    "type": "HardwareProduct",
+    "aliases": ["Core i7 Latest Gen", "16GB RAM Laptop", "512GB SSD Laptop", "Core i5 Spec"],
+    "sameAs": "",
+    "kind": "product",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Higher Education Commission Pakistan",
+    "type": "RegulatoryOrganization",
+    "aliases": ["HEC Pakistan", "HEC Islamabad", "Federal HEC"],
+    "sameAs": "https://en.wikipedia.org/wiki/Higher_Education_Commission_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "University Institutional Focal Person",
+    "type": "AdministrativeRole",
+    "aliases": ["Laptop Scheme Focal Person", "Departmental Verification Officer"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Eligible Degree Programs",
+    "type": "AcademicClassification",
+    "aliases": ["BS 4-Year", "MS/MPhil", "PhD", "MBBS/BDS", "Engineering"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Special Student Quota",
+    "type": "AffirmativePolicy",
+    "aliases": ["Disabled Students Quota", "Minority Quota", "Southern Punjab Quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

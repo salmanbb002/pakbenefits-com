@@ -1,0 +1,175 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/sindh-schemes/sindh-hari-card-scheme-2026-online-apply-eligibility/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/sindh-schemes/sindh-hari-card-scheme-2026-online-apply-eligibility/"
+      },
+      "headline": "Sindh Hari Card Scheme 2026 Online Apply: Registration, Farmer Subsidies & Eligibility Guide",
+      "description": "Apply for Sindh Hari Card 2026. Complete guide to registration, land eligibility criteria, Sindh Bank biometric card, fertilizer subsidies, and cash relief.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/sindh-schemes/sindh-hari-card-scheme-2026-online-apply-eligibility/",
+      "datePublished": "2026-09-24T00:00:00+05:00",
+      "dateModified": "2026-09-24T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Public Programmes & Financial Schemes Lead"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Sindh Hari Card Scheme",
+          "sameAs": "https://sindh.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Agriculture, Supply and Prices Department Sindh",
+          "sameAs": "https://sindh.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "BankOrCreditUnion",
+          "name": "Sindh Bank Limited",
+          "sameAs": "https://en.wikipedia.org/wiki/Sindh_Bank"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Identity_Card_(Pakistan)"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".quick-answer-box", "blockquote"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/sindh-schemes/sindh-hari-card-scheme-2026-online-apply-eligibility/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sindh Schemes",
+          "item": "https://pakbenefits.com/sindh-schemes"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sindh Hari Card Scheme 2026",
+          "item": "https://pakbenefits.com/sindh-schemes/sindh-hari-card-scheme-2026-online-apply-eligibility"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/sindh-schemes/sindh-hari-card-scheme-2026-online-apply-eligibility/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official landholding limit to qualify for the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small farmers owning or cultivating up to 12.5 acres receive top-priority full subsidies, while medium farmers cultivating between 12.6 and 25 acres qualify for secondary crop input assistance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can tenant farmers (haris) who do not own land get the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, tenant farmers (Muzaraeen) without land ownership titles can register by submitting a Tenancy Affirmation Form signed by the landowner and certified by the local Tapedar and Mukhtiarkar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which bank is responsible for issuing the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sindh Bank Limited is the official banking partner responsible for opening farmer accounts, issuing biometric chip-enabled cards, and facilitating subsidy disbursals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do farmers have to repay the money received through the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, unlike loan cards, subsidies disbursed through the Sindh Hari Card are non-repayable direct government cash grants and input discounts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What subsidies can I purchase with the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cardholders receive direct financial relief for purchasing DAP fertilizer, Urea, certified agricultural seeds, pesticide support, and solar tube well conversion subsidies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I withdraw cash from any ATM using the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the Sindh Hari Card is integrated with the 1-Link network, enabling cash withdrawals at any bank ATM across Pakistan as well as POS swipes at authorized agricultural dealerships."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required to register for the Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You need your original CNIC, certified Form-VII (land revenue record) or tenancy certificate, an active mobile phone SIM registered in your CNIC, and recent passport-sized photographs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any registration fee for obtaining the Sindh Hari Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the registration process and the initial issuance of the biometric Hari Card are completely free of charge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I submit my Sindh Hari Card registration form?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Forms must be submitted physically at your local Tehsil Office of the Agriculture Extension Department or designated District Agriculture Facilitation Centers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if my Hari Card is lost or damaged?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit your local Sindh Bank branch with your original CNIC to block the lost card and request a replacement biometric card, or call the Sindh Bank helpline at 021-111-333-225."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How will I know when a fertilizer subsidy is credited to my card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sindh Bank automatically sends an official confirmation SMS alert to your registered mobile phone number immediately when subsidy funds are deposited into your account."
+          }
+        }
+      ]
+    }
+  ]
+}

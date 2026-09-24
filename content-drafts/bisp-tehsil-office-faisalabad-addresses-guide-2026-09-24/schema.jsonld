@@ -1,0 +1,212 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/bisp-tehsil-office-faisalabad-addresses-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/bisp-tehsil-office-faisalabad-addresses-guide/"
+      },
+      "headline": "BISP Tehsil Office Faisalabad Directory: All City, Jaranwala & Samundri Dynamic Centers",
+      "description": "Complete directory of BISP Tehsil Offices in Faisalabad district for 2026. Verified addresses, timings, and dynamic survey guidelines for City, Saddar, Jaranwala, Samundri, Tandlianwala & Chak Jhumra.",
+      "datePublished": "2026-09-24T00:00:00+05:00",
+      "dateModified": "2026-09-24T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/bisp-tehsil-office-faisalabad-addresses-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: Author URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Publisher Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Faisalabad District",
+          "sameAs": "https://en.wikipedia.org/wiki/Faisalabad_District"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Place",
+          "name": "Faisalabad City Tehsil Office",
+          "address": "Al Fateh Sports Complex, Chak No. 224/RB, Faisalabad"
+        },
+        {
+          "@type": "Place",
+          "name": "Jaranwala BISP Tehsil Office",
+          "address": "West Canal Road, Opposite Rescue 1122, Jaranwala"
+        },
+        {
+          "@type": "Place",
+          "name": "Samundri BISP Tehsil Office",
+          "address": "House No. 347, Housing Colony No. 2, Samundri"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body/p[1]"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Complete BISP Dynamic Survey in Faisalabad Tehsil Offices",
+      "description": "Step-by-step visitor procedure for completing the NSER dynamic socioeconomic survey at BISP centers in Faisalabad.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Obtain Entry Token",
+          "text": "Present your original CNIC at the reception counter to receive a daily queue token.",
+          "position": 1
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Waiting Area Seating",
+          "text": "Wait in the designated covered seating area until your token number is announced.",
+          "position": 2
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Household Data Registration",
+          "text": "Provide family roster, utility bills, and socioeconomic details to the data entry operator.",
+          "position": 3
+        },
+        {
+          "@type": "HowToStep",
+          "name": "NADRA Biometric Scanning",
+          "text": "Place your fingers on the biometric scanner to complete live identity authentication.",
+          "position": 4
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive Survey Tracking Slip",
+          "text": "Collect your confirmation slip and track eligibility results via 8171 SMS notifications.",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is the main BISP office located in Faisalabad City?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Faisalabad City Tehsil Office is located at Al Fateh Sports Complex, Chak No. 224/RB, People's Colony side, Faisalabad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee for registration or dynamic survey at Faisalabad BISP offices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All registration, dynamic survey, and complaint resolution services at BISP offices are 100% free of charge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the daily operating hours of BISP offices in Jaranwala and Samundri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Offices in Jaranwala and Samundri operate Monday through Friday from 8:00 AM to 4:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I visit any BISP office in Faisalabad if my CNIC belongs to another tehsil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You should visit the specific BISP office corresponding to your permanent or present address listed on your NADRA CNIC."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if the BISP office runs out of tokens for the day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Arrive early the following morning before 8:30 AM to receive a fresh priority queue token from the entrance counter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I enroll my children in Taleemi Wazaif at the Faisalabad center?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bring your child's NADRA B-Form and a school admission verification slip stamped by the school headmaster to the Taleemi Wazaif desk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP Divisional Headquarters for Faisalabad located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Divisional Office is situated in Farid Town, Street No. 2, near GTS Chowk, Faisalabad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an elderly or disabled woman receive assistance without standing in long queues?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all Faisalabad BISP dynamic centers provide priority queue seating and expedited token processing for elderly and differently-abled women."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I report an agent demanding money outside the Faisalabad BISP gate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Report the agent immediately to the BISP Tehsil Assistant Director or call the official toll-free anti-corruption helpline at 0800-26477."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take for payment to start after dynamic survey completion in Faisalabad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Socioeconomic PMT scores are calculated within 4 to 8 weeks, after which eligible families receive a notification SMS from 8171."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "BISP Tehsil Directories",
+          "item": "https://example.com/bisp-offices/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Faisalabad BISP Offices",
+          "item": "https://example.com/bisp-tehsil-office-faisalabad-addresses-guide/"
+        }
+      ]
+    }
+  ]
+}

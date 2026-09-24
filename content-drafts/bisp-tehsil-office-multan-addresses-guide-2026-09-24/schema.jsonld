@@ -1,0 +1,212 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/bisp-tehsil-office-multan-addresses-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/bisp-tehsil-office-multan-addresses-guide/"
+      },
+      "headline": "BISP Tehsil Office Multan & South Punjab Directory: City, Saddar & Shujabad Centers",
+      "description": "Official directory of BISP Tehsil Offices in Multan and South Punjab for 2026. Verified addresses, landmarks, metro bus access, timings & dynamic survey guide for City, Saddar, Shujabad & Jalalpur Pirwala.",
+      "datePublished": "2026-09-24T00:00:00+05:00",
+      "dateModified": "2026-09-24T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/bisp-tehsil-office-multan-addresses-guide/",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: Author URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Publisher Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Multan District",
+          "sameAs": "https://en.wikipedia.org/wiki/Multan_District"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Place",
+          "name": "Multan Saddar Tehsil Office",
+          "address": "Bosan Road, Near Bahadarpur Metro Station, Multan"
+        },
+        {
+          "@type": "Place",
+          "name": "Multan City Tehsil Office",
+          "address": "House No. 481, Naqashband Colony, Rasheeda Abad Chowk, Multan"
+        },
+        {
+          "@type": "Place",
+          "name": "Shujabad BISP Tehsil Office",
+          "address": "House No. D-823/5, Mughal Colony, Near Railway Crossing, Shujabad"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body/p[1]"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Complete BISP Dynamic Survey in Multan Tehsil Offices",
+      "description": "Step-by-step visitor procedure for completing the NSER dynamic socioeconomic survey at BISP centers in Multan.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Obtain Queue Token",
+          "text": "Present original CNIC at the reception entrance to collect a dynamic registry queue token.",
+          "position": 1
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Seating in Waiting Hall",
+          "text": "Wait in the shaded beneficiary hall until your token number is displayed or announced.",
+          "position": 2
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Data Entry Interview",
+          "text": "Provide household socioeconomic details, family roster, and utility bills to the data operator.",
+          "position": 3
+        },
+        {
+          "@type": "HowToStep",
+          "name": "NADRA Biometric Scanning",
+          "text": "Place thumb or index fingers on the biometric device for live national registry validation.",
+          "position": 4
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Retain Confirmation Token",
+          "text": "Collect the stamped dynamic survey tracking slip to monitor eligibility results via 8171.",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is the BISP Tehsil Office located for Multan Saddar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Multan Saddar Tehsil Office is located on Bosan Road near the Bahadarpur Metro Bus Station."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I reach the Multan City BISP office using public transport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can take local transport to Rasheeda Abad Chowk and enter Naqashband Colony to reach House No. 481."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are BISP survey and registration services in Multan free of charge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all BISP survey, verification, and registration services are 100% free with no official or unofficial fee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the BISP office hours in Shujabad and Jalalpur Pirwala?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Offices in Shujabad and Jalalpur Pirwala operate Monday through Friday from 8:00 AM to 4:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I enroll my child in Taleemi Wazaif at the Multan office?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Present your original CNIC, your child's NADRA B-Form, and a stamped school admission certificate at the Taleemi Wazaif desk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do I go if I need to file an appeal against a rejected survey in Multan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit the BISP Divisional Headquarters at House No. 203, Multan Public School Road, New Shalimar Colony, Multan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if my fingerprints repeatedly fail at bank ATMs in Multan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit your tehsil office to obtain a biometric exemption certificate or get your fingerprints updated at the tehsil NADRA counter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What time does token distribution begin at Multan BISP centers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Token distribution begins at 7:45 AM at the main entrance gate on a first-come, first-served basis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an agent charge money for filling out the BISP survey form in Multan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, BISP data entry is performed exclusively by authorized government operators inside the office for free."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I check if my quarterly Rs 13,500 payment has been released in Multan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Send your 13-digit CNIC number to 8171 via SMS or check your status on the web portal at 8171.bisp.gov.pk."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "BISP Tehsil Directories",
+          "item": "https://example.com/bisp-offices/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Multan BISP Offices",
+          "item": "https://example.com/bisp-tehsil-office-multan-addresses-guide/"
+        }
+      ]
+    }
+  ]
+}

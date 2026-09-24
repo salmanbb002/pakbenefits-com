@@ -1,0 +1,217 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/bisp-direct-bank-account-transfer-online-registration/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/bisp-direct-bank-account-transfer-online-registration/"
+      },
+      "headline": "BISP New Direct Bank Transfer System: Shifting from Cash Camps to Commercial Bank Accounts",
+      "description": "Complete guide on transitioning from cash distribution campsites to direct commercial bank account transfers for BISP Kafalat beneficiaries across HBL, Bank Alfalah, and Bank of Punjab.",
+      "datePublished": "2026-09-24T00:00:00+05:00",
+      "dateModified": "2026-09-24T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/bisp-direct-bank-account-transfer-online-registration/",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: Author URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Publisher Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "Organization",
+          "name": "State Bank of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "Habib Bank Limited",
+          "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited"
+        },
+        {
+          "@type": "Organization",
+          "name": "Bank Alfalah",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah"
+        },
+        {
+          "@type": "Organization",
+          "name": "Bank of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "NADRA",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body/p[1]"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Open a BISP Sahulat Bank Account",
+      "description": "Step-by-step guide to opening a zero-balance BISP Sahulat bank account at commercial bank branches for direct Kafalat transfers.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Confirm Eligibility on the 8171 Portal",
+          "text": "Verify your NSER survey status on the official 8171 web portal at 8171.bisp.gov.pk using your 13-digit CNIC.",
+          "position": 1
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Ensure Mobile SIM Ownership",
+          "text": "Make sure your mobile phone carries an active SIM card registered against your own CNIC.",
+          "position": 2
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Visit Assigned Partner Bank Branch",
+          "text": "Visit the designated partner bank branch (HBL, Bank Alfalah, or Bank of Punjab) with your original valid CNIC.",
+          "position": 3
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Complete Biometric Verification",
+          "text": "Scan your thumb or fingers on the NADRA-linked biometric verification device at the bank BISP counter.",
+          "position": 4
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive Account Confirmation",
+          "text": "Obtain your account number slip and wait for the official SMS confirmation from the 8171 portal.",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I open a BISP Sahulat Account in any commercial bank of my choice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can open an account at any of the six official BISP partner banks assigned to your district, including HBL, Bank Alfalah, and Bank of Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee or minimum initial deposit required to open a BISP Sahulat Account?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Opening a BISP Sahulat Account is completely free of cost and requires zero initial deposit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much money is disbursed in the 2026 BISP Kafalat quarterly tranche?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The standard 2026 quarterly BISP Kafalat payment is Rs 13,500 per eligible household."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will I receive Taleemi Wazaif school stipends in the same bank account?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taleemi Wazaif education stipends for verified school-going children are deposited directly into the same BISP Sahulat bank account alongside the Kafalat tranche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an agent or bank officer deduct service charges from my payment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No bank officer, retailer, or campsite agent is legally permitted to deduct any fee from your BISP stipend."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if my registered mobile SIM is lost or blocked?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit your mobile operator's customer service center with your CNIC to reissue the SIM card, and update your phone number at the BISP Tehsil dynamic survey desk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can my husband or son withdraw money from my BISP bank account?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BISP Sahulat account is strictly tied to the female beneficiary's own CNIC and biometric verification, preventing third-party unauthorized withdrawals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I check if my BISP payment has been transferred to my bank account?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can check your balance through an ATM inquiry, bank mobile app, or by verifying your CNIC status on the 8171 web portal at 8171.bisp.gov.pk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if I forget my ATM PIN code?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit your parent bank branch with your original CNIC to generate a new PIN through on-counter biometric authentication."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take for a BISP Sahulat Account to activate after biometric verification?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most BISP Sahulat accounts activate immediately upon successful NADRA biometric validation, with full transaction services enabled within 24 to 48 hours."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "BISP Guides",
+          "item": "https://example.com/bisp-guides/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BISP Direct Bank Transfer",
+          "item": "https://example.com/bisp-direct-bank-account-transfer-online-registration/"
+        }
+      ]
+    }
+  ]
+}

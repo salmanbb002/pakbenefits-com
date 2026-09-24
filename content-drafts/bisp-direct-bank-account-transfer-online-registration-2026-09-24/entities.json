@@ -1,0 +1,172 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "BISP Kafalat", "Benazir Kafalat"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Sahulat Account",
+    "type": "Product",
+    "aliases": ["Direct Bank Account", "BISP Beneficiary Account"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "Organization",
+    "aliases": ["SBP"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA",
+    "type": "Organization",
+    "aliases": ["National Database and Registration Authority"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Habib Bank Limited",
+    "type": "Organization",
+    "aliases": ["HBL", "HBL Konnect"],
+    "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bank Alfalah",
+    "type": "Organization",
+    "aliases": ["Alfalah", "BAFL"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bank of Punjab",
+    "type": "Organization",
+    "aliases": ["BOP"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "Product",
+    "aliases": ["BISP 8171 Portal", "8171 SMS"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Biometric Verification",
+    "type": "Process",
+    "aliases": ["Thumb Impression", "Fingerprint Authentication"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 13,500 Quarterly Tranche",
+    "type": "Money",
+    "aliases": ["Quarterly Stipend", "BISP Kafalat Amount 2026"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Digital Wallet",
+    "type": "Product",
+    "aliases": ["Mobile Wallet", "Raast Wallet"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Cash Campsite System",
+    "type": "Concept",
+    "aliases": ["BISP Cash Camps", "POS Agent Retailers"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Illegal Deductions",
+    "type": "Concept",
+    "aliases": ["Agent Mafia Cuts", "POS Commission Fee"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NSER Dynamic Survey",
+    "type": "Process",
+    "aliases": ["Dynamic Registry", "BISP Survey Desk"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Benazir SIM",
+    "type": "Product",
+    "aliases": ["Registered Mobile SIM"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "ATM Debit Card",
+    "type": "Product",
+    "aliases": ["PayPak Card", "UnionPay Card"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Grievance Redressal",
+    "type": "Process",
+    "aliases": ["BISP Complaint Desk", "0800-26477 Helpline"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

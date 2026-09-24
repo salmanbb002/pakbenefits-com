@@ -1,0 +1,162 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "BISP Multan", "BISP South Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Multan District",
+    "type": "Place",
+    "aliases": ["Multan Division", "South Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Multan_District",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Multan City Tehsil Office",
+    "type": "Place",
+    "aliases": ["Naqashband Colony BISP", "Rasheeda Abad BISP Office"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Multan Saddar Tehsil Office",
+    "type": "Place",
+    "aliases": ["Bosan Road BISP Multan", "Bahadarpur Metro BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Shujabad Tehsil Office",
+    "type": "Place",
+    "aliases": ["Mughal Colony Shujabad BISP", "Laar Road Shujabad BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Jalalpur Pirwala Tehsil Office",
+    "type": "Place",
+    "aliases": ["Lodhran Road Jalalpur BISP", "New Educator School Jalalpur BISP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Divisional Office Multan",
+    "type": "Place",
+    "aliases": ["MPS Road BISP Multan", "New Shalimar Colony BISP Office"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER Dynamic Survey",
+    "type": "Process",
+    "aliases": ["Dynamic Registry", "BISP Survey Desk"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Office Timings 8 AM to 4 PM",
+    "type": "Date",
+    "aliases": ["Multan BISP Working Hours", "BISP Office Timings"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Multan Metro Bus Service",
+    "type": "Infrastructure",
+    "aliases": ["Bahadarpur Metro Station", "Multan Metro Transit"],
+    "sameAs": "https://en.wikipedia.org/wiki/Multan_Metrobus",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Taleemi Wazaif Desk",
+    "type": "Product",
+    "aliases": ["Benazir Taleemi Wazaif Enrollment Desk"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Benazir Nashonuma Center",
+    "type": "Product",
+    "aliases": ["Multan Nashonuma Health Desk"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA Biometric Verification",
+    "type": "Process",
+    "aliases": ["Thumb Impression Authentication"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Token Queue System",
+    "type": "Process",
+    "aliases": ["Morning Queue Token", "Beneficiary Token Counter"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "0800-26477 Toll-Free Helpline",
+    "type": "Product",
+    "aliases": ["BISP Official Helpline"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "Product",
+    "aliases": ["8171 Portal", "8171 SMS Gateway"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]
