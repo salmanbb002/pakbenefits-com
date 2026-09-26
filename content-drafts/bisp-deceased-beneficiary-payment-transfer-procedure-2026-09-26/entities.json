@@ -1,0 +1,78 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "BISP"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q4887467",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA Death Certificate",
+    "type": "Document",
+    "aliases": [
+      "Death Certificate",
+      "NADRA death record"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q6972049",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "CNIC Cancellation Certificate",
+    "type": "Document",
+    "aliases": [
+      "CNIC cancellation slip"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "Place",
+    "aliases": [
+      "Tehsil office",
+      "BISP center"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Dynamic Survey",
+    "type": "Process",
+    "aliases": [
+      "NSER survey",
+      "re-survey"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Succession Certificate",
+    "type": "LegalDocument",
+    "aliases": [
+      "Legal heir certificate",
+      "Virasat certificate"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

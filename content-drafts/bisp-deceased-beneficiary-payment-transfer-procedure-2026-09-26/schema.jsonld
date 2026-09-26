@@ -1,0 +1,101 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/bisp-deceased-beneficiary-payment-transfer-procedure/#article",
+      "headline": "BISP Deceased Beneficiary Payment Transfer & NADRA Cancellation Guide",
+      "description": "Step-by-step BISP deceased beneficiary payment transfer procedure. Learn how to register NADRA death certificate, transfer head of household, and visit Tehsil office.",
+      "url": "https://pakbenefits.com/bisp-deceased-beneficiary-payment-transfer-procedure/",
+      "datePublished": "2026-09-26T00:00:00+05:00",
+      "dateModified": "2026-09-26T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://www.wikidata.org/wiki/Q4887467"
+        },
+        {
+          "@type": "GovernmentAgency",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://www.wikidata.org/wiki/Q6972049"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Kafaalat",
+          "sameAs": "https://bisp.gov.pk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Transfer BISP Deceased Beneficiary Account & Register Death",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Register Death with NADRA",
+          "text": "Obtain official NADRA Death Certificate and CNIC Cancellation Certificate."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Report to BISP Tehsil Office",
+          "text": "Present cancellation certificates and FRC at BISP Helpdesk."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Conduct Dynamic Survey",
+          "text": "Complete new NSER Dynamic Survey for eligible surviving female head."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Claim Accrued Payments",
+          "text": "Activate biometric account and claim pending stipends via 8171 SMS."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can a husband receive his deceased wife's BISP Kafaalat payments?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A husband cannot directly receive BISP Kafaalat cash payments unless he is the sole legal guardian of minor orphan children."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens to unpaid BISP stipends left in the account before death?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Unpaid stipends that were disbursed prior to death can be claimed by legal heirs submitting a Succession Certificate at BISP Tehsil Office."
+          }
+        }
+      ]
+    }
+  ]
+}

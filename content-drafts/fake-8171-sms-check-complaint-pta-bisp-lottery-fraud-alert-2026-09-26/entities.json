@@ -1,0 +1,112 @@
+[
+  {
+    "canonical": "8171 Official Shortcode",
+    "type": "Communication Gateway",
+    "aliases": ["8171 SMS Gateway", "Official BISP 8171 Number", "8171 Portal"],
+    "sameAs": "https://8171.bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Government Organization",
+    "aliases": ["BISP", "Benazir Kafaalat Program"],
+    "sameAs": "https://bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pakistan Telecommunication Authority",
+    "type": "Regulatory Agency",
+    "aliases": ["PTA", "PTA Complaint Management System", "PTA CMS"],
+    "sameAs": "https://pta.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Fake 8171 SMS & BISP Lottery Scam",
+    "type": "Fraud Scheme",
+    "aliases": ["BISP Fraud Alert", "Fake 8171 Message", "BISP Fake Call Scam"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Toll-Free Helpline 0800-26477",
+    "type": "Support Service",
+    "aliases": ["BISP Complaint Line", "BISP Toll Free Number"],
+    "sameAs": "https://bisp.gov.pk/ContactUs",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Police Emergency 15",
+    "type": "Emergency Service",
+    "aliases": ["15 Police Helpline", "Police Emergency Service"],
+    "sameAs": "https://punjabpolice.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "FIA Cybercrime Wing",
+    "type": "Law Enforcement Agency",
+    "aliases": ["Federal Investigation Agency Cyber Crime", "FIA 1991 Helpline"],
+    "sameAs": "https://complaint.fia.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PTA SMS 9000 Spam Reporting",
+    "type": "Service",
+    "aliases": ["PTA 9000 Complaint", "PTA Shortcode 9000"],
+    "sameAs": "https://pta.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "CNIC & Financial Security",
+    "type": "Concept",
+    "aliases": ["13-Digit CNIC", "OTP Protection", "Pin Security"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "SIM Blocking & Mobile Operator Action",
+    "type": "Process",
+    "aliases": ["Scammer SIM Blocking", "PTA IMEI Block"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Advance Fee & Lottery Trap Indicators",
+    "type": "Threat Indicator",
+    "aliases": ["EasyPaisa Fraud Deposit", "Fake WhatsApp BISP Group"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

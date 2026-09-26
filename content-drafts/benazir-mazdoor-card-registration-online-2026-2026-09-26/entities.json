@@ -1,0 +1,78 @@
+[
+  {
+    "canonical": "Benazir Mazdoor Card",
+    "type": "GovernmentProgram",
+    "aliases": [
+      "Mazdoor Card",
+      "SESSI Card"
+    ],
+    "sameAs": "https://sessi.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sindh Employees' Social Security Institution",
+    "type": "GovernmentAgency",
+    "aliases": [
+      "SESSI",
+      "Sindh Social Security"
+    ],
+    "sameAs": "https://sessi.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Sindh",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "Sindh Government"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q1626248",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA Biometric Verification",
+    "type": "Process",
+    "aliases": [
+      "biometric counter",
+      "NADRA validation"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q6972049",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "SESSI Hospitals",
+    "type": "Place",
+    "aliases": [
+      "SESSI dispensaries",
+      "SESSI medical centers"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sindh Workers Welfare Board",
+    "type": "GovernmentAgency",
+    "aliases": [
+      "SWWB"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

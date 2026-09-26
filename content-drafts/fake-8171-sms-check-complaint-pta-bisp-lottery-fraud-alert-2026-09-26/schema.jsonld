@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert"
+      },
+      "headline": "Fake 8171 SMS Check, Complaint & BISP Lottery Fraud Alert Guide",
+      "description": "Spot fake 8171 SMS scams and report BISP lottery fraud. Step-by-step guide to reporting scammers on PTA 9000, BISP Helpline 0800-26477, Police 15, and FIA Cybercrime.",
+      "mainEntityOfPage": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert",
+      "datePublished": "2026-09-26T10:00:00+05:00",
+      "dateModified": "2026-09-26T10:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Income Support Programme 8171 SMS Gateway",
+          "url": "https://8171.bisp.gov.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Pakistan Telecommunication Authority",
+          "sameAs": "https://pta.gov.pk"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Federal Investigation Agency Cybercrime Wing",
+          "sameAs": "https://complaint.fia.gov.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://bisp.gov.pk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert#howto",
+      "name": "How to Report Fake 8171 SMS to PTA via SMS 9000",
+      "description": "Step-by-step procedure to send fraudulent mobile numbers and fake 8171 text messages to PTA for SIM blocking.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open Scam Message",
+          "text": "Open the fake 8171 BISP message received on your mobile handset."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Copy Scammer Details",
+          "text": "Copy the scammer's 11-digit mobile phone number and the complete message text."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Compose Message to 9000",
+          "text": "Type the scammer's mobile number, add a space, paste the fake message text, and send to 9000."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Receive Confirmation",
+          "text": "Wait for PTA's automated SMS confirmation flagging the number for SIM blocking."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does BISP ever call beneficiaries from a regular 11-digit mobile number?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, Benazir Income Support Programme never calls beneficiaries or sends official SMS updates from personal 11-digit mobile numbers. All official messages are sent exclusively through the 4-digit shortcode 8171."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I report a fake 8171 SMS to PTA via SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To report a fake 8171 SMS to Pakistan Telecommunication Authority, open your SMS composer, type the scammer's 11-digit mobile number, add a space, paste the fake message text, and send it to PTA SMS 9000 spam reporting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official BISP Toll-Free Helpline for reporting fraud?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official BISP Toll-Free Helpline is 0800-26477. It is free to call from any mobile network or landline across Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if a fake 8171 caller demands money via EasyPaisa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Do not send any money. BISP registration and grant disbursements are 100% free of cost. Immediately report the caller's phone number to PTA at 9000 and call BISP helpline at 0800-26477."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get my money back if I transferred it to a fake 8171 scammer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you report the fraud immediately to your mobile wallet provider (EasyPaisa/JazzCash) and file a complaint on the FIA Cybercrime Wing portal (complaint.fia.gov.pk), authorities can freeze the receiver's account to recover funds."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official website to check BISP eligibility online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The only official portal for online BISP status checking is 8171.bisp.gov.pk. Never enter your CNIC data on unofficial third-party websites or blog portals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does PTA take to block a scammer's SIM after reporting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Once verified through the PTA SMS 9000 spam reporting system or PTA CMS portal, fraudulent SIM cards and associated mobile IMEIs are blocked across all Pakistani telecom networks within 24 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What legal penalties do fake 8171 scammers face in Pakistan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Under the Prevention of Electronic Crimes Act (PECA), impersonating government officials and committing electronic financial fraud carries penalties of up to 7 years imprisonment and heavy fines."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I report a fake 8171 scam to Police Emergency?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dial Police Emergency 15 from any mobile or landline to report emergency extortion, threats, or local fraudulent agents attempting to collect money in person."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee to file a complaint on the PTA CMS Portal or FIA Cybercrime Wing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, filing complaints on the PTA CMS portal (complaint.pta.gov.pk) and the FIA Cybercrime Wing portal (complaint.fia.gov.pk) is completely free of charge."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Public Safety",
+          "item": "https://pakbenefits.com/category/public-safety"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fake 8171 SMS Fraud Alert",
+          "item": "https://pakbenefits.com/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert"
+        }
+      ]
+    }
+  ]
+}

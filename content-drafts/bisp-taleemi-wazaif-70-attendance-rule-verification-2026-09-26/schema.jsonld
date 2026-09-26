@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/bisp-taleemi-wazaif-70-attendance-rule-verification/#article",
+      "headline": "BISP Taleemi Wazaif 70% Attendance Rule & Verification Procedure",
+      "description": "Facing stipend stoppage due to the BISP Taleemi Wazaif 70% attendance rule? Learn why wazaif get blocked and step-by-step verification slip resubmission.",
+      "url": "https://pakbenefits.com/bisp-taleemi-wazaif-70-attendance-rule-verification/",
+      "datePublished": "2026-09-26T00:00:00+05:00",
+      "dateModified": "2026-09-26T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Taleemi Wazaif",
+          "sameAs": "https://bisp.gov.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://www.wikidata.org/wiki/Q4887467"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentAgency",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://www.wikidata.org/wiki/Q6972049"
+        },
+        {
+          "@type": "WebApplication",
+          "name": "8171 Web Portal",
+          "sameAs": "https://8171.bisp.gov.pk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Verify BISP Taleemi Wazaif 70% Attendance Rule Stoppage",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Obtain Verification Slip",
+          "text": "Get the official BISP Wazaif Verification Slip from Tehsil Office or 8171 portal."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "School Endorsement",
+          "text": "Present the slip to school principal for attendance record and rubber stamp."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Submit to Tehsil Office",
+          "text": "Submit stamped slip with mother CNIC and child B-Form at BISP desk."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Check Online Status",
+          "text": "Verify status on 8171 web portal after 7 to 10 working days."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What happens if my child's attendance is exactly 69%?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If attendance is below 70%, the BISP automated system automatically blocks the quarterly stipend."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check BISP Taleemi Wazaif attendance status online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can check stipend eligibility by entering the mother's 13-digit CNIC on the official 8171 web portal (8171.bisp.gov.pk)."
+          }
+        }
+      ]
+    }
+  ]
+}

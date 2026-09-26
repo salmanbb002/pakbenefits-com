@@ -1,0 +1,101 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/benazir-mazdoor-card-registration-online-2026/#article",
+      "headline": "Benazir Mazdoor Card Registration Online 2026: Sindh SESSI Apply & Benefits",
+      "description": "Complete guide to Benazir Mazdoor Card registration online 2026 in Sindh. Learn SESSI worker registration, free healthcare, education grants, and biometric verification.",
+      "url": "https://pakbenefits.com/benazir-mazdoor-card-registration-online-2026/",
+      "datePublished": "2026-09-26T00:00:00+05:00",
+      "dateModified": "2026-09-26T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Mazdoor Card",
+          "sameAs": "https://sessi.gov.pk"
+        },
+        {
+          "@type": "GovernmentAgency",
+          "name": "Sindh Employees' Social Security Institution",
+          "sameAs": "https://sessi.gov.pk"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Government of Sindh",
+          "sameAs": "https://www.wikidata.org/wiki/Q1626248"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Apply for Benazir Mazdoor Card Online in Sindh",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Employer Registration",
+          "text": "Employer logs into SESSI portal and submits worker details."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Submit Form R-2",
+          "text": "Fill Form R-2 with accurate CNIC and family dependent details."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Biometric Verification",
+          "text": "Visit SESSI field office for NADRA thumbprint verification."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Card Activation",
+          "text": "Receive active smart card for SESSI hospital medical services."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can an individual worker apply for the Benazir Mazdoor Card independently?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, registration requires verification through an employer registered with SESSI."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Benazir Mazdoor Card valid outside Sindh?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The card is primarily valid across all SESSI healthcare facilities within Sindh province."
+          }
+        }
+      ]
+    }
+  ]
+}

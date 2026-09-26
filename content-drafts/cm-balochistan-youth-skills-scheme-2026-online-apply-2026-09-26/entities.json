@@ -1,0 +1,122 @@
+[
+  {
+    "canonical": "CM Balochistan Youth Skills Development Program",
+    "type": "Government Scheme",
+    "aliases": ["Balochistan Youth Rozgar Scheme 2026", "CM Youth Technical Education Scheme", "Balochistan Skills Scheme"],
+    "sameAs": "http://www.btevta.gob.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Balochistan Technical Education and Vocational Training Authority",
+    "type": "Organization",
+    "aliases": ["B-TEVTA", "BTEVTA"],
+    "sameAs": "http://www.btevta.gob.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Balochistan",
+    "type": "Government Body",
+    "aliases": ["GoB", "Balochistan Provincial Government"],
+    "sameAs": "https://balochistan.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Mir Sarfraz Bugti",
+    "type": "Person",
+    "aliases": ["CM Balochistan", "Chief Minister Balochistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Sarfraz_Bugti",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "CNIC",
+    "type": "Document",
+    "aliases": ["National Identity Card", "Computerized National Identity Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Online Application Registration",
+    "type": "Process",
+    "aliases": ["Online Apply", "BTEVTA Portal Registration", "Web Form"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Overseas Employment & International Job Placement",
+    "type": "Concept",
+    "aliases": ["Foreign Jobs", "Overseas Employment", "Gulf & European Placements"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Monthly Stipend & Free Training",
+    "type": "Benefit",
+    "aliases": ["Financial Allowance", "Free Vocational Training", "Stipend Support"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "IT and High-Tech Skills",
+    "type": "Category",
+    "aliases": ["Cyber Security", "Digital Marketing", "E-Commerce", "SAP", "Graphic Design"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Technical Trades & Vocational Skills",
+    "type": "Category",
+    "aliases": ["Solar Technology", "Heavy Machinery Operation", "Welding", "Electrical Wiring", "Healthcare Assistant"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "District Domicile & Quotas",
+    "type": "Requirement",
+    "aliases": ["Balochistan Domicile", "Quetta Quota", "District Wise Seats"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Third-Party Oversight Mechanism",
+    "type": "Process",
+    "aliases": ["Merit Verification", "Third Party Audit", "Transparent Selection"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

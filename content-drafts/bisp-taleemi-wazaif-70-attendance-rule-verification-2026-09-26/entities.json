@@ -1,0 +1,104 @@
+[
+  {
+    "canonical": "Benazir Taleemi Wazaif",
+    "type": "GovernmentProgram",
+    "aliases": [
+      "BISP Wazaif",
+      "Taleemi Wazaif"
+    ],
+    "sameAs": "https://bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": [
+      "BISP"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q4887467",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "70% Attendance Rule",
+    "type": "Policy",
+    "aliases": [
+      "BISP 70 attendance rule",
+      "attendance rule verification"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "Place",
+    "aliases": [
+      "Tehsil office",
+      "BISP center"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "School Verification Slip",
+    "type": "Document",
+    "aliases": [
+      "wazaif slip",
+      "school slip"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "WebApplication",
+    "aliases": [
+      "8171 portal",
+      "8171 SMS"
+    ],
+    "sameAs": "https://8171.bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA B-Form",
+    "type": "Document",
+    "aliases": [
+      "B-Form",
+      "CRC"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q6972049",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Compliance Monitoring System",
+    "type": "SoftwareApplication",
+    "aliases": [
+      "Compliance Monitoring"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

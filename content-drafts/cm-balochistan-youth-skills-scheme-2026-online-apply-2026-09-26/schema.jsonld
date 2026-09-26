@@ -1,0 +1,220 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply"
+      },
+      "headline": "CM Balochistan Youth Skills Scheme 2026 Online Apply & Registration Guide",
+      "description": "Complete guide on how to apply online for CM Balochistan Youth Skills Scheme 2026 at btevta.gob.pk. Check eligibility, courses, monthly stipends, and overseas jobs.",
+      "mainEntityOfPage": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply",
+      "datePublished": "2026-09-26T10:00:00+05:00",
+      "dateModified": "2026-09-26T10:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "CM Balochistan Youth Skills Development Program",
+          "url": "http://www.btevta.gob.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Balochistan Technical Education and Vocational Training Authority",
+          "sameAs": "http://www.btevta.gob.pk"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Government of Balochistan",
+          "sameAs": "https://balochistan.gov.pk"
+        },
+        {
+          "@type": "Person",
+          "name": "Mir Sarfraz Bugti",
+          "sameAs": "https://en.wikipedia.org/wiki/Sarfraz_Bugti"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply#howto",
+      "name": "How to Apply Online for CM Balochistan Youth Skills Scheme 2026",
+      "description": "Step-by-step instructions to complete online registration for B-TEVTA youth skills and vocational training scheme.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Visit Official Portal",
+          "text": "Navigate to btevta.gob.pk or designated qtechtraining.org project portal."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Create Account",
+          "text": "Register using your 13-digit CNIC number and active mobile phone number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Fill Personal Details",
+          "text": "Provide father name, district domicile, and permanent contact address."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Enter Qualifications",
+          "text": "Add academic marks for Middle, Matric, or Intermediate."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Select Course & Institute",
+          "text": "Choose your preferred digital or technical trade stream and local B-TEVTA center."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Upload Documents",
+          "text": "Attach clear scanned copies of your CNIC front/back and Balochistan Domicile certificate."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "name": "Submit & Print Slip",
+          "text": "Submit the application form and print your registration confirmation slip."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the application form for the CM Balochistan Youth Skills Scheme free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the application form and complete technical training under the CM Balochistan Youth Skills Scheme 2026 are 100% free of cost. B-TEVTA does not charge any processing or registration fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official website to apply online for Balochistan Youth Skills Scheme 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official website for online application is btevta.gob.pk. Certain project batches are also registered via authorized portals such as qtechtraining.org."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the monthly stipend given to trainees during the program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Selected trainees receive a monthly financial stipend to cover transport and personal expenses. Stipend amounts are transferred directly to candidate bank accounts or biometric wallets during the course duration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the age limit for applying to the Balochistan Youth Skills Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Male and female candidates between 18 and 35 years of age possessing a valid Balochistan CNIC and Domicile are eligible to apply."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can female candidates apply for technical and digital courses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, female candidates are highly encouraged to apply. The Government of Balochistan has allocated a 25% reserved quota for female applicants in digital skills like E-Commerce, Graphic Design, and Healthcare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do candidates from all districts of Balochistan have reserved seats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, seats are allocated on a strict district-wise quota basis across all 36 districts of Balochistan, including Quetta, Turbat, Khuzdar, Gwadar, Zhob, and Chaman."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for online application submission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants need a scanned copy of their CNIC, Balochistan Domicile/Local certificate, highest educational marksheet, and recent passport-sized photograph."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will B-TEVTA provide overseas jobs after course completion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the program specifically targets 30,000 international job placements. High-performing graduates receive placement support, medical test guidance, and visa processing assistance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply if I am currently a full-time university student?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Regular full-time morning university students are ineligible for residential vocational courses, as classes require mandatory full-time physical attendance at B-TEVTA centers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How will I know if my name is selected in the merit list?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shortlisted candidates are notified via official SMS on their registered mobile numbers, and final merit lists are published on the official B-TEVTA website (btevta.gob.pk)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Balochistan Schemes",
+          "item": "https://pakbenefits.com/category/balochistan-schemes"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Balochistan Youth Skills Scheme 2026",
+          "item": "https://pakbenefits.com/cm-balochistan-youth-skills-scheme-2026-online-apply"
+        }
+      ]
+    }
+  ]
+}
