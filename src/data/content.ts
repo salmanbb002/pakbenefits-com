@@ -21224,6 +21224,236 @@ export const articles: Article[] = [
       }
     ]
   },
+  {
+    slug: "bisp-taleemi-wazaif-stipend-rates-2026",
+    title: "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+    excerpt: "The Benazir Taleemi Wazaif program provides quarterly educational stipends to children of active BISP Kafaalat beneficiaries. Stipend rates range from Rs 1,500 to Rs 3,500 for boys and Rs 2,000 to Rs 4,000 for girls across primary, secondary, and higher secondary levels, alongside a Rs 3,000 primary graduation bonus for girls.",
+    metaTitle: "BISP Taleemi Wazaif 2026: Complete Class Rates",
+    metaDescription: "Get exact 2026 BISP Taleemi Wazaif stipend rates for primary, secondary, and college students (Rs 1,500 to Rs 4,000) plus the Rs 3,000 girls graduation bonus.",
+    focusKeyword: "bisp taleemi wazaif stipend rates primary secondary college 2026",
+    lsiKeywords: [
+      "bisp wazaif kitne milte hain",
+      "bisp taleemi wazaif primary secondary college amount",
+      "bisp girls graduation bonus 3000"
+    ],
+    entities: [
+      "Benazir Taleemi Wazaif",
+      "Benazir Income Support Programme",
+      "BISP Kafaalat",
+      "NADRA B-Form"
+    ],
+    primaryCategory: "Benazir Taleemi Wazaif",
+    categorySlugs: ["taleemi-wazaif", "8171"],
+    date: "September 26, 2026",
+    readTime: "6 min read",
+    image: "/images/bisp-taleemi-wazaif.jpg",
+    imageAlt: "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "Official 8171 Web Portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "Official BISP Portal", href: "https://bisp.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What Are BISP Taleemi Wazaif Stipend Rates in 2026?",
+        paragraphs: [
+          "The Benazir Taleemi Wazaif stipend rates represent conditional cash transfers paid quarterly by the Benazir Income Support Programme to encourage school enrollment and attendance among children from underprivileged households. Enrolled students must belong to active Benazir Kafaalat beneficiary families and maintain a minimum of 70% school attendance. Stipend amounts are structured based on the child's academic grade level and gender, providing higher financial support for female students to combat gender disparity in education.",
+          "Under the 2026 payment structure, financial assistance is disbursed four times a year alongside the quarterly BISP Kafaalat cash grant of Rs 13,500. Payments are transferred directly to the beneficiary mother's bio-metric bank account or digital wallet at designated partner bank POS campsites."
+        ]
+      },
+      {
+        title: "BISP Taleemi Wazaif Class-Wise Amount Breakdown",
+        paragraphs: [
+          "Educational wazaif amounts increase progressively as students advance from primary school to higher secondary college levels. Female students receive Rs 500 more per quarter at each education tier to promote girls' education retention across Pakistan."
+        ],
+        table: {
+          caption: "BISP Taleemi Wazaif Class-Wise Stipend & Age Limit Breakdown 2026",
+          headers: ["Education Level", "Student Age Limit", "Quarterly Stipend for Boys", "Quarterly Stipend for Girls", "Annual Total (Per Girl)"],
+          rows: [
+            ["Primary Level (Class 1–5)", "4 to 12 Years", "Rs 1,500", "Rs 2,000", "Rs 8,000"],
+            ["Secondary Level (Class 6–10)", "8 to 18 Years", "Rs 2,500", "Rs 3,000", "Rs 12,000"],
+            ["Higher Secondary / College (Class 11–12)", "13 to 22 Years", "Rs 3,500", "Rs 4,000", "Rs 16,000"]
+          ]
+        },
+        subsections: [
+          {
+            title: "Primary Level Wazaif Details",
+            paragraphs: ["Primary school students enrolled from Class 1 to Class 5 receive foundational educational stipends. Boys receive Rs 1,500 per quarter, while girls receive Rs 2,000 per quarter. To maintain eligibility, children must be between 4 and 12 years of age at the time of registration."]
+          },
+          {
+            title: "Secondary Level Wazaif Details",
+            paragraphs: ["Middle and high school students enrolled in Class 6 through Class 10 receive secondary level wazaif. Male students are entitled to Rs 2,500 per quarter, while female students receive Rs 3,000 per quarter. Eligible student ages range between 8 and 18 years."]
+          },
+          {
+            title: "Higher Secondary & College Level Wazaif Details",
+            paragraphs: ["Students attending Class 11 and Class 12 in higher secondary schools or intermediate colleges receive the maximum quarterly stipend. Male college students receive Rs 3,500 per quarter, while female college students receive Rs 4,000 per quarter. The age bracket for college level wazaif is 13 to 22 years."]
+          }
+        ]
+      },
+      {
+        title: "Why Do Female Students Receive Higher BISP Wazaif Rates?",
+        paragraphs: [
+          "Female students receive higher BISP wazaif rates to address historical female literacy gaps and incentivize families in rural and low-income urban areas to keep daughters in school. According to official BISP policy guidelines, gender-differentiated cash transfers reduce dropout rates among adolescent girls transitioning from primary to secondary education.",
+          "By providing Rs 2,000 for primary girls (compared to Rs 1,500 for boys), Rs 3,000 for secondary girls (compared to Rs 2,500 for boys), and Rs 4,000 for college girls (compared to Rs 3,500 for boys), the government covers school uniforms, textbooks, transportation, and stationery costs for female learners."
+        ]
+      },
+      {
+        title: "What Is the BISP Girls Graduation Bonus of Rs 3,000?",
+        paragraphs: [
+          "The BISP Girls Graduation Bonus is a one-time cash award of Rs 3,000 granted to female students upon successfully passing their Class 5 primary school final examinations. This special financial incentive is designed to prevent girls from dropping out after completing primary school and ensure smooth enrollment into secondary middle schools.",
+          "The Rs 3,000 graduation bonus is automatically credited to the mother's BISP bank account once the primary school completion certificate and Class 6 enrollment slip are verified at the local BISP Tehsil Office."
+        ]
+      },
+      {
+        title: "What Are the Age Eligibility & Attendance Requirements for BISP Wazaif?",
+        paragraphs: ["Receiving quarterly BISP Taleemi Wazaif payments requires strict compliance with age criteria and attendance regulations set by the Benazir Income Support Programme."],
+        bullets: [
+          "70% Mandatory Attendance: Students must maintain a minimum 70% classroom attendance every quarter. Attendance records are verified by school headmasters and BISP compliance monitoring teams.",
+          "NADRA B-Form Verification: The child must possess a valid NADRA Computerized Child Registration Certificate (B-Form) linked to the beneficiary mother's CNIC.",
+          "Active Mother Kafaalat Status: The student's mother must be an active beneficiary of the core BISP Kafaalat program receiving quarterly cash assistance.",
+          "Government or Registered Private School: The student must be enrolled in a public government school or a BISP-partnered private educational institution."
+        ]
+      },
+      {
+        title: "How to Register & Claim BISP Taleemi Wazaif (Step-by-Step Guide)",
+        paragraphs: ["Enrolling children in Benazir Taleemi Wazaif requires a single visit to the nearest BISP Tehsil Office with mandatory NADRA documentation."],
+        subsections: [
+          {
+            title: "Step 1: Obtain the BISP Admission Slip",
+            paragraphs: ["Visit the BISP Tehsil Office registration desk with the mother's original CNIC and the child's original NADRA B-Form to generate a unique digital admission slip for each child."]
+          },
+          {
+            title: "Step 2: Verification by School Principal",
+            paragraphs: ["Take the printed admission slip to the child's school headmaster or principal. The school authority verifies the child's class grade, admission number, and applies the official school stamp and signature."]
+          },
+          {
+            title: "Step 3: Submission at BISP Dynamic Desk",
+            paragraphs: ["Return the signed and stamped admission slip to the BISP Tehsil Office compliance desk. The data entry operator scans the document and enters the school details into the BISP portal."]
+          },
+          {
+            title: "Step 4: Quarterly Cash Collection",
+            paragraphs: ["Once verified, quarterly wazaif payments are disbursed alongside the mother's BISP Kafaalat installment. Beneficiaries collect cash via biometric thumb verification at designated bank ATMs or POS campsites."]
+          }
+        ]
+      }
+    ],
+    faqs: [
+      { question: "BISP wazaif kitne milte hain primary level par?", answer: "Primary level par larkan ko Rs 1,500 aur larkiyon ko Rs 2,000 fees/wazaif quarterly (har teen mahine baad) milte hain." },
+      { question: "BISP taleemi wazaif primary secondary college amount kitna hai?", answer: "Quarterly stipend amounts hain: Primary (Boys Rs 1,500 / Girls Rs 2,000), Secondary (Boys Rs 2,500 / Girls Rs 3,000), aur Higher Secondary College (Boys Rs 3,500 / Girls Rs 4,000)." },
+      { question: "What is the BISP girls graduation bonus 3000 rupees?", answer: "BISP girls graduation bonus Rs 3,000 ek martaba (one-time) un larkiyon ko diya jata hai jo primary Class 5 kamyabi se pass karke secondary school mein dakhila leti hain." },
+      { question: "Can a child receive wazaif if attendance is below 70%?", answer: "No, if a student's quarterly attendance falls below 70%, BISP automated monitoring system holds the stipend payment for that quarter until attendance compliance is re-verified." },
+      { question: "Is NADRA B-Form mandatory for Taleemi Wazaif registration?", answer: "Yes, a valid NADRA Computerized Child Registration Certificate (B-Form) linking the child to the mother's CNIC is strictly mandatory for enrollment." }
+    ]
+  },
+  {
+    slug: "ehsaas-kafalat-invalid-cnic-nser-update",
+    title: "Ehsaas Kafalat Survey Status: Invalid CNIC & Marriage NSER Update Guide",
+    excerpt: "To resolve Invalid CNIC or Record Not Found errors on the 8171 portal after marriage, beneficiaries must update their marital status and Family Registration Certificate at NADRA first. Next, visit the nearest BISP Tehsil Office to complete a Dynamic NSER survey update with your updated CNIC and children's B-Forms.",
+    metaTitle: "Fix BISP Invalid CNIC & NSER Marriage Status",
+    metaDescription: "Fix BISP 8171 Invalid CNIC and Record Not Found errors. Learn how to update your NSER survey record after marriage at NADRA and BISP Tehsil offices.",
+    focusKeyword: "ehsaas kafalat survey status invalid cnic nser record update",
+    lsiKeywords: [
+      "bisp 8171 invalid cnic error solution",
+      "bisp record not found in nser",
+      "shaadi ke baad bisp record update"
+    ],
+    entities: [
+      "National Socio-Economic Registry",
+      "NADRA",
+      "BISP 8171 Portal",
+      "BISP Tehsil Office"
+    ],
+    primaryCategory: "8171",
+    categorySlugs: ["8171", "nser-survey"],
+    date: "September 26, 2026",
+    readTime: "6 min read",
+    image: "/images/ehsaas-kafalat-nser-update.jpg",
+    imageAlt: "Ehsaas Kafalat Survey Status Invalid CNIC NSER Record Update",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "Official 8171 Web Portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "NADRA Portal", href: "https://nadra.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "Why Does the 8171 Portal Show 'Invalid CNIC' or 'Record Not Found'?",
+        paragraphs: [
+          "The 8171 portal displays 'Invalid CNIC' or 'Record Not Found in NSER' when an applicant's CNIC is not correctly linked to an active National Socio-Economic Registry (NSER) survey record. This issue frequently occurs after marriage when a woman changes her marital status, address, or husband's family tree details at NADRA, but fails to execute a secondary NSER data update at the BISP Tehsil Office.",
+          "Because the BISP automated database checks against NADRA records, any discrepancy between an un-updated CNIC and previous survey data causes the system to flag the entry. Additional causes include expired CNIC cards, typos during SMS checking, or families who have never participated in a formal NSER door-to-door or dynamic survey."
+        ]
+      },
+      {
+        title: "How to Update BISP NSER Record After Marriage (Step 1: NADRA Update)",
+        paragraphs: ["Updating your BISP eligibility after marriage is a two-stage process that strictly requires updating your official identity records at NADRA before approaching BISP."],
+        subsections: [
+          {
+            title: "1. Obtain Marriage Registration Certificate (Nikah Nama)",
+            paragraphs: ["Ensure you have an official computerized Nikah Nama issued by the Union Council or local municipal authority."]
+          },
+          {
+            title: "2. Visit NADRA Registration Center (NRC)",
+            paragraphs: ["The female beneficiary and her husband must visit the nearest NADRA office together. Request an update to your marital status from 'Single' to 'Married'."]
+          },
+          {
+            title: "3. Modify CNIC & Family Registration Certificate (FRC)",
+            paragraphs: ["Apply for a new CNIC reflecting your husband's name and updated permanent address. Request a fresh Family Registration Certificate (FRC) to establish the new household entity in NADRA central database."]
+          }
+        ]
+      },
+      {
+        title: "How to Complete the BISP Dynamic Survey at Tehsil Office (Step 2: NSER Update)",
+        paragraphs: ["Once your updated CNIC is issued by NADRA, you must complete the NSER Dynamic Survey at your district BISP Tehsil Office. Online registration for NSER updates is not available; physical presence at the registration desk is mandatory."],
+        subsections: [
+          {
+            title: "Step 1: Visit the BISP Tehsil Dynamic Survey Desk",
+            paragraphs: ["Go to the BISP Tehsil Office serving your district. Present your original updated CNIC and children's NADRA B-Forms at the entry token counter."]
+          },
+          {
+            title: "Step 2: Answer NSER Socio-Economic Assessment",
+            paragraphs: ["A data entry operator conducts an interactive interview to evaluate your household PMT (Proxy Means Test) poverty score. Questions cover household assets, housing type, utility bills, livestock, and income sources."]
+          },
+          {
+            title: "Step 3: Biometric Thumb Verification & Receipt Generation",
+            paragraphs: ["Verify all entered data on the operator's computer screen and provide biometric thumb prints. Obtain a printed NSER Dynamic Survey confirmation slip containing a tracking QR code and survey reference number."]
+          }
+        ]
+      },
+      {
+        title: "What Documents Are Required for Marriage NSER Record Updating?",
+        paragraphs: ["Bringing complete, verified documentation prevents application rejection at the BISP Tehsil Office."],
+        table: {
+          caption: "Mandatory Documents for Marriage NSER Status Update 2026",
+          headers: ["Document Name", "Issuing Authority", "Purpose in BISP NSER Survey"],
+          rows: [
+            ["Original Updated CNIC", "NADRA", "Verifies updated marital status and head of household identity"],
+            ["Husband's Original CNIC", "NADRA", "Links spouse identity and family socio-economic status"],
+            ["Children's B-Forms (CRC)", "NADRA", "Enrolls children for BISP Taleemi Wazaif stipends"],
+            ["Recent Electricity / Gas Bill", "Utility Provider", "Confirms physical residential address and household consumption"],
+            ["Active Mobile Phone Number", "Telecom Network", "Registered under the beneficiary's own CNIC for 8171 SMS alerts"]
+          ]
+        }
+      },
+      {
+        title: "How to Fix 'Invalid CNIC' Error on 8171 Portal (Troubleshooting Checklist)",
+        paragraphs: ["If you encounter the 'Invalid CNIC' or 'Record Not Found' error while checking eligibility via 8171 SMS or web portal, follow this systematic troubleshooting checklist."],
+        bullets: [
+          "Verify CNIC Number Formatting: Ensure you enter the 13-digit CNIC number without hyphens or spaces when sending an SMS to 8171 or querying 8171.bisp.gov.pk.",
+          "Check CNIC Expiration Date: Renew expired CNIC cards at NADRA immediately; the 8171 system automatically rejects invalid or expired identification cards.",
+          "Confirm Dynamic Survey Completion: If you have never completed a Dynamic Survey at a BISP Tehsil Office, your record will remain unlisted regardless of poverty status.",
+          "Allow 30 to 45 Days System Sync: After completing the NSER Dynamic Survey, allow up to 45 days for NADRA and BISP central servers to process and update your PMT eligibility score."
+        ]
+      }
+    ],
+    faqs: [
+      { question: "BISP 8171 invalid cnic error solution kya hai?", answer: "Invalid CNIC error fix karne ke liye pehle NADRA se apna CNIC update ya renew karwayein, phir BISP Tehsil Office ja kar NSER Dynamic Survey complete karwayein." },
+      { question: "Shaadi ke baad BISP record update kaise karwayein?", answer: "Shaadi ke baad pehle NADRA office ja kar Nikah Nama ke sath CNIC par marital status change karwayein, phir NSER desk par naya Dynamic Survey karwayein." },
+      { question: "BISP record not found in NSER ka kya matlab hai?", answer: "Iska matlab hai ke aap ka CNIC BISP ke NSER survey database mein majood nahi hai. Aap ko BISP Tehsil Office ja kar apna survey karwana hoga." },
+      { question: "Can I update my NSER survey online at home?", answer: "No, there is no official online portal for NSER survey registration. Beneficiaries must physically visit a BISP Tehsil Office for biometric verification." },
+      { question: "Is there any fee for updating NSER record at BISP office?", answer: "No, the BISP Dynamic Survey and NSER record updates are 100% free of charge. Never pay money to agents or touts claiming to approve your status." }
+    ]
+  },
 ];
 
 export const informationPages: InformationPage[] = [
