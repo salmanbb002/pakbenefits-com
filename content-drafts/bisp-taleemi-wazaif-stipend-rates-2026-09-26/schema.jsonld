@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "D:/Work ~ SEO-Projects/pakbenefits-com/content-drafts/bisp-taleemi-wazaif-stipend-rates-2026-09-26#article",
+      "headline": "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+      "description": "Get exact 2026 BISP Taleemi Wazaif stipend rates for primary, secondary, and college students (Rs 1,500 to Rs 4,000) plus the Rs 3,000 girls graduation bonus.",
+      "mainEntityOfPage": "D:/Work ~ SEO-Projects/pakbenefits-com/content-drafts/bisp-taleemi-wazaif-stipend-rates-2026-09-26/draft.md",
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "author": {
+        "@type": "Person",
+        "name": "PakBenefits Editorial Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Taleemi Wazaif",
+          "sameAs": "https://bisp.gov.pk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "D:/Work ~ SEO-Projects/pakbenefits-com/content-drafts/bisp-taleemi-wazaif-stipend-rates-2026-09-26#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP wazaif kitne milte hain primary level par?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primary level par larkan ko Rs 1,500 aur larkiyon ko Rs 2,000 fees/wazaif quarterly (har teen mahine baad) milte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP taleemi wazaif primary secondary college amount kitna hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Quarterly stipend amounts hain: Primary (Boys Rs 1,500 / Girls Rs 2,000), Secondary (Boys Rs 2,500 / Girls Rs 3,000), aur Higher Secondary College (Boys Rs 3,500 / Girls Rs 4,000)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the BISP girls graduation bonus 3000 rupees?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP girls graduation bonus Rs 3,000 ek martaba (one-time) un larkiyon ko diya jata hai jo primary Class 5 kamyabi se pass karke secondary school mein dakhila leti hain."
+          }
+        }
+      ]
+    }
+  ]
+}

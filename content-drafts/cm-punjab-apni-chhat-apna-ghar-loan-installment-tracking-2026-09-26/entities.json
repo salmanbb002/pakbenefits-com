@@ -1,0 +1,52 @@
+[
+  {
+    "canonical": "Apni Chhat Apna Ghar Scheme",
+    "type": "GovernmentProject",
+    "aliases": ["ACAG Scheme", "CM Punjab Loan Scheme"],
+    "sameAs": "https://acag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB", "PITB Portal"],
+    "sameAs": "https://pitb.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 15 Lakh Interest-Free Loan",
+    "type": "FinancialProduct",
+    "aliases": ["15 Lakh Loan", "Bila-Sood Loan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Installment Tracking",
+    "type": "Process",
+    "aliases": ["Qist Tracking", "Loan Status Check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Housing and Town Planning Agency",
+    "type": "GovernmentOrganization",
+    "aliases": ["PHATA"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

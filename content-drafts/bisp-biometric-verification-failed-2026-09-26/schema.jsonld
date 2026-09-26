@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-biometric-verification-failed-2026-09-26/#article",
+      "headline": "BISP Biometric Failed? Guaranteed Rs 13,500 Fix",
+      "description": "Learn how to solve BISP biometric verification failed fingerprint problems. Get Form B manual payment approval for Rs 13,500 via NADRA & BISP office.",
+      "mainEntityOfPage": "https://pakbenefits.com/bisp-biometric-verification-failed-2026-09-26/",
+      "datePublished": "2026-09-26T00:00:00+05:00",
+      "dateModified": "2026-09-26T00:00:00+05:00",
+      "author": {
+        "@type": "Organization",
+        "name": "PakBenefits Editorial Team",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://bisp.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://www.nadra.gov.pk/"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["p:first-of-type"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Resolve BISP Biometric Verification Failure",
+      "description": "Step by step procedure to get BISP Rs 13,500 payment when fingerprints fail at POS or ATM.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Clean and Moisturization",
+          "text": "Wash hands thoroughly with soap, apply mild moisturizer or glycerine to make fingerprint ridges visible."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Try Alternative Fingers and Retailers",
+          "text": "Try different fingers on the scanner or visit another HBL Connect / Bank Alfalah POS agent."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Update NADRA Biometrics",
+          "text": "Visit nearest NADRA center to re-scan and update fingerprints in the central database."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Submit BISP Form B Manual Application",
+          "text": "Fill Form B at BISP Tehsil office for Assistant Director approval of manual payment."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What should I do if BISP biometric verification fails at POS machine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sab se pehle hathon ko saaf aur moisturize karke baqi ungliyan try karein. Agar phir bhi verification na ho to NADRA center se biometrics update karwayen ya BISP Tehsil Office se Form B fill karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is BISP Manual Payment Form B?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Form B ek zaroori Sarkari Application Form hai jo un BISP beneficiaries ke liye hota hai jinke fingerprints biometric machines par match nahi hote. Is form ke zariye manual payment ki manzoori milti hai."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much payment is disbursed in the BISP Kafaalat scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP Kafaalat program ke teht 2026 mein har eligible khatoon ko Rs 13,500 ki quarterly installment ada ki ja rahi hai."
+          }
+        }
+      ]
+    }
+  ]
+}

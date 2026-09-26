@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "D:/Work ~ SEO-Projects/pakbenefits-com/content-drafts/ehsaas-kafalat-invalid-cnic-nser-update-2026-09-26#article",
+      "headline": "Ehsaas Kafalat Survey Status: Invalid CNIC & Marriage NSER Update Guide",
+      "description": "Fix BISP 8171 Invalid CNIC and Record Not Found errors. Learn how to update your NSER survey record after marriage at NADRA and BISP Tehsil offices.",
+      "mainEntityOfPage": "D:/Work ~ SEO-Projects/pakbenefits-com/content-drafts/ehsaas-kafalat-invalid-cnic-nser-update-2026-09-26/draft.md",
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "author": {
+        "@type": "Person",
+        "name": "PakBenefits Editorial Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "BISP NSER Registration",
+          "sameAs": "https://bisp.gov.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "NADRA",
+          "sameAs": "https://nadra.gov.pk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "D:/Work ~ SEO-Projects/pakbenefits-com/content-drafts/ehsaas-kafalat-invalid-cnic-nser-update-2026-09-26#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "BISP 8171 invalid cnic error solution kya hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Invalid CNIC error fix karne ke liye pehle NADRA se apna CNIC update ya renew karwayein, phir BISP Tehsil Office ja kar NSER Dynamic Survey complete karwayein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Shaadi ke baad BISP record update kaise karwayein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shaadi ke baad pehle NADRA office ja kar Nikah Nama ke sath CNIC par marital status change karwayein, phir NSER desk par naya Dynamic Survey karwayein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "BISP record not found in NSER ka kya matlab hai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Iska matlab hai ke aap ka CNIC BISP ke NSER survey database mein majood nahi hai. Aap ko BISP Tehsil Office ja kar apna survey karwana hoga."
+          }
+        }
+      ]
+    }
+  ]
+}

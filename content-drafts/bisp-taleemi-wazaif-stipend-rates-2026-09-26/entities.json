@@ -1,0 +1,128 @@
+[
+  {
+    "canonical": "Benazir Taleemi Wazaif",
+    "type": "Program",
+    "aliases": [
+      "BISP Wazaif",
+      "Taleemi Wazaif"
+    ],
+    "sameAs": "https://bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": [
+      "BISP",
+      "Ehsaas"
+    ],
+    "sameAs": "https://bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Stipend Rates",
+    "type": "Metric",
+    "aliases": [
+      "Wazaif Amount",
+      "Class Rates"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Primary Level",
+    "type": "Concept",
+    "aliases": [
+      "Class 1-5"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Secondary Level",
+    "type": "Concept",
+    "aliases": [
+      "Class 6-10",
+      "Matric"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Higher Secondary College",
+    "type": "Concept",
+    "aliases": [
+      "Class 11-12",
+      "Intermediate"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Girls Graduation Bonus",
+    "type": "Money",
+    "aliases": [
+      "Rs 3000 Bonus",
+      "Primary Bonus"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "70% Attendance Rule",
+    "type": "Requirement",
+    "aliases": [
+      "School Attendance"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA B-Form",
+    "type": "Document",
+    "aliases": [
+      "Child Registration Certificate"
+    ],
+    "sameAs": "https://nadra.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "Place",
+    "aliases": [
+      "Tehsil Desk"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

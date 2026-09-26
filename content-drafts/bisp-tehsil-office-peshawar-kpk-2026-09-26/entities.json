@@ -1,0 +1,52 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Khyber Pakhtunkhwa",
+    "type": "AdministrativeArea",
+    "aliases": ["KPK"],
+    "sameAs": "https://kp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Peshawar BISP Regional Office",
+    "type": "GovernmentOffice",
+    "aliases": ["BISP Peshawar", "University Town Office"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NSER Dynamic Registration Center",
+    "type": "Service",
+    "aliases": ["NSER Survey Desk", "Dynamic Survey"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tehsil Office Address",
+    "type": "Place",
+    "aliases": ["Location", "Contact Number"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  }
+]

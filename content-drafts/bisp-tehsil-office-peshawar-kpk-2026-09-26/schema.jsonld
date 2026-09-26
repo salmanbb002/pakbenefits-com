@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/bisp-tehsil-office-peshawar-kpk-2026-09-26/#article",
+      "headline": "Verified BISP Tehsil Offices KPK & Peshawar List",
+      "description": "Get verified BISP Tehsil Office addresses, contact numbers, and timings for Peshawar, Mardan, Swat, Abbottabad, and all KPK districts.",
+      "mainEntityOfPage": "https://pakbenefits.com/bisp-tehsil-office-peshawar-kpk-2026-09-26/",
+      "datePublished": "2026-09-26T00:00:00+05:00",
+      "dateModified": "2026-09-26T00:00:00+05:00",
+      "author": {
+        "@type": "Organization",
+        "name": "PakBenefits Editorial Team",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://bisp.gov.pk/"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Khyber Pakhtunkhwa",
+          "sameAs": "https://kp.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the BISP office Peshawar contact number?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Peshawar BISP Regional Office ka official contact number 091-9216298 aur 091-9216299 hai. General inquiries ke liye toll-free helpline 0800-26471 par call karein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the BISP registration center located in Peshawar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Main BISP Registration Center Peshawar University Town (Chinar Road, Khyber Park) aur Hashtnagri GT Road ke paas waqih hai."
+          }
+        }
+      ]
+    }
+  ]
+}

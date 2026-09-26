@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking-2026-09-26/#article",
+      "headline": "Apni Chhat Apna Ghar Loan: Instant Qist Tracking",
+      "description": "Check CM Punjab Apni Chhat Apna Ghar 15 Lakh interest-free loan status online. Track your 1st installment date and approval list on PITB portal.",
+      "mainEntityOfPage": "https://pakbenefits.com/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking-2026-09-26/",
+      "datePublished": "2026-09-26T00:00:00+05:00",
+      "dateModified": "2026-09-26T00:00:00+05:00",
+      "author": {
+        "@type": "Organization",
+        "name": "PakBenefits Editorial Team",
+        "url": "https://pakbenefits.com/about-us/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com"
+      },
+      "about": [
+        {
+          "@type": "GovernmentProject",
+          "name": "Apni Chhat Apna Ghar Scheme",
+          "sameAs": "https://acag.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "sameAs": "https://pitb.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Track Apni Chhat Apna Ghar Loan Installment",
+      "description": "Step-by-step guide to track ACAG 15 lakh loan approval status and first installment online.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Visit Official Portal",
+          "text": "Go to acag.punjab.gov.pk and enter your 13-digit CNIC number."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "OTP Verification",
+          "text": "Enter OTP received on registered mobile SIM."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Check Dashboard Status",
+          "text": "View application status, approval list standing, and installment release date."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How can I check ACAG loan status online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aap official portal acag.punjab.gov.pk par apna 13-digit CNIC dakhil karke aur OTP verification complete karke instant online status check kar sakte hain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When will the first installment date of Apni Chhat Apna Ghar loan be released?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Application approval aur bank document signing ke 7 se 14 Working Days ke andar pehli qist (1st installment) beneficiary ke bank account mein credit kar di jati hai."
+          }
+        }
+      ]
+    }
+  ]
+}

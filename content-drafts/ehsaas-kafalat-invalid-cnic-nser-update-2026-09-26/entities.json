@@ -1,0 +1,100 @@
+[
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "Database",
+    "aliases": [
+      "NSER",
+      "NSER Survey"
+    ],
+    "sameAs": "https://bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA",
+    "type": "Organization",
+    "aliases": [
+      "National Database Registration Authority"
+    ],
+    "sameAs": "https://nadra.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Invalid CNIC Error",
+    "type": "Problem",
+    "aliases": [
+      "8171 Invalid CNIC",
+      "CNIC Error"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Record Not Found",
+    "type": "Problem",
+    "aliases": [
+      "Record Not Found in NSER"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Dynamic Survey",
+    "type": "Process",
+    "aliases": [
+      "BISP Dynamic Registration"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Marriage Status Update",
+    "type": "Process",
+    "aliases": [
+      "Shaadi ke baad record update"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Family Registration Certificate",
+    "type": "Document",
+    "aliases": [
+      "FRC"
+    ],
+    "sameAs": "https://nadra.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "Place",
+    "aliases": [
+      "Tehsil Center"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

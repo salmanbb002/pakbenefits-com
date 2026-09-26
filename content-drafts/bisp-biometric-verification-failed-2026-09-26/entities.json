@@ -1,0 +1,62 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "GovernmentOrganization",
+    "aliases": ["BISP", "Benazir Kafaalat"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Form B Manual Payment Application",
+    "type": "Form",
+    "aliases": ["Form B", "BISP Manual Form B"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Biometric Verification Failure",
+    "type": "Concept",
+    "aliases": ["Fingerprint Matching Problem", "Biometrics Fail"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 13,500 Payment",
+    "type": "Money",
+    "aliases": ["13500 Qist", "Kafaalat Payment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "POS Machine Scanner",
+    "type": "Device",
+    "aliases": ["Retailer Biometric Device", "HBL Agent Scanner"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]
