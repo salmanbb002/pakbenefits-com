@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { CSSProperties } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -56,6 +57,19 @@ const iconMap = {
   newspaper: Newspaper,
   coins: Coins,
   activity: Activity,
+};
+
+const categoryAccents: Record<string, { accent: string; soft: string }> = {
+  "8171": { accent: "#0d7548", soft: "#e8f5ed" },
+  "benazir-kafaalat": { accent: "#0e7c6b", soft: "#e6f3f0" },
+  "bisp-registration": { accent: "#1d6fa5", soft: "#e8f2f8" },
+  "other-schemes": { accent: "#344b7c", soft: "#ecf0f8" },
+  "taleemi-wazaif": { accent: "#5a4fcf", soft: "#efedfb" },
+  news: { accent: "#b97912", soft: "#fbf2e0" },
+  "payment-check": { accent: "#0e8a52", soft: "#e7f6ee" },
+  "ehsaas-programs": { accent: "#c98a16", soft: "#fdf4e0" },
+  "nser-pmt-score": { accent: "#c2475f", soft: "#fbecef" },
+  "punjab-schemes": { accent: "#2273a8", soft: "#e7f2f9" },
 };
 
 const faq = [
@@ -142,14 +156,24 @@ export default function Home() {
             <p>Choose a topic to find current explainers, safe next steps, and the responsible official source.</p>
           </div>
           <div className="topic-grid">
-            {categories.map((category) => {
+            {categories.map((category, index) => {
               const Icon = iconMap[category.icon];
+              const accent = categoryAccents[category.slug] ?? { accent: "#0d7548", soft: "#e8f5ed" };
+              const featured = index === 0;
               return (
-                <Link className="topic-card" href={`/${category.slug}/`} key={category.slug}>
+                <Link
+                  className={`topic-card${featured ? " topic-card-featured" : ""}`}
+                  href={`/${category.slug}/`}
+                  key={category.slug}
+                  style={{ "--accent": accent.accent, "--accent-soft": accent.soft } as CSSProperties}
+                >
                   <span className="topic-icon"><Icon /></span>
-                  <span className="topic-number">{String(categories.indexOf(category) + 1).padStart(2, "0")}</span>
-                  <h3>{category.shortName}</h3>
-                  <p>{category.description}</p>
+                  <span className="topic-number">{String(index + 1).padStart(2, "0")}</span>
+                  <div className="topic-body">
+                    {featured ? <span className="topic-pill">Start here</span> : null}
+                    <h3>{category.shortName}</h3>
+                    <p>{category.description}</p>
+                  </div>
                   <span className="card-link">View guides <ArrowRight size={15} /></span>
                 </Link>
               );
