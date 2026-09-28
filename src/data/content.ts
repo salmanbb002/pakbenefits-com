@@ -1612,7 +1612,9 @@ export const articles: Article[] = [
           "Once you possess your 3-marla plot allotment letter, you can apply through acag.punjab.gov.pk for an interest-free loan of up to Rs. 1,500,000 (15 Lac PKR) to construct your home. The loan carries 0% interest, a 7-year repayment tenure, and monthly installments of approximately Rs. 14,000 starting after first disbursement."
         ],
         links: [
-          { label: "Apni Chhat Apna Ghar Loan Scheme 2026 Complete Guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-scheme-2026" }
+          { label: "Apni Chhat Apna Ghar Loan Installment Tracking", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking" },
+          { label: "Apna Khet Apna Rozgar Scheme 2026 Apply Online", href: "/apna-khet-apna-rozgar-scheme-apply-online-2026" },
+          { label: "Pink Scooty Scheme 2026 Registration & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ]
       },
       {
@@ -1675,6 +1677,7 @@ export const articles: Article[] = [
 
   {
     slug: "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+    /* Pink Scooty internal link added */
     title: "Pink Scooty Scheme 2026 – Registration, Eligibility, Documents & Balloting Guide",
     excerpt: "Complete guide to the Pink Scooty Scheme 2026 in Punjab (bikes.punjab.gov.pk) and Sindh (smta.gos.pk). Learn eligibility criteria, required documents, portal registration steps, 0% markup terms, and computerized balloting results.",
     showExcerpt: true,
@@ -2242,6 +2245,10 @@ export const articles: Article[] = [
         paragraphs: [
           "Chief Minister Punjab Maryam Nawaz Sharif ke visionary project Apni Chhat Apna Ghar (ACAG) Scheme ke teht Punjab ke zaroorat-mand shanaakti card holders ko ghar ki ta'meer ke liye 15 Lakh Rupee tak ka Bila-Sood (Interest-Free) Loan faraham kiya ja raha hai.",
           "Application submit karne ke baad aksar applicants ko ye masla pesh aata hai ke unki application approve hui hai ya nahi aur pehli qist (first installment) kab unke bank account mein credit hogi. Is article mein PITB portal ke zariye loan status check karne aur 1st installment track karne ka mukammal aasan tariqa bataya gaya hai."
+        ]
+      ,
+        links: [
+          { label: "Compare Ehsaas Interest-Free Loans vs Saving Wallets", href: "/ehsaas-interest-free-loan-vs-saving-wallet/" }
         ]
       },
       {
@@ -3582,6 +3589,14 @@ export const articles: Article[] = [
           {
             label: "CM Punjab Kisan Card online apply and registration guide",
             href: "/cm-punjab-kisan-card-online-apply-2026/"
+          },
+          {
+            label: "Apni Zameen Apna Ghar Balloting Result 2026 guide",
+            href: "/apni-zameen-apna-ghar-balloting-result-2026/"
+          },
+          {
+            label: "Pink Scooty Scheme 2026 registration & balloting guide",
+            href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/"
           }
         ]
       },
@@ -10055,7 +10070,19 @@ export const articles: Article[] = [
           { "label": "Punjab provincial schemes", "href": "/punjab-schemes/" },
           { "label": "Apna Khet Apna Rozgar landless scheme", "href": "/apna-khet-apna-rozgar-scheme-apply-online-2026/" },
           { "label": "CM Punjab Kisan Card online apply 2026 guide", "href": "/cm-punjab-kisan-card-online-apply-2026/" },
-          { "label": "Apni Chhat Apna Ghar scheme online apply 2026 guide", "href": "/apni-chhat-apna-ghar-scheme-online-apply-2026/" }
+          { "label": "Apni Chhat Apna Ghar scheme online apply 2026 guide", "href": "/apni-chhat-apna-ghar-scheme-online-apply-2026/"
+          },
+          {
+            label: "Apni Zameen Apna Ghar balloting result 2026 online check",
+            href: "/apni-zameen-apna-ghar-balloting-result-2026/"
+          },
+          {
+            label: "Pink Scooty scheme 2026 registration & balloting guide",
+            href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/"
+          },
+          {
+            label: "Apni Chhat Apna Ghar loan installment tracking PITB portal",
+            href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" }
         ]
       }
     ],
@@ -14474,7 +14501,11 @@ export const articles: Article[] = [
             paragraphs: [
               "Applying for an interest-free loan is the best financial decision under the following conditions: Starting a home-based business such as tailoring or embroidery requiring sewing machines; expanding a small neighborhood grocery shop (karyana) or fruit cart with wholesale inventory; livestock rearing in rural areas (goats, sheep, or dairy cattle); purchasing professional toolkits for electricians, plumbers, carpenters, or mechanics."
             ]
-          },
+          ,
+        links: [
+          { label: "Apni Chhat Apna Ghar 15 Lakh Loan tracking guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" },
+          { label: "CM Balochistan Youth Skills Scheme 2026 registration guide", href: "/cm-balochistan-youth-skills-scheme-2026-online-apply/" }
+        ]},
           {
             title: "Eligibility Criteria, Guarantors & PMT Requirements",
             paragraphs: [
@@ -14534,6 +14565,10 @@ export const articles: Article[] = [
         paragraphs: [
           "Low-income citizens seeking interest-free loans or digital wallets are frequent targets of organized cybercrime syndicates. Protect your finances by adhering to these strict government safety rules:",
           "No Online Loan Applications: Neither PPAF, BISP, nor Akhuwat offers instant online loans through downloadable Android APK apps, Facebook ads, or WhatsApp groups. Any app claiming to disburse 'instant Ehsaas loans' is an illegal scam. Never Pay Processing Fees: Official interest-free loans have zero processing fees, zero application charges, and zero file fees. Guard Your Mobile Banking OTPs: Never share your 4-digit ATM PIN or OTP with anyone. Report any extortion attempt to the BISP Helpline (0800-26477), Akhuwat (042-111-448-464), or the FIA Cybercrime Wing via 1991."
+        ]
+      ,
+        links: [
+          { label: "Fake 8171 SMS check and PTA fraud complaint guide", href: "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/" }
         ]
       }
     ],
