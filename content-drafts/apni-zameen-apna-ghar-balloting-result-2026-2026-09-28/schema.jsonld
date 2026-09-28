@@ -1,0 +1,203 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/apni-zameen-apna-ghar-balloting-result-2026/#blogposting",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/apni-zameen-apna-ghar-balloting-result-2026/"
+      },
+      "headline": "Apni Zameen Apna Ghar Balloting Result 2026: How to Check CNIC Status & Plot Rules",
+      "description": "Check the Apni Zameen Apna Ghar balloting result 2026 online by CNIC. Guide on Phase 1 winner status, 3-marla plot allocation, and rules after selection.",
+      "datePublished": "2026-09-28T00:00:00+05:00",
+      "dateModified": "2026-09-28T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/apni-zameen-apna-ghar-balloting-result-2026/",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: Author URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Site Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Publisher Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Apni Zameen Apna Ghar Program",
+          "sameAs": "https://azag.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Government of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Housing and Town Planning Agency",
+          "sameAs": "https://phata.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Apni Chhat Apna Ghar Program",
+          "sameAs": "https://acag.punjab.gov.pk/"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block", "h1"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Check Apni Zameen Apna Ghar Balloting Result Online by CNIC",
+      "description": "Step-by-step procedure to check your AZAG Phase 1 balloting result on the official Punjab Government web portal.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Visit the Official AZAG Portal",
+          "text": "Navigate to the official result page at https://azag.punjab.gov.pk/ballot/result using a web browser."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Enter Your 13-Digit CNIC Number",
+          "text": "Input your 13-digit Computerized National Identity Card (CNIC) number continuously without hyphens or spaces."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Complete Captcha Verification",
+          "text": "Type the security characters shown in the Captcha image box to confirm human submission."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Submit and View Status",
+          "text": "Click the Submit button to display your balloting outcome (Selected, Not Selected, or Pending)."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the 3-marla plot in the Apni Zameen Apna Ghar scheme completely free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the 3-marla residential plot awarded through the AZAG balloting is 100% free of land cost for successful eligible applicants. Winners are not required to pay land purchase fees to the government."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I check the Apni Zameen Apna Ghar balloting result online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can check your balloting result online by visiting the official Punjab Government portal at azag.punjab.gov.pk/ballot/result and entering your 13-digit CNIC number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I check the AZAG balloting result by sending an SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Currently, official web verification at azag.punjab.gov.pk/ballot/result is the primary real-time method. Official SMS notifications are sent directly by the government to selected winners on their registered mobile numbers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if the result portal displays \"Invalid CNIC\"?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Double-check that you entered all 13 digits of your CNIC correctly without hyphens or spaces. If the message persists, verify whether your initial application was successfully submitted during the open registration window."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a selected applicant sell the plot immediately after winning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, successful applicants cannot sell, lease, or transfer their plot for at least 5 years from the date of receiving possession."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much time is given to start constructing a house on the allotted plot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beneficiaries are legally required to begin house construction within 6 months of obtaining physical possession of their plot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a loan to build a house on my newly allotted 3-marla plot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, AZAG plot winners can apply for the Apni Chhat Apna Ghar (ACAG) interest-free construction loan scheme to receive up to Rs. 15 Lacs for building their house."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which department oversees plot allotments under the AZAG scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Punjab Housing and Town Planning Agency (PHATA), under the Housing, Urban Development & Public Health Engineering Department (HUD&PHED), manages plot allotments and physical handovers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there any application or processing fees to collect the Allotment Letter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, official allotment processing is transparent and free of illegal surcharge fees. Only standard civic documentation verification is required at PHATA offices."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who can I contact for official help regarding my AZAG balloting status?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can call the official Punjab Government toll-free helpline at 0800-09100 or visit your district e-Khidmat Markaz for direct administrative support."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Punjab Schemes",
+          "item": "https://example.com/punjab-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Apni Zameen Apna Ghar Balloting Result 2026",
+          "item": "https://example.com/apni-zameen-apna-ghar-balloting-result-2026/"
+        }
+      ]
+    }
+  ]
+}

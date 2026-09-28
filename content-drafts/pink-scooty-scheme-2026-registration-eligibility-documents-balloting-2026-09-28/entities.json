@@ -1,0 +1,162 @@
+[
+  {
+    "canonical": "Pink Scooty Scheme 2026",
+    "type": "Government Scheme",
+    "aliases": ["Pink Scooty Scheme", "Female EV Bike Scheme", "Pink EV Scooty Program"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Chief Minister Punjab Electric Bike Scheme",
+    "type": "Government Scheme",
+    "aliases": ["CM Punjab E-Bike Scheme", "Punjab Student Bike Scheme"],
+    "sameAs": "https://bikes.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sindh Mass Transit Authority",
+    "type": "Government Organization",
+    "aliases": ["SMTA", "Sindh Mass Transit Authority"],
+    "sameAs": "https://smta.gos.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "The Bank of Punjab",
+    "type": "Financial Institution",
+    "aliases": ["BOP", "Bank of Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized E-Balloting",
+    "type": "Process",
+    "aliases": ["E-Balloting", "Computerized Draw", "Transparent Balloting"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Learner Driving Permit",
+    "type": "Document",
+    "aliases": ["Learner License", "Driving Permit", "Motorcycle Learner Permit"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Female Students",
+    "type": "Target Demographic",
+    "aliases": ["Female University Students", "Girl Students"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Working Women",
+    "type": "Target Demographic",
+    "aliases": ["Working Ladies", "Female Employees"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Zero Down Payment",
+    "type": "Financial Terms",
+    "aliases": ["0% Down Payment", "No Down Payment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Rs 90,000 Capital Subsidy",
+    "type": "Financial Benefit",
+    "aliases": ["Rs 90k Subsidy", "Government Bike Subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "0% Markup Interest-Free Loan",
+    "type": "Financial Terms",
+    "aliases": ["Interest-Free Financing", "0% Interest Loan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Monthly Installment",
+    "type": "Financial Terms",
+    "aliases": ["Monthly Payment", "Rs 3000 Installment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Application Deadline",
+    "type": "Date / Timeline",
+    "aliases": ["Last Date to Apply", "October 4 2026"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Guarantor Income Proof",
+    "type": "Document",
+    "aliases": ["Co-Borrower Income Proof", "Guardian Income Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Provincial Domicile",
+    "type": "Document",
+    "aliases": ["Punjab Domicile", "Sindh Domicile", "Domicile Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "HEC Recognized Institution",
+    "type": "Educational Standard",
+    "aliases": ["HEC Recognized University", "Public College"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

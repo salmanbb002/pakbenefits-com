@@ -6,6 +6,11 @@ export type ContentSection = {
     title: string;
     paragraphs: string[];
     bullets?: string[];
+    table?: {
+      caption?: string;
+      headers: string[];
+      rows: string[][];
+    };
   }[];
   table?: {
     caption?: string;
@@ -1484,6 +1489,391 @@ export const categories: Category[] = [
 ];
 
 export const articles: Article[] = [
+  {
+    slug: "apni-zameen-apna-ghar-balloting-result-2026",
+    title: "Apni Zameen Apna Ghar Balloting Result 2026: How to Check CNIC Status & Plot Rules",
+    excerpt: "Check the Apni Zameen Apna Ghar balloting result 2026 online by CNIC. Guide on Phase 1 winner status, 3-marla plot allocation, and rules after selection.",
+    showExcerpt: true,
+    metaTitle: "Apni Zameen Apna Ghar Balloting Result 2026: CNIC Check Online",
+    metaDescription: "Check the Apni Zameen Apna Ghar balloting result 2026 online by CNIC. Guide on Phase 1 winner status, 3-marla plot allocation, and rules after selection.",
+    focusKeyword: "apni zameen apna ghar balloting result 2026",
+    lsiKeywords: [
+      "apni zameen apna ghar balloting result 2026 cnic check",
+      "azag punjab gov pk ballot result online",
+      "apni zameen apna ghar Phase 1 winner list",
+      "how to check 3 marla plot ballot result punjab",
+      "apni zameen apna ghar 5 year sale ban"
+    ],
+    entities: [
+      "Apni Zameen Apna Ghar Program",
+      "Government of Punjab",
+      "Maryam Nawaz Sharif",
+      "CNIC Number",
+      "Punjab Housing and Town Planning Agency",
+      "3 Marla Free Plot"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "schemes"
+    ],
+    date: "September 28, 2026",
+    publishedDate: "September 28, 2026",
+    lastChecked: "September 28, 2026",
+    readTime: "6 min read",
+    image: "/images/apni-zameen-apna-ghar-balloting-result-2026.jpg",
+    imageAlt: "Apni Zameen Apna Ghar Balloting Result 2026 CNIC Check Online",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.saadHassan,
+    officialLinks: [
+      { label: "AZAG Official Result Portal", href: "https://azag.punjab.gov.pk/ballot/result" },
+      { label: "Official AZAG Portal", href: "https://azag.punjab.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "How Do You Check the Apni Zameen Apna Ghar Balloting Result Online by CNIC?",
+        paragraphs: [
+          "To check your Apni Zameen Apna Ghar (AZAG) balloting result online, visit the official government web portal azag.punjab.gov.pk/ballot/result, enter your 13-digit CNIC number without dashes or spaces, solve the security Captcha image, and click Submit. Your status will display instantly on screen."
+        ],
+        subsections: [
+          {
+            title: "What Information Is Required on the Official AZAG Portal?",
+            paragraphs: [
+              "Checking your status on the official portal requires only your 13-digit Computerized National Identity Card (CNIC) number issued by NADRA. You do not need a password or registration tracking number. Ensure you enter the CNIC digits continuously (for example, 3520212345671) and complete the visual Captcha code correctly. The service is completely free, and no fee is charged for checking your result online."
+            ]
+          },
+          {
+            title: "What Do the Different Balloting Statuses Mean?",
+            paragraphs: [
+              "When you submit your CNIC on the portal, system records return one of three official status classifications. Selected means your CNIC won a free 3-marla plot in Phase 1; Not Selected means your application was eligible but not drawn; and Pending / Under Verification means documents or residency details are currently undergoing audit."
+            ],
+            table: {
+              caption: "AZAG CNIC Balloting Result Status Decoder 2026",
+              headers: ["Portal Status Output", "Meaning of Result", "Immediate Required Action"],
+              rows: [
+                ["Selected / Successful", "Your CNIC won a free 3-marla plot in the Phase 1 balloting.", "Await official SMS/call; collect your Allotment Letter from PHATA."],
+                ["Not Selected", "Your application was eligible but not drawn in the Phase 1 allotment.", "Retain your application records for Phase 2 or sister housing schemes."],
+                ["Pending / Under Verification", "Documents or residency verification are currently undergoing audit.", "Contact the official helpline at 0800-09100 or visit your local PHATA office."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        title: "What Is the Apni Zameen Apna Ghar (AZAG) Scheme Quota for Phase 1?",
+        paragraphs: [
+          "The Phase 1 quota of the Apni Zameen Apna Ghar scheme comprises 2,000 free 3-marla residential plots allocated across low-income families in Punjab. Initiated by Chief Minister Maryam Nawaz Sharif and executed by the Punjab Housing and Town Planning Agency (PHATA), the program targets homeless and landless citizens."
+        ],
+        subsections: [
+          {
+            title: "Which 19 Districts Are Included in the 2,000-Plot Distribution?",
+            paragraphs: [
+              "The 2,000 free plots in Phase 1 are distributed across 19 designated districts in Punjab where state land was cleared and developed by PHATA. Key participating districts include Lahore, Rawalpindi, Faisalabad, Sargodha, Gujranwala, Sialkot, Kasur, Multan, Bahawalpur, Dera Ghazi Khan, Rahim Yar Khan, Muzaffargarh, Sahiwal, Jhang, Okara, Sheikhupura, Attock, Chakwal, and Mianwali."
+            ]
+          },
+          {
+            title: "Who Was Eligible to Participate in the Balloting?",
+            paragraphs: [
+              "Eligibility for the AZAG balloting required applicants to be permanent residents and CNIC holders of Punjab with a verified family income below Rs. 60,000 per month. Applicants could not own any residential property anywhere in Pakistan and had to be registered in the Punjab Socio-Economic Registry (PSER). Only one application per household unit was permitted to maintain social equity."
+            ]
+          }
+        ]
+      },
+      {
+        title: "What Should You Do If Selected in the AZAG Balloting Result?",
+        paragraphs: [
+          "If your CNIC is marked as Selected in the Apni Zameen Apna Ghar balloting result, you must follow official post-selection protocols to claim physical possession of your 3-marla plot. Winners must obtain their Allotment Letter from PHATA and comply with strict state construction guidelines."
+        ],
+        subsections: [
+          {
+            title: "What Are the Possession and Allotment Letter Procedures?",
+            paragraphs: [
+              "Selected applicants must visit their designated district PHATA office or e-Khidmat Markaz with their original CNIC, original domicile certificate, and two passport-sized photographs. Upon biometric verification, PHATA issues the physical Allotment Letter specifying your scheme location, block number, and exact 3-marla plot number."
+            ]
+          },
+          {
+            title: "How Does the 6-Month Construction Rule Apply to Winners?",
+            paragraphs: [
+              "Under Section 14 of the scheme framework, every successful beneficiary must initiate house construction within 6 months of taking physical plot possession. This rule prevents speculative land holding and ensures that allocated plots serve immediate family housing needs. Failure to start construction within the stipulated timeframe without valid justification can lead to cancellation of the allotment."
+            ]
+          },
+          {
+            title: "Can You Sell or Transfer Your Allotted 3-Marla Plot Before 5 Years?",
+            paragraphs: [
+              "No, beneficiaries cannot sell, transfer, rent, or mortgage their allotted plot for a mandatory period of 5 years from the date of allotment. The Government of Punjab retains underlying title conditions during this non-transferable window to prevent property dealers and commercial investors from exploiting low-income beneficiaries."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Can AZAG Plot Winners Apply for the Apni Chhat Apna Ghar (ACAG) Construction Loan?",
+        paragraphs: [
+          "Yes, winners of free plots under the Apni Zameen Apna Ghar (AZAG) program are fully eligible to apply for the Apni Chhat Apna Ghar (ACAG) interest-free construction loan scheme.",
+          "Once you possess your 3-marla plot allotment letter, you can apply through acag.punjab.gov.pk for an interest-free loan of up to Rs. 1,500,000 (15 Lac PKR) to construct your home. The loan carries 0% interest, a 7-year repayment tenure, and monthly installments of approximately Rs. 14,000 starting after first disbursement."
+        ],
+        links: [
+          { label: "Apni Chhat Apna Ghar Loan Scheme 2026 Complete Guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-scheme-2026" }
+        ]
+      },
+      {
+        title: "What Should You Do If Your Balloting Result Shows Not Selected or Pending?",
+        paragraphs: [
+          "If your result shows Not Selected, your application remains registered in the housing database for potential future phases or supplementary allotments. If your status shows Pending, submit an inquiry to the Punjab Information Technology Board (PITB) helpline at 0800-09100 or visit the nearest e-Khidmat Markaz to clear document discrepancies."
+        ]
+      },
+      {
+        title: "How Can You Avoid Scams and Verify Official AZAG Communications?",
+        paragraphs: [
+          "All official communications regarding the Apni Zameen Apna Ghar program are conducted exclusively through official government domains (.punjab.gov.pk) and official SMS handles (such as 8171 or 8070).",
+          "The Government of Punjab never asks for processing fees, cash deposits, or bank transfers over phone calls or WhatsApp to issue allotment letters. Report any suspicious demands to the official helpline 0800-09100 immediately."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Is the 3-marla plot in the Apni Zameen Apna Ghar scheme completely free?",
+        answer: "Yes, the 3-marla residential plot awarded through the AZAG balloting is 100% free of land cost for successful eligible applicants. Winners are not required to pay land purchase fees to the government."
+      },
+      {
+        question: "Where can I check the Apni Zameen Apna Ghar balloting result online?",
+        answer: "You can check your balloting result online by visiting the official Punjab Government portal at azag.punjab.gov.pk/ballot/result and entering your 13-digit CNIC number."
+      },
+      {
+        question: "Can I check the AZAG balloting result by sending an SMS?",
+        answer: "Currently, official web verification at azag.punjab.gov.pk/ballot/result is the primary real-time method. Official SMS notifications are sent directly by the government to selected winners on their registered mobile numbers."
+      },
+      {
+        question: "What should I do if the result portal displays Invalid CNIC?",
+        answer: "Double-check that you entered all 13 digits of your CNIC correctly without hyphens or spaces. If the message persists, verify whether your initial application was successfully submitted during the open registration window."
+      },
+      {
+        question: "Can a selected applicant sell the plot immediately after winning?",
+        answer: "No, successful applicants cannot sell, lease, or transfer their plot for at least 5 years from the date of receiving possession."
+      },
+      {
+        question: "How much time is given to start constructing a house on the allotted plot?",
+        answer: "Beneficiaries are legally required to begin house construction within 6 months of obtaining physical possession of their plot."
+      },
+      {
+        question: "Can I get a loan to build a house on my newly allotted 3-marla plot?",
+        answer: "Yes, AZAG plot winners can apply for the Apni Chhat Apna Ghar (ACAG) interest-free construction loan scheme to receive up to Rs. 15 Lacs for building their house."
+      },
+      {
+        question: "Which department oversees plot allotments under the AZAG scheme?",
+        answer: "The Punjab Housing and Town Planning Agency (PHATA), under the Housing, Urban Development & Public Health Engineering Department (HUD&PHED), manages plot allotments and physical handovers."
+      },
+      {
+        question: "Are there any application or processing fees to collect the Allotment Letter?",
+        answer: "No, official allotment processing is transparent and free of illegal surcharge fees. Only standard civic documentation verification is required at PHATA offices."
+      },
+      {
+        question: "Who can I contact for official help regarding my AZAG balloting status?",
+        answer: "You can call the official Punjab Government toll-free helpline at 0800-09100 or visit your district e-Khidmat Markaz for direct administrative support."
+      }
+    ]
+  },
+
+  {
+    slug: "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+    title: "Pink Scooty Scheme 2026 – Registration, Eligibility, Documents & Balloting Guide",
+    excerpt: "Complete guide to the Pink Scooty Scheme 2026 in Punjab (bikes.punjab.gov.pk) and Sindh (smta.gos.pk). Learn eligibility criteria, required documents, portal registration steps, 0% markup terms, and computerized balloting results.",
+    showExcerpt: true,
+    metaTitle: "Pink Scooty Scheme 2026: Registration, Eligibility & Balloting",
+    metaDescription: "Apply for the Pink Scooty Scheme 2026 in Punjab & Sindh. Learn eligibility, required documents, portal registration steps, and balloting result check.",
+    focusKeyword: "pink scooty scheme 2026 registration eligibility documents balloting",
+    lsiKeywords: [
+      "pink scooty scheme online apply bikes punjab gov pk",
+      "sindh smta pink scooty scheme online registration form",
+      "pink scooty eligibility criteria for female students working women",
+      "pink scooty scheme balloting result check by cnic",
+      "pink scooty driving learner permit mandate"
+    ],
+    entities: [
+      "Pink Scooty Scheme 2026",
+      "Chief Minister Punjab Electric Bike Scheme",
+      "Sindh Mass Transit Authority",
+      "The Bank of Punjab",
+      "Computerized E-Balloting",
+      "Learner Driving Permit"
+    ],
+    primaryCategory: "schemes",
+    categorySlugs: [
+      "schemes",
+      "punjab-schemes"
+    ],
+    date: "September 28, 2026",
+    publishedDate: "September 28, 2026",
+    lastChecked: "September 28, 2026",
+    readTime: "7 min read",
+    image: "/images/pink-scooty-scheme-2026.jpg",
+    imageAlt: "Pink Scooty Scheme 2026 Registration Eligibility Documents & Balloting Guide",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.saadHassan,
+    officialLinks: [
+      { label: "Punjab E-Bike Portal", href: "https://bikes.punjab.gov.pk/" },
+      { label: "Sindh SMTA Portal", href: "https://smta.gos.pk/" }
+    ],
+    sections: [
+      {
+        title: "What is the Pink Scooty Scheme 2026 in Pakistan?",
+        paragraphs: [
+          "The Pink Scooty Scheme 2026 is a provincial government social mobility project aimed at empowering women by offering subsidized, eco-friendly electric motorbikes and scooters. The initiative tackles daily transportation barriers faced by female university students, working professionals, single mothers, and widows across Punjab and Sindh.",
+          "By substituting expensive commercial transport with subsidized electric two-wheelers, the program reduces monthly commute expenses while fostering financial independence. Both provincial programs partner with public financial institutions and transport authorities to ensure structured distribution through transparent digital systems."
+        ],
+        subsections: [
+          {
+            title: "CM Punjab Female Student EV Bike Initiative (bikes.punjab.gov.pk)",
+            paragraphs: [
+              "In Punjab, Chief Minister Maryam Nawaz Sharif launched the CM Punjab Electric Bike Scheme to distribute 20,000 motorbikes, reserving a dedicated quota of pink electric scooties exclusively for female students. Partnered with The Bank of Punjab (BOP), the government covers the 0% interest markup, registration fees, token tax, and first-year insurance, alongside a capital subsidy of Rs 90,000 per vehicle.",
+              "Female students enrolled in HEC-recognized public or private universities and graduate colleges across Punjab can submit online applications. Each recipient receives a safety package including a full-face helmet, protective guards, and access to mandatory riding training workshops."
+            ]
+          },
+          {
+            title: "Sindh Mass Transit Authority (SMTA) Pink EV Scooter Program (smta.gos.pk)",
+            paragraphs: [
+              "The Sindh Mass Transit Authority (SMTA) operates the Sindh Pink EV Scooty Scheme under the Transport & Mass Transit Department Government of Sindh. Unlike student-only initiatives, the Sindh program caters to both female students and working women across major urban centers including Karachi, Hyderabad, Sukkur, Larkana, Shaheed Benazirabad, and Mirpurkhas.",
+              "The Sindh initiative focuses on heavily subsidized electric scooties to assist daily commuters facing rising fuel costs. Applicants apply directly through the official SMTA web portal, undergoing background verification prior to provincial computerized draw allocations."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Punjab vs Sindh Pink Scooty Scheme: Side-by-Side Comparison",
+        paragraphs: [
+          "Navigating provincial motorcycle schemes requires selecting the correct portal based on your official domicile certificate. The matrix below outlines key differences between the Punjab and Sindh programs for 2026:"
+        ],
+        table: {
+          caption: "Punjab vs Sindh Pink Scooty Scheme Feature Comparison 2026",
+          headers: ["Feature / Criteria", "CM Punjab EV Bike Scheme", "Sindh SMTA Pink Scooty Scheme"],
+          rows: [
+            ["Primary Portal", "bikes.punjab.gov.pk", "smta.gos.pk"],
+            ["Target Audience", "Regular Female & Male University/College Students", "Working Women, Female Students, Widows & Single Mothers"],
+            ["Provincial Domicile", "Punjab Domicile Required", "Sindh Domicile Required"],
+            ["Down Payment", "Zero Down Payment (Phase 2 terms)", "Highly Subsidized / Direct Grant Model"],
+            ["Financial Partner", "The Bank of Punjab (BOP)", "Transport & Mass Transit Department Sindh"],
+            ["Government Subsidy", "Rs 90,000 Capital Subsidy + 0% Interest Markup", "Up to 70% Direct Price Subsidy"],
+            ["Estimated Monthly Payment", "Approx. Rs 3,000 / month (36-month tenure)", "Fixed Subsidized Installment / One-time Fee"],
+            ["License Requirement", "Valid Learner Permit or Full Driving License", "Learner Permit or SMTA Training Registration"],
+            ["Active Cities / Districts", "All 36 Punjab Districts (Lahore, Rawalpindi, Multan, etc.)", "Karachi, Hyderabad, Sukkur, Larkana, Mirpurkhas"]
+          ]
+        }
+      },
+      {
+        title: "Who is Eligible for the Pink Scooty Scheme 2026?",
+        paragraphs: [
+          "Eligibility criteria ensure that government subsidies reach genuine female applicants who possess valid documentation and meet age and residency requirements."
+        ],
+        subsections: [
+          {
+            title: "Eligibility Criteria for Punjab Female Students",
+            paragraphs: [
+              "To qualify under the Punjab E-Bike initiative, female applicants must be regular, full-time students enrolled in an HEC-recognized public or private university, degree college, or graduate institution in Punjab.",
+              "Applicants must be at least 18 years of age, possess a valid CNIC and Punjab domicile, hold a motorcycle driving license or learner permit, and provide a parent or guardian as financial guarantor for BOP loan security."
+            ]
+          },
+          {
+            title: "Eligibility Criteria for Sindh Working Women & Students",
+            paragraphs: [
+              "The Sindh Mass Transit Authority accepts applications from female working professionals (government or private sector), active university students, registered entrepreneurs, single mothers, and widows.",
+              "Applicants must hold a valid CNIC and Sindh domicile (or PRC Form D). Working professionals must provide employment proof or employer verification."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Required Documents for Pink Scooty Scheme Online Registration",
+        paragraphs: [
+          "Before initiating an online application on bikes.punjab.gov.pk or smta.gos.pk, prepare clear scanned digital copies (PDF or JPG format under 2MB) of the required documents."
+        ],
+        bullets: [
+          "Applicant CNIC / B-Form (Front and back scanned copy)",
+          "Provincial Domicile Certificate (Punjab or Sindh matching application)",
+          "Driving License or Learner Permit (Official traffic police permit slip)",
+          "Educational Proof for Students (Fee slip, student ID card, or bonafide certificate)",
+          "Employment Proof for Working Women in Sindh (Job ID card or salary slip)",
+          "Guarantor / Co-Borrower CNIC and Income Proof (For Bank of Punjab verification)",
+          "Passport-Sized Photograph (Recent photo with blue/white background)"
+        ]
+      },
+      {
+        title: "How to Apply Online for Pink Scooty Scheme 2026 Step-by-Step",
+        paragraphs: [
+          "Follow these official step-by-step procedures to register your application successfully without risking data rejection."
+        ],
+        subsections: [
+          {
+            title: "Punjab Portal Registration Walkthrough (bikes.punjab.gov.pk)",
+            paragraphs: [
+              "Access the official portal at bikes.punjab.gov.pk, create an account using your CNIC and active mobile number, and log in to your candidate dashboard.",
+              "Select Electric Bike (Pink Scooty) under the female category, enter your university details, address, and learner permit number, upload scanned documents, and submit your file for Bank of Punjab verification."
+            ]
+          },
+          {
+            title: "Sindh SMTA Portal Registration Guide (smta.gos.pk)",
+            paragraphs: [
+              "Visit smta.gos.pk and select the Pink EV Scooty Registration 2026 banner.",
+              "Fill out the application form with your CNIC, applicant category (Student or Working Woman), and district, attach required documents, select driving training preferences, and submit the form to receive your tracking ID."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Pink Scooty Balloting 2026: How Selection & Result Check Work",
+        paragraphs: [
+          "Demand for government-subsidized electric scooties frequently exceeds vehicle quotas. Both provincial governments utilize computerized e-balloting systems to ensure transparent distribution."
+        ],
+        subsections: [
+          {
+            title: "Computerized E-Balloting Mechanism & Transparency",
+            paragraphs: [
+              "Applications undergo dual-stage verification: institutional document check by transport/education departments, followed by Bank of Punjab guarantor credit audit.",
+              "All verified applications enter an automated computerized e-balloting draw monitored by provincial oversight committees and audit firms."
+            ]
+          },
+          {
+            title: "How to Check Pink Scooty Balloting Result by CNIC",
+            paragraphs: [
+              "Visit bikes.punjab.gov.pk (for Punjab) or smta.gos.pk (for Sindh) and click on Balloting Results 2026.",
+              "Enter your 13-digit CNIC number without hyphens to display your selection status. Successful applicants also receive official SMS notifications."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Financial Terms, Subsidies & Monthly Installments",
+        paragraphs: [
+          "The total price of the electric scooty is approximately Rs 190,000 to Rs 210,000. In Punjab, the government provides a Rs 90,000 capital subsidy and covers all 0% interest markup, registration fees, and token taxes.",
+          "Under Phase 2 terms, selected students pay Zero Down Payment, repaying the remaining financed principal over a 36-month tenure at an estimated monthly installment of approx. Rs 3,000 per month."
+        ]
+      },
+      {
+        title: "Common Application Mistakes & Online Scam Alerts",
+        paragraphs: [
+          "Apply only on official .gov.pk or .gos.pk websites (bikes.punjab.gov.pk and smta.gos.pk). Never submit personal details on unverified commercial blogs or social media forms.",
+          "The registration process is 100% free of charge. Never pay agents or individuals claiming to guarantee balloting success. Ensure your learner driving permit is valid prior to the October 4, 2026 deadline."
+        ]
+      },
+      {
+        title: "Frequently Asked Questions (FAQs)",
+        paragraphs: [
+          "Find quick answers to common questions about Pink Scooty Scheme 2026 registration, eligibility rules, and balloting status check."
+        ],
+        bullets: [
+          "Is a driving license mandatory? Yes, at least a valid motorcycle learner permit is required.",
+          "Can male students apply? Male students can apply for black bikes under the general CM Punjab E-Bike portal; pink scooties are reserved for female applicants.",
+          "What is the application deadline? The active registration deadline for Punjab Phase 2 is October 4, 2026.",
+          "What is the monthly installment amount? Approximately Rs 3,000 per month over a 36-month financing term.",
+          "How can I check balloting results online? Enter your 13-digit CNIC on bikes.punjab.gov.pk or smta.gos.pk.",
+          "Are private university students eligible? Yes, regular students in HEC-recognized private institutions are eligible.",
+          "Is down payment required for Phase 2? No, Phase 2 features zero down payment options for selected students.",
+          "Who is eligible in Sindh? Female students, working women, single mothers, and widows with Sindh domicile.",
+          "What if guarantor credit check fails? The Bank of Punjab will ask for an alternative guarantor.",
+          "Are pink scooties electric? Yes, all 2026 models are 100% battery-powered Electric Vehicles (EVs)."
+        ]
+      }
+    ]
+  },
+
   {
     slug: "bisp-biometric-verification-failed-fingerprint-solution",
     title: "BISP Biometric Failed? Guaranteed Rs 13,500 Fix",
@@ -15461,6 +15851,9 @@ export const articles: Article[] = [
           "The Chief Minister Punjab Honhaar Merit Scholarship Program is a historic higher education funding initiative introduced by Chief Minister Maryam Nawaz Sharif to eliminate financial barriers for high-achieving undergraduate students. With an allocated budget of Rs. 130 Billion over an eight-year cycle, the program awards 30,000 comprehensive scholarships annually to students admitted to accredited universities and professional degree colleges across Punjab.",
           "Unlike conventional partial fee waivers or loan schemes, the Honhaar Scholarship provides an unconditional 100% tuition grant. Approved funds are disbursed directly by the Punjab Higher Education Commission (PHEC) to the recipient's university treasury, ensuring that students face zero out-of-pocket tuition costs throughout their standard four-year (BS) or five-year (MBBS/Pharm-D) degree tenures."
         ],
+        links: [
+          { label: "Pink Scooty Scheme 2026 Details", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
+        ],
         subsections: [
           {
             title: "Financial Coverage and Scholarship Benefits",
@@ -19891,6 +20284,9 @@ export const articles: Article[] = [
         paragraphs: [
           "The Chief Minister Free Laptop Scheme 2026 is a massive youth digital empowerment initiative launched by Chief Minister Maryam Nawaz Sharif through the Higher Education Department (HED) Punjab in collaboration with the Punjab Information Technology Board (PITB). Re-established with a historic allocation exceeding 110,000 brand-new premium laptops, the program aims to bridge the digital divide, equip undergraduate and postgraduate students with modern computing power, and foster freelancing, artificial intelligence (AI) literacy, and technical research across the province.",
           "Unlike commercial discount schemes or lottery systems, every single laptop is distributed on a strictly verified 100% merit basis. The distribution spans regular students attending HEC-recognized public sector universities, constituent sub-campuses, government post-graduate colleges, medical colleges, and engineering institutions throughout all 36 districts of Punjab."
+        ],
+        links: [
+          { label: "Pink Scooty Scheme 2026 Registration & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],
         subsections: [
           {

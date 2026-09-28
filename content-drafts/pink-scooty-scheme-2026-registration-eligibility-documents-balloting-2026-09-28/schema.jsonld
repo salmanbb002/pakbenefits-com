@@ -1,0 +1,201 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/#article",
+      "headline": "Pink Scooty Scheme 2026 – Registration, Eligibility, Documents & Balloting Guide",
+      "description": "Apply for the Pink Scooty Scheme 2026 in Punjab & Sindh. Learn eligibility, required documents, portal registration steps, and balloting result check.",
+      "url": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/",
+      "datePublished": "2026-09-28T00:00:00+05:00",
+      "dateModified": "2026-09-28T00:00:00+05:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Pak Benefits Team",
+        "url": "https://pakbenefits.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Pak Benefits",
+        "url": "https://pakbenefits.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Punjab Electric Bike Scheme",
+          "url": "https://bikes.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Sindh Mass Transit Authority",
+          "url": "https://smta.gos.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "FinancialService",
+          "name": "The Bank of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab"
+        },
+        {
+          "@type": "Audience",
+          "name": "Female Students"
+        },
+        {
+          "@type": "Audience",
+          "name": "Working Women"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["> blockquote", ".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is a driving license mandatory to apply for the Pink Scooty Scheme 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Applicants must possess at least a valid motorcycle learner permit issued by the traffic police. Full driving licenses are also accepted, but a learner slip satisfies registration requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can male students apply for the Pink Scooty Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Male students can apply for black electric or petrol motorbikes under the general CM Punjab E-Bike Scheme portal at bikes.punjab.gov.pk. However, the pink scooty allocation is reserved strictly for female applicants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the application deadline for the Pink Scooty Scheme Phase 2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The registration deadline for the active phase of the Punjab E-Bike initiative is October 4, 2026. Applicants should complete portal submission prior to midnight on the closing date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the monthly installment amount for the Punjab Pink Scooty?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The estimated monthly installment is approximately Rs 3,000 per month for a 3-year (36-month) financing plan, as the government subsidizes Rs 90,000 of the total cost and absorbs all interest markup."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check my Pink Scooty balloting result online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit the official application portal (bikes.punjab.gov.pk for Punjab or smta.gos.pk for Sindh), select the Balloting Result section, and enter your 13-digit CNIC number without hyphens."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are students from private universities eligible for the Punjab Pink Scooty?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Regular, full-time female students enrolled in HEC-recognized private universities and degree colleges in Punjab are eligible alongside public university students."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a down payment required for the 2026 Pink Scooty Phase 2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Under the updated Phase 2 terms, the Government of Punjab eliminated the initial down payment requirement for selected students."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible for the Pink Scooty Scheme in Sindh?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Female students, working women, single mothers, and widows residing in Sindh with a valid Sindh domicile or PRC can apply through the Sindh Mass Transit Authority (smta.gos.pk)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if my guarantor fails the Bank of Punjab credit audit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your guarantor or co-borrower fails the credit check due to bank default or insufficient proof of income, BOP may request an alternative guarantor or reject the financing application."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the pink scooties electric vehicles (EV) or petrol engine models?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The vehicles provided under the 2026 Pink Scooty initiatives in both Punjab and Sindh are 100% battery-powered Electric Vehicles (EVs), eliminating daily petrol costs for commuters."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/#howto",
+      "name": "How to Apply Online for Pink Scooty Scheme 2026",
+      "description": "Step-by-step guide to applying for the Pink Scooty Scheme online in Punjab and Sindh.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Visit Official Portal",
+          "text": "Navigate to bikes.punjab.gov.pk for Punjab or smta.gos.pk for Sindh."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Create Account & Select Category",
+          "text": "Register using your CNIC and mobile number, then select the Pink Scooty category."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Upload Required Documents",
+          "text": "Attach your CNIC, domicile, student ID / work proof, learner driving permit, and guarantor details."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Submit Application for Verification",
+          "text": "Review entries and submit for automated credit and background verification."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Schemes",
+          "item": "https://pakbenefits.com/category/schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pink Scooty Scheme 2026",
+          "item": "https://pakbenefits.com/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/"
+        }
+      ]
+    }
+  ]
+}

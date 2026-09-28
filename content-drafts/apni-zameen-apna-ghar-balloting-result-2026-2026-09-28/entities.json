@@ -1,0 +1,182 @@
+[
+  {
+    "canonical": "Apni Zameen Apna Ghar Program",
+    "type": "Government Program",
+    "aliases": ["AZAG", "Apni Zameen Apna Ghar Scheme", "Punjab Free Plot Scheme"],
+    "sameAs": "https://azag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Punjab",
+    "type": "Government Body",
+    "aliases": ["Punjab Government", "CM Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Maryam Nawaz", "Chief Minister Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "CNIC Number",
+    "type": "Identity Identifier",
+    "aliases": ["CNIC", "13-digit CNIC", "Computerized National Identity Card"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "AZAG Official Web Portal",
+    "type": "Website",
+    "aliases": ["azag.punjab.gov.pk", "AZAG Result Portal", "Official Punjab Housing Portal"],
+    "sameAs": "https://azag.punjab.gov.pk/ballot/result",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "3 Marla Free Plot",
+    "type": "Property Asset",
+    "aliases": ["3-marla plot", "free plot quota", "3 marla residential plot"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "2000 Plot Phase 1 Quota",
+    "type": "Metric / Quota",
+    "aliases": ["2000 plots", "Phase 1 allocation", "19 districts quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Housing and Town Planning Agency",
+    "type": "Organization",
+    "aliases": ["PHATA", "HUD&PHED Punjab"],
+    "sameAs": "https://phata.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Apni Chhat Apna Ghar Program",
+    "type": "Government Program",
+    "aliases": ["ACAG", "Apni Chhat Apna Ghar Scheme", "Interest-free Housing Loan"],
+    "sameAs": "https://acag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Balloting Status Verification",
+    "type": "Process",
+    "aliases": ["ballot result status", "online CNIC check", "balloting list"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "5-Year Transfer Restriction",
+    "type": "Legal Rule",
+    "aliases": ["5 year sale ban", "no sale rule", "transfer prohibition"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "6-Month Construction Rule",
+    "type": "Legal Rule",
+    "aliases": ["6 months construction start", "possession rule", "building deadline"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "Organization",
+    "aliases": ["PITB", "0800-09100 Helpline"],
+    "sameAs": "https://pitb.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Captcha Verification",
+    "type": "Process",
+    "aliases": ["security code", "image captcha"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "PSER Portal",
+    "type": "Database / Portal",
+    "aliases": ["Punjab Socio-Economic Registry", "PSER survey score"],
+    "sameAs": "https://pser.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "19 Designated Districts",
+    "type": "Geographic Scope",
+    "aliases": ["Phase 1 districts", "district quota list"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Allotment Letter",
+    "type": "Document",
+    "aliases": ["intimation letter", "plot allotment slip"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "e-Khidmat Markaz",
+    "type": "Organization",
+    "aliases": ["Punjab Citizen Facilitation Center"],
+    "sameAs": "https://ekhidmat.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
