@@ -6525,18 +6525,22 @@ export const articles: Article[] = [
       "NSER",
       "CNIC"
     ],
-    "primaryCategory": "Taleemi Wazaif",
+    "primaryCategory": "taleemi-wazaif",
     "categorySlugs": [
       "taleemi-wazaif",
-      "bisp-registration",
-      "news"
+      "bisp-registration"
     ],
     "date": "July 21, 2026",
     "readTime": "6 min read",
-    "image": "/images/scholarship-guide.jpg",
-    "imageAlt": "Pakistani students reviewing education guidance on a laptop",
+    "image": "/images/registration-guide.jpg",
+    "imageAlt": "A Pakistani parent preparing documentation for Benazir Taleemi Wazaif registration checklist",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
+    "relatedSlugs": [
+      "benazir-taleemi-wazaif-check-online-by-cnic",
+      "bisp-taleemi-wazaif-stipend-rates-2026",
+      "benazir-taleemi-wazaif-form-download-tarika"
+    ],
     "sections": [
       {
         "title": "Who should read this guide",
@@ -14963,16 +14967,20 @@ export const articles: Article[] = [
     ],
     primaryCategory: "taleemi-wazaif",
     categorySlugs: [
-      "taleemi-wazaif",
-      "news"
+      "taleemi-wazaif"
     ],
     date: "September 20, 2026",
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "14 min read",
-    image: "/images/scholarship-guide.jpg",
+    image: "/images/taleemi-wazaif.jpg",
     imageAlt: "Pakistani school children receiving Benazir Taleemi Wazaif educational stipends and books",
     author: contributors.muhammadSalman,
+    relatedSlugs: [
+      "bisp-taleemi-wazaif-stipend-rates-2026",
+      "bisp-taleemi-wazaif-70-attendance-rule-verification",
+      "benazir-taleemi-wazaif-form-download-tarika"
+    ],
     sections: [
       {
         title: "How to Check Benazir Taleemi Wazaif Status Online by Mother's CNIC",

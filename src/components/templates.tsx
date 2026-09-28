@@ -120,7 +120,7 @@ export function ArticleTemplate({ article }: { article: Article }) {
         .filter((candidate) => candidate.slug !== article.slug)
         .map((candidate) => {
           let score = 0;
-          if (candidate.primaryCategory === article.primaryCategory) score += 5;
+          if (candidate.primaryCategory.toLowerCase() === article.primaryCategory.toLowerCase()) score += 5;
           const sharedCategories = candidate.categorySlugs.filter((slug) => article.categorySlugs.includes(slug));
           score += sharedCategories.length * 2;
           return { candidate, score };
