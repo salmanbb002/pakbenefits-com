@@ -15057,6 +15057,16 @@ export const articles: Article[] = [
               "In addition to regular quarterly stipends, BISP awards a one-time cash incentive of Rs. 3,000 to every female student who successfully completes primary school (Grade 5) and enrolls in secondary school (Grade 6). This graduation bonus is credited directly to the mother’s account alongside her regular quarterly disbursement."
             ]
           }
+        ],
+        links: [
+          {
+            label: "BISP Taleemi Wazaif class-wise stipend rates 2026 guide",
+            href: "/bisp-taleemi-wazaif-stipend-rates-2026/"
+          },
+          {
+            label: "Benazir Taleemi Wazaif admission slip download aur registration guide",
+            href: "/benazir-taleemi-wazaif-form-download-tarika/"
+          }
         ]
       },
       {
@@ -15109,6 +15119,16 @@ export const articles: Article[] = [
               "Return the stamped and signed enrollment slip to the BISP Tehsil Office. The data entry operator scans the document into the central BISP database, pairs the school record with the child’s NADRA B-Form, and issues a final computerized submission receipt. The child’s stipend begins disbursing in the following quarterly payment cycle."
             ]
           }
+        ],
+        links: [
+          {
+            label: "Download BISP Taleemi Wazaif admission slip aur verification tarika",
+            href: "/benazir-taleemi-wazaif-form-download-tarika/"
+          },
+          {
+            label: "Taleemi Wazaif family registration preparation checklist",
+            href: "/taleemi-wazaif-registration-guide/"
+          }
         ]
       },
       {
@@ -15131,6 +15151,10 @@ export const articles: Article[] = [
           }
         ],
         links: [
+          {
+            label: "BISP Taleemi Wazaif 70% attendance rule verification and restoration guide",
+            href: "/bisp-taleemi-wazaif-70-attendance-rule-verification/"
+          },
           {
             label: "Why was my Benazir Kafaalat case paused guide",
             href: "/benazir-kafaalat-case-paused-reasons/"
@@ -17981,6 +18005,11 @@ export const articles: Article[] = [
     imageAlt: "A school student holding the Benazir Taleemi Wazaif admission verification certificate slip in Pakistan",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
+    relatedSlugs: [
+      "benazir-taleemi-wazaif-check-online-by-cnic",
+      "bisp-taleemi-wazaif-stipend-rates-2026",
+      "bisp-taleemi-wazaif-70-attendance-rule-verification"
+    ],
     sections: [
       {
             "title": "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika (Direct Answer Block)",
@@ -21367,6 +21396,11 @@ export const articles: Article[] = [
     imageAlt: "School student presenting BISP Taleemi Wazaif attendance verification slip to school headmaster",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
+    relatedSlugs: [
+      "benazir-taleemi-wazaif-check-online-by-cnic",
+      "bisp-taleemi-wazaif-stipend-rates-2026",
+      "benazir-taleemi-wazaif-form-download-tarika"
+    ],
     sections: [
       {
         title: "What Is the BISP Taleemi Wazaif 70 Attendance Rule?",
@@ -21726,7 +21760,7 @@ export const articles: Article[] = [
       "BISP Kafaalat",
       "NADRA B-Form"
     ],
-    primaryCategory: "Benazir Taleemi Wazaif",
+    primaryCategory: "taleemi-wazaif",
     categorySlugs: ["taleemi-wazaif", "8171"],
     date: "September 26, 2026",
     readTime: "6 min read",
@@ -21734,6 +21768,11 @@ export const articles: Article[] = [
     imageAlt: "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
+    relatedSlugs: [
+      "benazir-taleemi-wazaif-check-online-by-cnic",
+      "bisp-taleemi-wazaif-70-attendance-rule-verification",
+      "benazir-taleemi-wazaif-form-download-tarika"
+    ],
     officialLinks: [
       { label: "Official 8171 Web Portal", href: "https://8171.bisp.gov.pk/" },
       { label: "Official BISP Portal", href: "https://bisp.gov.pk/" }
@@ -21744,6 +21783,16 @@ export const articles: Article[] = [
         paragraphs: [
           "The Benazir Taleemi Wazaif stipend rates represent conditional cash transfers paid quarterly by the Benazir Income Support Programme to encourage school enrollment and attendance among children from underprivileged households. Enrolled students must belong to active Benazir Kafaalat beneficiary families and maintain a minimum of 70% school attendance. Stipend amounts are structured based on the child's academic grade level and gender, providing higher financial support for female students to combat gender disparity in education.",
           "Under the 2026 payment structure, financial assistance is disbursed four times a year alongside the quarterly BISP Kafaalat cash grant of Rs 13,500. Payments are transferred directly to the beneficiary mother's bio-metric bank account or digital wallet at designated partner bank POS campsites."
+        ],
+        links: [
+          {
+            label: "Benazir Taleemi Wazaif check online by CNIC status guide",
+            href: "/benazir-taleemi-wazaif-check-online-by-cnic/"
+          },
+          {
+            label: "Benazir Taleemi Wazaif admission form download aur registration guide",
+            href: "/benazir-taleemi-wazaif-form-download-tarika/"
+          }
         ]
       },
       {
