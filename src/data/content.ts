@@ -1907,7 +1907,7 @@ export const articles: Article[] = [
     lastChecked: "September 26, 2026",
     readTime: "7 min read",
     image: "/images/bisp-biometric-verification-failed.jpg",
-    imageAlt: "BISP Biometric Verification Failed Fingerprint Solution Form B",
+    imageAlt: "Official government BISP biometric verification failed fingerprint solution Form B registration guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -2072,7 +2072,7 @@ export const articles: Article[] = [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/bisp-tehsil-office-peshawar-kpk.jpg",
-    imageAlt: "BISP Tehsil Offices Peshawar KPK Districts Directory List",
+    imageAlt: "Verified government BISP Tehsil Offices Peshawar KPK registration center directory list",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -2410,7 +2410,7 @@ export const articles: Article[] = [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
-    imageAlt: "CM Balochistan Youth Skills Scheme 2026 BTEVTA Online Registration Guide",
+    imageAlt: "CM Balochistan youth skills scheme 2026 BTEVTA official government online registration guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
