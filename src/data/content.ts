@@ -53,6 +53,7 @@ export type Article = {
   sections: ContentSection[];
   faqs?: { question: string; answer: string }[];
   officialLinks: { label: string; href: string }[];
+  relatedSlugs?: string[];
 };
 
 export type Category = {
@@ -1526,6 +1527,11 @@ export const articles: Article[] = [
     imageAlt: "Apni Zameen Apna Ghar Balloting Result 2026 CNIC Check Online",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
+    relatedSlugs: [
+      "apni-chhat-apna-ghar-scheme-online-apply-2026",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
+    ],
     officialLinks: [
       { label: "AZAG Official Result Portal", href: "https://azag.punjab.gov.pk/ballot/result" },
       { label: "Official AZAG Portal", href: "https://azag.punjab.gov.pk/" }
@@ -1713,6 +1719,11 @@ export const articles: Article[] = [
     imageAlt: "Pink Scooty Scheme 2026 Registration Eligibility Documents & Balloting Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
+    relatedSlugs: [
+      "apni-chhat-apna-ghar-scheme-online-apply-2026",
+      "apni-zameen-apna-ghar-balloting-result-2026",
+      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
+    ],
     officialLinks: [
       { label: "Punjab E-Bike Portal", href: "https://bikes.punjab.gov.pk/" },
       { label: "Sindh SMTA Portal", href: "https://smta.gos.pk/" }
@@ -14666,7 +14677,12 @@ export const articles: Article[] = [
     primaryCategory: "8171",
     categorySlugs: [
       "8171",
-      "news"
+      "payment-check"
+    ],
+    relatedSlugs: [
+      "bisp-8171-balance-check-online-kaise-karein",
+      "8171-web-portal-not-working",
+      "bisp-registration-check-by-cnic-kaise-karein"
     ],
     date: "September 20, 2026",
     publishedDate: "September 20, 2026",
@@ -14741,6 +14757,10 @@ export const articles: Article[] = [
           {
             label: "Official 8171 messaging short code verification",
             href: "/8171-786-ehsaas-tracking-official-number/"
+          },
+          {
+            label: "BISP 8171 balance check online aur ATM cash withdrawal guide",
+            href: "/bisp-8171-balance-check-online-kaise-karein/"
           }
         ]
       },
@@ -14847,6 +14867,16 @@ export const articles: Article[] = [
           "1. Sirf 8171 Official Hai: BISP ki tamam official maloomat sirf '8171' sender code se aati hain. Kisi bhi 11-digit mobile number se aane wala raqam ki mubarakbaad ka message jaali hota hai.",
           "2. Koi Registration Fee Nahi: BISP dynamic registry survey, 8171 portal status check, aur kafaalat registration mukammal tor par muft hai. Koi bhi shakhs jo registration ya token ke badlay paise mangay, uski foran BISP helpline 0800-26477 par shikayat darj karein.",
           "3. Biometric Slip Fee: ATM ya retailer dukandar ko poori raqam ada karna lazmi hai. Agar koi agent device charges ya tax ke naam par katauti kare to foran complaint desk par ruju karein."
+        ],
+        links: [
+          {
+            label: "Fake 8171 SMS check & complaint against lottery scam alert",
+            href: "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/"
+          },
+          {
+            label: "BISP helpline number complaint kaise darj karein guide",
+            href: "/bisp-helpline-number-complaint-kaise-darj-karein/"
+          }
         ]
       }
     ],
@@ -15659,6 +15689,11 @@ export const articles: Article[] = [
     image: "/images/apni-chhat-apna-ghar-scheme.jpg",
     imageAlt: "Pakistani family proudly standing in front of their newly constructed brick home under Apni Chhat Apna Ghar scheme in Punjab",
     author: contributors.muhammadSalman,
+    relatedSlugs: [
+      "apni-zameen-apna-ghar-balloting-result-2026",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
+    ],
     sections: [
       {
         title: "What Is the CM Punjab Apni Chhat Apna Ghar (ACAG) Scheme 2026?",
@@ -17178,12 +17213,17 @@ export const articles: Article[] = [
       "8171",
       "bisp-registration"
     ],
+    relatedSlugs: [
+      "8171-check-online-kaise-karein",
+      "8171-web-portal-not-working",
+      "bisp-registration-check-by-cnic-kaise-karein"
+    ],
     date: "September 21, 2026",
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
     image: "/images/bisp-8171-balance-check-online.jpg",
-    imageAlt: "Pakistani female beneficiary withdrawing Benazir Kafaalat cash from HBL biometric ATM",
+    imageAlt: "Pakistani woman checking BISP 8171 balance and payment status online on smartphone",
     author: contributors.muhammadSalman,
     sections: [
       {

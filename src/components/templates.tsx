@@ -112,9 +112,23 @@ export function ArticleTemplate({ article }: { article: Article }) {
   const primaryCategorySlug = article.categorySlugs[0];
   const primaryCategory = categories.find((category) => category.slug === primaryCategorySlug);
   const articleDate = contentDateIso(article.date);
-  const relatedArticles = articles
-    .filter((candidate) => candidate.slug !== article.slug && candidate.categorySlugs.some((slug) => article.categorySlugs.includes(slug)))
-    .slice(0, 3);
+  const relatedArticles = article.relatedSlugs && article.relatedSlugs.length > 0
+    ? article.relatedSlugs
+        .map((slug) => articles.find((candidate) => candidate.slug === slug))
+        .filter((candidate): candidate is Article => Boolean(candidate))
+    : articles
+        .filter((candidate) => candidate.slug !== article.slug)
+        .map((candidate) => {
+          let score = 0;
+          if (candidate.primaryCategory === article.primaryCategory) score += 5;
+          const sharedCategories = candidate.categorySlugs.filter((slug) => article.categorySlugs.includes(slug));
+          score += sharedCategories.length * 2;
+          return { candidate, score };
+        })
+        .filter((item) => item.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map((item) => item.candidate)
+        .slice(0, 3);
 
   const articleSchema = {
     "@context": "https://schema.org",
