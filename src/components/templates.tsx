@@ -42,7 +42,7 @@ function ContentSections({ sections }: { sections: ContentSection[] }) {
         <h3>{subsection.title}</h3>
         {subsection.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
         {subsection.bullets && <ul>{subsection.bullets.map((bullet) => <li key={bullet}><CheckCircle2 size={19} /><span>{bullet}</span></li>)}</ul>}
-        {!!(subsection as Record<string, any>).links?.length && <div className="article-context-links" aria-label="Related guides">{(subsection as Record<string, any>).links.map((link: { label: string; href: string }) => <Link href={link.href} key={link.href}>{link.label}<ArrowUpRight size={15} /></Link>)}</div>}
+        {!!subsection.links?.length && <div className="article-context-links" aria-label="Related guides">{subsection.links.map((link) => <Link href={link.href} key={link.href}>{link.label}<ArrowUpRight size={15} /></Link>)}</div>}
       </div>)}
       {section.table && <div className="article-table-wrap"><table>
         {section.table.caption && <caption>{section.table.caption}</caption>}

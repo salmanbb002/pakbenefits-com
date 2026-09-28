@@ -11,6 +11,7 @@ export type ContentSection = {
       headers: string[];
       rows: string[][];
     };
+    links?: { label: string; href: string }[];
   }[];
   table?: {
     caption?: string;
@@ -14500,12 +14501,12 @@ export const articles: Article[] = [
             title: "Ideal Scenarios for Micro-Enterprise Financing",
             paragraphs: [
               "Applying for an interest-free loan is the best financial decision under the following conditions: Starting a home-based business such as tailoring or embroidery requiring sewing machines; expanding a small neighborhood grocery shop (karyana) or fruit cart with wholesale inventory; livestock rearing in rural areas (goats, sheep, or dairy cattle); purchasing professional toolkits for electricians, plumbers, carpenters, or mechanics."
+            ],
+            links: [
+              { label: "Apni Chhat Apna Ghar 15 Lakh Loan tracking guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" },
+              { label: "CM Balochistan Youth Skills Scheme 2026 registration guide", href: "/cm-balochistan-youth-skills-scheme-2026-online-apply/" }
             ]
           },
-        // links: [
-          // { label: "Apni Chhat Apna Ghar 15 Lakh Loan tracking guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" },
-          // { label: "CM Balochistan Youth Skills Scheme 2026 registration guide", href: "/cm-balochistan-youth-skills-scheme-2026-online-apply/" }
-        // ]},
           {
             title: "Eligibility Criteria, Guarantors & PMT Requirements",
             paragraphs: [
