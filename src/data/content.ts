@@ -2248,7 +2248,7 @@ export const articles: Article[] = [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/cm-punjab-apni-chhat-apna-ghar-loan.jpg",
-    imageAlt: "Apni Chhat Apna Ghar Loan Installment Tracking PITB Portal",
+    imageAlt: "Apni Chhat Apna Ghar Loan Installment Tracking PITB Portal Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -2429,7 +2429,7 @@ export const articles: Article[] = [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
-    imageAlt: "CM Balochistan youth skills scheme 2026 BTEVTA official government online registration guide",
+    imageAlt: "CM Balochistan Youth Skills Scheme 2026 Online Apply and Registration Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -2636,7 +2636,7 @@ export const articles: Article[] = [
     lastChecked: "September 26, 2026",
     readTime: "7 min read",
     image: "/images/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.jpg",
-    imageAlt: "Fake 8171 SMS scam check and PTA complaint guide",
+    imageAlt: "Fake 8171 SMS Check, Complaint and BISP Lottery Fraud Alert Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -9967,6 +9967,7 @@ export const articles: Article[] = [
   },
   {
     "slug": "punjab-land-record-check-guide",
+    relatedSlugs: ["apna-khet-apna-rozgar-scheme-apply-online-2026","nigehban-card-check-guide","himmat-card-eligibility-check-guide"],
     "title": "How to Check Punjab Land Records Online by CNIC (2026)",
     "excerpt": "Check a Punjab land record online by CNIC — which official portal to trust, what a Fard actually shows, and what to do if no record appears.",
     "metaTitle": "Punjab Land Record Online Check by CNIC: 2026 Steps",
@@ -9996,7 +9997,7 @@ export const articles: Article[] = [
     "date": "September 14, 2026",
     "publishedDate": "September 14, 2026",
     "readTime": "8 min read",
-    "image": "/images/farmer-support.jpg",
+    "image": "/images/punjab-land-record-check-guide.jpg",
     "imageAlt": "A person checking a Punjab land record document on a phone in a rural setting",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -10161,6 +10162,7 @@ export const articles: Article[] = [
   },
   {
     "slug": "nigehban-card-check-guide",
+    relatedSlugs: ["apna-khet-apna-rozgar-scheme-apply-online-2026","punjab-land-record-check-guide","himmat-card-eligibility-check-guide"],
     "title": "Nigehban Card Check Online by CNIC: How to Check Your Status (2026)",
     "excerpt": "The Nigehban Card is Punjab's own Ramzan relief card, checked via SMS to 8070 or the PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See how the check works and how to avoid fake sites.",
     "metaTitle": "Nigehban Card Check by CNIC: 8070 or 9999? (2026)",
@@ -10190,7 +10192,7 @@ export const articles: Article[] = [
     "date": "September 15, 2026",
     "publishedDate": "September 15, 2026",
     "readTime": "10 min read",
-    "image": "/images/bisp-cnic-status-check.jpg",
+    "image": "/images/nigehban-card-check-guide.jpg",
     "imageAlt": "A person checking their Nigehban Card status by CNIC on a phone",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -10398,6 +10400,7 @@ export const articles: Article[] = [
   },
   {
     "slug": "himmat-card-eligibility-check-guide",
+    relatedSlugs: ["apna-khet-apna-rozgar-scheme-apply-online-2026","punjab-land-record-check-guide","nigehban-card-check-guide"],
     "title": "How to Check Himmat Card Eligibility and Status by CNIC (2026)",
     "excerpt": "Check your Himmat Card status at the official DPMIS verification page by CNIC — no login needed. See eligibility rules, PMT score, payment amount, and how to avoid fake sites.",
     "metaTitle": "Himmat Card Eligibility & Status Check by CNIC (2026)",
@@ -10417,7 +10420,7 @@ export const articles: Article[] = [
     "date": "September 15, 2026",
     "publishedDate": "September 15, 2026",
     "readTime": "9 min read",
-    "image": "/images/bisp-cnic-status-check.jpg",
+    "image": "/images/himmat-card-eligibility-check-guide.jpg",
     "imageAlt": "A person checking their Himmat Card eligibility status by CNIC on a phone",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -13756,6 +13759,7 @@ export const articles: Article[] = [
   },
   {
     slug: "apna-khet-apna-rozgar-scheme-apply-online-2026",
+    relatedSlugs: ["punjab-land-record-check-guide", "nigehban-card-check-guide", "himmat-card-eligibility-check-guide"],
     title: "Apna Khet Apna Rozgar Scheme Apply Online 2026: Complete Registration Guide, Eligibility & Balloting Status",
     excerpt: "The Punjab Apna Khet Apna Rozgar Scheme 2026 provides landless farmers with 2 to 5 acres of cultivable state land on a 10-year lease at a nominal fee of Rs. 100 per year, bundled with a Rs. 200,000 cultivation grant. Eligible citizens aged 18 to 50 can apply online at akar.pulse.gop.pk using their CNIC.",
     showExcerpt: true,
@@ -14441,7 +14445,7 @@ export const articles: Article[] = [
     lastChecked: "September 20, 2026",
     readTime: "13 min read",
     image: "/images/ehsaas-loan-vs-saving-wallet.jpg",
-    imageAlt: "Pakistani entrepreneur reviewing microfinance loan options and digital banking wallet tools at a local community center",
+    imageAlt: "Ehsaas Interest-Free Loan vs Saving Wallet Comparison and Registration Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
