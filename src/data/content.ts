@@ -14501,11 +14501,11 @@ export const articles: Article[] = [
             paragraphs: [
               "Applying for an interest-free loan is the best financial decision under the following conditions: Starting a home-based business such as tailoring or embroidery requiring sewing machines; expanding a small neighborhood grocery shop (karyana) or fruit cart with wholesale inventory; livestock rearing in rural areas (goats, sheep, or dairy cattle); purchasing professional toolkits for electricians, plumbers, carpenters, or mechanics."
             ]
-          ,
-        links: [
-          { label: "Apni Chhat Apna Ghar 15 Lakh Loan tracking guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" },
-          { label: "CM Balochistan Youth Skills Scheme 2026 registration guide", href: "/cm-balochistan-youth-skills-scheme-2026-online-apply/" }
-        ]},
+          },
+        // links: [
+          // { label: "Apni Chhat Apna Ghar 15 Lakh Loan tracking guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" },
+          // { label: "CM Balochistan Youth Skills Scheme 2026 registration guide", href: "/cm-balochistan-youth-skills-scheme-2026-online-apply/" }
+        // ]},
           {
             title: "Eligibility Criteria, Guarantors & PMT Requirements",
             paragraphs: [
@@ -14518,6 +14518,10 @@ export const articles: Article[] = [
               "The application process for an interest-free loan is strictly physical; there is no online application form. Applicants must locate their nearest Akhuwat or PPAF branch, attend an initial interview with their original CNIC and utility bill, submit the application with guarantor details, undergo a residential social appraisal visit, and receive funds upon committee approval."
             ]
           }
+        ],
+        links: [
+          { label: "Apni Chhat Apna Ghar 15 Lakh Loan tracking guide", href: "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/" },
+          { label: "CM Balochistan Youth Skills Scheme 2026 registration guide", href: "/cm-balochistan-youth-skills-scheme-2026-online-apply/" }
         ]
       },
       {
