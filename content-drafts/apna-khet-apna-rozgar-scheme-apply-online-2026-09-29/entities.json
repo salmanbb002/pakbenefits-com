@@ -1,0 +1,172 @@
+[
+  {
+    "canonical": "Apna Khet Apna Rozgar Scheme",
+    "type": "GovernmentService",
+    "aliases": ["AKAR Scheme", "CM Punjab Land Allotment Scheme", "Own Farm Own Livelihood Program"],
+    "sameAs": "https://akar.pulse.gop.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Government", "CM Punjab Office"],
+    "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Land Records Authority (PLRA)",
+    "type": "GovernmentOrganization",
+    "aliases": ["PLRA", "PULSE Project"],
+    "sameAs": "https://pulse.gop.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority (NADRA)",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "akar.pulse.gop.pk",
+    "type": "WebSite",
+    "aliases": ["AKAR Portal", "PULSE Online Application Portal"],
+    "sameAs": "https://akar.pulse.gop.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Cultivable State Land",
+    "type": "Concept",
+    "aliases": ["3 to 5 Acres Allotment", "State Land"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Land Development Grant",
+    "type": "Money",
+    "aliases": ["Rs 50,000 per Acre Grant", "Agricultural Subsidy Grant"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Land Lease Terms",
+    "type": "Concept",
+    "aliases": ["10-Year Lease Agreement", "Rs 100 per Acre Annual Fee"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Landless Farmers and Agricultural Laborers",
+    "type": "PersonGroup",
+    "aliases": ["Landless Rural Farmers", "Unemployed Youth"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "CM Punjab Kissan Card",
+    "type": "FinancialProduct",
+    "aliases": ["Kissan Card", "Farmers Subsidized Card"],
+    "sameAs": "https://agripunjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Green Tractor Scheme",
+    "type": "GovernmentService",
+    "aliases": ["Punjab Tractor Subsidy Scheme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Computerized Balloting System",
+    "type": "Process",
+    "aliases": ["PULSE Balloting", "Merit Selection Balloting"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Tehsil AC and DC Helpdesk",
+    "type": "GovernmentOrganization",
+    "aliases": ["Assistant Commissioner Office", "Deputy Commissioner Helpdesk"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "CNIC and Domicile Verification",
+    "type": "Document",
+    "aliases": ["13-Digit CNIC", "Punjab Domicile Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Agriculture Extension Department Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Agri Dept Punjab"],
+    "sameAs": "https://agripunjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Bank Loan Defaulter Status",
+    "type": "Concept",
+    "aliases": ["Financial Defaulter Check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Cholistan Development Authority (CDA)",
+    "type": "GovernmentOrganization",
+    "aliases": ["CDA Land Allotment"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

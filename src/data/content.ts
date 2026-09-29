@@ -2452,6 +2452,16 @@ export const articles: Article[] = [
           "Free Certification: Graduates receive globally recognized trade certificates validated by B-TEVTA and NAVTTC.",
           "Passport & Visa Assistance: Candidates who complete high-demand trades are provided dedicated facilitation for passport processing, medical screenings, and work visa applications through government-approved overseas employment promoters.",
           "Toolkits for Self-Employment: Top-performing graduates in technical trades such as solar technology and electrical wiring receive free starter toolkits to launch local micro-enterprises."
+        ],
+        links: [
+          {
+            label: "Ehsaas Interest-Free Loan vs. Saving Wallet guide",
+            href: "/ehsaas-interest-free-loan-vs-saving-wallet/"
+          },
+          {
+            label: "Prime Minister Youth Loan Scheme 2026 financing guide",
+            href: "/prime-minister-youth-loan-scheme-2026/"
+          }
         ]
       },
       {
@@ -2661,6 +2671,16 @@ export const articles: Article[] = [
           "WhatsApp Group & Link Scams: Fraudsters circulate unverified links via WhatsApp leading to fake phishing portals designed to steal 13-digit CNIC numbers, bank account PINs, and mobile OTPs.",
           "Fake BISP Inspector Phone Calls: Impostors call beneficiaries claiming to be BISP field officers threatening to cancel their account or block their quarterly payment unless an immediate verification payment is made.",
           "Biometric Device & Retailer Fraud: Unscrupulous retailers at local payment campsites claim that a beneficiary's biometric verification failed while secretly deducting cash fees or taking multiple thumbprints."
+        ],
+        links: [
+          {
+            label: "Ehsaas Saving Wallet vs. Interest-Free Loan guide",
+            href: "/ehsaas-interest-free-loan-vs-saving-wallet/"
+          },
+          {
+            label: "BISP helpline number and agent katauti complaint guide",
+            href: "/bisp-helpline-number-complaint-kaise-darj-karein/"
+          }
         ]
       },
       {
