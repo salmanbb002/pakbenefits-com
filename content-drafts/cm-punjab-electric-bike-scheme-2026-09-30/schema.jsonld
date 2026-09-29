@@ -1,0 +1,271 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/cm-punjab-electric-bike-scheme#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/cm-punjab-electric-bike-scheme"
+      },
+      "headline": "CM Punjab Electric Bike Scheme 2026 – Apply Online, Eligibility & Price",
+      "description": "The CM Punjab Electric Bike Scheme gives 100,000 students electric scooties at PKR 199,000 with a Rs 90,000 subsidy and ~Rs 3,000/month installments. Apply before October 4, 2026.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://example.com/cm-punjab-electric-bike-scheme",
+      "datePublished": "2026-09-04T08:00:00+05:00",
+      "dateModified": "2026-09-30T18:40:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Government Schemes & Mobility Policy Analyst",
+        "description": "Specialist in Pakistani government schemes, electric-mobility initiatives and digital identity registries.",
+        "url": "TODO: replace with real author page URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: replace with site publisher name",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: replace with logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "CM Punjab E-Bike Scheme",
+          "alternateName": "CM Punjab Electric Bike Scheme",
+          "sameAs": "https://bikes.punjab.gov.pk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "jobTitle": "Chief Minister of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        },
+        {
+          "@type": "Organization",
+          "name": "Bank of Punjab",
+          "sameAs": "https://www.bop.com.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board (PITB)",
+          "sameAs": "https://pitb.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Transport & Mass Transit Department, Government of Punjab",
+          "sameAs": "https://transport.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Pakistan Accelerated Vehicle Electrification (PAVE)",
+          "sameAs": "https://pave.gov.pk/"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "p:first-of-type"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/cm-punjab-electric-bike-scheme#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the price of the e-bike under the scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The electric scooty is priced at PKR 199,000. The Government of Punjab contributes a Rs 90,000 capital subsidy toward this price, and the remaining balance is financed interest-free."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much capital subsidy is provided by the Government of Punjab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Government of Punjab provides a capital subsidy of Rs 90,000 per e-bike. This amount is a grant and does not have to be repaid by the student."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a down payment required for the e-bike?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No down payment is required. The financed balance is repaid entirely through approximately Rs 3,000 monthly installments over a 3-year term."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the financing period, and who pays the interest?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The financing period is 3 years, and the Government of Punjab (GoPb) pays the full interest cost. The applicant pays only the principal, at 0% markup."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who pays the insurance, registration and token-tax costs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Government of Punjab bears the insurance, registration and token-tax costs of the e-bike. These charges are not added to the student's installments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many e-bikes are being provided under the scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Phase 2 provides 100,000 electric scooties to students across Punjab, covering all 36 districts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which students are eligible based on their educational institution?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students of both public and private educational institutions are eligible, provided the institution is registered or recognised by the relevant Government of Punjab authority. Students of federally chartered institutes are not eligible under this provincial scheme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minimum age to apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The minimum age is 16 years at the time of application. Applicants must also hold a valid driving license, learner's permit or juvenile driving permit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who can act as a guarantor, and what income is required?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A parent or legal guardian can act as guarantor, provided they have a valid CNIC and a verifiable monthly income of at least PKR 40,000, supported by a recent bank statement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents do I need to apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You need a valid CNIC (or B-Form/CRC), a student card or bonafide certificate, the latest paid fee slip, a learner's permit or driving license, a passport-size photo, and your guarantor's CNIC, income proof and bank statement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the last date to apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The last date to apply for Phase 2 is October 4, 2026. Applications are submitted only through bikes.punjab.gov.pk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are female students treated differently?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Phase 2 introduced a dedicated scooty allocation with a reserved quota for female students at the divisional level to promote women's mobility, while core eligibility applies equally to male and female applicants. Confirm the exact female quota on the official portal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the CM Punjab scheme the same as the PM PAVE scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The CM Punjab scheme is provincial and covers Punjab students, while PAVE is a federal programme covering applicants across Pakistan (including AJK and Gilgit-Baltistan) with different subsidy amounts and a different portal (pave.gov.pk)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can government teachers and employees apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Government school teachers apply through a separate track using their PESS number via ptf.punjab.gov.pk, and a track for serving government employees has been announced. Both tracks have their own eligibility rules and should be confirmed on the relevant official portal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee to apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Registration is completely free on the official portal. Never pay an agent, and never share your OTP or bank details with anyone claiming to speed up selection."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/cm-punjab-electric-bike-scheme#howto",
+      "name": "How to Apply for the CM Punjab Electric Bike Scheme",
+      "description": "Step-by-step procedure to apply for the CM Punjab Electric Bike Scheme at bikes.punjab.gov.pk.",
+      "totalTime": "PT20M",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "PKR",
+        "value": "0"
+      },
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open the official portal",
+          "text": "Go to bikes.punjab.gov.pk — the only legitimate student application portal."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Create your account",
+          "text": "Register with your CNIC number and an active mobile number, then verify the OTP sent by SMS."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Fill the application form",
+          "text": "Enter personal, academic and contact details exactly as they appear on your documents."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Upload documents and choose bike",
+          "text": "Upload the required documents and select your bike option from the official catalogue."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Submit and save your Application ID",
+          "text": "Review, submit, and note the Application ID for tracking your status and balloting result."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/cm-punjab-electric-bike-scheme#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Punjab Government Schemes",
+          "item": "https://example.com/punjab-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab Electric Bike Scheme 2026",
+          "item": "https://example.com/cm-punjab-electric-bike-scheme"
+        }
+      ]
+    }
+  ]
+}

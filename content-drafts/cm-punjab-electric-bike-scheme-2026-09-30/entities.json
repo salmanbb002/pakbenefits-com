@@ -1,0 +1,392 @@
+[
+  {
+    "canonical": "CM Punjab E-Bike Scheme",
+    "type": "Program",
+    "aliases": ["CM Punjab Electric Bike Scheme", "CM Punjab's Green Initiative E-Bikes Scheme", "Maryam Nawaz Electric Bike Scheme", "وزیراعلیٰ پنجاب الیکٹرک بائیک اسکیم"],
+    "sameAs": "https://bikes.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Chief Minister Maryam Nawaz", "CM Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Bank of Punjab (BOP)",
+    "type": "Organization",
+    "aliases": ["Bank of Punjab", "BOP", "financing partner"],
+    "sameAs": "https://www.bop.com.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Information Technology Board (PITB)",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB", "e-balloting authority"],
+    "sameAs": "https://pitb.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Transport & Mass Transit Department",
+    "type": "GovernmentOrganization",
+    "aliases": ["Transport Department Punjab", "Masstransit Department"],
+    "sameAs": "https://transport.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs 90,000 Capital Subsidy",
+    "type": "Money",
+    "aliases": ["PKR 90,000", "Rs. 90,000 subsidy", "90,000 government subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "PKR 199,000 E-Bike Price",
+    "type": "Money",
+    "aliases": ["Rs 199,000", "PKR 199,000/-", "price of the e-bike"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "100,000 Electric Scooties",
+    "type": "Metric",
+    "aliases": ["100,000 e-bikes", "100,000 electric bikes", "one lakh scooties"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs 3,000 Monthly Installment (3 Years)",
+    "type": "Money",
+    "aliases": ["~Rs 3,000/month", "three-year financing", "3 years installments"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "bikes.punjab.gov.pk",
+    "type": "Product",
+    "aliases": ["official portal", "CM Punjab E-Bike portal", "students portal"],
+    "sameAs": "https://bikes.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Students (Beneficiaries)",
+    "type": "Person",
+    "aliases": ["bonafide students", "student applicants", "male and female students"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "0% Interest / Interest-Free Financing",
+    "type": "Concept",
+    "aliases": ["zero markup", "no interest", "0% markup"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "No Down Payment",
+    "type": "Concept",
+    "aliases": ["zero down payment", "no downpayment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Minimum Age 16 Years",
+    "type": "Metric",
+    "aliases": ["16 years old", "minimum student age"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Guarantor (Parent / Legal Guardian)",
+    "type": "Person",
+    "aliases": ["guarantor", "parent or guardian"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "PKR 40,000 Minimum Income",
+    "type": "Money",
+    "aliases": ["guarantor income", "minimum monthly income", "Rs 40,000"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "CNIC / B-Form / CRC",
+    "type": "Document",
+    "aliases": ["valid identification", "CNIC", "B-Form", "Child Registration Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Driving License / Learner's Permit / Juvenile Permit",
+    "type": "Document",
+    "aliases": ["valid driving document", "motorcycle learner's permit"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Public & Private Educational Institutions",
+    "type": "Concept",
+    "aliases": ["public or private institution", "registered institute"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Latest Paid Fee Slip",
+    "type": "Document",
+    "aliases": ["fee slip", "paid fee slip"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Free Helmet & Safety Rods",
+    "type": "Product",
+    "aliases": ["helmet", "safety rods"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Insurance, Registration & Token Tax (GoPb)",
+    "type": "Concept",
+    "aliases": ["GoPb bears costs", "government pays insurance"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Phase 1 (5 Cities, 20,000 Bikes)",
+    "type": "Event",
+    "aliases": ["first phase", "pilot phase", "initial rollout"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Phase 2 (All 36 Districts)",
+    "type": "Event",
+    "aliases": ["Phase 2", "second phase", "2026 expansion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Female Students (Scooty Quota)",
+    "type": "Person",
+    "aliases": ["female scooty quota", "women's mobility"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Teachers (PTF Portal)",
+    "type": "Person",
+    "aliases": ["government teachers", "PESS number", "ptf.punjab.gov.pk"],
+    "sameAs": "https://ptf.punjab.gov.pk/",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Government Employees Track",
+    "type": "Person",
+    "aliases": ["government employees", "serving employees"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "PAVE (Federal EV Scheme)",
+    "type": "Program",
+    "aliases": ["Prime Minister E-Bike Scheme", "Pakistan Accelerated Vehicle Electrification", "pave.gov.pk"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Electric Scooty Technical Specs",
+    "type": "Product",
+    "aliases": ["72V 30Ah battery", "1000W motor", "LiFePO4", "50–55 km/h", "BLDC hub motor"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Helpline 042-99212260",
+    "type": "Process",
+    "aliases": ["helpline number", "support@bikes.punjab.gov.pk"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Last Date to Apply (October 4, 2026)",
+    "type": "Date",
+    "aliases": ["application deadline", "Oct 4 2026"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Computerized E-Balloting",
+    "type": "Process",
+    "aliases": ["e-balloting", "balloting", "computerized draw"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Application ID",
+    "type": "Process",
+    "aliases": ["application tracking number", "tracking code"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Sahulat Center (Juvenile License)",
+    "type": "Place",
+    "aliases": ["nearest Sahulat Center"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Federally Chartered Institutes Exclusion",
+    "type": "Concept",
+    "aliases": ["federal institutes not eligible"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Scooty Colours (Midnight Black / Sakura Pink)",
+    "type": "Product",
+    "aliases": ["Midnight Black", "Sakura Pink"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Earlier Figures (Rs 70,000 / Rs 14,000 / Rs 2,100)",
+    "type": "Money",
+    "aliases": ["July 2026 package", "Rs 70,000 subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "PAVE AJK & Gilgit-Baltistan Coverage",
+    "type": "Place",
+    "aliases": ["AJK", "Gilgit-Baltistan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "E-Bike Catalogue Brands (OKLA / Jolta / Vlektra / Yadea)",
+    "type": "Product",
+    "aliases": ["OKLA Electric", "Jolta", "Vlektra", "Yadea"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  }
+]
