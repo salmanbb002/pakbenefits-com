@@ -1,0 +1,392 @@
+[
+  {
+    "canonical": "PM Fuel Relief Scheme",
+    "type": "GovernmentProgram",
+    "aliases": ["Federal Fuel Relief Scheme", "PM's fuel relief", "Prime Minister's Fuel Relief Scheme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs 100 Per Litre Petrol Discount",
+    "type": "Money",
+    "aliases": ["Rs 100/litre", "Rs100-a-litre", "per-litre subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Fuel Subsidy",
+    "type": "GovernmentProgram",
+    "aliases": ["Punjab biker subsidy", "Sasta Petrol", "Punjab Rs 100 petrol subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Sindh Fuel Subsidy",
+    "type": "GovernmentProgram",
+    "aliases": ["Sindh Rs 2,000 subsidy", "Sindh motorcycle fuel subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "KPK Fuel Subsidy",
+    "type": "GovernmentProgram",
+    "aliases": ["KP fuel subsidy", "KPK Rs 2,000 subsidy", "KP fuel support program"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Free Public Transport",
+    "type": "Concept",
+    "aliases": ["free transit", "free Metro", "free buses", "fare waiver"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "CM Punjab Electric Bike Scheme",
+    "type": "GovernmentProgram",
+    "aliases": ["CM Punjab E-Bike Scheme", "Punjab Electric Bike Scheme"],
+    "sameAs": "https://bikes.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "PM PAVE",
+    "type": "GovernmentProgram",
+    "aliases": ["Pakistan Accelerated Vehicle Electrification", "Prime Minister E-Bike Scheme", "PAVE"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Chief Minister Maryam Nawaz", "CM Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Shehbaz Sharif",
+    "type": "Person",
+    "aliases": ["Prime Minister Shehbaz Sharif", "PM Shehbaz"],
+    "sameAs": "https://en.wikipedia.org/wiki/Shehbaz_Sharif",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Petrol Price (Rs 458/Litre)",
+    "type": "Money",
+    "aliases": ["petrol price surge", "fuel price hike", "Rs 458"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "800cc Cars",
+    "type": "Concept",
+    "aliases": ["small cars", "800cc vehicles", "cars up to 800cc"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "20L / 30L Monthly Quota",
+    "type": "Metric",
+    "aliases": ["20 litres for bikes", "30 litres for cars", "monthly fuel cap"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Short Code 9771",
+    "type": "Process",
+    "aliases": ["SMS to 9771", "registration SMS code"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 100,000 Petrol-to-Electric Conversion Reward",
+    "type": "Money",
+    "aliases": ["EV conversion reward", "convert petrol bike to electric"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "PKR 199,000 E-Bike Price",
+    "type": "Money",
+    "aliases": ["Rs 199,000", "electric scooty price"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 90,000 Capital Subsidy",
+    "type": "Money",
+    "aliases": ["Rs 90,000 subsidy", "government subsidy on e-bike"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 3,000 Monthly Installment",
+    "type": "Money",
+    "aliases": ["~Rs 3,000/month", "3-year installments"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "bikes.punjab.gov.pk",
+    "type": "Product",
+    "aliases": ["CM Punjab E-Bike portal", "official e-bike portal"],
+    "sameAs": "https://bikes.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "pave.gov.pk",
+    "type": "Product",
+    "aliases": ["PAVE portal", "federal e-bike portal"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "100,000 Electric Scooties",
+    "type": "Metric",
+    "aliases": ["100,000 e-bikes", "Phase 2 allocation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 75 Billion Federal Budget",
+    "type": "Money",
+    "aliases": ["Rs75bn fuel relief", "federal scheme cost"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 30 Billion Monthly Cost",
+    "type": "Money",
+    "aliases": ["Rs30b a month", "monthly subsidy cost"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 1.2 Billion / 32,000 Beneficiaries",
+    "type": "Metric",
+    "aliases": ["first tranche", "32,000 beneficiaries", "digital disbursement"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 124 Billion Sasta Petrol Package",
+    "type": "Money",
+    "aliases": ["Sasta Petrol package", "Punjab relief package"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 24 Billion Punjab Subsidy Funding",
+    "type": "Money",
+    "aliases": ["Rs24 billion", "Punjab fuel subsidy funding"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 35 Billion Sindh Relief Package",
+    "type": "Money",
+    "aliases": ["Sindh Rs35 billion", "Sindh relief package"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "1 Million Bikers (KPK)",
+    "type": "Metric",
+    "aliases": ["1 million+ bikers", "KPK coverage"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "PAVE Subsidy (Rs 50,000 / Rs 80,000)",
+    "type": "Money",
+    "aliases": ["Rs 50,000 bank leasing", "Rs 80,000 self-finance"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Last Date to Apply (October 4, 2026)",
+    "type": "Date",
+    "aliases": ["Phase 2 deadline", "Oct 4 2026"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Ishaq Dar",
+    "type": "Person",
+    "aliases": ["Finance Minister Ishaq Dar", "Deputy PM Dar"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ishaq_Dar",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "20-Year-Old Motorcycles & Rickshaws",
+    "type": "Concept",
+    "aliases": ["20-year-old bikes", "old vehicle inclusion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "8,500 Petrol Stations",
+    "type": "Metric",
+    "aliases": ["reimbursed petrol stations", "participating pumps"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "5 Million Registered",
+    "type": "Metric",
+    "aliases": ["5m registered", "registration count"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Ride-Hailing Tax Cut (Sindh)",
+    "type": "Concept",
+    "aliases": ["tax reduction on ride-hailing", "ride-hailing relief"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Islamabad Free Transport",
+    "type": "Concept",
+    "aliases": ["Islamabad free Metro", "ICT free buses"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Balochistan Electric Bike Scheme",
+    "type": "GovernmentProgram",
+    "aliases": ["Balochistan e-bike scheme", "Balochistan subsidised e-bike"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Motorcycle Registration & Transfer Fees Removal (Punjab)",
+    "type": "Concept",
+    "aliases": ["Punjab ends bike registration fees"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Diesel Subsidy for Farmers & Commercial Vehicles",
+    "type": "GovernmentProgram",
+    "aliases": ["farmers diesel subsidy", "commercial vehicle fuel subsidy (KP)"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  }
+]

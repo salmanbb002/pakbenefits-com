@@ -1,0 +1,261 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/transport-fuel-relief-options#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/transport-fuel-relief-options"
+      },
+      "headline": "Quick Comparison of Transport & Fuel Relief Options in Pakistan (2026)",
+      "description": "Compare Pakistan's 2026 transport and fuel relief: the PM's Rs 100/litre petrol discount, Punjab, Sindh and KPK biker subsidies, free public transport and electric bike schemes.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://example.com/transport-fuel-relief-options",
+      "datePublished": "2026-09-13T08:00:00+05:00",
+      "dateModified": "2026-09-30T18:40:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Government Schemes & Mobility Policy Analyst",
+        "description": "Specialist in Pakistani government schemes, electric-mobility initiatives and fuel-price policy.",
+        "url": "TODO: replace with real author page URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: replace with site publisher name",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: replace with logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "PM Fuel Relief Scheme",
+          "alternateName": "Prime Minister's Fuel Relief Scheme"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "CM Punjab Electric Bike Scheme",
+          "alternateName": "CM Punjab E-Bike Scheme",
+          "sameAs": "https://bikes.punjab.gov.pk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "jobTitle": "Chief Minister of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Pakistan Accelerated Vehicle Electrification (PAVE)",
+          "sameAs": "https://pave.gov.pk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Shehbaz Sharif",
+          "jobTitle": "Prime Minister of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/Shehbaz_Sharif"
+        },
+        {
+          "@type": "Person",
+          "name": "Ishaq Dar",
+          "jobTitle": "Finance Minister of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/Ishaq_Dar"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Sindh Motorcycle Fuel Subsidy"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "KPK Fuel Subsidy for Bikers and Rickshaw Owners"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "p:first-of-type"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/transport-fuel-relief-options#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Pakistan's transport and fuel relief for 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pakistan's 2026 relief combines a federal Rs 100-per-litre petrol discount for bikes, rickshaws and 800cc cars, monthly cash subsidies in Sindh and KPK (Rs 2,000), free public transport in Punjab and Islamabad, and electric bike schemes such as the CM Punjab E-Bike Scheme and PM PAVE."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much petrol discount does the PM Fuel Relief Scheme give?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The PM Fuel Relief Scheme gives Rs 100 off every litre of petrol, capped at 20 litres per month for bikes and 30 litres per month for 800cc cars. It was announced on 13 September 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I have to pay to register for the fuel relief scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Registration is free. The government scrapped the earlier SMS charge, and the official channel is SMS to short code 9771 or the designated portal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Rs 100/litre fuel subsidy permanent?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Finance Minister Ishaq Dar has signalled the fuel subsidy is temporary and could be discontinued once prices stabilise. As of late September 2026 it is live, but the rate should be treated as volatile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between Punjab's and the federal Rs 100/litre subsidy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both discount petrol by Rs 100 per litre, but the federal scheme is run by the Petroleum Division for bikes, rickshaws and 800cc cars nationwide, while Punjab's subsidy is a provincial program for registered motorbike owners. They are separate registrations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do Sindh and KPK's fuel subsidies differ from Punjab's?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sindh and KPK pay a fixed Rs 2,000 monthly cash subsidy to motorcyclists (KPK also covers rickshaw owners), whereas Punjab discounts petrol by Rs 100 per litre at the pump. The monthly amount is fixed and does not change with how much fuel you buy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who qualifies for the CM Punjab Electric Bike Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students aged 16 or above enrolled in a recognised public or private institution qualify, subject to a guarantor with a minimum monthly income of PKR 40,000. The e-bike is priced at PKR 199,000 with a Rs 90,000 subsidy and ~Rs 3,000 monthly installments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the Rs 100,000 petrol-to-electric conversion reward?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Punjab offers a Rs 100,000 grant to petrol-bike owners who convert their motorcycle to electric. It is a one-time reward designed to remove petrol consumption rather than subsidise it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is free public transport still available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Free public transport was announced in Punjab and Islamabad in April 2026 in response to a fuel-price hike. The Islamabad waiver was reported for an initial one-month period, so confirm whether it is still active with the relevant authority before relying on it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply for more than one relief scheme at the same time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Being approved for one scheme does not automatically register you for another. If you qualify for multiple options, apply to each through its own official channel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I avoid fuel-relief scams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Register only through official .gov.pk portals and the short code 9771. Registration is free, discounts are applied at the pump, and you should never pay an agent, share an OTP, or send money to any wallet to claim relief."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/transport-fuel-relief-options#howto",
+      "name": "How to Apply for Pakistan's Transport & Fuel Relief Options",
+      "description": "Official registration routes for each fuel and transport relief option.",
+      "totalTime": "PT20M",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "PKR",
+        "value": "0"
+      },
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Register for the PM Fuel Relief Scheme",
+          "text": "Send your CNIC and vehicle details to short code 9771, or register on the Petroleum Division's designated portal."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Register for the Punjab biker subsidy",
+          "text": "Register your motorbike on the official Punjab portal announced alongside the Sasta Petrol package."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Apply for the Punjab EV conversion reward",
+          "text": "Apply through the Punjab government portal after converting your petrol bike to electric to claim Rs 100,000."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Register for the Sindh fuel subsidy",
+          "text": "Register on the Sindh government's online portal using your CNIC and motorcycle registration."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Register for the KPK fuel subsidy",
+          "text": "Register through the official KPK channel for bikers and rickshaw owners."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Apply for the CM Punjab E-Bike Scheme",
+          "text": "Apply at bikes.punjab.gov.pk before October 4, 2026 (students only)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "name": "Apply for PM PAVE",
+          "text": "Apply at pave.gov.pk for the federal electric vehicle subsidy."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/transport-fuel-relief-options#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Government Schemes",
+          "item": "https://example.com/government-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Transport & Fuel Relief Options 2026",
+          "item": "https://example.com/transport-fuel-relief-options"
+        }
+      ]
+    }
+  ]
+}
