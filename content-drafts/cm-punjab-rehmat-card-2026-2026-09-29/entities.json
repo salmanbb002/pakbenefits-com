@@ -1,0 +1,242 @@
+[
+  {
+    "canonical": "CM Punjab Rehmat Card",
+    "type": "Program",
+    "aliases": ["CM Punjab Rahmat Card", "Maryam Nawaz Rehmat Card", "وزیراعلیٰ رحمت کارڈ"],
+    "sameAs": "https://zakat.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["CM Punjab", "Chief Minister Maryam Nawaz"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Zakat & Ushr Department",
+    "type": "GovernmentOrganization",
+    "aliases": ["Zakat Department Punjab", "Provincial Zakat Administration"],
+    "sameAs": "https://zakat.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs 100,000 Financial Grant",
+    "type": "Money",
+    "aliases": ["PKR 100,000", "1 Lakh Rupee aid", "100,000 grant"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Muslim Widows",
+    "type": "Person",
+    "aliases": ["Needy widows", "Deserving widows", "بیوہ خواتین"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Parentless Orphans",
+    "type": "Person",
+    "aliases": ["Double-parent orphans", "Orphan children", "یتیم بچے"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Punjab Socio-Economic Registry (PSER)",
+    "type": "Program",
+    "aliases": ["PSER portal", "pser.punjab.gov.pk", "Punjab Socio Economic Registry"],
+    "sameAs": "https://pser.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "NADRA CNIC & B-Form",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA", "Computerized National Identity Card", "B-Form registration"],
+    "sameAs": "https://en.wikipedia.org/wiki/NADRA",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "rahmatcard.punjab.gov.pk",
+    "type": "Product",
+    "aliases": ["Rahmat Card web portal", "CM Rehmat Card online portal"],
+    "sameAs": "https://rahmatcard.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Helpline 1077",
+    "type": "Process",
+    "aliases": ["1077 toll free", "PITB helpline 1077", "Punjab Government 1077"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "District Zakat Committee",
+    "type": "GovernmentOrganization",
+    "aliases": ["Local Zakat Office", "District Zakat Committee Office", "DZC"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "JazzCash Mobile Wallet",
+    "type": "Product",
+    "aliases": ["JazzCash", "Digital wallet", "Branchless banking"],
+    "sameAs": "https://en.wikipedia.org/wiki/JazzCash",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Proxy Means Test (PMT)",
+    "type": "Metric",
+    "aliases": ["PMT score", "Poverty score benchmark"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Sahib-e-Nisab Disqualification",
+    "type": "Concept",
+    "aliases": ["Sahib-e-Nisab", "Zakat non-eligibility"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Beggary Prohibition Clause",
+    "type": "Law",
+    "aliases": ["Beggary clause", "Habitual beggar exclusion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Phase 1 Pause (September 18, 2026)",
+    "type": "Event",
+    "aliases": ["Payment freeze", "Phase 1 conclusion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Phase 2 Rollout 2026",
+    "type": "Event",
+    "aliases": ["Second phase", "Upcoming registration cycle"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Verification Timeline (4–8 Weeks)",
+    "type": "Metric",
+    "aliases": ["Processing duration", "Scrutiny period"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rejection Appeals Mechanism",
+    "type": "Process",
+    "aliases": ["Grievance redressal", "District appeal filing"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 5 Billion Budget Allocation",
+    "type": "Money",
+    "aliases": ["PKR 5 Billion fund", "50,000 families budget"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "CM Himmat Card Scheme",
+    "type": "Program",
+    "aliases": ["Himmat Card", "Disabled stipend program"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "PITB Android Mobile Application",
+    "type": "Product",
+    "aliases": ["CM Punjab Rahmat Card App", "Google Play Store app"],
+    "sameAs": "https://pitb.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "NADRA Juvenile Card",
+    "type": "Document",
+    "aliases": ["Juvenile Card", "Child identity card"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Unearned Income Threshold",
+    "type": "Concept",
+    "aliases": ["Means assessment", "Financial self-reliance criteria"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  }
+]
