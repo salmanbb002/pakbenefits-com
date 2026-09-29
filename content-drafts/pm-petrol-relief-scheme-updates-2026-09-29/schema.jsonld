@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/blog/pm-petrol-relief-scheme-updates#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://example.com/#website",
+        "name": "TODO: Your Website Name",
+        "url": "https://example.com/"
+      },
+      "headline": "PM Petrol Relief Scheme Updates: Registration, Quotas, and 9771 SMS Guide",
+      "description": "Get verified PM Petrol Relief Scheme updates. Learn how to claim the Rs 100/litre subsidy via 9771 SMS, verify vehicle eligibility, and redeem pump tokens.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://example.com/blog/pm-petrol-relief-scheme-updates",
+      "datePublished": "2026-09-29T15:00:00+05:00",
+      "dateModified": "2026-09-29T15:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "https://example.com/author/TODO-author-slug"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Organization Name",
+        "url": "https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block", "h1"]
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Prime Minister's Fuel Relief Scheme",
+          "serviceType": "Fuel Price Subsidy",
+          "provider": {
+            "@type": "GovernmentOrganization",
+            "name": "Ministry of Energy (Petroleum Division)",
+            "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Energy_(Pakistan)"
+          }
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Government of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/Government_of_Pakistan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority (NADRA)",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "CentralBank",
+          "name": "State Bank of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        },
+        {
+          "@type": "Product",
+          "name": "Motorcycle",
+          "sameAs": "https://en.wikipedia.org/wiki/Motorcycle"
+        },
+        {
+          "@type": "Product",
+          "name": "Auto Rickshaw",
+          "sameAs": "https://en.wikipedia.org/wiki/Auto_rickshaw"
+        },
+        {
+          "@type": "Product",
+          "name": "Suzuki Mehran",
+          "sameAs": "https://en.wikipedia.org/wiki/Suzuki_Mehran"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/blog/pm-petrol-relief-scheme-updates#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Welfare & Subsidies",
+          "item": "https://example.com/welfare/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PM Petrol Relief Scheme Updates",
+          "item": "https://example.com/blog/pm-petrol-relief-scheme-updates"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/blog/pm-petrol-relief-scheme-updates#howto",
+      "name": "How to Register and Redeem Petrol Subsidy via 9771 SMS",
+      "description": "Step-by-step procedure to register your vehicle for the PM Fuel Relief Scheme and generate pump discount tokens.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Verify SIM and Vehicle Ownership",
+          "text": "Ensure your mobile SIM card is biometrically registered under your own CNIC, and your vehicle is registered under the same CNIC with the Provincial Excise Department."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Send Registration SMS to 9771",
+          "text": "Send a free SMS to 9771 in the exact format: REG [CNIC] [Vehicle Plate Number] [Province Code] [Registration Date DDMMYYYY]."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive Approval Confirmation",
+          "text": "Wait for automated validation between NADRA and Provincial Excise to receive an official SMS confirming your registration."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Generate a Fuel Token via TOK SMS",
+          "text": "Prior to refuelling at a petrol pump, text TOK to 9771 to receive a time-sensitive 6-digit numeric discount token."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Redeem Rs 100/Litre Discount at Pump",
+          "text": "Present the token SMS to the fuel attendant, who enters the code into the Fuel Pass POS terminal to deduct Rs 100 per litre from your fuel bill."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/blog/pm-petrol-relief-scheme-updates#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much discount is provided under the PM Petrol Relief Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The scheme provides a flat discount of Rs 100 per litre on petrol at authorized filling stations. Beneficiaries receive this reduction at the pump upon presenting an active numeric fuel token generated via shortcode 9771."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which vehicles are eligible for the PM fuel subsidy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Motorcycles, auto-rickshaws, Qingqis, and small cars with engine displacement up to 800cc qualify for the subsidy. All qualifying vehicles must have been registered on or after January 1, 2006, under the applicant's own CNIC."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the exact SMS format to register for the scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To register, send an SMS to 9771 formatted as REG [CNIC] [Vehicle Plate Number] [Province Code] [Registration Date DDMMYYYY]. Ensure spaces separate each component and do not use hyphens or slashes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many litres of subsidised petrol can I purchase each month?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Motorcycle and rickshaw owners can purchase up to 20 litres per month, while 800cc passenger car owners receive up to 30 litres per month. The quota is distributed through periodic tokens across the calendar month."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I generate a fuel discount token when visiting a pump?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Send an SMS containing the text TOK to shortcode 9771 from your registered mobile number. The automated system will respond with a 6-digit numeric token valid for 24 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I register if the vehicle is in my father's or brother's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the vehicle must be legally registered in your own name with the Provincial Excise Department. The automated verification system cross-references your CNIC with excise registration records and rejects non-matching entries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does sending an SMS to 9771 cost any mobile balance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sending registration and token requests to shortcode 9771 is completely free of charge. Cellular network operators have eliminated messaging tariffs for this service under federal directives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if a petrol pump attendant refuses to accept my token?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Report the refusal immediately by dialling the official complaint control room at 9772. State the pump's name, oil marketing company brand, geographic location, and your active token number for investigation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can 1000cc cars like Suzuki Cultus or Wagon R qualify for this subsidy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, passenger cars with engine displacement above 800cc are excluded from the scheme. Only cars with engine displacement up to 800cc, such as the Suzuki Mehran or 660cc kei cars, qualify."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the deadline to register for the PM Petrol Relief Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Registration remains continuously open through shortcode 9771 as the program operates nationwide. Federal authorities have financed the scheme for an initial quarter with provisions to extend relief for up to 10 months."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does unused subsidised petrol volume roll over to the next month?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Unused monthly fuel allowances do not roll over to subsequent months. Any portion of your 20-litre or 30-litre quota that is not redeemed by the final day of the calendar month expires automatically."
+          }
+        }
+      ]
+    }
+  ]
+}

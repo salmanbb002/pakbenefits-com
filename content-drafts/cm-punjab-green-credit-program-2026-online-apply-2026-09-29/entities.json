@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "Chief Minister Punjab Green Credit Program",
+    "type": "GovernmentService",
+    "aliases": ["CM Punjab Green Credit Scheme", "CMPGCP", "Punjab Green Credit Initiative"],
+    "sameAs": "https://greencredit.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Environment Protection and Climate Change Department",
+    "type": "GovernmentOrganization",
+    "aliases": ["EP&CCD", "EP&CCD Punjab", "Environment Protection Department Punjab"],
+    "sameAs": "https://epd.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Government", "Govt of Punjab"],
+    "sameAs": "https://punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Green Credit Portal",
+    "type": "WebSite",
+    "aliases": ["greencredit.punjab.gov.pk", "Green Credit Web Application"],
+    "sameAs": "https://greencredit.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["CM Maryam Nawaz", "Chief Minister Punjab Maryam Nawaz"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB", "PITB Portal"],
+    "sameAs": "https://pitb.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Environmental Protection Agency",
+    "type": "GovernmentOrganization",
+    "aliases": ["EPA Punjab", "Environmental Protection Agency"],
+    "sameAs": "https://epd.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Measurement Reporting and Verification Framework",
+    "type": "Intangible",
+    "aliases": ["MRV Framework", "MRV Protocol"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Electric Vehicle Conversion Subsidy",
+    "type": "FinancialProduct",
+    "aliases": ["Rs 100,000 EV Cash Prize", "EV Retrofitting Grant", "Petrol to Electric Bike Reward"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "The Bank of Punjab",
+    "type": "FinancialInstitution",
+    "aliases": ["BOP", "BOP E-Wallet"],
+    "sameAs": "https://www.bop.com.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

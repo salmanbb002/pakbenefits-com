@@ -1,0 +1,222 @@
+[
+  {
+    "canonical": "Prime Minister's Fuel Relief Scheme",
+    "type": "GovernmentService",
+    "aliases": ["PM Petrol Relief Scheme", "PM Petrol Subsidy", "PM Fuel Relief Package", "Prime Minister Fuel Pass System"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 100 per litre fuel subsidy",
+    "type": "Money",
+    "aliases": ["Rs 100/litre discount", "Rs 100 petrol relief", "targeted fuel subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "9771 SMS Shortcode",
+    "type": "Process",
+    "aliases": ["9771", "SMS 9771", "9771 registration portal"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA", "NADRA database"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Provincial Excise & Taxation Department",
+    "type": "GovernmentOrganization",
+    "aliases": ["Excise Department", "Excise database", "Motor Vehicle Registration Authority"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Motorcycle",
+    "type": "Product",
+    "aliases": ["Motorbikes", "Two-wheelers", "Bikes"],
+    "sameAs": "https://en.wikipedia.org/wiki/Motorcycle",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Auto-Rickshaw",
+    "type": "Product",
+    "aliases": ["Rickshaws", "Three-wheelers", "Qingqi rickshaws"],
+    "sameAs": "https://en.wikipedia.org/wiki/Auto_rickshaw",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "800cc Passenger Car",
+    "type": "Product",
+    "aliases": ["800cc cars", "Small cars", "Up to 800cc vehicles"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "20 Litres Monthly Quota",
+    "type": "Metric",
+    "aliases": ["20L quota", "20 litres per month", "Four 5-litre tokens"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "30 Litres Monthly Quota",
+    "type": "Metric",
+    "aliases": ["30L quota", "30 litres per month", "Three 10-litre tokens"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "TOK Token Generation Command",
+    "type": "Process",
+    "aliases": ["TOK SMS", "Fuel token request", "TOK to 9771"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "9772 Complaint Shortcode",
+    "type": "Process",
+    "aliases": ["9772 helpline", "9772 control room", "Petroleum complaint helpline"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "CentralBank",
+    "aliases": ["SBP", "Central Bank"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Fuel Pass POS Terminal",
+    "type": "Product",
+    "aliases": ["Fuel Pass System", "Pump POS device", "Digital fuel terminal"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "January 1 2006 Cutoff Date",
+    "type": "Date",
+    "aliases": ["Post-2006 vehicles", "2006 registration rule"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "SIM Ownership Rule",
+    "type": "Concept",
+    "aliases": ["Biometric SIM verification", "Own-name SIM registration"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Government of Pakistan",
+    "type": "GovernmentOrganization",
+    "aliases": ["Federal Government", "Govt of Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Government_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Ministry of Energy (Petroleum Division)",
+    "type": "GovernmentOrganization",
+    "aliases": ["Petroleum Division", "Ministry of Petroleum"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Energy_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Ali Pervaiz Malik",
+    "type": "Person",
+    "aliases": ["Petroleum Minister Ali Pervaiz Malik", "Minister of State for Petroleum"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Ishaq Dar",
+    "type": "Person",
+    "aliases": ["Deputy Prime Minister Ishaq Dar"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ishaq_Dar",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Suzuki Mehran",
+    "type": "Product",
+    "aliases": ["Mehran 800cc", "Pak Suzuki Mehran"],
+    "sameAs": "https://en.wikipedia.org/wiki/Suzuki_Mehran",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "DDMMYYYY Date Syntax",
+    "type": "Process",
+    "aliases": ["Day-Month-Year registration format"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

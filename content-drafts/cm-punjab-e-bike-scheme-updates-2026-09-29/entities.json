@@ -1,0 +1,267 @@
+{
+  "primaryKeyword": "CM Punjab E-Bike Scheme Updates",
+  "generatedDate": "2026-09-29",
+  "headEntities": [
+    {
+      "name": "Chief Minister Youth Initiative: E-Bike Scheme",
+      "aliases": [
+        "CM Punjab E-Bike Scheme",
+        "Maryam Nawaz E-Bike Scheme",
+        "Punjab Student Electric Bike Scheme",
+        "Punjab Green Wheels Initiative"
+      ],
+      "type": "GovernmentService",
+      "sameAs": "https://bikes.punjab.gov.pk/"
+    },
+    {
+      "name": "Maryam Nawaz Sharif",
+      "aliases": [
+        "CM Maryam Nawaz",
+        "Chief Minister Punjab Maryam Nawaz",
+        "Maryam Nawaz"
+      ],
+      "type": "Person",
+      "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+    },
+    {
+      "name": "The Bank of Punjab",
+      "aliases": [
+        "BOP",
+        "Bank of Punjab"
+      ],
+      "type": "FinancialService",
+      "sameAs": "https://www.bop.com.pk/"
+    },
+    {
+      "name": "Punjab Information Technology Board",
+      "aliases": [
+        "PITB"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://pitb.gov.pk/"
+    },
+    {
+      "name": "Transport Department Government of the Punjab",
+      "aliases": [
+        "Punjab Transport Department",
+        "Transport Department Punjab"
+      ],
+      "type": "GovernmentOrganization",
+      "sameAs": "https://transport.punjab.gov.pk/"
+    }
+  ],
+  "tier1Entities": [
+    {
+      "canonical": "Chief Minister Youth Initiative: E-Bike Scheme",
+      "type": "GovernmentService",
+      "aliases": ["CM Punjab E-Bike Scheme", "Punjab E-Bike Scheme"],
+      "sameAs": "https://bikes.punjab.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Maryam Nawaz Sharif",
+      "type": "Person",
+      "aliases": ["CM Maryam Nawaz", "Maryam Nawaz"],
+      "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "The Bank of Punjab",
+      "type": "FinancialService",
+      "aliases": ["BOP", "Bank of Punjab"],
+      "sameAs": "https://www.bop.com.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Punjab Information Technology Board",
+      "type": "GovernmentOrganization",
+      "aliases": ["PITB"],
+      "sameAs": "https://pitb.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Official Portal bikes.punjab.gov.pk",
+      "type": "WebSite",
+      "aliases": ["bikes.punjab.gov.pk", "Punjab E-Bikes Portal"],
+      "sameAs": "https://bikes.punjab.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Rs. 90,000 Capital Subsidy",
+      "type": "Money",
+      "aliases": ["Rs 90k subsidy", "Punjab government subsidy"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Zero Down Payment Waiver",
+      "type": "Concept",
+      "aliases": ["0 down payment", "no advance payment"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Rs. 3,028 Monthly Installment",
+      "type": "Money",
+      "aliases": ["Rs 3000 installment", "monthly repayment Rs 3028"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "100,000 Electric Bikes Phase 2 Quota",
+      "type": "Metric",
+      "aliases": ["1 lakh e-bikes", "100k electric bikes"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "October 4, 2026 Registration Cutoff",
+      "type": "Date",
+      "aliases": ["October 4 deadline", "last date Oct 4 2026"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "DLIMS Motorcycle Driving License / Learner Permit",
+      "type": "Product",
+      "aliases": ["learner permit", "driving license"],
+      "sameAs": "https://dlims.punjab.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    }
+  ],
+  "tier2Entities": [
+    {
+      "canonical": "Automated Electronic Balloting (E-Balloting)",
+      "type": "Process",
+      "aliases": ["e-balloting", "computerized lucky draw"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Debt Burden Ratio (DBR) 40% Cap",
+      "type": "Metric",
+      "aliases": ["DBR limit", "40% debt burden ratio"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Parent / Legal Guardian Guarantor (Co-borrower)",
+      "type": "Role",
+      "aliases": ["guarantor", "co-borrower"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "50% Female Student Allocation & Pink Scooties",
+      "type": "Concept",
+      "aliases": ["female quota", "pink scooty", "women quota"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Complimentary Rider Safety Kit",
+      "type": "Product",
+      "aliases": ["free helmet", "safety rod", "protective guard"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Two-Day Mandatory Traffic Safety Course",
+      "type": "Event",
+      "aliases": ["safety training", "CTO Lahore riding course"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Lithium-ion Battery Pack & Charging Infrastructure",
+      "type": "Product",
+      "aliases": ["EV battery", "lithium battery", "charging unit"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Punjab Smog Mitigation Action Plan",
+      "type": "Event",
+      "aliases": ["anti-smog initiative", "clean air action plan"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "First-Year Takaful & Token Tax Exemption",
+      "type": "FinancialProduct",
+      "aliases": ["free insurance", "token tax waiver"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "ptf.punjab.gov.pk Teacher Quota",
+      "type": "WebSite",
+      "aliases": ["Punjab Teachers Foundation", "PTF portal"],
+      "sameAs": "https://ptf.punjab.gov.pk/",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": false,
+      "tier": 2
+    }
+  ]
+}

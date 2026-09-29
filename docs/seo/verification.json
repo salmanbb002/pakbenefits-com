@@ -1,16 +1,18 @@
 {
-  "checkedAt": "2026-09-24T17:49:44.032Z",
+  "checkedAt": "2026-09-29T10:45:04.661Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 107,
+  "routeCount": 122,
   "failures": [
-    "/8171/: missing image or alt",
-    "/other-schemes/: missing image or alt",
-    "/punjab-schemes/: missing image or alt",
-    "/benazir-nashonuma-program-online-apply-cnic-check/: missing image or alt",
+    "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/: broken internal route /schemes/",
+    "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/: broken internal route /schemes/",
+    "/bisp-biometric-verification-failed-fingerprint-solution/: broken internal route /kafaalat/",
+    "/bisp-biometric-verification-failed-fingerprint-solution/: broken internal route /kafaalat/",
+    "/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/: broken internal route /tehsil-offices/",
+    "/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/: broken internal route /tehsil-offices/",
+    "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/: broken internal route /housing-schemes/",
+    "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/: broken internal route /housing-schemes/",
     "/benazir-nashonuma-program-online-apply-cnic-check/: broken internal route /bisp-schemes/",
     "/benazir-nashonuma-program-online-apply-cnic-check/: broken internal route /bisp-schemes/",
-    "/cm-punjab-free-laptop-scheme-2026-online-apply/: missing image or alt",
-    "/sindh-hari-card-scheme-2026-online-apply-eligibility/: missing image or alt",
     "/sindh-hari-card-scheme-2026-online-apply-eligibility/: broken internal route /sindh-schemes/",
     "/sindh-hari-card-scheme-2026-online-apply-eligibility/: broken internal route /sindh-schemes/",
     "/bisp-direct-bank-account-transfer-online-registration/: broken internal route /bisp-guides/",
@@ -18,7 +20,8 @@
     "/bisp-tehsil-office-faisalabad-addresses-guide/: broken internal route /bisp-guides/",
     "/bisp-tehsil-office-faisalabad-addresses-guide/: broken internal route /bisp-guides/",
     "/bisp-tehsil-office-multan-addresses-guide/: broken internal route /bisp-guides/",
-    "/bisp-tehsil-office-multan-addresses-guide/: broken internal route /bisp-guides/"
+    "/bisp-tehsil-office-multan-addresses-guide/: broken internal route /bisp-guides/",
+    "/pm-petrol-relief-scheme-updates-2026/: broken internal route /pave-scheme-2026-eligibility-electric-bike-subsidy/"
   ],
   "pending": [],
   "pages": [
@@ -161,6 +164,122 @@
         "WebSite",
         "BreadcrumbList",
         "CollectionPage",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-youth-games-2026-online-registration/",
+      "title": "CM Punjab Youth Games 2026: Online Registration & Sports List | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 158,
+      "editorialWords": 2055,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-green-credit-program-2026-online-apply/",
+      "title": "CM Punjab Green Credit Program 2026: Online Apply & Rewards | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 172,
+      "editorialWords": 1725,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/apni-zameen-apna-ghar-balloting-result-2026/",
+      "title": "Apni Zameen Apna Ghar Balloting Result 2026: CNIC Check Online | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 153,
+      "editorialWords": 1200,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/",
+      "title": "Pink Scooty Scheme 2026: Registration, Eligibility & Balloting | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 150,
+      "editorialWords": 1283,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/bisp-biometric-verification-failed-fingerprint-solution/",
+      "title": "BISP Biometric Verification Failed Fingerprint Solution & Form B Guide | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 166,
+      "editorialWords": 993,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/",
+      "title": "Verified BISP Tehsil Offices KPK & Peshawar List, Addresses & Helpline | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 150,
+      "editorialWords": 821,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/",
+      "title": "Apni Chhat Apna Ghar Loan Instant Qist Tracking & Approval List | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 142,
+      "editorialWords": 945,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-balochistan-youth-skills-scheme-2026-online-apply/",
+      "title": "CM Balochistan Youth Skills Scheme 2026 Online Apply & BTEVTA Registration | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 174,
+      "editorialWords": 1458,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/",
+      "title": "Fake 8171 SMS Check & Complaint Guide: PTA 9000 & BISP Helpline Alert | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 166,
+      "editorialWords": 1567,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
         "FAQPage"
       ]
     },
@@ -1307,6 +1426,84 @@
       "title": "BISP Tehsil Office Multan Directory: Addresses & Metro Guide 2026 | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 177,
       "editorialWords": 1298,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-taleemi-wazaif-70-attendance-rule-verification/",
+      "title": "BISP Taleemi Wazaif 70 Attendance Rule Verification Guide (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 153,
+      "editorialWords": 820,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/benazir-mazdoor-card-registration-online-2026/",
+      "title": "Benazir Mazdoor Card Registration Online 2026 (Sindh SESSI Guide) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 169,
+      "editorialWords": 659,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-deceased-beneficiary-payment-transfer-procedure/",
+      "title": "BISP Deceased Beneficiary Payment Transfer Procedure Guide (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 166,
+      "editorialWords": 642,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/bisp-taleemi-wazaif-stipend-rates-2026/",
+      "title": "BISP Taleemi Wazaif 2026: Complete Class Rates | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 158,
+      "editorialWords": 1042,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/ehsaas-kafalat-invalid-cnic-nser-update/",
+      "title": "Fix BISP Invalid CNIC & NSER Marriage Status | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 148,
+      "editorialWords": 822,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/pm-petrol-relief-scheme-updates-2026/",
+      "title": "PM Petrol Relief Scheme Updates 2026: 9771 Quotas & Rules | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 155,
+      "editorialWords": 1748,
       "schemaTypes": [
         "Organization",
         "WebSite",

@@ -1,0 +1,254 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/"
+      },
+      "headline": "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal, Balloting Results & BOP Installment Plan",
+      "description": "Verified CM Punjab E-Bike Scheme updates: Phase 2 deadline (Oct 4, 2026), bikes.punjab.gov.pk login, BOP 0% markup installment, and balloting lists.",
+      "url": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/",
+      "datePublished": "2026-09-29T15:30:00+05:00",
+      "dateModified": "2026-09-29T15:30:00+05:00",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Lead Welfare Schemes Analyst",
+        "url": "https://pakbenefits.com/author/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/assets/logo.png"
+        }
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "article > p:first-of-type",
+          "article > blockquote"
+        ]
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Youth Initiative: E-Bike Scheme",
+          "alternateName": "CM Punjab E-Bike Scheme Phase 2",
+          "sameAs": "https://bikes.punjab.gov.pk/"
+        },
+        {
+          "@type": "FinancialService",
+          "name": "The Bank of Punjab",
+          "alternateName": "BOP",
+          "sameAs": "https://www.bop.com.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "alternateName": "PITB",
+          "sameAs": "https://pitb.gov.pk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "jobTitle": "Chief Minister of Punjab",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Transport Department Government of the Punjab",
+          "sameAs": "https://transport.punjab.gov.pk/"
+        },
+        {
+          "@type": "Product",
+          "name": "DLIMS Motorcycle Driving License / Learner Permit",
+          "sameAs": "https://dlims.punjab.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Youth & Transport Schemes",
+          "item": "https://pakbenefits.com/category/schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab E-Bike Scheme Updates 2026",
+          "item": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/#howto",
+      "name": "How to Apply Online for CM Punjab E-Bike Scheme Phase 2 at bikes.punjab.gov.pk",
+      "description": "Step-by-step official instructions for enrolled college and university students to register for the CM Punjab E-Bike Scheme Phase 2 online portal.",
+      "totalTime": "PT15M",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "PKR",
+        "value": "0"
+      },
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Access the Official Portal",
+          "text": "Navigate to the official government portal at https://bikes.punjab.gov.pk."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Create and Verify Account",
+          "text": "Register using your full CNIC number, active mobile number, and verify your account using the 6-digit SMS OTP."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Select Educational Institution",
+          "text": "Choose your accredited public or private university or degree college campus and enter your active student roll number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Choose Vehicle Configuration",
+          "text": "Select the electric bike option and specify whether you prefer a standard electric motorbike or an electric scooty."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Input Driving Credentials",
+          "text": "Enter your active DLIMS motorcycle learner permit number or regular computerized driving license number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Enter Co-Borrower Details",
+          "text": "Provide your parent, guardian, or sibling guarantor details including CNIC, employment classification, and income."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "name": "Upload Documents and Submit",
+          "text": "Upload scans of your CNIC, student ID card, learner driving permit, and co-borrower CNIC, then click Submit Application."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-e-bike-scheme-updates/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official deadline to apply for CM Punjab E-Bike Scheme Phase 2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official deadline for online application submission under Phase 2 is October 4, 2026. All eligible college and university students must complete their digital registrations at bikes.punjab.gov.pk before midnight on this date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much monthly installment do selected students have to pay?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Selected students pay a fixed monthly installment of approximately Rs. 3,028 over a 36-month repayment tenure. Because the Government of the Punjab provides a Rs. 90,000 capital subsidy and absorbs all interest charges, the loan carries 0% markup."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any down payment or advance deposit required?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No down payment is required from students under Phase 2. Chief Minister Maryam Nawaz Sharif has completely waived the initial equity deposit, enabling selected students to receive their electric bikes with zero upfront cash outlay."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can students holding only a motorcycle learner's permit apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students holding a valid motorcycle learner's permit issued by DLIMS Punjab are fully eligible to apply and participate in the electronic ballot. However, candidates must keep their permit active and are encouraged to acquire a full computerized license prior to final vehicle delivery."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check my name in the Punjab E-Bike balloting merit list?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can verify your balloting result by logging into your personalized applicant dashboard at bikes.punjab.gov.pk using your 13-digit CNIC and password. The Punjab Government also publishes official district-wise downloadable PDF merit lists that can be searched using your CNIC number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are petrol motorcycles available in the Phase 2 registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No petrol motorcycles are offered in Phase 2. To combat urban smog and promote clean environmental energy, the Government of the Punjab has made Phase 2 an exclusively electric vehicle program comprising 100,000 e-bikes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who can serve as a guarantor (co-borrower) for The Bank of Punjab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A parent, legal guardian, spouse, or employed sibling can act as a guarantor or co-borrower for the Bank of Punjab financing. The guarantor must possess a valid CNIC, a clean credit history free from active banking defaults, and verifiable monthly household income."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are students from private universities and degree colleges eligible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, regular students enrolled in private universities and private degree colleges recognized by the Higher Education Commission (HEC) and Punjab Higher Education Commission (PHEC) are fully eligible to apply alongside public-sector students."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if an applicant fails the Bank of Punjab verification?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If a selected candidate fails the BOP credit appraisal, provides unverifiable academic documentation, or fails to visit the branch within the designated timeframe, their allocation is cancelled. The vacant seat is then immediately offered to the next candidate on the computerized waiting list."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the Punjab Government cover insurance and vehicle registration costs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the Government of the Punjab covers 100% of the vehicle registration fees, computerized number plate charges, token tax, and the complete first-year comprehensive Takaful insurance premium."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can female students apply for electric scooties instead of standard motorbikes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, female applicants can specifically select electric scooties (scooters) with a step-through frame design on the application portal. The Punjab Government has reserved a dedicated 50% quota for female students to enhance mobility and female higher-education enrollment across the province."
+          }
+        }
+      ]
+    }
+  ]
+}

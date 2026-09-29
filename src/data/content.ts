@@ -1492,6 +1492,793 @@ export const categories: Category[] = [
 
 export const articles: Article[] = [
   {
+    slug: "cm-punjab-e-bike-scheme-updates",
+    title: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal, Balloting Results & BOP Installment Plan",
+    excerpt: "Verified CM Punjab E-Bike Scheme Phase 2 updates: 100,000 electric bikes quota, Rs 90,000 Punjab Govt subsidy, zero down payment waiver, Rs 3,028/month Bank of Punjab installment, bikes.punjab.gov.pk registration steps, and balloting lists.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab E-Bike Scheme Updates 2026: Balloting, BOP Installment & Portal",
+    metaDescription: "Verified CM Punjab E-Bike Scheme updates: Phase 2 deadline (Oct 4, 2026), bikes.punjab.gov.pk login, BOP 0% markup installment, and balloting lists.",
+    focusKeyword: "cm punjab e-bike scheme updates",
+    lsiKeywords: [
+      "cm punjab e bike scheme phase 2 last date",
+      "bikes punjab gov pk online apply portal",
+      "punjab e bike balloting merit list by cnic",
+      "bank of punjab e-bike monthly installment calculation",
+      "punjab electric bike scheme eligibility criteria 2026",
+      "maryam nawaz e bike scheme phase 2 zero down payment"
+    ],
+    entities: [
+      "Chief Minister Youth Initiative: E-Bike Scheme",
+      "Maryam Nawaz Sharif",
+      "The Bank of Punjab",
+      "Punjab Information Technology Board",
+      "bikes.punjab.gov.pk",
+      "Rs. 90,000 Capital Subsidy",
+      "Zero Down Payment",
+      "Rs. 3,028 Monthly Installment",
+      "100,000 Electric Bikes",
+      "October 4, 2026 Registration Cutoff",
+      "DLIMS Motorcycle Driving License"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes"
+    ],
+    date: "September 29, 2026",
+    publishedDate: "September 29, 2026",
+    lastChecked: "September 29, 2026",
+    readTime: "9 min read",
+    image: "/images/cm-punjab-e-bike-scheme-updates.jpg",
+    imageAlt: "CM Punjab E-Bike Scheme Updates 2026 Phase 2 Portal Balloting and BOP Installments",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
+      { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
+      { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
+      { label: "DLIMS License Verification", href: "https://dlims.punjab.gov.pk/" }
+    ],
+    relatedSlugs: [
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "cm-punjab-honhaar-scholarship-program-2026",
+      "cm-punjab-free-laptop-scheme-2026-online-apply",
+      "apni-chhat-apna-ghar-scheme-online-apply-2026-2026-09-21"
+    ],
+    sections: [
+      {
+        title: "What Are the Latest Updates on the CM Punjab E-Bike Scheme Phase 2?",
+        paragraphs: [
+          "Under the latest CM Punjab E-Bike Scheme updates, Phase 2 provides 100,000 electric bikes to college and university students across all 36 Punjab districts. The Punjab Government provides a Rs. 90,000 capital subsidy, waives 100% of the down payment, and sponsors interest-free financing through The Bank of Punjab at Rs. 3,028 monthly over 36 months. Online registration remains open at bikes.punjab.gov.pk until October 4, 2026, followed by computerized electronic balloting.",
+          "Under the direct supervision of Chief Minister Maryam Nawaz Sharif, the provincial cabinet restructured the program's financial mechanics to eliminate student entry barriers. Rather than requiring families to arrange upfront cash deposits during inflationary pressures, the provincial treasury absorbs the complete initial capital outlay, registration levies, number plate charges, and mandatory first-year comprehensive Takaful insurance coverage."
+        ],
+        subsections: [
+          {
+            title: "100,000 Electric Bikes Allocation Across All 36 Punjab Districts",
+            paragraphs: [
+              "The vehicle volume for Phase 2 stands at 100,000 electric bikes distributed across every tehsil and district of Punjab based on accredited student population ratios. Unlike Phase 1, which restricted access to Lahore, Faisalabad, Rawalpindi, Multan, and Bahawalpur, Phase 2 ensures that degree colleges and universities in rural, southern, and western Punjab receive proportionate vehicle quotas.",
+              "District quotas prevent metropolitan centers from consuming the entire provincial vehicle pool. Institutional quotas are subdivided into male and female categories, ensuring equitable regional distribution whether an applicant studies at a major university in Lahore or a postgraduate degree college in Rajanpur, Bhakkar, or Layyah."
+            ]
+          },
+          {
+            title: "Total Down Payment Waiver & Rs. 90,000 Government Capital Subsidy",
+            paragraphs: [
+              "The Government of the Punjab directly disburses a non-repayable capital subsidy of Rs. 90,000 toward the ex-factory retail invoice of every electric motorbike issued under the scheme. Furthermore, the provincial government has completely eliminated the student down payment, meaning selected applicants incur zero upfront acquisition cost prior to vehicle delivery.",
+              "In standard commercial asset financing, electric two-wheelers require a 20% to 30% advance deposit alongside security margin retention. By absorbing both the Rs. 90,000 capital cost and the initial equity margin, the Punjab Government reduces the total financed loan principal to a manageable level that low- and middle-income families can easily amortize."
+            ]
+          }
+        ],
+        links: [
+          { label: "Pink Scooty Scheme 2026: Female Quota & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" },
+          { label: "CM Punjab Honhaar Scholarship Program 2026", href: "/cm-punjab-honhaar-scholarship-program-2026" }
+        ]
+      },
+      {
+        title: "How Does the Bank of Punjab (BOP) Installment Plan Work?",
+        paragraphs: [
+          "The Bank of Punjab (BOP) executes the financing facility as an interest-free, asset-backed soft loan structured over a 36-month (3-year) repayment tenure at 0% markup. The Punjab Government directly compensates BOP for all commercial borrowing markups and administrative processing costs, guaranteeing that students repay only the net principal amount.",
+          "Installment recovery is managed through digital collection channels, automated direct debit mandates linked to student or parent accounts, and over-the-counter payments at any BOP branch across Pakistan. Repayments commence only after the physical handover of the electric motorbike and verification of the official delivery challan."
+        ],
+        table: {
+          caption: "CM Punjab E-Bike Scheme Phase 2 Financing Terms vs. Commercial Market",
+          headers: ["Financial Parameter", "Commercial EV Purchase", "CM Punjab E-Bike Scheme Phase 2", "Student Savings / Benefit"],
+          rows: [
+            ["Upfront Down Payment", "Rs. 40,000 – Rs. 65,000", "Rs. 0 (100% Waived)", "Save up to Rs. 65,000 upfront"],
+            ["Provincial Capital Subsidy", "Rs. 0 (No Government Grant)", "Rs. 90,000 (Direct Grant)", "Direct asset value discount"],
+            ["Financing Markup / Interest", "18% – 24% KIBOR Spread", "0% Markup (Govt Absorbed)", "Save Rs. 45,000+ in interest"],
+            ["Monthly Installment", "Rs. 8,500 – Rs. 12,000", "Rs. 3,028 / month (Fixed)", "Predictable micro-installments"],
+            ["Repayment Tenure", "12 to 24 Months", "36 Months (3 Years)", "Extended flexible schedule"],
+            ["Registration & Token Tax", "Rs. 6,500 – Rs. 9,000", "100% Covered by Punjab Govt", "Free official registration"],
+            ["1st Year Comprehensive Takaful", "Rs. 8,000 – Rs. 14,000", "100% Covered by Punjab Govt", "Free comprehensive insurance"]
+          ]
+        },
+        subsections: [
+          {
+            title: "Guarantor, e-CIB & Debt Burden Ratio (DBR) Requirements",
+            paragraphs: [
+              "To comply with State Bank of Pakistan consumer lending regulations, BOP requires each student applicant to designate an eligible co-borrower or guarantor, typically a parent, legal guardian, spouse, or employed sibling. The co-borrower must possess a valid Computerized National Identity Card (CNIC) and demonstrate sufficient monthly cash flow to support the micro-installment.",
+              "BOP conducts an automated electronic Credit Information Bureau (e-CIB) inquiry to ensure the co-borrower is not an active financial defaulter on existing banking facilities. Under SBP guidelines, the co-borrower's combined Debt Burden Ratio (DBR) must not exceed 40% of their verifiable net household income, ensuring that family debt servicing remains sustainable throughout the 3-year term."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the Punjab E-Bike Scheme Phase 2?",
+        paragraphs: [
+          "Eligibility for the CM Punjab E-Bike Scheme Phase 2 requires applicants to be regular, enrolled students at an HEC-recognized degree college or university located within the territorial jurisdiction of Punjab. Applicants must hold a verified Punjab domicile certificate or Punjab-addressed CNIC and meet statutory transport licensing requirements.",
+          "The scheme excludes private candidates, distance-learning students, and casual diploma enrollees to ensure that publicly subsidized vehicles directly alleviate daily inter-city and intra-city academic transit burdens."
+        ],
+        subsections: [
+          {
+            title: "Academic Criteria for Regular College and University Students",
+            paragraphs: [
+              "Applicants must be enrolled in full-time morning or evening degree programs, including intermediate (in select recognized public colleges), undergraduate (BS, BA, BSc), postgraduate (MS, MPhil, MSc), or doctoral programs. Institutional registrars and college principals verify student enrollment electronically through the Higher Education Department (HED) and PITB integration.",
+              "Students must provide their active institutional roll number, department designation, student identity card number, and current semester or academic session details during portal submission. Suspended students or individuals with terminated academic standings are automatically flagged and disqualified during data cross-matching."
+            ]
+          },
+          {
+            title: "Mandatory DLIMS Driving License and Learner Permit Rules",
+            paragraphs: [
+              "Every applicant must possess a valid motorcycle driving license or an active motorcycle learner driving permit issued by the Driving License Issuance Management System (DLIMS) of the Punjab Police. Applications submitted without a valid DLIMS computerized registration tracking number are rejected at the initial database validation stage.",
+              "Students holding a learner's permit can successfully apply and participate in the electronic ballot. However, selected candidates must maintain their learner permit in valid status and are strongly advised to secure their permanent computerized driving license before final vehicle delivery to avoid insurance endorsement complications."
+            ]
+          },
+          {
+            title: "Gender Quotas: 50% Allocation for Female Students and Pink Scooty Options",
+            paragraphs: [
+              "Phase 2 mandates an unprecedented 50% quota reserved exclusively for female students across all 36 districts of Punjab. Female applicants have the choice between standard commuter electric motorbikes and specially configured step-through electric scooties (often referred to colloquially as Pink Scooties), designed for comfortable daily riding in modest attire.",
+              "This affirmative gender allocation addresses urban mobility hurdles that frequently force young women to discontinue higher education due to prohibitive van fares or overcrowded public transport routes. Female students also receive dedicated priority slots in post-balloting delivery schedules."
+            ]
+          }
+        ],
+        links: [
+          { label: "CM Punjab Free Laptop Scheme 2026 Online Apply", href: "/cm-punjab-free-laptop-scheme-2026-online-apply" },
+          { label: "Apni Chhat Apna Ghar Housing Scheme", href: "/apni-chhat-apna-ghar-scheme-online-apply-2026-2026-09-21" }
+        ]
+      },
+      {
+        title: "How to Apply Online at bikes.punjab.gov.pk Before the October 4, 2026 Deadline?",
+        paragraphs: [
+          "Online application submission for Phase 2 is conducted exclusively through the centralized digital portal bikes.punjab.gov.pk, developed and managed by the Punjab Information Technology Board. The portal remains active 24 hours a day until the strict application deadline of October 4, 2026.",
+          "Manual paper forms, bank counter submissions, and third-party franchise registrations are strictly prohibited. Applicants should avoid unverified third-party websites claiming to offer registration shortcuts, as these platforms are unaccredited and compromise personal identity security."
+        ],
+        bullets: [
+          "Step 1: Access the portal at https://bikes.punjab.gov.pk and click Register.",
+          "Step 2: Enter full legal name, 13-digit CNIC, mobile number, and set an account password.",
+          "Step 3: Enter the 6-digit SMS verification code (OTP) to activate your student dashboard.",
+          "Step 4: Select your accredited college or university from the provincial institutional directory.",
+          "Step 5: Choose vehicle preference: Standard Electric Bike or Step-Through Electric Scooty.",
+          "Step 6: Input your valid DLIMS learner permit number or permanent driving license tracking code.",
+          "Step 7: Provide co-borrower (parent/guardian/sibling) particulars, CNIC, and monthly income details.",
+          "Step 8: Upload scanned copies of CNIC, student ID, DLIMS permit, and submit to receive your Application Tracking ID."
+        ]
+      },
+      {
+        title: "How Will the Electronic Balloting (E-Balloting) and Merit Lists Be Conducted?",
+        paragraphs: [
+          "The selection of beneficiaries across all 36 Punjab districts is conducted through automated, computerized electronic balloting designed, coded, and monitored by the Punjab Information Technology Board. The balloting process eliminates human discretion, third-party recommendations, or manual quotas, guaranteeing total transparency.",
+          "The e-balloting draw takes place shortly following the closure of the registration window on October 4, 2026. Representatives from the Punjab Transport Department, Higher Education Department, civil society observers, and media personnel witness the computerized script execution in Lahore."
+        ],
+        subsections: [
+          {
+            title: "PITB Computerized Draw Mechanism & District-Wise Quota Balancing",
+            paragraphs: [
+              "The PITB balloting algorithm segregates the applicant database into distinct district, gender, and institutional buckets before running randomized selection routines. This ensures that every district's allocated quota is fulfilled independently, preventing students from smaller tehsils from competing directly against candidates from high-density cities like Lahore or Rawalpindi.",
+              "Once the primary quota for a specific district is exhausted, the algorithm automatically generates a secondary computerized Waiting List (Reserve List). If an initially selected applicant fails bank credit scrutiny, withdraws voluntarily, or provides unverifiable academic credentials, the system immediately promotes the next student in sequence from the official reserve queue."
+            ]
+          },
+          {
+            title: "How to Check Selected Applicant Status on the bikes.punjab.gov.pk Dashboard",
+            paragraphs: [
+              "Applicants can independently verify their selection status within seconds once the official balloting concludes by logging into bikes.punjab.gov.pk with their CNIC and password. The system displays one of three clear flags: Selected (Approved in E-Ballot), Waiting List (Reserve Status with numerical standing), or Not Selected.",
+              "In addition to online dashboards, the Punjab Government publishes full downloadable PDF merit lists categorized by district and gender, searchable via keyboard shortcut (Ctrl + F). Selected candidates also receive an automated official SMS alert from the government gateway."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Post-Selection Procedure: BOP Branch Verification, Takaful & Delivery Timeline",
+        paragraphs: [
+          "Being selected in the electronic balloting marks the completion of the preliminary stage; final vehicle ownership requires successful asset financing approval through The Bank of Punjab. Successful candidates must complete document verification at designated BOP branches within 10 to 14 business days following the balloting announcement.",
+          "Under directives issued by CM Maryam Nawaz Sharif, the Punjab Transport Department bundles every electric vehicle with a comprehensive, complimentary Rider Safety Kit including an internationally certified helmet, steel crash leg guards, and a mandatory free two-day motorcycle safety orientation organized by City Traffic Police academies."
+        ]
+      },
+      {
+        title: "Phase 1 vs. Phase 2 Comparison: Key Policy Upgrades",
+        paragraphs: [
+          "The table below outlines the structural policy transformations introduced in the 2026 expansion compared to the initial pilot rollout:"
+        ],
+        table: {
+          caption: "Comparison Between Phase 1 Pilot and Phase 2 Full Rollout",
+          headers: ["Policy Dimension", "Phase 1 (Pilot 2024–2025)", "Phase 2 (2026 Expansion)", "Student Impact"],
+          rows: [
+            ["Geographic Scope", "Limited to 5 major cities", "All 36 Districts of Punjab", "Universal access for rural & urban youth"],
+            ["Fleet Size & Type", "20,000 (19,000 Petrol + 1,000 EV)", "100,000 Electric Bikes Exclusively", "100% green transit; zero petrol costs"],
+            ["Student Down Payment", "Rs. 20,000 – Rs. 25,000 required", "Rs. 0 (100% Waived by Punjab Govt)", "Zero upfront financial hurdle"],
+            ["Provincial Equity Subsidy", "Partial subsidy on markup only", "Rs. 90,000 Direct Capital Subsidy", "Substantial direct invoice discount"],
+            ["Monthly Amortization", "~Rs. 5,000 (Petrol) / ~Rs. 10,000 (EV)", "~Rs. 3,028 / month (Fixed EV)", "Over 65% reduction in monthly payments"],
+            ["Female Allocation", "Standard general quota (~25%)", "50% Dedicated Female Quota", "Guaranteed equality & pink scooties"],
+            ["Safety Equipment", "Standard vehicle only", "Free Certified Helmet & Safety Guards", "Enhanced safety without personal expense"],
+            ["Application Deadline", "Closed", "October 4, 2026 (Active Window)", "Immediate application at bikes.punjab.gov.pk"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official deadline to apply for CM Punjab E-Bike Scheme Phase 2?",
+        answer: "The official deadline for online application submission under Phase 2 is October 4, 2026. All eligible college and university students must complete their digital registrations at bikes.punjab.gov.pk before midnight on this date."
+      },
+      {
+        question: "How much monthly installment do selected students have to pay?",
+        answer: "Selected students pay a fixed monthly installment of approximately Rs. 3,028 over a 36-month repayment tenure. Because the Government of the Punjab provides a Rs. 90,000 capital subsidy and absorbs all interest charges, the loan carries 0% markup."
+      },
+      {
+        question: "Is there any down payment or advance deposit required?",
+        answer: "No down payment is required from students under Phase 2. Chief Minister Maryam Nawaz Sharif has completely waived the initial equity deposit, enabling selected students to receive their electric bikes with zero upfront cash outlay."
+      },
+      {
+        question: "Can students holding only a motorcycle learner's permit apply?",
+        answer: "Yes, students holding a valid motorcycle learner's permit issued by DLIMS Punjab are fully eligible to apply and participate in the electronic ballot. However, candidates must keep their permit active and are encouraged to acquire a full computerized license prior to final vehicle delivery."
+      },
+      {
+        question: "How can I check my name in the Punjab E-Bike balloting merit list?",
+        answer: "You can verify your balloting result by logging into your personalized applicant dashboard at bikes.punjab.gov.pk using your 13-digit CNIC and password. The Punjab Government also publishes official district-wise downloadable PDF merit lists that can be searched using your CNIC number."
+      },
+      {
+        question: "Are petrol motorcycles available in the Phase 2 registration?",
+        answer: "No petrol motorcycles are offered in Phase 2. To combat urban smog and promote clean environmental energy, the Government of the Punjab has made Phase 2 an exclusively electric vehicle program comprising 100,000 e-bikes."
+      },
+      {
+        question: "Who can serve as a guarantor (co-borrower) for The Bank of Punjab?",
+        answer: "A parent, legal guardian, spouse, or employed sibling can act as a guarantor or co-borrower for the Bank of Punjab financing. The guarantor must possess a valid CNIC, a clean credit history free from active banking defaults, and verifiable monthly household income."
+      },
+      {
+        question: "Are students from private universities and degree colleges eligible?",
+        answer: "Yes, regular students enrolled in private universities and private degree colleges recognized by the Higher Education Commission (HEC) and Punjab Higher Education Commission (PHEC) are fully eligible to apply alongside public-sector students."
+      },
+      {
+        question: "What happens if an applicant fails the Bank of Punjab verification?",
+        answer: "If a selected candidate fails the BOP credit appraisal, provides unverifiable academic documentation, or fails to visit the branch within the designated timeframe, their allocation is cancelled. The vacant seat is then immediately offered to the next candidate on the computerized waiting list."
+      },
+      {
+        question: "Does the Punjab Government cover insurance and vehicle registration costs?",
+        answer: "Yes, the Government of the Punjab covers 100% of the vehicle registration fees, computerized number plate charges, token tax, and the complete first-year comprehensive Takaful insurance premium."
+      },
+      {
+        question: "Can female students apply for electric scooties instead of standard motorbikes?",
+        answer: "Yes, female applicants can specifically select electric scooties (scooters) with a step-through frame design on the application portal. The Punjab Government has reserved a dedicated 50% quota for female students to enhance mobility and female higher-education enrollment across the province."
+      }
+    ]
+  },
+
+  {
+    slug: "cm-punjab-youth-games-2026-online-registration",
+    title: "CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide",
+    excerpt: "Complete guide to the CM Punjab Youth Games 2026 organized by Sports Board Punjab (youthgames.punjab.gov.pk). Explore age criteria (U-16, U-19, U-25), 19 sports disciplines, online registration steps, and Rs 500M prize pool.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Youth Games 2026: Online Registration & Sports List",
+    metaDescription: "Apply online for CM Punjab Youth Games 2026 at youthgames.punjab.gov.pk. Check age criteria (U-16, U-19, U-25), 19 sports disciplines, and Rs 500M prize pool.",
+    focusKeyword: "cm punjab youth games 2026",
+    lsiKeywords: [
+      "youth games punjab gov pk online registration",
+      "cm punjab youth games eligibility criteria age limit",
+      "punjab youth games sports disciplines list",
+      "punjab youth games cash prize breakdown",
+      "sports board punjab khelta punjab youth games 2026"
+    ],
+    entities: [
+      "CM Punjab Youth Games 2026",
+      "Sports Board Punjab",
+      "youthgames.punjab.gov.pk",
+      "Under-16 School Level",
+      "Under-19 College Level",
+      "Under-25 University Level",
+      "19 Sports Disciplines",
+      "Rs 500 Million Prize Pool",
+      "Khelta Punjab",
+      "Youth Affairs and Sports Department"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes"
+    ],
+    date: "September 29, 2026",
+    publishedDate: "September 29, 2026",
+    lastChecked: "September 29, 2026",
+    readTime: "8 min read",
+    image: "/images/cm-punjab-youth-games-2026.jpg",
+    imageAlt: "CM Punjab Youth Games 2026 Online Registration Eligibility Sports and Prizes Guide",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      { label: "Youth Games Portal", href: "https://youthgames.punjab.gov.pk/" },
+      { label: "Sports Board Punjab", href: "https://sportsboard.punjab.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What are the CM Punjab Youth Games 2026?",
+        paragraphs: [
+          "The CM Punjab Youth Games 2026 is a flagship sports initiative launched by Chief Minister Maryam Nawaz Sharif to discover, nurture, and elevate athletic talent across Punjab. Executed under the umbrella of the Khelta Punjab vision, the tournament engages millions of students across all 36 districts and 9 administrative divisions.",
+          "By establishing structured grassroots athletic competitions, the Punjab Government seeks to steer youth toward positive physical activities while preparing promising competitors for national and international arenas. The games bridge public and private educational sectors, ensuring equal sporting access regardless of socio-economic background."
+        ],
+        subsections: [
+          {
+            title: "Khelta Punjab Vision and Sports Board Punjab (SBP) Mandate",
+            paragraphs: [
+              "The Sports Board Punjab (SBP) and the Youth Affairs and Sports Department Punjab jointly administer the tournament's technical operations. Under the directive of Chief Minister Maryam Nawaz Sharif, the board modernized competition logistics by deploying a centralized digital portal (youthgames.punjab.gov.pk).",
+              "This digital ecosystem automates registration, validates student documents via NADRA databases, assigns neutral national referees, and publishes digitized trial results. Unlike traditional ad-hoc athletic trials, every enrolled participant receives an official registration credential that tracks their tournament statistics and performance progression."
+            ]
+          },
+          {
+            title: "Tournament Structure: From Tehsil Grounds to Provincial Championships",
+            paragraphs: [
+              "The championship follows a decentralized five-tier pyramid structure designed to scout authentic grassroots athletes across the province:"
+            ],
+            bullets: [
+              "Union Council & Tehsil Trials: Initial screening and trials organized across rural and urban tehsil sports complexes.",
+              "District Championships: Tehsil winners convene at district headquarters to form composite district teams.",
+              "Divisional Playoffs: The 9 administrative divisions of Punjab (Lahore, Rawalpindi, Faisalabad, Multan, Gujranwala, Bahawalpur, Sargodha, Sahiwal, and Dera Ghazi Khan) compete for inter-divisional supremacy.",
+              "Provincial Grand Finale: Top-seeded athletes and teams assemble in Lahore's premier sporting venues (including Nishter Park Sports Complex and Punjab Stadium) for the televised championship finals."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Competition Levels & Age Eligibility (U-16, U-19 & U-25)",
+        paragraphs: [
+          "To guarantee fair play and eliminate age fraud, the Sports Board Punjab stratifies the games into three strict age-defined tiers. Every competitor's date of birth is verified against NADRA records and institutional admission registers.",
+          "The matrix below outlines eligibility parameters across each educational level for 2026:"
+        ],
+        table: {
+          caption: "CM Punjab Youth Games 2026 Competition Tiers and Eligibility Matrix",
+          headers: ["Competition Tier", "Age Bracket", "Eligible Institutions", "Sports Disciplines", "Document Proof"],
+          rows: [
+            ["School Level", "Under-16 (U-16)", "Public & Private Middle/High Schools", "6 Disciplines", "NADRA B-Form + School ID"],
+            ["College Level", "Under-19 (U-19)", "Intermediate Colleges & Higher Secondary Schools", "14 Disciplines", "CNIC / Smart Card + College Card"],
+            ["University Level", "Under-25 (U-25)", "HEC-Recognized Universities & Degree Colleges", "19 Disciplines", "CNIC + Valid University Enrollment Slip"],
+            ["Madaris & Non-Formal", "Stratified by Age", "Registered Deeni Madaris & Literacy Centers", "Level-Appropriate Disciplines", "NADRA B-Form / CNIC + Sanad Slip"],
+            ["Special Athletes", "Open Age Brackets", "Special Education Centres & Para-Athletes", "Adapted Paralympic Disciplines", "Disability Certificate / Special CNIC"]
+          ]
+        },
+        subsections: [
+          {
+            title: "School Level Category (Under-16)",
+            paragraphs: [
+              "The Under-16 division targets emerging school students born on or after the specified cutoff date. Athletes in this category represent their respective government high schools, comprehensive schools, or registered private educational institutions. Events at this tier emphasize core physical fundamentals, hand-eye coordination, and athletics."
+            ]
+          },
+          {
+            title: "College Level Category (Under-19)",
+            paragraphs: [
+              "The Under-19 bracket caters to intermediate students enrolled in FA, FSc, ICS, I.Com, and A-Level streams across public colleges and private higher secondary campuses. Competition at the college level intensifies, incorporating advanced tactical coaching and team disciplines."
+            ]
+          },
+          {
+            title: "University & Degree College Category (Under-25)",
+            paragraphs: [
+              "The premier Under-25 division showcases top-tier collegiate talent from public sector universities, sub-campuses, and private degree-awarding institutions. Students enrolled in undergraduate and postgraduate programs compete under full national federation rules, serving as prime scouting grounds for Pakistan's national sports federations."
+            ]
+          },
+          {
+            title: "Special Inclusions: Madaris, TEVTA & Para-Athletes",
+            paragraphs: [
+              "Reflecting a commitment to complete social inclusion, the Punjab Government introduced dedicated quotas and competitive pathways for diverse student groups:",
+              "Deeni Madaris (Religious Seminaries): Seminary students compete in mainstream football, volleyball, athletics, and tug-of-war tournaments under their regional Wafaq boards.",
+              "TEVTA Technical Institutes: Apprentices and vocational trainees enrolled in technical colleges have designated tournament brackets.",
+              "Athletes with Disabilities (Special Education): Tailored para-sports events (wheelchair racing, blind cricket, adaptive table tennis) feature dedicated cash awards matching mainstream prize tiers.",
+              "Students from these sectors can also explore academic and assistive grants through the CM Punjab Himmat Card and CM Punjab Honhaar Scholarship Program."
+            ],
+            links: [
+              { label: "CM Punjab Himmat Card", href: "/cm-punjab-himmat-card-online-apply-2026/" },
+              { label: "CM Punjab Honhaar Scholarship Program", href: "/cm-punjab-honhaar-scholarship-program-2026/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "Level-by-Level Sports Disciplines Breakdown",
+        paragraphs: [
+          "The CM Punjab Youth Games 2026 feature a progressive menu of 19 sports disciplines, scaled proportionally across educational tiers to match facilities and physical maturity:"
+        ],
+        subsections: [
+          {
+            title: "1. School Level (6 Core Disciplines)",
+            paragraphs: [
+              "School athletes compete across 6 high-engagement disciplines designed for young competitors:"
+            ],
+            bullets: [
+              "Athletics: 100m sprint, 200m sprint, 400m race, long jump, and 4x100m relay.",
+              "Football: 7-a-side and 11-a-side junior inter-school tournaments.",
+              "Cricket: Tape-ball and hard-ball inter-school matches.",
+              "Badminton: Singles and doubles knockouts.",
+              "Table Tennis: Junior boys and girls singles championships.",
+              "Volleyball: Traditional court volleyball for school squads."
+            ]
+          },
+          {
+            title: "2. College Level (14 Expanded Disciplines)",
+            paragraphs: [
+              "College athletes compete in all 6 school disciplines plus 8 additional sports disciplines:"
+            ],
+            bullets: [
+              "Basketball: Full-court inter-college tournament.",
+              "Hockey: National sport revival matches on synthetic astroturf grounds.",
+              "Kabaddi: Circle-style and Asian-style traditional matches.",
+              "Weightlifting & Powerlifting: Categorized by standardized bodyweight classes.",
+              "Wrestling (Dangal / Freestyle): Traditional mat wrestling for young grapplers.",
+              "Taekwondo: Sparring (Kyorugi) and forms (Poomsae).",
+              "Karate: WKF-rules kata and kumite contests.",
+              "Tug of War: Inter-institutional physical strength competitions."
+            ]
+          },
+          {
+            title: "3. University Level (All 19 Official Disciplines)",
+            paragraphs: [
+              "University athletes compete across the complete 19-discipline roster, incorporating Olympic team and individual sports:",
+              "Additional collegiate disciplines include Handball, Lawn Tennis, Cycling road and endurance trials, Amateur Boxing under Olympic weight divisions, and Archery & Target Shooting.",
+              "University students actively participating in these sports disciplines can complement their academic routine by checking eligibility for the CM Punjab Free Laptop Scheme or mobility support under the Pink Scooty Scheme 2026."
+            ],
+            links: [
+              { label: "CM Punjab Free Laptop Scheme", href: "/cm-punjab-free-laptop-scheme-2026-online-apply/" },
+              { label: "Pink Scooty Scheme 2026", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "Required Documents for Online Registration",
+        paragraphs: [
+          "Before initiating registration on the sports board portal, athletes and institutional coordinators should gather the following authentic credentials:"
+        ],
+        bullets: [
+          "NADRA Identity Document: Original Computerized NADRA B-Form for Under-16 students, or valid CNIC/Smart Card for Under-19 and Under-25 athletes.",
+          "Institutional Proof: Active Student ID card issued by the respective school, college, university, or madrasa, alongside official admission confirmation slip.",
+          "Passport-Sized Photograph: Digital color photograph with blue or white background (maximum file size 500 KB, JPG/PNG format).",
+          "Punjab Domicile Proof: Candidate or father/guardian Punjab domicile certificate (or verified permanent residence in a Punjab district).",
+          "Medical Fitness Declaration: Basic physical fitness certificate or signed parental consent form (mandatory for contact sports such as boxing, wrestling, and martial arts)."
+        ]
+      },
+      {
+        title: "How to Register Online for CM Punjab Youth Games 2026 Step-by-Step (youthgames.punjab.gov.pk)",
+        paragraphs: [
+          "Online registration for the CM Punjab Youth Games 2026 is conducted through the Sports Board Punjab's centralized cloud portal. The process takes less than 10 minutes to complete:"
+        ],
+        subsections: [
+          {
+            title: "Step 1: Institutional Portal Access & Account Setup",
+            paragraphs: [
+              "Launch an updated web browser and visit the official portal: youthgames.punjab.gov.pk. On the homepage, select your registration category: School Registration, College Registration, or University Registration.",
+              "School and college sports masters register their educational institution using their official EMIS, BISE, or HED institutional code. Individual student athletes can also register directly under their institution by selecting their district, tehsil, and affiliated school or college from the dropdown menu."
+            ]
+          },
+          {
+            title: "Step 2: Athlete Profile Creation & CNIC/B-Form Verification",
+            paragraphs: [
+              "Enter your 13-digit NADRA CNIC or B-Form number without dashes (e.g., 3520112345671). The portal interfaces with digital verification services to ensure unique profile creation.",
+              "Input your full legal name, father's name, date of birth, and gender as recorded with NADRA. Provide an active mobile phone number to receive SMS alerts regarding trial dates, venues, and team rosters."
+            ]
+          },
+          {
+            title: "Step 3: Sport Discipline Selection & Team Roster Submission",
+            paragraphs: [
+              "Choose your desired sporting category from the 19 available sports disciplines (e.g., Athletics, Football, Badminton, Cricket). Select your specific event or playing role (e.g., 100m sprint, goalkeeper, middleweight wrestling).",
+              "If applying as part of an institutional team (e.g., football 11-member squad), the team captain or institutional sports director adds all participating member CNICs under the unified team profile."
+            ]
+          },
+          {
+            title: "Step 4: Verification by Head of Institution & Download Registration Slip",
+            paragraphs: [
+              "Upload your clear passport-sized photo and scanned copy of your student ID card or B-Form. Carefully review the entered data to prevent disqualification during in-person trials, then click Submit Application.",
+              "The portal instantly generates an official CM Punjab Youth Games 2026 Registration Slip featuring a unique QR tracking code. Print two copies and have them stamped by your school headmaster, college principal, or university sports director."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Rs 500 Million Cash Prize Pool & Athlete Incentives",
+        paragraphs: [
+          "Chief Minister Maryam Nawaz Sharif allocated an unprecedented Rs 500 Million (50 Crore PKR) cumulative prize and incentive fund for the 2026 Youth Games. This purse represents the largest financial disbursement in Pakistan's provincial sports history.",
+          "The prize distribution spans all tournament stages, rewarding grassroots participants alongside provincial medal winners:"
+        ],
+        bullets: [
+          "Provincial Champions (Gold Medalists): Lucrative cash prizes ranging from Rs 500,000 to Rs 2,500,000 for winning teams, plus Rs 100,000 to Rs 300,000 for individual event gold medalists.",
+          "Runners-Up (Silver Medalists): Substantial cash grants alongside commemorative plaques and professional equipment vouchers.",
+          "Third Place (Bronze Medalists): Cash prizes and merit certificates recognized by Punjab's higher education boards for sports quota admissions.",
+          "High-Performance Sports Scholarships: Top 500 emerging athletes scouted during the championship earn monthly training stipends, specialized nutritional allowances, and professional coaching at Sports Board Punjab high-performance centres.",
+          "Complimentary Sports Kits: Every qualified athlete advancing to district and divisional rounds receives official tracksuits, specialized playing kits, footwear, and protective sports gear free of charge."
+        ]
+      },
+      {
+        title: "Tournament Schedule, Trial Dates & Selection Process",
+        paragraphs: [
+          "The Sports Board Punjab executes the games according to a phased seasonal calendar across all 36 districts:"
+        ],
+        table: {
+          caption: "CM Punjab Youth Games 2026 Phased Tournament Calendar",
+          headers: ["Tournament Phase", "Activity & Milestones", "Venue / Location", "Administrative Oversight"],
+          rows: [
+            ["Phase 1", "Online Registration & Roster Verification", "youthgames.punjab.gov.pk", "PITB & SBP Technical Committee"],
+            ["Phase 2", "Tehsil Ground Trials & Talent Scouting", "Tehsil Sports Complexes & School Grounds", "Tehsil Sports Officers (TSOs)"],
+            ["Phase 3", "District Championships & Squad Finalization", "District Sports Gymnasiums", "District Sports Officers (DSOs)"],
+            ["Phase 4", "Divisional Championships", "Divisional Headquarters (e.g., Nishtar Park)", "Divisional Commissioners & SBP Directors"],
+            ["Phase 5", "Provincial Grand Finale & Closing Ceremony", "Punjab Stadium & Nishtar Sports Complex Lahore", "Chief Minister Punjab & Sports Minister"]
+          ]
+        },
+        subsections: [
+          {
+            title: "Transparent Selection & Anti-Doping Protocols",
+            paragraphs: [
+              "To guarantee genuine merit, all trials feature biometric attendance where participants authenticate using thumbprints or facial scans before entering playing arenas.",
+              "In-person NADRA verification desks confirm athlete ages at district arenas, disqualifying over-age competitors immediately. Furthermore, qualified match officials from certified sports associations referee all matches, and SBP medical officers enforce strict anti-doping regulations."
+            ]
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official website for CM Punjab Youth Games 2026 registration?",
+        answer: "The official website for CM Punjab Youth Games 2026 registration is youthgames.punjab.gov.pk, managed directly by Sports Board Punjab."
+      },
+      {
+        question: "Who is eligible to participate in the CM Punjab Youth Games 2026?",
+        answer: "Regular male and female students enrolled in public and private schools, colleges, universities, TEVTA institutes, and registered madaris across Punjab are eligible to participate."
+      },
+      {
+        question: "What are the age limits for School, College, and University levels?",
+        answer: "The age limits are Under-16 (U-16) for school students, Under-19 (U-19) for college students, and Under-25 (U-25) for university and degree college athletes."
+      },
+      {
+        question: "Can private school and college students participate in the games?",
+        answer: "Yes, students enrolled in registered private schools, private degree colleges, and chartered private universities can participate alongside public institution athletes."
+      },
+      {
+        question: "Is there any registration fee for the CM Punjab Youth Games?",
+        answer: "No, registration for the CM Punjab Youth Games 2026 is 100% free with zero fees charged by the Punjab Government or Sports Board Punjab."
+      },
+      {
+        question: "How many sports disciplines are included in the Punjab Youth Games 2026?",
+        answer: "There are 19 official sports disciplines in total, including 6 disciplines for school students, 14 for college athletes, and all 19 for university participants."
+      },
+      {
+        question: "Can students from religious seminaries (Madaris) take part?",
+        answer: "Yes, students from registered religious seminaries (Deeni Madaris) are fully eligible to compete in designated individual and team sports disciplines."
+      },
+      {
+        question: "What documents are required to register for the youth games?",
+        answer: "Required documents include a valid NADRA B-Form or CNIC, active student ID card or institutional enrollment proof, a passport-sized photograph, and Punjab domicile."
+      },
+      {
+        question: "What is the total cash prize pool for the CM Punjab Youth Games?",
+        answer: "The total cumulative prize pool allocated by Chief Minister Maryam Nawaz Sharif for the 2026 Youth Games is Rs 500 Million (50 Crore PKR)."
+      },
+      {
+        question: "How can athletes check their trial schedule and match fixtures?",
+        answer: "Athletes can check trial schedules, match fixtures, and ground locations by logging into youthgames.punjab.gov.pk with their CNIC or B-Form number."
+      }
+    ]
+  },
+
+  {
+    slug: "cm-punjab-green-credit-program-2026-online-apply",
+    title: "CM Punjab Green Credit Program 2026: Online Apply, Portal & Rewards Guide",
+    excerpt: "Apply for the CM Punjab Green Credit Program 2026 online at greencredit.punjab.gov.pk. Earn green credits and cash rewards up to Rs. 100,000 for verified eco-actions and EV bike conversions.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Green Credit Program 2026: Online Apply & Rewards",
+    metaDescription: "Apply for CM Punjab Green Credit Program 2026 on greencredit.punjab.gov.pk. Learn eligible green activities, EV conversion rewards up to Rs 100,000, and verification rules.",
+    focusKeyword: "cm punjab green credit program 2026",
+    lsiKeywords: [
+      "greencredit punjab gov pk online registration",
+      "cm punjab green credit rewards cash prize",
+      "punjab epccd green credit program eligibility",
+      "petrol bike to ev conversion subsidy rs 100000",
+      "punjab green credit activities list 2026",
+      "punjab environmental protection force verification"
+    ],
+    entities: [
+      "Chief Minister Punjab Green Credit Program",
+      "Environment Protection and Climate Change Department",
+      "Government of Punjab",
+      "Maryam Nawaz Sharif",
+      "Green Credit Portal",
+      "Punjab Information Technology Board",
+      "The Bank of Punjab"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "schemes"
+    ],
+    date: "September 29, 2026",
+    publishedDate: "September 29, 2026",
+    lastChecked: "September 29, 2026",
+    readTime: "9 min read",
+    image: "/images/cm-punjab-green-credit-program-2026.jpg",
+    imageAlt: "CM Punjab Green Credit Program 2026 Online Apply Portal & Rewards Guide",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      { label: "Punjab Green Credit Portal", href: "https://greencredit.punjab.gov.pk/" },
+      { label: "EP&CCD Official Website", href: "https://epd.punjab.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What Is the CM Punjab Green Credit Program 2026?",
+        paragraphs: [
+          "The Chief Minister Punjab Green Credit Program (CMPGCP) is Pakistan's first institutionalized, performance-driven citizen climate rewards mechanism. Developed collaboratively by the Environment Protection and Climate Change Department (EP&CCD), the Punjab Environmental Protection Agency (EPA), and the Punjab Information Technology Board (PITB), the program provides tangible financial incentives to individuals who take measurable, verified steps to safeguard the environment.",
+          "Rather than relying solely on administrative closures and seasonal bans to fight toxic smog, the Government of Punjab has converted ecological preservation into an accessible digital currency. Verified actions across carbon reduction, clean mobility, recycling, and afforestation yield Green Credits redeemable for cash grants, billing discounts, and civic honors."
+        ],
+        subsections: [
+          {
+            title: "Core Objectives: Smog Abatement and Performance-Based Climate Action",
+            paragraphs: [
+              "Major metropolitan centers in Punjab—such as Lahore, Gujranwala, Faisalabad, and Multan—experience critical Air Quality Index (AQI) spikes every autumn and winter. The primary urban contributor to this atmospheric crisis is vehicular exhaust, particularly emissions from millions of aging two-stroke and four-stroke petrol motorcycles.",
+              "The Green Credit Program directly incentivizes the rapid phase-out of high-emission internal combustion motorbikes by offering a cash prize of up to Rs. 100,000 to bike owners who retrofit their vehicles with certified electric battery powertrains. Alongside clean mobility, targeted urban afforestation and plastic diversion projects directly lower urban heat island effects and open-air burning."
+            ]
+          },
+          {
+            title: "The Science Behind Green Credits and Carbon Accountability",
+            paragraphs: [
+              "Every environmental submission uploaded to the portal is calibrated against international greenhouse gas accounting benchmarks. For example, replacing a high-mileage petrol commute with an electric bike prevents hundreds of kilograms of toxic hydrocarbons, nitrogen oxides (NOx), and carbon monoxide from entering urban breathing zones.",
+              "These calculated carbon offsets are deposited as digital Green Credits in the citizen's secure online profile. As Punjab establishes its provincial Emission Trading System (ETS), these citizen credits can be bundled into verified offset units, enabling public and private entities to support grassroots ecological transition."
+            ]
+          }
+        ],
+        links: [
+          { label: "CM Punjab Solar Panel Scheme 2026", href: "/cm-punjab-solar-panel-scheme-2026-online-apply/" },
+          { label: "PAVE Electric Bike Scheme Guide", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
+        ]
+      },
+      {
+        title: "6 Core Environmental Sectors & 32 Approved Green Activities",
+        paragraphs: [
+          "The Green Credit framework recognizes 32 distinct eco-activities categorized under six priority environmental sectors. Each activity is assigned a specific credit weight based on its carbon displacement factor, resource conservation impact, and verification criteria."
+        ],
+        table: {
+          caption: "Punjab Green Credit Program Activity Matrix & Points Weighting 2026",
+          headers: ["Environmental Sector", "Approved Eco-Activity", "Required Verification Proof", "Green Credit Allocation"],
+          rows: [
+            ["Air Quality", "Petrol motorcycle to certified EV conversion", "Retrofit invoice, Excise updated card, video proof", "5,000 – 10,000 Credits (Rs. 100,000 Cash Grant)"],
+            ["Air Quality", "Commuting via Metro Bus, Speedo, or Orange Line", "Transit smartcard logs or verified QR pass records", "100 – 300 Credits / Month"],
+            ["Air Quality", "Tailpipe computerized emissions fitness test", "Certified VICS / EPA inspection certificate", "250 Credits / Inspection"],
+            ["Land & Forestry", "Planting native trees (Miyawaki or domestic saplings)", "Geotagged planting photo + 90-day survival photo", "150 – 500 Credits / Sapling"],
+            ["Land & Forestry", "Developing rooftop gardens or green terraces", "Geotagged wide-angle photo with GPS coordinates", "400 – 800 Credits / Setup"],
+            ["Water Conservation", "Installing rainwater harvesting collection barrels", "Inflow plumbing photo and storage tank diagram", "1,000 – 2,500 Credits / Household"],
+            ["Water Conservation", "Fitting domestic taps with water-saving aerators", "Purchase invoice and running tap video clip", "200 Credits / Installation"],
+            ["Water Conservation", "Adopting agricultural drip or sprinkler micro-irrigation", "Agriculture Extension verification or vendor invoice", "3,000 Credits / Acre"],
+            ["Waste Management", "30-day segregation of domestic plastics and metals", "Delivery receipt from registered waste recycler", "300 Credits / Monthly Cycle"],
+            ["Waste Management", "Operating domestic organic food scrap composter", "Composter setup photo and progress proof", "250 Credits / Setup"],
+            ["Biodiversity & Ecology", "Establishing community bird nesting and feeding units", "Geotagged outdoor photo and maintenance log", "150 – 300 Credits"],
+            ["Green Awareness", "Organizing student eco-workshops and cleanups", "Participant roster, event banner photo, institution stamp", "500 – 1,200 Credits / Event"]
+          ]
+        },
+        links: [
+          { label: "CM Punjab Green Tractor Scheme 2026", href: "/cm-punjab-green-tractor-scheme-2026-online-apply/" },
+          { label: "Explore All Punjab Government Welfare Schemes", href: "/punjab-schemes/" }
+        ]
+      },
+      {
+        title: "Cash Rewards & Financial Incentives: Up to Rs. 100,000 EV Bike Retrofitting Grant",
+        paragraphs: [
+          "The flagship incentive under the Green Credit Program is the substantial capital grant for converting existing petrol motorcycles to electric drive. Chief Minister Maryam Nawaz Sharif has allocated dedicated funding to accelerate this transition without imposing the high cost of brand-new vehicles on low-income families."
+        ],
+        subsections: [
+          {
+            title: "How the Rs. 100,000 EV Retrofit Cash Incentive Works",
+            paragraphs: [
+              "Converting an ordinary 70cc, 100cc, or 125cc petrol commuter bike into a lithium-ion electric motorcycle typically costs between Rs. 90,000 and Rs. 130,000, depending on the chosen battery range and motor capacity.",
+              "Under the program, citizens who take their registered motorcycle to an EPA-certified retrofit vendor, remove the combustion engine, install an approved BLDC hub motor, and have their registration card updated to 'Electric' at the Excise Department can claim a direct cash grant of up to Rs. 100,000 through the Green Credit portal."
+            ]
+          },
+          {
+            title: "Non-Monetary Privileges: Certificates, Tax Rebates & Youth Honors",
+            paragraphs: [
+              "In addition to monetary payouts, accumulated Green Credits provide valuable civic privileges. Citizens can offset up to 15% of annual urban property taxes, receive municipal water and sanitation billing vouchers, and earn state-issued Chief Minister Green Merit Certificates.",
+              "For college and university students, high credit totals provide competitive bonus marks in provincial scholarship programs, such as the Honhaar Scholarship, as well as priority consideration for youth leadership fellowships."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Eligibility Criteria for Citizens, Youth, and Businesses",
+        paragraphs: [
+          "Participation in the CM Punjab Green Credit Program is open to all residents of Punjab who satisfy key administrative benchmarks:"
+        ],
+        bullets: [
+          "Punjab Domicile & CNIC: Must hold a valid 13-digit Computerized National Identity Card (CNIC) or NADRA B-Form with permanent address in Punjab.",
+          "Biometric Mobile Connection: The registered mobile phone number must be biometrically linked to the applicant's own CNIC.",
+          "Verified Bank Account: Payouts require an active Bank of Punjab (BOP) account, Raast ID, or registered mobile wallet in the applicant's name.",
+          "Clear Vehicle Title: For EV retrofitting claims, the motorbike must have an active Punjab registration book with all token taxes cleared.",
+          "Environmental Compliance: Participating businesses and farmers must not have unresolved environmental sealing orders or active kiln violations."
+        ]
+      },
+      {
+        title: "Step-by-Step Online Registration on greencredit.punjab.gov.pk",
+        paragraphs: [
+          "Enrolling in the Green Credit Program is entirely paperless and free of charge. Applicants should follow this streamlined protocol:"
+        ],
+        subsections: [
+          {
+            title: "Step 1: Account Creation & Biometric Authentication",
+            paragraphs: [
+              "Access greencredit.punjab.gov.pk from any browser and select 'Citizen Registration'. Input your 13-digit CNIC number, active mobile phone number, and district of residence. Verify your mobile device by typing the 6-digit One-Time Password (OTP) received via SMS, and establish a password."
+            ]
+          },
+          {
+            title: "Step 2: Submitting Activity Proof via the MRV Module",
+            paragraphs: [
+              "From your Citizen Dashboard, select 'Submit Green Activity' and choose the appropriate domain. Select your specific action, enable device GPS location, and capture live, geotagged photographs of the installation or activity. Attach relevant vendor invoices or workshop job cards and submit for review."
+            ]
+          },
+          {
+            title: "Step 3: Verification Audit and Ledger Credit",
+            paragraphs: [
+              "The system issues an automated tracking ID (e.g., GCP-2026-XXXX). After digital scrutiny and any necessary physical spot-checks by the Environmental Protection Force, the earned credits are added to your ledger, and a confirmation SMS is dispatched."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Measurement, Reporting, and Verification (MRV) & Anti-Fraud Protocols",
+        paragraphs: [
+          "To preserve the fiscal integrity of the program and prevent fraudulent claims, the Government of Punjab applies rigorous verification measures:",
+          "All uploaded media undergoes automated computer-vision checks to detect duplicate submissions, stock web photos, and manipulated timestamps. GPS metadata is strictly validated against geographic boundaries within Punjab.",
+          "For high-value rewards like the Rs. 100,000 EV grant, physical inspection by field teams from the Punjab Environmental Protection Force confirms the presence of the converted motor and updated registration smart card. Submitting counterfeit records results in immediate blacklisting and legal proceedings under the Pakistan Penal Code."
+        ]
+      },
+      {
+        title: "How to Redeem Green Credits for Cash via The Bank of Punjab",
+        paragraphs: [
+          "Redeeming accumulated points for cash is straightforward once the minimum threshold of 1,000 credits is attained (EV grants are disbursed directly upon audit clearance):",
+          "Navigate to the 'Wallet & Payouts' section of your dashboard, select your disbursement preference (Bank of Punjab, Raast IBAN, or JazzCash/Easypaisa), enter the redemption amount, and submit. Funds are processed and transferred by the provincial finance department within 3 to 7 working days."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the CM Punjab Green Credit Program 2026?",
+        answer: "The CM Punjab Green Credit Program 2026 is an official performance-based sustainability initiative launched by Chief Minister Maryam Nawaz Sharif and the Environment Protection and Climate Change Department (EP&CCD) that rewards citizens with points and cash prizes for performing verified eco-friendly actions."
+      },
+      {
+        question: "How do citizens earn green credits in Punjab?",
+        answer: "Citizens earn green credits by completing and submitting photographic or digital proof of any of 32 approved eco-actions across air, land, ecology, water, waste, and environmental awareness sectors through the official web portal at greencredit.punjab.gov.pk."
+      },
+      {
+        question: "Can I get a cash reward of Rs. 100,000 for converting a petrol bike to an electric bike?",
+        answer: "Yes, citizens who legally retrofit their petrol-driven motorcycles into certified electric vehicles (EVs) through authorized vendors can qualify for cash incentives of up to Rs. 100,000 under the program's clean air initiative."
+      },
+      {
+        question: "Where can I register for the CM Punjab Green Credit Program online?",
+        answer: "You can register online by visiting the official government web portal at greencredit.punjab.gov.pk and entering your 13-digit CNIC number and biometric mobile phone number."
+      },
+      {
+        question: "What documents and evidence are required to verify green activities?",
+        answer: "Applicants must upload geotagged and timestamped photos or videos, relevant utility or purchase receipts, and official vehicle retrofit or registration certificates through the portal's Measurement, Reporting, and Verification (MRV) upload module."
+      },
+      {
+        question: "Who is eligible to participate in the CM Punjab Green Credit Program?",
+        answer: "All permanent residents of Punjab holding a valid NADRA CNIC or B-Form, including students, youth, housewives, farmers, and private business owners, are eligible to participate."
+      },
+      {
+        question: "How are earned Green Credits redeemed for money?",
+        answer: "Accumulated Green Credits are redeemed directly into the beneficiary's Bank of Punjab (BOP) account, linked mobile wallet, or as official municipal tax rebate vouchers once approved by the departmental audit committee."
+      },
+      {
+        question: "Is there any application or registration fee to join the Green Credit Program?",
+        answer: "No, registration and participation in the CM Punjab Green Credit Program on greencredit.punjab.gov.pk are 100% free of charge with no hidden service fees."
+      },
+      {
+        question: "How does the Punjab government verify submitted eco-actions to prevent fraud?",
+        answer: "The Punjab Environmental Protection Agency (EPA) and Environmental Protection Force use AI-assisted image and metadata verification alongside random field inspections to authenticate every submitted eco-action."
+      },
+      {
+        question: "What is the official helpline number for inquiries regarding the Green Credit Program?",
+        answer: "You can call the official Punjab Anti-Smog and Environmental Protection Helpline at 1373 or the Punjab Citizen Helpline at 0800-09100 for official guidance and support."
+      }
+    ]
+  },
+
+  {
     slug: "apni-zameen-apna-ghar-balloting-result-2026",
     title: "Apni Zameen Apna Ghar Balloting Result 2026: How to Check CNIC Status & Plot Rules",
     excerpt: "Check the Apni Zameen Apna Ghar balloting result 2026 online by CNIC. Guide on Phase 1 winner status, 3-marla plot allocation, and rules after selection.",
@@ -1734,6 +2521,9 @@ export const articles: Article[] = [
         paragraphs: [
           "The Pink Scooty Scheme 2026 is a provincial government social mobility project aimed at empowering women by offering subsidized, eco-friendly electric motorbikes and scooters. The initiative tackles daily transportation barriers faced by female university students, working professionals, single mothers, and widows across Punjab and Sindh.",
           "By substituting expensive commercial transport with subsidized electric two-wheelers, the program reduces monthly commute expenses while fostering financial independence. Both provincial programs partner with public financial institutions and transport authorities to ensure structured distribution through transparent digital systems."
+        ],
+        links: [
+          { label: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal & BOP Installment", href: "/cm-punjab-e-bike-scheme-updates" }
         ],
         subsections: [
           {
@@ -13030,6 +13820,11 @@ export const articles: Article[] = [
 },
   {
     slug: "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
+    relatedSlugs: [
+      "pm-petrol-relief-scheme-updates-2026",
+      "what-counts-as-a-good-pmt-score",
+      "nigehban-card-check-guide"
+    ],
     title: "Fuel Scheme Rs.100 Per Litre Petrol Relief and Registration Guide (2026)",
     excerpt: "Pakistan's Fuel Scheme provides Rs. 100/litre petrol subsidy for motorcycles, rickshaws, and cars up to 800cc via SMS to 9771. Learn eligibility, weekly tokens, and pump steps.",
     metaTitle: "Fuel Scheme Rs. 100 Per Litre Petrol Relief & Registration (2026)",
@@ -13090,6 +13885,7 @@ export const articles: Article[] = [
           }
         ],
         links: [
+          { label: "latest PM Petrol Relief Scheme 2026 updates", href: "/pm-petrol-relief-scheme-updates-2026/" },
           { label: "understanding what BISP actually is", href: "/what-is-bisp/" }
         ]
       },
@@ -13299,6 +14095,11 @@ export const articles: Article[] = [
   },
   {
     slug: "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
+    relatedSlugs: [
+      "pm-petrol-relief-scheme-updates-2026",
+      "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
+      "cm-punjab-green-credit-program-2026-online-apply"
+    ],
     title: "PAVE Scheme 2026: Complete Guide to Eligibility, Electric Bike Subsidy & Online Apply",
     excerpt: "The Pakistan Accelerated Vehicle Electrification (PAVE) Scheme 2026 provides up to Rs. 80,000 subsidy for electric bikes and Rs. 400,000 for rickshaws across Pakistan. Apply online via pave.gov.pk on a first-come, first-served basis.",
     showExcerpt: true,
@@ -13365,6 +14166,8 @@ export const articles: Article[] = [
           }
         ],
         links: [
+          { label: "CM Punjab Green Credit Program: Rs 100,000 EV Bike Reward", href: "/cm-punjab-green-credit-program-2026-online-apply/" },
+          { label: "latest PM Petrol Relief Scheme 2026 updates & 9771 SMS tokens", href: "/pm-petrol-relief-scheme-updates-2026/" },
           {
             label: "BISP eligibility criteria guide",
             href: "/bisp-eligibility-criteria-guide/"
@@ -15983,6 +16786,7 @@ export const articles: Article[] = [
           "Unlike conventional partial fee waivers or loan schemes, the Honhaar Scholarship provides an unconditional 100% tuition grant. Approved funds are disbursed directly by the Punjab Higher Education Commission (PHEC) to the recipient's university treasury, ensuring that students face zero out-of-pocket tuition costs throughout their standard four-year (BS) or five-year (MBBS/Pharm-D) degree tenures."
         ],
         links: [
+          { label: "CM Punjab E-Bike Scheme Phase 2 Updates 2026", href: "/cm-punjab-e-bike-scheme-updates" },
           { label: "Pink Scooty Scheme 2026 Details", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],
         subsections: [
@@ -16448,6 +17252,7 @@ export const articles: Article[] = [
           "Unlike commercial agricultural financing loans that incur recurring bank markups or long-term debt burdens, the Green Tractor Scheme provides a one-time non-repayable government grant of Rs. 1,000,000 directly credited toward the invoice of a new tractor. Beneficiaries only pay the remaining balance directly to their chosen authorized manufacturer through The Bank of Punjab (BOP)."
         ],
         links: [
+          { label: "CM Punjab Green Credit Program 2026", href: "/cm-punjab-green-credit-program-2026-online-apply/" },
           {
             label: "CM Punjab Kisan Card online apply 2026 guide",
             href: "/cm-punjab-kisan-card-online-apply-2026/"
@@ -16871,6 +17676,7 @@ export const articles: Article[] = [
           "Unlike traditional commercial solar leasing programs that mandate cumbersome interest charges or recurring service fees, the Roshan Gharana Program provides 100% free solar power packages to the poorest protected consumers and heavy 90% capital subsidies to middle-tier households. By generating clean solar electricity right at the domestic roof level, the scheme drastically reduces baseline grid demand and permanently lowers monthly utility bills for vulnerable working-class citizens."
         ],
         links: [
+          { label: "CM Punjab Green Credit Program: Online Apply & Rewards", href: "/cm-punjab-green-credit-program-2026-online-apply/" },
           {
             label: "Punjab Solar Tube Well Scheme 2026 online apply for farmers",
             href: "/punjab-solar-tube-well-scheme-2026-online-apply/"
@@ -20427,6 +21233,7 @@ export const articles: Article[] = [
           "Unlike commercial discount schemes or lottery systems, every single laptop is distributed on a strictly verified 100% merit basis. The distribution spans regular students attending HEC-recognized public sector universities, constituent sub-campuses, government post-graduate colleges, medical colleges, and engineering institutions throughout all 36 districts of Punjab."
         ],
         links: [
+          { label: "CM Punjab E-Bike Scheme Phase 2 Registration", href: "/cm-punjab-e-bike-scheme-updates" },
           { label: "Pink Scooty Scheme 2026 Registration & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],
         subsections: [
@@ -22009,6 +22816,223 @@ export const articles: Article[] = [
       { question: "BISP record not found in NSER ka kya matlab hai?", answer: "Iska matlab hai ke aap ka CNIC BISP ke NSER survey database mein majood nahi hai. Aap ko BISP Tehsil Office ja kar apna survey karwana hoga." },
       { question: "Can I update my NSER survey online at home?", answer: "No, there is no official online portal for NSER survey registration. Beneficiaries must physically visit a BISP Tehsil Office for biometric verification." },
       { question: "Is there any fee for updating NSER record at BISP office?", answer: "No, the BISP Dynamic Survey and NSER record updates are 100% free of charge. Never pay money to agents or touts claiming to approve your status." }
+    ]
+  },
+  {
+    slug: "pm-petrol-relief-scheme-updates-2026",
+    relatedSlugs: [
+      "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
+      "bisp-balance-check-by-cnic-2026",
+      "what-counts-as-a-good-pmt-score"
+    ],
+    title: "PM Petrol Relief Scheme Updates 2026: Latest Subsidy Rules, 9771 Token Status & Quotas",
+    excerpt: "The 2026 PM Petrol Relief Scheme updates confirm a 10-month continuation of the Rs. 100/litre petrol subsidy. Motorcycle owners get 20 litres/month (Rs. 2,000 savings) and 800cc cars qualify for 30 litres/month via 9771 SMS tokens.",
+    showExcerpt: true,
+    metaTitle: "PM Petrol Relief Scheme Updates 2026: 9771 Quotas & Rules",
+    metaDescription: "Latest PM Petrol Relief Scheme updates for 2026. Check Rs 100/litre subsidy quotas (20L bike, 30L car), 9771 SMS token verification, 9772 helpline & rules.",
+    focusKeyword: "PM Petrol Relief Scheme Updates",
+    lsiKeywords: [
+      "pm petrol relief scheme updates 2026",
+      "pm fuel relief scheme 10 month extension",
+      "petrol relief scheme 9771 token status",
+      "9772 petrol pump complaint control room",
+      "rs 100 petrol subsidy 20 litre bike quota",
+      "800cc car fuel subsidy 30 litre ceiling",
+      "sbp 48 hour petrol dealer reimbursement"
+    ],
+    entities: [
+      "Prime Minister's Fuel Relief Scheme",
+      "Petroleum Division",
+      "Fuel Pass System",
+      "9771 SMS Gateway",
+      "State Bank of Pakistan",
+      "Oil and Gas Regulatory Authority",
+      "National Database and Registration Authority",
+      "Pakistan Petroleum Dealers Association",
+      "CNIC"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: [
+      "other-schemes",
+      "news"
+    ],
+    date: "September 29, 2026",
+    publishedDate: "September 29, 2026",
+    readTime: "11 min read",
+    image: "/images/pm-petrol-relief-scheme-updates.jpg",
+    imageAlt: "Official editorial banner showing PM Petrol Relief Scheme updates for 2026 with Rs 100 per litre subsidy and 9771 SMS token status",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Are the Latest 2026 Updates on the PM Petrol Relief Scheme?",
+        paragraphs: [
+          "The Ministry of Energy (Petroleum Division) has announced key operational updates extending the targeted fuel relief package for small-vehicle commuters across Pakistan. Under directives from Prime Minister Shehbaz Sharif and Petroleum Minister Ali Pervaiz Malik, the program protects low-income motorists from international oil market volatility without resorting to broad, fiscally unstabilizing blanket fuel subsidies.",
+          "Unlike legacy cash hand-outs, this targeted subsidy applies directly at the fuel pump nozzle using digital mobile credentials, ensuring that national financial relief reaches bona fide motorcycle and small-car commuters."
+        ],
+        subsections: [
+          {
+            title: "Budget Allocation and 10-Month Operational Extension",
+            paragraphs: [
+              "The federal cabinet has confirmed an ongoing operational budget of approximately Rs. 35 to 40 billion per month to sustain the Rs. 100 per litre petrol subsidy. The Economic Coordination Committee (ECC) approved this financing through a dedicated Technical Supplementary Grant, ensuring uninterrupted retail fuel compensation for up to 10 months. By ring-fencing these treasury reserves, the government prevents point-of-sale liquidity shortages and ensures retail dealers receive guaranteed reimbursements."
+            ]
+          },
+          {
+            title: "Nationwide Beneficiary Enrollment and Registration Milestones",
+            paragraphs: [
+              "Over 6 million Pakistani citizens have successfully enrolled in the digital Fuel Pass System since its nationwide rollout. Real-time integration between the National Database and Registration Authority (NADRA) and provincial excise registries has accelerated application approvals to under 48 hours. The system automatically cross-checks the applicant's Computerized National Identity Card (CNIC) against registered vehicle engine displacement to prevent fraudulent or multi-vehicle claims under a single household identity."
+            ]
+          }
+        ],
+        table: {
+          caption: "Core Operational Metrics of the 2026 PM Petrol Relief Scheme",
+          headers: ["Program Metric", "Official 2026 Specification", "Impact on Citizen / Beneficiary"],
+          rows: [
+            ["Point-of-Sale Subsidy", "Rs. 100 per Litre", "Immediate price reduction at authorized retail fuel stations"],
+            ["Two-Wheeler / Rickshaw Quota", "20 Litres per Month (Max Rs. 2,000 discount)", "Covers commuter travel for bikes, scooters, and 3-wheelers"],
+            ["800cc Passenger Car Quota", "30 Litres per Month (Max Rs. 3,000 discount)", "Supports small family vehicles and domestic 660cc Kei cars"],
+            ["SMS Application Gateway", "9771", "Biometric registration and on-demand encrypted token delivery"],
+            ["Dealer Settlement Window", "48 Hours (via State Bank of Pakistan)", "Guarantees instant bank credit to prevent pump subsidy refusal"],
+            ["Public Grievance Hotline", "9772 Control Room", "Enforces zero dealer surcharges and immediate dispute resolution"]
+          ]
+        },
+        links: [
+          { label: "comprehensive Fuel Scheme Rs. 100 per litre guide", href: "/fuel-scheme-rs-100-per-litre-petrol-relief-guide/" }
+        ]
+      },
+      {
+        title: "How Does the Subsidy Quota Breakdown Work for Bikes, Rickshaws, and Cars?",
+        paragraphs: [
+          "The PM Petrol Relief Scheme distributes fuel subsidies based on vehicle classification and documented engine cylinder displacement rather than income surveys. Every eligible vehicle category has a fixed monthly litre ceiling designed to support daily commuting and basic commercial transport."
+        ],
+        subsections: [
+          {
+            title: "Two-Wheelers and Three-Wheelers: 20-Litre Monthly Allocation",
+            paragraphs: [
+              "Motorcycles, scooters, passenger auto-rickshaws, and Qingqi transport trikes receive a subsidized fuel allocation of 20 litres per calendar month. This entitlement delivers a maximum monthly financial relief of Rs. 2,000 per registered motorist. To prevent black-market fuel reselling, the Fuel Pass System distributes this 20-litre allocation in weekly token installments of 5 litres each (Rs. 500 discount per fill-up), resetting automatically on Monday mornings."
+            ]
+          },
+          {
+            title: "Small Passenger Vehicles Up to 800cc: 30-Litre Monthly Cap",
+            paragraphs: [
+              "Privately owned passenger cars with engine displacement up to 800cc receive a maximum monthly fuel quota of 30 litres, translating to a monthly saving of Rs. 3,000. Qualifying models include the Suzuki Mehran (796cc), Suzuki Bolan (796cc), Suzuki Ravi (796cc), and imported 660cc Japanese Kei cars like the Suzuki Alto 660cc, Daihatsu Mira, and Daihatsu Move. The 30-litre quota is disbursed in three 10-litre token tranches every ten days. Vehicles exceeding 800cc displacement, diesel automobiles, and commercial vans remain strictly excluded."
+            ]
+          }
+        ],
+        links: [
+          { label: "PAVE electric bike scheme subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
+        ]
+      },
+      {
+        title: "How to Register and Generate Fuel Tokens via the 9771 SMS Gateway",
+        paragraphs: [
+          "Applying for the PM Petrol Relief Scheme and claiming the Rs. 100 per litre subsidy requires an active mobile phone registered to the applicant's own CNIC. The digital procedure operates through a three-step SMS workflow without any paperwork or office visits."
+        ],
+        subsections: [
+          {
+            title: "Step 1: Submitting Your Registration SMS to 9771",
+            paragraphs: [
+              "Compose a new text message on your mobile phone following the standardized format: REG [13-digit CNIC] [Vehicle Registration Number] [Province Code] [Registration Year]. For instance, type REG 3520112345671 LEA1234 PB 2021 and send it to 9771. Ensure you type your 13-digit CNIC without hyphens or spaces. You will receive an immediate confirmation SMS stating that your vehicle ownership records have been forwarded to provincial excise servers for automated verification."
+            ]
+          },
+          {
+            title: "Step 2: Requesting Your Encrypted Fuel Token Before Fueling",
+            paragraphs: [
+              "Once your registration is verified, you must generate a one-time cryptographic fuel token immediately before visiting an authorized fuel pump. Text the keyword TOK to 9771 from your registered mobile SIM. Within 60 seconds, the Fuel Pass System returns an 8-character alphanumeric code detailing your authorized litre allowance, vehicle plate number, and token expiration countdown. Tokens remain valid for exactly 24 hours from issuance; expired tokens must be re-requested before refueling."
+            ]
+          },
+          {
+            title: "Step 3: Presenting the Token at Authorized Petrol Stations",
+            paragraphs: [
+              "Arrive at any participating PSO, Shell, Total Parco, Attock Petroleum, or authorized dealer station equipped with a Fuel Pass POS terminal. Inform the fuel attendant that you are redeeming a government fuel relief token before the pump nozzle starts dispensing petrol. The station operator enters your 8-character token code into their digital terminal to verify authenticity. The system automatically deducts Rs. 100 per litre from your pump bill, printing an itemized receipt showing the official retail price, the government subsidy deduction, and your final discounted payment amount."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How Does the SBP 48-Hour Reimbursement Protect Petrol Dealers?",
+        paragraphs: [
+          "The federal government and the State Bank of Pakistan (SBP) have established an automated 48-hour direct settlement clearinghouse to eliminate financial friction for retail petroleum dealers. Under this framework, whenever a dealer terminal validates a 9771 token, the central database transmits the corresponding Rs. 100 per litre subsidy claim to the SBP settlement portal.",
+          "The State Bank of Pakistan deposits the exact subsidy amount directly into the dealer’s designated commercial bank account within two banking days. By maintaining an automated reimbursement pipeline supported by pre-funded ECC supplementary accounts, the Petroleum Division ensures that petrol station owners face zero cash-flow deficits, preventing dealer boycotts or illegal pump surcharges."
+        ]
+      },
+      {
+        title: "How to Lodge Complaints and Contact the 9772 Control Room",
+        paragraphs: [
+          "The Ministry of Energy and the Oil and Gas Regulatory Authority (OGRA) have activated a dedicated national control room reachable at the shortcode 9772. This complaint desk handles citizen disputes, POS terminal malfunctions, and dealer refusal cases across all four provinces, Islamabad Capital Territory, Gilgit-Baltistan, and Azad Jammu and Kashmir.",
+          "If a fuel station attendant claims their machine is non-operational, refuses to honor an active 9771 token, or attempts to charge a service fee, call 9772 immediately while remaining at the fuel station. Provide the operator with your CNIC, the station's OMC brand, and the exact retail pump address. OGRA inspection squads are authorized to seal non-compliant pumps, issue heavy fines, and suspend operating licenses for fuel stations that deny legitimate citizen subsidies."
+        ]
+      },
+      {
+        title: "How Does the Petrol Subsidy Differ from BISP 8171 Cash Transfers?",
+        paragraphs: [
+          "The PM Petrol Relief Scheme functions as an asset-linked targeted energy discount rather than a poverty-score-tested welfare transfer like the Benazir Income Support Programme (BISP). While BISP Kafaalat, the Punjab Nigehban Card, and Taleemi Wazaif stipends require households to maintain a Poverty Means Test (PMT) score below designated cutoff thresholds, the fuel subsidy requires only verifiable vehicle ownership and NADRA biometric verification.",
+          "Participation in the fuel relief initiative has zero impact on your BISP status. Low-income families, daily wage earners, and delivery workers who receive regular BISP Kafaalat quarterly disbursements remain 100% entitled to receive fuel relief tokens. Conversely, salaried professionals whose income disqualifies them from BISP can still qualify for the Rs. 100 per litre fuel subsidy if they ride a motorcycle or drive an 800cc commuter vehicle."
+        ],
+        links: [
+          { label: "BISP 8171 balance check by CNIC", href: "/bisp-balance-check-by-cnic-2026/" },
+          { label: "understanding PMT poverty score thresholds", href: "/what-counts-as-a-good-pmt-score/" },
+          { label: "Punjab Nigehban Card eligibility check", href: "/nigehban-card-check-guide/" }
+        ]
+      },
+      {
+        title: "Scam Alert: Protecting Yourself from Fake Petrol Subsidy Portals",
+        paragraphs: [
+          "Rising demand for fuel price relief has generated numerous fraudulent phishing websites, unauthorized Android APK downloads, and deceitful WhatsApp broadcasts. The Ministry of Information Technology and Telecommunication warns citizens against sharing private credentials with unverified third parties."
+        ],
+        bullets: [
+          "Zero Registration Fees: Registration via 9771 is completely free. Never pay cash or mobile wallet transfers to agents promising instant quota approvals.",
+          "No Banking Information Requested: The official Fuel Pass System will never ask for your ATM PIN, bank account numbers, EasyPaisa/JazzCash OTPs, or credit card credentials.",
+          "Official Gateways Only: The only valid telecommunications shortcodes for the PM Petrol Relief Scheme are 9771 (registration and tokens) and 9772 (control room complaints). Any text originating from standard 11-digit mobile numbers claiming to represent the Prime Minister’s Fuel Relief Scheme is fraudulent."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What are the latest updates on the PM Petrol Relief Scheme in 2026?",
+        answer: "The federal government has confirmed a 10-month continuation of the Rs. 100 per litre petrol subsidy for registered motorcycles, rickshaws, and passenger cars up to 800cc."
+      },
+      {
+        question: "How much petrol discount do motorcycle owners receive each month?",
+        answer: "Motorcycle owners receive a Rs. 100 per litre subsidy on up to 20 litres per month, providing a maximum monthly financial relief of Rs. 2,000."
+      },
+      {
+        question: "What is the monthly subsidized petrol limit for cars up to 800cc?",
+        answer: "Passenger cars with engines up to 800cc are entitled to a subsidy on up to 30 litres of petrol monthly, resulting in a maximum saving of Rs. 3,000."
+      },
+      {
+        question: "Which SMS code is used to register for the PM petrol relief scheme?",
+        answer: "Applicants register by sending an SMS with their CNIC and vehicle registration details to the official shortcode 9771."
+      },
+      {
+        question: "How do I generate an encrypted fuel relief token on my mobile phone?",
+        answer: "To generate a fuel token, send the word \"TOK\" via SMS to 9771 from your registered mobile SIM card immediately prior to visiting a petrol pump."
+      },
+      {
+        question: "How long does a 9771 petrol relief token remain valid after generation?",
+        answer: "Each fuel token generated from 9771 remains active for exactly 24 hours, after which an unredeemed token expires and must be re-requested."
+      },
+      {
+        question: "Can one person register two different vehicles under the same CNIC?",
+        answer: "No, the Fuel Pass System strictly enforces a national ceiling of one registered vehicle per Computerized National Identity Card."
+      },
+      {
+        question: "How do petrol pump dealers get reimbursed by the government?",
+        answer: "The State Bank of Pakistan automatically clears and deposits reimbursement funds directly into participating petrol dealers' bank accounts within 48 hours of token redemption."
+      },
+      {
+        question: "Where can I report a petrol station that refuses my 9771 fuel token?",
+        answer: "You can report station refusal, unauthorized fees, or POS terminal issues directly to the official government grievance control room by calling 9772."
+      },
+      {
+        question: "Does registering for the petrol subsidy affect my BISP Kafaalat cash payments?",
+        answer: "No, receiving the fuel subsidy does not impact, lower, or disqualify any household from receiving quarterly BISP Kafaalat financial assistance."
+      }
+    ],
+    officialLinks: [
+      { label: "Petroleum Division Official Portal", href: "https://petroleum.gov.pk/" },
+      { label: "Ministry of Information Technology and Telecommunication", href: "https://moitt.gov.pk/" },
+      { label: "Oil and Gas Regulatory Authority (OGRA)", href: "https://ogra.org.pk/" },
+      { label: "State Bank of Pakistan (SBP)", href: "https://www.sbp.org.pk/" }
     ]
   },
 ];

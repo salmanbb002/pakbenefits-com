@@ -1,0 +1,145 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/#article",
+      "headline": "CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide",
+      "description": "Apply online for CM Punjab Youth Games 2026 at youthgames.punjab.gov.pk. Check age eligibility (U-16, U-19, U-25), 19 sports disciplines, registration steps, and Rs 500M prize pool.",
+      "url": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/",
+      "datePublished": "2026-09-29T00:00:00+05:00",
+      "dateModified": "2026-09-29T00:00:00+05:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Pak Benefits",
+        "url": "https://pakbenefits.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "CM Punjab Youth Games 2026",
+          "url": "https://youthgames.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Sports Board Punjab",
+          "url": "https://sportsboard.punjab.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        },
+        {
+          "@type": "Audience",
+          "name": "School, College, and University Athletes"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["> blockquote", ".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official website for CM Punjab Youth Games 2026 registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official website for CM Punjab Youth Games 2026 registration is youthgames.punjab.gov.pk, managed directly by Sports Board Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible to participate in the CM Punjab Youth Games 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Regular male and female students enrolled in public and private schools, colleges, universities, TEVTA institutes, and registered madaris across Punjab are eligible to participate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the age limits for School, College, and University levels?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The age limits are Under-16 (U-16) for school students, Under-19 (U-19) for college students, and Under-25 (U-25) for university and degree college athletes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can private school and college students participate in the games?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students enrolled in registered private schools, private degree colleges, and chartered private universities can participate alongside public institution athletes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any registration fee for the CM Punjab Youth Games?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, registration for the CM Punjab Youth Games 2026 is 100% free with zero fees charged by the Punjab Government or Sports Board Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many sports disciplines are included in the Punjab Youth Games 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There are 19 official sports disciplines in total, including 6 disciplines for school students, 14 for college athletes, and all 19 for university participants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can students from religious seminaries (Madaris) take part?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students from registered religious seminaries (Deeni Madaris) are fully eligible to compete in designated individual and team sports disciplines."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required to register for the youth games?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Required documents include a valid NADRA B-Form or CNIC, active student ID card or institutional enrollment proof, a passport-sized photograph, and Punjab domicile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the total cash prize pool for the CM Punjab Youth Games?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The total cumulative prize pool allocated by Chief Minister Maryam Nawaz Sharif for the 2026 Youth Games is Rs 500 Million (50 Crore PKR)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can athletes check their trial schedule and match fixtures?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Athletes can check trial schedules, match fixtures, and ground locations by logging into youthgames.punjab.gov.pk with their CNIC or B-Form number."
+          }
+        }
+      ]
+    }
+  ]
+}

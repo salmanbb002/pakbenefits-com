@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://pakbenefits.com/cm-punjab-green-credit-program-2026-online-apply/#article",
+      "headline": "CM Punjab Green Credit Program 2026: Online Apply, Portal & Rewards Guide",
+      "description": "Apply for CM Punjab Green Credit Program 2026 on greencredit.punjab.gov.pk. Learn eligible green activities, EV conversion rewards up to Rs 100,000, and verification rules.",
+      "url": "https://pakbenefits.com/cm-punjab-green-credit-program-2026-online-apply/",
+      "datePublished": "2026-09-29T00:00:00+05:00",
+      "dateModified": "2026-09-29T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Public Programmes & Financial Schemes Lead"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/icon.svg"
+        }
+      },
+      "image": "https://pakbenefits.com/images/cm-punjab-green-credit-program-2026.jpg",
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Chief Minister Punjab Green Credit Program",
+          "sameAs": "https://greencredit.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Environment Protection and Climate Change Department",
+          "sameAs": "https://epd.punjab.gov.pk/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Register and Earn Rewards on the Punjab Green Credit Portal",
+      "description": "Step-by-step instructions to register on greencredit.punjab.gov.pk, submit environmental evidence, and claim green credits.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Access the Official Green Credit Portal",
+          "text": "Navigate to greencredit.punjab.gov.pk using any desktop or smartphone web browser."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Create Your Account with CNIC",
+          "text": "Enter your 13-digit NADRA CNIC number without spaces and provide your active biometric mobile phone number."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Select Your Verified Green Activity",
+          "text": "Choose from 32 approved eco-actions across the 6 core environmental domains such as EV conversion, tree planting, or rainwater harvesting."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Upload Geotagged Evidence via MRV Module",
+          "text": "Upload clear, timestamped, geotagged photographs or authorized conversion invoices for departmental verification."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive Credits and Claim Cash Rewards",
+          "text": "Once audited and approved by the Environmental Protection Force, credits are deposited to your account for cash redemption through The Bank of Punjab."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/cm-punjab-green-credit-program-2026-online-apply/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the CM Punjab Green Credit Program 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The CM Punjab Green Credit Program 2026 is an official performance-based sustainability initiative launched by Chief Minister Maryam Nawaz Sharif and the Environment Protection and Climate Change Department (EP&CCD) that rewards citizens with points and cash prizes for performing verified eco-friendly actions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do citizens earn green credits in Punjab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Citizens earn green credits by completing and submitting photographic or digital proof of any of 32 approved eco-actions across air, land, ecology, water, waste, and environmental awareness sectors through the official web portal at greencredit.punjab.gov.pk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a cash reward of Rs. 100,000 for converting a petrol bike to an electric bike?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, citizens who legally retrofit their petrol-driven motorcycles into certified electric vehicles (EVs) through authorized vendors can qualify for cash incentives of up to Rs. 100,000 under the program's clean air initiative."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I register for the CM Punjab Green Credit Program online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can register online by visiting the official government web portal at greencredit.punjab.gov.pk and entering your 13-digit CNIC number and biometric mobile phone number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents and evidence are required to verify green activities?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must upload geotagged and timestamped photos or videos, relevant utility or purchase receipts, and official vehicle retrofit or registration certificates through the portal's Measurement, Reporting, and Verification (MRV) upload module."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible to participate in the CM Punjab Green Credit Program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All permanent residents of Punjab holding a valid NADRA CNIC or B-Form, including students, youth, housewives, farmers, and private business owners, are eligible to participate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are earned Green Credits redeemed for money?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Accumulated Green Credits are redeemed directly into the beneficiary's Bank of Punjab (BOP) account, linked mobile wallet, or as official municipal tax rebate vouchers once approved by the departmental audit committee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any application or registration fee to join the Green Credit Program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, registration and participation in the CM Punjab Green Credit Program on greencredit.punjab.gov.pk are 100% free of charge with no hidden service fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the Punjab government verify submitted eco-actions to prevent fraud?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Punjab Environmental Protection Agency (EPA) and Environmental Protection Force use AI-assisted image and metadata verification alongside random field inspections to authenticate every submitted eco-action."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official helpline number for inquiries regarding the Green Credit Program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can call the official Punjab Anti-Smog and Environmental Protection Helpline at 1373 or the Punjab Citizen Helpline at 0800-09100 for official guidance and support."
+          }
+        }
+      ]
+    }
+  ]
+}

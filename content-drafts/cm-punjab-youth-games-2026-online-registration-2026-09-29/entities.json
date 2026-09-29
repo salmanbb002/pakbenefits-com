@@ -1,0 +1,152 @@
+[
+  {
+    "canonical": "CM Punjab Youth Games 2026",
+    "type": "Government Program",
+    "aliases": ["Punjab Youth Games 2026", "Khelta Punjab Youth Games", "CM Youth Games"],
+    "sameAs": "https://youthgames.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sports Board Punjab",
+    "type": "Government Organization",
+    "aliases": ["SBP", "Punjab Sports Board"],
+    "sameAs": "https://sportsboard.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "youthgames.punjab.gov.pk",
+    "type": "Web Portal",
+    "aliases": ["Punjab Youth Games Portal", "Official Registration Website"],
+    "sameAs": "https://youthgames.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Under-16 School Level",
+    "type": "Competition Category",
+    "aliases": ["School Level U-16", "U-16 Youth Category"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Under-19 College Level",
+    "type": "Competition Category",
+    "aliases": ["College Level U-19", "U-19 Sports Category"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Under-25 University Level",
+    "type": "Competition Category",
+    "aliases": ["University Level U-25", "Higher Education U-25"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "19 Sports Disciplines",
+    "type": "Sports Category",
+    "aliases": ["Official Disciplines", "Sports Categories"],
+    "sameAs": "",
+    "kind": "metric",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 500 Million Prize Pool",
+    "type": "Financial Incentive",
+    "aliases": ["Cash Prize Pool", "50 Crore Sports Prize"],
+    "sameAs": "",
+    "kind": "metric",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Chief Minister Maryam Nawaz", "CM Punjab Maryam Nawaz"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Khelta Punjab",
+    "type": "Government Program",
+    "aliases": ["Khelta Punjab Initiative", "Khelta Punjab Vision"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Youth Affairs and Sports Department",
+    "type": "Government Department",
+    "aliases": ["Punjab Youth Affairs Department", "Sports Department Punjab"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA B-Form",
+    "type": "Document",
+    "aliases": ["Form B", "Child Registration Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Institutional Focal Person",
+    "type": "Role",
+    "aliases": ["Sports Director", "School Sports Master", "College Physical Training Instructor"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Religious Seminaries",
+    "type": "Target Group",
+    "aliases": ["Madaris Students", "Deeni Madaris Athletes"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Special Education Athletes",
+    "type": "Target Group",
+    "aliases": ["Para-Athletes", "Differently-Abled Students"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]
