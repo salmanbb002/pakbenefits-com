@@ -1,0 +1,196 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/federal-contributory-pension-scheme#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/federal-contributory-pension-scheme"
+      },
+      "headline": "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
+      "description": "Pakistan's Federal Contributory Pension Scheme (FGDC) covers federal employees hired after 1 July 2024. See the 10% + 12% contribution split, fund managers, and retirement rules.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://example.com/federal-contributory-pension-scheme",
+      "datePublished": "2025-10-05T08:00:00+05:00",
+      "dateModified": "2026-09-30T18:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Public Finance & Government Benefits Analyst",
+        "description": "Specialist in Pakistani government benefits, federal employee policy and pension reforms including the FGDC Pension Fund Scheme and Finance Division circulars.",
+        "url": "TODO: replace with real author page URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: replace with site name",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: replace with site logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Federal Contributory Pension Scheme",
+          "alternateName": "Federal Government Defined Contribution (FGDC) Pension Fund Scheme",
+          "sameAs": "https://www.finance.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Finance (Finance Division), Government of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Finance_(Pakistan)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Accountant General Pakistan Revenues (AGPR)",
+          "sameAs": "https://www.agpr.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Securities and Exchange Commission of Pakistan (SECP)",
+          "sameAs": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Commission_of_Pakistan"
+        },
+        {
+          "@type": "Legislation",
+          "name": "Voluntary Pension System Rules 2005",
+          "sameAs": ""
+        },
+        {
+          "@type": "Legislation",
+          "name": "Public Finance Management Act 2019",
+          "sameAs": ""
+        },
+        {
+          "@type": "Legislation",
+          "name": "FGDC Pension Fund Scheme Rules 2024 (SRO 1728(I)/2025)",
+          "sameAs": ""
+        },
+        {
+          "@type": "Organization",
+          "name": "International Monetary Fund",
+          "sameAs": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "p:first-of-type"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/federal-contributory-pension-scheme#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Federal Contributory Pension Scheme in Pakistan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Federal Contributory Pension Scheme is Pakistan's defined-contribution retirement system for federal employees appointed on or after 1 July 2024. The employee and the government both contribute to an individual invested account, and the retirement benefit is the accumulated value of that account rather than a fixed formula."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the contribution rate for the federal contributory pension scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The employee contributes 10% of pensionable pay and the government contributes 12%, for a combined 22% credited monthly. The earlier provisional government share of 20% was superseded by the final notified rate of 12%."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is covered by the FGDC pension scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Federal civil employees appointed on a regular basis on or after 1 July 2024 are covered, including civilians paid from Defence Estimates. Armed forces personnel appointed on or after 1 July 2025 come under the scheme from that later date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are employees hired before July 2024 affected?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Employees appointed before 1 July 2024 stay on the old defined-benefit pension, but under reformed rules — pension is now calculated on the average of the last 24 months' emoluments, and only one pension may be drawn at a time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can federal employees withdraw their contributions before retirement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Contributions cannot be withdrawn before retirement. At retirement, the employee may withdraw up to 25% of the accumulated balance, while the remainder stays invested and is drawn over at least 20 years or until age 80, whichever comes first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happened to the old pension for existing employees?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The old defined-benefit pension continues for pre-2024 employees, but the calculation base moved from last-drawn pay to a 24-month average of emoluments, annual increases are maintained as separate amounts, and a one-pension rule plus an early-retirement reduction now apply."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who manages the FGDC pension fund?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Licensed pension fund managers — Non-Banking Finance Companies authorised by the SECP — manage the fund under the Voluntary Pension System Rules 2005. The AGPR deducts and remits contributions, and the Finance Division publishes the list of eligible fund managers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When did the scheme become operational?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The rules were notified on 27 August 2025 via SRO 1728(I)/2025. The scheme entered its operational phase in August 2026, when the Finance Division issued implementation guidelines and published the eligible pension fund manager list."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between defined benefit and defined contribution pension?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In a defined-benefit pension, the government bears the investment risk and pays a fixed formula based on service and pay. In a defined-contribution pension, the member owns an account, and the benefit depends on contributions plus investment returns, so the member carries the investment risk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do provincial employees come under this scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The FGDC scheme is for federal employees. Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan have notified their own separate contributory schemes for their new entrants, with dates and rates set by each province's own notification."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/federal-contributory-pension-scheme#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Federal Employee Benefits",
+          "item": "https://example.com/federal-employee-benefits/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Federal Contributory Pension Scheme",
+          "item": "https://example.com/federal-contributory-pension-scheme"
+        }
+      ]
+    }
+  ]
+}

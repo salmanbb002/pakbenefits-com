@@ -1,0 +1,322 @@
+[
+  {
+    "canonical": "Federal Contributory Pension Scheme",
+    "type": "Program",
+    "aliases": ["FGDC Pension Fund Scheme", "Defined Contribution Pension Scheme", "Contributory Pension Funds Scheme"],
+    "sameAs": "https://www.finance.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "FGDC Pension Fund Scheme Rules 2024",
+    "type": "Law",
+    "aliases": ["FGDC Rules 2024", "Federal Government Defined Contribution Rules"],
+    "sameAs": "https://www.finance.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Ministry of Finance (Finance Division)",
+    "type": "GovernmentOrganization",
+    "aliases": ["Finance Division", "Finance Ministry"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Finance_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Accountant General Pakistan Revenues (AGPR)",
+    "type": "GovernmentOrganization",
+    "aliases": ["AGPR", "Accountant General's Office"],
+    "sameAs": "https://www.agpr.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Contribution Rate (10% + 12% = 22%)",
+    "type": "Money",
+    "aliases": ["Employee 10%", "Government 12%", "22% total contribution"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Defined Contribution vs Defined Benefit",
+    "type": "Concept",
+    "aliases": ["DC vs DB pension", "contributory vs non-contributory"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Civil Employees Coverage (1 July 2024)",
+    "type": "Event",
+    "aliases": ["Post-July 2024 employees", "new federal entrants"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Licensed Pension Fund Managers",
+    "type": "Organization",
+    "aliases": ["PFM", "fund managers", "NBFC pension managers"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Voluntary Pension System Rules 2005",
+    "type": "Law",
+    "aliases": ["VPS Rules", "VPS framework"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "SRO 1728(I)/2025 (27 Aug 2025)",
+    "type": "Law",
+    "aliases": ["Statutory notification", "Gazette 8 September 2025"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Armed Forces Coverage (1 July 2025)",
+    "type": "Event",
+    "aliases": ["Armed forces new entrants", "military contributory pension"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Controller General of Accounts (CGA)",
+    "type": "GovernmentOrganization",
+    "aliases": ["CGA", "Controller General of Accounts"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Public Finance Management Act 2019",
+    "type": "Law",
+    "aliases": ["PFM Act 2019"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "25% Withdrawal at Retirement",
+    "type": "Metric",
+    "aliases": ["25% withdrawal rule", "25 percent lump sum"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Drawdown Period (20 years / age 80)",
+    "type": "Metric",
+    "aliases": ["20-year drawdown", "age 80 rule"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Federal Pension Bill (Rs 1.05 trillion)",
+    "type": "Money",
+    "aliases": ["Pension bill FY2024-25", "Rs 821 billion FY2023-24"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "IMF & World Bank",
+    "type": "Organization",
+    "aliases": ["International Monetary Fund", "World Bank"],
+    "sameAs": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "24-Month Average Emoluments",
+    "type": "Metric",
+    "aliases": ["Average of last 24 months", "24-month average formula"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "One-Pension Rule",
+    "type": "Law",
+    "aliases": ["Single pension rule", "one pension at a time"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "SECP (Securities and Exchange Commission of Pakistan)",
+    "type": "GovernmentOrganization",
+    "aliases": ["SECP"],
+    "sameAs": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Commission_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Non-Banking Finance Companies Regulations 2008",
+    "type": "Law",
+    "aliases": ["NBFC & Notified Entities Regulations 2008"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Defined-Benefit (Old) Pension",
+    "type": "Concept",
+    "aliases": ["Old pension", "non-contributory pension"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "GovernmentOrganization",
+    "aliases": ["SBP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Auditor General of Pakistan",
+    "type": "GovernmentOrganization",
+    "aliases": ["AGP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Budget Allocations (Rs 10 bn / Rs 4.3 bn)",
+    "type": "Money",
+    "aliases": ["FY2024-25 Rs 10 billion", "FY2025-26 Rs 4.3 billion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Focal Person Nomination (BS-17+)",
+    "type": "Process",
+    "aliases": ["Focal person", "BS-17 officer"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "15-Day Data Verification",
+    "type": "Metric",
+    "aliases": ["15-day employee list verification"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Commutation",
+    "type": "Process",
+    "aliases": ["Pension commutation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Family Pension",
+    "type": "Concept",
+    "aliases": ["Family pension entitlement"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "EOBI (Employees' Old-Age Benefits Institution)",
+    "type": "Organization",
+    "aliases": ["EOBI"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Provincial Contributory Schemes",
+    "type": "Program",
+    "aliases": ["Punjab/Sindh/KP/Balochistan DC schemes"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Early Retirement Reduction",
+    "type": "Metric",
+    "aliases": ["Early retirement penalty", "per-year reduction"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  }
+]

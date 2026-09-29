@@ -1492,6 +1492,316 @@ export const categories: Category[] = [
 
 export const articles: Article[] = [
   {
+    slug: "cm-punjab-electric-bike-scheme",
+    title: "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments",
+    excerpt: "Apply online for the CM Punjab Electric Bike Scheme 2026: 100,000 electric scooties at PKR 199,000 with a Rs 90,000 Punjab subsidy, zero down payment, 0% interest and ~Rs 3,000 monthly installments over 3 years. Deadline: October 4, 2026.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility & Price",
+    metaDescription: "Apply online for the CM Punjab Electric Bike Scheme 2026 before October 4. 100,000 electric scooties, Rs 90,000 subsidy, 0% interest and Rs 3,000 monthly installments.",
+    focusKeyword: "cm punjab electric bike scheme",
+    lsiKeywords: [
+      "cm punjab electric bike scheme apply online",
+      "punjab electric bike scheme eligibility 2026",
+      "cm punjab e-bike subsidy price installment",
+      "bikes punjab gov pk registration",
+      "maryam nawaz electric bike scheme 2026",
+      "punjab e-bike balloting result check"
+    ],
+    entities: [
+      "CM Punjab Electric Bike Scheme",
+      "Maryam Nawaz Sharif",
+      "The Bank of Punjab",
+      "Punjab Information Technology Board",
+      "Transport & Mass Transit Department",
+      "bikes.punjab.gov.pk",
+      "Rs 90,000 Capital Subsidy",
+      "PKR 199,000 E-Bike Price",
+      "100,000 Electric Scooties",
+      "October 4, 2026 Deadline"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes"
+    ],
+    date: "September 30, 2026",
+    publishedDate: "September 30, 2026",
+    lastChecked: "September 30, 2026",
+    readTime: "10 min read",
+    image: "/images/cm-punjab-electric-bike-scheme.jpg",
+    imageAlt: "CM Punjab Electric Bike Scheme 2026 editorial banner showing the PKR 199,000 scooty price and Rs 90,000 subsidy",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
+      { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
+      { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
+      { label: "Federal PAVE Portal", href: "https://pave.gov.pk/" }
+    ],
+    relatedSlugs: [
+      "cm-punjab-e-bike-scheme-updates",
+      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
+      "electric-bike-scheme-guide",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting"
+    ],
+    sections: [
+      {
+        title: "What Is the CM Punjab Electric Bike Scheme?",
+        paragraphs: [
+          "The CM Punjab Electric Bike Scheme is a provincial electric-mobility programme launched by Chief Minister Maryam Nawaz Sharif under the CM Youth Initiative and run by the Transport & Mass Transit Department. It lets students acquire a subsidised electric scooty through interest-free instalments instead of paying the full market price up front, directly easing the daily cost of buses, rickshaws and petrol.",
+          "The Bank of Punjab (BOP) finances each bike and handles verification, while the Punjab Information Technology Board (PITB) runs the online portal and the transparent computerised e-balloting used to select beneficiaries when applications exceed the quota. Because the provincial government pays the markup, the applicant never carries an interest burden."
+        ],
+        subsections: [
+          {
+            title: "A Green Youth-Mobility Initiative",
+            paragraphs: [
+              "The scheme is the flagship of Punjab's push toward clean student transport. Its purpose is to replace costly petrol commuting with a low-running-cost electric scooty, and to remove the upfront cash barrier that keeps many students dependent on shared transport."
+            ]
+          },
+          {
+            title: "What a Successful Applicant Receives",
+            paragraphs: [
+              "A selected applicant receives an electric scooty, not cash, with a 2026 make, a 72V 30Ah LiFePO4 battery, a 1,000 W BLDC rear-wheel hub motor and a top speed of 50-55 km/h. The Government of Punjab also covers the vehicle's insurance, registration and token tax, and delivery includes a free helmet and safety rods."
+            ]
+          }
+        ],
+        links: [
+          { label: "How to compare electric bike scheme notices", href: "/electric-bike-scheme-guide/" },
+          { label: "Explore all Punjab welfare schemes", href: "/punjab-schemes/" }
+        ]
+      },
+      {
+        title: "What Is the Price, Subsidy and Installment Plan in 2026?",
+        paragraphs: [
+          "The electric scooty is priced at PKR 199,000, and the Government of Punjab (GoPb) contributes a capital subsidy of Rs 90,000 toward every unit. This subsidy is a grant that does not have to be repaid. The remaining amount is financed through the Bank of Punjab, and because GoPb also bears the financing's interest cost, the student repays only the principal with no markup added.",
+          "The financed balance is repaid in approximately Rs 3,000 monthly installments over a 3-year (36-month) term, with no down payment required. GoPb further absorbs the insurance, registration and token-tax costs that would otherwise be added on top of the installment."
+        ],
+        table: {
+          caption: "CM Punjab Electric Bike Scheme Phase 2 Cost Breakdown",
+          headers: ["Cost item", "Who pays"],
+          rows: [
+            ["E-bike price (PKR 199,000)", "Shared: Rs 90,000 GoPb subsidy + financed balance"],
+            ["Interest / markup", "Government of Punjab (0% for applicant)"],
+            ["Down payment", "None required"],
+            ["Insurance", "Government of Punjab"],
+            ["Registration & token tax", "Government of Punjab"],
+            ["Monthly installment (~Rs 3,000 x 36 months)", "Student"]
+          ]
+        },
+        links: [
+          { label: "CM Punjab E-Bike Scheme Phase 2 updates and balloting", href: "/cm-punjab-e-bike-scheme-updates/" }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the CM Punjab Electric Bike Scheme?",
+        paragraphs: [
+          "The applicant must be a bonafide student enrolled in an educational institution duly registered or recognised by the relevant department, board, authority or regulatory body of the Government of Punjab. Both public-sector and private-sector institutions qualify, and students must provide proof of enrolment together with the latest paid fee slip.",
+          "One exclusion that is easy to miss: students enrolled in federally chartered institutes, including their campuses, are not eligible under this provincial scheme. If your institute is chartered by the federal government rather than the Government of Punjab, the federal PAVE programme is the correct route."
+        ],
+        subsections: [
+          {
+            title: "Age and Driving-License Requirements",
+            paragraphs: [
+              "The minimum age to apply is 16 years at the time of submission, and the applicant must hold a valid driving license, learner's driving permit, or juvenile driving permit, as applicable. Applicants aged 16 who need a juvenile permit can obtain one by visiting their nearest Sahulat Center with a guardian."
+            ]
+          },
+          {
+            title: "Identification Requirements",
+            paragraphs: [
+              "For identification, the applicant must hold a valid CNIC, B-Form or Child Registration Certificate (CRC) as applicable to their age."
+            ]
+          }
+        ],
+        links: [
+          { label: "Pink Scooty Scheme 2026: female quota and balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" },
+          { label: "CM Punjab Honhaar Scholarship Program 2026", href: "/cm-punjab-honhaar-scholarship-program-2026/" }
+        ]
+      },
+      {
+        title: "What Are the Guarantor and Income Requirements?",
+        paragraphs: [
+          "Because most student applicants are not yet earning, the scheme requires a guarantor, normally a parent or legal guardian, who carries valid proof of income. The guarantor must have a verifiable and regular source of income and a valid CNIC, and must provide a recent bank statement as evidence of financial capacity for the Bank of Punjab's verification."
+        ],
+        subsections: [
+          {
+            title: "The PKR 40,000 Minimum Income Rule",
+            paragraphs: [
+              "The guarantor must have a minimum monthly income of PKR 40,000, applied under the bank's regulations. In addition, the mobile number entered on the application must be registered in the guarantor's own name against their CNIC, or in the applicant's name if the student has a documented source of income. A SIM registered to a relative or an agent will fail verification."
+            ]
+          }
+        ]
+      },
+      {
+        title: "What Documents Do I Need to Apply?",
+        paragraphs: [
+          "Gather clear, legible copies of every document before opening the portal. Blurred scans, expired licences or name mismatches are the most common reason for rejection or delay."
+        ],
+        subsections: [
+          {
+            title: "Student Documents",
+            paragraphs: [
+              "The student set includes a valid CNIC (or B-Form/CRC where allowed for the age bracket), a student card or bonafide/enrolment certificate, the latest paid fee slip, a motorcycle learner's permit or driving license, and a recent passport-size photograph."
+            ]
+          },
+          {
+            title: "Guarantor Documents",
+            paragraphs: [
+              "The guarantor must supply their valid CNIC, a recent bank statement showing financial capacity, and proof of a regular income such as a salary slip. Keep the originals ready, because the Bank of Punjab re-verifies guarantor and income details at the financing stage."
+            ]
+          }
+        ],
+        links: [
+          { label: "Documents for government-programme inquiries", href: "/documents-for-bisp-registration/" }
+        ]
+      },
+      {
+        title: "How to Apply Online at bikes.punjab.gov.pk (Step by Step)",
+        paragraphs: [
+          "The application is entirely digital. There are no paper forms, office visits or agents. Follow these steps inside the Phase 2 window, which closes on October 4, 2026."
+        ],
+        bullets: [
+          "Step 1: Open the official portal at bikes.punjab.gov.pk, the only legitimate student application portal.",
+          "Step 2: Register with your CNIC number and an active mobile number, then verify the OTP sent by SMS.",
+          "Step 3: Fill the application form with personal, academic and contact details exactly as they appear on your documents.",
+          "Step 4: Upload the required documents and select your bike option from the official catalogue.",
+          "Step 5: Submit and save your Application ID, which you will need for tracking and balloting results.",
+          "Step 6: After the deadline, PITB runs a computerised e-balloting draw and notifies selected applicants by SMS.",
+          "Step 7: The Bank of Punjab verifies your documents and guarantor, then the bike is delivered through the assigned dealer."
+        ]
+      },
+      {
+        title: "How to Check Application Status and Balloting Results",
+        paragraphs: [
+          "You can monitor progress by logging into the official portal dashboard with your Application ID or CNIC. The portal reports the current stage of your file, such as submitted, under verification, selected in ballot, approved for financing, or delivered."
+        ],
+        subsections: [
+          {
+            title: "What Balloting Means for You",
+            paragraphs: [
+              "When valid applications exceed the 100,000-scooty allocation, selection is made through PITB's computerised e-balloting, a random draw that no person, agent or website can influence. Being selected in the ballot is not the final step: you must still clear the Bank of Punjab's verification and financing formalities."
+            ]
+          }
+        ],
+        links: [
+          { label: "CM Punjab E-Bike Scheme Phase 2 updates and merit lists", href: "/cm-punjab-e-bike-scheme-updates/" }
+        ]
+      },
+      {
+        title: "CM Punjab Electric Scooty: Price, Specs and Colours",
+        paragraphs: [
+          "The Phase 2 vehicle is a purpose-built electric scooty rather than a petrol motorcycle. Its confirmed specifications come from the official portal."
+        ],
+        table: {
+          caption: "Official Electric Scooty Technical Specifications",
+          headers: ["Specification", "Value"],
+          rows: [
+            ["Make & manufacturing", "2026"],
+            ["Battery capacity", "72V, 30Ah"],
+            ["Battery type", "LiFePO4"],
+            ["Motor power", "1,000 W"],
+            ["Motor type", "BLDC rear-wheel hub motor"],
+            ["Maximum speed", "50-55 km/h"],
+            ["Controller", "12 tube"],
+            ["Dashboard", "Digital display"],
+            ["Headlamp", "LED"],
+            ["Suspension", "Hydraulic shock absorption"],
+            ["Colours", "Midnight Black, Sakura Pink"]
+          ]
+        }
+      },
+      {
+        title: "Phase 1 vs Phase 2: What Changed in 2026?",
+        paragraphs: [
+          "Many readers still land on articles written about the first phase. The table below reconciles what changed so you do not act on stale numbers."
+        ],
+        table: {
+          caption: "Comparison Between Phase 1 Pilot and Phase 2 (2026)",
+          headers: ["Parameter", "Phase 1 (pilot)", "Phase 2 (2026 - current)"],
+          rows: [
+            ["Coverage", "5 cities", "All 36 districts of Punjab"],
+            ["Allocation", "~20,000 bikes (mostly petrol)", "100,000 electric scooties"],
+            ["Subsidy", "Earlier-announced Rs 70,000", "Rs 90,000 capital subsidy"],
+            ["Down payment", "Rs 14,000 (earlier-announced)", "None"],
+            ["Monthly installment", "~Rs 2,100 (earlier-announced)", "~Rs 3,000"],
+            ["Extra tracks", "-", "Teachers (PTF), government employees announced"]
+          ]
+        }
+      },
+      {
+        title: "CM Punjab vs PM PAVE Scheme: What's the Difference?",
+        paragraphs: [
+          "The CM Punjab Electric Bike Scheme is a provincial programme, while the Prime Minister E-Bike Scheme operates under the federal Pakistan Accelerated Vehicle Electrification (PAVE) initiative. They use different portals and rules, and being eligible for one does not automatically make you eligible for the other."
+        ],
+        table: {
+          caption: "CM Punjab vs Federal PAVE Electric Bike Schemes",
+          headers: ["Parameter", "CM Punjab E-Bike Scheme", "PM PAVE Scheme"],
+          rows: [
+            ["Government level", "Provincial (Punjab)", "Federal"],
+            ["Coverage", "Punjab only", "Pakistan-wide (incl. AJK & Gilgit-Baltistan)"],
+            ["Main beneficiaries", "Punjab students", "Eligible applicants across Pakistan"],
+            ["Financial support", "Rs 90,000 subsidy per e-bike", "Rs 50,000 (bank leasing) / up to Rs 80,000 (self-finance)"],
+            ["Official portal", "bikes.punjab.gov.pk", "pave.gov.pk"],
+            ["Selection", "PITB e-balloting + BOP verification", "Federal e-balloting + verification"]
+          ]
+        },
+        links: [
+          { label: "PAVE Scheme 2026: eligibility and electric bike subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
+        ]
+      },
+      {
+        title: "Official Portals, Helpline and Scam Alerts",
+        paragraphs: [
+          "For students, the only official application portal is bikes.punjab.gov.pk. The separate teacher track uses ptf.punjab.gov.pk. Any other website that asks for your CNIC, OTP, bank details or a registration fee is not official, and domains such as ptfpunjabgov.com are not government sites despite the name.",
+          "The official helpline is 042-99212260, with email support at support@bikes.punjab.gov.pk. Registration is free across all channels, computerised e-balloting cannot be influenced, and you should never share your CNIC image, OTP, password or bank PIN with anyone."
+        ],
+        links: [
+          { label: "Recognize programme impersonation and fraud", href: "/avoid-bisp-fraud/" }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the price of the e-bike under the scheme?",
+        answer: "The electric scooty is priced at PKR 199,000. The Government of Punjab contributes a Rs 90,000 capital subsidy toward this price, and the remaining balance is financed interest-free."
+      },
+      {
+        question: "How much capital subsidy is provided by the Government of Punjab?",
+        answer: "The Government of Punjab provides a capital subsidy of Rs 90,000 per e-bike. This amount is a grant and does not have to be repaid by the student."
+      },
+      {
+        question: "Is a down payment required for the e-bike?",
+        answer: "No down payment is required. The financed balance is repaid entirely through approximately Rs 3,000 monthly installments over a 3-year term."
+      },
+      {
+        question: "What is the financing period, and who pays the interest?",
+        answer: "The financing period is 3 years, and the Government of Punjab (GoPb) pays the full interest cost. The applicant pays only the principal, at 0% markup."
+      },
+      {
+        question: "Who pays the insurance, registration and token-tax costs?",
+        answer: "The Government of Punjab bears the insurance, registration and token-tax costs of the e-bike. These charges are not added to the student's installments."
+      },
+      {
+        question: "How many e-bikes are being provided under the scheme?",
+        answer: "Phase 2 provides 100,000 electric scooties to students across Punjab, covering all 36 districts."
+      },
+      {
+        question: "Which students are eligible based on their educational institution?",
+        answer: "Students of both public and private educational institutions are eligible, provided the institution is registered or recognised by the relevant Government of Punjab authority. Students of federally chartered institutes are not eligible under this provincial scheme."
+      },
+      {
+        question: "What is the minimum age and driving document required to apply?",
+        answer: "The minimum age is 16 years at the time of application. Applicants must also hold a valid driving license, learner's permit or juvenile driving permit."
+      },
+      {
+        question: "Who can act as a guarantor, and what income is required?",
+        answer: "A parent or legal guardian can act as guarantor, provided they have a valid CNIC and a verifiable monthly income of at least PKR 40,000, supported by a recent bank statement."
+      },
+      {
+        question: "What is the last date to apply?",
+        answer: "The last date to apply for Phase 2 is October 4, 2026. Applications are submitted only through bikes.punjab.gov.pk."
+      }
+    ]
+  },
+  {
     slug: "cm-punjab-e-bike-scheme-updates",
     title: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal, Balloting Results & BOP Installment Plan",
     excerpt: "Verified CM Punjab E-Bike Scheme Phase 2 updates: 100,000 electric bikes quota, Rs 90,000 Punjab Govt subsidy, zero down payment waiver, Rs 3,028/month Bank of Punjab installment, bikes.punjab.gov.pk registration steps, and balloting lists.",
@@ -1540,6 +1850,7 @@ export const articles: Article[] = [
       { label: "DLIMS License Verification", href: "https://dlims.punjab.gov.pk/" }
     ],
     relatedSlugs: [
+      "cm-punjab-electric-bike-scheme",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "cm-punjab-honhaar-scholarship-program-2026",
       "cm-punjab-free-laptop-scheme-2026-online-apply",
@@ -7635,6 +7946,10 @@ officialLinks: [
         ],
         "links": [
           {
+            "label": "CM Punjab Electric Bike Scheme 2026: apply online and eligibility",
+            "href": "/cm-punjab-electric-bike-scheme/"
+          },
+          {
             "label": "Punjab schemes and education support",
             "href": "/punjab-schemes/"
           }
@@ -13421,6 +13736,9 @@ officialLinks: [
   imageAlt: "Young Pakistani entrepreneurs in a modern office reviewing Prime Minister Youth Loan Scheme application details",
   author: contributors.muhammadSalman,
   reviewer: contributors.ayeshaMalik,
+  relatedSlugs: [
+    "federal-contributory-pension-scheme"
+  ],
   sections: [
     {
       title: "What Is the Prime Minister Youth Loan Scheme 2026?",
@@ -23063,6 +23381,315 @@ officialLinks: [
       { label: "Ministry of Information Technology and Telecommunication", href: "https://moitt.gov.pk/" },
       { label: "Oil and Gas Regulatory Authority (OGRA)", href: "https://ogra.org.pk/" },
       { label: "State Bank of Pakistan (SBP)", href: "https://www.sbp.org.pk/" }
+    ]
+  },
+  {
+    slug: "federal-contributory-pension-scheme",
+    relatedSlugs: [
+      "prime-minister-youth-loan-scheme-2026",
+      "ehsaas-interest-free-loan-vs-saving-wallet",
+      "bisp-direct-bank-account-transfer-online-registration"
+    ],
+    title: "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
+    excerpt: "Pakistan's Federal Contributory Pension Scheme (FGDC) covers federal employees hired after 1 July 2024. The employee contributes 10% and the government 12% (22% total) into an individually invested fund managed by licensed pension fund managers.",
+    showExcerpt: true,
+    metaTitle: "Federal Contributory Pension Scheme: FGDC Rules & Contributions",
+    metaDescription: "How Pakistan's Federal Contributory Pension Scheme (FGDC) works for post-July 2024 federal employees. See the 10% + 12% contribution split, fund managers, and retirement rules.",
+    focusKeyword: "federal contributory pension scheme",
+    lsiKeywords: [
+      "fgdc pension fund scheme rules 2024",
+      "contributory pension scheme contribution rate pakistan",
+      "federal employees pension july 2024",
+      "defined contribution vs defined benefit pension",
+      "pension fund managers pakistan secp",
+      "25 percent withdrawal retirement pension",
+      "24 month average pension formula"
+    ],
+    entities: [
+      "Federal Government Defined Contribution Pension Fund Scheme",
+      "Ministry of Finance (Finance Division)",
+      "Accountant General Pakistan Revenues (AGPR)",
+      "Securities and Exchange Commission of Pakistan (SECP)",
+      "Voluntary Pension System",
+      "State Bank of Pakistan",
+      "International Monetary Fund"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: [
+      "other-schemes"
+    ],
+    date: "September 30, 2026",
+    publishedDate: "September 30, 2026",
+    lastChecked: "September 30, 2026",
+    readTime: "12 min read",
+    image: "/images/federal-contributory-pension-scheme.jpg",
+    imageAlt: "Editorial banner for Pakistan's Federal Contributory Pension Scheme (FGDC) 2024 showing the 10% employee and 12% government contribution split",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the Federal Contributory Pension Scheme?",
+        paragraphs: [
+          "Pakistan's Federal Contributory Pension Scheme, formally the Federal Government Defined Contribution (FGDC) Pension Fund Scheme, is the new retirement system for federal civil employees appointed on or after 1 July 2024. The employee contributes 10% of pensionable pay and the government contributes 12% - a combined 22% - into an individually invested fund managed by licensed pension fund managers, replacing the old non-contributory pension.",
+          "The final contribution rate of 10% + 12% = 22% supersedes an earlier August 2024 directive that had set the government share at a provisional 20%. Contributions are deducted at source through the AGPR payroll and shown separately on each monthly salary slip together with the government's matching share and the running account balance."
+        ],
+        bullets: [
+          "Scheme name: Federal Government Defined Contribution (FGDC) Pension Fund Scheme, 2024",
+          "Legal basis: SRO 1728(I)/2025 dated 27 August 2025 (gazetted 8 September 2025)",
+          "Employee contribution: 10% of pensionable pay; government contribution: 12% (22% total)",
+          "Applicable from: 1 July 2024 (civilians) and 1 July 2025 (armed forces)",
+          "Administrator: Finance Division (Ministry of Finance) with the AGPR"
+        ],
+        subsections: [
+          {
+            title: "From Non-Contributory to Defined Contribution: The Shift Explained",
+            paragraphs: [
+              "The scheme converts Pakistan's federal employee pension from a non-contributory, defined-benefit model into a contributory, defined-contribution model. Under the old arrangement, the state alone funded retirement and promised a fixed pension linked to final pay. Under the new scheme, both the employee and the government pay into an individual retirement account every month, and the eventual benefit depends on the accumulated contributions plus investment returns.",
+              "This is the central conceptual change. In a defined-benefit pension, the employer bears the investment risk and the payout is guaranteed by formula. In a defined-contribution pension, the member owns an account balance, and that balance - not a formula - determines the retirement income."
+            ]
+          },
+          {
+            title: "Legal Basis: SRO 1728(I)/2025 and the FGDC Rules 2024",
+            paragraphs: [
+              "The scheme is established by the Federal Government Defined Contribution (FGDC) Pension Fund Scheme Rules, 2024, notified by the Ministry of Finance through SRO 1728(I)/2025 dated 27 August 2025 and gazetted on 8 September 2025. The rules were developed under the Public Finance Management Act 2019 and are regulated within the Voluntary Pension System Rules 2005 and the Non-Banking Finance Companies and Notified Entities Regulations 2008.",
+              "The notification was circulated to every federal ministry, division and attached department through an Office Memorandum, and copied to the Auditor General of Pakistan, the Accountant General Pakistan Revenues (AGPR) and the State Bank of Pakistan."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Why Did Pakistan Replace the Old Pension System?",
+        paragraphs: [
+          "The old pension system had become fiscally unsustainable, and the contributory scheme was introduced as a structural fix recommended by international lenders."
+        ],
+        subsections: [
+          {
+            title: "The Rs 1 Trillion Pension Bill Driving Reform",
+            paragraphs: [
+              "The federal government's pension bill for FY2024-25 was projected at Rs 1.05 trillion, a 29% jump from Rs 821 billion in FY2023-24. Armed forces pension liabilities were expected to reach Rs 742 billion in FY2025-26, up 32% from Rs 563 billion two years earlier.",
+              "Because the state carried the entire liability, every new appointment added a future obligation with no matching fund behind it. The contributory scheme closes that gap by pre-funding each employee's retirement through monthly contributions."
+            ]
+          },
+          {
+            title: "An IMF and World Bank-Backed Structural Change",
+            paragraphs: [
+              "The reform was introduced on the recommendation of the International Monetary Fund (IMF) and the World Bank as part of the wider effort to curb Pakistan's fiscal deficit. The government backed the new system with an allocation of Rs 10 billion in the FY2024-25 federal budget and a further Rs 4.3 billion for FY2025-26 to seed and administer the fund.",
+              "Like other federal financing initiatives, the goal is a self-sustaining system rather than an open-ended budget line."
+            ],
+            links: [
+              { label: "Prime Minister Youth Loan Scheme 2026", href: "/prime-minister-youth-loan-scheme-2026/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who Is Covered by the Federal Contributory Pension Scheme?",
+        paragraphs: [
+          "Coverage is determined entirely by appointment date, not by pay scale or department."
+        ],
+        subsections: [
+          {
+            title: "Civil Employees Appointed On or After 1 July 2024",
+            paragraphs: [
+              "The scheme applies to federal civil employees appointed on a regular basis on or after 1 July 2024. This covers all civil servants of the federal government, including civilians paid from Defence Estimates, across ministries, divisions, attached departments and subordinate offices.",
+              "The Finance Division's 11 August 2026 guidelines directed every ministry to prepare and verify lists of employees appointed from 1 July 2024 and update their particulars with the AGPR within 15 days. The Controller General of Accounts (CGA) then consolidates these lists by ministry, division, department and Basic Pay Scale (BPS)."
+            ]
+          },
+          {
+            title: "Armed Forces Personnel and Civilians Paid from Defence Estimates",
+            paragraphs: [
+              "For the armed forces, the contributory scheme takes effect for personnel appointed on a regular basis on or after 1 July 2025. At the time of the original notification, armed forces contributions were still under consideration and remained at zero. Civilian staff paid from Defence Estimates are treated with the civilian cohort and come under the 1 July 2024 date."
+            ]
+          },
+          {
+            title: "Who Stays on the Old Defined-Benefit Pension?",
+            paragraphs: [
+              "Every federal employee appointed before 1 July 2024 remains on the defined-benefit pension, but with the reformed calculation rules introduced alongside the new scheme. Their pension does not disappear; it is recalculated under new formulas, including the 24-month average of emoluments."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How Much Do Employees and the Government Contribute?",
+        paragraphs: [
+          "The contribution structure is the single most important number for any covered employee to know."
+        ],
+        subsections: [
+          {
+            title: "The 10% Employee and 12% Government Split (22% Total)",
+            paragraphs: [
+              "The employee contributes 10% of pensionable pay, and the government contributes 12%, for a combined 22% credited to the employee's individual pension account each month.",
+              "This 12% figure corrects an earlier announcement. In August 2024 the government had set its share at a provisional 20%; the final rules notified through SRO 1728(I)/2025 reduced it to 12%. Several older articles still cite the 20% rate, so treat 10% + 12% = 22% as the operative figure as of the final notification."
+            ]
+          },
+          {
+            title: "What Counts as Pensionable Pay?",
+            paragraphs: [
+              "Contributions are calculated on pensionable pay - the pay elements that count toward pension, which centre on basic pay rather than the full take-home package. Allowances and other emoluments are handled according to the notified definition in the rules.",
+              "Because both contributions and, for the old scheme, the benefit formula reference pensionable emoluments, the distinction between basic pay and total salary matters: a 10% deduction on basic pay is materially smaller than 10% of gross salary."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How Is the FGDC Pension Fund Managed and Invested?",
+        paragraphs: [
+          "Monthly contributions are pooled into a dedicated investment fund managed by regulated private fund managers."
+        ],
+        subsections: [
+          {
+            title: "Licensed Pension Fund Managers and the Voluntary Pension System",
+            paragraphs: [
+              "The fund is managed by licensed pension fund managers - Non-Banking Finance Companies (NBFCs) authorised by the Securities and Exchange Commission of Pakistan (SECP). The scheme operates within the Voluntary Pension System (VPS) Rules 2005 and the Non-Banking Finance Companies and Notified Entities Regulations 2008.",
+              "On 2 August 2026 the Finance Division published the list of eligible pension fund managers that had executed agreements with the federal government. The government's portion is budgeted annually, and agreements require fund managers to support electronic transfer systems and insurance coverage against death or disability."
+            ],
+            links: [
+              { label: "How interest-free loans and saving wallets differ", href: "/ehsaas-interest-free-loan-vs-saving-wallet/" }
+            ]
+          },
+          {
+            title: "AGPR, CGA, and the Contribution Recordkeeping Chain",
+            paragraphs: [
+              "The AGPR sits at the centre of the administration: it deducts the employee's contribution, records the government's matching share, and remits both to the chosen fund manager. The Controller General of Accounts (CGA) coordinates the consolidated, ministry-wise register of covered employees.",
+              "Each employee's salary slip carries the individual contribution, the government contribution and the total accumulated amount, so members can track their account monthly."
+            ],
+            links: [
+              { label: "Registering a bank account for direct government transfers", href: "/bisp-direct-bank-account-transfer-online-registration/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "What Do You Get at Retirement Under the Contributory Scheme?",
+        paragraphs: [
+          "There is no fixed-formula pension at the end of a contributory career. The payout is the accumulated account value."
+        ],
+        subsections: [
+          {
+            title: "The 25% Withdrawal Rule at Retirement",
+            paragraphs: [
+              "At retirement, the employee may withdraw up to 25% of the accumulated account balance as a lump sum. The balance available at that point equals every contribution made (employee plus government) plus the investment returns earned over the years.",
+              "This is the most important practical difference from the old scheme: the payout is the account value, not a percentage of last salary. A longer career with steady contributions compounds into a larger balance."
+            ]
+          },
+          {
+            title: "The 20-Year / Age-80 Minimum Drawdown Period",
+            paragraphs: [
+              "The remaining balance - the portion not withdrawn as the 25% lump sum - must stay invested. Under the notified rules, the remainder is drawn down over a period of at least 20 years or until the member reaches age 80, whichever comes first, within the Voluntary Pension System framework.",
+              "Employees cannot withdraw their contributions before retirement at all. The scheme is designed to convert the accumulated fund into retirement income rather than a single cash-out."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Contributory vs Defined-Benefit Pension: A Side-by-Side Comparison",
+        paragraphs: [
+          "The table below summarises the practical differences between the two systems side by side."
+        ],
+        table: {
+          caption: "Federal Contributory (FGDC) Scheme vs the Old Defined-Benefit Pension",
+          headers: ["Feature", "Federal Contributory (FGDC) Scheme", "Old Defined-Benefit Pension"],
+          rows: [
+            ["Applies to", "Federal employees hired on/after 1 July 2024 (forces 1 July 2025)", "Federal employees hired before 1 July 2024"],
+            ["Who pays", "Employee 10% + government 12% (22% total)", "Government alone (non-contributory)"],
+            ["Benefit basis", "Accumulated account value + investment returns", "Formula on qualifying service and pay"],
+            ["Calculation base", "Account balance", "24-month average emoluments (post-reform)"],
+            ["Investment risk", "Member bears it (returns vary)", "Government bears it"],
+            ["Withdrawal", "Up to 25% lump sum; rest drawn over 20 yrs/age 80", "Pension + commutation under rules"],
+            ["Guaranteed income", "No fixed guarantee", "Fixed percentage formula"]
+          ]
+        },
+        links: [
+          { label: "Understanding PMT poverty score thresholds", href: "/what-counts-as-a-good-pmt-score/" }
+        ]
+      },
+      {
+        title: "What Changed for Pre-2024 Employees? The Reformed Old Pension",
+        paragraphs: [
+          "Employees who joined before the cut-off keep the old pension but under reformed calculation rules."
+        ],
+        subsections: [
+          {
+            title: "The 24-Month Average Emoluments Formula",
+            paragraphs: [
+              "For employees still on the defined-benefit pension, the calculation base shifted from the last drawn pay to the average of the last 24 months of pensionable emoluments. This removes the incentive to engineer a final-year pay spike and lowers the average base for most retirees.",
+              "Gross pension is then computed on qualifying service (up to 30 years) as a notified percentage of that average, with commutation and family pension rules applying separately. Annual pension increases are now maintained as separate amounts rather than being compounded into the base pension."
+            ]
+          },
+          {
+            title: "The One-Pension Rule and Early-Retirement Reduction",
+            paragraphs: [
+              "Two further reforms apply to the old-scheme population. First, the one-pension rule: a pensioner may draw only one pension at a time, and where a person qualifies for multiple pensions they must choose the highest. Second, early retirement carries a reduction: voluntary retirement after 25 years of service is possible, but the pension is reduced on a per-year basis to discourage premature exit.",
+              "Superannuation remains at age 60. These changes, like the new scheme, were notified through Finance Division office memoranda during 2024-25."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Implementation Timeline: What Has Happened So Far",
+        paragraphs: [
+          "The scheme moved into its operational phase during 2025-26. The milestones below show it is live, not a proposal."
+        ],
+        table: {
+          caption: "FGDC Pension Fund Scheme Implementation Timeline",
+          headers: ["Date", "Milestone"],
+          rows: [
+            ["August 2024", "Provisional directive sets government contribution at 20% (later superseded)"],
+            ["27 August 2025", "SRO 1728(I)/2025 notifies the FGDC Rules 2024"],
+            ["8 September 2025", "Rules published in the Gazette of Pakistan"],
+            ["4-5 October 2025", "Office Memorandum circulates the notification to all ministries for implementation"],
+            ["2 August 2026", "Finance Division publishes the list of eligible pension fund managers"],
+            ["11 August 2026", "Implementation guidelines issued: focal persons (BS-17+) and 15-day data verification"],
+            ["From 2026", "Operational phase - deductions and fund remittances under the AGPR"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the Federal Contributory Pension Scheme in Pakistan?",
+        answer: "The Federal Contributory Pension Scheme is Pakistan's defined-contribution retirement system for federal employees appointed on or after 1 July 2024. The employee and the government both contribute to an individual invested account, and the retirement benefit is the accumulated value of that account rather than a fixed formula."
+      },
+      {
+        question: "What is the contribution rate for the federal contributory pension scheme?",
+        answer: "The employee contributes 10% of pensionable pay and the government contributes 12%, for a combined 22% credited monthly. The earlier provisional government share of 20% was superseded by the final notified rate of 12%."
+      },
+      {
+        question: "Who is covered by the FGDC pension scheme?",
+        answer: "Federal civil employees appointed on a regular basis on or after 1 July 2024 are covered, including civilians paid from Defence Estimates. Armed forces personnel appointed on or after 1 July 2025 come under the scheme from that later date."
+      },
+      {
+        question: "Are employees hired before July 2024 affected?",
+        answer: "No. Employees appointed before 1 July 2024 stay on the old defined-benefit pension, but under reformed rules - pension is now calculated on the average of the last 24 months' emoluments, and only one pension may be drawn at a time."
+      },
+      {
+        question: "Can federal employees withdraw their contributions before retirement?",
+        answer: "No. Contributions cannot be withdrawn before retirement. At retirement, the employee may withdraw up to 25% of the accumulated balance, while the remainder stays invested and is drawn over at least 20 years or until age 80, whichever comes first."
+      },
+      {
+        question: "What happened to the old pension for existing employees?",
+        answer: "The old defined-benefit pension continues for pre-2024 employees, but the calculation base moved from last-drawn pay to a 24-month average of emoluments, annual increases are maintained as separate amounts, and a one-pension rule plus an early-retirement reduction now apply."
+      },
+      {
+        question: "Who manages the FGDC pension fund?",
+        answer: "Licensed pension fund managers - Non-Banking Finance Companies authorised by the SECP - manage the fund under the Voluntary Pension System Rules 2005. The AGPR deducts and remits contributions, and the Finance Division publishes the list of eligible fund managers."
+      },
+      {
+        question: "When did the scheme become operational?",
+        answer: "The rules were notified on 27 August 2025 via SRO 1728(I)/2025. The scheme entered its operational phase in August 2026, when the Finance Division issued implementation guidelines and published the eligible pension fund manager list."
+      },
+      {
+        question: "What is the difference between defined benefit and defined contribution pension?",
+        answer: "In a defined-benefit pension, the government bears the investment risk and pays a fixed formula based on service and pay. In a defined-contribution pension, the member owns an account, and the benefit depends on contributions plus investment returns, so the member carries the investment risk."
+      },
+      {
+        question: "Do provincial employees come under this scheme?",
+        answer: "No. The FGDC scheme is for federal employees. Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan have notified their own separate contributory schemes for their new entrants, with dates and rates set by each province's own notification."
+      }
+    ],
+    officialLinks: [
+      { label: "Ministry of Finance (Finance Division)", href: "https://www.finance.gov.pk/" },
+      { label: "Accountant General Pakistan Revenues (AGPR)", href: "https://www.agpr.gov.pk/" },
+      { label: "Securities and Exchange Commission of Pakistan (SECP)", href: "https://www.secp.gov.pk/" }
     ]
   },
 ];
