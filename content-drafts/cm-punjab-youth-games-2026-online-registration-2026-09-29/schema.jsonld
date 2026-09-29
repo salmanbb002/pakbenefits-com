@@ -2,141 +2,260 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "BlogPosting",
-      "@id": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/#article",
-      "headline": "CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide",
-      "description": "Apply online for CM Punjab Youth Games 2026 at youthgames.punjab.gov.pk. Check age eligibility (U-16, U-19, U-25), 19 sports disciplines, registration steps, and Rs 500M prize pool.",
-      "url": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/",
-      "datePublished": "2026-09-29T00:00:00+05:00",
-      "dateModified": "2026-09-29T00:00:00+05:00",
-      "mainEntityOfPage": {
+      "@type": "Article",
+      "@id": "https://example.com/cm-punjab-youth-games-2026/#article",
+      "isPartOf": {
         "@type": "WebPage",
-        "@id": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/"
+        "@id": "https://example.com/cm-punjab-youth-games-2026/#webpage",
+        "url": "https://example.com/cm-punjab-youth-games-2026",
+        "name": "CM Punjab Youth Games 2026: Registration Portal, Eligibility, Sports List & Schedule"
       },
+      "headline": "CM Punjab Youth Games 2026: Registration Portal, Eligibility, Sports List & Schedule",
+      "description": "Apply online for CM Punjab Youth Games 2026 at youthgames.punjab.gov.pk. Check the extended September 30 deadline, age limits, 19 sports, trials & Rs 500M prizes.",
+      "datePublished": "2026-09-29T16:00:00+05:00",
+      "dateModified": "2026-09-29T16:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/cm-punjab-youth-games-2026",
       "author": {
         "@type": "Person",
         "name": "Muhammad Salman",
-        "url": "https://pakbenefits.com/"
+        "jobTitle": "Sports & Public Policy Analyst",
+        "url": "https://example.com/author/muhammad-salman"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Pak Benefits",
-        "url": "https://pakbenefits.com/",
+        "name": "TODO: Insert Site/Publisher Name",
+        "url": "https://example.com",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://pakbenefits.com/logo.png"
+          "url": "https://example.com/logo.png"
         }
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-snippet", "article > p:first-of-type"]
       },
       "about": [
         {
-          "@type": "GovernmentService",
-          "name": "CM Punjab Youth Games 2026",
-          "url": "https://youthgames.punjab.gov.pk/"
+          "@type": "SportsEvent",
+          "name": "Chief Minister Punjab Youth Games 2026",
+          "sameAs": "https://youthgames.punjab.gov.pk/"
         },
         {
           "@type": "GovernmentOrganization",
           "name": "Sports Board Punjab",
-          "url": "https://sportsboard.punjab.gov.pk/"
+          "sameAs": "https://sportsboard.punjab.gov.pk/"
         }
       ],
       "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Government of the Punjab",
+          "sameAs": "https://punjab.gov.pk/"
+        },
         {
           "@type": "Person",
           "name": "Maryam Nawaz Sharif",
           "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
         },
         {
-          "@type": "Audience",
-          "name": "School, College, and University Athletes"
+          "@type": "Person",
+          "name": "Malik Faisal Ayub Khokhar",
+          "sameAs": "https://punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "sameAs": "https://pitb.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "Place",
+          "name": "Nishtar Park Sports Complex",
+          "sameAs": "https://en.wikipedia.org/wiki/Nishtar_Park_Sports_Complex"
         }
-      ],
-      "speakable": {
-        "@type": "SpeakableSpecification",
-        "cssSelector": ["> blockquote", ".direct-answer-block"]
-      }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/cm-punjab-youth-games-2026/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sports",
+          "item": "https://example.com/sports"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab Youth Games 2026",
+          "item": "https://example.com/cm-punjab-youth-games-2026"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/cm-punjab-youth-games-2026/#howto",
+      "name": "How to Register for CM Punjab Youth Games 2026 Online",
+      "description": "Step-by-step guide to complete online registration for the CM Punjab Youth Games 2026 via youthgames.punjab.gov.pk.",
+      "totalTime": "PT10M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Access the Central Portal",
+          "text": "Navigate to youthgames.punjab.gov.pk and click the green Register Now button."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Select Academic Category",
+          "text": "Choose your participation tier (Middle School, Secondary School, College, University, or Special Persons)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Link Educational Institution",
+          "text": "Search your school, college, or university name from the directory or use the Enter Manually option if not listed."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Enter Personal Information",
+          "text": "Provide your full name, father's name, active mobile number, division, district, tehsil, and union council."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Enter NADRA Identity Details",
+          "text": "Enter your 13-digit NADRA B-Form or CNIC number and date of birth exactly as shown on the official identity document."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Select Sport & Uniform Sizing",
+          "text": "Pick your chosen sport discipline and select your official sports kit shirt size and jogger shoe size."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "name": "Upload Passport Photograph",
+          "text": "Attach a passport-style portrait photograph in JPG or PNG format ensuring file size is under 256 KB."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "name": "Submit Registration",
+          "text": "Solve the security captcha sum, check the legal declaration box, and click Submit Registration."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "name": "Save Your Track ID",
+          "text": "Save and screenshot your unique alphanumeric Track ID slip for trial admission and verification."
+        }
+      ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://pakbenefits.com/cm-punjab-youth-games-2026-online-registration/#faq",
+      "@id": "https://example.com/cm-punjab-youth-games-2026/#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is the official website for CM Punjab Youth Games 2026 registration?",
+          "name": "What is the official registration website for the CM Punjab Youth Games 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The official website for CM Punjab Youth Games 2026 registration is youthgames.punjab.gov.pk, managed directly by Sports Board Punjab."
+            "text": "The official website for registration is youthgames.punjab.gov.pk. Applicants must submit their details directly through this portal, as no offline paper applications are accepted."
           }
         },
         {
           "@type": "Question",
-          "name": "Who is eligible to participate in the CM Punjab Youth Games 2026?",
+          "name": "What is the last date to apply online for Punjab Youth Games 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Regular male and female students enrolled in public and private schools, colleges, universities, TEVTA institutes, and registered madaris across Punjab are eligible to participate."
+            "text": "The last date for online registration is September 30, 2026. Sports authorities extended the original September 25 deadline to allow broader student enrollment."
           }
         },
         {
           "@type": "Question",
-          "name": "What are the age limits for School, College, and University levels?",
+          "name": "Is there any fee to register or participate in the trials?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The age limits are Under-16 (U-16) for school students, Under-19 (U-19) for college students, and Under-25 (U-25) for university and degree college athletes."
+            "text": "No, registration and trial participation are completely free of cost. The Government of Punjab does not charge any application or testing fees."
           }
         },
         {
           "@type": "Question",
-          "name": "Can private school and college students participate in the games?",
+          "name": "Can private school, college, and university students apply?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, students enrolled in registered private schools, private degree colleges, and chartered private universities can participate alongside public institution athletes."
+            "text": "Yes, students enrolled in registered private schools, private colleges, and private chartered universities are fully eligible to compete. They must select their institution during online registration."
           }
         },
         {
           "@type": "Question",
-          "name": "Is there any registration fee for the CM Punjab Youth Games?",
+          "name": "Can students of religious seminaries (deeni madaris) participate?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, registration for the CM Punjab Youth Games 2026 is 100% free with zero fees charged by the Punjab Government or Sports Board Punjab."
+            "text": "Yes, students of registered deeni madaris across Punjab are eligible to participate. They can register under the secondary school bracket (under 17) or college bracket (under 21)."
           }
         },
         {
           "@type": "Question",
-          "name": "How many sports disciplines are included in the Punjab Youth Games 2026?",
+          "name": "What is the maximum age limit for university students?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "There are 19 official sports disciplines in total, including 6 disciplines for school students, 14 for college athletes, and all 19 for university participants."
+            "text": "University students must be between 17 and 50 years of age, with birth dates falling between January 1, 1976, and December 31, 2009. This category accommodates undergraduate, postgraduate, and doctoral scholars."
           }
         },
         {
           "@type": "Question",
-          "name": "Can students from religious seminaries (Madaris) take part?",
+          "name": "What should I do if my school or college name is missing from the portal?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, students from registered religious seminaries (Deeni Madaris) are fully eligible to compete in designated individual and team sports disciplines."
+            "text": "If your educational institution is not listed in the automated drop-down menu, select the \"Enter Manually\" option on the form. Type your institution's complete official name and address to continue your application."
           }
         },
         {
           "@type": "Question",
-          "name": "What documents are required to register for the youth games?",
+          "name": "Why does the registration form reject my photograph upload?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Required documents include a valid NADRA B-Form or CNIC, active student ID card or institutional enrollment proof, a passport-sized photograph, and Punjab domicile."
+            "text": "The portal strictly rejects photograph files larger than 256 KB. If your image fails to upload, compress the photo file to under 256 KB in JPG or PNG format before resubmitting."
           }
         },
         {
           "@type": "Question",
-          "name": "What is the total cash prize pool for the CM Punjab Youth Games?",
+          "name": "When will athlete trials be conducted across Punjab?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The total cumulative prize pool allocated by Chief Minister Maryam Nawaz Sharif for the 2026 Youth Games is Rs 500 Million (50 Crore PKR)."
+            "text": "Institutional sports trials will be conducted from October 7 to October 13, 2026. Physical evaluations will take place on institutional grounds under the supervision of designated sports officers."
           }
         },
         {
           "@type": "Question",
-          "name": "How can athletes check their trial schedule and match fixtures?",
+          "name": "How can a player dispute unfair trial results?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Athletes can check trial schedules, match fixtures, and ground locations by logging into youthgames.punjab.gov.pk with their CNIC or B-Form number."
+            "text": "Players can submit an official complaint through the grievance portal located at youthgames.punjab.gov.pk/#grievance. Provide your Track ID and district details to request a review of your trial markings by the district committee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the total cash prize pool for the Punjab Youth Games 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The total cash prize pool allocated by the Government of Punjab is PKR 500 million. Cash rewards will be distributed to winners across district, divisional, and provincial stages."
           }
         }
       ]

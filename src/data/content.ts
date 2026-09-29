@@ -1569,6 +1569,10 @@ export const articles: Article[] = [
           }
         ],
         links: [
+            {
+              label: "CM Punjab Youth Games 2026 Registration & Sports Guide",
+              href: "/cm-punjab-youth-games-2026-online-registration/"
+            },
           { label: "Pink Scooty Scheme 2026: Female Quota & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" },
           { label: "CM Punjab Honhaar Scholarship Program 2026", href: "/cm-punjab-honhaar-scholarship-program-2026" }
         ]
@@ -1791,7 +1795,13 @@ export const articles: Article[] = [
     image: "/images/cm-punjab-youth-games-2026.jpg",
     imageAlt: "CM Punjab Youth Games 2026 Online Registration Eligibility Sports and Prizes Guide",
     author: contributors.muhammadSalman,
-    officialLinks: [
+        relatedSlugs: [
+      "cm-punjab-honhaar-scholarship-program-2026",
+      "cm-punjab-free-laptop-scheme-2026-online-apply",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "cm-punjab-e-bike-scheme-updates"
+    ],
+officialLinks: [
       { label: "Youth Games Portal", href: "https://youthgames.punjab.gov.pk/" },
       { label: "Sports Board Punjab", href: "https://sportsboard.punjab.gov.pk/" }
     ],
@@ -2523,6 +2533,10 @@ export const articles: Article[] = [
           "By substituting expensive commercial transport with subsidized electric two-wheelers, the program reduces monthly commute expenses while fostering financial independence. Both provincial programs partner with public financial institutions and transport authorities to ensure structured distribution through transparent digital systems."
         ],
         links: [
+            {
+              label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
+              href: "/cm-punjab-youth-games-2026-online-registration/"
+            },
           { label: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal & BOP Installment", href: "/cm-punjab-e-bike-scheme-updates" }
         ],
         subsections: [
@@ -13431,6 +13445,10 @@ export const articles: Article[] = [
         }
       ],
       links: [
+            {
+              label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
+              href: "/cm-punjab-youth-games-2026-online-registration/"
+            },
         {
           label: "BISP eligibility criteria guide",
           href: "/bisp-eligibility-criteria-guide/"
@@ -16103,6 +16121,10 @@ export const articles: Article[] = [
           }
         ],
         links: [
+            {
+              label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
+              href: "/cm-punjab-youth-games-2026-online-registration/"
+            },
           {
             label: "Punjab schemes and public welfare initiatives hub",
             href: "/other-schemes/"
@@ -16786,6 +16808,10 @@ export const articles: Article[] = [
           "Unlike conventional partial fee waivers or loan schemes, the Honhaar Scholarship provides an unconditional 100% tuition grant. Approved funds are disbursed directly by the Punjab Higher Education Commission (PHEC) to the recipient's university treasury, ensuring that students face zero out-of-pocket tuition costs throughout their standard four-year (BS) or five-year (MBBS/Pharm-D) degree tenures."
         ],
         links: [
+            {
+              label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
+              href: "/cm-punjab-youth-games-2026-online-registration/"
+            },
           { label: "CM Punjab E-Bike Scheme Phase 2 Updates 2026", href: "/cm-punjab-e-bike-scheme-updates" },
           { label: "Pink Scooty Scheme 2026 Details", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],
@@ -21233,6 +21259,10 @@ export const articles: Article[] = [
           "Unlike commercial discount schemes or lottery systems, every single laptop is distributed on a strictly verified 100% merit basis. The distribution spans regular students attending HEC-recognized public sector universities, constituent sub-campuses, government post-graduate colleges, medical colleges, and engineering institutions throughout all 36 districts of Punjab."
         ],
         links: [
+            {
+              label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
+              href: "/cm-punjab-youth-games-2026-online-registration/"
+            },
           { label: "CM Punjab E-Bike Scheme Phase 2 Registration", href: "/cm-punjab-e-bike-scheme-updates" },
           { label: "Pink Scooty Scheme 2026 Registration & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],

@@ -1,8 +1,8 @@
 [
   {
-    "canonical": "CM Punjab Youth Games 2026",
-    "type": "Government Program",
-    "aliases": ["Punjab Youth Games 2026", "Khelta Punjab Youth Games", "CM Youth Games"],
+    "canonical": "Chief Minister Punjab Youth Games 2026",
+    "type": "SportsEvent",
+    "aliases": ["CM Punjab Youth Games 2026", "Punjab Youth Games 2026", "PYG 2026", "Khelta Punjab"],
     "sameAs": "https://youthgames.punjab.gov.pk/",
     "kind": "entity",
     "competitor_count": 4,
@@ -11,8 +11,8 @@
   },
   {
     "canonical": "Sports Board Punjab",
-    "type": "Government Organization",
-    "aliases": ["SBP", "Punjab Sports Board"],
+    "type": "GovernmentOrganization",
+    "aliases": ["SBP", "Directorate General of Sports & Youth Affairs Punjab"],
     "sameAs": "https://sportsboard.punjab.gov.pk/",
     "kind": "entity",
     "competitor_count": 4,
@@ -21,8 +21,8 @@
   },
   {
     "canonical": "youthgames.punjab.gov.pk",
-    "type": "Web Portal",
-    "aliases": ["Punjab Youth Games Portal", "Official Registration Website"],
+    "type": "WebApplication",
+    "aliases": ["Punjab Youth Games Official Portal", "Youth Games Registration Portal"],
     "sameAs": "https://youthgames.punjab.gov.pk/",
     "kind": "entity",
     "competitor_count": 4,
@@ -30,51 +30,11 @@
     "tier": 1
   },
   {
-    "canonical": "Under-16 School Level",
-    "type": "Competition Category",
-    "aliases": ["School Level U-16", "U-16 Youth Category"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Under-19 College Level",
-    "type": "Competition Category",
-    "aliases": ["College Level U-19", "U-19 Sports Category"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Under-25 University Level",
-    "type": "Competition Category",
-    "aliases": ["University Level U-25", "Higher Education U-25"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "19 Sports Disciplines",
-    "type": "Sports Category",
-    "aliases": ["Official Disciplines", "Sports Categories"],
-    "sameAs": "",
-    "kind": "metric",
-    "competitor_count": 4,
-    "in_title_or_h2": true,
-    "tier": 1
-  },
-  {
-    "canonical": "Rs 500 Million Prize Pool",
-    "type": "Financial Incentive",
-    "aliases": ["Cash Prize Pool", "50 Crore Sports Prize"],
-    "sameAs": "",
-    "kind": "metric",
+    "canonical": "Government of Punjab, Pakistan",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Government", "Government of the Punjab", "GoPb"],
+    "sameAs": "https://punjab.gov.pk/",
+    "kind": "entity",
     "competitor_count": 4,
     "in_title_or_h2": true,
     "tier": 1
@@ -82,71 +42,191 @@
   {
     "canonical": "Maryam Nawaz Sharif",
     "type": "Person",
-    "aliases": ["Chief Minister Maryam Nawaz", "CM Punjab Maryam Nawaz"],
+    "aliases": ["CM Maryam Nawaz", "Chief Minister Maryam Nawaz Sharif"],
     "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
     "kind": "entity",
     "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Malik Faisal Ayub Khokhar",
+    "type": "Person",
+    "aliases": ["Faisal Ayub Khokhar", "Provincial Minister for Sports and Youth Affairs"],
+    "sameAs": "https://punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PKR 500,000,000 Prize Pool",
+    "type": "MonetaryAmount",
+    "aliases": ["Rs 500 Million Prize Pool", "500 Million Cash Prize", "50 Crore Cash Prizes"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "September 30, 2026",
+    "type": "Date",
+    "aliases": ["30 September 2026", "Extended Registration Deadline"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA B-Form / CNIC",
+    "type": "IdentityDocument",
+    "aliases": ["B-Form", "Child Registration Certificate", "CNIC", "National Identity Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Participation Brackets",
+    "type": "Classification",
+    "aliases": ["5 Age Categories", "Five Competition Brackets"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB"],
+    "sameAs": "https://pitb.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Muhammad Tariq Qureshi",
+    "type": "Person",
+    "aliases": ["DG Sports Punjab", "Director General Sports Punjab"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
     "in_title_or_h2": false,
     "tier": 2
   },
   {
-    "canonical": "Khelta Punjab",
-    "type": "Government Program",
-    "aliases": ["Khelta Punjab Initiative", "Khelta Punjab Vision"],
+    "canonical": "Institutional Athletic Trials",
+    "type": "Event",
+    "aliases": ["Phase 2 Trials", "October 7-13 Trials"],
     "sameAs": "",
     "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Six Competition Phases",
+    "type": "Process",
+    "aliases": ["Grassroots to Provincial Championship", "Tournament Progression"],
+    "sameAs": "",
+    "kind": "term",
     "competitor_count": 3,
     "in_title_or_h2": true,
     "tier": 2
   },
   {
-    "canonical": "Youth Affairs and Sports Department",
-    "type": "Government Department",
-    "aliases": ["Punjab Youth Affairs Department", "Sports Department Punjab"],
-    "sameAs": "",
-    "kind": "entity",
-    "competitor_count": 3,
-    "in_title_or_h2": false,
-    "tier": 2
-  },
-  {
-    "canonical": "NADRA B-Form",
-    "type": "Document",
-    "aliases": ["Form B", "Child Registration Certificate"],
+    "canonical": "19 Sports Disciplines",
+    "type": "Concept",
+    "aliases": ["Sports Categories", "Athletics, Cricket, Kabaddi, Football"],
     "sameAs": "",
     "kind": "term",
-    "competitor_count": 3,
-    "in_title_or_h2": false,
-    "tier": 2
-  },
-  {
-    "canonical": "Institutional Focal Person",
-    "type": "Role",
-    "aliases": ["Sports Director", "School Sports Master", "College Physical Training Instructor"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 3,
-    "in_title_or_h2": false,
-    "tier": 2
-  },
-  {
-    "canonical": "Religious Seminaries",
-    "type": "Target Group",
-    "aliases": ["Madaris Students", "Deeni Madaris Athletes"],
-    "sameAs": "",
-    "kind": "term",
-    "competitor_count": 3,
+    "competitor_count": 4,
     "in_title_or_h2": true,
     "tier": 2
   },
   {
     "canonical": "Special Education Athletes",
-    "type": "Target Group",
-    "aliases": ["Para-Athletes", "Differently-Abled Students"],
+    "type": "Audience",
+    "aliases": ["Special Persons", "Differently-Abled Athletes", "Para-Sports Category"],
     "sameAs": "",
-    "kind": "term",
+    "kind": "entity",
     "competitor_count": 3,
     "in_title_or_h2": true,
     "tier": 2
+  },
+  {
+    "canonical": "Online Grievance Redressal",
+    "type": "Service",
+    "aliases": ["Athlete Grievance Portal", "Trial Result Dispute Form"],
+    "sameAs": "https://youthgames.punjab.gov.pk/#grievance",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "256 KB Photograph Limit",
+    "type": "Specification",
+    "aliases": ["Photo Size Restriction", "Form Image Compression"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Kit and Joggers Size Selection",
+    "type": "Attribute",
+    "aliases": ["Uniform Sizing", "Sports Kit Preference"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Deeni Madaris & TEVTA",
+    "type": "Organization",
+    "aliases": ["Religious Seminaries", "Vocational Training Institutes"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Nishtar Park Sports Complex",
+    "type": "Place",
+    "aliases": ["National Hockey Stadium Lahore", "Gaddafi Sports Enclave"],
+    "sameAs": "https://en.wikipedia.org/wiki/Nishtar_Park_Sports_Complex",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "E-Sports & Padel Tennis",
+    "type": "Sport",
+    "aliases": ["New University Sports", "Modern Athletic Categories"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Track ID Verification",
+    "type": "Process",
+    "aliases": ["Portal Status Tracking", "Application Reference Check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
   }
 ]
