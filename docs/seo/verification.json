@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-09-30T10:38:09.610Z",
+  "checkedAt": "2026-09-30T12:05:55.282Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 126,
+  "routeCount": 128,
   "failures": [],
   "pending": [],
   "pages": [
@@ -144,6 +144,32 @@
         "WebSite",
         "BreadcrumbList",
         "CollectionPage",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-e-bikes-scheme-phase-2/",
+      "title": "CM Punjab E-Bikes Scheme Phase 2: What Changed, Eligibility & Last Date | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 187,
+      "editorialWords": 1732,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/wazir-e-azam-apna-ghar-program/",
+      "title": "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & Apply | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 177,
+      "editorialWords": 1720,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
         "FAQPage"
       ]
     },

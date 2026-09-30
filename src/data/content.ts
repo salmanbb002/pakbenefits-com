@@ -1492,6 +1492,508 @@ export const categories: Category[] = [
 
 export const articles: Article[] = [
   {
+    slug: "cm-punjab-e-bikes-scheme-phase-2",
+    title: "CM Punjab E-Bikes Scheme Phase 2 2026: What Changed, Eligibility & How to Apply",
+    excerpt: "The CM Punjab E-Bikes Scheme Phase 2 gives Punjab students 100,000+ electric scooties at PKR 199,000 with a Rs 90,000 subsidy, 0% interest, no down payment and ~Rs 3,000 monthly installments over 3 years. Here is what changed vs Phase 1, who is eligible, and the October 4, 2026 deadline.",
+    showExcerpt: true,
+    metaTitle: "CM Punjab E-Bikes Scheme Phase 2: What Changed, Eligibility & Last Date",
+    metaDescription: "CM Punjab E-Bikes Scheme Phase 2: 100,000+ electric scooties, Rs 90,000 subsidy, zero down payment and ~Rs 3,000 monthly installments. Apply before October 4, 2026 at bikes.punjab.gov.pk.",
+    focusKeyword: "cm punjab e-bikes scheme phase 2",
+    lsiKeywords: [
+      "cm punjab e-bikes scheme phase 2 apply online",
+      "punjab e-bike phase 2 eligibility criteria",
+      "cm punjab e-bike phase 2 price subsidy installment",
+      "punjab e-bike scheme phase 2 last date october 4 2026",
+      "maryam nawaz e-bike scheme phase 2 2026",
+      "punjab e-bike phase 1 vs phase 2 difference"
+    ],
+    entities: [
+      "CM Punjab E-Bikes Scheme (Phase 2)",
+      "Maryam Nawaz Sharif",
+      "The Bank of Punjab",
+      "Punjab Information Technology Board",
+      "Transport & Mass Transit Department",
+      "bikes.punjab.gov.pk",
+      "Rs 90,000 Capital Subsidy",
+      "PKR 199,000 E-Bike Price",
+      "100,000 Electric Scooties",
+      "October 4, 2026 Deadline"
+    ],
+    primaryCategory: "punjab-schemes",
+    categorySlugs: [
+      "punjab-schemes",
+      "other-schemes"
+    ],
+    date: "September 30, 2026",
+    publishedDate: "September 30, 2026",
+    lastChecked: "September 30, 2026",
+    readTime: "9 min read",
+    image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
+    imageAlt: "CM Punjab E-Bikes Scheme Phase 2 2026 electric scooty banner showing the PKR 199,000 price, Rs 90,000 Punjab subsidy and October 4, 2026 last date",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
+      { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
+      { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
+      { label: "Federal PAVE Portal", href: "https://pave.gov.pk/" }
+    ],
+    relatedSlugs: [
+      "cm-punjab-electric-bike-scheme",
+      "cm-punjab-e-bike-scheme-updates",
+      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "transport-fuel-relief-options"
+    ],
+    sections: [
+      {
+        title: "What Is Phase 2 of the CM Punjab E-Bikes Scheme?",
+        paragraphs: [
+          "Phase 2 is the second and much larger round of the CM Punjab E-Bikes Scheme, launched by Chief Minister Maryam Nawaz Sharif under the CM Youth Initiative and run by the Transport & Mass Transit Department. After a small pilot in Phase 1, the provincial government opened a province-wide window in September 2026 so students can acquire a subsidised electric scooty through interest-free instalments instead of paying the full PKR 199,000 up front.",
+          "The machinery is shared across three institutions. The Bank of Punjab (BOP) finances each bike and verifies applicants and guarantors, while the Punjab Information Technology Board (PITB) runs the portal and the transparent computerised e-balloting. Because the provincial government pays the markup, the applicant never carries an interest burden."
+        ],
+        subsections: [
+          {
+            title: "The Phase 2 Timeline",
+            paragraphs: [
+              "Phase 2 moved quickly. Chief Minister Maryam Nawaz chaired a review meeting on September 2, 2026, where the expanded terms were approved, and the portal opened to applications on September 4, 2026. The Chief Minister also directed that eligible students receive their bikes within six weeks of the portal opening, with applications closing on October 4, 2026."
+            ]
+          }
+        ],
+        links: [
+          { label: "Full CM Punjab Electric Bike Scheme guide", href: "/cm-punjab-electric-bike-scheme/" },
+          { label: "CM Punjab E-Bike Scheme Phase 2 updates and balloting", href: "/cm-punjab-e-bike-scheme-updates/" }
+        ]
+      },
+      {
+        title: "Phase 2 Price, Subsidy and Installment Plan",
+        paragraphs: [
+          "The electric scooty is priced at PKR 199,000, and the Government of Punjab (GoPb) contributes a capital subsidy of Rs 90,000 toward every unit. This subsidy is a grant that does not have to be repaid. The remaining balance is financed through the Bank of Punjab, and because GoPb also bears the financing's interest cost, the student repays only the principal with no markup added.",
+          "One of the biggest Phase 2 changes is the removal of the down payment. The financed balance is repaid in approximately Rs 3,000 monthly installments over a 3-year (36-month) term, with no down payment required. GoPb also absorbs the insurance, registration and token-tax costs."
+        ],
+        table: {
+          caption: "CM Punjab E-Bikes Scheme Phase 2 Cost Breakdown",
+          headers: ["Cost item", "Who pays"],
+          rows: [
+            ["E-bike price (PKR 199,000)", "Shared: Rs 90,000 GoPb subsidy + financed balance"],
+            ["Interest / markup", "Government of Punjab (0% for applicant)"],
+            ["Down payment", "None required"],
+            ["Insurance", "Government of Punjab"],
+            ["Registration & token tax", "Government of Punjab"],
+            ["Monthly installment (~Rs 3,000 x 36 months)", "Student"]
+          ]
+        }
+      },
+      {
+        title: "Who Is Eligible for Phase 2?",
+        paragraphs: [
+          "The applicant must be a bonafide student enrolled in an educational institution registered or recognised by the relevant Government of Punjab authority, and both public-sector and private-sector institutions qualify. Students must provide proof of enrolment together with the latest paid fee slip.",
+          "Phase 2 also keeps two rules that trip up applicants. First, a student must not already own a registered vehicle at the time of application. Second, only one bike is issued per household, even if more than one sibling applies and wins the ballot. Students of federally chartered institutes are not eligible under this provincial scheme and should look at the federal PAVE programme instead."
+        ],
+        subsections: [
+          {
+            title: "Age and Driving-License Requirements",
+            paragraphs: [
+              "The minimum age for Phase 2 is 16 years at the time of submission, and the applicant must hold a valid driving license, learner's driving permit, or juvenile driving permit. The portal's own older overview text still says 18, but the live Phase 2 eligibility and FAQ set the floor at 16. Applicants aged 16 who need a juvenile permit can obtain one by visiting their nearest Sahulat Center with a guardian."
+            ]
+          }
+        ],
+        links: [
+          { label: "PAVE Scheme 2026: eligibility and electric bike subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" },
+          { label: "Pink Scooty Scheme 2026: female quota and balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
+        ]
+      },
+      {
+        title: "Phase 2 Documents and Guarantor Requirements",
+        paragraphs: [
+          "Before opening the portal, gather clear copies of every document. Blurred scans, expired licences or name mismatches are the most common reason for rejection or delay."
+        ],
+        subsections: [
+          {
+            title: "Documents You Must Prepare",
+            paragraphs: [
+              "The student set includes a valid CNIC (or B-Form/CRC where allowed for the age bracket), a student card or bonafide/enrolment certificate, the latest paid fee slip, a motorcycle learner's permit or driving license, and a recent passport-size photograph."
+            ]
+          },
+          {
+            title: "The Guarantor and PKR 40,000 Income Rule",
+            paragraphs: [
+              "The scheme requires a guarantor, normally a parent or legal guardian, with a valid CNIC and a minimum monthly income of PKR 40,000 supported by a recent bank statement. The mobile number entered on the application must be registered in the guarantor's own name against their CNIC. This threshold is a financing and verification requirement applied by the Bank of Punjab after selection, not a cutoff that stops you from applying."
+            ]
+          }
+        ],
+        links: [
+          { label: "Documents for government-programme inquiries", href: "/documents-for-bisp-registration/" }
+        ]
+      },
+      {
+        title: "How to Apply Online for Phase 2 (Step by Step)",
+        paragraphs: [
+          "The application is entirely digital, with no paper forms, office visits or agents. Follow these steps inside the Phase 2 window (deadline October 4, 2026)."
+        ],
+        bullets: [
+          "Step 1: Open the official portal at https://bikes.punjab.gov.pk.",
+          "Step 2: Create your account with your CNIC and an active mobile number, then verify the OTP sent by SMS.",
+          "Step 3: Fill the application form with personal, academic and contact details exactly as they appear on your documents.",
+          "Step 4: Upload the required documents and select your bike option from the official catalogue.",
+          "Step 5: Submit and save your Application ID for tracking.",
+          "Step 6: After the deadline, PITB runs the computerised e-balloting if applications exceed the allocation.",
+          "Step 7: The Bank of Punjab verifies your documents and guarantor, then the bike is delivered through the assigned dealer."
+        ]
+      },
+      {
+        title: "Phase 2 Status, Balloting and Delivery Timeline",
+        paragraphs: [
+          "After submission, monitor progress by logging into the official portal dashboard with your Application ID or CNIC. When valid applications exceed the scooty allocation, selection is made through PITB's computerised e-balloting, a random draw that no person, agent or website can influence.",
+          "Being selected in the ballot is not the final step: you must still clear the Bank of Punjab's verification and financing formalities. The Chief Minister directed that eligible students receive their bikes within six weeks of the portal opening, so treat delivery as a post-verification stage rather than an instant outcome."
+        ],
+        links: [
+          { label: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 balloting and merit lists", href: "/cm-punjab-e-bike-scheme-updates/" }
+        ]
+      },
+      {
+        title: "What's New in Phase 2 vs Phase 1?",
+        paragraphs: [
+          "Many readers still land on articles written about the first phase. The table below reconciles what changed so you do not act on stale numbers."
+        ],
+        table: {
+          caption: "Comparison Between Phase 1 Pilot and Phase 2 (2026)",
+          headers: ["Parameter", "Phase 1 (pilot)", "Phase 2 (2026 - current)"],
+          rows: [
+            ["Coverage", "5 cities", "All districts of Punjab"],
+            ["Allocation", "19,000 petrol + 8,179 e-bikes", "100,000 electric scooties (announced 125,000+)"],
+            ["Minimum age", "18 (legacy overview text)", "16 years"],
+            ["Down payment", "Required (earlier package)", "None"],
+            ["Subsidy", "Earlier Rs 70,000 package", "Rs 90,000 capital subsidy"],
+            ["Monthly installment", "~Rs 2,100 (earlier package)", "~Rs 3,000"],
+            ["Battery", "Not specified publicly", "LFP (Lithium Iron Phosphate)"],
+            ["Training", "Not offered", "Free two-day riding training"],
+            ["Extra categories", "Students only", "Teachers, employees & delivery riders announced"]
+          ]
+        }
+      },
+      {
+        title: "100,000 or 125,000? Making Sense of the Phase 2 Numbers",
+        paragraphs: [
+          "Different official and unofficial pages quote different totals. Here is what each figure actually refers to."
+        ],
+        table: {
+          caption: "Where Each CM Punjab E-Bikes Phase 2 Number Comes From",
+          headers: ["Figure", "Where it comes from", "What it means"],
+          rows: [
+            ["100,000", "bikes.punjab.gov.pk (portal FAQ + banner)", "Electric scooties being provided in Phase 2"],
+            ["125,000+", "punjab.gov.pk (more than 125,000)", "The announced Phase 2 plan, slightly higher than the portal's listed scooties"],
+            ["8,179", "punjab.gov.pk overview", "E-bikes distributed in Phase 1 (not Phase 2)"],
+            ["19,000", "punjab.gov.pk overview", "Petrol bikes distributed in Phase 1"],
+            ["30,000", "an unofficial page", "Not official - a contradictory figure; ignore it"]
+          ]
+        }
+      },
+      {
+        title: "Phase 2 Expansion: Teachers, Employees and Delivery Riders",
+        paragraphs: [
+          "Phase 2 is not only about students. The Punjab government has given in-principle approval to extend the scheme in stages. Government school teachers apply through a separate track on the Punjab Teachers Foundation portal using their PESS number, on a merit-points system rather than pure balloting.",
+          "Government employees (announced for BPS 1-16) and public delivery riders are also slated for inclusion, with eligibility and repayment terms to be published on the relevant official portal. As of the current window, the student track on bikes.punjab.gov.pk is the one actively accepting applications."
+        ]
+      },
+      {
+        title: "Official Portals, Helpline and Scam Alerts",
+        paragraphs: [
+          "For students, the only official application portal is bikes.punjab.gov.pk. The separate teacher track uses ptf.punjab.gov.pk, and the federal PAVE programme lives at pave.gov.pk. The official helpline is 042-99212260, with email support at support@bikes.punjab.gov.pk.",
+          "Registration is free across all channels. Never pay an agent or middleman, never share your CNIC image, OTP or bank PIN, and confirm the full .gov.pk domain before entering any information. Be wary of pages quoting invented figures such as a 30,000-bike allocation, an 18-45 age range, or a no-fixed-last-date claim - none of these match the official portal."
+        ],
+        links: [
+          { label: "Recognize programme impersonation and fraud", href: "/avoid-bisp-fraud/" }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the price of the e-bike in Phase 2?",
+        answer: "The electric scooty is priced at PKR 199,000. The Government of Punjab contributes a Rs 90,000 capital subsidy toward this price, and the remaining balance is financed interest-free."
+      },
+      {
+        question: "How much capital subsidy is provided in Phase 2?",
+        answer: "The Government of Punjab provides a capital subsidy of Rs 90,000 per e-bike. This amount is a grant and does not have to be repaid by the student."
+      },
+      {
+        question: "Is a down payment required in Phase 2?",
+        answer: "No down payment is required. The financed balance is repaid entirely through approximately Rs 3,000 monthly installments over a 3-year term."
+      },
+      {
+        question: "What is the financing period, and who pays the interest?",
+        answer: "The financing period is 3 years, and the Government of Punjab (GoPb) pays the full interest cost. The applicant pays only the principal, at 0% markup."
+      },
+      {
+        question: "Who pays the insurance, registration and token-tax costs?",
+        answer: "The Government of Punjab bears the insurance, registration and token-tax costs of the e-bike. These charges are not added to the student's installments."
+      },
+      {
+        question: "How many e-bikes are being provided in Phase 2?",
+        answer: "Phase 2 provides 100,000 electric scooties, with the government announcing a plan of more than 125,000 across the phase. The Phase 1 totals (8,179 e-bikes and 19,000 petrol bikes) are separate and should not be confused with Phase 2."
+      },
+      {
+        question: "What is the minimum age for Phase 2?",
+        answer: "The minimum age is 16 years at the time of application. Applicants must also hold a valid driving license, learner's permit or juvenile driving permit."
+      },
+      {
+        question: "Who can act as a guarantor, and what income is required?",
+        answer: "A parent or legal guardian can act as guarantor, provided they have a valid CNIC and a verifiable monthly income of at least PKR 40,000, supported by a recent bank statement. The application's mobile number must be registered in the guarantor's own name."
+      },
+      {
+        question: "What is the last date to apply for Phase 2?",
+        answer: "The last date to apply is October 4, 2026. Applications are submitted only through bikes.punjab.gov.pk."
+      },
+      {
+        question: "What is new in Phase 2 compared with Phase 1?",
+        answer: "Phase 2 removes the down payment, lowers the minimum age to 16, expands coverage to all Punjab districts, uses an LFP battery, and adds a free helmet, safety rods and free two-day riding training, with delivery targeted within six weeks."
+      }
+    ]
+  },
+
+  {
+    slug: "wazir-e-azam-apna-ghar-program",
+    relatedSlugs: [
+      "apni-chhat-apna-ghar-scheme-online-apply-2026",
+      "apni-zameen-apna-ghar-balloting-result-2026",
+      "federal-contributory-pension-scheme",
+      "prime-minister-youth-loan-scheme-2026"
+    ],
+    title: "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & How to Apply",
+    excerpt: "The Wazir-e-Azam Apna Ghar Program (Ghar Ho Tu Apna) gives first-time buyers federal home loans up to Rs 10 million at a 5% fixed markup for the first 10 years, repayable over 20 years through partner banks. Apply online at apnaghar.gov.pk.",
+    showExcerpt: true,
+    metaTitle: "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & Apply",
+    metaDescription: "The Wazir-e-Azam Apna Ghar Program gives first-time buyers home loans up to Rs 10 million at 5% markup for 10 years. See eligibility, banks, and how to apply at apnaghar.gov.pk.",
+    focusKeyword: "wazir-e-azam apna ghar program",
+    lsiKeywords: [
+      "apna ghar program loan amount pakistan 2026",
+      "apna ghar scheme markup rate 5 percent",
+      "apna ghar program eligibility criteria",
+      "apna ghar program apply online apnaghar gov pk",
+      "apna ghar scheme vs apni chhat apna ghar",
+      "apna ghar program participating banks nbfc"
+    ],
+    entities: [
+      "Wazir-e-Azam Apna Ghar Program",
+      "State Bank of Pakistan",
+      "Muhammad Shehbaz Sharif",
+      "apnaghar.gov.pk",
+      "Rs 10 Million Home Loan",
+      "5% Fixed Markup",
+      "Markup Subsidy and Risk Sharing Scheme",
+      "House Building Finance Company"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: [
+      "other-schemes"
+    ],
+    date: "September 30, 2026",
+    publishedDate: "September 30, 2026",
+    lastChecked: "September 30, 2026",
+    readTime: "10 min read",
+    image: "/images/wazir-e-azam-apna-ghar-program.jpg",
+    imageAlt: "Editorial banner for the Wazir-e-Azam Apna Ghar Program 2026 showing a newly built Pakistani home, the 5% markup and Rs 10 million loan terms",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Is the Wazir-e-Azam Apna Ghar Program?",
+        paragraphs: [
+          "The Wazir-e-Azam Apna Ghar Program, slogan Ghar Ho Tu Apna, is Pakistan's federal housing finance scheme launched by Prime Minister Muhammad Shehbaz Sharif on 30 April 2026 and regulated by the State Bank of Pakistan. It gives first-time buyers a subsidised home loan at a 5% fixed markup for the first decade, instead of the 20%-plus market rates ordinary mortgages carry.",
+          "Because it is a markup subsidy and risk-sharing scheme, the government pays the difference between the 5% rate the borrower gets and the bank's commercial rate, and it shares part of the credit risk. That is what lets commercial banks, Islamic banks, the House Building Finance Company and, since July 2026, non-bank finance companies offer a 20-year mortgage at 5% in the first place."
+        ],
+        subsections: [
+          {
+            title: "A Federal Markup-Subsidy Housing Scheme",
+            paragraphs: [
+              "The programme succeeds and rebrands the earlier Mera Pakistan Mera Ghar (MPMG) markup subsidy initiative. It is delivered through partner financial institutions, not directly by the government, and the financing is available in both conventional and Shariah-compliant (Diminishing Musharakah) forms.",
+              "Unlike the Punjab-only housing schemes, this is a federal programme covering all four provinces plus Islamabad, Gilgit-Baltistan and Azad Kashmir."
+            ]
+          },
+          {
+            title: "What the Loan Actually Covers",
+            paragraphs: [
+              "The financing can be used for any one of four purposes: buying a constructed house, buying a flat, buying a residential plot together with construction, or building on a plot you already own. A plot-only purchase with no construction, and pure renovation finance, are not covered.",
+              "The property must fall within the size limits: a house of up to 10 marla (2,720 square feet) or a flat of up to 1,500 square feet, with no cap on the property's price."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How Much Can I Borrow, and What Is the Markup?",
+        paragraphs: [
+          "The maximum financing is Rs 10 million, offered in four standard slabs. The indicative monthly payments below were announced at launch, calculated at the 5% rate over 20 years."
+        ],
+        table: {
+          caption: "Wazir-e-Azam Apna Ghar Program Loan Slabs and Indicative Installments",
+          headers: ["Loan slab", "Typical use", "Indicative monthly installment"],
+          rows: [
+            ["Rs 2,500,000", "Smaller home or 3-marla construction", "Rs 16,499"],
+            ["Rs 5,000,000", "5-marla home or ~1,000 sq ft flat", "Rs 32,997"],
+            ["Rs 7,500,000", "7-marla home or larger flat", "Rs 49,497"],
+            ["Rs 10,000,000", "Up to 10-marla home or 1,500 sq ft flat", "Rs 65,996"]
+          ]
+        },
+        subsections: [
+          {
+            title: "The 5% Markup and the KIBOR Repricing",
+            paragraphs: [
+              "The customer pays a 5% markup fixed for the first 10 years, subsidised by the government. From year 11 the rate moves to 1-year KIBOR plus 3%, so the monthly installment can change with market conditions.",
+              "Banks must disclose this re-pricing schedule before you sign, so read the Key Fact Statement for the exact terms rather than relying on the headline 5%."
+            ]
+          },
+          {
+            title: "The 90:10 Financing Split",
+            paragraphs: [
+              "The bank finances up to 90% of the property value and you contribute the remaining 10% as equity. On a Rs 10 million home that means you bring roughly Rs 1 million and the bank finances the rest.",
+              "There is no processing fee and no prepayment penalty, so you can settle the loan early at no extra cost - a key difference from standard mortgages."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the Apna Ghar Program?",
+        paragraphs: [
+          "Eligibility is deliberately broader than the provincial housing schemes because this programme targets the working and middle class, not only the poorest households."
+        ],
+        bullets: [
+          "Resident Pakistani citizen holding a valid CNIC, or a Non-Resident Pakistani (NRP) holding a NICOP or POC",
+          "First-time homeowner - no residential property currently registered in your name anywhere in Pakistan",
+          "Stable, verifiable income from salary, business, or remittance",
+          "Clean credit history with no loan defaults (a clean e-CIB record)"
+        ],
+        subsections: [
+          {
+            title: "Income, Age and Work History",
+            paragraphs: [
+              "The minimum income and age rules are set by each participating bank, so they vary slightly. Most banks require a minimum gross income of roughly Rs 25,000 to Rs 50,000 per month, and the applicant must not exceed about 60 years of age (salaried) or 65 years (self-employed) at loan maturity.",
+              "Work history matters too: salaried applicants typically need six months to two years of continuous employment, while self-employed applicants usually need two to three years in the same business. Owning agricultural land or a commercial shop does not disqualify you - the first-time-homeowner rule applies only to residential property."
+            ]
+          }
+        ]
+      },
+      {
+        title: "What Documents Do I Need?",
+        paragraphs: [
+          "Gather clear, complete copies before you start - incomplete files are the most common cause of delay."
+        ],
+        bullets: [
+          "Valid CNIC (and your spouse's CNIC if married) and recent passport-size photographs",
+          "Income proof - salary slips or a salary certificate for salaried applicants, or bank statements and tax/NTN records for the self-employed",
+          "Recent bank statements showing your income and your 10% equity amount",
+          "Property documents - sale agreement or title document, Fard/registry/allotment letter, and an approved building plan for construction",
+          "An affidavit declaring you own no other residential property, plus personal and professional references"
+        ]
+      },
+      {
+        title: "How to Apply Online at apnaghar.gov.pk",
+        paragraphs: [
+          "The application is fully digital through the official portal. Follow these steps inside the current window:"
+        ],
+        bullets: [
+          "Step 1: Open the official portal at https://apnaghar.gov.pk - the only official federal application portal, hosted on the .gov.pk domain and linked from the State Bank of Pakistan website.",
+          "Step 2: Register with your 13-digit CNIC, a mobile number in your own name, and an email address, then verify the SMS OTP and email link.",
+          "Step 3: Complete the application form - personal, income, employment and property details - then select your loan slab and preferred bank.",
+          "Step 4: Upload clear scans of your documents as PDF or JPG files, each under 2 MB.",
+          "Step 5: Choose your bank from the participating commercial banks, Islamic banks, HBFC, or eligible NBFCs and microfinance companies.",
+          "Step 6: Submit and save your Tracking ID. The bank contacts you within 3-5 working days for valuation and verification.",
+          "Step 7: Approval and disbursement - banks are mandated to complete approval within 15 working days of a complete application."
+        ]
+      },
+      {
+        title: "Which Banks and NBFCs Offer the Apna Ghar Loan?",
+        paragraphs: [
+          "The scheme is delivered through a wide network of financial institutions, not a single bank. Confirmed participants include National Bank of Pakistan (NBP), Bank of Punjab (BOP), Meezan Bank, HBL, Allied Bank, UBL, MCB Bank, Bank Alfalah, Bank AL Habib, Faysal Bank, Askari Bank, Mobilink Bank and Standard Chartered, plus the House Building Finance Company (HBFC).",
+          "A change many older guides miss: from July 2026 the programme is no longer bank-only. Non-bank housing finance and investment finance companies can now lend up to Rs 10 million, and microfinance companies up to Rs 5 million, widening reach into smaller cities and towns."
+        ],
+        links: [
+          { label: "Prime Minister Youth Loan Scheme 2026", href: "/prime-minister-youth-loan-scheme-2026/" },
+          { label: "Federal Contributory Pension Scheme 2026", href: "/federal-contributory-pension-scheme/" }
+        ]
+      },
+      {
+        title: "Apna Ghar vs Apni Chhat Apna Ghar: What's the Difference?",
+        paragraphs: [
+          "The names are confusingly similar, but these are different schemes run by different governments. The Wazir-e-Azam Apna Ghar Program is federal; Apni Chhat Apna Ghar (ACAG) is a Punjab-only scheme launched by Chief Minister Maryam Nawaz Sharif."
+        ],
+        table: {
+          caption: "Federal Wazir-e-Azam Apna Ghar vs Punjab Apni Chhat Apna Ghar",
+          headers: ["Parameter", "Wazir-e-Azam Apna Ghar (Federal)", "Apni Chhat Apna Ghar (Punjab)"],
+          rows: [
+            ["Government level", "Federal", "Punjab"],
+            ["Coverage", "All provinces + Islamabad + GB + AJK", "Punjab only"],
+            ["Maximum loan", "Rs 10 million", "Rs 1.5 million"],
+            ["Markup", "5% fixed for 10 years, then KIBOR + 3%", "0% (interest-free)"],
+            ["Tenure", "Up to 20 years", "7-9 years"],
+            ["Portal", "apnaghar.gov.pk", "acag.punjab.gov.pk"]
+          ]
+        },
+        links: [
+          { label: "Apni Chhat Apna Ghar: Punjab housing scheme", href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/" },
+          { label: "Apni Zameen Apna Ghar: free land balloting", href: "/apni-zameen-apna-ghar-balloting-result-2026/" }
+        ]
+      },
+      {
+        title: "Official Portal, Scam Alerts and Safety",
+        paragraphs: [
+          "The sole official application portal is apnaghar.gov.pk. Since the April 2026 launch, lookalike websites and Facebook pages have appeared offering paid registration - the real portal ends in .gov.pk, is linked from the State Bank of Pakistan's website, and never charges a fee.",
+          "If a bank delays, overcharges, or refuses a legitimate application without reason, register a grievance through the State Bank of Pakistan complaint portal at complaint.sbp.org.pk. This is the official escalation path, not an agent or a facilitation website."
+        ],
+        bullets: [
+          "Registration and application are free - never pay an agent or a website that promises guaranteed approval.",
+          "Never share your CNIC image, OTP, password or bank PIN with anyone.",
+          "Never send money through JazzCash, Easypaisa or any wallet to an unknown person for fast processing."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the Wazir-e-Azam Apna Ghar Program?",
+        answer: "The Wazir-e-Azam Apna Ghar Program is Pakistan's federal housing finance scheme, a markup subsidy and risk-sharing programme launched by Prime Minister Shehbaz Sharif on 30 April 2026 and regulated by the State Bank of Pakistan. It gives first-time buyers subsidised home loans through partner banks."
+      },
+      {
+        question: "What is the maximum loan amount?",
+        answer: "The maximum loan is Rs 10 million, offered in slabs of Rs 2.5 million, Rs 5 million, Rs 7.5 million and Rs 10 million. The slab you qualify for depends on your income, equity contribution and the property value being financed."
+      },
+      {
+        question: "What is the markup rate?",
+        answer: "The markup is 5% fixed for the first 10 years, subsidised by the government. After year 10 it moves to 1-year KIBOR plus 3%, a market-linked rate, so your monthly installment may change."
+      },
+      {
+        question: "Is the Apna Ghar Program interest-free?",
+        answer: "No. It carries a fixed 5% markup for the first decade, not zero interest. The interest-free scheme is the separate Punjab-only Apni Chhat Apna Ghar programme."
+      },
+      {
+        question: "How much down payment do I need?",
+        answer: "You contribute 10% of the property value as equity, while the bank finances up to 90%. There is no processing fee and no prepayment penalty."
+      },
+      {
+        question: "Who is eligible for the Apna Ghar Program?",
+        answer: "Any resident Pakistani holding a valid CNIC - or an NRP with a NICOP or POC - who is a first-time homeowner with a stable, verifiable income and a clean credit history. Both salaried and self-employed applicants can apply."
+      },
+      {
+        question: "What kind of property is covered?",
+        answer: "A house of up to 10 marla (2,720 sq ft) or a flat of up to 1,500 sq ft, with no cap on price. You can buy a house or flat, buy a plot with construction, or build on a plot you already own."
+      },
+      {
+        question: "Which banks and NBFCs offer the loan?",
+        answer: "Participating lenders include NBP, Bank of Punjab, Meezan Bank, HBL, Allied Bank, UBL, MCB, Bank Alfalah, Bank AL Habib, Faysal Bank, Askari Bank, Mobilink Bank, Standard Chartered and HBFC. From July 2026, eligible NBFCs and microfinance companies can also lend."
+      },
+      {
+        question: "How do I apply online?",
+        answer: "Visit apnaghar.gov.pk, register with your CNIC and mobile number, complete the application form, upload your documents, choose a participating bank, and submit. You will receive a Tracking ID to monitor progress."
+      },
+      {
+        question: "Is there any application fee?",
+        answer: "No. Application is free, with no processing fee and no prepayment penalty. Anyone charging a registration fee is running a fraud."
+      }
+    ],
+    officialLinks: [
+      { label: "Wazir-e-Azam Apna Ghar Program Portal", href: "https://apnaghar.gov.pk/" },
+      { label: "State Bank of Pakistan", href: "https://www.sbp.org.pk/" },
+      { label: "Ministry of Housing and Works", href: "https://mohw.gov.pk/" }
+    ]
+  },
+
+  {
     slug: "cm-punjab-electric-bike-scheme",
     title: "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments",
     excerpt: "Apply online for the CM Punjab Electric Bike Scheme 2026: 100,000 electric scooties at PKR 199,000 with a Rs 90,000 Punjab subsidy, zero down payment, 0% interest and ~Rs 3,000 monthly installments over 3 years. Deadline: October 4, 2026.",
@@ -1541,6 +2043,7 @@ export const articles: Article[] = [
       "cm-punjab-e-bike-scheme-updates",
       "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
       "electric-bike-scheme-guide",
+      "cm-punjab-e-bikes-scheme-phase-2",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "transport-fuel-relief-options"
     ],
@@ -1854,6 +2357,7 @@ export const articles: Article[] = [
       "cm-punjab-electric-bike-scheme",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "cm-punjab-honhaar-scholarship-program-2026",
+      "cm-punjab-e-bikes-scheme-phase-2",
       "cm-punjab-free-laptop-scheme-2026-online-apply",
       "apni-chhat-apna-ghar-scheme-online-apply-2026"
     ],
@@ -2640,7 +3144,8 @@ officialLinks: [
       "apni-chhat-apna-ghar-scheme-online-apply-2026",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
-    ],
+    ,
+      "wazir-e-azam-apna-ghar-program"],
     officialLinks: [
       { label: "AZAG Official Result Portal", href: "https://azag.punjab.gov.pk/ballot/result" },
       { label: "Official AZAG Portal", href: "https://azag.punjab.gov.pk/" }
@@ -13747,7 +14252,8 @@ officialLinks: [
   reviewer: contributors.ayeshaMalik,
   relatedSlugs: [
     "federal-contributory-pension-scheme"
-  ],
+  ,
+      "wazir-e-azam-apna-ghar-program"],
   sections: [
     {
       title: "What Is the Prime Minister Youth Loan Scheme 2026?",
@@ -16906,7 +17412,8 @@ officialLinks: [
       "apni-zameen-apna-ghar-balloting-result-2026",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
-    ],
+    ,
+      "wazir-e-azam-apna-ghar-program"],
     sections: [
       {
         title: "What Is the CM Punjab Apni Chhat Apna Ghar (ACAG) Scheme 2026?",
@@ -23408,7 +23915,8 @@ officialLinks: [
       "prime-minister-youth-loan-scheme-2026",
       "ehsaas-interest-free-loan-vs-saving-wallet",
       "bisp-direct-bank-account-transfer-online-registration"
-    ],
+    ,
+      "wazir-e-azam-apna-ghar-program"],
     title: "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
     excerpt: "Pakistan's Federal Contributory Pension Scheme (FGDC) covers federal employees hired after 1 July 2024. The employee contributes 10% and the government 12% (22% total) into an individually invested fund managed by licensed pension fund managers.",
     showExcerpt: true,

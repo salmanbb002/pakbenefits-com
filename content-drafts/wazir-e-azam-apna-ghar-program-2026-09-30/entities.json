@@ -1,0 +1,342 @@
+[
+  {
+    "canonical": "Wazir-e-Azam Apna Ghar Program",
+    "type": "GovernmentProgram",
+    "aliases": ["PM Apna Ghar Program", "PM-AGP", "Ghar Ho Tu Apna", "وزیرِ اعظم اپنا گھر پروگرام", "Prime Minister Apna Ghar Scheme"],
+    "sameAs": "https://apnaghar.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "State Bank of Pakistan (SBP)",
+    "type": "GovernmentOrganization",
+    "aliases": ["SBP", "central bank", "regulator"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Muhammad Shehbaz Sharif",
+    "type": "Person",
+    "aliases": ["Shehbaz Sharif", "Prime Minister Shehbaz Sharif", "PM of Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Shehbaz_Sharif",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs 10 Million Maximum Loan",
+    "type": "Money",
+    "aliases": ["Rs 1 crore", "PKR 10 million", "up to Rs 10M"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "5% Fixed Markup (First 10 Years)",
+    "type": "Money",
+    "aliases": ["5% markup", "subsidized markup", "5 percent rate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "apnaghar.gov.pk",
+    "type": "Product",
+    "aliases": ["official portal", "Apna Ghar portal", "application portal"],
+    "sameAs": "https://apnaghar.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "First-Time Homeowner",
+    "type": "Concept",
+    "aliases": ["first-time home buyer", "no existing residential property"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "20-Year Repayment Period",
+    "type": "Metric",
+    "aliases": ["20-year tenure", "up to 20 years"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "90:10 Financing-to-Value (10% Equity)",
+    "type": "Metric",
+    "aliases": ["90% financing", "10% down payment", "10% equity contribution"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Markup Subsidy and Risk Sharing Scheme",
+    "type": "Concept",
+    "aliases": ["markup subsidy", "risk sharing", "government subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Loan Slabs (Rs 2.5M / 5M / 7.5M / 10M)",
+    "type": "Metric",
+    "aliases": ["four slabs", "loan tiers", "2.5M, 5M, 7.5M, 10M"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "1-Year KIBOR + 3% (After 10 Years)",
+    "type": "Money",
+    "aliases": ["KIBOR plus 3", "commercial rate after 10 years", "KIBOR+300bps"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Rs 3.2 Trillion Allocation",
+    "type": "Money",
+    "aliases": ["Rs 3.2 trillion commitment", "total financing"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "500,000 Housing Units Target",
+    "type": "Metric",
+    "aliases": ["500,000 homes", "five lakh units", "50,000 in year one"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "10 Marla / 2,720 sq ft House",
+    "type": "Metric",
+    "aliases": ["house up to 10 marla", "2,720 square feet"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "1,500 sq ft Flat",
+    "type": "Metric",
+    "aliases": ["flat up to 1500 sq ft", "apartment 1500 sq ft"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "CNIC / NICOP / POC",
+    "type": "Document",
+    "aliases": ["valid CNIC", "NICOP", "POC", "Non-Resident Pakistani"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Participating Banks",
+    "type": "Organization",
+    "aliases": ["NBP", "Bank of Punjab", "Meezan Bank", "HBL", "Allied Bank", "UBL", "MCB", "Bank Alfalah", "Bank AL Habib", "Faysal Bank", "Askari Bank", "Mobilink Bank", "Standard Chartered"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "House Building Finance Company (HBFC)",
+    "type": "Organization",
+    "aliases": ["HBFC", "HBFCL", "House Building Finance Company Limited"],
+    "sameAs": "https://en.wikipedia.org/wiki/House_Building_Finance_Company",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "NBFC Expansion (July 2026)",
+    "type": "Event",
+    "aliases": ["Non-Banking Finance Companies", "NBFCs", "microfinance companies"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Diminishing Musharakah",
+    "type": "Concept",
+    "aliases": ["Shariah-compliant mode", "Islamic financing", "co-ownership"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Roshan Apna Ghar (NRP Track)",
+    "type": "Program",
+    "aliases": ["Roshan Digital Account", "RDA", "NRP home finance"],
+    "sameAs": "https://www.sbp.org.pk/our-operations/roshan-digital-accounts/roshan-apna-ghar",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Apni Chhat Apna Ghar (Punjab ACAG)",
+    "type": "GovernmentProgram",
+    "aliases": ["ACAG", "Punjab housing scheme", "Apni Chhat Apna Ghar"],
+    "sameAs": "https://acag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Mera Pakistan Mera Ghar (MPMG)",
+    "type": "GovernmentProgram",
+    "aliases": ["MPMG", "Mera Ghar Mera Ashiana", "predecessor scheme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "No Processing Fee / No Prepayment Penalty",
+    "type": "Concept",
+    "aliases": ["no processing cost", "no early repayment charges"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "15 Working Days Approval",
+    "type": "Metric",
+    "aliases": ["approval timeline", "15-day mandate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "SBP Complaint Portal",
+    "type": "Product",
+    "aliases": ["complaint.sbp.org.pk", "SBP complaint mechanism", "grievance redressal"],
+    "sameAs": "https://complaint.sbp.org.pk/",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Minimum Income Requirement (PKR 25,000–50,000)",
+    "type": "Money",
+    "aliases": ["minimum income", "PKR 25,000", "PKR 40,000", "PKR 50,000"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Age Limit (18–65 at Maturity)",
+    "type": "Metric",
+    "aliases": ["age 60 salaried", "age 65 self-employed", "minimum age"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Property & Free Life Insurance",
+    "type": "Concept",
+    "aliases": ["free life insurance", "property insurance", "takaful"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "SH&SFD Circular No. 03 of 2025",
+    "type": "Law",
+    "aliases": ["SBP circular 2025", "SH&SFD Circular 03"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "Apni Zameen Apna Ghar (Punjab AZAG)",
+    "type": "GovernmentProgram",
+    "aliases": ["AZAG", "free land Punjab scheme"],
+    "sameAs": "https://punjab.gov.pk/apni-zameen-apna-ghar",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "107,000+ Applications Received",
+    "type": "Metric",
+    "aliases": ["107,000 applications", "80% after Sept 2025"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  },
+  {
+    "canonical": "0800-09100 (Punjab ACAG Helpline)",
+    "type": "Process",
+    "aliases": ["ACAG helpline", "Punjab toll-free"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": "Tier 3"
+  }
+]
