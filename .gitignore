@@ -7,3 +7,5 @@ npm-debug.log*
 .env*
 !.env.example
 tsconfig.tsbuildinfo
+images-backup
+new-images

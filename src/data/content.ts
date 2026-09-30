@@ -1529,7 +1529,7 @@ export const articles: Article[] = [
     lastChecked: "September 30, 2026",
     readTime: "10 min read",
     image: "/images/cm-punjab-electric-bike-scheme.jpg",
-    imageAlt: "CM Punjab Electric Bike Scheme 2026 editorial banner showing the PKR 199,000 scooty price and Rs 90,000 subsidy",
+    imageAlt: "CM Punjab Electric Bike Scheme 2026 electric scooty illustration showing the PKR 199,000 price and Rs 90,000 Punjab subsidy",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
@@ -1841,7 +1841,7 @@ export const articles: Article[] = [
     lastChecked: "September 29, 2026",
     readTime: "9 min read",
     image: "/images/cm-punjab-e-bike-scheme-updates.jpg",
-    imageAlt: "CM Punjab E-Bike Scheme Updates 2026 Phase 2 Portal Balloting and BOP Installments",
+    imageAlt: "CM Punjab E-Bike Scheme Phase 2 electric scooty illustration showing the 100,000 e-bike quota and Rs 3,028 Bank of Punjab installment",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     officialLinks: [
@@ -2824,7 +2824,7 @@ officialLinks: [
     lastChecked: "September 28, 2026",
     readTime: "7 min read",
     image: "/images/pink-scooty-scheme-2026.jpg",
-    imageAlt: "Pink Scooty Scheme 2026 Registration Eligibility Documents & Balloting Guide",
+    imageAlt: "Pink Scooty Scheme 2026 pink electric scooty illustration for female students and working women in Punjab and Sindh",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     relatedSlugs: [
@@ -7904,7 +7904,7 @@ officialLinks: [
     "date": "September 13, 2026",
     "readTime": "4 min read",
     "image": "/images/e-bike-guide.jpg",
-    "imageAlt": "Pakistani student beside an electric scooter checking her phone",
+    "imageAlt": "Electric bike scheme eligibility guide illustration of an electric scooty for comparing costs and application notices",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "relatedSlugs": [
@@ -14484,7 +14484,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "17 min read",
     image: "/images/pave-electric-bike-scheme.jpg",
-    imageAlt: "Pakistani commuter reviewing electric bike subsidy application details on a smartphone beside an electric scooter",
+    imageAlt: "PAVE Scheme 2026 electric bike subsidy illustration with an electric scooty and online application smartphone",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -23749,7 +23749,7 @@ officialLinks: [
     lastChecked: "September 30, 2026",
     readTime: "11 min read",
     image: "/images/transport-fuel-relief-options.jpg",
-    imageAlt: "Editorial banner comparing Pakistan's transport and fuel relief options: Rs 100 per litre petrol discount, Rs 2,000 monthly subsidies, free public transport and electric bike schemes",
+    imageAlt: "Transport and fuel relief options 2026 comparison illustration with electric scooty, Rs 100 per litre petrol discount and fuel pump",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "CM Punjab E-Bikes Portal", href: "https://bikes.punjab.gov.pk/" },
