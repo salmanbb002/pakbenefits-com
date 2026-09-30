@@ -1855,7 +1855,7 @@ export const articles: Article[] = [
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "cm-punjab-honhaar-scholarship-program-2026",
       "cm-punjab-free-laptop-scheme-2026-online-apply",
-      "apni-chhat-apna-ghar-scheme-online-apply-2026-2026-09-21"
+      "apni-chhat-apna-ghar-scheme-online-apply-2026"
     ],
     sections: [
       {
@@ -1949,7 +1949,7 @@ export const articles: Article[] = [
         ],
         links: [
           { label: "CM Punjab Free Laptop Scheme 2026 Online Apply", href: "/cm-punjab-free-laptop-scheme-2026-online-apply" },
-          { label: "Apni Chhat Apna Ghar Housing Scheme", href: "/apni-chhat-apna-ghar-scheme-online-apply-2026-2026-09-21" }
+          { label: "Apni Chhat Apna Ghar Housing Scheme", href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/" }
         ]
       },
       {
@@ -2815,9 +2815,8 @@ officialLinks: [
       "Computerized E-Balloting",
       "Learner Driving Permit"
     ],
-    primaryCategory: "schemes",
+    primaryCategory: "Punjab Schemes",
     categorySlugs: [
-      "schemes",
       "punjab-schemes"
     ],
     date: "September 28, 2026",
@@ -3028,9 +3027,9 @@ officialLinks: [
       "HBL Connect",
       "Bank Alfalah ATM"
     ],
-    primaryCategory: "kafaalat",
+    primaryCategory: "Benazir Kafaalat",
     categorySlugs: [
-      "kafaalat",
+      "benazir-kafaalat",
       "8171"
     ],
     date: "September 26, 2026",
@@ -3193,9 +3192,9 @@ officialLinks: [
       "BISP Regional Office Peshawar",
       "NSER Dynamic Registration Center"
     ],
-    primaryCategory: "tehsil-offices",
+    primaryCategory: "BISP Registration",
     categorySlugs: [
-      "tehsil-offices",
+      "bisp-registration",
       "8171"
     ],
     date: "September 26, 2026",
@@ -3354,9 +3353,8 @@ officialLinks: [
       "Punjab Housing and Town Planning Agency",
       "Bank of Punjab"
     ],
-    primaryCategory: "housing-schemes",
+    primaryCategory: "Other Schemes",
     categorySlugs: [
-      "housing-schemes",
       "other-schemes"
     ],
     date: "September 26, 2026",
@@ -15618,6 +15616,11 @@ officialLinks: [
     imageAlt: "Ehsaas Interest-Free Loan vs Saving Wallet Comparison and Registration Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
+    relatedSlugs: [
+      "federal-contributory-pension-scheme",
+      "prime-minister-youth-loan-scheme-2026",
+      "what-counts-as-a-good-pmt-score"
+    ],
     sections: [
       {
         title: "Quick Overview: How the Ehsaas Loan and Saving Wallet Differ",
@@ -21371,8 +21374,8 @@ officialLinks: [
       "NADRA Child Registration Certificate",
       "Expanded Programme on Immunization"
     ],
-    primaryCategory: "bisp-schemes",
-    categorySlugs: ["bisp-schemes", "8171"],
+    primaryCategory: "Benazir Kafaalat",
+    categorySlugs: ["benazir-kafaalat", "8171"],
     date: "2026-09-24",
     publishedDate: "2026-09-24",
     lastChecked: "2026-09-24",
@@ -21761,8 +21764,8 @@ officialLinks: [
       "Kharif and Rabi Crop Seasons",
       "Sindh Board of Revenue"
     ],
-    primaryCategory: "sindh-schemes",
-    categorySlugs: ["sindh-schemes", "other-schemes"],
+    primaryCategory: "Other Schemes",
+    categorySlugs: ["other-schemes"],
     date: "2026-09-24",
     publishedDate: "2026-09-24",
     lastChecked: "2026-09-24",
@@ -21955,9 +21958,9 @@ officialLinks: [
       "NADRA Biometric Verification",
       "8171 Web Portal"
     ],
-    primaryCategory: "bisp-registration",
+    primaryCategory: "BISP Registration",
     categorySlugs: [
-      "bisp-guides",
+      "bisp-registration",
       "8171",
       "news"
     ],
@@ -21969,6 +21972,11 @@ officialLinks: [
     imageAlt: "Beneficiary completing biometric authentication for BISP Sahulat commercial bank account opening",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
+    relatedSlugs: [
+      "federal-contributory-pension-scheme",
+      "bisp-8171-balance-check-online-kaise-karein",
+      "bisp-agent-deduction-complaint-retailer-penalty"
+    ],
     sections: [
       {
         title: "What Is the BISP Direct Bank Transfer System in 2026?",
@@ -22164,9 +22172,9 @@ officialLinks: [
       "NSER Dynamic Survey",
       "0800-26477 Toll-Free Helpline"
     ],
-    primaryCategory: "bisp-registration",
+    primaryCategory: "BISP Registration",
     categorySlugs: [
-      "bisp-guides",
+      "bisp-registration",
       "8171"
     ],
     date: "September 24, 2026",
@@ -22366,9 +22374,9 @@ officialLinks: [
       "Jalalpur Pirwala BISP Desk",
       "NSER Dynamic Survey"
     ],
-    primaryCategory: "bisp-registration",
+    primaryCategory: "BISP Registration",
     categorySlugs: [
-      "bisp-guides",
+      "bisp-registration",
       "8171"
     ],
     date: "September 24, 2026",

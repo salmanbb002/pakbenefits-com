@@ -1,28 +1,8 @@
 {
-  "checkedAt": "2026-09-29T10:45:04.661Z",
+  "checkedAt": "2026-09-30T06:39:41.132Z",
   "environment": "Local production export; Vercel redirect rules modeled locally, not a live deployment check",
-  "routeCount": 122,
-  "failures": [
-    "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/: broken internal route /schemes/",
-    "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/: broken internal route /schemes/",
-    "/bisp-biometric-verification-failed-fingerprint-solution/: broken internal route /kafaalat/",
-    "/bisp-biometric-verification-failed-fingerprint-solution/: broken internal route /kafaalat/",
-    "/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/: broken internal route /tehsil-offices/",
-    "/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/: broken internal route /tehsil-offices/",
-    "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/: broken internal route /housing-schemes/",
-    "/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/: broken internal route /housing-schemes/",
-    "/benazir-nashonuma-program-online-apply-cnic-check/: broken internal route /bisp-schemes/",
-    "/benazir-nashonuma-program-online-apply-cnic-check/: broken internal route /bisp-schemes/",
-    "/sindh-hari-card-scheme-2026-online-apply-eligibility/: broken internal route /sindh-schemes/",
-    "/sindh-hari-card-scheme-2026-online-apply-eligibility/: broken internal route /sindh-schemes/",
-    "/bisp-direct-bank-account-transfer-online-registration/: broken internal route /bisp-guides/",
-    "/bisp-direct-bank-account-transfer-online-registration/: broken internal route /bisp-guides/",
-    "/bisp-tehsil-office-faisalabad-addresses-guide/: broken internal route /bisp-guides/",
-    "/bisp-tehsil-office-faisalabad-addresses-guide/: broken internal route /bisp-guides/",
-    "/bisp-tehsil-office-multan-addresses-guide/: broken internal route /bisp-guides/",
-    "/bisp-tehsil-office-multan-addresses-guide/: broken internal route /bisp-guides/",
-    "/pm-petrol-relief-scheme-updates-2026/: broken internal route /pave-scheme-2026-eligibility-electric-bike-subsidy/"
-  ],
+  "routeCount": 126,
+  "failures": [],
   "pending": [],
   "pages": [
     {
@@ -164,6 +144,32 @@
         "WebSite",
         "BreadcrumbList",
         "CollectionPage",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-electric-bike-scheme/",
+      "title": "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility & Price | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 167,
+      "editorialWords": 1789,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/cm-punjab-e-bike-scheme-updates/",
+      "title": "CM Punjab E-Bike Scheme Updates 2026: Balloting, BOP Installment & Portal | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 148,
+      "editorialWords": 2378,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
         "FAQPage"
       ]
     },
@@ -1504,6 +1510,32 @@
       "title": "PM Petrol Relief Scheme Updates 2026: 9771 Quotas & Rules | Live Govt Schemes & Ehsaas Programs",
       "descriptionLength": 155,
       "editorialWords": 1748,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/federal-contributory-pension-scheme/",
+      "title": "Federal Contributory Pension Scheme: FGDC Rules & Contributions | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 176,
+      "editorialWords": 2345,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "path": "/transport-fuel-relief-options/",
+      "title": "Transport & Fuel Relief Options Compared: PM Rs 100/L, Subsidies & E-Bikes (2026) | Live Govt Schemes & Ehsaas Programs",
+      "descriptionLength": 177,
+      "editorialWords": 2229,
       "schemaTypes": [
         "Organization",
         "WebSite",
