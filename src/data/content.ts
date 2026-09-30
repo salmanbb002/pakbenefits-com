@@ -23442,7 +23442,7 @@ officialLinks: [
     lastChecked: "September 30, 2026",
     readTime: "12 min read",
     image: "/images/federal-contributory-pension-scheme.jpg",
-    imageAlt: "Editorial banner for Pakistan's Federal Contributory Pension Scheme (FGDC) 2024 showing the 10% employee and 12% government contribution split",
+    imageAlt: "Pakistan's Federal Contributory Pension Scheme (FGDC) 2024 - the defined-contribution retirement system for federal employees with a 10% employee and 12% government contribution split",
     author: contributors.muhammadSalman,
     sections: [
       {
