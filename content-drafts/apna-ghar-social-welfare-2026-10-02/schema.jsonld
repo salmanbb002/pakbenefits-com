@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/apna-ghar-social-welfare-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/apna-ghar-social-welfare-guide/"
+      },
+      "headline": "Apna Ghar & Social Welfare: Complete Guide to Shelter, Support & Housing Services",
+      "description": "Explore how Apna Ghar social welfare initiatives and government programs provide free shelter, healthcare, child education, and housing loans to those in need.",
+      "mainEntityOfPage": "https://example.com/apna-ghar-social-welfare-guide/",
+      "datePublished": "2026-10-02T08:00:00+05:00",
+      "dateModified": "2026-10-02T08:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "TODO: Insert Author Profile URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Insert Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Insert Publisher Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "NGO",
+          "name": "Apna Ghar Social Welfare Society",
+          "sameAs": "https://apnagharsociety.org/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Social Welfare Department",
+          "sameAs": "https://socialwelfare.punjab.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "Apna Ghar Ashram",
+          "sameAs": "https://apnagharashram.org/"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Apni Chhat Apna Ghar Housing Scheme",
+          "sameAs": "https://phata.punjab.gov.pk/"
+        },
+        {
+          "@type": "CivicStructure",
+          "name": "Dar-ul-Aman Crisis Shelter"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/apna-ghar-social-welfare-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Social Welfare",
+          "item": "https://example.com/social-welfare/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Apna Ghar & Social Welfare Guide",
+          "item": "https://example.com/apna-ghar-social-welfare-guide/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/apna-ghar-social-welfare-guide/#howto",
+      "name": "How to Access Services from Apna Ghar Social Welfare Programs",
+      "description": "Step-by-step guide to applying for or securing emergency shelter, destitute rehabilitation, or housing assistance through Apna Ghar welfare channels.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Identify the Specific Need",
+          "text": "Determine whether you require non-profit destitute shelter (Apna Ghar Ashram/Society), emergency female crisis protection (Dar-ul-Aman), or interest-free housing loans (Apni Chhat Apna Ghar)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Gather Identity Documentation",
+          "text": "Prepare a valid National Identity Card (CNIC), proof of income or destitute status, and any relevant medical or legal documents."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Submit Application or Request Referral",
+          "text": "Visit the local Social Welfare Department office, contact the specific NGO helpline, or apply through official provincial housing portals."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Undergo Verification & Intake Assessment",
+          "text": "Complete the social assessment interview conducted by welfare officers or NGO medical teams to finalize shelter admission or loan approval."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/apna-ghar-social-welfare-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Apna Ghar Social Welfare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apna Ghar Social Welfare refers to a collection of non-governmental organizations, charity foundations, and government initiatives that provide free residential shelter, healthcare, education, and affordable housing assistance to destitute, homeless, and vulnerable populations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who qualifies for admission to an Apna Ghar shelter home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eligibility typically extends to homeless destitute persons, abandoned orphans, elderly individuals without family support, and victims of domestic abuse or crisis requiring immediate shelter and rehabilitation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Apna Ghar services completely free of charge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, charitable Apna Ghar welfare homes and government crisis centers provide 100% free lodging, meals, clothing, medical treatment, and vocational education for admitted beneficiaries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Apna Ghar differ from government housing schemes like Apni Chhat Apna Ghar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apna Ghar shelter homes offer immediate, non-profit residential care and rehabilitation to destitute individuals, whereas schemes like Apni Chhat Apna Ghar provide government-backed interest-free loans to help low-income families build their own permanent houses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What role does the Social Welfare Department play in shelter home management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Social Welfare Department operates state-run facilities like Dar-ul-Aman and Gehwara while regulating, registering, and monitoring private welfare societies to maintain safety and service standards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can victims of domestic violence seek refuge in an Apna Ghar shelter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, specialized Apna Ghar units and government Dar-ul-Aman shelters offer secure emergency lodging, psychological counseling, legal aid, and protective services for women and children fleeing abuse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What medical services are available at Apna Ghar Ashram facilities?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apna Ghar Ashrams provide full medical checkups, psychiatric care, nursing support, physical rehabilitation, and pharmacy services to restored homeless and mentally ill individuals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are lost or destitute residents reunited with their families?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Social workers trace families through local administration, biometric verification, public announcements, and police coordination to safely reunite recovered residents with their relatives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required to apply for Apna Ghar housing schemes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants generally require a valid CNIC, proof of monthly income, land ownership documents (if applying for home construction loans), and an active contact number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can citizens support or volunteer at Apna Ghar welfare societies?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Citizens can contribute through financial donations, sponsoring child education, donating food and medical supplies, or volunteering in vocational and healthcare programs."
+          }
+        }
+      ]
+    }
+  ]
+}

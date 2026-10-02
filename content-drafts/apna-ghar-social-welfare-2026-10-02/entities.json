@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "Apna Ghar Social Welfare Society",
+    "type": "Organization",
+    "aliases": ["AGSWS", "Apna Ghar Welfare Foundation"],
+    "sameAs": "https://apnagharsociety.org/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Apna Ghar Ashram",
+    "type": "Organization",
+    "aliases": ["Apna Ghar Destitute Home", "Apna Ghar Organization"],
+    "sameAs": "https://apnagharashram.org/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Welfare Department",
+    "type": "Government Organization",
+    "aliases": ["Social Welfare & Bait-ul-Maal Department", "Provincial Social Welfare Board"],
+    "sameAs": "https://socialwelfare.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Shelter & Rehabilitation Center",
+    "type": "Facility",
+    "aliases": ["Shelter Home", "Destitute Home", "Crisis Center"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government Housing Assistance Scheme",
+    "type": "Government Program",
+    "aliases": ["Apni Chhat Apna Ghar", "Apna Ghar Housing Loan Scheme"],
+    "sameAs": "https://phata.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Destitute Care & Medical Treatment",
+    "type": "Service",
+    "aliases": ["Healthcare for Homeless", "Destitute Rehabilitation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Dar-ul-Aman Women Crisis Center",
+    "type": "Government Facility",
+    "aliases": ["Dar-ul-Aman", "Women Protection Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Orphan Care & Female Vocational Empowerment",
+    "type": "Service",
+    "aliases": ["Skill Development", "Child Education Support"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Eligibility & Identity Verification",
+    "type": "Process",
+    "aliases": ["CNIC Verification", "Admission Criteria"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Family Reunification Services",
+    "type": "Service",
+    "aliases": ["Tracing Relatives", "Social Integration"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]
