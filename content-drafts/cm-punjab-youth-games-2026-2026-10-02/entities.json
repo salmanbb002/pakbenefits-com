@@ -1,0 +1,152 @@
+[
+  {
+    "canonical": "CM Punjab Youth Games 2026",
+    "type": "Event",
+    "aliases": ["Khelta Punjab Youth Games 2026", "Punjab Youth Games 2026", "Chief Minister Youth Games Punjab"],
+    "sameAs": "https://youthgames.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sports Board Punjab",
+    "type": "Organization",
+    "aliases": ["SBP", "Punjab Sports Board", "Youth Affairs and Sports Department Punjab"],
+    "sameAs": "https://sportsboard.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "youthgames.punjab.gov.pk",
+    "type": "Website",
+    "aliases": ["Official Youth Games Portal", "Punjab Youth Games Online Portal"],
+    "sameAs": "https://youthgames.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs. 500 Million",
+    "type": "Money",
+    "aliases": ["500M Cash Prize Pool", "50 Crore Cash Prizes"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "5 Age Brackets",
+    "type": "Metric",
+    "aliases": ["Middle", "Secondary", "College", "University", "Special Persons"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sports Disciplines",
+    "type": "Category",
+    "aliases": ["19 Sports Disciplines", "Sports Categories", "Games List"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Educational Institutions",
+    "type": "Category",
+    "aliases": ["Schools", "Colleges", "Universities", "Deeni Madaris", "Special Education Institutions"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA B-Form / CNIC",
+    "type": "Document",
+    "aliases": ["B-Form Number", "National Identity Card", "CNIC"],
+    "sameAs": "https://www.nadra.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Institutional Trials",
+    "type": "Event",
+    "aliases": ["School Trials", "Selection Trials", "Trial Phase"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Tournament Schedule",
+    "type": "Timeline",
+    "aliases": ["UC Level", "Tehsil Level", "District Level", "Divisional Level", "Provincial Finals"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Grievance Portal",
+    "type": "Feature",
+    "aliases": ["Complaint Redressal System", "Trial Redressal Portal"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Photo Upload Requirement",
+    "type": "Technical",
+    "aliases": ["256 KB Photo Limit", "JPG PNG Photo Upload"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Director General Sports Punjab",
+    "type": "Person",
+    "aliases": ["Muhammad Tariq Qureshi", "DG Sports Punjab"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Chief Minister Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["CM Maryam Nawaz", "Maryam Nawaz Sharif"],
+    "sameAs": "https://punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "E-gaming & Padel Tennis",
+    "type": "Sport",
+    "aliases": ["Electronic Sports", "Padel"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
