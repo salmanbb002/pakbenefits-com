@@ -215,54 +215,48 @@ const articleObjectString = `  {
             ["Document Upload Error", "File size exceeds 2 MB or image is blurry", "Compress files under 1 MB in JPEG/PDF format before re-uploading"]
           ]
         }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official website to apply for the CM Punjab E-Bike Scheme 2026?",
+        answer: "The official website to register for the CM Punjab E-Bike Scheme 2026 is bikes.punjab.gov.pk. Applicants should use only this official portal and avoid unauthorized third-party websites or agents charging registration fees."
       },
       {
-        title: "Frequently Asked Questions (FAQ)",
-        paragraphs: [
-          "Here are answers to the most common questions asked by applicants registering for the CM Punjab E-Bike Scheme 2026."
-        ],
-        faqs: [
-          {
-            question: "What is the official website to apply for the CM Punjab E-Bike Scheme 2026?",
-            answer: "The official website to register for the CM Punjab E-Bike Scheme 2026 is bikes.punjab.gov.pk. Applicants should use only this official portal and avoid unauthorized third-party websites or agents charging registration fees."
-          },
-          {
-            question: "Is down payment required for the CM Punjab electric bike scheme?",
-            answer: "No, the CM Punjab E-Bike Scheme requires zero down payment. Successful applicants receive their electric bike without paying any advance upfront cash, as the Punjab government covers the initial down payment and insurance expenses."
-          },
-          {
-            question: "Can students with a learner driving permit apply for the E-Bike scheme?",
-            answer: "Yes, students holding a valid driving learner's permit issued by the Punjab Traffic Police are fully eligible to apply. A full permanent driving license is not mandatory during the initial registration phase."
-          },
-          {
-            question: "What is the monthly installment amount for the Punjab E-Bike scheme?",
-            answer: "The monthly installment for the electric bike is approximately Rs. 3,000 per month. The total balance is spread evenly across 36 equal monthly installments with zero interest markup."
-          },
-          {
-            question: "Who can act as a guarantor for the E-Bike application?",
-            answer: "A parent, guardian, working spouse, or relative with a verifiable regular income source can act as a financial guarantor. The guarantor must possess a valid CNIC and have an active credit record with no bank defaults."
-          },
-          {
-            question: "Are private university students in Punjab eligible for the E-Bike scheme?",
-            answer: "Yes, regular full-time students enrolled in HEC-recognized private universities in Punjab are eligible to apply alongside public sector university students."
-          },
-          {
-            question: "How many years is the installment plan for the CM Punjab electric bike?",
-            answer: "The installment repayment plan spans 3 years (36 consecutive months). Payments are deposited directly into designated Bank of Punjab accounts or collected via automated monthly bank deductions."
-          },
-          {
-            question: "Are government employees and school teachers eligible for Phase 2 E-Bikes?",
-            answer: "Yes, government school teachers can apply through the dedicated Punjab Teachers Foundation (PTF) portal, while BPS 1 to BPS 16 provincial government employees are eligible under dedicated workplace quotas."
-          },
-          {
-            question: "What accessories are provided free of cost with the CM E-Bike?",
-            answer: "Every electric bike comes with a free safety helmet, protective side rods, 100% free vehicle registration, token tax exemption, and comprehensive insurance coverage for the first year."
-          },
-          {
-            question: "How can I check if my E-Bike application has been approved by BOP?",
-            answer: "Log into your user account on bikes.punjab.gov.pk using your CNIC and password. Navigate to the Dashboard tab to view your current application status, which will display BOP Loan Approved once final clearance is granted."
-          }
-        ]
+        question: "Is down payment required for the CM Punjab electric bike scheme?",
+        answer: "No, the CM Punjab E-Bike Scheme requires zero down payment. Successful applicants receive their electric bike without paying any advance upfront cash, as the Punjab government covers the initial down payment and insurance expenses."
+      },
+      {
+        question: "Can students with a learner driving permit apply for the E-Bike scheme?",
+        answer: "Yes, students holding a valid driving learner's permit issued by the Punjab Traffic Police are fully eligible to apply. A full permanent driving license is not mandatory during the initial registration phase."
+      },
+      {
+        question: "What is the monthly installment amount for the Punjab E-Bike scheme?",
+        answer: "The monthly installment for the electric bike is approximately Rs. 3,000 per month. The total balance is spread evenly across 36 equal monthly installments with zero interest markup."
+      },
+      {
+        question: "Who can act as a guarantor for the E-Bike application?",
+        answer: "A parent, guardian, working spouse, or relative with a verifiable regular income source can act as a financial guarantor. The guarantor must possess a valid CNIC and have an active credit record with no bank defaults."
+      },
+      {
+        question: "Are private university students in Punjab eligible for the E-Bike scheme?",
+        answer: "Yes, regular full-time students enrolled in HEC-recognized private universities in Punjab are eligible to apply alongside public sector university students."
+      },
+      {
+        question: "How many years is the installment plan for the CM Punjab electric bike?",
+        answer: "The installment repayment plan spans 3 years (36 consecutive months). Payments are deposited directly into designated Bank of Punjab accounts or collected via automated monthly bank deductions."
+      },
+      {
+        question: "Are government employees and school teachers eligible for Phase 2 E-Bikes?",
+        answer: "Yes, government school teachers can apply through the dedicated Punjab Teachers Foundation (PTF) portal, while BPS 1 to BPS 16 provincial government employees are eligible under dedicated workplace quotas."
+      },
+      {
+        question: "What accessories are provided free of cost with the CM E-Bike?",
+        answer: "Every electric bike comes with a free safety helmet, protective side rods, 100% free vehicle registration, token tax exemption, and comprehensive insurance coverage for the first year."
+      },
+      {
+        question: "How can I check if my E-Bike application has been approved by BOP?",
+        answer: "Log into your user account on bikes.punjab.gov.pk using your CNIC and password. Navigate to the Dashboard tab to view your current application status, which will display BOP Loan Approved once final clearance is granted."
       }
     ]
   },

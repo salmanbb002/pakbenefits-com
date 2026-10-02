@@ -1919,8 +1919,10 @@ export const articles: Article[] = [
         title: "Frequently Asked Questions (FAQ)",
         paragraphs: [
           "Here are answers to the most common questions asked by applicants registering for the CM Punjab E-Bike Scheme 2026."
-        ],
-        faqs: [
+        ]
+      }
+    ],
+    faqs: [
           {
             question: "What is the official website to apply for the CM Punjab E-Bike Scheme 2026?",
             answer: "The official website to register for the CM Punjab E-Bike Scheme 2026 is bikes.punjab.gov.pk. Applicants should use only this official portal and avoid unauthorized third-party websites or agents charging registration fees."
@@ -1962,8 +1964,6 @@ export const articles: Article[] = [
             answer: "Log into your user account on bikes.punjab.gov.pk using your CNIC and password. Navigate to the Dashboard tab to view your current application status, which will display BOP Loan Approved once final clearance is granted."
           }
         ]
-      }
-    ]
   },
 
   {
