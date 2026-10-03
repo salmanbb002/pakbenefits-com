@@ -204,7 +204,7 @@ export default function Home() {
       <section className="trust-section">
         <div className="shell trust-grid">
           <div className="trust-image">
-            <Image src="/images/registration-guide.jpg" alt="A Pakistani woman checking a registration guide safely" fill sizes="(max-width: 900px) 100vw, 48vw" />
+            <Image src="/images/registration-guide.jpg" alt="Pakistani woman safely checking government scheme eligibility on a mobile device at home" fill sizes="(max-width: 900px) 100vw, 48vw" style={{ objectFit: "cover", objectPosition: "center" }} />
             <div className="trust-image-label"><ShieldCheck /><span><strong>Privacy first</strong>Read without sharing personal data.</span></div>
           </div>
           <div className="trust-copy">

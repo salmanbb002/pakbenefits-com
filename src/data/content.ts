@@ -2120,17 +2120,17 @@ export const articles: Article[] = [
       "Bank Alfalah & Habib Bank Limited (HBL)",
       "BISP Digital Wallets & Benazir SIMs"
     ],
-    primaryCategory: "bisp-8171",
+    primaryCategory: "8171 Eligibility & Portal",
     categorySlugs: [
-      "bisp-8171",
-      "federal-schemes"
+      "8171",
+      "benazir-kafaalat"
     ],
     date: "October 3, 2026",
     publishedDate: "October 3, 2026",
     lastChecked: "October 3, 2026",
     readTime: "9 min read",
     image: "/images/bisp-benazir-kafaalat-8171-check.jpg",
-    imageAlt: "BISP Benazir Kafaalat 2026 8171 Online CNIC Check and Registration Guide",
+    imageAlt: "Citizen verifying 8171 CNIC eligibility status for BISP Benazir Kafaalat online",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "8171 Official Web Portal", href: "https://8171.bisp.gov.pk/" },
@@ -2344,7 +2344,7 @@ export const articles: Article[] = [
     lastChecked: "October 02, 2026",
     readTime: "7 min read",
     image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
-    imageAlt: "Maryam Nawaz Electric Bike Scheme 2026 Registration Portal",
+    imageAlt: "Female student standing beside electric scooty under CM Punjab Pink Scooty Phase 2",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     officialLinks: [
@@ -2571,7 +2571,7 @@ export const articles: Article[] = [
     lastChecked: "October 2, 2026",
     readTime: "10 min read",
     image: "/images/how-to-apply-cm-punjab-e-bike-scheme-2026.jpg",
-    imageAlt: "How to Apply CM Punjab E-Bike Scheme 2026 Complete Online Registration Guide",
+    imageAlt: "Student completing online application step for CM Punjab E-Bike Scheme portal",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
@@ -2825,7 +2825,7 @@ export const articles: Article[] = [
     lastChecked: "October 2, 2026",
     readTime: "8 min read",
     image: "/images/wazir-e-azam-apna-ghar-program.jpg",
-    imageAlt: "Apna Ghar and Social Welfare shelter and housing initiatives guide",
+    imageAlt: "Modern residential apartment building constructed under Wazir-e-Azam housing program",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -3002,14 +3002,14 @@ export const articles: Article[] = [
     focusKeyword: "national savings profit rates",
     lsiKeywords: ["behbood savings certificate profit rate per month","regular income certificate profit on 1 lakh","special savings certificate profit rate after tax","sarwa islamic savings account profit rate","national savings tax deduction filer vs non filer","how to calculate national savings profit per month","zakat exemption form cz-50 national savings"],
     entities: ["Central Directorate of National Savings","Behbood Savings Certificates","Regular Income Certificates","Special Savings Certificates","Pensioners Benefit Account","Defence Savings Certificates","Sarwa Islamic Term Account","Federal Board of Revenue","Active Taxpayer List","Form CZ-50"],
-    primaryCategory: "pension",
-    categorySlugs: ["pension", "financial-schemes"],
+    primaryCategory: "Other Schemes",
+    categorySlugs: ["other-schemes"],
     date: "October 2, 2026",
     publishedDate: "2026-10-02",
     lastChecked: "October 2, 2026",
     readTime: "8 min read",
     image: "/images/national-savings-profit-rates.webp",
-    imageAlt: "Official National Savings Profit Rates comparison chart and return rates table for Pakistan certificates",
+    imageAlt: "Official National Savings Profit Rates comparison chart and return rates reference",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -3316,7 +3316,7 @@ export const articles: Article[] = [
     lastChecked: "September 30, 2026",
     readTime: "9 min read",
     image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
-    imageAlt: "CM Punjab E-Bikes Scheme Phase 2 2026 electric scooty banner showing the PKR 199,000 price, Rs 90,000 Punjab subsidy and October 4, 2026 last date",
+    imageAlt: "Female student standing beside electric scooty under CM Punjab Pink Scooty Phase 2",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
@@ -3585,7 +3585,7 @@ export const articles: Article[] = [
     lastChecked: "September 30, 2026",
     readTime: "10 min read",
     image: "/images/wazir-e-azam-apna-ghar-program.jpg",
-    imageAlt: "Editorial banner for the Wazir-e-Azam Apna Ghar Program 2026 showing a newly built Pakistani home, the 5% markup and Rs 10 million loan terms",
+    imageAlt: "Modern residential apartment building constructed under Wazir-e-Azam housing program",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -3825,7 +3825,7 @@ export const articles: Article[] = [
     lastChecked: "September 30, 2026",
     readTime: "10 min read",
     image: "/images/cm-punjab-electric-bike-scheme.jpg",
-    imageAlt: "CM Punjab Electric Bike Scheme 2026 electric scooty illustration showing the PKR 199,000 price and Rs 90,000 Punjab subsidy",
+    imageAlt: "University student with electric motor bike subsidized by CM Punjab E-Bike scheme",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
@@ -4139,7 +4139,7 @@ export const articles: Article[] = [
     lastChecked: "September 29, 2026",
     readTime: "9 min read",
     image: "/images/cm-punjab-e-bike-scheme-updates.jpg",
-    imageAlt: "CM Punjab E-Bike Scheme Phase 2 electric scooty illustration showing the 100,000 e-bike quota and Rs 3,028 Bank of Punjab installment",
+    imageAlt: "Lineup of new electric bikes for students under CM Punjab E-Bike scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     officialLinks: [
@@ -4405,7 +4405,7 @@ export const articles: Article[] = [
     lastChecked: "September 29, 2026",
     readTime: "8 min read",
     image: "/images/cm-punjab-youth-games-2026.jpg",
-    imageAlt: "CM Punjab Youth Games 2026 Online Registration Eligibility Sports and Prizes Guide",
+    imageAlt: "Young athletes participating in sports competitions at CM Punjab Youth Games",
     author: contributors.muhammadSalman,
         relatedSlugs: [
       "cm-punjab-honhaar-scholarship-program-2026",
@@ -4717,7 +4717,7 @@ officialLinks: [
     lastChecked: "September 29, 2026",
     readTime: "9 min read",
     image: "/images/cm-punjab-green-credit-program-2026.jpg",
-    imageAlt: "CM Punjab Green Credit Program 2026 Online Apply Portal & Rewards Guide",
+    imageAlt: "Solar powered agricultural irrigation system funded by CM Punjab Green Credit Program",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab Green Credit Portal", href: "https://greencredit.punjab.gov.pk/" },
@@ -4933,7 +4933,7 @@ officialLinks: [
     lastChecked: "September 28, 2026",
     readTime: "6 min read",
     image: "/images/apni-zameen-apna-ghar-balloting-result-2026.jpg",
-    imageAlt: "Apni Zameen Apna Ghar Balloting Result 2026 CNIC Check Online",
+    imageAlt: "Architectural housing blueprints and land survey records for Apni Zameen Apna Ghar balloting result",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     relatedSlugs: [
@@ -5127,7 +5127,7 @@ officialLinks: [
     lastChecked: "September 28, 2026",
     readTime: "7 min read",
     image: "/images/pink-scooty-scheme-2026.jpg",
-    imageAlt: "Pink Scooty Scheme 2026 pink electric scooty illustration for female students and working women in Punjab and Sindh",
+    imageAlt: "Female students riding pink scooties provided under government mobility scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     relatedSlugs: [
@@ -5341,7 +5341,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "7 min read",
     image: "/images/bisp-biometric-verification-failed.jpg",
-    imageAlt: "Official government BISP biometric verification failed fingerprint solution Form B registration guide",
+    imageAlt: "Biometric thumbprint verification device used for resolving BISP fingerprint matching failures",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -5506,7 +5506,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/bisp-tehsil-office-peshawar-kpk.jpg",
-    imageAlt: "Verified government BISP Tehsil Offices Peshawar KPK registration center directory list",
+    imageAlt: "Peshawar Tehsil registration facility for BISP applicants and KPK beneficiaries",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -5666,7 +5666,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/cm-punjab-apni-chhat-apna-ghar-loan.jpg",
-    imageAlt: "Apni Chhat Apna Ghar Loan Installment Tracking PITB Portal Guide",
+    imageAlt: "Homeowner discussing construction layout for CM Punjab Apni Chhat Apna Ghar house loan",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -5847,7 +5847,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
-    imageAlt: "CM Balochistan Youth Skills Scheme 2026 Online Apply and Registration Guide",
+    imageAlt: "Youth in Balochistan participating in vocational skills training program under CM scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -6064,7 +6064,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "7 min read",
     image: "/images/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.jpg",
-    imageAlt: "Fake 8171 SMS Check, Complaint and BISP Lottery Fraud Alert Guide",
+    imageAlt: "Cybersecurity warning representation against fake 8171 lottery SMS fraud schemes",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -6273,7 +6273,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
     image: "/images/pmt-score-above-32-bisp-re-survey.jpg",
-    imageAlt: "Pakistani beneficiary consulting enumerator at BISP Tehsil Dynamic Registry desk for PMT score re-survey",
+    imageAlt: "Family consulting welfare officer for BISP PMT score re-survey and appeal process",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -6496,7 +6496,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "10 min read",
     image: "/images/bisp-agent-deduction-complaint.jpg",
-    imageAlt: "BISP beneficiary collecting full Rs 13500 payment from biometric payment center with zero fee deduction",
+    imageAlt: "BISP helpline representative recording complaint against unauthorized agent fee deductions",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -6695,7 +6695,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
     image: "/images/bisp-and-ehsaas-difference.jpg",
-    imageAlt: "Official Benazir Income Support Programme and Ehsaas social welfare registration desk with NADRA biometric equipment in Pakistan",
+    imageAlt: "Comparative documentation folders illustrating differences between BISP and Ehsaas government welfare programs",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -7015,7 +7015,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
     image: "/images/punjab-solar-tube-well-scheme.jpg",
-    imageAlt: "Modern agricultural solar tube well system providing clean irrigation water to farmland in Punjab, Pakistan",
+    imageAlt: "Solar powered agricultural tube well dispensing water into farm channels under Punjab scheme",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -7242,7 +7242,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
     image: "/images/kisan-card-8070-pin-verification.jpg",
-    imageAlt: "Pakistani farmer verifying and activating CM Punjab Kisan Card at Bank of Punjab biometric ATM",
+    imageAlt: "Farmer verifying Kisan Card 8070 PIN code at authorized agricultural dealer POS",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -7986,7 +7986,7 @@ officialLinks: [
     lastChecked: "August 14, 2026",
     readTime: "9 min read",
     image: "/images/8171-portal-troubleshooting.jpg",
-    imageAlt: "A user troubleshooting the official 8171 BISP portal on a mobile phone",
+    imageAlt: "Information desk staff assisting a citizen with 8171 web portal troubleshooting and CNIC check errors",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -9396,7 +9396,7 @@ officialLinks: [
     date: "August 3, 2026",
     readTime: "6 min read",
     image: "/images/farmer-support.jpg",
-    imageAlt: "A family checking an emergency cash disbursement notice on a phone",
+    imageAlt: "Pakistani farmers receiving agricultural welfare support and crop subsidies",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -9449,7 +9449,7 @@ officialLinks: [
     date: "August 1, 2026",
     readTime: "5 min read",
     image: "/images/scholarship-guide.jpg",
-    imageAlt: "A person looking up the nearest official registration center address online",
+    imageAlt: "Graduation mortarboard cap and academic scrolls representing educational scholarship guides",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -9685,7 +9685,7 @@ officialLinks: [
     date: "July 28, 2026",
     readTime: "5 min read",
     image: "/images/farmer-support.jpg",
-    imageAlt: "A family collecting a verified ration package at an official distribution point",
+    imageAlt: "Pakistani farmers receiving agricultural welfare support and crop subsidies",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -9823,7 +9823,7 @@ officialLinks: [
     date: "July 25, 2026",
     readTime: "6 min read",
     image: "/images/registration-guide.jpg",
-    imageAlt: "Pakistani woman reviewing a registration checklist on her phone",
+    imageAlt: "Pakistani woman safely checking government scheme eligibility on a mobile device at home",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -9895,7 +9895,7 @@ officialLinks: [
     date: "July 23, 2026",
     readTime: "6 min read",
     image: "/images/hero-support.jpg",
-    imageAlt: "A mother and daughter receiving guidance at a public service desk",
+    imageAlt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -10868,7 +10868,7 @@ officialLinks: [
     lastChecked: "August 16, 2026",
     readTime: "11 min read",
     image: "/images/ehsaas-tracking-news.jpg",
-    imageAlt: "Featured graphic for Ehsaas Tracking News 2026: the real BISP 8171 changes explained",
+    imageAlt: "Reading latest news updates on Ehsaas tracking portal and policy announcements",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -10973,7 +10973,7 @@ officialLinks: [
     lastChecked: "August 16, 2026",
     readTime: "9 min read",
     image: "/images/8171-register.jpg",
-    imageAlt: "Featured graphic for 8171 Register: does texting your CNIC sign you up for BISP?",
+    imageAlt: "Pakistani family submitting household verification documents at an 8171 registration center",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -11081,7 +11081,7 @@ officialLinks: [
     lastChecked: "August 16, 2026",
     readTime: "8 min read",
     image: "/images/bisp-login.jpg",
-    imageAlt: "Featured graphic for No Username, No Password: logging into the BISP 8171 portal with CNIC and OTP",
+    imageAlt: "Secure digital portal login screen representation for BISP official portal guidance",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -11185,7 +11185,7 @@ officialLinks: [
     lastChecked: "August 16, 2026",
     readTime: "9 min read",
     image: "/images/benazir-form.jpg",
-    imageAlt: "Featured graphic for What Is the Benazir Form? Every BISP paperwork type explained",
+    imageAlt: "Pakistani woman completing household information forms for BISP Benazir Kafaalat registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -11310,7 +11310,7 @@ officialLinks: [
     lastChecked: "August 16, 2026",
     readTime: "8 min read",
     image: "/images/check-bisp-account-status.jpg",
-    imageAlt: "Featured graphic for Is Your BISP Card Active? Check your account status in minutes",
+    imageAlt: "Pakistani beneficiary checking BISP account status and payment release on mobile phone",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -11945,7 +11945,7 @@ officialLinks: [
     lastChecked: "August 22, 2026",
     readTime: "9 min read",
     image: "/images/8171-number-verification.jpg",
-    imageAlt: "A household record being reviewed to explain how a PMT score determines BISP eligibility",
+    imageAlt: "Pakistani beneficiary checking 8171 SMS status code on a mobile phone for BISP eligibility",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -12080,7 +12080,7 @@ officialLinks: [
     lastChecked: "August 22, 2026",
     readTime: "9 min read",
     image: "/images/benazir-form.jpg",
-    imageAlt: "A BISP beneficiary registering for a free wallet SIM at a Tehsil Office counter",
+    imageAlt: "Pakistani woman completing household information forms for BISP Benazir Kafaalat registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -12229,7 +12229,7 @@ officialLinks: [
     lastChecked: "August 22, 2026",
     readTime: "8 min read",
     image: "/images/check-bisp-account-status.jpg",
-    imageAlt: "A BISP beneficiary checking whether their payment card is active at a bank ATM",
+    imageAlt: "Pakistani beneficiary checking BISP account status and payment release on mobile phone",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -12371,7 +12371,7 @@ officialLinks: [
     lastChecked: "August 22, 2026",
     readTime: "9 min read",
     image: "/images/8171-register.jpg",
-    imageAlt: "A NADRA counter where a beneficiary renews an expired CNIC to fix a blocked BISP record",
+    imageAlt: "Pakistani family submitting household verification documents at an 8171 registration center",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -16048,7 +16048,7 @@ officialLinks: [
   lastChecked: "September 19, 2026",
   readTime: "18 min read",
   image: "/images/pm-youth-loan-scheme.jpg",
-  imageAlt: "Young Pakistani entrepreneurs in a modern office reviewing Prime Minister Youth Loan Scheme application details",
+  imageAlt: "Young Pakistani entrepreneur in workshop established through PM Youth Business Loan",
   author: contributors.muhammadSalman,
   reviewer: contributors.ayeshaMalik,
   relatedSlugs: [
@@ -16511,7 +16511,7 @@ officialLinks: [
     publishedDate: "September 19, 2026",
     readTime: "12 min read",
     image: "/images/fuel-relief-scheme.jpg",
-    imageAlt: "A motorcyclist and small car driver displaying a fuel relief scheme SMS token at a petrol pump in Pakistan",
+    imageAlt: "Motorcycle commuter refueling at petrol pump under fuel relief subsidy scheme",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -16792,7 +16792,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "17 min read",
     image: "/images/pave-electric-bike-scheme.jpg",
-    imageAlt: "PAVE Scheme 2026 electric bike subsidy illustration with an electric scooty and online application smartphone",
+    imageAlt: "Electric bike parked in eco-friendly surroundings for PAVE electric bike scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -17276,7 +17276,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "16 min read",
     image: "/images/apna-khet-apna-rozgar-scheme.jpg",
-    imageAlt: "Landless farmer in Punjab standing near newly surveyed agricultural state land under the Apna Khet Apna Rozgar Scheme",
+    imageAlt: "Pakistani farmer inspecting green agricultural crops under the Apna Khet Apna Rozgar farming scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -17635,7 +17635,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "14 min read",
     image: "/images/benazir-kafaalat-case-paused.jpg",
-    imageAlt: "Pakistani female beneficiary verifying her Benazir Kafaalat status and biometric records at an official BISP Tehsil office desk",
+    imageAlt: "Service desk staff explaining BISP Kafaalat paused status resolution and biometric update steps",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -17921,7 +17921,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "13 min read",
     image: "/images/ehsaas-loan-vs-saving-wallet.jpg",
-    imageAlt: "Ehsaas Interest-Free Loan vs Saving Wallet Comparison and Registration Guide",
+    imageAlt: "Small business owner utilizing Ehsaas microfinance loan for retail enterprise growth",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     relatedSlugs: [
@@ -18178,7 +18178,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "12 min read",
     image: "/images/8171-number-verification.jpg",
-    imageAlt: "Pakistani citizen checking 8171 BISP eligibility on smartphone via official web portal and SMS",
+    imageAlt: "Pakistani beneficiary checking 8171 SMS status code on a mobile phone for BISP eligibility",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -18459,7 +18459,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "14 min read",
     image: "/images/taleemi-wazaif.jpg",
-    imageAlt: "Pakistani school children receiving Benazir Taleemi Wazaif educational stipends and books",
+    imageAlt: "Pakistani school children walking to school supported by Benazir Taleemi Wazaif stipends",
     author: contributors.muhammadSalman,
     relatedSlugs: [
       "bisp-taleemi-wazaif-stipend-rates-2026",
@@ -18738,7 +18738,7 @@ officialLinks: [
     lastChecked: "September 20, 2026",
     readTime: "13 min read",
     image: "/images/hero-support.jpg",
-    imageAlt: "Chief Minister Punjab Himmat Card ATM distribution and financial assistance desk for persons with disabilities",
+    imageAlt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -18973,7 +18973,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "13 min read",
     image: "/images/cm-punjab-kisan-card.jpg",
-    imageAlt: "Pakistani farmer holding official Chief Minister Punjab Kisan Card in an agricultural wheat field",
+    imageAlt: "Pakistani farmer displaying Kisan Card used for purchasing agricultural fertilizers and seeds",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -19208,7 +19208,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "14 min read",
     image: "/images/apni-chhat-apna-ghar-scheme.jpg",
-    imageAlt: "Pakistani family proudly standing in front of their newly constructed brick home under Apni Chhat Apna Ghar scheme in Punjab",
+    imageAlt: "Newly constructed family home under the CM Punjab Apni Chhat Apna Ghar housing loan program",
     author: contributors.muhammadSalman,
     relatedSlugs: [
       "apni-zameen-apna-ghar-balloting-result-2026",
@@ -19441,7 +19441,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "13 min read",
     image: "/images/cm-punjab-honhaar-scholarship.jpg",
-    imageAlt: "Pakistani university students walking on Punjab campus lawn under CM Punjab Honhaar Merit Scholarship Program",
+    imageAlt: "Pakistani university scholars benefiting from CM Punjab Honhaar Merit Scholarship Program",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -19687,7 +19687,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
     image: "/images/bisp-registration-check-by-cnic.jpg",
-    imageAlt: "Pakistani woman holding CNIC card at government BISP registration facilitation desk",
+    imageAlt: "Checking BISP online registration status using CNIC card details",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -19911,7 +19911,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "13 min read",
     image: "/images/cm-punjab-green-tractor-scheme.jpg",
-    imageAlt: "Bright green agricultural tractor operating in a fertile rural Punjab farmland under government tractor subsidy scheme",
+    imageAlt: "Brand new green agricultural tractor delivered under CM Punjab Green Tractor Scheme",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -20124,7 +20124,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
     image: "/images/cm-punjab-dhee-rani-program.jpg",
-    imageAlt: "CM Punjab Dhee Rani collective marriage ceremony registration and social welfare facilitation desk",
+    imageAlt: "Bridal assistance gift packages and household items for CM Punjab Dhee Rani program",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -20335,7 +20335,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
     image: "/images/cm-punjab-solar-panel-scheme.jpg",
-    imageAlt: "Modern rooftop solar panel installation under Chief Minister Punjab Roshan Gharana energy relief scheme",
+    imageAlt: "Rooftop solar panel system installed on home under CM Punjab Solar Panel Scheme",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -20539,7 +20539,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
     image: "/images/cm-punjab-livestock-card-scheme.jpg",
-    imageAlt: "Pakistani cattle farmer with healthy young calves at rural Punjab livestock farm",
+    imageAlt: "Cattle farmer tending to livestock funded through CM Punjab Livestock Card scheme",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -20754,7 +20754,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
     image: "/images/bisp-8171-balance-check-online.jpg",
-    imageAlt: "Pakistani woman checking BISP 8171 balance and payment status online on smartphone",
+    imageAlt: "Pakistani woman performing biometric verification at bank ATM for BISP 8171 balance check",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -20946,7 +20946,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "10 min read",
     image: "/images/bisp-8171-balance-check-online.jpg",
-    imageAlt: "A beneficiary checking BISP 8171 payment status and withdrawing cash at a biometric ATM in Pakistan",
+    imageAlt: "Pakistani woman performing biometric verification at bank ATM for BISP 8171 balance check",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -21138,7 +21138,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
     image: "/images/benazir-kafaalat.jpg",
-    imageAlt: "A Pakistani woman checking BISP Benazir Kafaalat 13500 installment online via smartphone",
+    imageAlt: "Pakistani beneficiary holding official receipt after receiving Benazir Kafaalat quarterly cash stipend",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -21317,7 +21317,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
     image: "/images/bisp-registration.jpg",
-    imageAlt: "A Pakistani woman filling out the BISP dynamic registration survey form at a Tehsil office desk",
+    imageAlt: "Survey officer conducting household registration for BISP program at Tehsil desk",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -21501,7 +21501,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "10 min read",
     image: "/images/taleemi-wazaif.jpg",
-    imageAlt: "A school student holding the Benazir Taleemi Wazaif admission verification certificate slip in Pakistan",
+    imageAlt: "Pakistani school children walking to school supported by Benazir Taleemi Wazaif stipends",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     relatedSlugs: [
@@ -21689,7 +21689,7 @@ officialLinks: [
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
     image: "/images/bisp-helpline-complaint.jpg",
-    imageAlt: "Official BISP 0800-26477 helpline and grievance redressal guide for agent katauti and biometric complaints",
+    imageAlt: "Helpline support headset and desk setup for submitting BISP complaints",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -21882,7 +21882,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
     image: "/images/bisp-tehsil-office-lahore.jpg",
-    imageAlt: "BISP Tehsil Office and Dynamic Registration Center in Lahore Pakistan showing civic service desks and beneficiaries",
+    imageAlt: "Lahore Tehsil registration office building for BISP survey and beneficiary assistance",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -22225,7 +22225,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "10 min read",
     image: "/images/bisp-office-rawalpindi.jpg",
-    imageAlt: "BISP Divisional Office and Dynamic Registration Center in Rawalpindi Pakistan showing civic registration facilities",
+    imageAlt: "Exterior facade of public service center in Rawalpindi offering BISP dynamic survey desks",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -22533,7 +22533,7 @@ officialLinks: [
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
     image: "/images/bisp-tehsil-office-karachi.jpg",
-    imageAlt: "BISP Tehsil Office and registration center in Karachi Pakistan showing beneficiaries across Karachi districts",
+    imageAlt: "Public facilitation facility building in Karachi serving BISP registration applicants",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -22901,7 +22901,7 @@ officialLinks: [
     lastChecked: "September 23, 2026",
     readTime: "8 min read",
     image: "/images/bisp-atm-withdrawal.jpg",
-    imageAlt: "BISP beneficiary withdrawing cash from HBL biometric ATM using fingerprint verification without card",
+    imageAlt: "Biometric ATM dispensing quarterly BISP Kafaalat cash stipend to beneficiary",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -23121,7 +23121,7 @@ officialLinks: [
     lastChecked: "September 23, 2026",
     readTime: "9 min read",
     image: "/images/bisp-dynamic-survey-documents.jpg",
-    imageAlt: "BISP beneficiary female presenting CNIC and documents at Tehsil office dynamic survey registration desk",
+    imageAlt: "Required household verification documents for BISP NSER dynamic survey registration",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -23316,7 +23316,7 @@ officialLinks: [
     lastChecked: "September 23, 2026",
     readTime: "9 min read",
     image: "/images/sehat-card-plus-kpk.jpg",
-    imageAlt: "Patient verifying KPK Sehat Card Plus eligibility at hospital State Life facilitation desk using CNIC",
+    imageAlt: "Doctor providing medical care to patient under KPK Sehat Card Plus free hospital treatment scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -23509,7 +23509,7 @@ officialLinks: [
     lastChecked: "September 23, 2026",
     readTime: "9 min read",
     image: "/images/ehsaas-undergraduate-scholarship.jpg",
-    imageAlt: "Pakistani university undergraduate student checking HEC Ehsaas scholarship status on online portal",
+    imageAlt: "Undergraduate university students benefiting from Ehsaas tuition scholarship",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -23692,7 +23692,7 @@ officialLinks: [
     lastChecked: "2026-09-24",
     readTime: "9 min read",
     image: "/images/benazir-nashonuma-program.jpg",
-    imageAlt: "Benazir Nashonuma Program maternal and child nutrition check guide",
+    imageAlt: "Healthcare worker offering nutritional support to mother and baby in Benazir Nashonuma clinic program",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -23891,7 +23891,7 @@ officialLinks: [
     lastChecked: "2026-09-24",
     readTime: "9 min read",
     image: "/images/cm-punjab-free-laptop-scheme.jpg",
-    imageAlt: "CM Punjab Free Laptop Scheme online apply portal guide",
+    imageAlt: "Meritorious university student working on a laptop provided under CM Punjab Free Laptop Scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -24082,7 +24082,7 @@ officialLinks: [
     lastChecked: "2026-09-24",
     readTime: "9 min read",
     image: "/images/sindh-hari-card-scheme.jpg",
-    imageAlt: "Sindh Hari Card farmer registration and subsidy guide",
+    imageAlt: "Sindhi farmer holding Hari Card in agricultural field for farmer subsidies",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     sections: [
@@ -24280,7 +24280,7 @@ officialLinks: [
     lastChecked: "September 24, 2026",
     readTime: "8 min read",
     image: "/images/bisp-direct-bank-account-transfer.jpg",
-    imageAlt: "Beneficiary completing biometric authentication for BISP Sahulat commercial bank account opening",
+    imageAlt: "Bank teller handing account documents to beneficiary for BISP direct bank transfer system",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     relatedSlugs: [
@@ -24493,7 +24493,7 @@ officialLinks: [
     lastChecked: "September 24, 2026",
     readTime: "8 min read",
     image: "/images/bisp-tehsil-office-faisalabad.jpg",
-    imageAlt: "BISP Tehsil Dynamic Registration Center in Faisalabad assisting women with NSER survey",
+    imageAlt: "Front entrance of Faisalabad Tehsil office location for BISP survey and registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -24695,7 +24695,7 @@ officialLinks: [
     lastChecked: "September 24, 2026",
     readTime: "8 min read",
     image: "/images/bisp-tehsil-office-multan.jpg",
-    imageAlt: "Beneficiaries arriving at BISP Multan Saddar center near Bahadarpur Metro Bus Station",
+    imageAlt: "Multan public service administrative building offering BISP dynamic survey registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -24902,7 +24902,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/bisp-taleemi-wazaif-70-attendance-rule-verification.jpg",
-    imageAlt: "School student presenting BISP Taleemi Wazaif attendance verification slip to school headmaster",
+    imageAlt: "School teacher checking student attendance record for BISP Taleemi Wazaif stipend eligibility",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     relatedSlugs: [
@@ -25038,7 +25038,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/benazir-mazdoor-card-registration-online-2026.jpg",
-    imageAlt: "Worker scanning Benazir Mazdoor Card smart identity card at SESSI hospital registration desk",
+    imageAlt: "Pakistani industrial worker holding worker registration card under Benazir Mazdoor Card scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -25158,7 +25158,7 @@ officialLinks: [
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
     image: "/images/bisp-deceased-beneficiary-payment-transfer-procedure.jpg",
-    imageAlt: "Family applicant submitting NADRA CNIC cancellation certificate at BISP Tehsil helpdesk",
+    imageAlt: "Official legal heir paperwork for transferring deceased beneficiary BISP stipend",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -25274,7 +25274,7 @@ officialLinks: [
     date: "September 26, 2026",
     readTime: "6 min read",
     image: "/images/bisp-taleemi-wazaif-stipend-rates-2026.jpg",
-    imageAlt: "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+    imageAlt: "School textbooks and educational supplies representing BISP Taleemi Wazaif quarterly stipend rates",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     relatedSlugs: [
@@ -25411,7 +25411,7 @@ officialLinks: [
     date: "September 26, 2026",
     readTime: "6 min read",
     image: "/images/ehsaas-kafalat-invalid-cnic-nser-update.jpg",
-    imageAlt: "Ehsaas Kafalat Survey Status Invalid CNIC NSER Record Update",
+    imageAlt: "Updating invalid CNIC status and marital records for Ehsaas Kafalat eligibility",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     officialLinks: [
@@ -25538,7 +25538,7 @@ officialLinks: [
     publishedDate: "September 29, 2026",
     readTime: "11 min read",
     image: "/images/pm-petrol-relief-scheme-updates.jpg",
-    imageAlt: "Official editorial banner showing PM Petrol Relief Scheme updates for 2026 with Rs 100 per litre subsidy and 9771 SMS token status",
+    imageAlt: "Drivers lined up at fuel pump receiving PM Petrol Relief Scheme subsidy",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -25755,7 +25755,7 @@ officialLinks: [
     lastChecked: "September 30, 2026",
     readTime: "12 min read",
     image: "/images/federal-contributory-pension-scheme.jpg",
-    imageAlt: "Pakistan's Federal Contributory Pension Scheme (FGDC) 2024 - the defined-contribution retirement system for federal employees with a 10% employee and 12% government contribution split",
+    imageAlt: "Retired government employee reviewing Federal Contributory Pension Scheme documents",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -26062,7 +26062,7 @@ officialLinks: [
     lastChecked: "September 30, 2026",
     readTime: "11 min read",
     image: "/images/transport-fuel-relief-options.jpg",
-    imageAlt: "Transport and fuel relief options 2026 comparison illustration with electric scooty, Rs 100 per litre petrol discount and fuel pump",
+    imageAlt: "Urban public transport buses and electric mobility options under fuel relief schemes",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "CM Punjab E-Bikes Portal", href: "https://bikes.punjab.gov.pk/" },
