@@ -1,0 +1,2091 @@
+[
+  {
+    "filename": "8171-number-verification.jpg",
+    "path": "public/images/8171-number-verification.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 312.23,
+    "pagesUsing": "Article: `/what-is-pmt-score/` (What Is PMT Score? BISP & Ehsaas Eligibility Explained)<br>Article: `/8171-check-online-kaise-karein/` (8171 Check Online Kaise Karein: Official Web Portal & CNIC Status Check (2026 Guide))",
+    "altText": "A household record being reviewed to explain how a PMT score determines BISP eligibility<br>Pakistani citizen checking 8171 BISP eligibility on smartphone via official web portal and SMS",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles",
+      "OVER 200 KB (312.23 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "what-is-pmt-score",
+        "title": "What Is PMT Score? BISP & Ehsaas Eligibility Explained",
+        "image": "/images/8171-number-verification.jpg",
+        "imageAlt": "A household record being reviewed to explain how a PMT score determines BISP eligibility",
+        "primaryCategory": "NSER & PMT Score"
+      },
+      {
+        "slug": "8171-check-online-kaise-karein",
+        "title": "8171 Check Online Kaise Karein: Official Web Portal & CNIC Status Check (2026 Guide)",
+        "image": "/images/8171-number-verification.jpg",
+        "imageAlt": "Pakistani citizen checking 8171 BISP eligibility on smartphone via official web portal and SMS",
+        "primaryCategory": "8171"
+      }
+    ]
+  },
+  {
+    "filename": "8171-portal-troubleshooting.jpg",
+    "path": "public/images/8171-portal-troubleshooting.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 257.66,
+    "pagesUsing": "Article: `/8171-web-portal-not-working/` (8171 Web Portal Not Working? 5 Checks Before You Assume It Is Down (2026))",
+    "altText": "A user troubleshooting the official 8171 BISP portal on a mobile phone",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (257.66 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "8171-web-portal-not-working",
+        "title": "8171 Web Portal Not Working? 5 Checks Before You Assume It Is Down (2026)",
+        "image": "/images/8171-portal-troubleshooting.jpg",
+        "imageAlt": "A user troubleshooting the official 8171 BISP portal on a mobile phone",
+        "primaryCategory": "8171"
+      }
+    ]
+  },
+  {
+    "filename": "8171-register.jpg",
+    "path": "public/images/8171-register.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 137.02,
+    "pagesUsing": "Article: `/8171-register/` (8171 Register: Does Texting Your CNIC Actually Sign You Up for BISP?)<br>Article: `/bisp-id-card-check/` (BISP ID Card Check: Fix a Blocked CNIC Fast)",
+    "altText": "Featured graphic for 8171 Register: does texting your CNIC sign you up for BISP?<br>A NADRA counter where a beneficiary renews an expired CNIC to fix a blocked BISP record",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles"
+    ],
+    "usedArticles": [
+      {
+        "slug": "8171-register",
+        "title": "8171 Register: Does Texting Your CNIC Actually Sign You Up for BISP?",
+        "image": "/images/8171-register.jpg",
+        "imageAlt": "Featured graphic for 8171 Register: does texting your CNIC sign you up for BISP?",
+        "primaryCategory": "BISP Registration"
+      },
+      {
+        "slug": "bisp-id-card-check",
+        "title": "BISP ID Card Check: Fix a Blocked CNIC Fast",
+        "image": "/images/8171-register.jpg",
+        "imageAlt": "A NADRA counter where a beneficiary renews an expired CNIC to fix a blocked BISP record",
+        "primaryCategory": "Payment Check"
+      }
+    ]
+  },
+  {
+    "filename": "apna-khet-apna-rozgar-scheme.jpg",
+    "path": "public/images/apna-khet-apna-rozgar-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 110.3,
+    "pagesUsing": "Article: `/apna-khet-apna-rozgar-scheme-apply-online-2026/` (Apna Khet Apna Rozgar Scheme Apply Online 2026: Complete Registration Guide, Eligibility & Balloting Status)",
+    "altText": "Landless farmer in Punjab standing near newly surveyed agricultural state land under the Apna Khet Apna Rozgar Scheme",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "apna-khet-apna-rozgar-scheme-apply-online-2026",
+        "title": "Apna Khet Apna Rozgar Scheme Apply Online 2026: Complete Registration Guide, Eligibility & Balloting Status",
+        "image": "/images/apna-khet-apna-rozgar-scheme.jpg",
+        "imageAlt": "Landless farmer in Punjab standing near newly surveyed agricultural state land under the Apna Khet Apna Rozgar Scheme",
+        "primaryCategory": "Punjab Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "apni-chhat-apna-ghar-scheme.jpg",
+    "path": "public/images/apni-chhat-apna-ghar-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 989.51,
+    "pagesUsing": "Article: `/apni-chhat-apna-ghar-scheme-online-apply-2026/` (Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Portal Registration, Eligibility & Rs 15 Lakh Loan Guide)",
+    "altText": "Pakistani family proudly standing in front of their newly constructed brick home under Apni Chhat Apna Ghar scheme in Punjab",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (989.51 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "apni-chhat-apna-ghar-scheme-online-apply-2026",
+        "title": "Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Portal Registration, Eligibility & Rs 15 Lakh Loan Guide",
+        "image": "/images/apni-chhat-apna-ghar-scheme.jpg",
+        "imageAlt": "Pakistani family proudly standing in front of their newly constructed brick home under Apni Chhat Apna Ghar scheme in Punjab",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "apni-zameen-apna-ghar-balloting-result-2026.jpg",
+    "path": "public/images/apni-zameen-apna-ghar-balloting-result-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 105.04,
+    "pagesUsing": "Article: `/apni-zameen-apna-ghar-balloting-result-2026/` (Apni Zameen Apna Ghar Balloting Result 2026: How to Check CNIC Status & Plot Rules)",
+    "altText": "Apni Zameen Apna Ghar Balloting Result 2026 CNIC Check Online",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "apni-zameen-apna-ghar-balloting-result-2026",
+        "title": "Apni Zameen Apna Ghar Balloting Result 2026: How to Check CNIC Status & Plot Rules",
+        "image": "/images/apni-zameen-apna-ghar-balloting-result-2026.jpg",
+        "imageAlt": "Apni Zameen Apna Ghar Balloting Result 2026 CNIC Check Online",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "benazir-form.jpg",
+    "path": "public/images/benazir-form.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 140.12,
+    "pagesUsing": "Article: `/benazir-form/` (What Is the “Benazir Form”? Every Piece of BISP Paperwork Explained Simply)<br>Article: `/benazir-sim-card/` (Benazir SIM Card 2026: Free Wallet SIM Guide)",
+    "altText": "Featured graphic for What Is the Benazir Form? Every BISP paperwork type explained<br>A BISP beneficiary registering for a free wallet SIM at a Tehsil Office counter",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles"
+    ],
+    "usedArticles": [
+      {
+        "slug": "benazir-form",
+        "title": "What Is the “Benazir Form”? Every Piece of BISP Paperwork Explained Simply",
+        "image": "/images/benazir-form.jpg",
+        "imageAlt": "Featured graphic for What Is the Benazir Form? Every BISP paperwork type explained",
+        "primaryCategory": "BISP Registration"
+      },
+      {
+        "slug": "benazir-sim-card",
+        "title": "Benazir SIM Card 2026: Free Wallet SIM Guide",
+        "image": "/images/benazir-form.jpg",
+        "imageAlt": "A BISP beneficiary registering for a free wallet SIM at a Tehsil Office counter",
+        "primaryCategory": "Payment Check"
+      }
+    ]
+  },
+  {
+    "filename": "benazir-kafaalat-case-paused.jpg",
+    "path": "public/images/benazir-kafaalat-case-paused.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 822.29,
+    "pagesUsing": "Article: `/benazir-kafaalat-case-paused-reasons/` (Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons and Official Solutions)",
+    "altText": "Pakistani female beneficiary verifying her Benazir Kafaalat status and biometric records at an official BISP Tehsil office desk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (822.29 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "benazir-kafaalat-case-paused-reasons",
+        "title": "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons and Official Solutions",
+        "image": "/images/benazir-kafaalat-case-paused.jpg",
+        "imageAlt": "Pakistani female beneficiary verifying her Benazir Kafaalat status and biometric records at an official BISP Tehsil office desk",
+        "primaryCategory": "Benazir Kafaalat"
+      }
+    ]
+  },
+  {
+    "filename": "benazir-kafaalat.jpg",
+    "path": "public/images/benazir-kafaalat.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 856.55,
+    "pagesUsing": "Article: `/bisp-kafaalat-13500-check-online-kaise-karein/` (BISP Kafaalat 13500 Check Online Kaise Karein: Nayi Qist, Release Date Aur Payment Status)",
+    "altText": "A Pakistani woman checking BISP Benazir Kafaalat 13500 installment online via smartphone",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (856.55 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-kafaalat-13500-check-online-kaise-karein",
+        "title": "BISP Kafaalat 13500 Check Online Kaise Karein: Nayi Qist, Release Date Aur Payment Status",
+        "image": "/images/benazir-kafaalat.jpg",
+        "imageAlt": "A Pakistani woman checking BISP Benazir Kafaalat 13500 installment online via smartphone",
+        "primaryCategory": "benazir-kafaalat"
+      }
+    ]
+  },
+  {
+    "filename": "benazir-mazdoor-card-registration-online-2026.jpg",
+    "path": "public/images/benazir-mazdoor-card-registration-online-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 174.29,
+    "pagesUsing": "Article: `/benazir-mazdoor-card-registration-online-2026/` (Benazir Mazdoor Card Registration Online 2026: Sindh SESSI Apply & Benefits)",
+    "altText": "Worker scanning Benazir Mazdoor Card smart identity card at SESSI hospital registration desk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "benazir-mazdoor-card-registration-online-2026",
+        "title": "Benazir Mazdoor Card Registration Online 2026: Sindh SESSI Apply & Benefits",
+        "image": "/images/benazir-mazdoor-card-registration-online-2026.jpg",
+        "imageAlt": "Worker scanning Benazir Mazdoor Card smart identity card at SESSI hospital registration desk",
+        "primaryCategory": "other-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "benazir-nashonuma-program.jpg",
+    "path": "public/images/benazir-nashonuma-program.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 88.66,
+    "pagesUsing": "Article: `/benazir-nashonuma-program-online-apply-cnic-check/` (Benazir Nashonuma Program Online Check 2026: 8171 CNIC Status, Rs 3,000 Nutrition Cash & Registration Guide)",
+    "altText": "Benazir Nashonuma Program maternal and child nutrition check guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "benazir-nashonuma-program-online-apply-cnic-check",
+        "title": "Benazir Nashonuma Program Online Check 2026: 8171 CNIC Status, Rs 3,000 Nutrition Cash & Registration Guide",
+        "image": "/images/benazir-nashonuma-program.jpg",
+        "imageAlt": "Benazir Nashonuma Program maternal and child nutrition check guide",
+        "primaryCategory": "Benazir Kafaalat"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-8171-balance-check-online.jpg",
+    "path": "public/images/bisp-8171-balance-check-online.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 321.34,
+    "pagesUsing": "Article: `/bisp-8171-balance-check-online-kaise-karein/` (BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat Paise Check Aur ATM Se Nikalne Ka Mukammal Tarika)<br>Article: `/bisp-8171-paise-check-karne-ka-tarika/` (BISP 8171 Paise Check Karne Ka Tarika: ATM Cash Nikalne Aur Balance Ki Mukammal Maloomat)",
+    "altText": "Pakistani woman checking BISP 8171 balance and payment status online on smartphone<br>A beneficiary checking BISP 8171 payment status and withdrawing cash at a biometric ATM in Pakistan",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles",
+      "OVER 200 KB (321.34 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-8171-balance-check-online-kaise-karein",
+        "title": "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat Paise Check Aur ATM Se Nikalne Ka Mukammal Tarika",
+        "image": "/images/bisp-8171-balance-check-online.jpg",
+        "imageAlt": "Pakistani woman checking BISP 8171 balance and payment status online on smartphone",
+        "primaryCategory": "payment-check"
+      },
+      {
+        "slug": "bisp-8171-paise-check-karne-ka-tarika",
+        "title": "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash Nikalne Aur Balance Ki Mukammal Maloomat",
+        "image": "/images/bisp-8171-balance-check-online.jpg",
+        "imageAlt": "A beneficiary checking BISP 8171 payment status and withdrawing cash at a biometric ATM in Pakistan",
+        "primaryCategory": "payment-check"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-agent-deduction-complaint.jpg",
+    "path": "public/images/bisp-agent-deduction-complaint.jpg",
+    "format": "jpg",
+    "dimensions": "2400x1350",
+    "width": 2400,
+    "height": 1350,
+    "sizeKB": 285.54,
+    "pagesUsing": "Article: `/bisp-agent-deduction-complaint-retailer-penalty/` (BISP Agent Deduction Complaint and Retailer Penalty Guide: How to Report Illegal Fee Cuts, File 8171 Grievances & Recover Cash (2026))",
+    "altText": "BISP beneficiary collecting full Rs 13500 payment from biometric payment center with zero fee deduction",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (285.54 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-agent-deduction-complaint-retailer-penalty",
+        "title": "BISP Agent Deduction Complaint and Retailer Penalty Guide: How to Report Illegal Fee Cuts, File 8171 Grievances & Recover Cash (2026)",
+        "image": "/images/bisp-agent-deduction-complaint.jpg",
+        "imageAlt": "BISP beneficiary collecting full Rs 13500 payment from biometric payment center with zero fee deduction",
+        "primaryCategory": "payment-check"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-and-ehsaas-difference.jpg",
+    "path": "public/images/bisp-and-ehsaas-difference.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 817.94,
+    "pagesUsing": "Article: `/bisp-and-ehsaas-difference-guide/` (BISP and Ehsaas Difference Explained: History, 8171 Portal, Program Mapping & Current Status (2026))",
+    "altText": "Official Benazir Income Support Programme and Ehsaas social welfare registration desk with NADRA biometric equipment in Pakistan",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (817.94 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-and-ehsaas-difference-guide",
+        "title": "BISP and Ehsaas Difference Explained: History, 8171 Portal, Program Mapping & Current Status (2026)",
+        "image": "/images/bisp-and-ehsaas-difference.jpg",
+        "imageAlt": "Official Benazir Income Support Programme and Ehsaas social welfare registration desk with NADRA biometric equipment in Pakistan",
+        "primaryCategory": "bisp-registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-atm-se-paise-nikalwane-ka-tarika.jpg",
+    "path": "public/images/bisp-atm-se-paise-nikalwane-ka-tarika.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 321.34,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE",
+      "OVER 200 KB (321.34 KB)"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "bisp-atm-withdrawal.jpg",
+    "path": "public/images/bisp-atm-withdrawal.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 321.34,
+    "pagesUsing": "Article: `/bisp-atm-se-paise-nikalwane-ka-tarika/` (BISP ATM Se Paise Nikalwane Ka Tarika: HBL Konnect Aur Bank Alfalah Biometric ATM Cash Withdrawal (2026))",
+    "altText": "BISP beneficiary withdrawing cash from HBL biometric ATM using fingerprint verification without card",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (321.34 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-atm-se-paise-nikalwane-ka-tarika",
+        "title": "BISP ATM Se Paise Nikalwane Ka Tarika: HBL Konnect Aur Bank Alfalah Biometric ATM Cash Withdrawal (2026)",
+        "image": "/images/bisp-atm-withdrawal.jpg",
+        "imageAlt": "BISP beneficiary withdrawing cash from HBL biometric ATM using fingerprint verification without card",
+        "primaryCategory": "payment-check"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-benazir-kafaalat-8171-check.jpg",
+    "path": "public/images/bisp-benazir-kafaalat-8171-check.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 140.6,
+    "pagesUsing": "Article: `/bisp-benazir-kafaalat-8171-check/` (BISP Benazir Kafaalat 2026: 8171 Online CNIC Check & Complete Eligibility Guide)",
+    "altText": "BISP Benazir Kafaalat 2026 8171 Online CNIC Check and Registration Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-benazir-kafaalat-8171-check",
+        "title": "BISP Benazir Kafaalat 2026: 8171 Online CNIC Check & Complete Eligibility Guide",
+        "image": "/images/bisp-benazir-kafaalat-8171-check.jpg",
+        "imageAlt": "BISP Benazir Kafaalat 2026 8171 Online CNIC Check and Registration Guide",
+        "primaryCategory": "bisp-8171"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-biometric-verification-failed.jpg",
+    "path": "public/images/bisp-biometric-verification-failed.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 88.26,
+    "pagesUsing": "Article: `/bisp-biometric-verification-failed-fingerprint-solution/` (BISP Biometric Failed? Guaranteed Rs 13,500 Fix)",
+    "altText": "Official government BISP biometric verification failed fingerprint solution Form B registration guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-biometric-verification-failed-fingerprint-solution",
+        "title": "BISP Biometric Failed? Guaranteed Rs 13,500 Fix",
+        "image": "/images/bisp-biometric-verification-failed.jpg",
+        "imageAlt": "Official government BISP biometric verification failed fingerprint solution Form B registration guide",
+        "primaryCategory": "Benazir Kafaalat"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-cnic-status-check.jpg",
+    "path": "public/images/bisp-cnic-status-check.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 319.89,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE",
+      "OVER 200 KB (319.89 KB)"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "bisp-deceased-beneficiary-payment-transfer-procedure.jpg",
+    "path": "public/images/bisp-deceased-beneficiary-payment-transfer-procedure.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 105.64,
+    "pagesUsing": "Article: `/bisp-deceased-beneficiary-payment-transfer-procedure/` (BISP Deceased Beneficiary Payment Transfer & NADRA Cancellation Guide)",
+    "altText": "Family applicant submitting NADRA CNIC cancellation certificate at BISP Tehsil helpdesk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-deceased-beneficiary-payment-transfer-procedure",
+        "title": "BISP Deceased Beneficiary Payment Transfer & NADRA Cancellation Guide",
+        "image": "/images/bisp-deceased-beneficiary-payment-transfer-procedure.jpg",
+        "imageAlt": "Family applicant submitting NADRA CNIC cancellation certificate at BISP Tehsil helpdesk",
+        "primaryCategory": "benazir-kafaalat"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-direct-bank-account-transfer.jpg",
+    "path": "public/images/bisp-direct-bank-account-transfer.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 105.94,
+    "pagesUsing": "Article: `/bisp-direct-bank-account-transfer-online-registration/` (BISP New Direct Bank Transfer System: Shifting from Cash Camps to Commercial Bank Accounts)",
+    "altText": "Beneficiary completing biometric authentication for BISP Sahulat commercial bank account opening",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-direct-bank-account-transfer-online-registration",
+        "title": "BISP New Direct Bank Transfer System: Shifting from Cash Camps to Commercial Bank Accounts",
+        "image": "/images/bisp-direct-bank-account-transfer.jpg",
+        "imageAlt": "Beneficiary completing biometric authentication for BISP Sahulat commercial bank account opening",
+        "primaryCategory": "BISP Registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-dynamic-survey-documents.jpg",
+    "path": "public/images/bisp-dynamic-survey-documents.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 817.94,
+    "pagesUsing": "Article: `/bisp-dynamic-survey-token-required-documents-guide/` (BISP Dynamic Survey Ke Liye Kon Se Documents Chahiye: Tehsil Desk Timing Aur Token System Guide (2026))",
+    "altText": "BISP beneficiary female presenting CNIC and documents at Tehsil office dynamic survey registration desk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (817.94 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-dynamic-survey-token-required-documents-guide",
+        "title": "BISP Dynamic Survey Ke Liye Kon Se Documents Chahiye: Tehsil Desk Timing Aur Token System Guide (2026)",
+        "image": "/images/bisp-dynamic-survey-documents.jpg",
+        "imageAlt": "BISP beneficiary female presenting CNIC and documents at Tehsil office dynamic survey registration desk",
+        "primaryCategory": "nser-pmt-score"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-dynamic-survey-token-required-documents-guide.jpg",
+    "path": "public/images/bisp-dynamic-survey-token-required-documents-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 817.94,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE",
+      "OVER 200 KB (817.94 KB)"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "bisp-helpline-complaint.jpg",
+    "path": "public/images/bisp-helpline-complaint.jpg",
+    "format": "jpg",
+    "dimensions": "2400x1350",
+    "width": 2400,
+    "height": 1350,
+    "sizeKB": 285.54,
+    "pagesUsing": "Article: `/bisp-helpline-number-complaint-kaise-darj-karein/` (BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477, Agent Katauti & Biometric Fix)",
+    "altText": "Official BISP 0800-26477 helpline and grievance redressal guide for agent katauti and biometric complaints",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (285.54 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-helpline-number-complaint-kaise-darj-karein",
+        "title": "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477, Agent Katauti & Biometric Fix",
+        "image": "/images/bisp-helpline-complaint.jpg",
+        "imageAlt": "Official BISP 0800-26477 helpline and grievance redressal guide for agent katauti and biometric complaints",
+        "primaryCategory": "payment-check"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-login.jpg",
+    "path": "public/images/bisp-login.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 137.52,
+    "pagesUsing": "Article: `/bisp-login-username-password/` (No Username, No Password: The Truth About Logging Into the BISP 8171 Portal)",
+    "altText": "Featured graphic for No Username, No Password: logging into the BISP 8171 portal with CNIC and OTP",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-login-username-password",
+        "title": "No Username, No Password: The Truth About Logging Into the BISP 8171 Portal",
+        "image": "/images/bisp-login.jpg",
+        "imageAlt": "Featured graphic for No Username, No Password: logging into the BISP 8171 portal with CNIC and OTP",
+        "primaryCategory": "8171 Eligibility & Status"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-office-rawalpindi.jpg",
+    "path": "public/images/bisp-office-rawalpindi.jpg",
+    "format": "jpg",
+    "dimensions": "1280x720",
+    "width": 1280,
+    "height": 720,
+    "sizeKB": 161.3,
+    "pagesUsing": "Article: `/bisp-office-rawalpindi-addresses-guide/` (BISP Office Rawalpindi Addresses and Contact Number: Tehsil Directory, Dynamic Survey Desks & Helpline (2026))",
+    "altText": "BISP Divisional Office and Dynamic Registration Center in Rawalpindi Pakistan showing civic registration facilities",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-office-rawalpindi-addresses-guide",
+        "title": "BISP Office Rawalpindi Addresses and Contact Number: Tehsil Directory, Dynamic Survey Desks & Helpline (2026)",
+        "image": "/images/bisp-office-rawalpindi.jpg",
+        "imageAlt": "BISP Divisional Office and Dynamic Registration Center in Rawalpindi Pakistan showing civic registration facilities",
+        "primaryCategory": "bisp-registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-online-registration-mistakes.jpg",
+    "path": "public/images/bisp-online-registration-mistakes.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 858.1,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE",
+      "OVER 200 KB (858.1 KB)"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "bisp-registration-check-by-cnic.jpg",
+    "path": "public/images/bisp-registration-check-by-cnic.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 319.89,
+    "pagesUsing": "Article: `/bisp-registration-check-by-cnic-kaise-karein/` (BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal, SMS aur Dynamic Survey Guide)",
+    "altText": "Pakistani woman holding CNIC card at government BISP registration facilitation desk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (319.89 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-registration-check-by-cnic-kaise-karein",
+        "title": "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal, SMS aur Dynamic Survey Guide",
+        "image": "/images/bisp-registration-check-by-cnic.jpg",
+        "imageAlt": "Pakistani woman holding CNIC card at government BISP registration facilitation desk",
+        "primaryCategory": "8171"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-registration.jpg",
+    "path": "public/images/bisp-registration.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 817.94,
+    "pagesUsing": "Article: `/bisp-new-registration-form-online-apply-kaise-karein/` (BISP New Registration Form Online Apply Kaise Karein: NSER Dynamic Survey & Tehsil Desk Guide)",
+    "altText": "A Pakistani woman filling out the BISP dynamic registration survey form at a Tehsil office desk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (817.94 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "bisp-new-registration-form-online-apply-kaise-karein",
+        "title": "BISP New Registration Form Online Apply Kaise Karein: NSER Dynamic Survey & Tehsil Desk Guide",
+        "image": "/images/bisp-registration.jpg",
+        "imageAlt": "A Pakistani woman filling out the BISP dynamic registration survey form at a Tehsil office desk",
+        "primaryCategory": "bisp-registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-taleemi-wazaif-70-attendance-rule-verification.jpg",
+    "path": "public/images/bisp-taleemi-wazaif-70-attendance-rule-verification.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 128.67,
+    "pagesUsing": "Article: `/bisp-taleemi-wazaif-70-attendance-rule-verification/` (BISP Taleemi Wazaif 70% Attendance Rule & Verification Procedure)",
+    "altText": "School student presenting BISP Taleemi Wazaif attendance verification slip to school headmaster",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-taleemi-wazaif-70-attendance-rule-verification",
+        "title": "BISP Taleemi Wazaif 70% Attendance Rule & Verification Procedure",
+        "image": "/images/bisp-taleemi-wazaif-70-attendance-rule-verification.jpg",
+        "imageAlt": "School student presenting BISP Taleemi Wazaif attendance verification slip to school headmaster",
+        "primaryCategory": "taleemi-wazaif"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-taleemi-wazaif-stipend-rates-2026.jpg",
+    "path": "public/images/bisp-taleemi-wazaif-stipend-rates-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 128.67,
+    "pagesUsing": "Article: `/bisp-taleemi-wazaif-stipend-rates-2026/` (BISP Taleemi Wazaif Class-Wise Stipend Rates 2026)",
+    "altText": "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-taleemi-wazaif-stipend-rates-2026",
+        "title": "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+        "image": "/images/bisp-taleemi-wazaif-stipend-rates-2026.jpg",
+        "imageAlt": "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
+        "primaryCategory": "taleemi-wazaif"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-tehsil-office-faisalabad.jpg",
+    "path": "public/images/bisp-tehsil-office-faisalabad.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 80.35,
+    "pagesUsing": "Article: `/bisp-tehsil-office-faisalabad-addresses-guide/` (BISP Tehsil Office Faisalabad Directory: All City, Jaranwala & Samundri Dynamic Centers)",
+    "altText": "BISP Tehsil Dynamic Registration Center in Faisalabad assisting women with NSER survey",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-tehsil-office-faisalabad-addresses-guide",
+        "title": "BISP Tehsil Office Faisalabad Directory: All City, Jaranwala & Samundri Dynamic Centers",
+        "image": "/images/bisp-tehsil-office-faisalabad.jpg",
+        "imageAlt": "BISP Tehsil Dynamic Registration Center in Faisalabad assisting women with NSER survey",
+        "primaryCategory": "BISP Registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-tehsil-office-karachi.jpg",
+    "path": "public/images/bisp-tehsil-office-karachi.jpg",
+    "format": "jpg",
+    "dimensions": "1280x720",
+    "width": 1280,
+    "height": 720,
+    "sizeKB": 160.24,
+    "pagesUsing": "Article: `/bisp-tehsil-office-karachi-districts-guide/` (BISP Tehsil Office Karachi District List: Verified Centers Across All 7 Districts, Addresses & Helpline (2026))",
+    "altText": "BISP Tehsil Office and registration center in Karachi Pakistan showing beneficiaries across Karachi districts",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-tehsil-office-karachi-districts-guide",
+        "title": "BISP Tehsil Office Karachi District List: Verified Centers Across All 7 Districts, Addresses & Helpline (2026)",
+        "image": "/images/bisp-tehsil-office-karachi.jpg",
+        "imageAlt": "BISP Tehsil Office and registration center in Karachi Pakistan showing beneficiaries across Karachi districts",
+        "primaryCategory": "bisp-registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-tehsil-office-lahore.jpg",
+    "path": "public/images/bisp-tehsil-office-lahore.jpg",
+    "format": "jpg",
+    "dimensions": "1280x720",
+    "width": 1280,
+    "height": 720,
+    "sizeKB": 160.95,
+    "pagesUsing": "Article: `/bisp-tehsil-office-lahore-addresses-guide/` (BISP Tehsil Office Lahore List and Addresses: Verified Dynamic Survey Centers & Regional Directory (2026))",
+    "altText": "BISP Tehsil Office and Dynamic Registration Center in Lahore Pakistan showing civic service desks and beneficiaries",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-tehsil-office-lahore-addresses-guide",
+        "title": "BISP Tehsil Office Lahore List and Addresses: Verified Dynamic Survey Centers & Regional Directory (2026)",
+        "image": "/images/bisp-tehsil-office-lahore.jpg",
+        "imageAlt": "BISP Tehsil Office and Dynamic Registration Center in Lahore Pakistan showing civic service desks and beneficiaries",
+        "primaryCategory": "bisp-registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-tehsil-office-multan.jpg",
+    "path": "public/images/bisp-tehsil-office-multan.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 80.02,
+    "pagesUsing": "Article: `/bisp-tehsil-office-multan-addresses-guide/` (BISP Tehsil Office Multan & South Punjab Directory: City, Saddar & Shujabad Centers)",
+    "altText": "Beneficiaries arriving at BISP Multan Saddar center near Bahadarpur Metro Bus Station",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-tehsil-office-multan-addresses-guide",
+        "title": "BISP Tehsil Office Multan & South Punjab Directory: City, Saddar & Shujabad Centers",
+        "image": "/images/bisp-tehsil-office-multan.jpg",
+        "imageAlt": "Beneficiaries arriving at BISP Multan Saddar center near Bahadarpur Metro Bus Station",
+        "primaryCategory": "BISP Registration"
+      }
+    ]
+  },
+  {
+    "filename": "bisp-tehsil-office-peshawar-kpk.jpg",
+    "path": "public/images/bisp-tehsil-office-peshawar-kpk.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 85.44,
+    "pagesUsing": "Article: `/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/` (Verified BISP Tehsil Offices KPK & Peshawar List)",
+    "altText": "Verified government BISP Tehsil Offices Peshawar KPK registration center directory list",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "bisp-tehsil-office-peshawar-kpk-districts-list-addresses",
+        "title": "Verified BISP Tehsil Offices KPK & Peshawar List",
+        "image": "/images/bisp-tehsil-office-peshawar-kpk.jpg",
+        "imageAlt": "Verified government BISP Tehsil Offices Peshawar KPK registration center directory list",
+        "primaryCategory": "BISP Registration"
+      }
+    ]
+  },
+  {
+    "filename": "check-bisp-account-status.jpg",
+    "path": "public/images/check-bisp-account-status.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 140.6,
+    "pagesUsing": "Article: `/check-bisp-account-status/` (Is Your BISP Card Active? How to Check Your Account Status in Minutes)<br>Article: `/bisp-card-check/` (BISP Card Check: Active, Blocked & Replacement Guide)",
+    "altText": "Featured graphic for Is Your BISP Card Active? Check your account status in minutes<br>A BISP beneficiary checking whether their payment card is active at a bank ATM",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles"
+    ],
+    "usedArticles": [
+      {
+        "slug": "check-bisp-account-status",
+        "title": "Is Your BISP Card Active? How to Check Your Account Status in Minutes",
+        "image": "/images/check-bisp-account-status.jpg",
+        "imageAlt": "Featured graphic for Is Your BISP Card Active? Check your account status in minutes",
+        "primaryCategory": "Payment Check Guides"
+      },
+      {
+        "slug": "bisp-card-check",
+        "title": "BISP Card Check: Active, Blocked & Replacement Guide",
+        "image": "/images/check-bisp-account-status.jpg",
+        "imageAlt": "A BISP beneficiary checking whether their payment card is active at a bank ATM",
+        "primaryCategory": "Payment Check"
+      }
+    ]
+  },
+  {
+    "filename": "cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
+    "path": "public/images/cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 111.28,
+    "pagesUsing": "Article: `/cm-balochistan-youth-skills-scheme-2026-online-apply/` (CM Balochistan Youth Skills Scheme 2026 Online Apply & Registration Guide)",
+    "altText": "CM Balochistan Youth Skills Scheme 2026 Online Apply and Registration Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "cm-balochistan-youth-skills-scheme-2026-online-apply",
+        "title": "CM Balochistan Youth Skills Scheme 2026 Online Apply & Registration Guide",
+        "image": "/images/cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
+        "imageAlt": "CM Balochistan Youth Skills Scheme 2026 Online Apply and Registration Guide",
+        "primaryCategory": "other-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-apni-chhat-apna-ghar-loan.jpg",
+    "path": "public/images/cm-punjab-apni-chhat-apna-ghar-loan.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 107.89,
+    "pagesUsing": "Article: `/cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking/` (Apni Chhat Apna Ghar Loan: Instant Qist Tracking)",
+    "altText": "Apni Chhat Apna Ghar Loan Installment Tracking PITB Portal Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking",
+        "title": "Apni Chhat Apna Ghar Loan: Instant Qist Tracking",
+        "image": "/images/cm-punjab-apni-chhat-apna-ghar-loan.jpg",
+        "imageAlt": "Apni Chhat Apna Ghar Loan Installment Tracking PITB Portal Guide",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-dhee-rani-program.jpg",
+    "path": "public/images/cm-punjab-dhee-rani-program.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 261.93,
+    "pagesUsing": "Article: `/cm-punjab-dhee-rani-program-2026-online-apply/` (CM Punjab Dhee Rani Program 2026 Online Apply: CMP Portal Registration, Eligibility & Salami ATM Card)",
+    "altText": "CM Punjab Dhee Rani collective marriage ceremony registration and social welfare facilitation desk",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (261.93 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-dhee-rani-program-2026-online-apply",
+        "title": "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Portal Registration, Eligibility & Salami ATM Card",
+        "image": "/images/cm-punjab-dhee-rani-program.jpg",
+        "imageAlt": "CM Punjab Dhee Rani collective marriage ceremony registration and social welfare facilitation desk",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-e-bike-scheme-updates.jpg",
+    "path": "public/images/cm-punjab-e-bike-scheme-updates.jpg",
+    "format": "jpg",
+    "dimensions": "1536x864",
+    "width": 1536,
+    "height": 864,
+    "sizeKB": 424.61,
+    "pagesUsing": "Article: `/cm-punjab-e-bike-scheme-updates/` (CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal, Balloting Results & BOP Installment Plan)",
+    "altText": "CM Punjab E-Bike Scheme Phase 2 electric scooty illustration showing the 100,000 e-bike quota and Rs 3,028 Bank of Punjab installment",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (424.61 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-e-bike-scheme-updates",
+        "title": "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal, Balloting Results & BOP Installment Plan",
+        "image": "/images/cm-punjab-e-bike-scheme-updates.jpg",
+        "imageAlt": "CM Punjab E-Bike Scheme Phase 2 electric scooty illustration showing the 100,000 e-bike quota and Rs 3,028 Bank of Punjab installment",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-e-bikes-scheme-phase-2.jpg",
+    "path": "public/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 82.27,
+    "pagesUsing": "Article: `/maryam-nawaz-electric-bike-scheme-2026/` (Maryam Nawaz Electric Bike Scheme 2026: Online Registration, Eligibility & Installment Plan)<br>Article: `/cm-punjab-e-bikes-scheme-phase-2/` (CM Punjab E-Bikes Scheme Phase 2 2026: What Changed, Eligibility & How to Apply)",
+    "altText": "Maryam Nawaz Electric Bike Scheme 2026 Registration Portal<br>CM Punjab E-Bikes Scheme Phase 2 2026 electric scooty banner showing the PKR 199,000 price, Rs 90,000 Punjab subsidy and October 4, 2026 last date",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles"
+    ],
+    "usedArticles": [
+      {
+        "slug": "maryam-nawaz-electric-bike-scheme-2026",
+        "title": "Maryam Nawaz Electric Bike Scheme 2026: Online Registration, Eligibility & Installment Plan",
+        "image": "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
+        "imageAlt": "Maryam Nawaz Electric Bike Scheme 2026 Registration Portal",
+        "primaryCategory": "CM Punjab Schemes"
+      },
+      {
+        "slug": "cm-punjab-e-bikes-scheme-phase-2",
+        "title": "CM Punjab E-Bikes Scheme Phase 2 2026: What Changed, Eligibility & How to Apply",
+        "image": "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
+        "imageAlt": "CM Punjab E-Bikes Scheme Phase 2 2026 electric scooty banner showing the PKR 199,000 price, Rs 90,000 Punjab subsidy and October 4, 2026 last date",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-electric-bike-scheme.jpg",
+    "path": "public/images/cm-punjab-electric-bike-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1536x864",
+    "width": 1536,
+    "height": 864,
+    "sizeKB": 346.88,
+    "pagesUsing": "Article: `/cm-punjab-electric-bike-scheme/` (CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments)",
+    "altText": "CM Punjab Electric Bike Scheme 2026 electric scooty illustration showing the PKR 199,000 price and Rs 90,000 Punjab subsidy",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (346.88 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-electric-bike-scheme",
+        "title": "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments",
+        "image": "/images/cm-punjab-electric-bike-scheme.jpg",
+        "imageAlt": "CM Punjab Electric Bike Scheme 2026 electric scooty illustration showing the PKR 199,000 price and Rs 90,000 Punjab subsidy",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-free-laptop-scheme.jpg",
+    "path": "public/images/cm-punjab-free-laptop-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 87.5,
+    "pagesUsing": "Article: `/cm-punjab-free-laptop-scheme-2026-online-apply/` (CM Punjab Free Laptop Scheme 2026 Online Apply: Maryam Nawaz Portal, Eligibility & Merit List Guide)",
+    "altText": "CM Punjab Free Laptop Scheme online apply portal guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-free-laptop-scheme-2026-online-apply",
+        "title": "CM Punjab Free Laptop Scheme 2026 Online Apply: Maryam Nawaz Portal, Eligibility & Merit List Guide",
+        "image": "/images/cm-punjab-free-laptop-scheme.jpg",
+        "imageAlt": "CM Punjab Free Laptop Scheme online apply portal guide",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-green-credit-program-2026.jpg",
+    "path": "public/images/cm-punjab-green-credit-program-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 940.77,
+    "pagesUsing": "Article: `/cm-punjab-green-credit-program-2026-online-apply/` (CM Punjab Green Credit Program 2026: Online Apply, Portal & Rewards Guide)",
+    "altText": "CM Punjab Green Credit Program 2026 Online Apply Portal & Rewards Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (940.77 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-green-credit-program-2026-online-apply",
+        "title": "CM Punjab Green Credit Program 2026: Online Apply, Portal & Rewards Guide",
+        "image": "/images/cm-punjab-green-credit-program-2026.jpg",
+        "imageAlt": "CM Punjab Green Credit Program 2026 Online Apply Portal & Rewards Guide",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-green-tractor-scheme.jpg",
+    "path": "public/images/cm-punjab-green-tractor-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 347.05,
+    "pagesUsing": "Article: `/cm-punjab-green-tractor-scheme-2026-online-apply/` (CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Portal Registration, Eligibility & Balloting Results)",
+    "altText": "Bright green agricultural tractor operating in a fertile rural Punjab farmland under government tractor subsidy scheme",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (347.05 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-green-tractor-scheme-2026-online-apply",
+        "title": "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Portal Registration, Eligibility & Balloting Results",
+        "image": "/images/cm-punjab-green-tractor-scheme.jpg",
+        "imageAlt": "Bright green agricultural tractor operating in a fertile rural Punjab farmland under government tractor subsidy scheme",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-honhaar-scholarship.jpg",
+    "path": "public/images/cm-punjab-honhaar-scholarship.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 918.12,
+    "pagesUsing": "Article: `/cm-punjab-honhaar-scholarship-program-2026/` (CM Punjab Honhaar Merit Scholarship Program 2026: Online Apply, Eligibility & 100% Tuition Fee Guide)",
+    "altText": "Pakistani university students walking on Punjab campus lawn under CM Punjab Honhaar Merit Scholarship Program",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (918.12 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-honhaar-scholarship-program-2026",
+        "title": "CM Punjab Honhaar Merit Scholarship Program 2026: Online Apply, Eligibility & 100% Tuition Fee Guide",
+        "image": "/images/cm-punjab-honhaar-scholarship.jpg",
+        "imageAlt": "Pakistani university students walking on Punjab campus lawn under CM Punjab Honhaar Merit Scholarship Program",
+        "primaryCategory": "taleemi-wazaif"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-kisan-card.jpg",
+    "path": "public/images/cm-punjab-kisan-card.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 821.41,
+    "pagesUsing": "Article: `/cm-punjab-kisan-card-online-apply-2026/` (CM Punjab Kisan Card Online Apply 2026: 8070 Registration, Eligibility & BOP Card Activation)",
+    "altText": "Pakistani farmer holding official Chief Minister Punjab Kisan Card in an agricultural wheat field",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (821.41 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-kisan-card-online-apply-2026",
+        "title": "CM Punjab Kisan Card Online Apply 2026: 8070 Registration, Eligibility & BOP Card Activation",
+        "image": "/images/cm-punjab-kisan-card.jpg",
+        "imageAlt": "Pakistani farmer holding official Chief Minister Punjab Kisan Card in an agricultural wheat field",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-livestock-card-scheme.jpg",
+    "path": "public/images/cm-punjab-livestock-card-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "640x430",
+    "width": 640,
+    "height": 430,
+    "sizeKB": 97.74,
+    "pagesUsing": "Article: `/cm-punjab-livestock-card-scheme-2026-online-apply/` (CM Punjab Livestock Card Scheme 2026 Online Apply: PLC Portal Registration, 8070 SMS & Eligibility)",
+    "altText": "Pakistani cattle farmer with healthy young calves at rural Punjab livestock farm",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "NON-16:9 ratio (640x430, ratio 1.49)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-livestock-card-scheme-2026-online-apply",
+        "title": "CM Punjab Livestock Card Scheme 2026 Online Apply: PLC Portal Registration, 8070 SMS & Eligibility",
+        "image": "/images/cm-punjab-livestock-card-scheme.jpg",
+        "imageAlt": "Pakistani cattle farmer with healthy young calves at rural Punjab livestock farm",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-rehmat-card-2026.jpg",
+    "path": "public/images/cm-punjab-rehmat-card-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 73.21,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "cm-punjab-solar-panel-scheme.jpg",
+    "path": "public/images/cm-punjab-solar-panel-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "4096x3072",
+    "width": 4096,
+    "height": 3072,
+    "sizeKB": 5739.47,
+    "pagesUsing": "Article: `/cm-punjab-solar-panel-scheme-2026-online-apply/` (CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana Registration, 8800 SMS & Balloting List)",
+    "altText": "Modern rooftop solar panel installation under Chief Minister Punjab Roshan Gharana energy relief scheme",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (5739.47 KB)",
+      "NON-16:9 ratio (4096x3072, ratio 1.33)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-solar-panel-scheme-2026-online-apply",
+        "title": "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana Registration, 8800 SMS & Balloting List",
+        "image": "/images/cm-punjab-solar-panel-scheme.jpg",
+        "imageAlt": "Modern rooftop solar panel installation under Chief Minister Punjab Roshan Gharana energy relief scheme",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "cm-punjab-youth-games-2026.jpg",
+    "path": "public/images/cm-punjab-youth-games-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 837.84,
+    "pagesUsing": "Article: `/cm-punjab-youth-games-2026-online-registration/` (CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide)",
+    "altText": "CM Punjab Youth Games 2026 Online Registration Eligibility Sports and Prizes Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (837.84 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "cm-punjab-youth-games-2026-online-registration",
+        "title": "CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide",
+        "image": "/images/cm-punjab-youth-games-2026.jpg",
+        "imageAlt": "CM Punjab Youth Games 2026 Online Registration Eligibility Sports and Prizes Guide",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "e-bike-guide.jpg",
+    "path": "public/images/e-bike-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 93.09,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "ehsaas-kafalat-invalid-cnic-nser-update.jpg",
+    "path": "public/images/ehsaas-kafalat-invalid-cnic-nser-update.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 817.94,
+    "pagesUsing": "Article: `/ehsaas-kafalat-invalid-cnic-nser-update/` (Ehsaas Kafalat Survey Status: Invalid CNIC & Marriage NSER Update Guide)",
+    "altText": "Ehsaas Kafalat Survey Status Invalid CNIC NSER Record Update",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (817.94 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "ehsaas-kafalat-invalid-cnic-nser-update",
+        "title": "Ehsaas Kafalat Survey Status: Invalid CNIC & Marriage NSER Update Guide",
+        "image": "/images/ehsaas-kafalat-invalid-cnic-nser-update.jpg",
+        "imageAlt": "Ehsaas Kafalat Survey Status Invalid CNIC NSER Record Update",
+        "primaryCategory": "8171"
+      }
+    ]
+  },
+  {
+    "filename": "ehsaas-loan-vs-saving-wallet.jpg",
+    "path": "public/images/ehsaas-loan-vs-saving-wallet.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 107.95,
+    "pagesUsing": "Article: `/ehsaas-interest-free-loan-vs-saving-wallet/` (Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?)",
+    "altText": "Ehsaas Interest-Free Loan vs Saving Wallet Comparison and Registration Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "ehsaas-interest-free-loan-vs-saving-wallet",
+        "title": "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?",
+        "image": "/images/ehsaas-loan-vs-saving-wallet.jpg",
+        "imageAlt": "Ehsaas Interest-Free Loan vs Saving Wallet Comparison and Registration Guide",
+        "primaryCategory": "Ehsaas Programmes"
+      }
+    ]
+  },
+  {
+    "filename": "ehsaas-payment-tracking.jpg",
+    "path": "public/images/ehsaas-payment-tracking.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 321.34,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE",
+      "OVER 200 KB (321.34 KB)"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "ehsaas-tracking-news.jpg",
+    "path": "public/images/ehsaas-tracking-news.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 144.36,
+    "pagesUsing": "Article: `/ehsaas-tracking-news/` (Ehsaas Tracking News 2026: The Real Changes to BISP 8171 (And What They Mean for You))",
+    "altText": "Featured graphic for Ehsaas Tracking News 2026: the real BISP 8171 changes explained",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "ehsaas-tracking-news",
+        "title": "Ehsaas Tracking News 2026: The Real Changes to BISP 8171 (And What They Mean for You)",
+        "image": "/images/ehsaas-tracking-news.jpg",
+        "imageAlt": "Featured graphic for Ehsaas Tracking News 2026: the real BISP 8171 changes explained",
+        "primaryCategory": "Public Service News"
+      }
+    ]
+  },
+  {
+    "filename": "ehsaas-undergraduate-scholarship.jpg",
+    "path": "public/images/ehsaas-undergraduate-scholarship.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 928.89,
+    "pagesUsing": "Article: `/ehsaas-undergraduate-scholarship-online-apply/` (Ehsaas Undergraduate Scholarship 2026 Online Apply: HEC Portal Check, 100% Tuition Fee & Rs 4,000 Stipend Guide)",
+    "altText": "Pakistani university undergraduate student checking HEC Ehsaas scholarship status on online portal",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (928.89 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "ehsaas-undergraduate-scholarship-online-apply",
+        "title": "Ehsaas Undergraduate Scholarship 2026 Online Apply: HEC Portal Check, 100% Tuition Fee & Rs 4,000 Stipend Guide",
+        "image": "/images/ehsaas-undergraduate-scholarship.jpg",
+        "imageAlt": "Pakistani university undergraduate student checking HEC Ehsaas scholarship status on online portal",
+        "primaryCategory": "taleemi-wazaif"
+      }
+    ]
+  },
+  {
+    "filename": "fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.jpg",
+    "path": "public/images/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 118.43,
+    "pagesUsing": "Article: `/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/` (Fake 8171 SMS Check, Complaint & BISP Lottery Fraud Alert Guide)",
+    "altText": "Fake 8171 SMS Check, Complaint and BISP Lottery Fraud Alert Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert",
+        "title": "Fake 8171 SMS Check, Complaint & BISP Lottery Fraud Alert Guide",
+        "image": "/images/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.jpg",
+        "imageAlt": "Fake 8171 SMS Check, Complaint and BISP Lottery Fraud Alert Guide",
+        "primaryCategory": "news"
+      }
+    ]
+  },
+  {
+    "filename": "farmer-support.jpg",
+    "path": "public/images/farmer-support.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 347.05,
+    "pagesUsing": "Article: `/ehsaas-emergency-cash-program-guide/` (Ehsaas Emergency Cash Programme: Who Qualifies and How Disbursement Works)<br>Article: `/ehsaas-rashan-program-guide/` (Ehsaas Rashan Programme: Ration Support Explained)",
+    "altText": "A family checking an emergency cash disbursement notice on a phone<br>A family collecting a verified ration package at an official distribution point",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles",
+      "OVER 200 KB (347.05 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "ehsaas-emergency-cash-program-guide",
+        "title": "Ehsaas Emergency Cash Programme: Who Qualifies and How Disbursement Works",
+        "image": "/images/farmer-support.jpg",
+        "imageAlt": "A family checking an emergency cash disbursement notice on a phone",
+        "primaryCategory": "Ehsaas Programmes"
+      },
+      {
+        "slug": "ehsaas-rashan-program-guide",
+        "title": "Ehsaas Rashan Programme: Ration Support Explained",
+        "image": "/images/farmer-support.jpg",
+        "imageAlt": "A family collecting a verified ration package at an official distribution point",
+        "primaryCategory": "Ehsaas Programmes"
+      }
+    ]
+  },
+  {
+    "filename": "federal-contributory-pension-scheme.jpg",
+    "path": "public/images/federal-contributory-pension-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 117.1,
+    "pagesUsing": "Article: `/federal-contributory-pension-scheme/` (Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits)",
+    "altText": "Pakistan's Federal Contributory Pension Scheme (FGDC) 2024 - the defined-contribution retirement system for federal employees with a 10% employee and 12% government contribution split",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "federal-contributory-pension-scheme",
+        "title": "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
+        "image": "/images/federal-contributory-pension-scheme.jpg",
+        "imageAlt": "Pakistan's Federal Contributory Pension Scheme (FGDC) 2024 - the defined-contribution retirement system for federal employees with a 10% employee and 12% government contribution split",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "fuel-relief-scheme.jpg",
+    "path": "public/images/fuel-relief-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 882.57,
+    "pagesUsing": "Article: `/fuel-scheme-rs-100-per-litre-petrol-relief-guide/` (Fuel Scheme Rs.100 Per Litre Petrol Relief and Registration Guide (2026))",
+    "altText": "A motorcyclist and small car driver displaying a fuel relief scheme SMS token at a petrol pump in Pakistan",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (882.57 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
+        "title": "Fuel Scheme Rs.100 Per Litre Petrol Relief and Registration Guide (2026)",
+        "image": "/images/fuel-relief-scheme.jpg",
+        "imageAlt": "A motorcyclist and small car driver displaying a fuel relief scheme SMS token at a petrol pump in Pakistan",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "hero-support.jpg",
+    "path": "public/images/hero-support.jpg",
+    "format": "jpg",
+    "dimensions": "1600x1000",
+    "width": 1600,
+    "height": 1000,
+    "sizeKB": 236.32,
+    "pagesUsing": "Homepage Hero Section (`/`)<br>Article: `/benazir-kafaalat-payment-guide/` (Benazir Kafaalat Payment Guide: Verify, Collect, and Stay Safe)<br>Article: `/cm-punjab-himmat-card-online-apply-2026/` (CM Punjab Himmat Card Online Apply 2026: DPMIS Registration, Eligibility & Rs 10,500 Stipend Guide)",
+    "altText": "A Pakistani mother and daughter receiving public service guidance<br>A mother and daughter receiving guidance at a public service desk<br>Chief Minister Punjab Himmat Card ATM distribution and financial assistance desk for persons with disabilities",
+    "widthHeightSet": "1600x1000 in OG/Twitter; fill in Hero",
+    "loadingPriority": "priority / fetchpriority=\"high\"",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles",
+      "OVER 200 KB (236.32 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "benazir-kafaalat-payment-guide",
+        "title": "Benazir Kafaalat Payment Guide: Verify, Collect, and Stay Safe",
+        "image": "/images/hero-support.jpg",
+        "imageAlt": "A mother and daughter receiving guidance at a public service desk",
+        "primaryCategory": "Benazir Kafaalat"
+      },
+      {
+        "slug": "cm-punjab-himmat-card-online-apply-2026",
+        "title": "CM Punjab Himmat Card Online Apply 2026: DPMIS Registration, Eligibility & Rs 10,500 Stipend Guide",
+        "image": "/images/hero-support.jpg",
+        "imageAlt": "Chief Minister Punjab Himmat Card ATM distribution and financial assistance desk for persons with disabilities",
+        "primaryCategory": "other-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "himmat-card-eligibility-check-guide.jpg",
+    "path": "public/images/himmat-card-eligibility-check-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 134.89,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "how-to-apply-cm-punjab-e-bike-scheme-2026.jpg",
+    "path": "public/images/how-to-apply-cm-punjab-e-bike-scheme-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 91.88,
+    "pagesUsing": "Article: `/how-to-apply-cm-punjab-e-bike-scheme-2026/` (How To Apply CM Punjab E-Bike Scheme 2026 Registration Complete Process)",
+    "altText": "How to Apply CM Punjab E-Bike Scheme 2026 Complete Online Registration Guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "how-to-apply-cm-punjab-e-bike-scheme-2026",
+        "title": "How To Apply CM Punjab E-Bike Scheme 2026 Registration Complete Process",
+        "image": "/images/how-to-apply-cm-punjab-e-bike-scheme-2026.jpg",
+        "imageAlt": "How to Apply CM Punjab E-Bike Scheme 2026 Complete Online Registration Guide",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "kisan-card-8070-pin-verification.jpg",
+    "path": "public/images/kisan-card-8070-pin-verification.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 821.41,
+    "pagesUsing": "Article: `/kisan-card-8070-pin-verification-bop-activation/` (Kisan Card 8070 PIN Verification and BOP ATM Activation: Complete Step-by-Step Guide (2026))",
+    "altText": "Pakistani farmer verifying and activating CM Punjab Kisan Card at Bank of Punjab biometric ATM",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (821.41 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "kisan-card-8070-pin-verification-bop-activation",
+        "title": "Kisan Card 8070 PIN Verification and BOP ATM Activation: Complete Step-by-Step Guide (2026)",
+        "image": "/images/kisan-card-8070-pin-verification.jpg",
+        "imageAlt": "Pakistani farmer verifying and activating CM Punjab Kisan Card at Bank of Punjab biometric ATM",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "national-savings-profit-rates.jpg",
+    "path": "public/images/national-savings-profit-rates.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 76.48,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "national-savings-profit-rates.webp",
+    "path": "public/images/national-savings-profit-rates.webp",
+    "format": "webp",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 43.98,
+    "pagesUsing": "Article: `/national-savings-profit-rates/` (National Savings Profit Rates (Updated Oct 2026): Complete Profit Table, Tax Rates & Calculator)",
+    "altText": "Official National Savings Profit Rates comparison chart and return rates table for Pakistan certificates",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "national-savings-profit-rates",
+        "title": "National Savings Profit Rates (Updated Oct 2026): Complete Profit Table, Tax Rates & Calculator",
+        "image": "/images/national-savings-profit-rates.webp",
+        "imageAlt": "Official National Savings Profit Rates comparison chart and return rates table for Pakistan certificates",
+        "primaryCategory": "pension"
+      }
+    ]
+  },
+  {
+    "filename": "nigehban-card-check-guide.jpg",
+    "path": "public/images/nigehban-card-check-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 113.19,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "pave-electric-bike-scheme.jpg",
+    "path": "public/images/pave-electric-bike-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 66.4,
+    "pagesUsing": "Article: `/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/` (PAVE Scheme 2026: Complete Guide to Eligibility, Electric Bike Subsidy & Online Apply)",
+    "altText": "PAVE Scheme 2026 electric bike subsidy illustration with an electric scooty and online application smartphone",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
+        "title": "PAVE Scheme 2026: Complete Guide to Eligibility, Electric Bike Subsidy & Online Apply",
+        "image": "/images/pave-electric-bike-scheme.jpg",
+        "imageAlt": "PAVE Scheme 2026 electric bike subsidy illustration with an electric scooty and online application smartphone",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "pink-scooty-scheme-2026.jpg",
+    "path": "public/images/pink-scooty-scheme-2026.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 90.88,
+    "pagesUsing": "Article: `/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/` (Pink Scooty Scheme 2026 – Registration, Eligibility, Documents & Balloting Guide)",
+    "altText": "Pink Scooty Scheme 2026 pink electric scooty illustration for female students and working women in Punjab and Sindh",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+        "title": "Pink Scooty Scheme 2026 – Registration, Eligibility, Documents & Balloting Guide",
+        "image": "/images/pink-scooty-scheme-2026.jpg",
+        "imageAlt": "Pink Scooty Scheme 2026 pink electric scooty illustration for female students and working women in Punjab and Sindh",
+        "primaryCategory": "Punjab Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "pm-petrol-relief-scheme-updates.jpg",
+    "path": "public/images/pm-petrol-relief-scheme-updates.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 81.54,
+    "pagesUsing": "Article: `/pm-petrol-relief-scheme-updates-2026/` (PM Petrol Relief Scheme Updates 2026: Latest Subsidy Rules, 9771 Token Status & Quotas)",
+    "altText": "Official editorial banner showing PM Petrol Relief Scheme updates for 2026 with Rs 100 per litre subsidy and 9771 SMS token status",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "pm-petrol-relief-scheme-updates-2026",
+        "title": "PM Petrol Relief Scheme Updates 2026: Latest Subsidy Rules, 9771 Token Status & Quotas",
+        "image": "/images/pm-petrol-relief-scheme-updates.jpg",
+        "imageAlt": "Official editorial banner showing PM Petrol Relief Scheme updates for 2026 with Rs 100 per litre subsidy and 9771 SMS token status",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "pm-youth-loan-scheme.jpg",
+    "path": "public/images/pm-youth-loan-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 113.99,
+    "pagesUsing": "Article: `/prime-minister-youth-loan-scheme-2026/` (Prime Minister Youth Loan Scheme 2026: Complete Application, Eligibility & Tiers Guide)",
+    "altText": "Young Pakistani entrepreneurs in a modern office reviewing Prime Minister Youth Loan Scheme application details",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "prime-minister-youth-loan-scheme-2026",
+        "title": "Prime Minister Youth Loan Scheme 2026: Complete Application, Eligibility & Tiers Guide",
+        "image": "/images/pm-youth-loan-scheme.jpg",
+        "imageAlt": "Young Pakistani entrepreneurs in a modern office reviewing Prime Minister Youth Loan Scheme application details",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "pmt-score-above-32-bisp-re-survey.jpg",
+    "path": "public/images/pmt-score-above-32-bisp-re-survey.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 817.94,
+    "pagesUsing": "Article: `/pmt-score-above-32-bisp-re-survey-guide/` (PMT Score Above 32 BISP Re-Survey Guide: Official Procedure to Challenge Poverty Score and Re-Register (2026))",
+    "altText": "Pakistani beneficiary consulting enumerator at BISP Tehsil Dynamic Registry desk for PMT score re-survey",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (817.94 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "pmt-score-above-32-bisp-re-survey-guide",
+        "title": "PMT Score Above 32 BISP Re-Survey Guide: Official Procedure to Challenge Poverty Score and Re-Register (2026)",
+        "image": "/images/pmt-score-above-32-bisp-re-survey.jpg",
+        "imageAlt": "Pakistani beneficiary consulting enumerator at BISP Tehsil Dynamic Registry desk for PMT score re-survey",
+        "primaryCategory": "nser-pmt-score"
+      }
+    ]
+  },
+  {
+    "filename": "punjab-land-record-check-guide.jpg",
+    "path": "public/images/punjab-land-record-check-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 130.01,
+    "pagesUsing": "Unused",
+    "altText": "N/A",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "No",
+    "flags": [
+      "UNUSED IMAGE"
+    ],
+    "usedArticles": []
+  },
+  {
+    "filename": "punjab-solar-tube-well-scheme.jpg",
+    "path": "public/images/punjab-solar-tube-well-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "4096x3072",
+    "width": 4096,
+    "height": 3072,
+    "sizeKB": 5739.47,
+    "pagesUsing": "Article: `/punjab-solar-tube-well-scheme-2026-online-apply/` (Punjab Solar Tube Well Scheme 2026 Online Apply: Eligibility, Subsidy Rates, Registration Portal & Balloting)",
+    "altText": "Modern agricultural solar tube well system providing clean irrigation water to farmland in Punjab, Pakistan",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (5739.47 KB)",
+      "NON-16:9 ratio (4096x3072, ratio 1.33)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "punjab-solar-tube-well-scheme-2026-online-apply",
+        "title": "Punjab Solar Tube Well Scheme 2026 Online Apply: Eligibility, Subsidy Rates, Registration Portal & Balloting",
+        "image": "/images/punjab-solar-tube-well-scheme.jpg",
+        "imageAlt": "Modern agricultural solar tube well system providing clean irrigation water to farmland in Punjab, Pakistan",
+        "primaryCategory": "punjab-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "registration-guide.jpg",
+    "path": "public/images/registration-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 261.93,
+    "pagesUsing": "Homepage Trust Section (`/`)<br>Article: `/check-bisp-eligibility-8171/` (How to Check BISP Eligibility Through the Official 8171 Portal)",
+    "altText": "A Pakistani woman checking a registration guide safely<br>Pakistani woman reviewing a registration checklist on her phone",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\"",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (261.93 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "check-bisp-eligibility-8171",
+        "title": "How to Check BISP Eligibility Through the Official 8171 Portal",
+        "image": "/images/registration-guide.jpg",
+        "imageAlt": "Pakistani woman reviewing a registration checklist on her phone",
+        "primaryCategory": "8171"
+      }
+    ]
+  },
+  {
+    "filename": "scholarship-guide.jpg",
+    "path": "public/images/scholarship-guide.jpg",
+    "format": "jpg",
+    "dimensions": "1600x900",
+    "width": 1600,
+    "height": 900,
+    "sizeKB": 309.55,
+    "pagesUsing": "Article: `/ehsaas-registration-center-locator-guide/` (Ehsaas Registration Centers: How to Find and Prepare for Your Visit)",
+    "altText": "A person looking up the nearest official registration center address online",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (309.55 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "ehsaas-registration-center-locator-guide",
+        "title": "Ehsaas Registration Centers: How to Find and Prepare for Your Visit",
+        "image": "/images/scholarship-guide.jpg",
+        "imageAlt": "A person looking up the nearest official registration center address online",
+        "primaryCategory": "Ehsaas Programmes"
+      }
+    ]
+  },
+  {
+    "filename": "sehat-card-plus-kpk.jpg",
+    "path": "public/images/sehat-card-plus-kpk.jpg",
+    "format": "jpg",
+    "dimensions": "1600x1000",
+    "width": 1600,
+    "height": 1000,
+    "sizeKB": 236.32,
+    "pagesUsing": "Article: `/sehat-sahulat-card-kpk-check-online-hospital-list/` (KPK Sehat Sahulat Card Check Online 2026: 8500 SMS, 10 Lakh Treatment Coverage & Empaneled Hospital List)",
+    "altText": "Patient verifying KPK Sehat Card Plus eligibility at hospital State Life facilitation desk using CNIC",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "OVER 200 KB (236.32 KB)",
+      "NON-16:9 ratio (1600x1000, ratio 1.60)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "sehat-sahulat-card-kpk-check-online-hospital-list",
+        "title": "KPK Sehat Sahulat Card Check Online 2026: 8500 SMS, 10 Lakh Treatment Coverage & Empaneled Hospital List",
+        "image": "/images/sehat-card-plus-kpk.jpg",
+        "imageAlt": "Patient verifying KPK Sehat Card Plus eligibility at hospital State Life facilitation desk using CNIC",
+        "primaryCategory": "other-schemes"
+      }
+    ]
+  },
+  {
+    "filename": "sindh-hari-card-scheme.jpg",
+    "path": "public/images/sindh-hari-card-scheme.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 90.73,
+    "pagesUsing": "Article: `/sindh-hari-card-scheme-2026-online-apply-eligibility/` (Sindh Hari Card Scheme 2026 Online Apply: Registration, Farmer Subsidies & Eligibility Guide)",
+    "altText": "Sindh Hari Card farmer registration and subsidy guide",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "sindh-hari-card-scheme-2026-online-apply-eligibility",
+        "title": "Sindh Hari Card Scheme 2026 Online Apply: Registration, Farmer Subsidies & Eligibility Guide",
+        "image": "/images/sindh-hari-card-scheme.jpg",
+        "imageAlt": "Sindh Hari Card farmer registration and subsidy guide",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "taleemi-wazaif.jpg",
+    "path": "public/images/taleemi-wazaif.jpg",
+    "format": "jpg",
+    "dimensions": "1376x768",
+    "width": 1376,
+    "height": 768,
+    "sizeKB": 928.89,
+    "pagesUsing": "Article: `/benazir-taleemi-wazaif-check-online-by-cnic/` (Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts, Registration & Status Guide)<br>Article: `/benazir-taleemi-wazaif-form-download-tarika/` (Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika: School Slip & Tehsil Verification)",
+    "altText": "Pakistani school children receiving Benazir Taleemi Wazaif educational stipends and books<br>A school student holding the Benazir Taleemi Wazaif admission verification certificate slip in Pakistan",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles",
+      "OVER 200 KB (928.89 KB)"
+    ],
+    "usedArticles": [
+      {
+        "slug": "benazir-taleemi-wazaif-check-online-by-cnic",
+        "title": "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts, Registration & Status Guide",
+        "image": "/images/taleemi-wazaif.jpg",
+        "imageAlt": "Pakistani school children receiving Benazir Taleemi Wazaif educational stipends and books",
+        "primaryCategory": "taleemi-wazaif"
+      },
+      {
+        "slug": "benazir-taleemi-wazaif-form-download-tarika",
+        "title": "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika: School Slip & Tehsil Verification",
+        "image": "/images/taleemi-wazaif.jpg",
+        "imageAlt": "A school student holding the Benazir Taleemi Wazaif admission verification certificate slip in Pakistan",
+        "primaryCategory": "taleemi-wazaif"
+      }
+    ]
+  },
+  {
+    "filename": "transport-fuel-relief-options.jpg",
+    "path": "public/images/transport-fuel-relief-options.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 102.76,
+    "pagesUsing": "Article: `/transport-fuel-relief-options/` (Quick Comparison of Transport & Fuel Relief Options in Pakistan (2026))",
+    "altText": "Transport and fuel relief options 2026 comparison illustration with electric scooty, Rs 100 per litre petrol discount and fuel pump",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [],
+    "usedArticles": [
+      {
+        "slug": "transport-fuel-relief-options",
+        "title": "Quick Comparison of Transport & Fuel Relief Options in Pakistan (2026)",
+        "image": "/images/transport-fuel-relief-options.jpg",
+        "imageAlt": "Transport and fuel relief options 2026 comparison illustration with electric scooty, Rs 100 per litre petrol discount and fuel pump",
+        "primaryCategory": "Other Government Schemes"
+      }
+    ]
+  },
+  {
+    "filename": "wazir-e-azam-apna-ghar-program.jpg",
+    "path": "public/images/wazir-e-azam-apna-ghar-program.jpg",
+    "format": "jpg",
+    "dimensions": "1200x675",
+    "width": 1200,
+    "height": 675,
+    "sizeKB": 105.45,
+    "pagesUsing": "Article: `/apna-ghar-social-welfare-guide/` (Apna Ghar & Social Welfare: Complete Guide to Shelter, Support & Housing Services)<br>Article: `/wazir-e-azam-apna-ghar-program/` (Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & How to Apply)",
+    "altText": "Apna Ghar and Social Welfare shelter and housing initiatives guide<br>Editorial banner for the Wazir-e-Azam Apna Ghar Program 2026 showing a newly built Pakistani home, the 5% markup and Rs 10 million loan terms",
+    "widthHeightSet": "fill (CSS layout responsive)",
+    "loadingPriority": "loading=\"lazy\" (Next.js default)",
+    "ogTwitterJsonLd": "og:image, twitter:image, JSON-LD Article schema",
+    "flags": [
+      "REUSED across 2 articles"
+    ],
+    "usedArticles": [
+      {
+        "slug": "apna-ghar-social-welfare-guide",
+        "title": "Apna Ghar & Social Welfare: Complete Guide to Shelter, Support & Housing Services",
+        "image": "/images/wazir-e-azam-apna-ghar-program.jpg",
+        "imageAlt": "Apna Ghar and Social Welfare shelter and housing initiatives guide",
+        "primaryCategory": "Other Schemes"
+      },
+      {
+        "slug": "wazir-e-azam-apna-ghar-program",
+        "title": "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & How to Apply",
+        "image": "/images/wazir-e-azam-apna-ghar-program.jpg",
+        "imageAlt": "Editorial banner for the Wazir-e-Azam Apna Ghar Program 2026 showing a newly built Pakistani home, the 5% markup and Rs 10 million loan terms",
+        "primaryCategory": "Other Schemes"
+      }
+    ]
+  }
+]
