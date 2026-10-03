@@ -38,13 +38,13 @@ export const metadata: Metadata = {
     siteName: "Live Govt Schemes & Ehsaas Programs",
     type: "website",
     locale: "en_PK",
-    images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Public service guidance in Pakistan" }],
+    images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" }],
   },
   twitter: {
     card: "summary_large_image",
     title: homeTitle,
     description: homeDescription,
-    images: [{ url: "/images/hero-support.jpg", alt: "Public service guidance in Pakistan" }],
+    images: [{ url: "/images/hero-support.jpg", alt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" }],
   },
 };
 
@@ -130,7 +130,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-visual">
-            <Image src="/images/hero-support.jpg" alt="A Pakistani mother and daughter receiving public service guidance" fill priority sizes="(max-width: 900px) 100vw, 52vw" />
+            <Image src="/images/hero-support.jpg" alt="Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" fill priority sizes="(max-width: 900px) 100vw, 52vw" style={{ objectFit: "cover", objectPosition: "center top" }} />
             <div className="hero-float-card">
               <span>Start here</span>
               <strong>Check the source before you share.</strong>
