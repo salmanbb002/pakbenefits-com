@@ -1,0 +1,247 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/pave-electric-bike-scheme-2026/#article",
+      "isPartOf": {
+        "@id": "https://example.com/pave-electric-bike-scheme-2026/"
+      },
+      "headline": "PAVE Electric Bike Scheme 2026: Apply Online at pave.gov.pk & Subsidy Guide",
+      "description": "Comprehensive guide to the Pakistan Accelerated Vehicle Electrification (PAVE) scheme 2026. Learn about Rs 80,000 electric bike subsidies, Phase 2 first-come first-served queue rules, eligibility, and online registration steps at pave.gov.pk.",
+      "datePublished": "2026-10-04T12:00:00+05:00",
+      "dateModified": "2026-10-04T14:30:00+05:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://example.com/pave-electric-bike-scheme-2026/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://example.com/author/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Brand Name",
+        "url": "https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/assets/logo.png"
+        }
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1",
+          "h2"
+        ]
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Pakistan Accelerated Vehicle Electrification",
+          "alternateName": "PAVE",
+          "sameAs": "https://pave.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Engineering Development Board",
+          "alternateName": "EDB",
+          "sameAs": "https://en.wikipedia.org/wiki/Engineering_Development_Board"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Industries and Production",
+          "alternateName": "MoIP",
+          "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Industries_and_Production_(Pakistan)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Policy",
+          "name": "New Energy Vehicle Policy 2025–2030",
+          "sameAs": "https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_Pakistan"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Economic Coordination Committee",
+          "alternateName": "ECC",
+          "sameAs": "https://en.wikipedia.org/wiki/Economic_Coordination_Committee_(Pakistan)"
+        },
+        {
+          "@type": "CentralBank",
+          "name": "State Bank of Pakistan",
+          "alternateName": "SBP",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        },
+        {
+          "@type": "BankOrCreditUnion",
+          "name": "Bank of Punjab",
+          "alternateName": "BOP",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/pave-electric-bike-scheme-2026/#howto",
+      "name": "How to Apply Online for PAVE Electric Bike Scheme at pave.gov.pk",
+      "description": "Step-by-step instructions to register and apply online for an electric motorcycle or rickshaw subsidy under the federal PAVE scheme.",
+      "totalTime": "PT15M",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "PKR",
+        "value": "0"
+      },
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Portal Account Registration",
+          "text": "Visit pave.gov.pk, click Register, and enter your full name, CNIC number, and PTA-registered mobile phone number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "OTP Mobile Verification",
+          "text": "Enter the One-Time Password sent to your PTA-registered mobile phone number to verify identity."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Fill Applicant Profile",
+          "text": "Provide personal details, address, employment status, and income information on the portal dashboard."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Vehicle & OEM Selection",
+          "text": "Select your preferred vehicle category (electric motorcycle or loader) and choose an EDB-approved OEM manufacturer model."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Upload Verification Documents",
+          "text": "Upload clean scanned copies of your valid CNIC, passport-size photo, income proof, and student ID if applicable."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Submit & Receive Tracking ID",
+          "text": "Submit the completed application form to generate a unique PAVE Tracking ID for status tracking."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/pave-electric-bike-scheme-2026/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official website for PAVE electric bike registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official website for federal PAVE registration is pave.gov.pk. Applicants must avoid third-party websites or unofficial registration portals to protect personal CNIC data."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is the federal subsidy on electric bikes under PAVE?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The federal government provides a direct subsidy of Rs 80,000 on approved electric motorcycles. For electric three-wheelers, such as e-rickshaws and cargo loaders, the subsidy reaches up to Rs 400,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is PAVE Phase 2 based on balloting or first-come, first-served?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PAVE Phase 2 operates on a first-come, first-served (FCFS) queue model following ECC authorization on May 5, 2026. Submissions are processed strictly in the order of portal timestamp receipts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I apply for PAVE if I am already enrolled in the Punjab CM E-Bike Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, citizens may apply for the federal PAVE scheme at pave.gov.pk even if registered for provincial programs, provided they have not already received a subsidized vehicle under either scheme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is the Rs 80,000 subsidy disbursed to the buyer in Phase 2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Phase 2, the Rs 80,000 subsidy is deducted upfront at the point of sale. The buyer pays only the net discounted price to the dealer, and the State Bank of Pakistan transfers the subsidy to the manufacturer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the age limit for PAVE electric bike applicants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants applying for an electric motorcycle or rickshaw under the PAVE scheme must be between 18 and 65 years of age on the date of portal registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a reserved quota for female applicants in the PAVE scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the federal PAVE policy reserves a mandatory 25 percent allocation specifically for female applicants across all provinces and federal territories."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are needed to complete the PAVE online application?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must upload a scanned copy of their valid CNIC, a passport-size photo, proof of income or salary slip, and a student ID card if applying under educational quotas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did Phase 1 of PAVE face delays in vehicle deliveries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Phase 1 faced delays because commercial banks approved only 9 percent of financing applications, delivering 5,409 out of 41,000 target units. Phase 2 resolved this by introducing upfront point-of-sale deductions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which banks are offering 0% markup financing for PAVE e-bikes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Participating financial institutions include commercial partner banks such as BankIslami and Bank of Punjab, which provide 24-month zero percent markup installment plans for approved applicants."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/pave-electric-bike-scheme-2026/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Government Schemes",
+          "item": "https://example.com/schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PAVE Electric Bike Scheme 2026",
+          "item": "https://example.com/pave-electric-bike-scheme-2026/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "canonical": "Pakistan Accelerated Vehicle Electrification",
+    "type": "GovernmentProgram",
+    "aliases": ["PAVE", "PAVE Scheme", "PM Electric Bike Scheme", "PAVE Program"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Engineering Development Board",
+    "type": "Organization",
+    "aliases": ["EDB", "Engineering Development Board Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Engineering_Development_Board",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ministry of Industries and Production",
+    "type": "Organization",
+    "aliases": ["MoIP", "Ministry of Industries & Production"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Industries_and_Production_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "New Energy Vehicle Policy 2025–2030",
+    "type": "Policy",
+    "aliases": ["NEV Policy", "NEV Policy 2025-30", "National EV Policy"],
+    "sameAs": "https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "pave.gov.pk",
+    "type": "Website",
+    "aliases": ["PAVE Portal", "PAVE Online Portal", "pave.gov.pk portal"],
+    "sameAs": "https://pave.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 80,000 Subsidy",
+    "type": "FinancialAmount",
+    "aliases": ["80,000 PKR subsidy", "Rs. 80,000 e-bike discount", "80k EV subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Economic Coordination Committee",
+    "type": "GovernmentBody",
+    "aliases": ["ECC", "ECC Cabinet Committee"],
+    "sameAs": "https://en.wikipedia.org/wiki/Economic_Coordination_Committee_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "First-Come, First-Served Queue Model",
+    "type": "Process",
+    "aliases": ["FCFS model", "first-come first-served application", "rolling application queue"],
+    "sameAs": "",
+    "kind": "concept",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized E-Balloting",
+    "type": "Process",
+    "aliases": ["computerized balloting", "PAVE Phase 1 ballot", "lottery system"],
+    "sameAs": "",
+    "kind": "concept",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Original Equipment Manufacturer",
+    "type": "OrganizationType",
+    "aliases": ["OEM", "EDB-approved OEMs", "EV manufacturers"],
+    "sameAs": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "CM Punjab E-Bike Scheme",
+    "type": "GovernmentProgram",
+    "aliases": ["Punjab E-Bike Scheme", "bikes.punjab.gov.pk", "CM Maryam Nawaz E-Bike Program"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "Organization",
+    "aliases": ["SBP", "Central Bank of Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Bank of Punjab",
+    "type": "Organization",
+    "aliases": ["BOP"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Electric Three-Wheelers",
+    "type": "ProductCategory",
+    "aliases": ["e-rickshaws", "EV loaders", "electric rickshaw"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Rs 400,000 Subsidy",
+    "type": "FinancialAmount",
+    "aliases": ["Rs 400k loader subsidy", "400,000 PKR rickshaw subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Zero Percent Markup Financing",
+    "type": "FinancialTerm",
+    "aliases": ["0% markup", "interest-free installment plan", "24-month installment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Women Quota",
+    "type": "PolicyRule",
+    "aliases": ["25% women quota", "female applicant quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "CNIC Verification",
+    "type": "Process",
+    "aliases": ["NADRA CNIC verification", "CNIC check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Upfront Point-of-Sale Deduction",
+    "type": "Process",
+    "aliases": ["upfront discount", "point of sale subsidy deduction"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Vlektra",
+    "type": "Organization",
+    "aliases": ["Vlektra EV"],
+    "sameAs": "https://vlektra.com/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Metro E-Vehicles",
+    "type": "Organization",
+    "aliases": ["Metro EV"],
+    "sameAs": "https://metroev.pk/",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "EcoDost",
+    "type": "Organization",
+    "aliases": ["EcoDost EV"],
+    "sameAs": "https://ecodost.com.pk/",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
