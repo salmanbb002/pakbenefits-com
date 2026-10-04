@@ -1490,7 +1490,7 @@ export const categories: Category[] = [
   },
 ];
 
-export const articles: Article[
+export const articles: Article[] = [
   {
     slug: "provincial-bike-transport-schemes",
     relatedSlugs: [
@@ -1749,8 +1749,10 @@ export const articles: Article[
       { label: "KP Transport & Mass Transit Department", href: "https://kp.gov.pk/" },
       { label: "Federal PAVE Electric Vehicle Portal", href: "https://pave.gov.pk/" }
     ]
-  },
-] = [
+  }
+];
+
+export const articles: Article[] = [
   {
     slug: "pasban-remittance-reward-scheme",
     title: "Pasban Remittance Reward Scheme 2026: Eligibility, PKR 16B Prizes & Draw Guide",
