@@ -1749,10 +1749,7 @@ export const articles: Article[] = [
       { label: "KP Transport & Mass Transit Department", href: "https://kp.gov.pk/" },
       { label: "Federal PAVE Electric Vehicle Portal", href: "https://pave.gov.pk/" }
     ]
-  }
-];
-
-export const articles: Article[] = [
+  },
   {
     slug: "pasban-remittance-reward-scheme",
     title: "Pasban Remittance Reward Scheme 2026: Eligibility, PKR 16B Prizes & Draw Guide",
@@ -4603,9 +4600,6 @@ export const articles: Article[] = [
           "Under the latest CM Punjab E-Bike Scheme updates, Phase 2 provides 100,000 electric bikes to college and university students across all 36 Punjab districts. The Punjab Government provides a Rs. 90,000 capital subsidy, waives 100% of the down payment, and sponsors interest-free financing through The Bank of Punjab at Rs. 3,028 monthly over 36 months. Online registration remains open at bikes.punjab.gov.pk until October 4, 2026, followed by computerized electronic balloting.",
           "Under the direct supervision of Chief Minister Maryam Nawaz Sharif, the provincial cabinet restructured the program's financial mechanics to eliminate student entry barriers. Rather than requiring families to arrange upfront cash deposits during inflationary pressures, the provincial treasury absorbs the complete initial capital outlay, registration levies, number plate charges, and mandatory first-year comprehensive Takaful insurance coverage."
         ],
-        links: [
-          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" }
-        ],
         subsections: [
           {
             title: "100,000 Electric Bikes Allocation Across All 36 Punjab Districts",
@@ -4623,8 +4617,9 @@ export const articles: Article[] = [
           }
         ],
         links: [
-            {
-              label: "CM Punjab Youth Games 2026 Registration & Sports Guide",
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
+          {
+            label: "CM Punjab Youth Games 2026 Registration & Sports Guide",
               href: "/cm-punjab-youth-games-2026-online-registration/"
             },
           { label: "Pink Scooty Scheme 2026: Female Quota & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" },
