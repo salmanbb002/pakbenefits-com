@@ -1490,7 +1490,437 @@ export const categories: Category[] = [
   },
 ];
 
-export const articles: Article[] = [
+export const articles: Article[
+  {
+    slug: "provincial-bike-transport-schemes",
+    relatedSlugs: [
+      "cm-punjab-e-bike-scheme-updates",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "pave-electric-bike-scheme",
+      "provincial-regional-schemes",
+      "how-to-apply-cm-punjab-e-bike-scheme-2026"
+    ],
+    title: "Provincial Bike & Transport Schemes in Pakistan: 2026 Guide to Punjab, Sindh & KPK Initiatives",
+    excerpt: "Discover all 2026 Provincial Bike & Transport Schemes in Pakistan. Compare CM Punjab E-Bikes, Sindh Pink Scooty, KP EV policy, and federal PAVE programs across eligibility, 0% interest monthly installments, and online portal links.",
+    showExcerpt: true,
+    metaTitle: "Provincial Bike & Transport Schemes 2026: Apply Online & Eligibility",
+    metaDescription: "Complete guide to active Provincial Bike & Transport Schemes in Pakistan for 2026. Compare eligibility, 0% interest monthly installments, and online portals for Punjab, Sindh, KPK, and federal PAVE.",
+    focusKeyword: "provincial bike & transport schemes",
+    lsiKeywords: [
+      "punjab e-bike scheme 2026 online apply",
+      "sindh pink scooty scheme registration 2026",
+      "kpk electric bike scheme for female students",
+      "bop bike scheme monthly installment calculator",
+      "pave electric bike scheme application portal",
+      "bike scheme eligibility by cnic 2026"
+    ],
+    entities: [
+      "Chief Minister Punjab E-Bike Scheme",
+      "Government of Punjab Transport Department",
+      "Bank of Punjab (BOP)",
+      "bikes.punjab.gov.pk",
+      "Sindh Mass Transit Authority (SMTA)",
+      "Sindh Pink Scooty Scheme",
+      "KP Transport & Mass Transit Department",
+      "Pakistan Accelerated Vehicle Electrification (PAVE)",
+      "Valid Driving License / Learner Permit",
+      "CNIC Verification (NADRA)",
+      "0% Interest Financing",
+      "9771 Fuel Relief SMS Service"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: ["punjab-schemes", "other-schemes"],
+    date: "October 4, 2026",
+    publishedDate: "October 4, 2026",
+    lastChecked: "October 4, 2026",
+    readTime: "10 min read",
+    image: "/images/provincial-bike-transport-schemes.jpg",
+    imageAlt: "Provincial Bike and Transport Schemes 2026 Complete Eligibility and Online Application Guide Pakistan",
+    author: contributors.muhammadSalman,
+    sections: [
+      {
+        title: "What Are the Active Provincial Bike and Transport Schemes in 2026?",
+        paragraphs: [
+          "Provincial governments across Pakistan have launched targeted urban transit and two-wheeler schemes to reduce commuting costs and foster green energy adoption. These initiatives combine interest-free banking loans, capital subsidies, and gender-focused transport grants to support higher education students and female professionals."
+        ],
+        subsections: [
+          {
+            title: "CM Punjab E-Bike Scheme: Features, Subsidy & Quotas",
+            paragraphs: [
+              "The Chief Minister Punjab E-Bike Scheme provides 100,000 electric and petrol motorbikes to bonafide college and university students across Punjab. Administered by the Government of Punjab Transport Department alongside the Punjab Information Technology Board (PITB), the program covers full registration fees, token taxes, and initial insurance costs. Financed through the Bank of Punjab (BOP), the provincial government pays a capital subsidy exceeding Rs. 20,000 per vehicle while absorbing all bank interest markups. Official applications are processed exclusively online through bikes.punjab.gov.pk."
+            ]
+          },
+          {
+            title: "Sindh Pink Scooty Scheme: Free EV Transport for Women",
+            paragraphs: [
+              "The Sindh Female EV Mobility Initiative, commonly known as the Pink Scooty Scheme, delivers electric scooters to working women and female university students in major urban centers. Managed by the Sindh Mass Transit Authority (SMTA) under the Transport & Mass Transit Department, Government of Sindh, the scheme offers free or heavily subsidized EV two-wheelers in Karachi, Hyderabad, Sukkur, Larkana, and Shaheed Benazirabad. Beneficiaries receive driving instruction support and helmet packages, provided they possess a valid motorcycle driving license verified on the SMTA portal (smta.gos.pk)."
+            ]
+          },
+          {
+            title: "KPK Electric Bike & Urban Transport Policy",
+            paragraphs: [
+              "The Khyber Pakhtunkhwa Transport & Mass Transit Department operates a merit-based electric bike program aimed at female students and government office workers. The policy provides electric scooters with zero carbon emissions to lessen the financial burden of daily transit in Peshawar, Abbottabad, and Mardan. Selected candidates receive subsidized electric bikes alongside dedicated battery charging access points in public institutions."
+            ]
+          },
+          {
+            title: "Federal PAVE Scheme & National Fuel Relief Program",
+            paragraphs: [
+              "The Pakistan Accelerated Vehicle Electrification (PAVE) initiative serves as a federal umbrella framework supporting electric two-wheeler and three-wheeler manufacturing. Operated via pave.gov.pk, PAVE partners with commercial banks to offer standardized 0% interest installment loans nationwide. Additionally, the federal government maintains the 9771 SMS Fuel Relief Service, enabling registered motorcycle and rickshaw owners to check monthly targeted fuel subsidies by texting their CNIC and vehicle registration numbers to 9771."
+            ]
+          }
+        ],
+        links: [
+          { label: "CM Punjab E-Bike Scheme 2026 Details", href: "/cm-punjab-e-bike-scheme-updates/" },
+          { label: "Sindh Pink Scooty Registration Guide", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
+        ]
+      },
+      {
+        title: "Who Is Eligible for Provincial Bike Schemes in Pakistan?",
+        paragraphs: [
+          "Eligibility criteria for provincial transport programs enforce strict educational, age, and identity standards to ensure resources reach intended beneficiaries."
+        ],
+        subsections: [
+          {
+            title: "Age, Student Enrollment & Income Requirements",
+            paragraphs: [
+              "Applicants for the Punjab E-Bike scheme must be active students enrolled in regular degree programs at recognized public or private universities or graduate colleges. Candidates must be between 18 and 60 years old and present a verified CNIC issued by NADRA. For female-specific initiatives in Sindh and KPK, applicants must submit proof of employment or current academic enrollment along with household income declarations."
+            ]
+          },
+          {
+            title: "Driving License and Learner Permit Mandates",
+            paragraphs: [
+              "A mandatory prerequisite across all provincial bike schemes is holding a valid driving license or a traffic police learner permit. Applicants must upload a digital copy of their valid motorcycle license or learner permit during portal registration. Candidates applying without a verified license or permit face immediate application disqualification during the automated verification phase."
+            ]
+          }
+        ],
+        links: [
+          { label: "How to Apply for CM Punjab E-Bike Scheme", href: "/how-to-apply-cm-punjab-e-bike-scheme-2026/" }
+        ]
+      },
+      {
+        title: "How Do You Apply Online for Provincial Bike & Transport Schemes?",
+        paragraphs: [
+          "Applying for provincial transport schemes requires submitting verified documents through designated government portals."
+        ],
+        subsections: [
+          {
+            title: "Step-by-Step Registration on bikes.punjab.gov.pk",
+            paragraphs: [
+              "Visit the official Punjab bike portal at bikes.punjab.gov.pk and create an applicant account using your CNIC number and mobile phone.",
+              "Select your institution category (Public or Private) and choose your preferred vehicle type (Electric Bike or Petrol Bike).",
+              "Fill in academic details, including your university roll number and current semester status.",
+              "Upload required scanned attachments: CNIC front/back, student ID card, recent photograph, and driving license/learner permit.",
+              "Review the legal affidavit regarding loan repayment and submit the online application before the announced deadline."
+            ]
+          },
+          {
+            title: "Registering for the Sindh Pink Scooty via SMTA",
+            paragraphs: [
+              "Female applicants in Sindh must navigate to smta.gos.pk/pink-scooty-registration to register. After entering basic personal information and district selection, candidates submit proof of residence (domicile/PRC) and workplace or university verification. Successful applicants are shortlisted based on district quotas and notified via official SMS for physical document verification."
+            ]
+          },
+          {
+            title: "Documents Required for CNIC and Bank Verification",
+            paragraphs: [
+              "Before beginning the online application, ensure you have clear digital copies of the following documents ready:"
+            ],
+            bullets: [
+              "Valid NADRA CNIC or Smart Card of the applicant.",
+              "Active Student ID Card or formal Employment Certificate.",
+              "Valid Traffic Police Driving License or Learner Permit.",
+              "Guardian/Parent CNIC (required for student bank guarantors).",
+              "Recent passport-sized photograph with a light background.",
+              "Utility bill (electricity or gas) corresponding to your home address."
+            ]
+          }
+        ],
+        links: [
+          { label: "Federal PAVE Electric Bike Scheme Guide", href: "/pave-electric-bike-scheme/" }
+        ]
+      },
+      {
+        title: "What Are the Financial Terms and Monthly Installments?",
+        paragraphs: [
+          "Provincial schemes incorporate subsidized financial structures designed to keep monthly payments affordable for students and low-income workers."
+        ],
+        subsections: [
+          {
+            title: "Bank of Punjab (BOP) 0% Interest Payment Plan",
+            paragraphs: [
+              "Financing for the Punjab CM E-Bike program is structured over a 36-month (3-year) repayment cycle administered by the Bank of Punjab (BOP). Under this arrangement, electric bike monthly installments are capped at approximately Rs. 3,028 per month, while petrol bike installments average Rs. 5,000 per month. The Government of Punjab pays all bank interest markups directly to BOP, ensuring beneficiaries pay zero interest markup over the loan tenure."
+            ]
+          },
+          {
+            title: "Subsidies Covered by Provincial Governments",
+            paragraphs: [
+              "Provincial governments absorb significant upfront vehicle charges to minimize out-of-pocket costs for applicants."
+            ],
+            table: {
+              caption: "Government Subsidies Breakdown",
+              headers: ["Expense Category", "Beneficiary Cost", "Government Subsidy Portion"],
+              rows: [
+                ["Bank Interest Markup", "Rs. 0 (0% Markup)", "100% paid by Provincial Government"],
+                ["Vehicle Down Payment", "Rs. 0 (Zero Down)", "100% covered by Capital Subsidy (Rs. 20k+)"],
+                ["Registration & License Plate", "Rs. 0", "Fully subsidized by Excise Department"],
+                ["First-Year Comprehensive Insurance", "Rs. 0", "Fully paid by Provincial Government"],
+                ["Annual Token Tax", "Rs. 0", "Covered for the entire 3-year loan period"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        title: "Provincial Bike Schemes 2026 Comparison Matrix",
+        paragraphs: [
+          "The table below outlines key operational differences across Pakistan's active provincial and federal bike programs:"
+        ],
+        table: {
+          caption: "Provincial Bike Schemes 2026 Comparison Matrix",
+          headers: ["Scheme Name", "Target Audience", "Primary Sponsor / Bank", "Vehicle Type", "Monthly Installment", "License Mandate", "Official Portal"],
+          rows: [
+            ["CM Punjab E-Bike Scheme", "University & College Students", "Punjab Govt / BOP / PITB", "Electric & Petrol Bikes", "~Rs. 3,028 / mo (0% Interest)", "Driving License or Learner Permit", "bikes.punjab.gov.pk"],
+            ["Sindh Pink Scooty Scheme", "Working Women & Female Students", "Sindh Govt / SMTA", "Electric Scooters", "Free / Fully Subsidized", "Motorcycle Driving License", "smta.gos.pk"],
+            ["KPK EV Bike Initiative", "Female Students & Public Workers", "KP Transport Dept", "Electric Scooters", "Subsidized Installments", "Learner Permit / License", "kp.gov.pk"],
+            ["Federal PAVE Scheme", "General Public & EV Buyers", "Federal Govt / Commercial Banks", "EV 2-Wheelers & 3-Wheelers", "Bank-Specific (0% Markup)", "Valid CNIC & License", "pave.gov.pk"]
+          ]
+        },
+        links: [
+          { label: "Provincial & Regional Schemes Master List", href: "/provincial-regional-schemes/" }
+        ]
+      },
+      {
+        title: "Common Application Errors & How to Avoid Online Scams",
+        paragraphs: [
+          "With high demand for government transport schemes, applicants must guard against official missteps and fraudulent online portals."
+        ],
+        bullets: [
+          "Avoid Unofficial Payment Requests: Government bike portals do not request application submission fees via personal JazzCash, EasyPaisa, or private bank accounts. All processing fees, if any, are paid directly at authorized bank branches (e.g., Bank of Punjab).",
+          "Verify .gov.pk Web Domain: Only submit personal details on websites ending in .gov.pk. Fake portals often use .com, .org, or .net extensions to harvest CNIC data.",
+          "Double-Check License Expiry: Ensure your learner permit or driving license is active throughout the verification window. Expired permits lead to instant portal rejection.",
+          "Maintain Accurate Guarantor Info: Student applications require a parent or guardian as a co-borrower/guarantor. Ensure your guarantor has a clean credit history with no active bank defaults."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Who is eligible to apply for the Punjab CM E-Bike Scheme?",
+        answer: "Eligible applicants must be bonafide students enrolled in a recognized public or private university or graduate college in Punjab, aged 18 to 60, holding a valid CNIC and an active driving license or traffic police learner permit."
+      },
+      {
+        question: "What is the monthly installment for an electric bike under the Punjab scheme?",
+        answer: "The monthly installment for an electric bike is approximately Rs. 3,028 per month spread over a 3-year (36-month) repayment plan, with zero interest markup and zero down payment."
+      },
+      {
+        question: "Can female students apply for petrol bikes in Punjab?",
+        answer: "Yes, female students can choose between electric bikes and petrol bikes. Special quotas are reserved for female applicants in both categories."
+      },
+      {
+        question: "How do working women apply for the Sindh Pink Scooty Scheme?",
+        answer: "Working women in Sindh can register online through the Sindh Mass Transit Authority portal at smta.gos.pk by providing proof of employment, residence (domicile), and a valid driving license."
+      },
+      {
+        question: "Is a driving license mandatory to receive a bike?",
+        answer: "Yes, holding a valid driving license or an official traffic police learner permit is compulsory across all provincial schemes before vehicle delivery."
+      },
+      {
+        question: "What happens if applicant demand exceeds the available bike quota?",
+        answer: "If total eligible applications exceed the provincial quota (e.g., 100,000 bikes in Punjab), a transparent electronic balloting process is conducted by PITB to select final beneficiaries."
+      },
+      {
+        question: "Does the government cover vehicle insurance and registration taxes?",
+        answer: "Yes, provincial governments cover upfront costs including registration fees, token taxes, and first-year comprehensive insurance."
+      },
+      {
+        question: "What is the federal 9771 SMS Fuel Relief service?",
+        answer: "The 9771 service allows registered motorcycle owners to text their CNIC and vehicle registration details to 9771 to check eligibility for federal monthly fuel subsidies."
+      },
+      {
+        question: "Can students with an existing bank loan default apply?",
+        answer: "No, applicants or their financial guarantors (parents/guardians) with active credit defaults on the e-CIB credit database will not qualify for bank loan approval."
+      },
+      {
+        question: "Where can applicants track their application status online?",
+        answer: "Applicants can track their status by logging into their respective portal accounts at bikes.punjab.gov.pk for Punjab or smta.gos.pk for Sindh using their CNIC number."
+      }
+    ],
+    officialLinks: [
+      { label: "Punjab E-Bikes Official Portal", href: "https://bikes.punjab.gov.pk/" },
+      { label: "Sindh Mass Transit Authority (SMTA)", href: "https://smta.gos.pk/" },
+      { label: "KP Transport & Mass Transit Department", href: "https://kp.gov.pk/" },
+      { label: "Federal PAVE Electric Vehicle Portal", href: "https://pave.gov.pk/" }
+    ]
+  },
+] = [
+  {
+    slug: "pasban-remittance-reward-scheme",
+    title: "Pasban Remittance Reward Scheme 2026: Eligibility, PKR 16B Prizes & Draw Guide",
+    excerpt: "Complete guide to the Pasban Remittance Reward Scheme (PRRS) launched by PBA & SBP. Learn eligibility requirements, USD 100 monthly threshold, PKR 16 Billion annual cash prize tiers, 1LINK token draws, and official winner check portals.",
+    showExcerpt: true,
+    metaTitle: "Pasban Remittance Reward Scheme 2026: Eligibility & PKR 16B Prizes",
+    metaDescription: "Learn how the Pasban Remittance Reward Scheme works. Discover eligibility rules, PKR 16 Billion prize breakdown, draw dates, and how to check winner status safely.",
+    focusKeyword: "pasban remittance reward scheme",
+    lsiKeywords: [
+      "pasban remittance reward scheme eligibility",
+      "pasban remittance reward scheme prize structure",
+      "pasban remittance reward scheme winner list",
+      "pasban remittance draw dates 15 january 2027",
+      "pasban remittance reward scheme minimum threshold usd 100",
+      "pasban remittance scheme vs sohni dharti"
+    ],
+    entities: [
+      "Pasban Remittance Reward Scheme",
+      "Pakistan Banks Association",
+      "State Bank of Pakistan",
+      "1LINK (Pvt) Limited",
+      "Sohni Dharti Remittance Programme",
+      "Roshan Digital Account",
+      "Cash-over-the-counter"
+    ],
+    primaryCategory: "federal-schemes",
+    categorySlugs: [
+      "federal-schemes",
+      "other-schemes"
+    ],
+    date: "October 4, 2026",
+    publishedDate: "October 4, 2026",
+    lastChecked: "October 4, 2026",
+    readTime: "8 min read",
+    image: "/images/pasban-remittance-reward-scheme.jpg",
+    imageAlt: "Pasban Remittance Reward Scheme 2026 PKR 16 Billion Cash Prizes and Eligibility Guide",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      { label: "1LINK Official Pasban Portal", href: "https://1link.net.pk/pasban" },
+      { label: "Pakistan Banks Association", href: "https://www.pakistanbanks.org/pasban" },
+      { label: "State Bank of Pakistan", href: "https://www.sbp.org.pk/" }
+    ],
+    sections: [
+      {
+        title: "What Is the Pasban Remittance Reward Scheme (PRRS)?",
+        paragraphs: [
+          "The Pasban Remittance Reward Scheme (PRRS) is a market-based financial incentive program created by Pakistan's commercial banking industry under the auspices of the Pakistan Banks Association (PBA) and the patronage of the State Bank of Pakistan (SBP). Announced in late September 2026 and officially launched on October 1, 2026, the scheme distributes PKR 16 billion in total cash prizes each year. The entire prize fund is underwritten by participating commercial banks with zero burden on the national exchequer.",
+          "The technology platform behind the scheme is operated by 1LINK (Pvt) Limited, which automatically tracks eligible inward remittance transactions and generates digital draw tokens. Beneficiaries who meet the qualifying criteria are entered into transparent, computer-generated quarterly draws without filling out manual applications or paying entry fees. By offering substantial cash rewards ranging from PKR 1 million to PKR 100 million per quarter, the program aims to curb illegal hawala/hundi channels and strengthen Pakistan's official foreign exchange reserves."
+        ]
+      },
+      {
+        title: "Who Is Eligible for the Pasban Remittance Scheme?",
+        paragraphs: [
+          "Eligibility for the Pasban Remittance Reward Scheme is open to individuals residing in Pakistan who receive foreign currency home remittances directly into a personal bank account or registered mobile wallet. To qualify for a quarterly prize draw, a beneficiary must receive at least USD 100 (or its equivalent in foreign currency) in each of the three consecutive calendar months comprising that quarter."
+        ],
+        subsections: [
+          {
+            title: "Core Qualification Checklist",
+            paragraphs: [
+              "To remain eligible for the automated draw system, beneficiaries must meet all of the following requirements: (1) Account Type: Credit into a single or joint personal bank account or branchless banking mobile wallet registered in Pakistan; (2) Minimum Threshold: Fulfill the USD 100 monthly threshold during month one, month two, and month three of the qualifying quarter; (3) Banking Channel: Inflows transferred through participating commercial banks or legal financial rails; (4) Zero Registration: Participation is 100% automatic based on bank transaction records."
+            ]
+          },
+          {
+            title: "Ineligible Remittance Types & Exclusions",
+            paragraphs: [
+              "Not all incoming funds qualify for the Pasban prize draws. To maintain transparency and target genuine household remittances, the Pakistan Banks Association has established clear exclusion rules: Cash-Over-The-Counter (OTC) cash pick-ups do not qualify; Roshan Digital Account (RDA) inflows are excluded because RDA account holders already access dedicated tax concessions; Commercial, business, or corporate accounts are ineligible; and Employees, officers, and directors of commercial banks, PBA, 1LINK, and the State Bank of Pakistan are strictly barred."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How Does the PKR 16 Billion Prize Structure Work?",
+        paragraphs: [
+          "The Pasban Remittance Reward Scheme features an annual prize pool of PKR 16 billion, split evenly into four quarterly draws of PKR 4 billion each. In every quarterly draw, 1LINK's automated system selects 2,521 lucky beneficiaries to receive tax-adjusted cash rewards credited directly to their bank accounts. Over the course of a full calendar year, the scheme rewards 10,084 winners across Pakistan."
+        ],
+        table: {
+          caption: "Pasban Remittance Reward Scheme Quarterly Prize Breakdown Table",
+          headers: ["Prize Rank", "Individual Cash Reward (PKR)", "Number of Winners Per Quarter", "Total Quarterly Payout (PKR)"],
+          rows: [
+            ["1st Prize (Bumper)", "PKR 100 Million", "1 Winner", "PKR 100 Million"],
+            ["2nd Prize", "PKR 25 Million", "20 Winners", "PKR 500 Million"],
+            ["3rd Prize", "PKR 10 Million", "100 Winners", "PKR 1,000 Million (1 Billion)"],
+            ["4th Prize", "PKR 1 Million", "2,400 Winners", "PKR 2,400 Million (2.4 Billion)"],
+            ["Quarterly Totals", "—", "2,521 Winners", "PKR 4,000 Million (4 Billion)"]
+          ]
+        }
+      },
+      {
+        title: "How Are Winners Selected & When Is the First Draw Date?",
+        paragraphs: [
+          "Winners of the Pasban Remittance Reward Scheme are selected through an automated electronic draw system managed by 1LINK (Pvt) Limited. When a beneficiary meets the USD 100 monthly threshold for three consecutive months, 1LINK automatically generates electronic draw tokens corresponding to the account's qualifying remittance volume.",
+          "The first quarterly draw covers remittances received between October 1, 2026, and December 31, 2026, and will be held on January 15, 2027. Subsequent draws will take place every three months following the end of each calendar quarter: Quarter 1 (Draw Date Jan 15, 2027); Quarter 2 (Draw Date April 2027); Quarter 3 (Draw Date July 2027); Quarter 4 (Draw Date October 2027)."
+        ]
+      },
+      {
+        title: "Pasban Scheme vs Sohni Dharti Remittance Programme: What Changed?",
+        paragraphs: [
+          "The Pasban Remittance Reward Scheme (PRRS) completely replaces the previous Sohni Dharti Remittance Programme (SDRP), which was officially phased out on September 30, 2026. While Sohni Dharti relied on a mobile app point-accrual system for discounts on government services, Pasban operates as a direct cash prize draw."
+        ],
+        table: {
+          caption: "Sohni Dharti (SDRP) vs. Pasban Scheme (PRRS) Comparison Matrix",
+          headers: ["Feature / Aspect", "Sohni Dharti Remittance Programme (SDRP)", "Pasban Remittance Reward Scheme (PRRS)"],
+          rows: [
+            ["Reward Model", "Loyalty points redeemable for bill payments & services", "Direct cash prize payouts deposited into bank accounts"],
+            ["Maximum Reward", "Capped point percentage based on transfer volume", "Bumper cash prizes up to PKR 100 Million"],
+            ["Participation", "Required downloading app and registering transactions", "100% automatic via bank account transactions"],
+            ["Funding Source", "Government budget / SBP subsidy", "Funded entirely by commercial banks (PBA)"],
+            ["Minimum Criteria", "Any remittance amount earned points", "Minimum USD 100 per month for 3 consecutive months"],
+            ["Point Transfer Policy", "Discontinued; points expire per SBP phase-out rules", "No SDRP points carry over to PRRS"]
+          ]
+        }
+      },
+      {
+        title: "How to Check Your Pasban Scheme Winner Status Safely",
+        paragraphs: [
+          "Beneficiaries can verify draw results and check winner lists through central official portals maintained by 1LINK and the Pakistan Banks Association. Winning account holders are also notified directly by their respective commercial banks via official SMS and bank communications.",
+          "To verify your status safely and protect yourself from fraud, follow these official verification protocols: (1) Visit official portals exclusively at www.1link.net.pk/pasban or www.pakistanbanks.org/pasban; (2) Inquire through your bank's official helpline or visit a local branch; (3) Beware of scams: Participation in PRRS is completely free. Neither PBA, SBP, 1LINK, nor any bank will ever call, SMS, or WhatsApp asking for processing fees, tax payments, OTPs, or bank account PINs to claim a prize."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the Pasban Remittance Reward Scheme (PRRS)?",
+        answer: "The Pasban Remittance Reward Scheme (PRRS) is an industry-wide cash reward initiative launched on October 1, 2026, by the Pakistan Banks Association under State Bank of Pakistan patronage, distributing PKR 16 billion annually to foreign remittance beneficiaries."
+      },
+      {
+        question: "Do I need to register or pay any fee to participate in the Pasban Scheme?",
+        answer: "No, participation in the Pasban Remittance Reward Scheme is 100% free and automatic for all beneficiaries who receive eligible home remittances into a personal bank account or mobile wallet."
+      },
+      {
+        question: "What is the minimum remittance amount required to qualify?",
+        answer: "Beneficiaries must receive a minimum of USD 100 (or foreign currency equivalent) in each of the three consecutive calendar months of a quarter to qualify for that quarter's prize draw."
+      },
+      {
+        question: "Are Cash-Over-The-Counter (OTC) remittances eligible for the draw?",
+        answer: "No, cash-over-the-counter transactions do not qualify. Remittances must be credited directly into a personal bank account or registered mobile wallet in Pakistan."
+      },
+      {
+        question: "Why are Roshan Digital Accounts (RDA) excluded from PRRS?",
+        answer: "Roshan Digital Accounts are excluded because RDA holders already receive dedicated foreign exchange incentives, tax exemptions, and specialized investment products under separate SBP frameworks."
+      },
+      {
+        question: "When will the first Pasban Remittance Scheme draw take place?",
+        answer: "The first quarterly draw will be conducted on January 15, 2027, covering eligible remittances received between October 1, 2026, and December 31, 2026."
+      },
+      {
+        question: "What happens to my old Sohni Dharti Remittance Programme (SDRP) points?",
+        answer: "The Sohni Dharti Remittance Programme was officially discontinued on September 30, 2026. Past SDRP points or loyalty card tiers do not transfer to the Pasban Remittance Reward Scheme."
+      },
+      {
+        question: "How many total winners will receive cash prizes every quarter?",
+        answer: "Every quarterly draw selects 2,521 winning beneficiaries, including 1 bumper winner of PKR 100 million, 20 winners of PKR 25 million, 100 winners of PKR 10 million, and 2,400 winners of PKR 1 million."
+      },
+      {
+        question: "How will I be notified if I win a Pasban cash prize?",
+        answer: "Winners are notified directly by their participating commercial banks through official communication channels, and official winner lists are published on the 1LINK and PBA portals."
+      },
+      {
+        question: "Can bank employees or their families participate in the Pasban scheme?",
+        answer: "No, staff members, officers, and directors of commercial banks, the Pakistan Banks Association, 1LINK, and the State Bank of Pakistan are ineligible to participate."
+      }
+    ],
+    relatedSlugs: [
+      "provincial-regional-schemes",
+      "bisp-benazir-kafaalat-8171-check",
+      "federal-contributory-pension-scheme",
+      "national-savings-profit-rates"
+    ]
+  },
+
   {
   "slug": "apna-ghar-housing-scheme",
   "relatedSlugs": [
@@ -2089,7 +2519,8 @@ export const articles: Article[] = [
             "href": "https://balochistan.gov.pk"
       }
 ],
-    relatedSlugs: ["cm-punjab-green-credit-program","cm-punjab-e-bikes-scheme-phase-2","wazir-e-azam-apna-ghar-program","national-savings-profit-rates"]
+    relatedSlugs: ["cm-punjab-green-credit-program","cm-punjab-e-bikes-scheme-phase-2","wazir-e-azam-apna-ghar-program","national-savings-profit-rates",
+      "pasban-remittance-reward-scheme"]
   },
 
   {
@@ -2142,6 +2573,9 @@ export const articles: Article[] = [
         title: "What is the Benazir Kafaalat Programme and Who Qualifies in 2026?",
         paragraphs: [
           "The Benazir Kafaalat Programme is the flagship unconditional cash transfer initiative operated under the federal Benazir Income Support Programme (BISP) since 2008. Designed to support financially vulnerable women, the program distributes direct quarterly financial grants to female family heads to lower household poverty."
+        ],
+        links: [
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" }
         ],
         subsections: [
           {
@@ -2311,7 +2745,8 @@ export const articles: Article[] = [
       "pmt-score-above-32-bisp-re-survey-guide",
       "bisp-agent-deduction-complaint-retailer-penalty",
       "bisp-and-ehsaas-difference-guide"
-    ]
+    ,
+      "pasban-remittance-reward-scheme"]
   },
 
   {
@@ -2603,6 +3038,7 @@ export const articles: Article[] = [
           }
         ],
         links: [
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
           { label: "Check CM Punjab E-Bikes Phase 2 updates & balloting", href: "/cm-punjab-e-bikes-scheme-phase-2/" },
           { label: "Learn about CM Punjab Electric Bike Scheme overall terms", href: "/cm-punjab-electric-bike-scheme/" }
         ]
@@ -3275,7 +3711,8 @@ export const articles: Article[] = [
       }
 ],
     relatedSlugs: ["federal-contributory-pension-scheme","wazir-e-azam-apna-ghar-program","cm-punjab-e-bikes-scheme-phase-2",
-      "provincial-regional-schemes"]
+      "provincial-regional-schemes",
+      "pasban-remittance-reward-scheme"]
   },
 
   {
@@ -4163,6 +4600,9 @@ export const articles: Article[] = [
         paragraphs: [
           "Under the latest CM Punjab E-Bike Scheme updates, Phase 2 provides 100,000 electric bikes to college and university students across all 36 Punjab districts. The Punjab Government provides a Rs. 90,000 capital subsidy, waives 100% of the down payment, and sponsors interest-free financing through The Bank of Punjab at Rs. 3,028 monthly over 36 months. Online registration remains open at bikes.punjab.gov.pk until October 4, 2026, followed by computerized electronic balloting.",
           "Under the direct supervision of Chief Minister Maryam Nawaz Sharif, the provincial cabinet restructured the program's financial mechanics to eliminate student entry barriers. Rather than requiring families to arrange upfront cash deposits during inflationary pressures, the provincial treasury absorbs the complete initial capital outlay, registration levies, number plate charges, and mandatory first-year comprehensive Takaful insurance coverage."
+        ],
+        links: [
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" }
         ],
         subsections: [
           {
@@ -5148,6 +5588,7 @@ officialLinks: [
           "By substituting expensive commercial transport with subsidized electric two-wheelers, the program reduces monthly commute expenses while fostering financial independence. Both provincial programs partner with public financial institutions and transport authorities to ensure structured distribution through transparent digital systems."
         ],
         links: [
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
             {
               label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
               href: "/cm-punjab-youth-games-2026-online-registration/"
@@ -25721,7 +26162,8 @@ officialLinks: [
       "bisp-direct-bank-account-transfer-online-registration"
     ,
       "wazir-e-azam-apna-ghar-program",
-      "national-savings-profit-rates"],
+      "national-savings-profit-rates",
+      "pasban-remittance-reward-scheme"],
     title: "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
     excerpt: "Pakistan's Federal Contributory Pension Scheme (FGDC) covers federal employees hired after 1 July 2024. The employee contributes 10% and the government 12% (22% total) into an individually invested fund managed by licensed pension fund managers.",
     showExcerpt: true,
