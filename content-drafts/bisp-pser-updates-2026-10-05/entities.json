@@ -1,0 +1,182 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "BISP 8171", "Ehsaas Programme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Socio-Economic Registry",
+    "type": "Government Database",
+    "aliases": ["PSER", "Punjab Social Economic Registry", "PSER Portal"],
+    "sameAs": "https://pser.punjab.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "Web Portal",
+    "aliases": ["8171 portal", "8171.bisp.gov.pk", "8171 SMS service"],
+    "sameAs": "https://8171.bisp.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Identification Document",
+    "aliases": ["CNIC", "13-digit CNIC number"],
+    "sameAs": "https://en.wikipedia.org/wiki/CNIC_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT Score", "PMT Cutoff", "PMT Threshold"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Dynamic Survey",
+    "type": "Process",
+    "aliases": ["BISP Dynamic Survey", "NSER Dynamic Survey", "NSER Survey"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 13,500 Quarterly Instalment",
+    "type": "Money",
+    "aliases": ["BISP 13500 payment", "Kafaalat stipend 13500"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "Organization",
+    "aliases": ["NADRA", "NADRA Database"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BISP Tehsil Office",
+    "type": "Location",
+    "aliases": ["Tehsil Center", "BISP Registration Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "pser.punjab.gov.pk",
+    "type": "Web Portal",
+    "aliases": ["PSER Punjab Official Portal", "PSER Website"],
+    "sameAs": "https://pser.punjab.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "Organization",
+    "aliases": ["PITB"],
+    "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP Taleemi Wazaif",
+    "type": "Government Program",
+    "aliases": ["Taleemi Wazaif", "Educational Stipends"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "CM Punjab Solar Panel Scheme",
+    "type": "Welfare Scheme",
+    "aliases": ["Punjab Solar Panel Scheme", "Solar Scheme PSER"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Kisan Card",
+    "type": "Welfare Scheme",
+    "aliases": ["CM Kisan Card", "Punjab Farmer Subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Himmat Card",
+    "type": "Welfare Scheme",
+    "aliases": ["Himmat Card PWDs"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Biometric Fingerprint Verification",
+    "type": "Process",
+    "aliases": ["Biometric Verification", "Thumb Impression Check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "HBL E-Connect / Bank Alfalah",
+    "type": "Organization",
+    "aliases": ["HBL Retail POS", "Bank Alfalah BISP Agent"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "e-Khidmat Markaz",
+    "type": "Location",
+    "aliases": ["e-Khidmat Center", "Punjab Khidmat Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]
