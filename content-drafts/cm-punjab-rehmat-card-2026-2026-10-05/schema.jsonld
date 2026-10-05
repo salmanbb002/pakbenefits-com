@@ -1,0 +1,224 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/cm-punjab-rehmat-card-2026/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/cm-punjab-rehmat-card-2026/"
+      },
+      "headline": "CM Punjab Rehmat Card 2026: Online Registration, Eligibility & Status Check",
+      "description": "Learn how to apply online for the CM Punjab Rehmat Card 2026. Step-by-step guide for widows and orphans to check eligibility, track status, and receive Rs. 100,000 aid.",
+      "mainEntityOfPage": "https://example.com/cm-punjab-rehmat-card-2026/",
+      "datePublished": "2026-10-05T08:00:00+05:00",
+      "dateModified": "2026-10-05T08:00:00+05:00",
+      "inLanguage": "en-US",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: https://example.com/author/profile/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "url": "TODO: https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://example.com/assets/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "CM Punjab Rehmat Card",
+          "sameAs": "https://rahmatcard.punjab.gov.pk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Maryam Nawaz Sharif",
+          "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Zakat & Ushr Department, Government of Punjab",
+          "sameAs": "https://zakat.punjab.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "Punjab Socio-Economic Registry",
+          "sameAs": "https://pser.punjab.gov.pk/"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "CM Punjab Rahmat Card Mobile App",
+          "sameAs": "https://play.google.com/store/apps/details?id=pk.pitb.gov.zakat_rehmat_card"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/cm-punjab-rehmat-card-2026/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Punjab Schemes",
+          "item": "https://example.com/punjab-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CM Punjab Rehmat Card 2026",
+          "item": "https://example.com/cm-punjab-rehmat-card-2026/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/cm-punjab-rehmat-card-2026/#howto",
+      "name": "How to Apply Online for the CM Punjab Rehmat Card 2026",
+      "description": "Step-by-step procedure for widows and orphans to register online for the CM Punjab Rehmat Card scheme.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Visit Official Portal",
+          "text": "Navigate to the official CM Punjab Rehmat Card web portal at rahmatcard.punjab.gov.pk or open the official CM Punjab Rahmat Card app."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Create Account or Login",
+          "text": "Enter your 13-digit NADRA CNIC number and registered mobile number to receive a verification OTP."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Complete PSER Data Linkage",
+          "text": "Verify that your household is registered with the Punjab Socio-Economic Registry (PSER). If not, complete the PSER questionnaire."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Upload Required Documents",
+          "text": "Upload clear images of your NADRA CNIC (reflecting widow status), deceased spouse/parents' death certificates, and orphan B-Form."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Submit Application & Save Tracking ID",
+          "text": "Review all details, submit the application form, and record your unique application reference number for tracking."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/cm-punjab-rehmat-card-2026/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the CM Punjab Rehmat Card 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The CM Punjab Rehmat Card 2026 is a specialized social welfare program launched by Chief Minister Maryam Nawaz Sharif through the Zakat & Ushr Department. It provides a financial grant of PKR 100,000 to deserving widows and parentless orphans across Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much financial assistance is provided under the Rehmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eligible beneficiaries receive a grant of PKR 100,000 (Rs. 1 Lakh). Funds are transferred directly to verified digital wallets or biometric bank accounts to ensure transparent delivery."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible to apply for the CM Punjab Rahmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eligible applicants must be permanent residents of Punjab who are deserving widows with CNIC status updated at NADRA or double-parent orphans (lacking both parents) with valid B-Forms. Applicants must also meet Zakat eligibility criteria and cannot be government employees or pensioners."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official website for Rehmat Card online registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official website for online application and status tracking is rahmatcard.punjab.gov.pk. Applicants can also use the official CM Punjab Rahmat Card mobile app developed by PITB."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are government employees or pensioners eligible for the Rehmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, government employees, government pensioners, and individuals categorized as Sahib-e-Nisab (financially self-sufficient) are strictly excluded from receiving Rehmat Card assistance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official helpline number for Rehmat Card queries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official government helpline number for the CM Punjab Rehmat Card is 1077. Applicants can call 1077 for assistance regarding application status, portal issues, and eligibility criteria."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is PSER registration required before applying for the Rehmat Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, household verification via the Punjab Socio-Economic Registry (PSER) database is mandatory. Applicants should ensure their household profile is complete on pser.punjab.gov.pk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for orphan children to apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Orphan applicants require a valid NADRA B-Form, official death certificates for both mother and father, and the guardian's verified CNIC and active mobile number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are Rehmat Card payments disbursed to approved applicants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Approved grant payments of PKR 100,000 are disbursed digitally through registered mobile wallets (such as JazzCash) or biometric verification centers across Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When does Phase 2 registration open for the Rehmat Card in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Phase 2 registration and portal reopening for the CM Punjab Rehmat Card are scheduled for late 2026 following the completion of initial Phase 1 disbursements."
+          }
+        }
+      ]
+    }
+  ]
+}

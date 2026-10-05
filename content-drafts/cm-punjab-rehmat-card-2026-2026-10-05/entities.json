@@ -1,0 +1,182 @@
+[
+  {
+    "canonical": "CM Punjab Rehmat Card",
+    "type": "GovernmentService",
+    "aliases": ["CM Punjab Rahmat Card", "Rehmat Card 2026", "Zakat Bewa Card", "Punjab Rehmat Card"],
+    "sameAs": "https://rahmatcard.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Maryam Nawaz", "CM Maryam Nawaz", "Chief Minister Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Government of Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Government", "Govt of Punjab"],
+    "sameAs": "https://punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Zakat & Ushr Department",
+    "type": "GovernmentOrganization",
+    "aliases": ["Zakat Department Punjab", "Department of Zakat and Ushr"],
+    "sameAs": "https://zakat.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Widows (Bewa)",
+    "type": "Concept",
+    "aliases": ["Widows", "Bewa", "Eligible Widows"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Parentless Orphans (Yateem)",
+    "type": "Concept",
+    "aliases": ["Parentless Orphans", "Orphan Children", "Yateem Children"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PKR 100,000 Financial Grant",
+    "type": "Money",
+    "aliases": ["Rs 100000", "Rs. 100,000 grant", "1 Lakh rupees aid"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Socio-Economic Registry (PSER)",
+    "type": "GovernmentService",
+    "aliases": ["PSER", "PSER Registry", "PSER Punjab"],
+    "sameAs": "https://pser.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "NADRA CNIC & Verification",
+    "type": "GovernmentOrganization",
+    "aliases": ["NADRA", "CNIC Verification", "Identity Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "rahmatcard.punjab.gov.pk",
+    "type": "WebSite",
+    "aliases": ["Official Rehmat Card Portal", "Rahmat Card Website"],
+    "sameAs": "https://rahmatcard.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Information Technology Board (PITB)",
+    "type": "GovernmentOrganization",
+    "aliases": ["PITB", "Punjab IT Board"],
+    "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "CM Punjab Rahmat Card Mobile App",
+    "type": "SoftwareApplication",
+    "aliases": ["Rehmat Card App", "Rahmat Card Android App"],
+    "sameAs": "https://play.google.com/store/apps/details?id=pk.pitb.gov.zakat_rehmat_card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Helpline 1077",
+    "type": "ContactPoint",
+    "aliases": ["1077", "Rehmat Card Helpline", "Call 1077"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "NADRA B-Form",
+    "type": "Document",
+    "aliases": ["B-Form", "Child Registration Certificate", "CRC"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Official Death Certificate",
+    "type": "Document",
+    "aliases": ["Death Certificate", "Parent Death Certificate", "Husband Death Certificate"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Sahib-e-Nisab Exclusion Rule",
+    "type": "Concept",
+    "aliases": ["Sahib-e-Nisab", "Financially Self-Sufficient", "Ineligibility Rule"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "JazzCash / Digital Wallet Disbursement",
+    "type": "Service",
+    "aliases": ["JazzCash", "Digital Wallet", "Mobile Account Transfer"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Phase 2 Registration 2026",
+    "type": "Event",
+    "aliases": ["Phase 2", "Second Phase Registration", "Reopening September 2026"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]
