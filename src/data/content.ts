@@ -1532,11 +1532,7 @@ export const articles: Article[] = [
     readTime: "7 min read",
     image: "/images/housing-and-remittance-initiatives.jpg",
     imageAlt: "Housing and Social Cards Punjab 2026 Guide",
-    author: {
-      name: "Muhammad Salman",
-      role: "SEO Content Specialist & Policy Analyst",
-      avatar: "/images/authors/salman.jpg"
-    },
+    author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab Socio-Economic Registry (PSER) Official Portal", href: "https://pser.punjab.gov.pk/" },
       { label: "Apni Chhat Apna Ghar (ACAG) Housing Loan Portal", href: "https://acag.punjab.gov.pk/" },
