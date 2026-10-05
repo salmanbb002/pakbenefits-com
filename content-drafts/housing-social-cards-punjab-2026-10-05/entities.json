@@ -1,0 +1,172 @@
+[
+  {
+    "canonical": "Government of Punjab",
+    "type": "GovernmentOrganization",
+    "aliases": ["Punjab Govt", "Government of the Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Government_of_Punjab,_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Maryam Nawaz Sharif",
+    "type": "Person",
+    "aliases": ["Maryam Nawaz", "CM Punjab"],
+    "sameAs": "https://en.wikipedia.org/wiki/Maryam_Nawaz",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Apni Chhat Apna Ghar",
+    "type": "GovernmentService",
+    "aliases": ["ACAG", "Apni Chhat Mehfooz Chhat", "CM Punjab Housing Scheme"],
+    "sameAs": "https://acag.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Himmat Card",
+    "type": "FinancialProduct",
+    "aliases": ["CM Himmat Card", "Punjab Disability Card"],
+    "sameAs": "https://dpmis.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Socio-Economic Registry",
+    "type": "DataCatalog",
+    "aliases": ["PSER", "PSER Database", "PSER Portal"],
+    "sameAs": "https://pser.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Kisan Card",
+    "type": "FinancialProduct",
+    "aliases": ["Kissan Card", "CM Kissan Card"],
+    "sameAs": "https://agri.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PESSI Mazdoor Card",
+    "type": "FinancialProduct",
+    "aliases": ["Mazdoor Card", "Labor Social Security Card"],
+    "sameAs": "https://pessi.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bank of Punjab",
+    "type": "FinancialInstitution",
+    "aliases": ["BOP", "Bank of Punjab ATM"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_of_Punjab",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Proxy Means Test",
+    "type": "Metric",
+    "aliases": ["PMT Score", "PMT Cutoff"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "13-Digit CNIC",
+    "type": "Identifier",
+    "aliases": ["CNIC Number", "National Identity Card"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Punjab Social Protection Authority",
+    "type": "GovernmentOrganization",
+    "aliases": ["PSPA", "PSPA Punjab"],
+    "sameAs": "https://pspa.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Dhee Rani Program",
+    "type": "GovernmentService",
+    "aliases": ["CM Dhee Rani Scheme", "Punjab Collective Marriage Scheme"],
+    "sameAs": "https://cmp.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Honahar Scholarship Card",
+    "type": "GovernmentService",
+    "aliases": ["Honahar Scholarship Scheme"],
+    "sameAs": "https://honaharscholarship.punjab.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Nigehban Ramzan Package",
+    "type": "GovernmentService",
+    "aliases": ["CM Rashan Card", "Nigehban Card"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "8070 SMS Service",
+    "type": "Service",
+    "aliases": ["8070 Code", "8070 SMS Check"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "0800-09100 Helpline",
+    "type": "ContactPoint",
+    "aliases": ["ACAG Housing Helpline"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Federal BISP 8171",
+    "type": "GovernmentService",
+    "aliases": ["8171 Portal", "Benazir Income Support Programme"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]
