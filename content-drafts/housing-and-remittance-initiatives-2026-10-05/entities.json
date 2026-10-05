@@ -1,0 +1,182 @@
+[
+  {
+    "canonical": "Housing & Remittance Initiatives",
+    "type": "Concept",
+    "aliases": ["Housing and Remittance Initiatives", "Remittance-Backed Housing Schemes"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "CentralBank",
+    "aliases": ["SBP"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Roshan Digital Account",
+    "type": "FinancialProduct",
+    "aliases": ["RDA"],
+    "sameAs": "https://www.sbp.org.pk/RDA/index.html",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Roshan Apna Ghar",
+    "type": "FinancialProduct",
+    "aliases": ["Roshan Apna Ghar Housing Scheme"],
+    "sameAs": "https://www.sbp.org.pk/RDA/ApnaGhar.html",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pakistan Remittance Initiative",
+    "type": "GovernmentOrganization",
+    "aliases": ["PRI"],
+    "sameAs": "https://www.sbp.org.pk/pri/index.asp",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Non-Resident Pakistanis",
+    "type": "Cohort",
+    "aliases": ["NRPs", "Overseas Pakistanis", "POC Holders"],
+    "sameAs": "https://en.wikipedia.org/wiki/Overseas_Pakistanis",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Home Remittances",
+    "type": "Concept",
+    "aliases": ["Migrant Remittances", "Foreign Remittances"],
+    "sameAs": "https://en.wikipedia.org/wiki/Remittance",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Lien-Based Financing",
+    "type": "FinancialMechanism",
+    "aliases": ["Lien Housing Finance"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Non-Lien Based Financing",
+    "type": "FinancialMechanism",
+    "aliases": ["Non-Lien Housing Finance"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Financing Facility for Remittances",
+    "type": "Organization",
+    "aliases": ["FFR", "IFAD FFR"],
+    "sameAs": "https://en.wikipedia.org/wiki/International_Fund_for_Agricultural_Development",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Sohni Dharti Remittance Program",
+    "type": "LoyaltyProgram",
+    "aliases": ["SDRP"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Pasban Remittance Reward Scheme",
+    "type": "LoyaltyProgram",
+    "aliases": ["Pasban Scheme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Mera Pakistan Mera Ghar",
+    "type": "GovernmentProgram",
+    "aliases": ["MPMG"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Repatriability of Funds",
+    "type": "Concept",
+    "aliases": ["Capital Repatriation"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Special Power of Attorney",
+    "type": "LegalDocument",
+    "aliases": ["SPA"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Shariah-Compliant Housing Finance",
+    "type": "FinancialProduct",
+    "aliases": ["Islamic Home Financing"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Naya Pakistan Certificates",
+    "type": "FinancialInstrument",
+    "aliases": ["NPCs"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Formal Banking Channels",
+    "type": "Concept",
+    "aliases": ["Banking System"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

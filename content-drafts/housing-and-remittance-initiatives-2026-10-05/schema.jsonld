@@ -1,0 +1,192 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/housing-and-remittance-initiatives#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/housing-and-remittance-initiatives"
+      },
+      "headline": "Housing & Remittance Initiatives: How Remittance-Backed Financing Empowers Diaspora Homeownership",
+      "description": "Comprehensive guide to Housing & Remittance Initiatives, including SBP's Roshan Apna Ghar, Lien vs Non-Lien financing, PRI incentives, and IFAD global models.",
+      "inLanguage": "en-US",
+      "mainEntityOfPage": "https://example.com/housing-and-remittance-initiatives",
+      "datePublished": "2026-10-05T08:00:00+05:00",
+      "dateModified": "2026-10-05T08:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Insert Author Name",
+        "url": "TODO: Insert Author Profile URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Insert Organization Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Insert Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "FinancialProduct",
+          "name": "Roshan Apna Ghar",
+          "sameAs": "https://www.sbp.org.pk/RDA/ApnaGhar.html"
+        },
+        {
+          "@type": "CentralBank",
+          "name": "State Bank of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "FinancialProduct",
+          "name": "Roshan Digital Account",
+          "sameAs": "https://www.sbp.org.pk/RDA/index.html"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Pakistan Remittance Initiative",
+          "sameAs": "https://www.sbp.org.pk/pri/index.asp"
+        },
+        {
+          "@type": "Organization",
+          "name": "Financing Facility for Remittances",
+          "sameAs": "https://en.wikipedia.org/wiki/International_Fund_for_Agricultural_Development"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "h1",
+          ".direct-answer-block"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/housing-and-remittance-initiatives#howto",
+      "name": "How to Apply for a Remittance-Backed Housing Scheme",
+      "description": "Step-by-step digital process for non-residents applying for remittance-backed housing financing.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open a Roshan Digital Account (RDA)",
+          "text": "Complete remote identity verification with a participating bank using passport, NICOP/POC, and foreign income proof."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Select Financing Mode",
+          "text": "Choose between Lien-Based Financing (up to 99% financing cap) or Non-Lien Based Financing (up to 85% cap)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Submit Documentation",
+          "text": "Upload property documents, seller details, job contracts, and bank statements."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Valuation and Legal Search",
+          "text": "The bank completes physical property valuation and legal title verification."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Loan Approval and Disbursement",
+          "text": "Upon approval, funds are directly transferred to the property seller or builder."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/housing-and-remittance-initiatives#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the primary objective of Housing & Remittance Initiatives?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Housing & Remittance Initiatives are structured government and central bank programs designed to encourage overseas workers to transfer funds through formal banking channels by offering specialized housing finance, mortgage discounts, and property investment frameworks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Non-Resident Pakistanis apply for home financing without visiting Pakistan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Non-Resident Pakistanis can complete the entire application, approval, and disbursement process remotely through the Roshan Digital Account portal without needing to physically travel to Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What maximum percentage of property value can be financed under Lien-Based options?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lien-Based financing allows applicants to borrow up to 99% of the property value for purchase or construction when secured against RDA deposits or Naya Pakistan Certificates."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum financing limit for Non-Lien housing finance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non-Lien housing finance provides up to 85% of the property's valuation for home purchase or construction, and up to 30% for home renovation projects."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the tenure range for Roshan Apna Ghar loans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Roshan Apna Ghar home financing offers flexible repayment tenures ranging from 3 to 25 years in both conventional and Shariah-compliant banking structures."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are funds invested in Pakistani real estate through RDA repatriable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all principal capital, rental yield, and net sale proceeds from property purchased through RDA home remittances are 100% freely repatriable to the buyer's overseas account."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the role of Special Power of Attorney (SPA) in Non-Lien financing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Special Power of Attorney allows a non-resident applicant to designate a legal proxy in Pakistan to sign mortgage documents and register property deeds on their behalf."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the Sohni Dharti Remittance Program reward housing remitters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Sohni Dharti program awards loyalty points for every formal remittance transaction, which users can redeem to pay for property transfer taxes, legal fees, and government agency charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can joint applicants apply for remittance-backed housing loans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, non-resident primary applicants can apply jointly with immediate family members, including spouses, parents, or adult children residing in Pakistan or abroad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What global agencies support remittance-to-housing conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "International organizations such as the International Fund for Agricultural Development (IFAD), the World Bank, and the African Development Bank support remittance-backed housing microfinance and diaspora mortgage facilities worldwide."
+          }
+        }
+      ]
+    }
+  ]
+}
