@@ -1,0 +1,212 @@
+[
+  {
+    "canonical": "Pasban Remittance Reward Scheme",
+    "type": "RewardProgram",
+    "aliases": ["PRRS", "Pasban Remittance Scheme", "Pasban Rewards Scheme"],
+    "sameAs": "https://1link.net.pk/pasbanrewards",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pakistan Banks Association",
+    "type": "Organization",
+    "aliases": ["PBA"],
+    "sameAs": "https://en.wikipedia.org/wiki/Pakistan_Banks%27_Association",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "CentralBank",
+    "aliases": ["SBP"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "1LINK (Pvt) Limited",
+    "type": "FinancialTechnologyCompany",
+    "aliases": ["1LINK"],
+    "sameAs": "https://en.wikipedia.org/wiki/1LINK",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs. 16 Billion Prize Pool",
+    "type": "Money",
+    "aliases": ["16B PKR annual rewards", "Rs 16 Billion annual prizes"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Home Remittance",
+    "type": "FinancialService",
+    "aliases": ["Inward Remittance", "Formal Banking Channels"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Quarterly Lucky Draw",
+    "type": "Event",
+    "aliases": ["Quarterly Draw", "PRRS Draw"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "USD 100 Monthly Minimum",
+    "type": "Money",
+    "aliases": ["$100 monthly remittance threshold", "100 USD per month"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Digital Draw Tokens",
+    "type": "TechnicalConcept",
+    "aliases": ["Automated Tokens", "PRRS Tokens"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Personal Bank Account / Wallet",
+    "type": "FinancialConcept",
+    "aliases": ["Eligible Account", "Personal Account", "Mobile Wallet"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "January 15, 2027 Draw Date",
+    "type": "Date",
+    "aliases": ["1st Lucky Draw Date", "Jan 15 2027"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Sohni Dharti Remittance Programme",
+    "type": "RewardProgram",
+    "aliases": ["Sohni Dharti", "Sohni Dharti App"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "1st Prize (Rs 100 Million)",
+    "type": "Money",
+    "aliases": ["Top Cash Prize", "Rs 100 Crore"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "2nd Prize (Rs 25 Million)",
+    "type": "Money",
+    "aliases": ["Runner-up Prize"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "3rd Prize (Rs 10 Million)",
+    "type": "Money",
+    "aliases": ["Category 3 Prize"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "4th Prize (Rs 1 Million)",
+    "type": "Money",
+    "aliases": ["Category 4 Prize"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Automatic Entry",
+    "type": "Process",
+    "aliases": ["No Registration Required", "Free Entry"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Excluded Transactions (RDA & Cash Over-The-Counter)",
+    "type": "Concept",
+    "aliases": ["Ineligible Inflows", "RDA Exclusion"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Scam Protection & Official Contact",
+    "type": "SecurityConcept",
+    "aliases": ["Anti-scam Rules", "Prize Verification"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Joint Accounts",
+    "type": "AccountType",
+    "aliases": ["Dual Ownership Accounts"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Opt-Out Rights",
+    "type": "LegalRight",
+    "aliases": ["Opt-Out Process"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

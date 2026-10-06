@@ -1,0 +1,207 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/pasban-remittance-reward-scheme#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/pasban-remittance-reward-scheme"
+      },
+      "headline": "Pasban Remittance Reward Scheme (PRRS): Complete Guide to Eligibility, Prizes, and Lucky Draw Dates",
+      "description": "Learn all about the Pasban Remittance Reward Scheme (PRRS). Discover eligibility criteria, Rs. 16B prize breakdown, Jan 15 draw date, and how to win.",
+      "mainEntityOfPage": "https://example.com/pasban-remittance-reward-scheme",
+      "datePublished": "2026-10-01T00:00:00+05:00",
+      "dateModified": "2026-10-06T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Financial & SEO Content Specialist",
+        "sameAs": "https://example.com/authors/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Financial Insights Portal",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "FinancialProduct",
+          "name": "Pasban Remittance Reward Scheme",
+          "sameAs": "https://1link.net.pk/pasbanrewards"
+        },
+        {
+          "@type": "Organization",
+          "name": "Pakistan Banks Association",
+          "sameAs": "https://en.wikipedia.org/wiki/Pakistan_Banks%27_Association"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "CentralBank",
+          "name": "State Bank of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        },
+        {
+          "@type": "FinancialTechnologyCompany",
+          "name": "1LINK (Pvt) Limited",
+          "sameAs": "https://en.wikipedia.org/wiki/1LINK"
+        },
+        {
+          "@type": "RewardProgram",
+          "name": "Sohni Dharti Remittance Programme"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/pasban-remittance-reward-scheme#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Finance & Remittances",
+          "item": "https://example.com/finance"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pasban Remittance Reward Scheme",
+          "item": "https://example.com/pasban-remittance-reward-scheme"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/pasban-remittance-reward-scheme#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I register for the Pasban Remittance Reward Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You do not need to register. Participation is entirely automatic and free for anyone who receives qualifying home remittances through participating banks and mobile wallets in Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minimum remittance amount required to enter the lucky draw?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You must receive a minimum of USD 100 (or equivalent foreign currency) in each of the three months within a quarterly qualifying period."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the first lucky draw of the Pasban Remittance Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The first quarterly lucky draw will take place on January 15, 2027, covering remittances received between October 1, 2026, and December 31, 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many total winners will be selected in each quarterly draw?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Each quarterly draw selects 2,521 winners across four prize categories, distributing Rs 4 billion in total quarterly rewards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Roshan Digital Account (RDA) remittances eligible for Pasban rewards?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Inflows into Roshan Digital Accounts are governed by separate investment incentives and are excluded from the Pasban Remittance Reward Scheme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are cash-over-the-counter (COC) remittances included in PRRS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Cash-over-the-counter transactions without a bank account or digital wallet transfer are ineligible for token generation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any registration fee or tax to claim prize money?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no registration fee or claim fee whatsoever. Prize money is subject to prevailing tax laws of Pakistan, which are handled through official banking settlement without requiring upfront payments from winners."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happened to points accumulated in the Sohni Dharti app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Sohni Dharti Remittance Programme is a separate legacy initiative. Accumulated loyalty points do not carry over to the Pasban Remittance Reward Scheme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How will I know if I win a prize in the Pasban draw?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Winners will be contacted directly by their participating bank and can check official winning lists published on the 1LINK portal (1link.net.pk/pasbanrewards)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I choose to opt out of the Pasban Remittance Reward Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If a beneficiary does not wish to participate in the draw, they can formally request their bank to opt out of the automated token generation list."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/pasban-remittance-reward-scheme#howto",
+      "name": "How to Qualify and Verify Participation in the Pasban Remittance Reward Scheme",
+      "description": "Step-by-step checklist to ensure your home remittance qualifies for the Pasban Remittance Reward Scheme quarterly draw.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open or maintain an eligible account",
+          "text": "Ensure you hold an active personal bank account or mobile wallet with a participating commercial or branchless bank in Pakistan."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Receive qualifying monthly remittance",
+          "text": "Receive a minimum of USD 100 (or equivalent) in foreign home remittance during each month of the three-month qualifying quarter."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Use legal formal banking channels",
+          "text": "Ensure your overseas sender transfers funds via regulated banking channels, SWIFT, or licensed exchange houses (avoid cash-over-the-counter)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Verify automatic token entry",
+          "text": "Confirm that your transaction is automatically logged by 1LINK for token generation without filling forms or paying entry fees."
+        }
+      ]
+    }
+  ]
+}
