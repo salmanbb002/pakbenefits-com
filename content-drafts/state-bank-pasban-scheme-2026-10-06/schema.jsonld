@@ -1,0 +1,221 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "TODO:https://example.com/state-bank-pasban-scheme#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "TODO:https://example.com/state-bank-pasban-scheme"
+      },
+      "headline": "State Bank Pasban Scheme: Complete Guide to Eligibility, Prizes & Draw Dates",
+      "description": "Learn how the SBP Pasban Remittance Reward Scheme distributes PKR 16 billion in cash prizes. Discover eligibility rules, prize tiers, token formulas, and draw dates.",
+      "mainEntityOfPage": "TODO:https://example.com/state-bank-pasban-scheme",
+      "datePublished": "2026-10-06T00:00:00+05:00",
+      "dateModified": "2026-10-06T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO:https://example.com/author/profile"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Site / Brand Name",
+        "url": "TODO:https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO:https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "CentralBank",
+          "name": "State Bank of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        },
+        {
+          "@type": "FinancialScheme",
+          "name": "Pasban Remittance Reward Scheme"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "Pakistan Banks' Association",
+          "sameAs": "https://en.wikipedia.org/wiki/Pakistan_Banks%27_Association"
+        },
+        {
+          "@type": "Organization",
+          "name": "1LINK (Pvt) Limited",
+          "sameAs": "https://en.wikipedia.org/wiki/1LINK"
+        },
+        {
+          "@type": "Person",
+          "name": "Jameel Ahmad"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block", "h1"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "TODO:https://example.com/state-bank-pasban-scheme#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Pasban Remittance Reward Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Pasban Remittance Reward Scheme is a market-based incentive program created by the Pakistan Banks’ Association under State Bank of Pakistan patronage. It rewards remittance recipients in Pakistan with PKR 16 billion in annual cash prizes for receiving money through formal banking channels."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who qualifies for the quarterly Pasban lucky draws?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any individual beneficiary in Pakistan who receives home remittances equivalent to at least USD 100 in each of three consecutive months of a quarter into a personal bank account or mobile wallet qualifies automatically."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to fill out a registration form or pay a fee to enter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No registration form, ticket purchase, or fee payment is required to join the Pasban scheme. Qualification is 100% free and handled automatically by participating banks through 1LINK transaction tracking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the top prize amount in the State Bank Pasban Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The top grand prize is PKR 100 million (Rs. 10 Crore), awarded to one winning beneficiary during each quarterly draw."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many digital tokens does a remittance earn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Transfers from $100 to $149 earn 1 token; $150 to $249 earn 2 tokens; $250 to $349 earn 3 tokens, with +1 token for every additional $100."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Cash-Over-Counter (COC) cash pickups eligible for the draw?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cash-Over-Counter cash pickups are not eligible for the Pasban draw. Remittances must be credited directly into a personal bank account or mobile wallet to qualify."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Roshan Digital Accounts (RDA) included in the Pasban Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Roshan Digital Accounts are excluded from the Pasban Remittance Reward Scheme because RDA customers already access separate government investment incentives and tax benefits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Pasban Scheme connected to the 8171 BISP portal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Pasban Scheme has no connection to the 8171 BISP SMS service. Any message asking for money or requesting an 8171 SMS payment for Pasban entry is a fraudulent scam."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When will the first Pasban Scheme draw take place?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The first official Pasban quarterly draw will take place on January 15, 2027, covering qualifying remittances received between October 1 and December 31, 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How will winners receive their Pasban cash prizes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Winning cash prizes will be credited directly into the verified bank accounts or mobile wallets of the winning beneficiaries after computerized draw validation and tax deduction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if a winning beneficiary has passed away?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If a winning customer dies before prize payment, the prize money is credited to legal heirs under standard bank inheritance protocols upon presenting a valid succession certificate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the Sohni Dharti scheme still work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. SBP confirmed that the Sohni Dharti Remittance Programme has ended and its points do not carry over to the Pasban scheme."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "TODO:https://example.com/state-bank-pasban-scheme#howto",
+      "name": "How to Qualify for the State Bank Pasban Remittance Reward Scheme",
+      "description": "Step-by-step guide to qualifying for automatic entries in the SBP Pasban PKR 16 billion quarterly cash draw.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Open an Account at One of the 22 Participating Banks",
+          "text": "Ensure you have an active personal bank account or mobile wallet at a participating commercial bank in Pakistan."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Receive USD 100+ Home Remittances Monthly",
+          "text": "Have an overseas sender transfer home remittances equivalent to at least USD 100 into your account every month."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Maintain Transfers for 3 Consecutive Months",
+          "text": "Receive the qualifying USD 100+ remittance in all three consecutive months of the qualifying quarter (e.g., Oct, Nov, Dec)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Automatic Digital Token Generation via 1LINK",
+          "text": "Your account automatically receives digital entry tokens tracked via 1LINK with no manual forms or registration fees."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "TODO:https://example.com/state-bank-pasban-scheme#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "TODO:https://example.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Banking & Remittances",
+          "item": "TODO:https://example.com/banking"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "State Bank Pasban Scheme",
+          "item": "TODO:https://example.com/state-bank-pasban-scheme"
+        }
+      ]
+    }
+  ]
+}

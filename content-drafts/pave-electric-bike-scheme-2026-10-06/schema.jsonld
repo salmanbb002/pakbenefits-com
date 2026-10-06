@@ -1,0 +1,207 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/pave-electric-bike-scheme/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/pave-electric-bike-scheme/"
+      },
+      "headline": "PAVE Electric Bike Scheme 2026: Complete Online Application & Subsidy Guide",
+      "description": "Learn how to apply for the federal PAVE Electric Bike Scheme at pave.gov.pk. Check eligibility, Rs 80,000 subsidy details, required documents, and bank leasing.",
+      "mainEntityOfPage": "https://pakbenefits.com/pave-electric-bike-scheme/",
+      "datePublished": "2026-10-06T12:00:00+05:00",
+      "dateModified": "2026-10-06T12:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://pakbenefits.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Pak Benefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentProgram",
+          "name": "Pakistan Accelerated Vehicle Electrification (PAVE) Scheme",
+          "sameAs": "https://www.pave.gov.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Industries and Production",
+          "sameAs": "https://www.moip.gov.pk"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Product",
+          "name": "Electric Bike",
+          "sameAs": "https://en.wikipedia.org/wiki/Electric_bicycle"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database Registration Authority (NADRA)",
+          "sameAs": "https://www.nadra.gov.pk"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Punjab E-Bike Scheme",
+          "sameAs": "https://bikes.punjab.gov.pk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-box", ".faq-answer"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/pave-electric-bike-scheme/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Schemes",
+          "item": "https://pakbenefits.com/schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PAVE Electric Bike Scheme",
+          "item": "https://pakbenefits.com/pave-electric-bike-scheme/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/pave-electric-bike-scheme/#howto",
+      "name": "How to Apply Online for PAVE Electric Bike Scheme",
+      "description": "Step-by-step guide to register on pave.gov.pk and receive government subsidy for electric bikes.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Account Registration on pave.gov.pk",
+          "text": "Visit pave.gov.pk and sign up using your CNIC, mobile number, and active email address."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Vehicle Category & Payment Plan Selection",
+          "text": "Select your preferred E-Bike model and choose between Self-Finance or Bank Lease financing."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Upload Required Documents",
+          "text": "Attach your CNIC copies, recent photo, proof of residence, and driving license (if applicable)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Verification & Delivery",
+          "text": "Submit application for NADRA verification, issue the required pay order, and collect the electric bike."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/pave-electric-bike-scheme/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the PAVE Electric Bike Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The PAVE (Pakistan Accelerated Vehicle Electrification) Scheme is a federal government initiative offering cash subsidies up to Rs. 80,000 to promote electric bike adoption across Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official website for PAVE Electric Bike Scheme registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official registration portal for the federal PAVE scheme is www.pave.gov.pk. Applicants should only register through this government website."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much subsidy is provided under the PAVE E-Bike Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The government provides a fixed cash subsidy ranging between Rs. 50,000 and Rs. 80,000 per electric bike depending on the vehicle specifications and approved category."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible to apply for the PAVE E-Bike scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pakistani citizens aged 18 years and above with a valid CNIC and clean credit history are eligible. Applicants must not have previously received a government EV vehicle subsidy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get an electric bike on monthly installments through PAVE?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, qualified applicants can select the Bank Lease financing option to get electric bikes on easy monthly installment plans facilitated by partner commercial banks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a driving license required to apply for PAVE electric bikes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For electric bikes, a valid driving license or learner permit is recommended, while for E-Rickshaws and E-Loaders, a driving license is mandatory."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between PAVE and the Punjab E-Bike Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PAVE is a federal program open nationwide via pave.gov.pk, while the Punjab E-Bike Scheme (bikes.punjab.gov.pk) is specifically targeted at students enrolled in Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check my PAVE application status online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants can log in to their account dashboard on pave.gov.pk using their CNIC and tracking ID to monitor real-time verification and approval updates."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which documents are required for PAVE registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Required documents include a valid CNIC, recent passport-size photos, utility bill or domicile as proof of residence, and driving license or learner permit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are electric rickshaws and loaders included in the PAVE scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, in addition to two-wheeler electric bikes, the PAVE scheme provides higher subsidies up to Rs. 400,000 for three-wheeler electric rickshaws and commercial loaders."
+          }
+        }
+      ]
+    }
+  ]
+}

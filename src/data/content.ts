@@ -6025,6 +6025,10 @@ export const articles: Article[] = [
           }
         ],
         links: [
+            {
+              label: "Federal PAVE Electric Bike Scheme 2026 (Rs 80,000 Subsidy)",
+              href: "/pave-electric-bike-scheme-2026/"
+            },
           { label: "How to compare electric bike scheme notices", href: "/electric-bike-scheme-guide/" },
           { label: "Explore all Punjab welfare schemes", href: "/punjab-schemes/" }
         ]
@@ -6342,6 +6346,10 @@ export const articles: Article[] = [
           }
         ],
         links: [
+            {
+              label: "Federal PAVE Electric Bike Scheme 2026 (Rs 80,000 Subsidy)",
+              href: "/pave-electric-bike-scheme-2026/"
+            },
           { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
           {
             label: "CM Punjab Youth Games 2026 Registration & Sports Guide",
@@ -7310,6 +7318,10 @@ officialLinks: [
           "By substituting expensive commercial transport with subsidized electric two-wheelers, the program reduces monthly commute expenses while fostering financial independence. Both provincial programs partner with public financial institutions and transport authorities to ensure structured distribution through transparent digital systems."
         ],
         links: [
+            {
+              label: "Federal PAVE Electric Bike Scheme 2026 (Rs 80,000 Subsidy)",
+              href: "/pave-electric-bike-scheme-2026/"
+            },
           { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
             {
               label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",

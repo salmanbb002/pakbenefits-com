@@ -1,0 +1,132 @@
+[
+  {
+    "canonical": "Pakistan Accelerated Vehicle Electrification (PAVE) Scheme",
+    "type": "Government Program",
+    "aliases": ["PAVE", "PAVE Scheme", "PAVE Electric Bike Scheme"],
+    "sameAs": "https://www.pave.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Ministry of Industries and Production",
+    "type": "Organization",
+    "aliases": ["MoIP", "Ministry of Industries"],
+    "sameAs": "https://www.moip.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "pave.gov.pk",
+    "type": "Website",
+    "aliases": ["PAVE Official Portal", "PAVE Website"],
+    "sameAs": "https://www.pave.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Electric Bike",
+    "type": "Product",
+    "aliases": ["E-Bike", "Electric Motorcycle", "EV Two-Wheeler"],
+    "sameAs": "https://en.wikipedia.org/wiki/Electric_bicycle",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Rs. 80,000 Subsidy",
+    "type": "Financial Metric",
+    "aliases": ["80k Subsidy", "EV Subsidy", "Electric Bike Subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Computerized National Identity Card (CNIC)",
+    "type": "Document",
+    "aliases": ["CNIC", "National Identity Card"],
+    "sameAs": "https://www.nadra.gov.pk",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "National Database Registration Authority (NADRA)",
+    "type": "Organization",
+    "aliases": ["NADRA"],
+    "sameAs": "https://www.nadra.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Bank Lease Financing",
+    "type": "Financial Service",
+    "aliases": ["Bank Lease", "Installment Plan", "Easy Installment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Self-Finance Category",
+    "type": "Payment Category",
+    "aliases": ["Self-Finance", "Direct Payment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Punjab E-Bike Scheme",
+    "type": "Government Program",
+    "aliases": ["Punjab E-Bike", "bikes.punjab.gov.pk"],
+    "sameAs": "https://bikes.punjab.gov.pk",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Driving License",
+    "type": "Document",
+    "aliases": ["Motorcycle License", "Learner License"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "E-Rickshaw & E-Loader",
+    "type": "Product",
+    "aliases": ["Electric Rickshaw", "Electric Loader"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Lithium-ion Battery",
+    "type": "Technology",
+    "aliases": ["EV Battery", "Li-ion Battery"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  }
+]

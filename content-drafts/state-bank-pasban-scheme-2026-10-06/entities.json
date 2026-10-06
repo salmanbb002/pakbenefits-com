@@ -1,0 +1,242 @@
+[
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "Organization",
+    "aliases": ["SBP", "Central Bank of Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pasban Remittance Reward Scheme",
+    "type": "Financial Scheme",
+    "aliases": ["PRRS", "SBP Pasban Scheme", "Pasban Scheme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Governor Jameel Ahmad",
+    "type": "Person",
+    "aliases": ["Jameel Ahmed", "SBP Governor"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pakistan Banks' Association",
+    "type": "Organization",
+    "aliases": ["PBA"],
+    "sameAs": "https://en.wikipedia.org/wiki/Pakistan_Banks%27_Association",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "1LINK (Pvt) Limited",
+    "type": "Organization",
+    "aliases": ["1LINK", "1LINK Switch"],
+    "sameAs": "https://en.wikipedia.org/wiki/1LINK",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PKR 16 Billion Annual Pool",
+    "type": "Money",
+    "aliases": ["Rs 16 Billion Prize Pool", "PKR 16 Billion"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PKR 4 Billion Quarterly Pool",
+    "type": "Money",
+    "aliases": ["Rs 4 Billion Per Quarter"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "USD 100 Monthly Threshold",
+    "type": "Money",
+    "aliases": ["$100 Minimum Threshold", "USD 100 Equivalent"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "3 Consecutive Months Rule",
+    "type": "Rule",
+    "aliases": ["Three Consecutive Months", "Quarterly Qualification Rule"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Remittance Beneficiary",
+    "type": "Role",
+    "aliases": ["Receivers in Pakistan", "Remittance Beneficiaries"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "January 15, 2027",
+    "type": "Date",
+    "aliases": ["First Draw Date", "Jan 15 2027"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "2,521 Winners",
+    "type": "Metric",
+    "aliases": ["2521 Winners Per Quarter"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PKR 100 Million First Prize",
+    "type": "Money",
+    "aliases": ["Rs 10 Crore First Prize", "PKR 100 Million Bumper Prize"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PKR 25 Million Second Prize",
+    "type": "Money",
+    "aliases": ["Rs 2.5 Crore Second Prize"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PKR 10 Million Third Prize",
+    "type": "Money",
+    "aliases": ["Rs 1 Crore Third Prize"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "PKR 1 Million Fourth Prize",
+    "type": "Money",
+    "aliases": ["Rs 10 Lakh Fourth Prize"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Bank Account Credit",
+    "type": "Process",
+    "aliases": ["Direct Account Deposit", "Personal Bank Account"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Mobile Wallet",
+    "type": "Product",
+    "aliases": ["Branchless Banking Account", "Easypaisa", "JazzCash"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Hawala / Hundi",
+    "type": "Concept",
+    "aliases": ["Informal Money Channels", "Illegal Remittances"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Automatic Entry Token",
+    "type": "Process",
+    "aliases": ["Digital Token", "System Generated Token"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Cash-Over-Counter Exclusion",
+    "type": "Rule",
+    "aliases": ["COC Exclusion"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Roshan Digital Account Exclusion",
+    "type": "Rule",
+    "aliases": ["RDA Exclusion"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Foreign Exchange Reserves",
+    "type": "Concept",
+    "aliases": ["FX Reserves", "National Reserves"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "8171 SMS Portal Clarification",
+    "type": "Concept",
+    "aliases": ["8171 Scam Warning"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 3
+  }
+]
