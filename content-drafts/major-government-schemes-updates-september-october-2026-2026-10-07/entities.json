@@ -1,0 +1,152 @@
+[
+  {
+    "canonical": "SME Growth Fund",
+    "type": "FinancialProduct",
+    "aliases": ["SGF", "SME Equity Fund", "₹10,000 Crore SME Fund"],
+    "sameAs": "https://www.pmindia.gov.in/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Cabinet Committee on Economic Affairs",
+    "type": "GovernmentOrganization",
+    "aliases": ["Union Cabinet", "Central Cabinet", "CCEA"],
+    "sameAs": "https://en.wikipedia.org/wiki/Cabinet_Committee_on_Economic_Affairs",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ayushman Bharat PM-JAY (70+)",
+    "type": "GovernmentScheme",
+    "aliases": ["Ayushman Bharat 70 Plus", "AB PM-JAY Senior Citizens", "Senior Citizen Health Cover"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ayushman_Bharat_Pradhan_Mantri_Jan_Arogya_Yojana",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "BHAVYA Rasayan Scheme",
+    "type": "IndustrialPolicy",
+    "aliases": ["Bharat Audyogik Vikas Yojana Rasayan", "BHAVYA Chemical Parks Scheme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Department_of_Chemicals_and_Petrochemicals",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PM Surya Ghar: Muft Bijli Yojana",
+    "type": "GovernmentScheme",
+    "aliases": ["PM Surya Ghar", "Rooftop Solar Subsidy Scheme"],
+    "sameAs": "https://en.wikipedia.org/wiki/PM_Surya_Ghar:_Muft_Bijli_Yojana",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PM-Kisan Samman Nidhi",
+    "type": "GovernmentScheme",
+    "aliases": ["PM-KISAN", "PM Kisan Yojana", "PM Kisan 24th Installment"],
+    "sameAs": "https://en.wikipedia.org/wiki/PM-Kisan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "myScheme Portal",
+    "type": "GovernmentService",
+    "aliases": ["myScheme Platform", "National Government Schemes Portal"],
+    "sameAs": "https://www.myscheme.gov.in/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Seva Sankalp Abhiyan",
+    "type": "Event",
+    "aliases": ["Seva Sankalp Campaign", "Seva Setu Camps"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "People’s Plan Campaign 2026-27",
+    "type": "Event",
+    "aliases": ["Sabki Yojana Sabka Vikas", "Gram Sabha Campaign"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Vay Vandana Card",
+    "type": "SoftwareApplication",
+    "aliases": ["Ayushman Senior Citizen Card", "NHA Senior Card"],
+    "sameAs": "https://beneficiary.nha.gov.in",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "e-KYC Verification",
+    "type": "Process",
+    "aliases": ["Aadhaar eKYC", "Bank Seeding"],
+    "sameAs": "https://pmkisan.gov.in",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Chemical Parks Grant",
+    "type": "Money",
+    "aliases": ["₹1,000 Crore Park Grant", "State Co-funding ₹500 Crore"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Tier-II and Tier-III MSMEs",
+    "type": "Concept",
+    "aliases": ["Regional MSME Manufacturing Clusters"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Swachhata Hi Seva 2026",
+    "type": "Event",
+    "aliases": ["SHS 2026", "Cleanliness Campaign"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Alternative Investment Fund (AIF)",
+    "type": "FinancialProduct",
+    "aliases": ["AIF Equity Vehicle"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

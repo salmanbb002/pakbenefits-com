@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/"
+      },
+      "headline": "Major Government Schemes Updates (September/October 2026): Key Policy Changes, New Funds & Beneficiary Guidelines",
+      "description": "Discover major government scheme updates for September/October 2026, including the ₹10,000 Cr SME Growth Fund, Ayushman Bharat 70+ Vay Vandana Card, BHAVYA Rasayan guidelines, PM-Kisan & PM Surya Ghar.",
+      "datePublished": "2026-10-07T12:00:00+05:30",
+      "dateModified": "2026-10-07T12:00:00+05:30",
+      "mainEntityOfPage": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Senior Policy & SEO Content Strategist",
+        "url": "https://www.govtschemesportal.in/authors/muhammad-salman/",
+        "sameAs": [
+          "https://www.linkedin.com/in/muhammad-salman"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Govt Schemes Portal - Policy & Welfare Updates Hub",
+        "url": "https://www.govtschemesportal.in/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.govtschemesportal.in/assets/logo.png"
+        }
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Cabinet Committee on Economic Affairs",
+          "sameAs": "https://en.wikipedia.org/wiki/Cabinet_Committee_on_Economic_Affairs"
+        },
+        {
+          "@type": "GovernmentScheme",
+          "name": "SME Growth Fund",
+          "sameAs": "https://www.pmindia.gov.in/"
+        },
+        {
+          "@type": "GovernmentScheme",
+          "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+          "sameAs": "https://en.wikipedia.org/wiki/Ayushman_Bharat_Pradhan_Mantri_Jan_Arogya_Yojana"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentScheme",
+          "name": "BHAVYA Rasayan Scheme",
+          "sameAs": "https://en.wikipedia.org/wiki/Department_of_Chemicals_and_Petrochemicals"
+        },
+        {
+          "@type": "GovernmentScheme",
+          "name": "PM Surya Ghar: Muft Bijli Yojana",
+          "sameAs": "https://en.wikipedia.org/wiki/PM_Surya_Ghar:_Muft_Bijli_Yojana"
+        },
+        {
+          "@type": "GovernmentScheme",
+          "name": "Pradhan Mantri Kisan Samman Nidhi",
+          "sameAs": "https://en.wikipedia.org/wiki/PM-Kisan"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "myScheme Portal",
+          "sameAs": "https://www.myscheme.gov.in/"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.govtschemesportal.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Government Schemes",
+          "item": "https://www.govtschemesportal.in/government-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "September/October 2026 Updates",
+          "item": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/#howto-vay-vandana",
+      "name": "How to Register for Vay Vandana Card Under Ayushman Bharat 70+",
+      "description": "Step-by-step procedure for senior citizens aged 70 and above to apply for the Vay Vandana Card and claim ₹5 lakh annual health coverage.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Access Portal",
+          "text": "Visit the official National Health Authority portal at beneficiary.nha.gov.in or open the Ayushman App."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Aadhaar e-KYC Verification",
+          "text": "Log in using mobile OTP, select Senior Citizen 70+ registration, and authenticate details using Aadhaar e-KYC."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Download Vay Vandana Card",
+          "text": "Once verification is approved, download the distinct Vay Vandana Card for empanelled hospital admissions."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.govtschemesportal.in/major-government-schemes-updates-september-october-2026/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What major government schemes were approved by the Union Cabinet in October 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "On October 6, 2026, the Union Cabinet approved a ₹10,000 crore commitment for the SME Growth Fund to provide long-term growth equity to small and medium manufacturing enterprises, alongside operational guidelines for the ₹3,030 crore BHAVYA Rasayan chemical parks scheme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is eligible for the Ayushman Bharat 70+ Vay Vandana Card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All Indian citizens aged 70 and above are eligible for the Vay Vandana Card under Ayushman Bharat PM-JAY regardless of income status, receiving an annual family floater health cover of ₹5 lakh."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When will the PM-Kisan 24th installment be released?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The PM-Kisan 24th installment is expected in October 2026 following the standard four-month disbursal cycle. Beneficiaries must complete e-KYC and Aadhaar bank account seeding on pmkisan.gov.in."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum subsidy available under PM Surya Ghar Muft Bijli Yojana in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Under PM Surya Ghar: Muft Bijli Yojana, eligible households receive a maximum central financial subsidy of ₹78,000 for rooftop solar capacity of 3 kW or higher, with ₹30,000 provided for 1 kW and ₹60,000 for 2 kW systems."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the proposal submission deadline for states under the BHAVYA Rasayan scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "State governments must submit project proposals for the establishment of 3 dedicated chemical parks under the BHAVYA Rasayan scheme by November 30, 2026, to qualify for central grants of up to ₹1,000 crore per park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the objective of the Seva Sankalp Abhiyan running in Sept-Oct 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Running from September 17 to October 17, 2026, Seva Sankalp Abhiyan is a nationwide outreach campaign delivering blood donation drives, Viksit Bharat 2047 youth programs, and block-level Seva Setu camps for direct scheme enrolment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the SME Growth Fund deliver equity capital to MSMEs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The SME Growth Fund channels its ₹10,000 crore government commitment through SEBI-registered Alternative Investment Funds (AIFs) to invest patient growth equity into scaling manufacturing SMEs in Tier-II and Tier-III cities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can citizens search for all active central and state welfare schemes in one place?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Citizens can use the national myScheme portal at myscheme.gov.in, which hosts over 5,056 central and state government schemes with automated eligibility checking based on demographic profile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is income limit a criterion for senior citizens joining Ayushman Bharat 70+?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, income limit is not a criterion for Ayushman Bharat 70+; all senior citizens aged 70 and above receive universal health coverage of ₹5 lakh annually."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the theme of the People's Plan Campaign 2026-27 launched in October 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The People's Plan Campaign 2026-27 operates under the theme Sabki Yojana Sabka Vikas, focusing on special Gram Sabhas to create decentralized rural development plans."
+          }
+        }
+      ]
+    }
+  ]
+}
