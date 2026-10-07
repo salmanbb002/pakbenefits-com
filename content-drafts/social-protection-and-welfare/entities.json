@@ -1,0 +1,152 @@
+[
+  {
+    "canonical": "Social Protection",
+    "type": "Concept",
+    "aliases": ["Safety net", "Social security"],
+    "sameAs": "https://en.wikipedia.org/wiki/Social_protection",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Welfare System",
+    "type": "Concept",
+    "aliases": ["Welfare state", "Social well-being"],
+    "sameAs": "https://en.wikipedia.org/wiki/Welfare_state",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Assistance",
+    "type": "Policy Mechanism",
+    "aliases": ["Non-contributory aid", "Tax-funded transfers"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Insurance",
+    "type": "Policy Mechanism",
+    "aliases": ["Contributory schemes", "Social security insurance"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Labor Market Programs",
+    "type": "Policy Mechanism",
+    "aliases": ["Active labor market policies", "ALMP", "Employment services"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "International Labour Organization",
+    "type": "Organization",
+    "aliases": ["ILO"],
+    "sameAs": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "World Bank",
+    "type": "Organization",
+    "aliases": ["World Bank Group", "WBG"],
+    "sameAs": "https://en.wikipedia.org/wiki/World_Bank",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Life-Cycle Risks",
+    "type": "Concept",
+    "aliases": ["Life-course risks", "Socioeconomic shocks"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Protection Floor",
+    "type": "Framework",
+    "aliases": ["SPF", "ILO Recommendation 202"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Adaptive Social Protection",
+    "type": "Framework",
+    "aliases": ["ASP", "Shock-responsive social protection"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Cash Transfers",
+    "type": "Instrument",
+    "aliases": ["CCT", "UCT", "Direct cash transfers"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Human Capital Development",
+    "type": "Concept",
+    "aliases": ["Human capital investment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Targeting Efficiency",
+    "type": "Process",
+    "aliases": ["Means-testing", "Proxy means test", "Social registry"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Public Works Programs",
+    "type": "Instrument",
+    "aliases": ["Workfare", "Cash-for-work"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Universal Basic Income",
+    "type": "Policy Concept",
+    "aliases": ["UBI"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

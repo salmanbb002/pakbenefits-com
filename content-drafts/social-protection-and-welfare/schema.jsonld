@@ -1,0 +1,169 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/blog/social-protection-and-welfare#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/blog/social-protection-and-welfare"
+      },
+      "headline": "Social Protection & Welfare: Complete Guide to Pillars, Policy & Welfare Systems",
+      "description": "Master social protection and welfare systems: key differences, the 3 core pillars, life-cycle risks, real-world examples, and modern adaptive frameworks.",
+      "mainEntityOfPage": "https://example.com/blog/social-protection-and-welfare",
+      "datePublished": "2026-10-07T00:00:00+00:00",
+      "dateModified": "2026-10-07T00:00:00+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Social Policy Specialist & SEO Content Strategist"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Social Protection",
+          "sameAs": "https://en.wikipedia.org/wiki/Social_protection"
+        },
+        {
+          "@type": "Thing",
+          "name": "Welfare State",
+          "sameAs": "https://en.wikipedia.org/wiki/Welfare_state"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "International Labour Organization",
+          "sameAs": "https://en.wikipedia.org/wiki/International_Labour_Organization"
+        },
+        {
+          "@type": "Organization",
+          "name": "World Bank",
+          "sameAs": "https://en.wikipedia.org/wiki/World_Bank"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block", "h1"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/blog/social-protection-and-welfare#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://example.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Social Protection & Welfare",
+          "item": "https://example.com/blog/social-protection-and-welfare"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/blog/social-protection-and-welfare#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the primary difference between social protection and social welfare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Social protection focuses specifically on managing socio-economic risks and preventing poverty through social assistance, social insurance, and labor market programs. Social welfare is a broader system that encompasses all public services—including education, healthcare, and housing—designed to ensure overall societal well-being."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the three core pillars of social protection?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The three core pillars of social protection are non-contributory social assistance (such as cash transfers), contributory social insurance (such as pensions and health insurance), and active labor market programs (such as job placement and skills training)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is an example of a social assistance program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An example of a social assistance program is a non-contributory cash transfer scheme, such as unconditional child grants or targeted food vouchers funded directly from government tax revenues for low-income families."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does social insurance differ from social assistance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Social insurance requires beneficiaries or their employers to make financial contributions during employment to secure coverage against future risks like old age or unemployment. In contrast, social assistance is entirely non-contributory and funded by general state taxation for vulnerable populations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the ILO Social Protection Floor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The ILO Social Protection Floor is a nationally defined set of basic social security guarantees established under ILO Recommendation 202 that ensures all citizens have access to essential healthcare and basic income security across their lifespan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Adaptive Social Protection (ASP)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adaptive Social Protection (ASP) is an advanced policy approach championed by the World Bank that integrates disaster risk management and climate adaptation into standard safety nets, enabling cash transfers to scale up rapidly during environmental or economic shocks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do cash transfers support human capital development?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Targeted cash transfers boost human capital development by providing low-income households with predictable financial support, enabling families to keep children in school, access essential medical care, and improve infant nutrition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are active labor market programs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Active labor market programs are government initiatives—including vocational training, apprenticeship subsidies, and public job creation—designed to help unemployed individuals gain skills and transition into sustainable formal employment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes inclusion and exclusion errors in social protection targeting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inclusion and exclusion errors occur when rigid means-testing criteria misclassify households, causing ineligible non-poor individuals to receive benefits (inclusion error) or leaving genuinely poor households without support (exclusion error)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is sustainable financing a major challenge for social welfare systems?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sustainable financing is a challenge because low- and middle-income countries often possess limited tax revenue bases and face competing budget demands, making it difficult to maintain non-contributory social assistance programs without external aid or debt."
+          }
+        }
+      ]
+    }
+  ]
+}
