@@ -1,0 +1,182 @@
+[
+  {
+    "canonical": "Electric bicycle",
+    "type": "Product",
+    "aliases": ["E-Bike", "Pedelec", "Electric Bike", "Electrically Assisted Bicycle"],
+    "sameAs": "https://en.wikipedia.org/wiki/Electric_bicycle",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Cycle to Work scheme",
+    "type": "Tax Scheme",
+    "aliases": ["Cycle to Work", "Salary Sacrifice Bike Scheme", "E-Bike Tax Scheme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Cycle_to_Work_scheme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Government EV Subsidy Scheme",
+    "type": "Government Incentive",
+    "aliases": ["PAVE Scheme", "PM E-Bike Scheme", "CM Punjab E-Bike Scheme", "EV Subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Salary sacrifice",
+    "type": "Concept",
+    "aliases": ["Pre-tax payroll deduction", "Salary sacrifice agreement"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Electrically Assisted Pedal Cycle",
+    "type": "Law",
+    "aliases": ["EAPC", "EAPC Regulations", "Pedal Assist Standard"],
+    "sameAs": "https://en.wikipedia.org/wiki/Electric_bicycle_laws#United_Kingdom",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Lithium-ion battery",
+    "type": "Component",
+    "aliases": ["E-Bike Battery", "Rechargeable Lithium Pack"],
+    "sameAs": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Active Travel Initiative",
+    "type": "Policy",
+    "aliases": ["Active Travel", "Sustainable Transport Scheme", "Green Mobility Program"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Interest-free bank financing",
+    "type": "Financial Mechanism",
+    "aliases": ["0% Interest Installments", "Markup-free Financing", "Diminishing Musharakah"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Commuter cost savings",
+    "type": "Metric",
+    "aliases": ["Travel Savings", "Fuel Savings", "Financial Cost Savings"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Income Tax relief",
+    "type": "Tax Benefit",
+    "aliases": ["Income Tax Savings", "Tax Exemption"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "National Insurance relief",
+    "type": "Tax Benefit",
+    "aliases": ["NI Savings", "Employer NI Contribution Exemption"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "250W continuous rated motor",
+    "type": "Metric",
+    "aliases": ["250W Motor Limit", "250 Watt Electric Motor"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "25 km/h speed assist limit",
+    "type": "Metric",
+    "aliases": ["15.5 mph Assist Cap", "25 km/h Speed Limit"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "End-of-scheme ownership transfer",
+    "type": "Legal Process",
+    "aliases": ["Fair Market Value Fee", "Ownership Transfer"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Operational electricity cost",
+    "type": "Metric",
+    "aliases": ["Charging Cost per km", "Cost per kWh"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Helmet and high-vis safety gear",
+    "type": "Equipment",
+    "aliases": ["Safety Accessories", "Cycling Gear"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Shariah-compliant financing",
+    "type": "Financial Mechanism",
+    "aliases": ["Diminishing Musharakah", "Islamic Banking E-Bike Loan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Environmental zero emissions",
+    "type": "Concept",
+    "aliases": ["Zero Tailpipe Emissions", "Carbon Footprint Reduction"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  }
+]

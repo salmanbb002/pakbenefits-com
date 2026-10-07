@@ -1,0 +1,208 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/electric-bike-transport-schemes-guide/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/electric-bike-transport-schemes-guide/"
+      },
+      "headline": "Electric Bike & Transport Schemes: Complete Guide to Subsidies, Savings, and Eligibility (2026)",
+      "description": "Discover how electric bike & transport schemes lower commuting costs. Explore government subsidies, salary sacrifice savings, 0% financing, and application rules.",
+      "mainEntityOfPage": "https://example.com/electric-bike-transport-schemes-guide/",
+      "datePublished": "2026-10-07T00:00:00+05:00",
+      "dateModified": "2026-10-07T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Sustainable Mobility & EV Transport Policy Specialist",
+        "description": "Muhammad Salman is a clean mobility analyst and transport policy specialist specializing in electric vehicle subsidies, salary sacrifice schemes, and green commuting economics.",
+        "sameAs": "https://example.com/authors/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "SEO Content Creator - Clean Mobility Insights",
+        "url": "https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "Product",
+          "name": "Electric bicycle",
+          "sameAs": "https://en.wikipedia.org/wiki/Electric_bicycle"
+        },
+        {
+          "@type": "GovernmentPermit",
+          "name": "Cycle to Work scheme",
+          "sameAs": "https://en.wikipedia.org/wiki/Cycle_to_Work_scheme"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentPolicy",
+          "name": "Electrically Assisted Pedal Cycle Regulations",
+          "sameAs": "https://en.wikipedia.org/wiki/Electric_bicycle_laws#United_Kingdom"
+        },
+        {
+          "@type": "Product",
+          "name": "Lithium-ion battery",
+          "sameAs": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/electric-bike-transport-schemes-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an electric bike transport scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An electric bike transport scheme is a government or employer-backed initiative designed to make e-bikes affordable through pre-tax salary sacrifice deductions, direct capital subsidies, or interest-free bank financing. These schemes promote active travel and reduce commuter fuel expenses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does an e-bike salary sacrifice scheme save money on taxes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Salary sacrifice allows employees to pay for an electric bike directly from their gross monthly salary before Income Tax and National Insurance contributions are calculated. This pre-tax deduction reduces overall taxable income, resulting in total net savings of 26% to 42% depending on the taxpayer's bracket."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get an electric bike through a government grant or 0% interest loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, many government programs offer direct capital grants (such as PKR 50,000 to PKR 90,000 subsidies or municipal active travel vouchers) alongside 0% interest bank loans processed through partner financial institutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is an EAPC and why is it important for e-bike schemes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An Electrically Assisted Pedal Cycle (EAPC) is a legally classified e-bike featuring pedals, a motor rated at 250W continuous output or less, and electric assistance that cuts off automatically at 25 km/h (15.5 mph). Only EAPC-compliant bicycles qualify for standard transport schemes without requiring tax, registration, or a motor license."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to charge an electric bike battery for daily commuting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Charging a typical 500Wh e-bike lithium-ion battery costs approximately PKR 15 to PKR 25 (or £0.10 to £0.15) per full cycle, providing a range of 40 to 60 km. This translates to an operational electricity cost of roughly PKR 0.50 to PKR 1.20 per kilometer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are self-employed individuals eligible for e-bike transport schemes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Self-employed sole traders and company directors can claim an electric bike as a allowable business expense or capital allowance if used primarily for business commuting or work-related transport, though standard salary sacrifice requires PAYE employment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens at the end of a salary sacrifice e-bike scheme agreement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At the end of the hiring period (usually 12 to 48 months), participants can transfer ownership by paying a small nominal fair market value fee (typically 3% to 7% of the original cost) or extend the agreement to avoid additional benefit-in-kind tax."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can safety accessories and replacement batteries be included in the scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, most transport schemes allow riders to bundle safety equipment—such as helmets, high-visibility clothing, lights, locks, and spare batteries—into the same salary sacrifice or financing agreement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a driving license or special insurance required to ride an e-bike obtained through a transport scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No driving license, road tax, or compulsory motor registration is required to ride an EAPC-compliant e-bike for riders aged 14 and over, though third-party cycle insurance and secure locking mechanisms are strongly recommended."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do e-bike transport schemes benefit employers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Employers save up to 13.8% on Secondary Class 1 National Insurance contributions on the sacrificed portion of employee salaries, while boosting workforce wellness and meeting environmental corporate sustainability targets."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum speed limit for pedal-assist electric bikes under green mobility regulations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pedal assistance is legally capped at 25 km/h (15.5 mph) across standard EAPC and active travel regulations; riding faster requires unassisted manual pedaling or triggers motor vehicle licensing rules."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/electric-bike-transport-schemes-guide/#howto",
+      "name": "How to Apply for an Electric Bike Transport Scheme",
+      "description": "Step-by-step guide to applying for employer salary sacrifice or government e-bike financing schemes.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Verify Scheme Type & Employer Enrollment",
+          "text": "Confirm whether your employer participates in a salary sacrifice cycle scheme or if you are applying through a government 0% financing portal."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Select EAPC-Compliant E-Bike & Accessories",
+          "text": "Visit a certified partner bike retailer to choose an eligible electric bike (250W motor max) and safety gear, then request an official quote."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Submit Application with Required Documents",
+          "text": "Submit your application along with your CNIC/ID, proof of employment or student status, and retailer quote through your HR portal or government website."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive Voucher & Collect Bike",
+          "text": "Upon approval, redeem your e-certificate or voucher at the partner retailer to collect your e-bike and start pre-tax payroll deductions or low-cost installments."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/electric-bike-transport-schemes-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sustainable Mobility",
+          "item": "https://example.com/mobility/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Electric Bike & Transport Schemes",
+          "item": "https://example.com/electric-bike-transport-schemes-guide/"
+        }
+      ]
+    }
+  ]
+}

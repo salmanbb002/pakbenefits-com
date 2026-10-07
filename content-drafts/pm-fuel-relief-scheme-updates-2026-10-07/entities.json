@@ -1,0 +1,172 @@
+[
+  {
+    "canonical": "Prime Minister's Fuel Relief Scheme",
+    "type": "Government Program",
+    "aliases": ["PM Fuel Relief Scheme", "PM Petrol Subsidy Scheme", "PM Fuel Scheme 2026"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "9771 SMS Service",
+    "type": "Service",
+    "aliases": ["9771 Shortcode", "9771 Registration Service"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ministry of Energy (Petroleum Division)",
+    "type": "Government Organization",
+    "aliases": ["Petroleum Division", "Ministry of Energy Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Energy_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Concept",
+    "aliases": ["CNIC", "13-digit CNIC"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Identity_Card_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "Government Organization",
+    "aliases": ["NADRA"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Motorcycle / Rickshaw / Qingqi",
+    "type": "Product",
+    "aliases": ["Two-wheeler", "Three-wheeler", "Motorbike"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Small Car (Up to 800cc)",
+    "type": "Product",
+    "aliases": ["800cc Vehicle", "Suzuki Mehran", "Alto 800cc"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 500 Weekly Subsidy",
+    "type": "Money",
+    "aliases": ["Rs 500 weekly token", "Rs 2,000 monthly subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 100/Litre Discount",
+    "type": "Money",
+    "aliases": ["Rs 100 per litre petrol subsidy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "TOK Fuel Token",
+    "type": "Concept",
+    "aliases": ["SMS Token Code", "TOK Command"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "January 1, 2006 Cutoff Date",
+    "type": "Date",
+    "aliases": ["2006 registration cutoff", "20-year vehicle age cap"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Province Registration Codes",
+    "type": "Concept",
+    "aliases": ["Province letters", "P S K B I A G codes"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Helpline 9772",
+    "type": "Service",
+    "aliases": ["9772 Control Room", "Retailer Helpline 9772"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "BISP 8171 Disambiguation",
+    "type": "Government Program",
+    "aliases": ["Benazir Income Support Programme", "BISP 8171"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "30 Litres Monthly Quota",
+    "type": "Metric",
+    "aliases": ["10 litres every 10 days", "30L monthly car quota"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "SIM Card CNIC Ownership",
+    "type": "Concept",
+    "aliases": ["SIM registered under CNIC", "Cellular owner match"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Free Registration Guarantee",
+    "type": "Concept",
+    "aliases": ["Zero fee SMS", "Free 9771 service"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]

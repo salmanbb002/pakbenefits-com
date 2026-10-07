@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/pm-fuel-relief-scheme-updates/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/pm-fuel-relief-scheme-updates/",
+        "url": "https://example.com/pm-fuel-relief-scheme-updates/",
+        "name": "PM Fuel Relief Scheme Updates 2026: 9771 SMS Registration & Eligibility"
+      },
+      "headline": "PM Fuel Relief Scheme Updates: 9771 SMS Registration, Subsidy Rates & Eligibility Guide",
+      "description": "Get the latest PM Fuel Relief Scheme updates for 2026. Learn how to register via 9771 SMS, verify vehicle eligibility (motorcycles & 800cc cars), and claim your fuel token.",
+      "inLanguage": "en-US",
+      "mainEntityOfPage": "https://example.com/pm-fuel-relief-scheme-updates/",
+      "datePublished": "2026-10-07T10:00:00+05:00",
+      "dateModified": "2026-10-07T10:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Senior SEO & Public Welfare Content Specialist",
+        "url": "https://example.com/authors/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "SEO Content Hub",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Prime Minister's Fuel Relief Scheme",
+          "alternateName": "PM Petrol Relief Scheme",
+          "description": "Targeted petrol subsidy scheme in Pakistan for motorcycles, rickshaws, Qingqis, and small cars up to 800cc."
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Energy (Petroleum Division)",
+          "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Energy_(Pakistan)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "alternateName": "NADRA",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentProgram",
+          "name": "Benazir Income Support Programme",
+          "alternateName": "BISP",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".direct-answer-block",
+          "h1"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/pm-fuel-relief-scheme-updates/#howto",
+      "name": "How to Register for PM Fuel Relief Scheme via 9771 SMS",
+      "description": "Step-by-step instructions to register your vehicle and claim petrol subsidies in Pakistan using SMS code 9771.",
+      "totalTime": "PT3M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Check Vehicle & CNIC Eligibility",
+          "text": "Ensure your motorcycle, rickshaw, Qingqi, or car (up to 800cc) was registered on or after January 1, 2006, and your mobile SIM is registered under your own CNIC."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Compose 9771 Registration SMS",
+          "text": "Type REG [CNIC] [Vehicle Plate] [Province Code] [Registration Date in DDMMYYYY]. Example: REG 6110114620675 ADV811 P 16052017."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Send SMS to 9771",
+          "text": "Send the completed text message to 9771 free of charge and wait for NADRA verification confirmation."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Request TOK Fuel Token Code",
+          "text": "Once registered, text TOK to 9771 to generate a 6-digit fuel discount token."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Redeem Token at Petrol Station",
+          "text": "Present your 6-digit token code to the petrol pump attendant before refueling to claim your discount."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/pm-fuel-relief-scheme-updates/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official SMS shortcode for the PM Fuel Relief Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official SMS shortcode is 9771. All registration requests and token generations are processed exclusively through this shortcode free of cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much fuel subsidy do motorcycle owners receive in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Motorcycle owners receive a subsidy of Rs 500 per week, distributed as four tokens per month, providing a total monthly relief of Rs 2,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can 1000cc or 1300cc car owners apply for the PM Petrol Relief Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the scheme strictly caps car eligibility at an engine capacity of 800cc. Vehicles exceeding 800cc displacement are ineligible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the correct SMS syntax to register a vehicle on 9771?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The correct format is REG [CNIC] [Vehicle Number] [Province Code] [Registration Date]. For example: REG 6110114620675 ADV811 P 16052017."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee for registering via 9771 SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, sending an SMS to 9771 is completely free of charge. The government does not charge any processing fees for registration or token generation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I request a fuel token code before going to the petrol pump?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After your registration is approved, send the text message TOK to 9771. You will receive a digital token code to show at the petrol pump."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the PM Fuel Relief Scheme require enrollment in BISP (8171)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the PM Fuel Relief Scheme operates independently under the Ministry of Energy (Petroleum Division). BISP registration is not required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if my vehicle was registered before January 1, 2006?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vehicles registered prior to January 1, 2006 fall outside the scheme's 20-year eligibility criteria and cannot be registered under current guidelines."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What helpline number can petrol station operators call for system technical issues?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Petrol pump operators and retailers can call the dedicated Ministry of Energy control room helpline at 9772 for real-time terminal support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I register multiple vehicles under a single CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the system enforces a strict limit of one vehicle per CNIC to ensure fair distribution of targeted welfare funds."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/pm-fuel-relief-scheme-updates/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Welfare Schemes",
+          "item": "https://example.com/welfare-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PM Fuel Relief Scheme Updates",
+          "item": "https://example.com/pm-fuel-relief-scheme-updates/"
+        }
+      ]
+    }
+  ]
+}

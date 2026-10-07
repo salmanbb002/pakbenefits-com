@@ -1492,6 +1492,238 @@ export const categories: Category[] = [
 
 export const articles: Article[] = [
   {
+    slug: "pm-fuel-relief-scheme-updates",
+    relatedSlugs: [
+      "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
+      "pm-petrol-relief-scheme-updates-2026",
+      "transport-fuel-relief-options-2026",
+      "bisp-balance-check-by-cnic-2026"
+    ],
+    title: "PM Fuel Relief Scheme Updates: 9771 SMS Registration, Subsidy Rates & Eligibility Guide",
+    excerpt: "Get the latest PM Fuel Relief Scheme updates for 2026. Learn how to register via 9771 SMS, verify vehicle eligibility (motorcycles & 800cc cars), and claim your fuel token.",
+    showExcerpt: true,
+    metaTitle: "PM Fuel Relief Scheme Updates 2026: 9771 SMS Registration & Eligibility",
+    metaDescription: "Get the latest PM Fuel Relief Scheme updates for 2026. Learn how to register via 9771 SMS, verify vehicle eligibility (motorcycles & 800cc cars), and claim your fuel token.",
+    focusKeyword: "PM Fuel Relief Scheme Updates",
+    lsiKeywords: [
+      "pm fuel relief scheme updates 2026",
+      "pm fuel relief scheme registration sms format",
+      "pm petrol relief scheme status check",
+      "9771 sms format pm fuel relief",
+      "9772 retailer helpline control room",
+      "rs 500 weekly motorcycle fuel subsidy",
+      "rs 100 per litre 800cc car fuel discount",
+      "tok fuel token code 9771"
+    ],
+    entities: [
+      "Prime Minister's Fuel Relief Scheme",
+      "9771 SMS Gateway",
+      "Ministry of Energy (Petroleum Division)",
+      "National Database and Registration Authority",
+      "Computerized National Identity Card",
+      "Benazir Income Support Programme",
+      "State Bank of Pakistan"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: [
+      "other-schemes",
+      "news"
+    ],
+    date: "October 7, 2026",
+    publishedDate: "October 7, 2026",
+    readTime: "10 min read",
+    image: "/images/pm-petrol-relief-scheme-updates.jpg",
+    imageAlt: "Official editorial banner showing PM Fuel Relief Scheme updates with 9771 SMS registration syntax and eligibility rules",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      {
+        label: "Ministry of Information & Broadcasting Fuel Scheme Notice",
+        href: "https://moib.gov.pk/"
+      },
+      {
+        label: "Ministry of Energy Petroleum Division",
+        href: "https://petroleum.gov.pk/"
+      }
+    ],
+    sections: [
+      {
+        title: "What is the PM Fuel Relief Scheme in 2026?",
+        paragraphs: [
+          "The Prime Minister’s Fuel Relief Scheme is a targeted social assistance initiative administered by the Ministry of Energy (Petroleum Division) to shield vulnerable citizens from fluctuating global oil prices. Unlike broad subsidies that benefit high-income commuters, this targeted mechanism transfers financial relief directly to low-income vehicle owners across all four provinces, Islamabad, Azad Jammu & Kashmir, and Gilgit-Baltistan.",
+          "By integrating real-time identity verification through the National Database and Registration Authority (NADRA), the government ensures that subsidies reach genuine vehicle owners while mitigating ghost claims and retail leakages."
+        ],
+        subsections: [
+          {
+            title: "Key Objectives of the Petrol Subsidy Program",
+            paragraphs: [
+              "The central objective of the program is reducing daily transport expenditure for commercial commuters and low-wage workers. The scheme operates via direct point-of-sale digital discount tokens rather than blanket cash distributions."
+            ],
+            links: [
+              {
+                label: "read full Rs 100/litre fuel relief registration guide",
+                href: "/fuel-scheme-rs-100-per-litre-petrol-relief-guide/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who is Eligible for the PM Fuel Relief Scheme?",
+        paragraphs: [
+          "Eligibility for the PM Petrol Relief Scheme depends on vehicle engine displacement, registration recency, and verified mobile SIM ownership. Applicants must possess a valid 13-digit Computerized National Identity Card (CNIC) matched with a registered cellular connection."
+        ],
+        subsections: [
+          {
+            title: "Vehicle Categories (Motorcycles, Rickshaws & 800cc Cars)",
+            paragraphs: [
+              "Two/Three-Wheelers: Motorcycles, auto-rickshaws, and Qingqis used for personal commuting or daily fare transport qualify for flat weekly relief tokens.",
+              "Small Cars: Four-wheeled passenger vehicles with an engine displacement capacity up to 800cc (such as Suzuki Mehran, Alto 800cc, and Suzuki Bolan) qualify for monthly volume-capped discounts. Vehicles exceeding 800cc capacity are strictly excluded."
+            ]
+          },
+          {
+            title: "Vehicle Age Cutoff & CNIC Ownership Rules",
+            paragraphs: [
+              "Vehicles registered on or after January 1, 2006 are eligible for registration under the 20-year vehicle age policy. Additionally, each applicant can link only one vehicle per CNIC. The applicant’s mobile SIM card must be registered under the exact same CNIC to pass automated NADRA database checks."
+            ],
+            links: [
+              {
+                label: "how PMT scores affect government welfare eligibility",
+                href: "/what-counts-as-a-good-pmt-score/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        title: "How to Register for PM Fuel Relief Scheme via 9771 SMS?",
+        paragraphs: [
+          "Citizens can complete their registration for free by sending an SMS to the official shortcode 9771. The system does not charge any service fee or require internet connectivity."
+        ],
+        subsections: [
+          {
+            title: "Step-by-Step 9771 SMS Syntax & Example Format",
+            paragraphs: [
+              "To apply, compose a text message: REG [CNIC Number] [Vehicle Plate Number] [Province Code] [Registration Date in DDMMYYYY] and send to 9771.",
+              "Example: REG 6110114620675 ADV811 P 16052017 (for a vehicle registered on May 16, 2017 in Punjab)."
+            ]
+          },
+          {
+            title: "List of Official Province Codes for Registration",
+            paragraphs: [
+              "Use the single-letter capital code matching your registration authority: P (Punjab), S (Sindh), K (Khyber Pakhtunkhwa), B (Balochistan), I (Islamabad), A (Azad Kashmir), and G (Gilgit-Baltistan)."
+            ],
+            table: {
+              caption: "Official Registration Province Codes for 9771 SMS",
+              headers: ["Province / Territory", "Single-Letter Code", "Registration Book Example"],
+              rows: [
+                ["Punjab", "P", "Lahore / Rawalpindi / Multan plates"],
+                ["Sindh", "S", "Karachi / Hyderabad / Sukkur plates"],
+                ["Khyber Pakhtunkhwa", "K", "Peshawar / Mardan / Swat plates"],
+                ["Balochistan", "B", "Quetta / Khuzdar / Turbat plates"],
+                ["Islamabad Capital Territory", "I", "ICT / Islamabad plates"],
+                ["Azad Jammu & Kashmir", "A", "Muzaffarabad / Mirpur plates"],
+                ["Gilgit-Baltistan", "G", "Gilgit / Skardu plates"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        title: "How to Claim Your Petrol Subsidy Token (TOK Command)?",
+        paragraphs: [
+          "Once you receive a confirmation SMS verifying successful registration, send TOK to 9771 before visiting the petrol station. You will receive a 6-digit digital token code to present to the pump attendant."
+        ],
+        links: [
+          {
+            label: "check general 8171 CNIC balance and welfare eligibility online",
+            href: "/bisp-balance-check-by-cnic-2026/"
+          }
+        ]
+      },
+      {
+        title: "What are the Monthly Subsidy Rates and Quotas?",
+        paragraphs: [
+          "Motorcycles, Rickshaws, and Qingqis receive Rs 500 flat discount per token (1 token per week, totaling Rs 2,000 monthly). Small cars up to 800cc receive Rs 100 per litre discount on up to 30 litres per month (3 tokens of 10 litres every 10 days, saving Rs 3,000 monthly)."
+        ],
+        table: {
+          caption: "Vehicle Category Subsidy & Quota Breakdown",
+          headers: ["Vehicle Category", "Subsidy Structure", "Token Frequency", "Monthly Quota / Savings"],
+          rows: [
+            ["Motorcycles & Rickshaws", "Rs 500 flat discount", "1 token / week", "4 tokens (Rs 2,000 / month)"],
+            ["Qingqis", "Rs 500 flat discount", "1 token / week", "4 tokens (Rs 2,000 / month)"],
+            ["Small Cars (Up to 800cc)", "Rs 100/litre discount", "1 token / 10 days", "30 Litres (Rs 3,000 / month)"]
+          ]
+        }
+      },
+      {
+        title: "What is the Difference Between PM Fuel Relief (9771) and BISP (8171)?",
+        paragraphs: [
+          "The PM Fuel Relief Scheme is an independent initiative administered by the Ministry of Energy (Petroleum Division) and is not part of the Benazir Income Support Programme (BISP 8171). While BISP provides direct quarterly cash transfers (Rs 13,500) based on PMT poverty scores, 9771 provides vehicle-specific point-of-sale discounts."
+        ],
+        links: [
+          {
+            label: "understanding BISP Kafalat status and CNIC checking",
+            href: "/bisp-status-cnic-online/"
+          }
+        ]
+      },
+      {
+        title: "How to Fix 9771 Registration Errors and Rejections?",
+        paragraphs: [
+          "Common issues include mobile SIM ownership mismatches (SIM must match CNIC),hyphens included in CNIC, or invalid date formats. Ensure date is in DDMMYYYY format. Petrol pump operators facing terminal errors can contact helpline 9772."
+        ]
+      },
+      {
+        title: "Safety Warning: How to Avoid Fuel Subsidy Scams",
+        paragraphs: [
+          "Registration via 9771 is 100% free. Never pay money to third-party registration agents, download unofficial APK files, or share your banking passwords."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official SMS shortcode for the PM Fuel Relief Scheme?",
+        answer: "The official SMS shortcode is 9771. All registration requests and token generations are processed exclusively through this shortcode free of cost."
+      },
+      {
+        question: "How much fuel subsidy do motorcycle owners receive in 2026?",
+        answer: "Motorcycle owners receive a subsidy of Rs 500 per week, distributed as four tokens per month, providing a total monthly relief of Rs 2,000."
+      },
+      {
+        question: "Can 1000cc or 1300cc car owners apply for the PM Petrol Relief Scheme?",
+        answer: "No, the scheme strictly caps car eligibility at an engine capacity of 800cc. Vehicles exceeding 800cc displacement are ineligible."
+      },
+      {
+        question: "What is the correct SMS syntax to register a vehicle on 9771?",
+        answer: "The correct format is REG [CNIC] [Vehicle Number] [Province Code] [Registration Date]. For example: REG 6110114620675 ADV811 P 16052017."
+      },
+      {
+        question: "Is there any fee for registering via 9771 SMS?",
+        answer: "No, sending an SMS to 9771 is completely free of charge. The government does not charge any processing fees for registration or token generation."
+      },
+      {
+        question: "How do I request a fuel token code before going to the petrol pump?",
+        answer: "After your registration is approved, send the text message TOK to 9771. You will receive a digital token code to show at the petrol pump."
+      },
+      {
+        question: "Does the PM Fuel Relief Scheme require enrollment in BISP (8171)?",
+        answer: "No, the PM Fuel Relief Scheme operates independently under the Ministry of Energy (Petroleum Division). BISP registration is not required."
+      },
+      {
+        question: "What should I do if my vehicle was registered before January 1, 2006?",
+        answer: "Vehicles registered prior to January 1, 2006 fall outside the scheme's 20-year eligibility criteria and cannot be registered under current guidelines."
+      },
+      {
+        question: "What helpline number can petrol station operators call for system technical issues?",
+        answer: "Petrol pump operators and retailers can call the dedicated Ministry of Energy control room helpline at 9772 for real-time terminal support."
+      },
+      {
+        question: "Can I register multiple vehicles under a single CNIC?",
+        answer: "No, the system enforces a strict limit of one vehicle per CNIC to ensure fair distribution of targeted welfare funds."
+      }
+    ]
+  },
+  {
     slug: "social-protection-and-welfare",
     title: "Social Protection & Welfare: Complete Guide to Pillars, Policy & Welfare Systems",
     excerpt: "Understand social protection and welfare systems: key differences, the 3 core pillars (assistance, insurance, labor), life-cycle risks, real-world examples, and modern adaptive frameworks.",
@@ -27895,6 +28127,7 @@ officialLinks: [
   {
     slug: "pm-petrol-relief-scheme-updates-2026",
     relatedSlugs: [
+      "pm-fuel-relief-scheme-updates",
       "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
       "bisp-balance-check-by-cnic-2026",
       "what-counts-as-a-good-pmt-score"
@@ -28659,6 +28892,360 @@ officialLinks: [
     ]
   },
 ];
+
+  {
+  "slug": "electric-bike-transport-schemes-guide",
+  "title": "Electric Bike & Transport Schemes: Complete Guide to Subsidies, Savings, and Eligibility (2026)",
+  "excerpt": "Discover how electric bike & transport schemes lower commuting costs. Explore government EV subsidies, salary sacrifice savings, 0% bank financing, and step-by-step application rules.",
+  "metaTitle": "Electric Bike Transport Schemes 2026: Subsidies & Savings Guide",
+  "metaDescription": "Discover how electric bike & transport schemes lower commuting costs. Explore government subsidies, salary sacrifice savings, 0% financing, and application rules.",
+  "focusKeyword": "Electric Bike & Transport Schemes",
+  "lsiKeywords": [
+    "e-bike salary sacrifice cycle to work scheme",
+    "government e-bike subsidy 0% financing",
+    "EAPC legal regulations pedal assist",
+    "electric bike vs petrol commuting cost savings",
+    "CM Punjab e-bike scheme eligibility",
+    "PAVE EV subsidy application"
+  ],
+  "entities": [
+    "Electric bicycle",
+    "Cycle to Work scheme",
+    "Government EV Subsidy Scheme",
+    "Electrically Assisted Pedal Cycle",
+    "Lithium-ion battery",
+    "Salary sacrifice",
+    "Active travel initiative"
+  ],
+  "primaryCategory": "Punjab Schemes & Green Mobility",
+  "categorySlugs": [
+    "punjab-schemes",
+    "other-schemes"
+  ],
+  "date": "October 7, 2026",
+  "publishedDate": "2026-10-07",
+  "lastChecked": "2026-10-07",
+  "readTime": "8 min read",
+  "image": "/images/electric-bike-transport-schemes.jpg",
+  "imageAlt": "Electric Bike & Transport Schemes Complete Guide 2026",
+  author: contributors.muhammadSalman,
+  reviewer: contributors.ayeshaMalik,
+  "officialLinks": [
+    {
+      "label": "Official CM Punjab E-Bike Portal",
+      "href": "https://bikes.punjab.gov.pk/"
+    },
+    {
+      "label": "Official PAVE Scheme Portal",
+      "href": "https://pave.gov.pk/"
+    },
+    {
+      "label": "Board of Investment Electric Vehicle Policy",
+      "href": "https://boi.gov.pk/"
+    }
+  ],
+  "relatedSlugs": [
+    "cm-punjab-rehmat-card-2026",
+    "bisp-pser-updates",
+    "nser-pmt-score"
+  ],
+  "sections": [
+    {
+      "title": "What Is an Electric Bike Transport Scheme and How Does It Work?",
+      "paragraphs": [
+        "An electric bike transport scheme is a financial and policy framework established by governments and employers to encourage active travel by reducing the financial barrier of acquiring pedal-assisted two-wheelers. These schemes combine tax incentives, public capital grants, and subsidized loan structures to lower initial purchase barriers for daily commuters.",
+        "By transitioning from fossil-fuel motorcycles or cars to an electric bicycle, commuters significantly decrease urban congestion while achieving zero tailpipe emissions. Participating individuals receive assistance in securing high-quality bicycles and safety equipment through authorized retail networks."
+      ],
+      "links": [
+        {
+          "label": "Punjab Government Welfare Schemes",
+          "href": "/punjab-schemes/"
+        },
+        {
+          "label": "Check NSER PMT Score for Scheme Eligibility",
+          "href": "/nser-pmt-score/"
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Understanding Pedal-Assist Technology and EAPC Regulations",
+          "paragraphs": [
+            "To qualify under official transport schemes, an electric bicycle must conform strictly to Electrically Assisted Pedal Cycle (EAPC) legal standards. Under these regulations, the motor must operate strictly as a pedal-assist mechanism, engaging only when the rider pedals manually.",
+            "The vehicle must be equipped with a 250W continuous rated motor and feature an automated cut-off system that disengages power when reaching a 25 km/h (15.5 mph) speed assist limit. Bicycles meeting these parameters do not require motor vehicle registration, road tax, or driving licenses."
+          ],
+          "table": {
+            "caption": "EAPC Legal Compliance Framework",
+            "headers": [
+              "Requirement",
+              "Specification Standard",
+              "Legal Status"
+            ],
+            "rows": [
+              [
+                "Motor Output Cap",
+                "250W continuous rated motor",
+                "Mandatory"
+              ],
+              [
+                "Speed Cut-off Limit",
+                "25 km/h (15.5 mph) maximum assist",
+                "Mandatory"
+              ],
+              [
+                "Engagement Mode",
+                "Pedal-assist only (no twist throttle)",
+                "Mandatory"
+              ],
+              [
+                "Rider Age Limit",
+                "14 years or older",
+                "Mandatory"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Core Objectives: Sustainable Mobility, Active Travel, and Cost Reduction",
+          "paragraphs": [
+            "Governments invest in active travel initiatives because pedal-assisted transport directly lowers public healthcare burdens, reduces urban smog, and curtails municipal infrastructure expenditure. Promoting zero-emission micro-mobility helps municipalities achieve carbon reduction benchmarks.",
+            "For individual riders, the primary driver is commuter cost savings. Shifting daily urban travel to an electric bicycle dramatically drops monthly transport expenditure, mitigating rising petrol expenses and vehicle maintenance fees."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How Do Salary Sacrifice and Cycle to Work Schemes Save You Money?",
+      "paragraphs": [
+        "A Cycle to Work scheme functions as a tax-efficient hire agreement between an employer and an employee, allowing workers to acquire an electric bicycle via salary sacrifice. Monthly equipment costs are deducted directly from gross income before payroll taxes are calculated.",
+        "Because payments occur pre-tax, employees lower their overall gross taxable earnings, yielding significant Income Tax and National Insurance relief. The employer pays for the bike upfront and recovers the cost through monthly salary reductions over a 12 to 48-month period."
+      ],
+      "subsections": [
+        {
+          "title": "Income Tax and National Insurance Relief Breakdown",
+          "paragraphs": [
+            "The magnitude of savings delivered by a salary sacrifice arrangement depends directly on the employee's income tax threshold. Standard rate taxpayers save approximately 28% to 32%, while higher-rate earners achieve up to 42% in total savings.",
+            "Basic rate taxpayers save £280 / PKR equivalent on every 1,000 currency units spent, while higher rate taxpayers save £420 per 1,000 spent. Furthermore, employers save up to 13.8% in secondary Class 1 NI contributions on the sacrificed portion of the salary."
+          ]
+        },
+        {
+          "title": "Ownership Transfer, End-of-Scheme Fees, and Employer Benefits",
+          "paragraphs": [
+            "At the conclusion of the salary sacrifice period, tax regulations dictate that the bicycle cannot simply be given away without incurring a benefit-in-kind tax charge. Instead, an end-of-scheme ownership transfer is executed.",
+            "To ensure maximum savings, scheme administrators offer an extended hire option where the employee pays a small, nominal fair market value fee (typically 3% to 7% of original purchase price) to retain full equipment usage rights indefinitely."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What Government Subsidies and 0% Financing Schemes Are Available?",
+      "paragraphs": [
+        "Where corporate salary sacrifice isn't available, public government EV subsidies and interest-free bank financing programs provide direct financial relief. These public initiatives cater specifically to students, educators, public sector employees, and low-income commuters.",
+        "Programmes such as the Chief Minister Punjab E-Bike Scheme and federal PAVE initiatives provide substantial capital subsidies and interest-free installment plans."
+      ],
+      "links": [
+        {
+          "label": "CM Punjab Rehmat Card & Student Welfare Schemes",
+          "href": "/cm-punjab-rehmat-card-2026/"
+        },
+        {
+          "label": "BISP PSER Registration & Updates",
+          "href": "/bisp-pser-updates/"
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Capital Grants and Direct Subsidy Programs",
+          "paragraphs": [
+            "Public sector programs deliver a capital subsidy applied directly at the point of purchase, reducing the total retail cost of an approved electric bicycle. Programs like the PAVE scheme and regional provincial initiatives absorb a fixed portion of the purchase price (ranging from PKR 50,000 to PKR 90,000 or regional grant equivalents).",
+            "Applications are processed through central official portals (such as bikes.punjab.gov.pk or pave.gov.pk), ensuring transparent lottery or quota allocation for eligible citizens."
+          ]
+        },
+        {
+          "title": "Shariah-Compliant and Markup-Free Bank Financing Plans",
+          "paragraphs": [
+            "For the remaining balance after subsidies, public programs partner with commercial banks to provide interest-free bank financing. Utilizing Shariah-compliant financing models such as Diminishing Musharakah, the financial institution purchases the vehicle jointly with the applicant.",
+            "The government covers all interest markup fees, allowing the citizen to pay off the principal balance in easy monthly installments (e.g., PKR 3,000–5,000/month) over 24 to 36 months without incurring hidden charges."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How Much Can You Save? E-Bike vs Petrol Commuting Cost Comparison",
+      "paragraphs": [
+        "Switching daily transit from a 125cc petrol motorcycle or light passenger car to a pedal-assisted electric bicycle delivers massive long-term operational savings. Electric motors convert over 85% of electrical energy into motion, whereas internal combustion engines waste over 70% of fuel energy as heat."
+      ],
+      "table": {
+        "caption": "20-km Daily Commute Cost Comparison (Petrol Motorcycle vs E-Bike)",
+        "headers": [
+          "Metric",
+          "Petrol Motorcycle (125cc)",
+          "Electric Bike (EAPC)"
+        ],
+        "rows": [
+          [
+            "Daily Operational Cost",
+            "PKR 160 – 220",
+            "PKR 12 – 18"
+          ],
+          [
+            "Monthly Fuel/Power Cost",
+            "PKR 4,800 – 6,600",
+            "PKR 360 – 540"
+          ],
+          [
+            "Annual Servicing Cost",
+            "PKR 18,000+",
+            "PKR 4,000"
+          ],
+          [
+            "Cost Per Kilometer",
+            "PKR 8.00 – 11.00",
+            "PKR 0.60 – 0.90"
+          ]
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Operational Energy Costs and Battery Charging Economics",
+          "paragraphs": [
+            "A modern lithium-ion battery rated at 500Wh (0.5 kWh) requires less than one unit of electricity for a complete charge, yielding an effective riding range of 40 to 60 km under pedal-assist mode.",
+            "Full charge electricity costs range between PKR 15 and PKR 25 (or £0.12). Operational electricity expenditure averages PKR 0.50 to PKR 1.20 per kilometer, representing a 90% reduction compared to petrol costs."
+          ]
+        },
+        {
+          "title": "Long-Term Maintenance and Depreciation Savings",
+          "paragraphs": [
+            "Because an electric bicycle eliminates complex mechanical components—such as engine oil, spark plugs, clutch plates, gearboxes, and exhaust systems—routine servicing is limited to basic brake pad checks and tire replacements.",
+            "Annual maintenance expenditure for an e-bike averages under 20% of traditional motorbike servicing costs. Furthermore, the lithium-ion battery maintains 80% capacity over 800–1,000 charge cycles, providing 3 to 5 years of daily commuting before replacement is needed."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who Is Eligible for E-Bike Schemes and How Do You Apply?",
+      "paragraphs": [
+        "Eligibility requirements depend on whether you are applying through a corporate salary sacrifice program or a public government EV subsidy portal."
+      ],
+      "subsections": [
+        {
+          "title": "Employee and Individual Eligibility Requirements",
+          "paragraphs": [
+            "Salary Sacrifice Schemes require employment under a PAYE contract with a participating employer, earning above National Minimum Wage after salary deductions.",
+            "Government Public Schemes require a valid CNIC/National ID, minimum age of 18 (14+ for general EAPC operation), proof of enrollment (for student quotas) or proof of employment (for teacher/government quotas), and a valid driving or learner permit where specified."
+          ]
+        },
+        {
+          "title": "Step-by-Step Application Process and Document Checklist",
+          "paragraphs": [
+            "Step 1: Visit an authorized partner bicycle retailer and obtain a formal quotation for an EAPC-compliant e-bike and optional helmet and high-visibility safety accessories.",
+            "Step 2: Log into your employer's HR portal or the official government website (bikes.punjab.gov.pk / pave.gov.pk).",
+            "Step 3: Provide CNIC copy, proof of income/enrollment, and the dealer quote.",
+            "Step 4: Upon approval, receive a digital voucher or e-certificate, redeem it at the dealership, and collect your bicycle to start pre-tax payroll deductions or bank installments."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Electric Bike Scheme Comparison & Financial Breakdown",
+      "paragraphs": [
+        "The matrix below compares the three primary transport scheme models available in 2026 across target audience, primary incentive, payment mechanism, and key benefits."
+      ],
+      "table": {
+        "caption": "Electric Bike Transport Scheme Comparison Matrix 2026",
+        "headers": [
+          "Scheme Feature",
+          "Salary Sacrifice (Cycle to Work)",
+          "Government Capital Subsidy",
+          "Interest-Free Bank Financing"
+        ],
+        "rows": [
+          [
+            "Target Audience",
+            "Employed PAYE Staff",
+            "Students, Teachers, Citizens",
+            "Public & Private Sector Workers"
+          ],
+          [
+            "Primary Incentive",
+            "26%–42% Pre-Tax Savings",
+            "PKR 50k–90k Upfront Grant",
+            "0% Interest Markup Waiver"
+          ],
+          [
+            "Payment Mechanism",
+            "Monthly Salary Deduction",
+            "Direct Point-of-Sale Discount",
+            "Bank Monthly Installments"
+          ],
+          [
+            "Repayment Term",
+            "12 to 48 Months",
+            "One-time Subsidy",
+            "24 to 36 Months"
+          ],
+          [
+            "Equipment Included",
+            "Bike + Safety Gear Bundles",
+            "Approved E-Bike Models",
+            "Approved Retail E-Bikes"
+          ],
+          [
+            "Key Advantage",
+            "High Tax & NI Relief",
+            "Maximum Upfront Cost Drop",
+            "Spread Cost Without Interest"
+          ]
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is an electric bike transport scheme?",
+      "answer": "An electric bike transport scheme is a government or employer-backed initiative designed to make electric bicycles affordable through pre-tax salary sacrifice deductions, direct capital subsidies, or interest-free bank financing. These schemes promote active travel initiatives and lower daily commuting expenses."
+    },
+    {
+      "question": "How does an e-bike salary sacrifice scheme save money on taxes?",
+      "answer": "Salary sacrifice allows employees to pay for an electric bicycle directly from gross monthly salary before Income Tax relief and National Insurance relief are calculated. This pre-tax deduction reduces overall taxable income, yielding total net savings of 26% to 42%."
+    },
+    {
+      "question": "Can I get an electric bike through a government grant or 0% interest loan?",
+      "answer": "Yes, public sector initiatives offer a direct capital subsidy (such as PKR 50,000 to PKR 90,000 upfront grants) alongside interest-free bank financing options structured through Shariah-compliant financing models."
+    },
+    {
+      "question": "What is an EAPC and why is it important for e-bike schemes?",
+      "answer": "An Electrically Assisted Pedal Cycle (EAPC) is a legally defined bicycle featuring a motor rated at a 250W continuous rated motor limit and an automated 25 km/h speed assist limit. Only EAPC-compliant models qualify for transport schemes without requiring tax, registration, or a motor license."
+    },
+    {
+      "question": "How much does it cost to charge an electric bike battery for daily commuting?",
+      "answer": "Charging a standard 500Wh lithium-ion battery costs approximately PKR 15 to PKR 25 (or £0.12) per full charge, supplying a 40–60 km range under pedal assist. This equals an operational electricity cost of roughly PKR 0.50 to PKR 1.20 per kilometer."
+    },
+    {
+      "question": "Are self-employed individuals eligible for e-bike transport schemes?",
+      "answer": "Self-employed sole traders and business owners can claim an electric bicycle as a legitimate business expense or capital allowance if utilized for work-related transport, although standard salary sacrifice requires PAYE employment status."
+    },
+    {
+      "question": "What happens at the end of a salary sacrifice e-bike scheme agreement?",
+      "answer": "At the end of the hiring period, participants execute an end-of-scheme ownership transfer by paying a nominal fair market value fee (typically 3% to 7%) or extending the hire agreement to avoid benefit-in-kind charges."
+    },
+    {
+      "question": "Can safety accessories and replacement batteries be included in the scheme?",
+      "answer": "Yes, applicants can bundle essential safety gear—such as helmets, high-visibility clothing, lights, heavy-duty locks, and replacement lithium-ion battery packs—into the same salary sacrifice or financing agreement."
+    },
+    {
+      "question": "Is a driving license or special insurance required to ride an e-bike obtained through a transport scheme?",
+      "answer": "No driving license, road tax, or compulsory motor insurance is required for an EAPC-compliant electric bicycle ridden by individuals aged 14 and over, though third-party cycling insurance is highly recommended."
+    },
+    {
+      "question": "How do e-bike transport schemes benefit employers?",
+      "answer": "Employers achieve significant payroll savings through National Insurance relief (saving up to 13.8% on sacrificed salary), while fulfilling corporate sustainability goals and promoting employee health."
+    },
+    {
+      "question": "What is the maximum speed limit for pedal-assist electric bikes under green mobility regulations?",
+      "answer": "Pedal assistance is legally capped at a 25 km/h speed assist limit (15.5 mph) across standard EAPC regulations; exceeding this speed requires unassisted manual pedaling or triggers motor vehicle classification rules."
+    }
+  ]
+},
 
 export const informationPages: InformationPage[] = [
   {
