@@ -29842,6 +29842,257 @@ export const informationPages: InformationPage[] = [
       },
     ],
   },
+  {
+    slug: "benazir-income-support-programme-bisp-8171-guide",
+    relatedSlugs: [
+      "bisp-benazir-kafaalat-8171-check",
+      "bisp-biometric-verification-failed-fingerprint-solution",
+      "fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert",
+      "bisp-tehsil-office-peshawar-kpk-districts-list-addresses"
+    ],
+    title: "Benazir Income Support Programme (BISP): Complete 8171 Payment, Eligibility, and Registration Guide",
+    excerpt: "Complete 2026 guide to the Benazir Income Support Programme (BISP). Learn how to check 8171 payment status by CNIC online, eligibility PMT scores, and dynamic survey registration.",
+    showExcerpt: true,
+    metaTitle: "Benazir Income Support Programme (BISP): 8171 Payment & Online Check Guide",
+    metaDescription: "Complete guide to the Benazir Income Support Programme (BISP). Learn how to check 8171 payment status by CNIC online, eligibility PMT scores, and dynamic survey registration.",
+    focusKeyword: "Benazir Income Support Programme (BISP)",
+    lsiKeywords: [
+      "bisp 8171 payment check online cnic",
+      "bisp pmt score eligibility threshold",
+      "nser dynamic survey nadra tehsil office",
+      "benazir kafaalat quarterly stipend 2026",
+      "benazir taleemi wazaif school grants",
+      "benazir nashonuma health program",
+      "8171 sms status check method",
+      "bisp biometric verification error solution"
+    ],
+    entities: [
+      "Benazir Income Support Programme",
+      "8171 Web Portal",
+      "Benazir Kafaalat Program",
+      "Computerized National Identity Card",
+      "National Socio-Economic Registry",
+      "Proxy Means Test Score",
+      "NADRA Tehsil Office",
+      "Quarterly Cash Stipend",
+      "Senator Rubina Khalid",
+      "Ministry of Poverty Alleviation and Social Safety"
+    ],
+    primaryCategory: "8171 Eligibility & Portal",
+    categorySlugs: [
+      "8171",
+      "benazir-kafaalat"
+    ],
+    date: "October 7, 2026",
+    publishedDate: "October 7, 2026",
+    lastChecked: "October 7, 2026",
+    readTime: "12 min read",
+    image: "/images/bisp-cnic-status-check.jpg",
+    imageAlt: "Official guide to Benazir Income Support Programme BISP 8171 payment check and eligibility",
+    author: contributors.saadHassan,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "8171 Official Web Portal", href: "https://8171.bisp.gov.pk/" },
+      { label: "Benazir Income Support Programme Official Portal", href: "https://www.bisp.gov.pk/" },
+      { label: "NADRA Official Portal", href: "https://www.nadra.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What is the Benazir Income Support Programme (BISP)?",
+        paragraphs: [
+          "The Benazir Income Support Programme (BISP) is an autonomous federal social protection initiative established by the Government of Pakistan in July 2008. Operating under the administrative oversight of the Ministry of Poverty Alleviation and Social Safety (PASS), BISP serves as the primary cash transfer mechanism designed to buffer vulnerable, socio-economically disadvantaged families against inflation and fiscal shocks. The program operates under the executive leadership of BISP Chairperson Senator Rubina Khalid, managing an annual federal budget allocation exceeding Rs 700 Billion to support over 9.3 million registered beneficiary households nationwide.",
+          "BISP prioritizes female heads of eligible households to foster financial inclusion, gender empowerment, and direct family welfare management. Rather than operating as a temporary food charity, BISP provides predictable cash transfers paired with conditional human capital development incentives. The foundational backbone of BISP is the National Socio-Economic Registry (NSER), a nationwide socio-economic database that calculates a Proxy Means Test (PMT) poverty score for every surveyed household to determine eligibility objectively across all provinces."
+        ],
+        links: [
+          { label: "Check BISP Benazir Kafaalat 8171 Status Online", href: "/bisp-benazir-kafaalat-8171-check/" },
+          { label: "Find Nearest BISP Tehsil Offices & Addresses", href: "/bisp-tehsil-office-peshawar-kpk-districts-list-addresses/" }
+        ]
+      },
+      {
+        title: "How to Check BISP 8171 Payment Status Online by CNIC?",
+        paragraphs: [
+          "To check your BISP 8171 payment status online, visit the official 8171 web portal (8171.bisp.gov.pk) and enter your 13-digit CNIC number without dashes. The system instantly queries the National Socio-Economic Registry (NSER) database to display your current quarterly stipend availability, eligibility status, or dynamic survey renewal requirement."
+        ],
+        subsections: [
+          {
+            title: "Step-by-Step 8171 Web Portal Verification",
+            paragraphs: [
+              "1. Access the Official 8171 Web Portal: Open your web browser on a smartphone or computer and navigate directly to https://8171.bisp.gov.pk/. Ensure you are using the official government website ending in .gov.pk.",
+              "2. Input CNIC Number: Locate the designated form field labeled 'Form No. / CNIC Number' and enter your 13-digit identity card number without hyphenation or spaces.",
+              "3. Complete Security Captcha: Enter the 4-digit numeric image code displayed in the security captcha box to verify you are a human visitor.",
+              "4. Submit & Review Results: Click the green 'Check Status' button. The portal will display whether your quarterly payment of Rs 13,500 is ready for withdrawal, if your PMT score is high, or if an NSER survey renewal is required."
+            ]
+          },
+          {
+            title: "How to Verify BISP Status via 8171 SMS Service",
+            paragraphs: [
+              "For citizens without internet access or smartphones, BISP provides a direct cellular verification gateway through the official 8171 SMS short code.",
+              "To check your status via mobile phone, open your SMS text messaging application, type your 13-digit CNIC number without spaces, and send the text message to 8171 from your registered mobile SIM. Within a few moments, you will receive an automated response from BISP detailing your eligibility status, stipend allocation, or Tehsil office registration instructions."
+            ],
+            links: [
+              { label: "Fake 8171 SMS Scam Alert & PTA Complaint Guide", href: "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "What is the BISP PMT Score and How Does Eligibility Work?",
+        paragraphs: [
+          "The Proxy Means Test (PMT) score is a calculated numerical index between 0 and 100 that measures a household's poverty level based on income, physical assets, family size, housing structure, and living conditions recorded in the NSER database. Lower PMT scores reflect higher financial vulnerability, establishing the numerical criteria used by BISP to approve unconditional cash transfers."
+        ],
+        subsections: [
+          {
+            title: "PMT Score Cutoff Thresholds for Kafaalat & Special Categories",
+            paragraphs: [
+              "Standard Household Threshold (PMT <= 32): For general families seeking enrollment in the Benazir Kafaalat cash transfer program, the standard PMT eligibility cutoff is fixed at 32 or below.",
+              "Persons with Disabilities (PMT <= 37): To provide targeted support for vulnerable groups, the federal government maintains a relaxed PMT cutoff threshold of 37 or below for households containing a certified Person with Disability (PWD).",
+              "Regional Special Relief Thresholds: In specific remote or crisis-affected regions (such as select districts in Balochistan and Gilgit-Baltistan), temporary PMT threshold expansions (up to 60) are periodically authorized under special federal executive directives."
+            ]
+          },
+          {
+            title: "How to Update Household Data via NSER Dynamic Survey",
+            paragraphs: [
+              "If your household financial condition has deteriorated or if your eligibility status displays 'Survey Required,' you must update your records through the NSER Dynamic Registration Survey executed at local BISP Tehsil Centers.",
+              "Beneficiaries must visit their local NADRA-partnered BISP Tehsil Registration Office with their original CNIC, electricity/gas utility bills, and children's Computerized Registration Certificates (B-Form). A trained BISP data entry operator executes a fresh interview, updating household asset details and recalculating the PMT score within 30 to 60 days."
+            ]
+          }
+        ]
+      },
+      {
+        title: "What Are the Core BISP Sub-Programs and Payment Amounts?",
+        paragraphs: [
+          "BISP executes three primary social assistance schemes designed to address immediate financial poverty, school dropouts, and maternal-child stunting across Pakistan."
+        ],
+        subsections: [
+          {
+            title: "Benazir Kafaalat Program (Unconditional Cash Transfer)",
+            paragraphs: [
+              "The Benazir Kafaalat Program is BISP's core initiative, offering direct unconditional quarterly cash stipends to deserving female family heads. As of the 2025-2026 fiscal budget updates, the quarterly stipend amount has been enhanced to Rs 13,500 per eligible household (with targeted increases expanding up to Rs 14,500 during specific disbursement cycles)."
+            ]
+          },
+          {
+            title: "Benazir Taleemi Wazaif (School Stipends for Children)",
+            paragraphs: [
+              "Benazir Taleemi Wazaif is a conditional cash transfer initiative that provides cash bonuses to active Kafaalat beneficiary mothers on the condition that their children maintain at least a 70% quarterly school attendance rate.",
+              "Primary Level: Rs 2,500 per quarter for boys; Rs 3,000 per quarter for girls.",
+              "Secondary Level: Rs 3,500 per quarter for boys; Rs 4,000 per quarter for girls.",
+              "Higher Secondary Level: Rs 4,500 per quarter for boys; Rs 5,000 per quarter for girls.",
+              "Graduation Bonus: A one-time cash bonus of Rs 3,000 is awarded to girls completing primary school education."
+            ]
+          },
+          {
+            title: "Benazir Nashonuma (Health & Nutrition Program)",
+            paragraphs: [
+              "Benazir Nashonuma is a specialized conditional health and nutrition program targeted at preventing chronic stunting among pregnant women, lactating mothers, and children under two years of age (24 months).",
+              "Pregnant & Lactating Mothers: Rs 2,500 per quarter upon attending routine health check-ups.",
+              "Infants (Boys): Rs 2,500 per quarter upon fulfilling vaccination schedules.",
+              "Infants (Girls): Rs 3,000 per quarter, incentivizing healthcare access for female infants."
+            ]
+          }
+        ]
+      },
+      {
+        title: "BISP Sub-Programs & Eligibility Comparison Matrix",
+        paragraphs: [
+          "The following comparison table details the key operational parameters, eligibility thresholds, quarterly benefits, and required documentation across all primary BISP social welfare initiatives:"
+        ],
+        table: {
+          caption: "BISP Sub-Programs & Eligibility Comparison Matrix (2026 Updates)",
+          headers: ["Program Name", "Target Beneficiary Group", "PMT Eligibility Score", "Quarterly Payment Benefit (2026)", "Mandatory Registration Documents"],
+          rows: [
+            ["Benazir Kafaalat", "Low-income female household heads", "PMT <= 32 (Standard) / PMT <= 37 (Disabled)", "Rs 13,500 - Rs 14,500 per quarter", "Original CNIC of female head, active mobile SIM, NSER survey slip"],
+            ["Benazir Taleemi Wazaif", "School-going children (Primary to Higher Secondary) of Kafaalat beneficiaries", "Linked to mother's active Kafaalat status", "Rs 2,500 - Rs 5,000 per child / quarter (+ Rs 3,000 primary completion bonus for girls)", "Children's B-Form, NADRA verification, School Admission Form with 70% attendance proof"],
+            ["Benazir Nashonuma", "Pregnant women, lactating mothers & infants under 24 months", "Linked to active Kafaalat status", "Rs 2,500 - Rs 3,000 per quarter + SNF Specialized Nutrition Pack", "Mother's CNIC, Child Immunization Card, Tehsil Health Center Registration"],
+            ["BISP Special Disability Grant", "Certified Persons with Disabilities (PWD)", "PMT <= 37", "Rs 13,500 per quarter", "NADRA Special CNIC with Disability Logo, Disability Medical Certificate"]
+          ]
+        }
+      },
+      {
+        title: "How to Receive BISP Cash Payments and Resolve Biometric Errors?",
+        paragraphs: [
+          "BISP beneficiaries collect their quarterly cash assistance through authorized retail agent points, designated campsite distribution centers, and partner bank ATMs established in cooperation with Habib Bank Limited (HBL) in Punjab, Sindh, and Balochistan, and Bank Alfalah in Khyber Pakhtunkhwa, Azad Jammu & Kashmir, and Gilgit-Baltistan."
+        ],
+        subsections: [
+          {
+            title: "Collecting Stipends at Partner Banks & Payment Campsites",
+            paragraphs: [
+              "To collect your cash payment, present your physical original CNIC to an authorized HBL Konnect or Bank Alfalah retail agent or visit a designated BISP campsite. Place your thumb or index finger on the biometric point-of-sale (POS) scanner to complete live biometric authentication. Once verified, the agent will disburse your exact quarterly stipend in full and provide a printed transaction receipt."
+            ]
+          },
+          {
+            title: "How to Fix Biometric Fingerprint Verification Failures",
+            paragraphs: [
+              "Biometric verification failure (where the POS biometric scanner fails to read worn or damaged fingerprints of manual workers or elderly women) is a common challenge during cash collection. If your thumb impression is repeatedly rejected, follow these corrective steps:",
+              "1. Hydrate & Clean Hands: Wash your hands thoroughly with soap and apply hand lotion or oil prior to scanning.",
+              "2. Try Multiple Finger Impressions: Agents are authorized to test all ten fingers on the biometric POS reader.",
+              "3. Update Fingerprints at NADRA: Visit the nearest NADRA Registration Center to update your biometric fingerprint data.",
+              "4. Submit BISP Manual Verification Form: Visit your local BISP Tehsil Office and request the BISP Biometric Exemption Form for manual CNIC payment approval."
+            ],
+            links: [
+              { label: "BISP Biometric Verification Failed: Complete Fingerprint Solution Guide", href: "/bisp-biometric-verification-failed-fingerprint-solution/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "How to Avoid 8171 SMS Scams and Protect Personal Data?",
+        paragraphs: [
+          "To protect yourself against fraudulent financial scams, remember that BISP communicates with beneficiaries exclusively through the official short code 8171. Any text message or phone call received from standard 11-digit mobile numbers claiming you have won a cash grant, prize, or emergency allotment is a fraudulent attempt to steal your personal data or money.",
+          "Never share banking OTPs, PIN codes, or scratch card numbers with anyone. Registration for BISP and NSER dynamic surveys at NADRA Tehsil Centers is 100% free of charge.",
+          "If you receive a fake payment message from an unofficial number, lodge an immediate complaint with the BISP Toll-Free Helpline at 0800-26477 or report the scammer's phone number to the Pakistan Telecommunication Authority (PTA)."
+        ],
+        links: [
+          { label: "Report Fake 8171 SMS Scams to PTA & BISP Helpline", href: "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/" }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official BISP 8171 web portal URL?",
+        answer: "The official BISP web portal URL is https://8171.bisp.gov.pk/. Beneficiaries should only enter their 13-digit CNIC number on government websites ending in .gov.pk to protect personal data from fake fraud portals."
+      },
+      {
+        question: "How can I check my BISP eligibility by CNIC via SMS?",
+        answer: "To check eligibility via SMS, type your 13-digit CNIC number without dashes or spaces in a text message and send it to the official short code 8171. You will receive an automated reply detailing your status, eligibility, or survey instructions."
+      },
+      {
+        question: "What is the current BISP Benazir Kafaalat payment amount in 2026?",
+        answer: "The standard Benazir Kafaalat quarterly cash stipend in 2026 is Rs 13,500 per eligible household, with targeted disbursement rounds expanding up to Rs 14,500. Payments are distributed every three months through authorized bank distribution points."
+      },
+      {
+        question: "What PMT score is required to qualify for BISP Kafaalat?",
+        answer: "A household generally requires a Proxy Means Test (PMT) score of 32 or below to qualify for the Benazir Kafaalat unconditional cash transfer program. For households with a certified Person with Disability (PWD), the eligibility threshold is relaxed to 37 or below."
+      },
+      {
+        question: "Can men apply for the Benazir Income Support Programme?",
+        answer: "No, financial stipends under the Benazir Kafaalat program are issued exclusively to the female head of an eligible household (wife or mother). However, male family members benefit indirectly as part of the registered household, and male students can receive Benazir Taleemi Wazaif educational grants."
+      },
+      {
+        question: "What should I do if my BISP payment shows a biometric fingerprint error?",
+        answer: "If your fingerprint fails biometric POS verification, clean and moisturize your hands and test all ten fingers. If failures persist, update your fingerprints at a NADRA office or visit your local BISP Tehsil Office to apply for a biometric exemption manual payment."
+      },
+      {
+        question: "How often do I need to update my BISP NSER Dynamic Survey?",
+        answer: "BISP policy mandates that registered families must update their NSER Dynamic Survey data every three years at a BISP Tehsil Registration Center to ensure their PMT poverty score accurately reflects their current financial status."
+      },
+      {
+        question: "How do I enroll my children in Benazir Taleemi Wazaif?",
+        answer: "To enroll children in Taleemi Wazaif, a female beneficiary already receiving Benazir Kafaalat must visit a BISP Tehsil Office with her CNIC, the children's NADRA B-Form, and an official Admission Verification Form stamped by the school principal confirming at least 70% attendance."
+      },
+      {
+        question: "Are there any fees for registering for BISP at the Tehsil Office?",
+        answer: "No, registration for the Benazir Income Support Programme and the NSER Dynamic Survey at all official BISP Tehsil Centers is completely free. Beneficiaries should report any agent demanding illegal fees to the BISP helpline (0800-26477)."
+      },
+      {
+        question: "How do I report a fake 8171 SMS scam message?",
+        answer: "Report fraudulent messages received from standard mobile numbers to the BISP Toll-Free Helpline at 0800-26477 or forward the scammer's number to the PTA complaint portal. Official BISP communications are sent strictly from the short code 8171."
+      },
+      {
+        question: "What documents are required for new BISP Tehsil office registration?",
+        answer: "Applicants must bring the original 13-digit CNIC of the female head of household, NADRA B-Forms for all unmarried children, electricity or gas utility bills, and an active mobile SIM card registered in the applicant's own name."
+      }
+    ]
+  },
 ];
 
 export const allInternalSlugs = [
