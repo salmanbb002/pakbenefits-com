@@ -1,0 +1,192 @@
+[
+  {
+    "canonical": "Benazir Income Support Programme",
+    "type": "Organization",
+    "aliases": ["BISP", "Benazir Program", "Benazir Support Programme"],
+    "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "8171 Web Portal",
+    "type": "Service",
+    "aliases": ["8171 Portal", "8171 Web Gateway", "8171 Pass Portal"],
+    "sameAs": "https://8171.bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Benazir Kafaalat Program",
+    "type": "Scheme",
+    "aliases": ["Benazir Kafalat", "BISP Kafaalat", "Kafaalat Scheme"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Identifier",
+    "aliases": ["CNIC", "13-digit CNIC", "National Identity Card"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "National Socio-Economic Registry",
+    "type": "Database",
+    "aliases": ["NSER", "NSER Survey", "NSER Database"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Proxy Means Test Score",
+    "type": "Metric",
+    "aliases": ["PMT Score", "PMT Cutoff", "Poverty Score"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "NADRA Tehsil Office",
+    "type": "Place",
+    "aliases": ["BISP Tehsil Center", "Tehsil Registration Office", "NADRA Registration Center"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Quarterly Cash Stipend",
+    "type": "Money",
+    "aliases": ["BISP Payment", "Quarterly Cash Transfer", "Rs 13,500 Stipend", "Rs 14,500 Stipend"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Senator Rubina Khalid",
+    "type": "Person",
+    "aliases": ["Rubina Khalid", "Chairperson BISP"],
+    "sameAs": "https://en.wikipedia.org/wiki/Rubina_Khalid",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Ministry of Poverty Alleviation and Social Safety",
+    "type": "Organization",
+    "aliases": ["PASS Ministry", "Poverty Alleviation Division"],
+    "sameAs": "https://pass.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": "Tier 1"
+  },
+  {
+    "canonical": "Benazir Taleemi Wazaif",
+    "type": "Scheme",
+    "aliases": ["Taleemi Wazaif", "BISP Education Stipend"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Benazir Nashonuma",
+    "type": "Scheme",
+    "aliases": ["Nashonuma Program", "BISP Health & Nutrition"],
+    "sameAs": "https://bisp.gov.pk/",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Biometric Verification",
+    "type": "Process",
+    "aliases": ["Fingerprint Authentication", "Thumb Impression Verification", "Biometric Error"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Habib Bank Limited",
+    "type": "Organization",
+    "aliases": ["HBL", "HBL Konnect", "HBL ATMs"],
+    "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Bank Alfalah",
+    "type": "Organization",
+    "aliases": ["Alfalah Bank", "Bank Alfalah Payment Centers"],
+    "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "BISP Helpline 0800-26477",
+    "type": "Telecom",
+    "aliases": ["BISP Toll-Free Helpline", "0800-26477", "BISP Call Center"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Dynamic Survey",
+    "type": "Process",
+    "aliases": ["Dynamic Registration", "BISP Dynamic Survey"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "Persons with Disabilities",
+    "type": "Concept",
+    "aliases": ["PWD", "Disabled Beneficiaries", "Special Ability Category"],
+    "sameAs": "",
+    "kind": "concept",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": "Tier 2"
+  },
+  {
+    "canonical": "8171 SMS Service",
+    "type": "Service",
+    "aliases": ["8171 SMS", "8171 Short Code"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": "Tier 2"
+  }
+]

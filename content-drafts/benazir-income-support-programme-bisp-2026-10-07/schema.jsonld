@@ -1,0 +1,245 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/benazir-income-support-programme-bisp-8171-guide#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/benazir-income-support-programme-bisp-8171-guide",
+        "name": "Benazir Income Support Programme (BISP): Complete 8171 Payment, Eligibility, and Registration Guide",
+        "url": "https://example.com/benazir-income-support-programme-bisp-8171-guide"
+      },
+      "headline": "Benazir Income Support Programme (BISP): Complete 8171 Payment, Eligibility, and Registration Guide",
+      "description": "Complete guide to the Benazir Income Support Programme (BISP). Learn how to check 8171 payment status by CNIC online, eligibility PMT scores, and dynamic survey registration.",
+      "inLanguage": "en-PK",
+      "mainEntityOfPage": "https://example.com/benazir-income-support-programme-bisp-8171-guide",
+      "datePublished": "2026-10-07T00:00:00+05:00",
+      "dateModified": "2026-10-07T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: https://example.com/author/profile"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Organization Name",
+        "url": "TODO: https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Benazir Income Support Programme",
+          "alternateName": "BISP",
+          "url": "https://bisp.gov.pk/",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        },
+        {
+          "@type": "WebSite",
+          "name": "8171 Web Portal",
+          "url": "https://8171.bisp.gov.pk/"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Kafaalat Program",
+          "url": "https://bisp.gov.pk/"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "National Socio-Economic Registry",
+          "alternateName": "NSER"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "alternateName": "NADRA",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Poverty Alleviation and Social Safety",
+          "sameAs": "https://pass.gov.pk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Senator Rubina Khalid",
+          "sameAs": "https://en.wikipedia.org/wiki/Rubina_Khalid"
+        },
+        {
+          "@type": "BankOrCreditUnion",
+          "name": "Habib Bank Limited",
+          "alternateName": "HBL",
+          "sameAs": "https://en.wikipedia.org/wiki/Habib_Bank_Limited"
+        },
+        {
+          "@type": "BankOrCreditUnion",
+          "name": "Bank Alfalah",
+          "sameAs": "https://en.wikipedia.org/wiki/Bank_Alfalah"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "blockquote"
+        ]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/benazir-income-support-programme-bisp-8171-guide#howto",
+      "name": "How to Check BISP 8171 Payment Status Online by CNIC",
+      "description": "Follow these steps to check your BISP quarterly cash transfer payment status using your 13-digit CNIC number on the official 8171 web portal.",
+      "totalTime": "PT2M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Access the Official 8171 Web Portal",
+          "text": "Open your browser and navigate directly to https://8171.bisp.gov.pk/."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Input CNIC Number",
+          "text": "Enter your 13-digit CNIC number in the form field without any hyphens or spaces."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Complete Security Captcha",
+          "text": "Enter the 4-digit security captcha code displayed in the image box."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Submit & Review Results",
+          "text": "Click the green Check Status button to view your eligibility and current payment status."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/benazir-income-support-programme-bisp-8171-guide#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official BISP 8171 web portal URL?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official BISP web portal URL is https://8171.bisp.gov.pk/. Beneficiaries should only enter their 13-digit CNIC number on government websites ending in .gov.pk to protect personal data from fake fraud portals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I check my BISP eligibility by CNIC via SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To check eligibility via SMS, type your 13-digit CNIC number without dashes or spaces in a text message and send it to the official short code 8171. You will receive an automated reply detailing your status, eligibility, or survey instructions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the current BISP Benazir Kafaalat payment amount in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The standard Benazir Kafaalat quarterly cash stipend in 2026 is Rs 13,500 per eligible household, with targeted disbursement rounds expanding up to Rs 14,500. Payments are distributed every three months through authorized bank distribution points."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What PMT score is required to qualify for BISP Kafaalat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A household generally requires a Proxy Means Test (PMT) score of 32 or below to qualify for the Benazir Kafaalat unconditional cash transfer program. For households with a certified Person with Disability (PWD), the eligibility threshold is relaxed to 37 or below."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can men apply for the Benazir Income Support Programme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, financial stipends under the Benazir Kafaalat program are issued exclusively to the female head of an eligible household (wife or mother). However, male family members benefit indirectly as part of the registered household, and male students can receive Benazir Taleemi Wazaif educational grants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if my BISP payment shows a biometric fingerprint error?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your fingerprint fails biometric POS verification, clean and moisturize your hands and test all ten fingers. If failures persist, update your fingerprints at a NADRA office or visit your local BISP Tehsil Office to apply for a biometric exemption manual payment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often do I need to update my BISP NSER Dynamic Survey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BISP policy mandates that registered families must update their NSER Dynamic Survey data every three years at a BISP Tehsil Registration Center to ensure their PMT poverty score accurately reflects their current financial status."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I enroll my children in Benazir Taleemi Wazaif?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To enroll children in Taleemi Wazaif, a female beneficiary already receiving Benazir Kafaalat must visit a BISP Tehsil Office with her CNIC, the children's NADRA B-Form, and an official Admission Verification Form stamped by the school principal confirming at least 70% attendance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there any fees for registering for BISP at the Tehsil Office?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, registration for the Benazir Income Support Programme and the NSER Dynamic Survey at all official BISP Tehsil Centers is completely free. Beneficiaries should report any agent demanding illegal fees to the BISP helpline (0800-26477)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I report a fake 8171 SMS scam message?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Report fraudulent messages received from standard mobile numbers to the BISP Toll-Free Helpline at 0800-26477 or forward the scammer's number to the PTA complaint portal. Official BISP communications are sent strictly from the short code 8171."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required for new BISP Tehsil office registration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants must bring the original 13-digit CNIC of the female head of household, NADRA B-Forms for all unmarried children, electricity or gas utility bills, and an active mobile SIM card registered in the applicant's own name."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/benazir-income-support-programme-bisp-8171-guide#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Social Welfare Guides",
+          "item": "https://example.com/welfare/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Benazir Income Support Programme (BISP) Guide",
+          "item": "https://example.com/benazir-income-support-programme-bisp-8171-guide"
+        }
+      ]
+    }
+  ]
+}
