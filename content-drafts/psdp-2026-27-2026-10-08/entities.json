@@ -1,0 +1,152 @@
+[
+  {
+    "canonical": "Public Sector Development Programme",
+    "type": "Government Program",
+    "aliases": ["PSDP", "Federal PSDP"],
+    "sameAs": "https://en.wikipedia.org/wiki/Public_Sector_Development_Programme",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ministry of Planning, Development and Special Initiatives",
+    "type": "Organization",
+    "aliases": ["Ministry of Planning", "Planning Commission"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Planning_Development_and_Special_Initiatives",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Economic Council",
+    "type": "Constitutional Body",
+    "aliases": ["NEC"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Economic_Council_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "5Es Strategy",
+    "type": "Economic Policy Concept",
+    "aliases": ["5Es Framework"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Highway Authority",
+    "type": "State-Owned Enterprise",
+    "aliases": ["NHA"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Highway_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Water Resources Division",
+    "type": "Ministry Division",
+    "aliases": ["Water Sector"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Provincial Annual Development Programs",
+    "type": "Budget Category",
+    "aliases": ["Provincial ADPs"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "URAAN Pakistan",
+    "type": "Policy Vision",
+    "aliases": ["URAAN Framework"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State-Owned Enterprises",
+    "type": "Budget Category",
+    "aliases": ["SOEs"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "13th Five Year Plan",
+    "type": "Policy Plan",
+    "aliases": ["13th Plan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Throw-forward Liabilities",
+    "type": "Financial Metric",
+    "aliases": ["Project Backlog"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Quarterly Release Mechanism",
+    "type": "Financial Regulation",
+    "aliases": ["Q1 Releases"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Gwadar Development Projects",
+    "type": "Infrastructure Project",
+    "aliases": ["Gwadar Port", "M-8 Corridor"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Karakoram Highway Relocation",
+    "type": "Infrastructure Project",
+    "aliases": ["KKH Relocation"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Islamabad Model Prison",
+    "type": "Specific Project",
+    "aliases": ["Model Prison"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

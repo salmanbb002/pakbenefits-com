@@ -1,0 +1,178 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/blog/public-sector-development-programme-psdp-2026-27#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/blog/public-sector-development-programme-psdp-2026-27"
+      },
+      "headline": "Public Sector Development Programme (PSDP) 2026–27: Comprehensive Budget Allocation & Project Breakdown",
+      "description": "Explore the PSDP 2026–27 outlay of Rs 1,000 billion, provincial ADPs, NHA & Water sector allocations, 5Es strategy, and Q1 release updates.",
+      "mainEntityOfPage": "https://example.com/blog/public-sector-development-programme-psdp-2026-27",
+      "datePublished": "2026-10-08T12:00:00+05:00",
+      "dateModified": "2026-10-08T12:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://example.com/author/muhammad-salman"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Public Sector Development Programme",
+          "alternateName": "PSDP",
+          "sameAs": "https://en.wikipedia.org/wiki/Public_Sector_Development_Programme"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Planning, Development and Special Initiatives",
+          "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Planning_Development_and_Special_Initiatives"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Economic Council",
+          "alternateName": "NEC",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Economic_Council_(Pakistan)"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Highway Authority",
+          "alternateName": "NHA",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Highway_Authority"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Planning Commission of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/Planning_Commission_(Pakistan)"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/blog/public-sector-development-programme-psdp-2026-27#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the total federal PSDP allocation for FY 2026–27?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The total federal PSDP allocation for Fiscal Year 2026–27 is Rs 1,000 billion. This forms part of the broader Rs 3,675 billion National Development Outlay approved by the National Economic Council."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who approves the Public Sector Development Programme in Pakistan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The National Economic Council (NEC), chaired by the Prime Minister of Pakistan and comprising provincial Chief Ministers and federal ministers, formally approves the PSDP."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which sector received the highest corporate funding in PSDP 2026–27?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The National Highway Authority (NHA) received the highest corporate allocation of Rs 224.5 billion under the corporate development budget block for road and motorway networks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the 5Es included in the PSDP 2026–27 strategic framework?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 5Es framework consists of Exports, E-Pakistan, Environment, Energy & Infrastructure, and Equity & Empowerment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much money was authorized during Q1 (July–September 2026) of PSDP 2026–27?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Planning Commission authorized Rs 220.721 billion (22% of the federal allocation) during the first quarter of FY 2026–27."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are new development projects limited in the PSDP 2026–27 budget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "New projects are restricted to prevent cost overruns and curb throw-forward liabilities, ensuring ongoing high-priority projects receive adequate funding to reach completion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much budget is allocated for provincial development programs (ADPs) in 2026–27?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Provincial Annual Development Programs (ADPs) have been allocated a total outlay of Rs 2,224 billion across all four provinces for local public development."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the role of the Planning Commission in PSDP fund releases?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Planning Commission, under the Ministry of Planning, authorizes quarterly releases, monitors project execution, and conducts performance audits on public spending."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are foreign-funded development projects included in PSDP 2026–27?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, foreign-funded development projects are prioritized and granted exceptions under the new project entry criteria to ensure international commitment compliance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can citizens download the official PSDP 2026–27 budget document?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Citizens can view and download the complete PSDP 2026–27 allocation document on the official website of the Ministry of Planning, Development and Special Initiatives (pc.gov.pk)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/blog/public-sector-development-programme-psdp-2026-27#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://example.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PSDP 2026–27 Guide",
+          "item": "https://example.com/blog/public-sector-development-programme-psdp-2026-27"
+        }
+      ]
+    }
+  ]
+}

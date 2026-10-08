@@ -1492,6 +1492,429 @@ export const categories: Category[] = [
 
 export const articles: Article[] = [
   {
+    slug: "prime-minister-fuel-relief-scheme-2026",
+    relatedSlugs: [
+      "pm-fuel-relief-scheme-updates",
+      "pm-petrol-relief-scheme-updates-2026",
+      "bisp-benazir-kafaalat-8171-check",
+      "bisp-status-cnic-online"
+    ],
+    title: "Prime Minister Fuel Relief Scheme: 9771 SMS Registration, Eligibility & Subsidy Rates",
+    excerpt: "Register for the Prime Minister Fuel Relief Scheme via free 9771 SMS. Learn vehicle eligibility (motorcycles, rickshaws, 800cc cars), subsidy rates, TOK commands, and 9772 helpline support.",
+    showExcerpt: true,
+    metaTitle: "PM Fuel Relief Scheme 2026: 9771 SMS Register & Subsidy Guide",
+    metaDescription: "Register for the Prime Minister Fuel Relief Scheme via free 9771 SMS. Learn vehicle eligibility (motorcycles, rickshaws, 800cc cars), subsidy rates, TOK commands, and 9772 helpline support.",
+    focusKeyword: "Prime Minister Fuel Relief Scheme",
+    lsiKeywords: [
+      "prime minister fuel relief scheme 2026",
+      "9771 sms registration format",
+      "pm fuel relief scheme eligibility",
+      "800cc car fuel subsidy pakistan",
+      "tok fuel token code 9771",
+      "9772 retailer helpline control room",
+      "rs 500 weekly motorcycle fuel discount",
+      "rs 100 per litre car fuel subsidy"
+    ],
+    entities: [
+      "Prime Minister Fuel Relief Scheme",
+      "Ministry of Energy (Petroleum Division)",
+      "9771 SMS Shortcode",
+      "National Database and Registration Authority",
+      "Computerized National Identity Card",
+      "Excise and Taxation Department",
+      "Benazir Income Support Programme"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: [
+      "other-schemes",
+      "news"
+    ],
+    date: "October 8, 2026",
+    publishedDate: "October 8, 2026",
+    readTime: "10 min read",
+    image: "/images/pm-petrol-relief-scheme-updates.jpg",
+    imageAlt: "Infographic detailing Prime Minister Fuel Relief Scheme 9771 SMS registration format and subsidy quotas",
+    author: contributors.muhammadSalman,
+    officialLinks: [
+      { label: "Ministry of Energy Petroleum Division", href: "https://petroleum.gov.pk/" },
+      { label: "Ministry of Information & Broadcasting Notice", href: "https://moib.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What is the Prime Minister Fuel Relief Scheme in 2026?",
+        paragraphs: [
+          "The Prime Minister’s Fuel Relief Scheme is a targeted social assistance initiative administered by the Ministry of Energy (Petroleum Division) to shield vulnerable citizens from fluctuating global oil prices. Unlike broad subsidies that benefit high-income commuters, this targeted mechanism transfers financial relief directly to low-income vehicle owners across all four provinces, Islamabad Capital Territory, Azad Jammu & Kashmir, and Gilgit-Baltistan.",
+          "By integrating real-time identity verification through the National Database and Registration Authority (NADRA), the government ensures that subsidies reach genuine vehicle owners while mitigating ghost claims and retail leakages."
+        ],
+        subsections: [
+          {
+            title: "Key Objectives of the Petrol Subsidy Program",
+            paragraphs: [
+              "The central objective of the program is reducing daily transport expenditure for commercial commuters and low-wage workers. The scheme operates via direct point-of-sale digital discount tokens rather than blanket cash distributions."
+            ],
+            links: [
+              { label: "Read PM Petrol Scheme Latest Updates 2026", href: "/pm-fuel-relief-scheme-updates/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who is Eligible for the PM Fuel Relief Scheme?",
+        paragraphs: [
+          "Eligibility for the PM Petrol Relief Scheme depends on vehicle engine displacement, registration recency, and verified mobile SIM ownership. Applicants must possess a valid 13-digit Computerized National Identity Card (CNIC) matched with a registered cellular connection."
+        ],
+        subsections: [
+          {
+            title: "Vehicle Categories (Motorcycles, Rickshaws & 800cc Cars)",
+            paragraphs: [
+              "Two/Three-Wheelers: Motorcycles, auto-rickshaws, and Qingqis used for personal commuting or daily fare transport qualify for flat weekly relief tokens.",
+              "Small Cars: Four-wheeled passenger vehicles with an engine displacement capacity up to 800cc (such as Suzuki Mehran, Alto 800cc, and Suzuki Bolan) qualify for monthly volume-capped discounts. Vehicles exceeding 800cc capacity are strictly excluded."
+            ]
+          },
+          {
+            title: "Vehicle Age Cutoff & CNIC Ownership Rules",
+            paragraphs: [
+              "Vehicles registered on or after January 1, 2006 are eligible for registration under the 20-year vehicle age policy. Additionally, each applicant can link only one vehicle per CNIC. The applicant’s mobile SIM card must be registered under the exact same CNIC to pass automated NADRA database checks."
+            ],
+            links: [
+              { label: "Check BISP Kafalat 8171 Eligibility Online", href: "/bisp-benazir-kafaalat-8171-check/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "How to Register for PM Fuel Relief Scheme via 9771 SMS?",
+        paragraphs: [
+          "Citizens can complete their registration for free by sending an SMS to the official shortcode 9771. The system does not charge any service fee or require internet connectivity."
+        ],
+        subsections: [
+          {
+            title: "Step-by-Step 9771 SMS Syntax & Example Format",
+            paragraphs: [
+              "To apply, compose a new text message on your mobile phone and send it to 9771 using the standard REG command: REG [CNIC Number] [Vehicle Plate Number] [Province Code] [Registration Date DDMMYYYY].",
+              "Worked Example: REG 6110114620675 ADV811 P 16052017"
+            ]
+          },
+          {
+            title: "List of Official Province Codes for Registration",
+            paragraphs: [
+              "Use the single-letter capital code corresponding to your registration authority: P (Punjab), S (Sindh), K (Khyber Pakhtunkhwa), B (Balochistan), I (Islamabad), A (Azad Jammu & Kashmir), and G (Gilgit-Baltistan)."
+            ],
+            table: {
+              caption: "Official Registration Province Codes for 9771 SMS",
+              headers: ["Province / Territory", "Single-Letter Code", "Registration Book Example"],
+              rows: [
+                ["Punjab", "P", "Lahore / Rawalpindi / Multan plates"],
+                ["Sindh", "S", "Karachi / Hyderabad / Sukkur plates"],
+                ["Khyber Pakhtunkhwa", "K", "Peshawar / Mardan / Swat plates"],
+                ["Balochistan", "B", "Quetta / Khuzdar / Turbat plates"],
+                ["Islamabad Capital Territory", "I", "ICT / Islamabad plates"],
+                ["Azad Jammu & Kashmir", "A", "Muzaffarabad / Mirpur plates"],
+                ["Gilgit-Baltistan", "G", "Gilgit / Skardu plates"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        title: "How to Claim Your Petrol Subsidy Token (TOK Command)?",
+        paragraphs: [
+          "Once you receive a confirmation SMS verifying successful registration, send TOK to 9771 before visiting the petrol station. You will receive a 6-digit digital token code to present to the pump attendant."
+        ],
+        subsections: [
+          {
+            title: "Presenting Fuel Tokens at Registered Petrol Stations",
+            paragraphs: [
+              "Show the token code to the attendant prior to refueling. The attendant verifies the token on their digital terminal, applying the instant discount to your transaction. Tokens expire after 72 hours if unused."
+            ],
+            links: [
+              { label: "Verify BISP Status via CNIC Online", href: "/bisp-status-cnic-online/" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "What are the Monthly Subsidy Rates and Quotas?",
+        paragraphs: [
+          "The scheme provides structured financial caps based on vehicle class to ensure equitable distribution of welfare funds across Pakistan."
+        ],
+        table: {
+          caption: "Vehicle Category Subsidy & Quota Breakdown",
+          headers: ["Vehicle Category", "Subsidy Structure", "Token Frequency", "Monthly Quota / Value"],
+          rows: [
+            ["Motorcycles & Rickshaws", "Rs 500 flat discount per token", "1 token per week", "4 tokens / Rs 2,000 per month"],
+            ["Qingqis", "Rs 500 flat discount per token", "1 token per week", "4 tokens / Rs 2,000 per month"],
+            ["Small Cars (Up to 800cc)", "Rs 100/litre discount on 10L", "1 token every 10 days", "30 litres / Rs 3,000 per month"]
+          ]
+        }
+      },
+      {
+        title: "What is the Difference Between PM Fuel Relief (9771) and BISP (8171)?",
+        paragraphs: [
+          "The PM Fuel Relief Scheme is an independent initiative administered by the Petroleum Division and is not part of the Benazir Income Support Programme (BISP 8171). While BISP provides direct quarterly cash transfers (Rs 13,500) based on PMT poverty scores, the 9771 fuel subsidy provides fuel-specific point-of-sale discounts to verified vehicle owners."
+        ],
+        links: [
+          { label: "Understand PMT score rules for welfare eligibility", href: "/what-counts-as-a-good-pmt-score/" }
+        ]
+      },
+      {
+        title: "How to Fix 9771 Registration Errors and Rejections?",
+        paragraphs: [
+          "Common registration issues include mobile SIM ownership mismatches (SIM must be under applicant CNIC), hyphens included in CNIC, or date format errors. Ensure date is written in DDMMYYYY format. Petrol station operators encountering terminal errors can contact the official Ministry of Energy Control Room helpline at 9772."
+        ]
+      },
+      {
+        title: "Safety Warning: How to Avoid Fuel Subsidy Scams",
+        paragraphs: [
+          "Registration via 9771 SMS is 100% free of charge. Never pay money to third-party registration agents, download unofficial APK files, or share your banking passwords or OTP codes."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the official SMS shortcode for the PM Fuel Relief Scheme?",
+        answer: "The official SMS shortcode is 9771. All registration requests and token generations are processed exclusively through this shortcode free of cost."
+      },
+      {
+        question: "How much fuel subsidy do motorcycle owners receive in 2026?",
+        answer: "Motorcycle owners receive a subsidy of Rs 500 per week, distributed as four tokens per month, providing a total monthly relief of Rs 2,000."
+      },
+      {
+        question: "Can 1000cc or 1300cc car owners apply for the PM Petrol Relief Scheme?",
+        answer: "No, the scheme strictly caps car eligibility at an engine capacity of 800cc. Vehicles exceeding 800cc displacement are ineligible."
+      },
+      {
+        question: "What is the correct SMS syntax to register a vehicle on 9771?",
+        answer: "The correct format is REG [CNIC] [Vehicle Number] [Province Code] [Registration Date]. For example: REG 6110114620675 ADV811 P 16052017."
+      },
+      {
+        question: "Is there any fee for registering via 9771 SMS?",
+        answer: "No, sending an SMS to 9771 is completely free of charge. The government does not charge any processing fees for registration or token generation."
+      },
+      {
+        question: "How do I request a fuel token code before going to the petrol pump?",
+        answer: "After your registration is approved, send the text message TOK to 9771. You will receive a digital token code to show at the petrol pump."
+      },
+      {
+        question: "Does the PM Fuel Relief Scheme require enrollment in BISP (8171)?",
+        answer: "No, the PM Fuel Relief Scheme operates independently under the Ministry of Energy (Petroleum Division). BISP registration is not required."
+      },
+      {
+        question: "What should I do if my vehicle was registered before January 1, 2006?",
+        answer: "Vehicles registered prior to January 1, 2006 fall outside the scheme's 20-year eligibility criteria and cannot be registered under current guidelines."
+      },
+      {
+        question: "What helpline number can petrol station operators call for system technical issues?",
+        answer: "Petrol pump operators and retailers can call the dedicated Ministry of Energy control room helpline at 9772 for real-time terminal support."
+      },
+      {
+        question: "Can I register multiple vehicles under a single CNIC?",
+        answer: "No, the system enforces a strict limit of one vehicle per CNIC to ensure fair distribution of targeted welfare funds."
+      }
+    ]
+  },
+
+  {
+    slug: "public-sector-development-programme-psdp-2026-27",
+    relatedSlugs: [
+      "major-government-schemes-updates-september-october-2026",
+      "federal-contributory-pension-scheme",
+      "national-savings-profit-rates",
+      "bisp-benazir-kafaalat-8171-check",
+      "other-active-financial-support"
+    ],
+    title: "Public Sector Development Programme (PSDP) 2026–27: Comprehensive Budget Allocation & Project Breakdown",
+    excerpt: "Discover the Public Sector Development Programme (PSDP) 2026–27 outlay of Rs 3,675 billion, including Rs 1,000 billion for Federal PSDP, provincial ADPs, NHA and Water sector allocations, 5Es strategy, and Q1 fund release updates.",
+    showExcerpt: true,
+    metaTitle: "Public Sector Development Programme (PSDP) 2026–27: Budget Breakdown",
+    metaDescription: "Explore the PSDP 2026–27 outlay of Rs 1,000 billion, provincial ADPs, NHA & Water sector allocations, 5Es strategy, and Q1 release updates.",
+    focusKeyword: "Public Sector Development Programme (PSDP) 2026–27",
+    lsiKeywords: [
+      "psdp 2026-27 total budget allocation",
+      "federal psdp 2026-27 breakdown pc gov pk",
+      "nha psdp allocation 2026-27",
+      "water resources division psdp release 2026-27",
+      "provincial adps fy 2026-27 outlay",
+      "5es strategy psdp 2026-27",
+      "psdp q1 july september authorization status 2026"
+    ],
+    entities: [
+      "Public Sector Development Programme",
+      "Ministry of Planning, Development and Special Initiatives",
+      "National Economic Council",
+      "5Es Strategy",
+      "National Highway Authority",
+      "Water Resources Division",
+      "Provincial Annual Development Programs",
+      "URAAN Pakistan"
+    ],
+    primaryCategory: "News",
+    categorySlugs: [
+      "news",
+      "other-schemes"
+    ],
+    date: "October 8, 2026",
+    publishedDate: "October 8, 2026",
+    readTime: "10 min read",
+    image: "/images/public-sector-development-programme-psdp-2026-27.jpg",
+    imageAlt: "Official Public Sector Development Programme PSDP 2026-27 budget outlay infographic detailing federal and provincial allocations",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "Ministry of Planning, Development and Special Initiatives Official Portal", href: "https://pc.gov.pk/" },
+      { label: "National Economic Council Secretariat", href: "https://pc.gov.pk/web/nec" },
+      { label: "National Highway Authority Development Projects", href: "https://nha.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What Is the Total Outlay and Structure of PSDP 2026–27?",
+        paragraphs: [
+          "The National Economic Council (NEC) approved a total National Development Outlay of Rs 3,675 billion for Fiscal Year 2026–27 to drive national infrastructure, economic stabilization, and regional development across Pakistan.",
+          "Within the Rs 1,000 billion Federal PSDP allocation, Rs 682.485 billion funds federal ministries and divisions, while Rs 312.515 billion supports major state-owned corporate entities like the National Highway Authority (NHA) and power utilities. An additional Rs 4 billion covers project liabilities, and Rs 1 billion initiates special CPEC 2.0 projects.",
+          "To inspect official document releases, citizens can reference the published schedules on the Ministry of Planning, Development and Special Initiatives portal."
+        ],
+        table: {
+          caption: "PSDP 2026–27 National Development Outlay Structure",
+          headers: ["Budget Development Component", "Approved Outlay (FY 2026–27)", "Share of Total Outlay (%)", "Primary Operational Focus"],
+          rows: [
+            ["Federal PSDP", "Rs 1,000 billion", "27.2%", "Federal ministries, strategic infrastructure & CPEC 2.0"],
+            ["Provincial ADPs", "Rs 2,224 billion", "60.5%", "Provincial public works, healthcare, education & local roads"],
+            ["State-Owned Enterprises (SOEs)", "Rs 451 billion", "12.3%", "Off-budget self-financed corporate utility projects"],
+            ["Total National Outlay", "Rs 3,675 billion", "100.0%", "Comprehensive national capital investment program"]
+          ]
+        },
+        links: [
+          { label: "Major Government Schemes Updates 2026", href: "/major-government-schemes-updates-september-october-2026/" },
+          { label: "Federal Contributory Pension Scheme Overview", href: "/federal-contributory-pension-scheme/" }
+        ]
+      },
+      {
+        title: "How Does PSDP 2026–27 Align with the 5Es Strategy and URAAN Pakistan?",
+        paragraphs: [
+          "The PSDP 2026–27 framework directly operationalizes the government’s URAAN Pakistan economic transformation blueprint and the 13th Five Year Plan through the targeted 5Es strategy.",
+          "The 5Es framework establishes five strategic pillars designed to solve structural economic bottlenecks while maintaining strict fiscal discipline:",
+          "By aligning every project approval with these five pillars, the Planning Commission ensures public capital spending creates measurable economic returns rather than unviable fiscal assets."
+        ],
+        bullets: [
+          "Exports: Accelerating industrial productivity, export processing zones, and technological competitiveness.",
+          "E-Pakistan: Digitizing public services, expanding IT infrastructure, and enhancing youth tech skills.",
+          "Environment: Funding climate-resilient water storage, flood mitigation, and clean energy transitions.",
+          "Energy & Infrastructure: Building power transmission lines and expanding multi-modal transport highways.",
+          "Equity & Empowerment: Investing in human capital development, special geographic regions (AJK and Gilgit-Baltistan), and targeted social protection."
+        ],
+        links: [
+          { label: "BISP 8171 Kafaalat status check guide", href: "/bisp-benazir-kafaalat-8171-check/" }
+        ]
+      },
+      {
+        title: "Which Sectors and Ministries Received the Highest PSDP Allocations?",
+        paragraphs: [
+          "The transport infrastructure and water management sectors secured the largest funding allocations under the Federal PSDP 2026–27 to address critical energy and logistics constraints.",
+          "These allocations ensure that strategic physical assets receive sustained funding, preserving trade logistics across northern and southern corridors."
+        ],
+        bullets: [
+          "National Highway Authority (NHA): Received the single largest corporate allocation of Rs 224.5 billion to complete motorways, national highways, and trade corridors.",
+          "Water Resources Division: Earmarked Rs 103 billion overall, with Rs 74.92 billion specifically dedicated to 35 core water conservation, dam construction, and flood protection projects.",
+          "Gwadar Infrastructure Projects: Allocated over Rs 14.2 billion for the M-8 corridor (Hoshab–Awaran–Khuzdar), New Gwadar International Airport operationalization, and municipal water infrastructure.",
+          "Karakoram Highway (KKH) Relocation: Designated Rs 5 billion for the 102-km Thakot–Raikot section relocation to safeguard vital international trade arteries.",
+          "Cabinet Division & Special Areas: Granted Rs 30 billion for local community schemes alongside Rs 22.15 billion for Azad Jammu & Kashmir (AJK) and Gilgit-Baltistan (GB)."
+        ],
+        links: [
+          { label: "National Savings & Government Profit Rates 2026", href: "/national-savings-profit-rates/" }
+        ]
+      },
+      {
+        title: "Why Did the Government Prioritize Ongoing Schemes Over New Projects?",
+        paragraphs: [
+          "The federal government imposed strict caps on new development schemes during FY 2026–27 to prevent the accumulation of unsustainable throw-forward project liabilities.",
+          "Faced with ministerial demands exceeding Rs 4.1 trillion against a capped Rs 1,000 billion federal budget, the Ministry of Planning established clear entry criteria for new proposals:",
+          "This disciplined approach reduces project gestation periods and prevents cost overruns caused by delayed fund dispersion across thousands of underfunded schemes."
+        ],
+        bullets: [
+          "Ongoing Project Priority: More than 85% of total PSDP funds are reserved for near-completion projects to ensure fast completion.",
+          "Restriction on Unapproved Schemes: Unapproved local projects without secured funding lines were excluded from the main development portfolio.",
+          "Exceptions for Critical Needs: New project inclusions were strictly restricted to national security initiatives, emergency disaster recovery, and foreign-funded commitments."
+        ]
+      },
+      {
+        title: "What Is the First Quarter (Q1) Fund Release and Utilization Status?",
+        paragraphs: [
+          "During the first quarter (July–September 2026) of FY 2026–27, the federal government authorized Rs 220.72 billion in development funds, representing approximately 22% of the annual Federal PSDP allocation.",
+          "The low early utilization rate reflects initial procurement and verification cycles standard in public sector execution, with spending expected to accelerate sharply in Q2 and Q3."
+        ],
+        bullets: [
+          "Total Funds Authorized: Rs 220.721 billion authorized by the Planning Commission (Rs 187.5 billion for ministries, Rs 33.216 billion for corporations).",
+          "Actual Q1 Utilization: Total actual expenditure reached Rs 61.320 billion (6.13% of the total annual budget).",
+          "Top Authorized Ministry: The Water Resources Division received the largest Q1 authorization of Rs 86.517 billion to maintain summer construction momentum on major dams."
+        ],
+        links: [
+          { label: "Other Active Financial Support Compliance Guide", href: "/other-active-financial-support/" }
+        ]
+      },
+      {
+        title: "PSDP 2026–27 vs Previous Fiscal Cycles: Key Shifts & Information-Gain Matrix",
+        paragraphs: [
+          "The FY 2026–27 PSDP shifts national development strategy from broad political scheme expansion toward focused asset completion and climate resilience.",
+          "This comparative matrix highlights Pakistan's policy pivot toward completing mega-infrastructure and water security assets before launching new unbudgeted initiatives."
+        ],
+        table: {
+          caption: "PSDP Historical Fiscal Cycle Strategy Comparison Matrix",
+          headers: ["Strategic Metric", "FY 2025–26 Cycle", "FY 2026–27 Cycle", "Key Structural Shift"],
+          rows: [
+            ["Federal PSDP Cap", "Rs 1,100 billion", "Rs 1,000 billion", "Strategic consolidation to control fiscal deficits"],
+            ["Provincial ADPs", "Rs 2,095 billion", "Rs 2,224 billion", "Increased provincial share under 18th Amendment framework"],
+            ["SOE Self-Financed Outlay", "Rs 380 billion", "Rs 451 billion", "Greater reliance on corporate off-budget capital expansion"],
+            ["New Project Inclusion Rule", "Broad discretionary entries", "Restricted to defense & foreign funding", "Elimination of unfunded project throw-forward backlog"],
+            ["Strategic Policy Anchor", "General Economic Framework", "URAAN Pakistan & 5Es Strategy", "Strict alignment with measurable sector benchmark targets"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the total federal PSDP allocation for FY 2026–27?",
+        answer: "The total federal PSDP allocation for Fiscal Year 2026–27 is Rs 1,000 billion. This forms part of the broader Rs 3,675 billion National Development Outlay approved by the National Economic Council."
+      },
+      {
+        question: "Who approves the Public Sector Development Programme in Pakistan?",
+        answer: "The National Economic Council (NEC), chaired by the Prime Minister of Pakistan and comprising provincial Chief Ministers and federal ministers, formally approves the PSDP."
+      },
+      {
+        question: "Which sector received the highest corporate funding in PSDP 2026–27?",
+        answer: "The National Highway Authority (NHA) received the highest corporate allocation of Rs 224.5 billion under the corporate development budget block for road and motorway networks."
+      },
+      {
+        question: "What are the 5Es included in the PSDP 2026–27 strategic framework?",
+        answer: "The 5Es framework consists of Exports, E-Pakistan, Environment, Energy & Infrastructure, and Equity & Empowerment."
+      },
+      {
+        question: "How much money was authorized during Q1 (July–September 2026) of PSDP 2026–27?",
+        answer: "The Planning Commission authorized Rs 220.721 billion (22% of the federal allocation) during the first quarter of FY 2026–27."
+      },
+      {
+        question: "Why are new development projects limited in the PSDP 2026–27 budget?",
+        answer: "New projects are restricted to prevent cost overruns and curb throw-forward liabilities, ensuring ongoing high-priority projects receive adequate funding to reach completion."
+      },
+      {
+        question: "How much budget is allocated for provincial development programs (ADPs) in 2026–27?",
+        answer: "Provincial Annual Development Programs (ADPs) have been allocated a total outlay of Rs 2,224 billion across all four provinces for local public development."
+      },
+      {
+        question: "What is the role of the Planning Commission in PSDP fund releases?",
+        answer: "The Planning Commission, under the Ministry of Planning, authorizes quarterly releases, monitors project execution, and conducts performance audits on public spending."
+      },
+      {
+        question: "Are foreign-funded development projects included in PSDP 2026–27?",
+        answer: "Yes, foreign-funded development projects are prioritized and granted exceptions under the new project entry criteria to ensure international commitment compliance."
+      },
+      {
+        question: "Where can citizens download the official PSDP 2026–27 budget document?",
+        answer: "Citizens can view and download the complete PSDP 2026–27 allocation document on the official website of the Ministry of Planning, Development and Special Initiatives (pc.gov.pk)."
+      }
+    ]
+  },
+
+  {
     slug: "other-active-financial-support",
     relatedSlugs: [
       "bisp-benazir-kafaalat-8171-check",
@@ -1964,6 +2387,8 @@ export const articles: Article[] = [
 
   {
     slug: "pm-fuel-relief-scheme-updates",
+    // Reciprocal link added
+
     relatedSlugs: [
       "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
       "pm-petrol-relief-scheme-updates-2026",
@@ -5152,6 +5577,8 @@ export const articles: Article[] = [
 
   {
     slug: "bisp-benazir-kafaalat-8171-check",
+    // Reciprocal link added
+
     title: "BISP Benazir Kafaalat 2026: 8171 Online CNIC Check & Complete Eligibility Guide",
     excerpt: "Complete 2026 step-by-step guide to check BISP Benazir Kafaalat payment status online by CNIC via the 8171 web portal. Learn PMT score cutoffs, NSER dynamic survey registration, Rs 13,500 quarterly stipend updates, and digital wallet payment methods.",
     showExcerpt: true,
