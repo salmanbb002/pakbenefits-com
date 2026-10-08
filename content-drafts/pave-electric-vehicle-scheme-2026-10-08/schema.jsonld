@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/pave-electric-vehicle-scheme-2026/#article",
+      "isPartOf": {
+        "@id": "https://example.com/pave-electric-vehicle-scheme-2026/#webpage"
+      },
+      "headline": "PAVE Electric Vehicle Scheme 2026: Complete Guide to EV Subsidies, Eligibility & Online Application",
+      "description": "Complete guide to Pakistan's PAVE Electric Vehicle Scheme 2026. Learn about Rs 80,000 e-bike subsidies, Phase 2 rules, eligibility, and apply online at pave.gov.pk.",
+      "datePublished": "2026-10-08T12:00:00+05:00",
+      "dateModified": "2026-10-08T12:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/pave-electric-vehicle-scheme-2026/",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Author Name",
+        "url": "TODO: Author Profile URL"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Publisher Logo URL"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Pakistan Accelerated Vehicle Electrification (PAVE) Scheme",
+          "sameAs": "https://pave.gov.pk"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Engineering Development Board",
+          "sameAs": "https://en.wikipedia.org/wiki/Engineering_Development_Board"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Industries and Production",
+          "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Industries_and_Production_(Pakistan)"
+        },
+        {
+          "@type": "BankOrCreditUnion",
+          "name": "State Bank of Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Punjab Information Technology Board",
+          "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block", "h1"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/pave-electric-vehicle-scheme-2026/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the PAVE Electric Vehicle Scheme in Pakistan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The PAVE scheme (Pakistan Accelerated Vehicle Electrification) is a federal government initiative under the NEVP 2025–2030 policy offering financial subsidies of Rs 80,000 for electric bikes and up to Rs 400,000 for electric rickshaws and loaders."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much subsidy is provided for electric bikes under PAVE?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Approved electric two-wheelers receive a direct federal government subsidy of Rs 80,000 per unit, reducing the net purchase cost for buyers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the official website to apply online for the PAVE scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applications and tracking are handled exclusively through the official federal portal at pave.gov.pk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is balloting required for PAVE Phase 2 in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, PAVE Phase 2 has eliminated computerized balloting and processes all applications on a strict first-come, first-served queue based on submission timestamp."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the Self-Finance Scheme subsidy transfer work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Under Self-Finance, the applicant pays the net vehicle price upfront, and the State Bank of Pakistan (SBP) directly transfers the Rs 80,000 subsidy into the applicant's verified bank account after motor registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the subsidy amount for electric rickshaws and loaders?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Electric three-wheelers (rickshaws and cargo loaders) receive a government subsidy of up to Rs 400,000 per vehicle depending on battery specification and category."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can students apply for the PAVE electric bike scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, enrolled students aged 18 and above with a valid CNIC and educational institution ID can apply under dedicated student quota allocations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does PAVE differ from the CM Punjab Electric Bike Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PAVE is a nationwide federal scheme managed by the EDB covering 2-wheelers and 3-wheelers via pave.gov.pk, whereas the CM Punjab scheme is restricted to Punjab students and operated via bikes.punjab.gov.pk and Bank of Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a driving license mandatory to apply for PAVE?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, applicants must possess a valid motorcycle/three-wheeler driving license or official learner permit issued by police licensing authorities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is vehicle registration required before receiving the PAVE subsidy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vehicle registration with excise authorities is mandatory to verify chassis and motor serial numbers against the applicant's CNIC, preventing fraud and unauthorized resale."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/pave-electric-vehicle-scheme-2026/#howto",
+      "name": "How to Apply Online for the PAVE Scheme at pave.gov.pk",
+      "description": "Step-by-step procedure to register, complete documentation, and receive subsidies under the federal PAVE scheme.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Account Registration & Profile Setup",
+          "text": "Visit pave.gov.pk, enter your 13-digit CNIC, mobile number, and email address, and verify via SMS OTP."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Form Completion & Vehicle Model Selection",
+          "text": "Fill personal profile details, select scheme type (Self-Finance or Bank Lease), and pick an approved OEM EV model."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Document Upload & Verification Submission",
+          "text": "Upload CNIC scans, photograph, driving license/learner permit, and student/commercial ID proof before submitting."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Digital Verification & Pay Order Formalities",
+          "text": "Upon NADRA and SBP digital verification approval, complete Pay Order formalities to finalize vehicle delivery."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/pave-electric-vehicle-scheme-2026/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Government Schemes",
+          "item": "https://example.com/govt-schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PAVE Electric Vehicle Scheme 2026",
+          "item": "https://example.com/pave-electric-vehicle-scheme-2026/"
+        }
+      ]
+    }
+  ]
+}

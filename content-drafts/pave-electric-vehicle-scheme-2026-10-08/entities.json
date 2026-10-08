@@ -1,0 +1,202 @@
+[
+  {
+    "canonical": "Pakistan Accelerated Vehicle Electrification",
+    "type": "Government Program",
+    "aliases": ["PAVE", "PAVE Scheme", "PAVE Program", "Pakistan EV Subsidy Scheme"],
+    "sameAs": "https://pave.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Engineering Development Board",
+    "type": "Government Agency",
+    "aliases": ["EDB", "EDB Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Engineering_Development_Board",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ministry of Industries and Production",
+    "type": "Government Agency",
+    "aliases": ["MoIP", "Ministry of Industries"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Industries_and_Production_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "New Energy Vehicles Policy 2025–2030",
+    "type": "Policy Framework",
+    "aliases": ["NEVP 2025-2030", "NEV Policy 2030", "National EV Policy"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "pave.gov.pk",
+    "type": "Web Portal",
+    "aliases": ["PAVE Official Portal", "pave.gov.pk apply online"],
+    "sameAs": "https://pave.gov.pk",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Electric Bike Subsidy",
+    "type": "Financial Incentive",
+    "aliases": ["Rs 80,000 Subsidy", "E-Bike Subsidy Pakistan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Electric Rickshaw and Loader Subsidy",
+    "type": "Financial Incentive",
+    "aliases": ["Rs 400,000 Rickshaw Subsidy", "Three-Wheeler EV Subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "State Bank of Pakistan",
+    "type": "Central Bank",
+    "aliases": ["SBP"],
+    "sameAs": "https://en.wikipedia.org/wiki/State_Bank_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Self-Finance Scheme",
+    "type": "Payment Category",
+    "aliases": ["Self-Finance Category", "Upfront Subsidy Reimbursement"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bank Lease Scheme",
+    "type": "Financing Category",
+    "aliases": ["Bank Finance Scheme", "Installment Plan"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "PAVE Phase 2",
+    "type": "Program Phase",
+    "aliases": ["Phase II", "PAVE Phase 2 2026"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "First-Come, First-Served Selection",
+    "type": "Selection Method",
+    "aliases": ["No Balloting", "Timestamp Queue"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "Government Agency",
+    "aliases": ["NADRA", "CNIC Verification"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Punjab Information Technology Board",
+    "type": "Government Agency",
+    "aliases": ["PITB"],
+    "sameAs": "https://en.wikipedia.org/wiki/Punjab_Information_Technology_Board",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Original Equipment Manufacturer",
+    "type": "Business Entity",
+    "aliases": ["OEM", "Approved EV Manufacturers", "EV Vendors"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Vehicle Registration Requirement",
+    "type": "Legal Requirement",
+    "aliases": ["Motor Licensing Registration", "Federal and Provincial Registration"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "CM Punjab Electric Bike Scheme",
+    "type": "Provincial Scheme",
+    "aliases": ["Punjab E-Bike Scheme", "BOP Student Bike Scheme"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "60 Percent Subsidy Rate",
+    "type": "Financial Metric",
+    "aliases": ["60% EV Subsidy", "Government Price Cut"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Pay Order Deposit",
+    "type": "Payment Method",
+    "aliases": ["Pay Order", "UBL Pay Order"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Economic Coordination Committee",
+    "type": "Government Committee",
+    "aliases": ["ECC"],
+    "sameAs": "https://en.wikipedia.org/wiki/Economic_Coordination_Committee_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
