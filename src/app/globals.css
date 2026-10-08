@@ -59,6 +59,8 @@ button {
 
 img {
   max-width: 100%;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height);
 }
 
 h1,
@@ -1043,6 +1045,7 @@ h3 {
 
 .article-image {
   position: relative;
+  aspect-ratio: 16 / 9;
   min-height: 210px;
   display: block;
   overflow: hidden;
