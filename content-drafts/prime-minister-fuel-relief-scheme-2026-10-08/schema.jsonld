@@ -1,0 +1,204 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://pakbenefits.com/pm-fuel-relief-scheme-2026/#blogposting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://pakbenefits.com/pm-fuel-relief-scheme-2026/"
+      },
+      "headline": "Prime Minister Fuel Relief Scheme: 9771 SMS Registration, Eligibility & Subsidy Rates",
+      "description": "Register for the Prime Minister Fuel Relief Scheme via free 9771 SMS. Learn vehicle eligibility (motorcycles, rickshaws, 800cc cars), subsidy rates, TOK commands, and 9772 helpline support.",
+      "datePublished": "2026-10-08T00:00:00+05:00",
+      "dateModified": "2026-10-08T00:00:00+05:00",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Senior SEO & Public Welfare Content Specialist",
+        "url": "https://pakbenefits.com/authors/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PakBenefits",
+        "url": "https://pakbenefits.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pakbenefits.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "GovernmentService",
+          "name": "Prime Minister Fuel Relief Scheme",
+          "sameAs": "https://en.wikipedia.org/wiki/Energy_policy_of_Pakistan"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Energy (Petroleum Division)",
+          "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Energy_(Pakistan)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "GovernmentAgency",
+          "name": "National Database and Registration Authority",
+          "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority"
+        },
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Excise and Taxation Department",
+          "sameAs": "https://en.wikipedia.org/wiki/Excise_and_Taxation_Department"
+        },
+        {
+          "@type": "GovernmentService",
+          "name": "Benazir Income Support Programme",
+          "sameAs": "https://en.wikipedia.org/wiki/Benazir_Income_Support_Programme"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block"]
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://pakbenefits.com/pm-fuel-relief-scheme-2026/#howto",
+      "name": "How to Register for Prime Minister Fuel Relief Scheme via 9771 SMS",
+      "description": "Step-by-step guide to registering your vehicle for petrol subsidy via free 9771 SMS service.",
+      "totalTime": "PT3M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Open SMS Application",
+          "text": "Open the native text messaging app on your mobile phone connected to a SIM card registered under your own CNIC."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Format Registration Command",
+          "text": "Compose a message using the syntax: REG [CNIC] [Vehicle Plate Number] [Province Code] [Registration Date DDMMYYYY]."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Send Message to 9771",
+          "text": "Send the completed text message to shortcode 9771. Registration is completely free."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Receive Verification Confirmation",
+          "text": "Wait for automated NADRA and Excise verification reply confirming vehicle eligibility."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://pakbenefits.com/pm-fuel-relief-scheme-2026/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the official SMS shortcode for the PM Fuel Relief Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The official SMS shortcode is 9771. All registration requests and token generations are processed exclusively through this shortcode free of cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much fuel subsidy do motorcycle owners receive in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Motorcycle owners receive a subsidy of Rs 500 per week, distributed as four tokens per month, providing a total monthly relief of Rs 2,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can 1000cc or 1300cc car owners apply for the PM Petrol Relief Scheme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the scheme strictly caps car eligibility at an engine capacity of 800cc. Vehicles exceeding 800cc displacement are ineligible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the correct SMS syntax to register a vehicle on 9771?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The correct format is REG [CNIC] [Vehicle Number] [Province Code] [Registration Date]. For example: REG 6110114620675 ADV811 P 16052017."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any fee for registering via 9771 SMS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, sending an SMS to 9771 is completely free of charge. The government does not charge any processing fees for registration or token generation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I request a fuel token code before going to the petrol pump?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After your registration is approved, send the text message TOK to 9771. You will receive a digital token code to show at the petrol pump."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the PM Fuel Relief Scheme require enrollment in BISP (8171)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the PM Fuel Relief Scheme operates independently under the Ministry of Energy (Petroleum Division). BISP registration is not required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if my vehicle was registered before January 1, 2006?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vehicles registered prior to January 1, 2006 fall outside the scheme's 20-year eligibility criteria and cannot be registered under current guidelines."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What helpline number can petrol station operators call for system technical issues?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Petrol pump operators and retailers can call the dedicated Ministry of Energy control room helpline at 9772 for real-time terminal support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I register multiple vehicles under a single CNIC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the system enforces a strict limit of one vehicle per CNIC to ensure fair distribution of targeted welfare funds."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pakbenefits.com/pm-fuel-relief-scheme-2026/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://pakbenefits.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Welfare Schemes",
+          "item": "https://pakbenefits.com/schemes/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PM Fuel Relief Scheme",
+          "item": "https://pakbenefits.com/pm-fuel-relief-scheme-2026/"
+        }
+      ]
+    }
+  ]
+}

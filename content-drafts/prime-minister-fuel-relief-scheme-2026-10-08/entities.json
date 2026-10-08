@@ -1,0 +1,142 @@
+[
+  {
+    "canonical": "Prime Minister Fuel Relief Scheme",
+    "type": "Government Program",
+    "aliases": ["PM Fuel Relief Scheme", "PM Petrol Subsidy Scheme", "Wazir-e-Azam Petrol Relief Program"],
+    "sameAs": "https://en.wikipedia.org/wiki/Energy_policy_of_Pakistan",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Ministry of Energy (Petroleum Division)",
+    "type": "Government Organization",
+    "aliases": ["Ministry of Energy", "Petroleum Division Pakistan"],
+    "sameAs": "https://en.wikipedia.org/wiki/Ministry_of_Energy_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "9771 SMS Shortcode",
+    "type": "Communication Code",
+    "aliases": ["9771", "9771 Registration Code"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "National Database and Registration Authority",
+    "type": "Government Agency",
+    "aliases": ["NADRA"],
+    "sameAs": "https://en.wikipedia.org/wiki/National_Database_and_Registration_Authority",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "800cc Engine Capacity Cap",
+    "type": "Metric",
+    "aliases": ["800cc car limit", "800cc displacement threshold"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 500 Weekly Subsidy",
+    "type": "Money",
+    "aliases": ["Rs 500 fuel token", "Rs 500 weekly discount"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Rs 100 Per Litre Discount",
+    "type": "Money",
+    "aliases": ["Rs 100 off per litre", "Rs 100 petrol subsidy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Computerized National Identity Card",
+    "type": "Identifier",
+    "aliases": ["CNIC", "13-digit CNIC"],
+    "sameAs": "https://en.wikipedia.org/wiki/Computerised_National_Identity_Card",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "SIM Card Ownership Linkage",
+    "type": "Requirement",
+    "aliases": ["SIM CNIC matching", "registered SIM"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "January 1, 2006 Registration Cutoff",
+    "type": "Date",
+    "aliases": ["2006 vehicle age cutoff", "20-year registration limit"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Excise and Taxation Department",
+    "type": "Provincial Department",
+    "aliases": ["Provincial Excise", "Vehicle Excise Department"],
+    "sameAs": "https://en.wikipedia.org/wiki/Excise_and_Taxation_Department",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "TOK SMS Command",
+    "type": "Command",
+    "aliases": ["TOK command", "TOK to 9771"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "9772 Control Room Helpline",
+    "type": "Phone Number",
+    "aliases": ["9772 helpline", "petrol pump control room 9772"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Province Codes",
+    "type": "Parameter",
+    "aliases": ["P S K B I A G", "provincial registration single-letter codes"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 2
+  }
+]
