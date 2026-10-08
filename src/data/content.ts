@@ -31133,6 +31133,448 @@ officialLinks: [
       }
     ]
   },
+  {
+    slug: "scotland-pakistan-scholarships-young-women-girls",
+    title: "Scotland Pakistan Scholarships for Young Women and Girls: Complete Eligibility, Benefits, and Application Guide",
+    excerpt: "The Scotland Pakistan Scholarships for Young Women and Girls is a fully funded financial aid program funded by the Scottish Government and administered by the British Council Pakistan. It covers university tuition, hostel accommodation, and travel for eligible female Pakistani students pursuing undergraduate or master's degrees at HEC-recognized universities inside Pakistan.",
+    metaTitle: "Scotland Pakistan Scholarships for Young Women & Girls (2026-27 Guide)",
+    metaDescription: "Complete guide to the Scotland Pakistan Scholarships for Young Women and Girls by British Council. Learn eligibility, covered fields, benefits, and how to apply.",
+    focusKeyword: "scotland pakistan scholarships for young women and girls",
+    lsiKeywords: [
+      "scotland pakistan scholarship eligibility criteria",
+      "scotland pakistan scholarship eligible fields of study",
+      "scotland pakistan scholarship online application portal",
+      "scotland pakistan scholarship hostel and travel allowance",
+      "no gre ielts rule british council scholarship"
+    ],
+    entities: [
+      "Scottish Government",
+      "British Council Pakistan",
+      "Higher Education Commission",
+      "Scotland Pakistan Scholarships for Young Women and Girls"
+    ],
+    primaryCategory: "Other Schemes",
+    categorySlugs: ["other-schemes", "taleemi-wazaif"],
+    date: "October 9, 2026",
+    readTime: "8 min read",
+    image: "/images/scotland-pakistan-scholarships.jpg",
+    imageAlt: "Scotland Pakistan Scholarships for Young Women and Girls Complete Guide",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "Official British Council Pakistan Portal", href: "https://www.britishcouncil.pk/programmes/education/scholarships/scotland-pakistan-scholarships-young-women-girls" },
+      { label: "Official HEC Recognized Universities Directory", href: "https://www.hec.gov.pk/" }
+    ],
+    sections: [
+      {
+        title: "What is the Scotland Pakistan Scholarship for Young Women and Girls?",
+        paragraphs: [
+          "The Scotland Pakistan Scholarships for Young Women and Girls is an equity-driven higher education grant designed to reduce financial barriers for female students across Pakistan. Launched to promote gender equality and empower women through tertiary education, the scheme enables qualified candidates to pursue accredited degrees without the burden of academic or living expenses."
+        ],
+        subsections: [
+          {
+            title: "Who Funds and Administers the Scholarship Scheme?",
+            paragraphs: [
+              "The Scottish Government provides the primary financial grant for the program as part of its international development and educational equality initiatives. The British Council Pakistan serves as the executive administrator, managing the publicity, online application portal, applicant shortlisting, interview verification, and annual fund distribution to host institutions."
+            ],
+            links: [
+              { label: "Check BISP Eligibility Criteria Guide", href: "/bisp-eligibility-criteria-guide" }
+            ]
+          },
+          {
+            title: "Myth vs. Reality: Does the Scholarship Fund Study in Scotland or the UK?",
+            paragraphs: [
+              "A common misconception among applicants is that the scholarship funds international travel or degree programs located in Scotland or the United Kingdom. In reality, the scheme exclusively funds studies at Higher Education Commission (HEC) recognized universities located within Pakistan."
+            ],
+            table: {
+              caption: "Scotland Pakistan Scholarship Myth vs. Reality Overview",
+              headers: ["Aspect", "Common Misconception", "Actual Reality"],
+              rows: [
+                ["Study Location", "Universities in Scotland / UK", "Any HEC-recognized university inside Pakistan"],
+                ["Travel Coverage", "International airfare to Europe", "Local domestic travel twice a year for hostellers"],
+                ["Testing Requirement", "IELTS or GRE exam required", "No IELTS or GRE required for application"],
+                ["University Type", "Public universities only", "Both public and private HEC-recognized universities"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        title: "What Benefits Are Covered by the Scotland Pakistan Scholarship?",
+        paragraphs: [
+          "The Scotland Pakistan Scholarship provides comprehensive financial funding that eliminates both direct academic costs and essential living expenses for selected scholars. Award packages are customized based on whether the recipient resides on campus or attends university as a day scholar."
+        ],
+        subsections: [
+          {
+            title: "Financial Support for Tuition Fees and Academic Costs",
+            paragraphs: [
+              "The scholarship pays 100% of approved university tuition fees directly to the scholar's institution for the full duration of the degree program. This financial waiver covers standard course charges, registration fees, and official academic dues billed by HEC-recognized institutions."
+            ]
+          },
+          {
+            title: "Hostel Accommodation Charges, Travel Stipend, and Master's Research Grants",
+            paragraphs: [
+              "Hostel-resident scholars receive full coverage for university-administered boarding fees alongside a bi-annual travel stipend to cover round-trip transit between their home town and campus. Master's and MPhil scholars also receive a dedicated research grant to assist with thesis printing, data collection, and laboratory consumables."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the Scotland Pakistan Scholarships?",
+        paragraphs: [
+          "Eligibility for the Scotland Pakistan Scholarship is determined by nationality, gender, academic standing, and enrollment status at an accredited university. Applicants must satisfy all baseline criteria at the time of online form submission."
+        ],
+        subsections: [
+          {
+            title: "Academic Level and HEC University Admission Requirements",
+            paragraphs: [
+              "Applicants must be female Pakistani nationals currently residing in Pakistan who hold a confirmed admission offer or are currently enrolled in an HEC-recognized university. Eligible academic levels include four-year Bachelor's (BS) degrees and two-year Master's or MPhil programs."
+            ],
+            links: [
+              { label: "Taleemi Wazaif Registration Guide", href: "/taleemi-wazaif-registration-guide" }
+            ]
+          },
+          {
+            title: "Eligible Disciplines: STEM, Health, Climate, and Agriculture",
+            paragraphs: [
+              "The scholarship supports degrees within six key priority subject fields vital to national development. Programs outside these specified fields are not eligible for funding under the current award guidelines."
+            ],
+            bullets: [
+              "STEM: Science, Technology, Engineering, Mathematics, Computer Science, and Data Analytics.",
+              "Education: Pedagogy, Early Childhood Education, Educational Leadership, and Special Education.",
+              "Sustainable Energy: Renewable Energy Engineering, Solar Technology, and Energy Economics.",
+              "Food Security and Agriculture: Agronomy, Veterinary Sciences, Food Technology, and Crop Protection.",
+              "Health Sciences: Public Health, Nursing, Pharmacy, Allied Health Sciences, and Medicine.",
+              "Climate Change: Environmental Sciences, Disaster Management, and Meteorology."
+            ]
+          },
+          {
+            title: "Priority Categories: Disability, Rural Backgrounds, and Minorities",
+            paragraphs: [
+              "The selection committee gives enhanced consideration to young women from socio-economically marginalized backgrounds. Young women with physical disabilities, candidates residing in rural or underdeveloped districts, and applicants from religious minority communities are strongly encouraged to apply."
+            ]
+          }
+        ]
+      },
+      {
+        title: "How to Apply Online for the Scotland Pakistan Scholarship?",
+        paragraphs: [
+          "Applications for the Scotland Pakistan Scholarship are processed exclusively through the British Council Pakistan online application portal. Paper applications sent by mail or delivered in person are not accepted."
+        ],
+        subsections: [
+          {
+            title: "Step-by-Step Online Portal Application Walkthrough",
+            paragraphs: [
+              "1. Access Portal: Visit the official British Council Pakistan scholarships webpage and navigate to the online application link.",
+              "2. Account Registration: Register an account using a valid email address and active mobile number.",
+              "3. Select Degree Tier: Choose between the Bachelor's (BS) or Master's/MPhil application form depending on your current level.",
+              "4. Complete Personal & Academic Details: Fill in full name, CNIC/Form-B number, university name, department, enrolled degree program, and CGPA or intermediate marks.",
+              "5. Provide Financial Information: Disclose family monthly income, father/guardian employment details, dependent family members, and monthly household expenses.",
+              "6. Document Upload & Submission: Upload clear scanned PDF or image files of all required supporting documents and click final submit."
+            ]
+          },
+          {
+            title: "Mandatory Required Documents and Income Proof Checklist",
+            paragraphs: [
+              "To prevent application rejection, candidates must compile and upload legible copies of all mandatory verification documents prior to the published deadline."
+            ],
+            bullets: [
+              "Identity Proof: Applicant CNIC or Form-B copy, alongside parent/guardian CNIC copy.",
+              "Income Proof: Salary slip, pension book copy, or official land/business income certificate certified by local authorities.",
+              "Academic Proof: Verified transcripts/certificates for Matric, Intermediate, or Bachelor's degrees.",
+              "Admission Proof: Official university admission offer letter or department enrollment verification head letter showing current semester.",
+              "Fee Schedules: Official university tuition fee structure and hostel fee breakdown issued by the campus finance office.",
+              "Special Category Proof: Disability certificate issued by the National/Provincial Council for Rehabilitation of Disabled Persons, if applicable."
+            ],
+            links: [
+              { label: "Required Documents for BISP Registration", href: "/documents-for-bisp-registration" }
+            ]
+          }
+        ]
+      },
+      {
+        title: "Undergraduate vs. Master's Scholarship Comparison & Key Features Matrix",
+        paragraphs: [
+          "The table below highlights the comparative features between the undergraduate and postgraduate award categories under the Scotland Pakistan Scholarship program."
+        ],
+        table: {
+          caption: "Undergraduate vs. Master's Scholarship Award Comparison",
+          headers: ["Feature / Detail", "Undergraduate Award (BS)", "Master's / MPhil Award (MS/MPhil)"],
+          rows: [
+            ["Maximum Grant Duration", "Up to 4 Academic Years", "Up to 2 Academic Years"],
+            ["Eligible Degree Types", "4-Year Bachelor's (BS, BSc, BE, MBBS)", "2-Year Master's (MS, MSc, MPhil)"],
+            ["Tuition Coverage", "100% Direct University Payment", "100% Direct University Payment"],
+            ["Hostel & Boarding Fees", "Covered for campus boarders", "Covered for campus boarders"],
+            ["Travel Allowance", "2 Trips per year for hostellers", "2 Trips per year for hostellers"],
+            ["Thesis / Research Grant", "Not Included", "Included (Thesis & lab costs)"],
+            ["Standardized Test (IELTS/GRE)", "Exempt", "Exempt"],
+            ["Institution Requirement", "Any HEC-Recognized University", "Any HEC-Recognized University"]
+          ]
+        }
+      }
+    ],
+    faqs: [
+      {
+        question: "Does the Scotland Pakistan Scholarship cover studies in Scotland or the UK?",
+        answer: "No, the Scotland Pakistan Scholarship does not cover studies in Scotland or the United Kingdom. The scholarship exclusively funds undergraduate and master's degree programs at Higher Education Commission (HEC) recognized universities located inside Pakistan."
+      },
+      {
+        question: "What degree levels are eligible for the Scotland Pakistan Scholarship?",
+        answer: "The scholarship supports four-year Bachelor's (undergraduate) degrees and maximum two-year Master's or MPhil (postgraduate) degrees. Short diploma courses, associate degrees, and PhD doctorates are not eligible under this program."
+      },
+      {
+        question: "Is IELTS or GRE required to apply for this scholarship?",
+        answer: "No, neither IELTS nor GRE test scores are required to apply for the Scotland Pakistan Scholarship. Applicants are evaluated based on their existing academic credentials and demonstrated financial need."
+      },
+      {
+        question: "Which academic disciplines are covered under the scholarship?",
+        answer: "The scholarship covers six specific fields: Education, Sustainable Energy, Food Security and Agriculture, Health Sciences, STEM, and Climate Change. Applications for subjects outside these six fields will not be considered."
+      },
+      {
+        question: "Can first-year university students apply for the Scotland Pakistan Scholarship?",
+        answer: "Yes, newly admitted first-year university students holding a confirmed admission offer from an HEC-recognized university can apply. Students in subsequent semesters who meet the CGPA criteria are also eligible."
+      },
+      {
+        question: "What financial benefits are provided to hostel residents versus day scholars?",
+        answer: "Hostel-resident scholars receive full tuition fee coverage, university hostel boarding fees, and a bi-annual travel stipend. Day scholars receive full tuition fee coverage but do not receive hostel or travel allowances."
+      },
+      {
+        question: "Are students attending private universities eligible for the scholarship?",
+        answer: "Yes, female students attending private universities are fully eligible provided the specific university and degree program are formally recognized by HEC Pakistan."
+      },
+      {
+        question: "What proof of income is accepted if a parent is self-employed or retired?",
+        answer: "For self-employed parents, an official income certificate signed by the local revenue officer or union council chairman is accepted. For retired parents, a copy of the official pension book or bank statement showing pension credit serves as valid proof."
+      },
+      {
+        question: "How and when are scholarship funds disbursed to selected candidates?",
+        answer: "Tuition fees are disbursed directly to the beneficiary university's bank account on a semester basis. Hostel allowances, travel stipends, and research grants are transferred directly to the scholar's personal bank account."
+      },
+      {
+        question: "What is the deadline for the Scotland Pakistan Scholarship 2026-27 cycle?",
+        answer: "The application deadline for the 2026-27 academic cycle was extended to September 15, 2026. Applicants should monitor the official British Council Pakistan portal for announcements regarding future application windows."
+      }
+    ]
+  },
+  {
+    slug: "cm-and-pm-electric-bike-schemes",
+    title: "CM and PM Electric Bike Schemes in Pakistan: Complete Application & Eligibility Guide",
+    excerpt: "The CM Punjab Electric Bike Scheme offers regular university students in Punjab 0% interest financing via the Bank of Punjab with PKR 3,028 monthly installments over 36 months, whereas the federal PM Electric Bike Scheme (PAVE) provides nationwide applicants a direct price subsidy of up to PKR 80,000 per electric motorcycle. Both programs aim to reduce fuel import costs and promote green transportation.",
+    showExcerpt: true,
+    metaTitle: "CM and PM Electric Bike Schemes: Eligibility, Subsidy & Apply Guide (2026)",
+    metaDescription: "Compare CM Punjab and PM PAVE Electric Bike Schemes. Discover eligibility criteria, interest-free installment plans, Rs 80k subsidies, LFP battery specs, and official application portals.",
+    focusKeyword: "CM and PM Electric Bike Schemes",
+    lsiKeywords: [
+      "CM Punjab Electric Bike Scheme 2026",
+      "PM Electric Bike Scheme PAVE portal",
+      "Punjab E-Bike Scheme eligibility criteria",
+      "PM E-Bike subsidy amount",
+      "bikes punjab gov pk online registration",
+      "pave gov pk application portal",
+      "interest free electric bike installment plan",
+      "lithium iron phosphate battery e bike pakistan"
+    ],
+    entities: [
+      "Muhammad Salman",
+      "Chief Minister Punjab Student E-Bike Scheme",
+      "Prime Minister Federal Electric Bike Scheme (PAVE)",
+      "Bank of Punjab",
+      "PITB Computerized Balloting",
+      "Lithium Iron Phosphate (LFP) Battery",
+      "Punjab Traffic Police Riding Training",
+      "Government Employees (BPS 1-16)"
+    ],
+    primaryCategory: "Punjab Schemes",
+    categorySlugs: ["punjab-schemes", "other-schemes"],
+    date: "October 09, 2026",
+    publishedDate: "2026-10-09",
+    lastChecked: "October 09, 2026",
+    readTime: "9 min read",
+    image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
+    imageAlt: "CM and PM Electric Bike Schemes Pakistan Comparison and Eligibility Guide",
+    author: contributors.muhammadSalman,
+    reviewer: contributors.ayeshaMalik,
+    officialLinks: [
+      { label: "Official Punjab E-Bikes Portal", href: "https://bikes.punjab.gov.pk/" },
+      { label: "Official Federal PAVE Portal", href: "https://pave.gov.pk/" },
+      { label: "Bank of Punjab E-Bike Financing Portal", href: "https://www.bop.com.pk/" }
+    ],
+    relatedSlugs: [
+      "electric-bike-scheme-expansions",
+      "cm-punjab-e-bikes-scheme-phase-2",
+      "maryam-nawaz-electric-bike-scheme-2026",
+      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
+      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
+      "punjab-rozgar-scheme-guide",
+      "pm-youth-business-loan-guide"
+    ],
+    sections: [
+      {
+        title: "What Are the CM and PM Electric Bike Schemes in Pakistan?",
+        paragraphs: [
+          "Pakistan's federal and provincial governments have launched targeted electric vehicle initiatives to reduce urban pollution and lower transport costs for students, civil servants, and commuters. While both initiatives promote zero-emission transportation, they operate under distinct administrative frameworks, budgets, and eligibility criteria.",
+          "The Chief Minister Punjab Electric Bike Scheme, spearheaded by Chief Minister Maryam Nawaz and managed through the Punjab Information Technology Board (PITB), focuses primarily on regular students enrolled in higher education institutions across Punjab. The provincial government pays the complete interest markup and registration fees, allowing students to acquire an electric motorcycle through 36 interest-free monthly installments. In Phase II, the scheme expands to include government school teachers and civil servants up to BPS-16.",
+          "The Prime Minister Electric Bike Scheme operates under the Pakistan Accelerated Vehicle Electrification (PAVE) framework administered by the Ministry of Industries & Production and SMEDA. Unlike provincial loan models, PAVE delivers an immediate price subsidy of PKR 80,000 for individual electric motorcycles and up to PKR 400,000 for commercial e-trikes. The federal initiative covers citizens across all four provinces, Azad Jammu & Kashmir (AJK), and Gilgit-Baltistan."
+        ],
+        links: [
+          { label: "CM Punjab E-Bikes Scheme Phase 2 Details", href: "/cm-punjab-e-bikes-scheme-phase-2/" },
+          { label: "Federal PAVE Scheme Eligibility & Subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
+        ]
+      },
+      {
+        title: "CM vs PM Electric Bike Schemes: What Is the Difference?",
+        paragraphs: [
+          "Understanding the operational differences between the Punjab provincial program and the federal scheme is essential before submitting an online application. The primary difference lies in the financial delivery: Punjab uses a bank-financed loan model where the government absorbs all interest charges, while the Federal PAVE scheme acts as a price write-down at the point of sale."
+        ],
+        table: {
+          caption: "Comprehensive Comparison: CM Punjab vs. PM Federal PAVE E-Bike Schemes",
+          headers: ["Feature / Metric", "CM Punjab Electric Bike Scheme", "PM Federal PAVE E-Bike Scheme"],
+          rows: [
+            ["Administrative Scope", "Punjab Province only", "Nationwide (4 Provinces, AJK, GB)"],
+            ["Primary Beneficiaries", "Regular University & College Students, Teachers, BPS 1-16 Staff", "All Pakistani Citizens (Ages 18–65), Youth & Small Businesses"],
+            ["Financial Mechanism", "0% Interest Financing via Bank of Punjab (BOP)", "Direct Capital Subsidy (Up to PKR 80,000 discount)"],
+            ["Installment Plan", "36 Months (~PKR 3,028 / month)", "Partner Bank Financing or Outright Subsidized Purchase"],
+            ["Battery Technology", "Lithium Iron Phosphate (LFP) Packs", "Certified OEM Lithium-ion / LFP Batteries"],
+            ["Government Perks", "Free Helmet, Safety Rod & 2-Day Riding Training", "Price Discount at OEM Dealership"],
+            ["Color & Gender Quota", "Black (Male) & Pink (Female) 50:50 Quota", "Open Commercial Color Options"],
+            ["Total Program Quota", "100,000 Units (Phase II)", "116,000 Units (FY 2026 Quota)"],
+            ["Selection Mechanism", "PITB Computerized E-Balloting", "First-Come, First-Served Allocation"],
+            ["Official Online Portal", "bikes.punjab.gov.pk", "pave.gov.pk"]
+          ]
+        },
+        links: [
+          { label: "2026 Electric Bike Scheme Expansions Overview", href: "/electric-bike-scheme-expansions/" }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the CM Punjab Electric Bike Scheme?",
+        paragraphs: [
+          "Eligibility for the Punjab Chief Minister Electric Bike Scheme requires verified residency, active educational enrollment, and specific personal identification documents.",
+          "Applicants must be regular students enrolled in a degree program at a Public or Private University or Graduate College recognized by the Higher Education Commission (HEC). Female students receive a dedicated 50% quota under the Pink Bike initiative to encourage female mobility across Punjab campuses.",
+          "Every applicant must possess a valid CNIC showing Punjab domicile and a valid motorcycle driving license or learner's permit issued by Punjab Traffic Police. Applicants must also provide a parent, spouse, or sibling as a financial guarantor who possesses a clean Electronic Credit Information Bureau (ECIB) clearance report with no default history at the Bank of Punjab."
+        ],
+        links: [
+          { label: "Pink Scooty Scheme Eligibility & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
+        ]
+      },
+      {
+        title: "Who Is Eligible for the PM Federal Electric Bike Scheme (PAVE)?",
+        paragraphs: [
+          "The federal PAVE initiative has broader eligibility rules designed to democratize electric vehicle adoption across the country.",
+          "Any Pakistani citizen aged 18 to 65 possessing a valid CNIC and a motorcycle driving license is eligible to apply for the federal subsidy. Applicants are eligible regardless of whether they are self-employed, private employees, or students, provided they have not previously received a federal vehicle subsidy.",
+          "The PAVE framework allocates dedicated quotas for federal civil servants in grades BPS-1 to BPS-16, young entrepreneurs, and delivery workers. Special provisions also exist for small business owners seeking subsidized electric loaders to convert commercial transport from petrol to electric power."
+        ],
+        links: [
+          { label: "PM Youth Business & Agriculture Loan Guide", href: "/pm-youth-business-loan-guide/" }
+        ]
+      },
+      {
+        title: "Technical Specifications, Battery Safety & Student Perks",
+        paragraphs: [
+          "Beyond financial assistance, the 2026 e-bike schemes incorporate enhanced battery safety standards and student protection measures.",
+          "The electric motorcycles deployed in the CM Punjab scheme feature advanced Lithium Iron Phosphate (LFP) battery chemistry. LFP batteries offer superior thermal stability, preventing overheating during intense summer conditions, while providing an operational range of 60 to 100 km per charge with over 2,000 charge-discharge cycles.",
+          "To ensure equitable access, the Punjab government reserves pink-colored electric bikes for female applicants and sleek black-colored models for male applicants. Furthermore, every successful student receives a complimentary helmet, custom crash safety rods, and mandatory 2-day hands-on riding training conducted free of charge by the Punjab Traffic Police."
+        ]
+      },
+      {
+        title: "How Do the Subsidy and Interest-Free Installment Plans Work?",
+        paragraphs: [
+          "Both schemes significantly lower the barrier to owning an electric motorcycle, but they structure financial assistance differently.",
+          "Under the Punjab scheme, the total cost of an electric motorcycle (typically around PKR 199,000) is reduced to a student-payable balance of PKR 109,000. The Punjab government pays the Bank of Punjab (BOP) all interest markup, token tax, vehicle registration fees, and initial insurance coverage. Students pay zero down payment and settle the remaining amount in 36 equal monthly installments of PKR 3,028.",
+          "The Federal PAVE Program reduces the retail price of certified electric bikes at the manufacturer level. Upon approval through the federal portal, the government disburses PKR 80,000 directly to the authorized original equipment manufacturer (OEM), such as Metro, Yadea, Vlektra, or Ecodost. The applicant pays only the remaining balance upfront or finances it through partner commercial banks."
+        ],
+        links: [
+          { label: "Punjab Rozgar Subsidized Loan Guide", href: "/punjab-rozgar-scheme-guide/" }
+        ]
+      },
+      {
+        title: "How to Apply Online for the CM Punjab Electric Bike Scheme?",
+        paragraphs: [
+          "Applying for the Punjab e-bike program is conducted through a structured 5-section submission process on the official government portal bikes.punjab.gov.pk.",
+          "Step 1 (Account Registration): Visit bikes.punjab.gov.pk and register an account using your CNIC, mobile number, and active email address.",
+          "Step 2 (Section 1 & 2 - Personal & Guarantor Info): Input full name, domicile district, CNIC, and guarantor details (CNIC and income proof for ECIB clearance).",
+          "Step 3 (Section 3 - Educational Institution Verification): Select your HEC-recognized university or college and upload student ID verification.",
+          "Step 4 (Section 4 & 5 - References & Declaration): Enter personal references, upload your valid driving license or learner permit, and sign the digital declaration.",
+          "After the application window closes, the Punjab Information Technology Board (PITB) conducts a transparent computerized draw (e-balloting). Successful candidates receive an official SMS notification and must present original documents at a designated Bank of Punjab branch for final ECIB verification before vehicle delivery."
+        ],
+        links: [
+          { label: "Maryam Nawaz Electric Bike Scheme 2026 Guide", href: "/maryam-nawaz-electric-bike-scheme-2026/" }
+        ]
+      },
+      {
+        title: "How to Apply Online for the PM Federal Electric Bike Scheme?",
+        paragraphs: [
+          "The federal application process utilizes a streamlined digital allocation workflow on the national PAVE portal.",
+          "Access the official federal portal at pave.gov.pk and create an applicant profile with your CNIC, contact information, and province of residence.",
+          "Select your preferred electric bike brand and model from the list of approved manufacturers, upload your CNIC, driving license, and bank details for subsidy verification, and submit the application to generate a unique Federal Tracking ID.",
+          "Because PAVE operates on a first-come, first-served basis within provincial quotas, early submission is vital. Once verified, selected applicants receive a digital authorization voucher to deposit their remaining balance at an authorized bank or dealership, after which the manufacturer delivers the subsidized e-bike."
+        ]
+      },
+      {
+        title: "What Are the Key Application Traps to Avoid? (Decision Checklist)",
+        paragraphs: [
+          "To ensure your application passes both government balloting and bank scrutiny, review this pre-submission checklist:"
+        ],
+        bullets: [
+          "Valid Driving License / Learner Permit: Ensure your learner's permit or full motorcycle license is valid and not expired.",
+          "Guarantor ECIB Clearance: Confirm that your parent or spouse guarantor has no outstanding bank defaults or late credit card payments.",
+          "Official Portal URL Verification: Only submit sensitive documents on .gov.pk domains (bikes.punjab.gov.pk or pave.gov.pk). Never pay application fees to private third-party websites.",
+          "CNIC Domicile Match: Verify that your CNIC matches the target scheme (Punjab domicile for CM scheme; any valid Pakistani CNIC for PM scheme).",
+          "Single Vehicle Rule: Ensure you have not previously received a subsidized vehicle under any provincial or federal government program."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the primary difference between the CM and PM Electric Bike Schemes?",
+        answer: "The CM Punjab Electric Bike Scheme offers 0% interest financing over 36 months specifically for Punjab students and staff via the Bank of Punjab, whereas the PM Federal Electric Bike Scheme (PAVE) provides a direct price subsidy of PKR 80,000 to citizens across all provinces in Pakistan."
+      },
+      {
+        question: "Who is eligible to apply for the Punjab CM Electric Bike Scheme?",
+        answer: "Regular students enrolled in HEC-recognized public or private universities and graduate colleges in Punjab, as well as government teachers and employees in BPS 1-16, are eligible provided they possess a valid CNIC and driving license."
+      },
+      {
+        question: "What type of battery is used in the CM Punjab Electric Bikes?",
+        answer: "The CM Punjab Electric Bikes use durable Lithium Iron Phosphate (LFP) batteries, which provide enhanced thermal stability, long cycle life, and a driving range of 60 to 100 km per charge."
+      },
+      {
+        question: "What extra perks and safety equipment do selected Punjab students receive?",
+        answer: "Selected students receive a free safety helmet, installed vehicle crash protection rods, and two days of free riding training conducted by the Punjab Traffic Police."
+      },
+      {
+        question: "What is the official website for the Punjab CM Electric Bike Scheme?",
+        answer: "The official website for online registration and status checking for the Punjab CM Electric Bike Scheme is bikes.punjab.gov.pk."
+      },
+      {
+        question: "How much is the monthly installment for the Punjab CM Electric Bike?",
+        answer: "The monthly installment for the Punjab CM Electric Bike is approximately PKR 3,028 paid over a 36-month tenure with zero interest markup."
+      },
+      {
+        question: "What is the subsidy amount under the PM Federal PAVE E-Bike Scheme?",
+        answer: "The PM Federal PAVE Scheme provides a direct capital subsidy of PKR 80,000 per electric motorcycle and up to PKR 400,000 for commercial electric loaders and trikes."
+      },
+      {
+        question: "What is the official website for the PM Federal Electric Bike Scheme?",
+        answer: "The official website for the federal PAVE electric bike scheme is pave.gov.pk."
+      },
+      {
+        question: "Can students from Sindh, KPK, or Balochistan apply for the CM Punjab Scheme?",
+        answer: "Students from other provinces can only apply for the CM Punjab scheme if they are enrolled as regular students in an institution located within Punjab and possess institutional verification."
+      },
+      {
+        question: "Is a driving license mandatory for applying for an electric bike scheme?",
+        answer: "Yes, a valid motorcycle driving license or a valid learner's permit is mandatory for both the CM Punjab and PM Federal electric bike schemes."
+      },
+      {
+        question: "How are candidates selected for the CM Punjab Electric Bike Scheme?",
+        answer: "Candidates for the CM Punjab scheme are selected through a computerized e-balloting system managed by the Punjab Information Technology Board (PITB) following document verification by the Bank of Punjab."
+      },
+      {
+        question: "How does selection work for the PM Federal PAVE Scheme?",
+        answer: "Selection for the PM Federal PAVE scheme operates on a first-come, first-served basis within designated provincial and sector quotas."
+      }
+    ]
+  },
 ];
 
 export const informationPages: InformationPage[] = [

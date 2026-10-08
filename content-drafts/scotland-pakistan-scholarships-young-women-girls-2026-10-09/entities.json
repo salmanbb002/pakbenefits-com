@@ -1,0 +1,242 @@
+[
+  {
+    "canonical": "Scottish Government",
+    "type": "Organization",
+    "aliases": ["Government of Scotland", "Scottish Executive"],
+    "sameAs": "https://en.wikipedia.org/wiki/Scottish_Government",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "British Council Pakistan",
+    "type": "Organization",
+    "aliases": ["British Council PK", "British Council"],
+    "sameAs": "https://en.wikipedia.org/wiki/British_Council",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Higher Education Commission",
+    "type": "Organization",
+    "aliases": ["HEC Pakistan", "HEC"],
+    "sameAs": "https://en.wikipedia.org/wiki/Higher_Education_Commission_(Pakistan)",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Scotland Pakistan Scholarships for Young Women and Girls",
+    "type": "Educational Grant Scheme",
+    "aliases": ["Scotland Pakistan Scholarship", "British Council Scotland Scholarship"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Female / Women Students",
+    "type": "Demographic",
+    "aliases": ["Pakistani Women", "Young Girls", "Female Candidates"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Bachelor's Degree",
+    "type": "Degree Level",
+    "aliases": ["Undergraduate", "BS", "4-Year Bachelor"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Master's / MPhil Degree",
+    "type": "Degree Level",
+    "aliases": ["Postgraduate", "MS", "2-Year Master"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tuition Fees",
+    "type": "Financial Benefit",
+    "aliases": ["University Tuition Charges", "Full Tuition Waiver"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Hostel Accommodation",
+    "type": "Financial Benefit",
+    "aliases": ["University Boarding", "Hostel Fees", "Campus Boarding"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Travel Allowance",
+    "type": "Financial Benefit",
+    "aliases": ["Travel Expense", "Bi-Annual Travel Stipend", "Travel Expenses"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Research Funds",
+    "type": "Financial Benefit",
+    "aliases": ["Master's Research Grant", "Thesis Allowance"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "STEM",
+    "type": "Subject Field",
+    "aliases": ["Science Technology Engineering Mathematics"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Education",
+    "type": "Subject Field",
+    "aliases": ["Pedagogy", "Teacher Training"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Sustainable Energy",
+    "type": "Subject Field",
+    "aliases": ["Renewable Energy", "Clean Energy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Food Security and Agriculture",
+    "type": "Subject Field",
+    "aliases": ["Agricultural Sciences", "Agronomy"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Health Sciences",
+    "type": "Subject Field",
+    "aliases": ["Medicine", "Nursing", "Public Health"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Climate Change",
+    "type": "Subject Field",
+    "aliases": ["Environmental Sciences", "Climate Action"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Admission Offer / Letter",
+    "type": "Document",
+    "aliases": ["Confirmed Admission", "University Enrollment Letter"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Income Proof",
+    "type": "Document",
+    "aliases": ["Salary Slip", "Pension Slip", "Parent Income Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "CNIC / Form-B",
+    "type": "Document",
+    "aliases": ["National ID", "Applicant Identity Card"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Disability Certificate",
+    "type": "Document",
+    "aliases": ["Special Needs Verification Certificate"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Rural Background / Minorities",
+    "type": "Demographic",
+    "aliases": ["Disadvantaged Groups", "Marginalized Women"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Online Application Portal",
+    "type": "Tool",
+    "aliases": ["British Council Online Form"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "No GRE / IELTS Rule",
+    "type": "Concept",
+    "aliases": ["Test Waiver", "No Entry Exam Required"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  }
+]

@@ -1,0 +1,228 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/scotland-pakistan-scholarships-young-women-girls/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://example.com/scotland-pakistan-scholarships-young-women-girls/"
+      },
+      "headline": "Scotland Pakistan Scholarships for Young Women and Girls: Complete Eligibility, Benefits, and Application Guide",
+      "description": "Complete guide to the Scotland Pakistan Scholarships for Young Women and Girls by British Council. Learn eligibility, covered fields, benefits, and how to apply.",
+      "datePublished": "2026-10-09T00:00:00+05:00",
+      "dateModified": "2026-10-09T00:00:00+05:00",
+      "mainEntityOfPage": "https://example.com/scotland-pakistan-scholarships-young-women-girls/",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "url": "https://example.com/author/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Fill Site / Publisher Name",
+        "url": "https://example.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Scottish Government",
+          "sameAs": "https://en.wikipedia.org/wiki/Scottish_Government"
+        },
+        {
+          "@type": "Organization",
+          "name": "British Council Pakistan",
+          "sameAs": "https://en.wikipedia.org/wiki/British_Council"
+        },
+        {
+          "@type": "Organization",
+          "name": "Higher Education Commission (Pakistan)",
+          "sameAs": "https://en.wikipedia.org/wiki/Higher_Education_Commission_(Pakistan)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Bachelor's Degree (Undergraduate)"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Master's / MPhil Degree (Postgraduate)"
+        },
+        {
+          "@type": "MonetaryGrant",
+          "name": "Tuition Fee Waiver and University Boarding Allowance"
+        },
+        {
+          "@type": "Place",
+          "name": "Pakistan"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "h1",
+          ".direct-answer-block"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/scotland-pakistan-scholarships-young-women-girls/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Scholarships",
+          "item": "https://example.com/scholarships/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Scotland Pakistan Scholarships for Young Women and Girls",
+          "item": "https://example.com/scotland-pakistan-scholarships-young-women-girls/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/scotland-pakistan-scholarships-young-women-girls/#howto",
+      "name": "How to Apply Online for the Scotland Pakistan Scholarship for Young Women and Girls",
+      "description": "Step-by-step instructions for completing the online application form on the British Council Pakistan scholarship portal.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Access Portal",
+          "text": "Visit the official British Council Pakistan scholarships webpage and click on the active online application portal link."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Account Registration",
+          "text": "Register a candidate account using a valid email address and an active mobile number."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Select Degree Tier",
+          "text": "Select either the Bachelor's (BS) or Master's/MPhil application form depending on your enrolled academic level."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Complete Personal & Academic Details",
+          "text": "Fill in your CNIC/Form-B number, university name, department, degree title, and previous academic marks or CGPA."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Provide Financial Information",
+          "text": "Disclose family monthly income, father/guardian employment details, and household expenses accurately."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Document Upload & Final Submission",
+          "text": "Upload clear scanned PDF or image copies of identity proof, income proof, university admission letter, and fee structure, then submit."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/scotland-pakistan-scholarships-young-women-girls/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does the Scotland Pakistan Scholarship cover studies in Scotland or the UK?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the Scotland Pakistan Scholarship does not cover studies in Scotland or the United Kingdom. The scholarship exclusively funds undergraduate and master's degree programs at Higher Education Commission (HEC) recognized universities located inside Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What degree levels are eligible for the Scotland Pakistan Scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The scholarship supports four-year Bachelor's (undergraduate) degrees and maximum two-year Master's or MPhil (postgraduate) degrees. Short diploma courses, associate degrees, and PhD doctorates are not eligible under this program."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is IELTS or GRE required to apply for this scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, neither IELTS nor GRE test scores are required to apply for the Scotland Pakistan Scholarship. Applicants are evaluated based on their existing academic credentials and demonstrated financial need."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which academic disciplines are covered under the scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The scholarship covers six specific fields: Education, Sustainable Energy, Food Security and Agriculture, Health Sciences, STEM, and Climate Change. Applications for subjects outside these six fields will not be considered."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can first-year university students apply for the Scotland Pakistan Scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, newly admitted first-year university students holding a confirmed admission offer from an HEC-recognized university can apply. Students in subsequent semesters who meet the CGPA criteria are also eligible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What financial benefits are provided to hostel residents versus day scholars?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hostel-resident scholars receive full tuition fee coverage, university hostel boarding fees, and a bi-annual travel stipend. Day scholars receive full tuition fee coverage but do not receive hostel or travel allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are students attending private universities eligible for the scholarship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, female students attending private universities are fully eligible provided the specific university and degree program are formally recognized by HEC Pakistan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What proof of income is accepted if a parent is self-employed or retired?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For self-employed parents, an official income certificate signed by the local revenue officer or union council chairman is accepted. For retired parents, a copy of the official pension book or bank statement showing pension credit serves as valid proof."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How and when are scholarship funds disbursed to selected candidates?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tuition fees are disbursed directly to the beneficiary university's bank account on a semester basis. Hostel allowances, travel stipends, and research grants are transferred directly to the scholar's personal bank account."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the deadline for the Scotland Pakistan Scholarship 2026-27 cycle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The application deadline for the 2026-27 academic cycle was extended to September 15, 2026. Applicants should monitor the official British Council Pakistan portal for announcements regarding future application windows."
+          }
+        }
+      ]
+    }
+  ]
+}
