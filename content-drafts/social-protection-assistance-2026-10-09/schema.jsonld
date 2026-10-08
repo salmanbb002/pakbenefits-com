@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://example.com/blog/social-protection-and-assistance/#article",
+      "headline": "Social Protection & Assistance: Comprehensive Guide to Pillars, Safety Nets, and Programs",
+      "description": "Explore social protection & assistance: discover the 3 core pillars, cash transfers, social insurance, global safety net examples, and shock-responsive models.",
+      "url": "https://example.com/blog/social-protection-and-assistance/",
+      "datePublished": "2026-10-09T00:00:00+05:00",
+      "dateModified": "2026-10-09T00:00:00+05:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://example.com/blog/social-protection-and-assistance/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Salman",
+        "jobTitle": "Social Policy & Development Specialist",
+        "sameAs": "https://example.com/authors/muhammad-salman/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TODO: Publisher Name",
+        "url": "https://example.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://example.com/logo.png"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Social Protection",
+          "sameAs": "https://en.wikipedia.org/wiki/Social_security"
+        },
+        {
+          "@type": "Thing",
+          "name": "Social Assistance",
+          "sameAs": "https://en.wikipedia.org/wiki/Social_welfare_program"
+        },
+        {
+          "@type": "Organization",
+          "name": "International Labour Organization",
+          "sameAs": "https://en.wikipedia.org/wiki/International_Labour_Organization"
+        },
+        {
+          "@type": "Organization",
+          "name": "World Bank Group",
+          "sameAs": "https://en.wikipedia.org/wiki/World_Bank"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Social Insurance",
+          "sameAs": "https://en.wikipedia.org/wiki/Social_insurance"
+        },
+        {
+          "@type": "Thing",
+          "name": "Unconditional Cash Transfer",
+          "sameAs": "https://en.wikipedia.org/wiki/Unconditional_cash_transfer"
+        },
+        {
+          "@type": "Thing",
+          "name": "Conditional Cash Transfer",
+          "sameAs": "https://en.wikipedia.org/wiki/Conditional_cash_transfer"
+        },
+        {
+          "@type": "Organization",
+          "name": "UNICEF",
+          "sameAs": "https://en.wikipedia.org/wiki/UNICEF"
+        },
+        {
+          "@type": "Thing",
+          "name": "Labor Market Programs",
+          "sameAs": "https://en.wikipedia.org/wiki/Active_labour_market_programme"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer-block", "h1"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/blog/social-protection-and-assistance/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the main difference between social protection and social assistance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Social protection is an overarching policy framework encompassing all state measures designed to manage life-cycle risks, whereas social assistance refers specifically to non-contributory, tax-funded safety nets (like cash transfers) targeted at poor and vulnerable individuals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the 3 main pillars of social protection?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The three main pillars of social protection are non-contributory social assistance, contributory social insurance, and active or passive labor market programs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is an example of an unconditional cash transfer (UCT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An example of an unconditional cash transfer is a quarterly emergency poverty grant disbursed directly to low-income households without requiring specific behavioral conditions such as school attendance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does a conditional cash transfer (CCT) support human capital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A conditional cash transfer supports human capital development by incentivizing beneficiary families to keep children enrolled in school and attend routine pediatric health clinics in order to receive cash disbursements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Proxy Means Testing (PMT) in social assistance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Proxy Means Testing (PMT) is an algorithmic targeting method that estimates household welfare by scoring observable demographic and asset indicators (such as housing quality and appliance ownership) when formal income documents are unavailable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are social assistance programs financed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Social assistance programs are financed through general state tax revenues, national budgets, or international development grants, requiring no direct financial contributions from beneficiaries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Adaptive Social Protection (ASP)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adaptive social protection is an advanced safety net framework designed to quickly scale up cash disbursements or expand eligibility in response to severe climate shocks, natural disasters, or macroeconomic crises."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a national social registry?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A national social registry is a unified central database storing socio-economic and demographic information on households to coordinate eligibility, targeting, and enrollment across multiple social assistance initiatives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the ILO Social Protection Floor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The ILO Social Protection Floor is a globally recognized policy standard (Recommendation No. 202) advocating for basic social security guarantees that ensure access to essential healthcare and basic income security for all citizens across their life cycle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are public works programs called 'productive safety nets'?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Public works programs are called productive safety nets because they provide temporary wage employment to low-income workers while simultaneously creating valuable public infrastructure like rural roads and irrigation channels."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://example.com/blog/social-protection-and-assistance/#howto",
+      "name": "How Governments Target and Deliver Social Assistance Safety Nets",
+      "description": "A 3-step administrative guide detailing how social assistance programs register beneficiaries, score eligibility via PMT, and deliver G2P cash disbursements.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Household Enrolment in Social Registry",
+          "text": "Collect socio-economic and demographic indicators from households into a centralized national social registry."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Eligibility Scoring via Proxy Means Testing (PMT)",
+          "text": "Calculate household PMT welfare scores based on proxy indicators to determine poverty status and eligibility."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Biometric G2P Cash Disbursement",
+          "text": "Disburse targeted funds digitally to verified mobile wallets or bank accounts using biometric identification."
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://example.com/blog/social-protection-and-assistance/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://example.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Social Protection & Assistance",
+          "item": "https://example.com/blog/social-protection-and-assistance/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "canonical": "Social Protection",
+    "type": "Policy Framework",
+    "aliases": ["Social Protection System", "Social Security Framework"],
+    "sameAs": "https://en.wikipedia.org/wiki/Social_security",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Assistance",
+    "type": "Social Safety Net",
+    "aliases": ["Social Safety Nets", "Non-Contributory Assistance", "Social Welfare"],
+    "sameAs": "https://en.wikipedia.org/wiki/Social_welfare_program",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Social Insurance",
+    "type": "Contributory Scheme",
+    "aliases": ["Social Security Insurance", "Contributory Social Protection"],
+    "sameAs": "https://en.wikipedia.org/wiki/Social_insurance",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "International Labour Organization",
+    "type": "Organization",
+    "aliases": ["ILO"],
+    "sameAs": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "World Bank Group",
+    "type": "Organization",
+    "aliases": ["World Bank", "World Bank Social Protection & Jobs"],
+    "sameAs": "https://en.wikipedia.org/wiki/World_Bank",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Unconditional Cash Transfer",
+    "type": "Assistance Instrument",
+    "aliases": ["UCT", "Direct Cash Assistance"],
+    "sameAs": "https://en.wikipedia.org/wiki/Unconditional_cash_transfer",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Conditional Cash Transfer",
+    "type": "Assistance Instrument",
+    "aliases": ["CCT", "Targeted Cash Transfer"],
+    "sameAs": "https://en.wikipedia.org/wiki/Conditional_cash_transfer",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "UNICEF",
+    "type": "Organization",
+    "aliases": ["United Nations Children's Fund"],
+    "sameAs": "https://en.wikipedia.org/wiki/UNICEF",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Labor Market Programs",
+    "type": "Policy Instrument",
+    "aliases": ["Labor Market Policies", "Active Labor Market Policies", "ALMPs"],
+    "sameAs": "https://en.wikipedia.org/wiki/Active_labour_market_programme",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Proxy Means Testing",
+    "type": "Targeting Mechanism",
+    "aliases": ["PMT", "Proxy Means Test", "PMT Score"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Adaptive Social Protection",
+    "type": "Policy Framework",
+    "aliases": ["ASP", "Shock-Responsive Social Protection"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Social Protection Floor",
+    "type": "Policy Standard",
+    "aliases": ["SPF", "ILO Social Protection Floor"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "In-Kind Assistance",
+    "type": "Assistance Instrument",
+    "aliases": ["In-Kind Transfers", "Food Aid", "School Feeding"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Public Works Program",
+    "type": "Assistance Instrument",
+    "aliases": ["Cash-for-Work", "Productive Safety Nets"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Social Registry",
+    "type": "Administrative System",
+    "aliases": ["Unified Social Registry", "National Beneficiary Registry"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Human Capital Development",
+    "type": "Development Outcome",
+    "aliases": ["Human Capital Accumulation", "Health and Education Investment"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Universal Social Protection 2030",
+    "type": "Global Initiative",
+    "aliases": ["USP2030"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Inclusion and Exclusion Errors",
+    "type": "Targeting Metric",
+    "aliases": ["Targeting Errors", "Leakage and Under-coverage"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "ASPIRE Database",
+    "type": "Data Portal",
+    "aliases": ["Atlas of Social Protection Indicators of Resilience and Equity"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
