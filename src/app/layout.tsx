@@ -47,8 +47,10 @@ export const metadata: Metadata = {
   },
   verification: {
     google: [
+      "aISW6DnmjrIvj2PaiszwqpgRC8ZhPmj11Kgmc5fnJ5A",
       "ekrsnUgl58djCX00DerleAXezG2mY97ncN50s3id62M",
       "QWAtW6sHuXeM2iC5X3CcSWev0PC2XGqHFD3XNi3I9LY",
+      "2oVC7nGrX6VAriPxJdFcGh0oP6-V7WYVhp4tEHd31r4",
     ],
   },
   other: { "google-adsense-account": ADSENSE_CLIENT },
