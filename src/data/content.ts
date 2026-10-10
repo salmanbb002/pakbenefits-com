@@ -10566,7 +10566,7 @@ officialLinks: [
       "Habib Bank Limited (HBL Konnect)",
       "Bank Alfalah",
       "Federal Investigation Agency (FIA)",
-      "Rs. 13,500 Quarterly Tranche"
+      "Rs. 14,500 Quarterly Tranche"
     ],
     primaryCategory: "payment-check",
     categorySlugs: [
@@ -19929,7 +19929,7 @@ officialLinks: [
           "title": "Device Switching and Alternative Finger Selection",
           "paragraphs": [
             "Do not restrict your payment attempts to your right or left thumbs. The BISP payment platform queries all ten enrolled fingerprint templates stored in your NADRA civil file, allowing you to authenticate using any finger that retains healthy, legible ridge patterns.",
-            "If your thumb fails repeatedly, request the retailer or campsite operator to cycle through your index fingers, middle fingers, and ring fingers on both hands. If an entire terminal fails to capture your prints, switch to a different retailer device or visit an authorized biometric ATM operated by partner banks (such as Habib Bank Limited Konnect in Punjab, Sindh, and Balochistan, or Bank Alfalah in Khyber Pakhtunkhwa, Gilgit-Baltistan, and Azad Jammu & Kashmir). Different scanner hardware utilizes varying optical sensitivities and light wavelengths, which often succeeds where a worn field terminal fails."
+            "If your thumb fails repeatedly, request the retailer or campsite operator to cycle through your index fingers, middle fingers, and ring fingers on both hands. If an entire terminal fails to capture your prints, switch to a different retailer device or visit an authorized biometric ATM operated by partner banks (BISP authorized partner banks and designated disbursement touchpoints (including biometric ATMs and official campsite counters)). Different scanner hardware utilizes varying optical sensitivities and light wavelengths, which often succeeds where a worn field terminal fails."
           ]
         }
       ],
@@ -19994,25 +19994,45 @@ officialLinks: [
         "Request Facial Verification Clearance: Inform the case officer that repeated fingerprint scanning has failed and request biometric exemption through facial authentication.",
         "Complete Live Facial Capture: Position yourself in front of the dedicated NADRA/BISP optical camera in an evenly illuminated area without spectacles, veils obscuring facial features, or tinted lenses.",
         "Receive Verification Certificate: Once the facial geometry confirms a match against your master record, the system issues an official verification confirmation.",
-        "Collect Payment at Designated Counter: Present the confirmation certificate at the designated partner bank branch or specialized campsite desk to collect your full Rs. 13,500 installment."
+        "Collect Payment at Designated Counter: Present the confirmation certificate at the designated partner bank branch or specialized campsite desk to collect your full Rs. 14,500 installment."
       ]
     },
     {
       "title": "How to Apply for the BISP Non-BVS Failure Form",
       "paragraphs": [
-        "When both fingerprint scanning and facial recognition systems fail due to severe physical deformities, chronic eye or facial trauma, or hardware limitations in remote rural areas, BISP provides a manual disbursement safeguard known as the Non-BVS Failure Form (traditionally designated as Form 1). This administrative protocol bypasses electronic biometric terminals entirely, authorizing cash disbursement through physical bank branch counters following human identity verification.",
-        "The BISP Tehsil Assistant Director reviews the physical file, confirms the beneficiary's poverty scorecard status in the dynamic NSER database, and issues a Non-BVS approval memo. The beneficiary then visits the nominated commercial bank branch (such as designated branches of Habib Bank Limited or Bank Alfalah), signs the manual payment register, and collects their cash installment in full."
+        "When both fingerprint scanning and facial recognition systems fail due to severe physical deformities, chronic eye or facial trauma, or hardware limitations in remote rural areas, BISP provides a manual disbursement safeguard known as the Non-BVS Failure Form (traditionally designated as Form 1 / Form B in tehsil registries). This administrative protocol bypasses electronic biometric terminals entirely, authorizing cash disbursement through physical bank branch counters following human identity verification.",
+        "The BISP Tehsil Assistant Director reviews the physical file, confirms the beneficiary's poverty scorecard status in the dynamic NSER database, and issues a Non-BVS approval memo. The beneficiary then visits the designated commercial bank branch, signs the manual payment register, and collects their cash installment of Rs. 14,500 in full."
       ],
       "table": {
         "caption": "BISP Biometric Verification Exemption & Troubleshooting Matrix",
-        "headers": ["Beneficiary Category", "Fingerprint Issue Description", "Official Solution / Protocol", "Expected Processing Time"],
+        "headers": ["Beneficiary Category", "Fingerprint Issue Description", "Official SOP Resolution", "Disbursement Channel"],
         "rows": [
-          ["Senior Citizens (60+ Years)", "Worn friction ridges or dry epidermal skin", "NADRA non-match verification slip + BISP Assistant Director Non-BVS approval", "3 to 7 working days"],
-          ["Special Persons / Disabled", "Physical hand impairment or missing fingers", "District medical disability certificate + Non-BVS manual bank voucher", "2 to 5 working days"],
-          ["Laborers & Domestic Workers", "Faded ridges from manual friction or harsh detergents", "Hydration conditioning + NADRA biometric re-enrollment at NRC counter", "24 to 48 hours"],
-          ["POS Terminal System Error", "Error 93 / 938 network transmission timeout", "Switch to alternate retailer or partner bank biometric ATM (HBL / Alfalah)", "Immediate"]
+          ["Senior Citizens (60+ Years)", "Permanent friction ridge erosion from aging", "NADRA Biometric Non-Matching Certificate + BISP Tehsil Office Live Facial Recognition or Non-BVS approval", "Facial authentication or manual bank voucher"],
+          ["Special Persons / PWDs", "Physical hand impairment or missing digits", "Certified medical disability assessment + Assistant Director Non-BVS manual authorization", "Designated partner bank branch counter"],
+          ["Manual Laborers & Field Workers", "Faded ridges from manual friction or dry skin", "Wash and dry hands with soap and water; update 10-finger templates at NADRA NRC counter", "Standard Biometric BVS POS / ATM"],
+          ["POS Terminal Hardware Error", "Network latency or scanner hardware timeout", "Request agent to test alternate fingers; switch to alternate campsite terminal or biometric ATM", "Biometric ATM / Alternate POS Device"]
         ]
       },
+      "subsections": [
+        {
+          "title": "5-Step NADRA Non-Match Certificate & Tehsil Office Workflow",
+          "paragraphs": [
+            "If your biometrics fail repeatedly at the payment campsite, follow this official sequence to claim your payment through administrative exemption:",
+            "Step 1: Request the payment retailer to test all ten fingers on both hands. If all fail, collect the unverified transaction printout.",
+            "Step 2: Visit your local NADRA Registration Center (NRC) with your original CNIC. If the high-resolution platen scanner also fails to confirm your prints, obtain an official NADRA Biometric Non-Matching Certificate.",
+            "Step 3: Bring the NADRA certificate, your original CNIC, two photocopies, and an active mobile SIM registered under your CNIC to your local BISP Tehsil Office.",
+            "Step 4: Submit the Non-BVS manual payment application at the BISP verification counter. The Assistant Director verifies your status in the dynamic NSER registry.",
+            "Step 5: Present the approved Non-BVS authorization memo at the designated partner bank branch to collect your quarterly Rs. 14,500 payment with zero fee deductions."
+          ]
+        },
+        {
+          "title": "How to File a Complaint Against Retailer Misconduct & Illegal Deductions",
+          "paragraphs": [
+            "BISP maintains an uncompromising zero-tolerance policy against agents who demand unauthorized processing fees (often Rs. 500 to Rs. 1,000) or refuse to disburse cash to beneficiaries facing biometric issues.",
+            "To report illegal retailer deductions or device extortion: call the official BISP headquarters toll-free helpline at 0800-26477 (Monday to Friday, 8:00 AM to 4:00 PM). Provide the retailer's POS Machine ID, the camp location, your CNIC, and transaction timestamp. The complaint is routed immediately to the District Complaint Redressal Committee for swift disciplinary action."
+          ]
+        }
+      ],
       "bullets": [
         "Original Computerized National Identity Card (must be unexpired).",
         "Two clear photocopies of the beneficiary's CNIC.",
@@ -25700,7 +25720,7 @@ officialLinks: [
             "title": "Form Jama Karwane Ke Baad Wazeefa Kab Shuru Hota Hai?",
             "paragraphs": [
                   "School slip BISP Tehsil Office mein jama karne ke baad bacchay ka status 'Enrolled' ho jata hai. Is ke baad BISP ka Compliance Monitor har maah school se bacchay ki haziri ka record hasil karta hai.",
-                  "Agar bacchay ki attendance kam az kam 70 feesad ho, toh agle sah-mahi cycle mein maa ki Benazir Kafaalat qist (Rs. 13,500) ke sath bacchay ke Taleemi Wazaif ke paise khud-ba-khud account mein jama ho kar ATM par show ho jate hain."
+                  "Agar bacchay ki attendance kam az kam 70 feesad ho, toh agle sah-mahi cycle mein maa ki Benazir Kafaalat qist (Rs. 14,500) ke sath bacchay ke Taleemi Wazaif ke paise khud-ba-khud account mein jama ho kar ATM par show ho jate hain."
             ],
             "links": [
                   {
@@ -26142,7 +26162,7 @@ officialLinks: [
         ],
         bullets: [
           "NSER Dynamic Registry Survey: Comprehensive household census capturing demographic data, livestock, assets, and monthly utilities to generate or recalculate the Proxy Means Test (PMT) score.",
-          "Benazir Kafaalat Quarterly Cash Transfer: Verification and enrollment of eligible women falling at or below the official PMT 32 poverty cutoff threshold for the quarterly stipend of Rs. 13,500.",
+          "Benazir Kafaalat Quarterly Cash Transfer: Verification and enrollment of eligible women falling at or below the official PMT 32 poverty cutoff threshold for the quarterly stipend of Rs. 14,500.",
           "Biometric Fingerprint Rectification (Non-BVS Forms): Resolution of Error 93 and Error 99 fingerprint failures for senior citizens and manual laborers via specialized Non-BVS verification.",
           "Benazir Taleemi Wazaif Enrollment: Registration of primary, secondary, and higher secondary students for quarterly school stipends ranging from Rs. 2,000 to Rs. 4,500.",
           "Household Vital Record Updates: Recording the death of a family breadwinner, updating marital status, or registering a new mobile number for 8171 SMS alerts."
@@ -26210,7 +26230,7 @@ officialLinks: [
           "100% Free Public Service: Zero charges for tokens, surveys, or biometric verifications.",
           "No Private Middlemen: BISP does not authorize any third-party agents, photostat shops, or online portals outside of official '.gov.pk' domains.",
           "Helpline for Fraud Reporting: Immediately dial 0800-26477 to report bribery or fee extraction demands.",
-          "Retailer Deduction Complaints: If an agent deducts illegal fees from your quarterly Rs. 13,500 stipend, lodge a formal report at the Regional Office (48-L Model Town Extension)."
+          "Retailer Deduction Complaints: If an agent deducts illegal fees from your quarterly Rs. 14,500 stipend, lodge a formal report at the Regional Office (48-L Model Town Extension)."
         ],
         links: [
           {
@@ -26450,7 +26470,7 @@ officialLinks: [
         ],
         bullets: [
           "NSER Dynamic Registry Household Survey: Full demographic and socio-economic interview to determine household PMT score for national welfare qualification.",
-          "Benazir Kafaalat Grant Enrollment: Registration of deserving women with PMT scores below 32 for the quarterly stipend of Rs. 13,500.",
+          "Benazir Kafaalat Grant Enrollment: Registration of deserving women with PMT scores below 32 for the quarterly stipend of Rs. 14,500.",
           "Biometric Fingerprint Rectification (Non-BVS Bypass): Official verification for senior citizens and manual workers facing 'Biometric Verification Failed' (Error 93 / 99) at ATM terminals.",
           "Benazir Taleemi Wazaif Registration: Enrollment of school-attending children to receive quarterly educational stipends ranging from Rs. 2,000 to Rs. 4,500.",
           "Family Record Rectification: Registering marital status transitions, updating deceased family members, or modifying official 8171 notification phone numbers."
@@ -26516,7 +26536,7 @@ officialLinks: [
         ],
         bullets: [
           "100% Free Public Welfare Service: Zero fee for registration, tokens, forms, or payment verification.",
-          "Zero Tolerance for Retailer Deductions: Agents who illegally deduct Rs. 500 to Rs. 1,000 from the quarterly Rs. 13,500 grant face immediate terminal cancellation and police arrest.",
+          "Zero Tolerance for Retailer Deductions: Agents who illegally deduct Rs. 500 to Rs. 1,000 from the quarterly Rs. 14,500 grant face immediate terminal cancellation and police arrest.",
           "Official Helpline Reporting: Dial 0800-26477 to report bribery or illegal commission demands.",
           "Official SMS Verification: Only trust messages originating from 8171; never respond to private cell phone numbers."
         ],
@@ -26821,7 +26841,7 @@ officialLinks: [
         ],
         bullets: [
           "NSER Dynamic Survey Census: In-depth household survey recording socio-economic metrics to calculate the Proxy Means Test (PMT) score.",
-          "Benazir Kafaalat Quarterly Cash Disbursals: Enrollment of qualifying female breadwinners falling below PMT 32 for the quarterly Rs. 13,500 unconditional grant.",
+          "Benazir Kafaalat Quarterly Cash Disbursals: Enrollment of qualifying female breadwinners falling below PMT 32 for the quarterly Rs. 14,500 unconditional grant.",
           "Biometric Troubleshooting & Non-BVS Forms: Alternate verification processing for industrial workers and elderly citizens facing Error 93/99 fingerprint failures.",
           "Benazir Nashonuma Desks: Specialized health and nutrition enrollment for pregnant women, lactating mothers, and children under 2 years across Sindh.",
           "Benazir Taleemi Wazaif Education Stipends: Primary, secondary, and college stipend enrollment for children of Kafaalat beneficiaries."
@@ -26887,7 +26907,7 @@ officialLinks: [
         ],
         bullets: [
           "100% Free Public Services: Registration, surveys, and token distribution cost zero rupees.",
-          "Zero Retailer Deductions: Agents deducting Rs. 500 to Rs. 1,000 from the quarterly Rs. 13,500 grant face criminal arrest and license revocation.",
+          "Zero Retailer Deductions: Agents deducting Rs. 500 to Rs. 1,000 from the quarterly Rs. 14,500 grant face criminal arrest and license revocation.",
           "Toll-Free Helpline: Call 0800-26477 to report bribery or unlawful commission demands.",
           "Official SMS Verification: Trust only communications received from 8171."
         ],
@@ -26976,10 +26996,10 @@ officialLinks: [
   {
     slug: "bisp-atm-se-paise-nikalwane-ka-tarika",
     title: "BISP ATM Se Paise Nikalwane Ka Tarika: HBL Konnect Aur Bank Alfalah Biometric ATM Cash Withdrawal (2026)",
-    excerpt: "BISP ATM se paise nikalne ke liye kisi bhi qareebi HBL ya Bank Alfalah biometric ATM par jayen, touch screen par 'Urdu' aur 'BISP/Ehsaas Cash' muntakhib karein, apna 13-hinson ka CNIC number enter karein, biometric scanner par angootha laga kar tasdeeq karein, aur bina kisi agent kataoti ke apni poori Rs. 13,500 qist wasool karein.",
+    excerpt: "BISP ATM se paise nikalne ke liye kisi bhi qareebi HBL ya Bank Alfalah biometric ATM par jayen, touch screen par 'Urdu' aur 'BISP/Ehsaas Cash' muntakhib karein, apna 13-hinson ka CNIC number enter karein, biometric scanner par angootha laga kar tasdeeq karein, aur bina kisi agent kataoti ke apni poori Rs. 14,500 qist wasool karein.",
     showExcerpt: true,
     metaTitle: "BISP ATM Se Paise Nikalne Ka Tarika 2026: HBL & Bank Alfalah",
-    metaDescription: "BISP ATM se paise nikalne ka mukammal tarika: HBL Konnect aur Bank Alfalah BVS ATMs se bina card fingerprint laga kar Rs 13500 baghair kataoti wasool karein.",
+    metaDescription: "BISP ATM se paise nikalne ka mukammal tarika: HBL Konnect aur Bank Alfalah BVS ATMs se bina card fingerprint laga kar Rs 14500 baghair kataoti wasool karein.",
     focusKeyword: "bisp atm se paise kaise nikale",
     lsiKeywords: [
       "hbl konnect bisp biometric atm withdrawal",
@@ -26994,7 +27014,7 @@ officialLinks: [
       "Habib Bank Limited (HBL)",
       "Bank Alfalah",
       "Biometric Verification System (BVS)",
-      "Rs. 13,500 Quarterly Tranche",
+      "Rs. 14,500 Quarterly Tranche",
       "8171 SMS Service",
       "NADRA Biometric Verification"
     ],
@@ -27015,7 +27035,7 @@ officialLinks: [
       {
         title: "BISP ATM Se Paise Kaise Nikale? (Direct Biometric Answer)",
         paragraphs: [
-          "Benazir Income Support Programme (BISP) ki qist baghair kisi private retailer ya shopkeeper ki ghair-qanooni kataoti ke wasool karne ka behtareen aur mehfooz zariya Biometric Automated Teller Machine (ATM) hai. Hakoomat-e-Pakistan ne lab-e-saahil aur shehri ilaqon mein biometric ATMs ko BISP aur NADRA ke live verification system ke sath munsalik kar diya hai taake mustahiq khawateen ko unka poora haq (Rs. 13,500) baghair kisi transaction fee ke mile.",
+          "Benazir Income Support Programme (BISP) ki qist baghair kisi private retailer ya shopkeeper ki ghair-qanooni kataoti ke wasool karne ka behtareen aur mehfooz zariya Biometric Automated Teller Machine (ATM) hai. Hakoomat-e-Pakistan ne lab-e-saahil aur shehri ilaqon mein biometric ATMs ko BISP aur NADRA ke live verification system ke sath munsalik kar diya hai taake mustahiq khawateen ko unka poora haq (Rs. 14,500) baghair kisi transaction fee ke mile.",
           "Jab aap ke registered mobile number par 8171 se raqam ki muntaqili ka tasdeeqi paigham masool ho, toh aap ko plastic debit card ya ATM card ki zaroorat nahi hoti. Sirf apna Asal Computerized Shanakhti Card (CNIC) lekar apne sobai partner bank ke biometric ATM branch tashreef le jayen aur cardless screen menu ke zariye cash wasool karein."
         ],
         links: [
@@ -27060,8 +27080,8 @@ officialLinks: [
           "13-Hinson Ka CNIC Number Enter Karein: Screen par numeric keypad ya ATM buttons ki madad se mustahiq khatoon ka 13-hinson ka Shanakhti Card number baghair kisi dash (-) ke type karein (maslan: 3520112345671) aur 'Darust' (Correct) ka button dabayein.",
           "Biometric Scanner Par Angootha Rakhein: Screen par fingerprint scan ka ishara aayega. ATM machine ke sath lage sabz scanner par apna dayen ya bayen haath ka angootha (ya registered ungli) saaf karke seedha rakhein.",
           "NADRA Tasdeeq Ka Intezar Karein: 3 se 5 seconds ke andar machine NADRA database se aap ke fingerprint ki tasdeeq karegi.",
-          "Raqam Ka Intikhab Karein (Rs. 13,500): Tasdeeq hone ke baad screen par aap ka balance aur 'Raqam Ki Wasooli' (Cash Withdrawal) ka option aayega. Full amount Rs. 13,500 muntakhib karein.",
-          "Cash Aur Raseed Wasool Karein: Machine ke cash dispenser slot se 13,500 rupay cash bahar aayega. Cash ginein aur machine se nikalne wali printed slip zaroor hasil karein."
+          "Raqam Ka Intikhab Karein (Rs. 14,500): Tasdeeq hone ke baad screen par aap ka balance aur 'Raqam Ki Wasooli' (Cash Withdrawal) ka option aayega. Full amount Rs. 14,500 muntakhib karein.",
+          "Cash Aur Raseed Wasool Karein: Machine ke cash dispenser slot se 14,500 rupay cash bahar aayega. Cash ginein aur machine se nikalne wali printed slip zaroor hasil karein."
         ]
       },
       {
@@ -27075,7 +27095,7 @@ officialLinks: [
           "Apna 13-hinson ka CNIC number screen par darj karein aur 'Confirm' dabayein.",
           "Biometric scanner roshan hone par apna angootha scanner ki satah par mazbooti se rakhein.",
           "Screen par 'Benazir Kafaalat Payment' ki tasdeeq dekh kar 'Cash Withdrawal' par click karein.",
-          "Amount field mein Rs. 13,500 muntakhib karein ya custom amount mein 13,500 darj karein.",
+          "Amount field mein Rs. 14,500 muntakhib karein ya custom amount mein 14,500 darj karein.",
           "Machine se taaza currency notes aur transaction receipt wasool karein."
         ]
       },
@@ -27089,7 +27109,7 @@ officialLinks: [
           headers: ["Khusoosiyat / Feature", "Private POS Retailer / Shop", "Official Biometric ATM (HBL / Alfalah)"],
           rows: [
             ["Fee / Kataoti", "Rs. 500 ta Rs. 1,500 ghair-qanooni cut", "Rs. 0 (100% Free & Zero Deduction)"],
-            ["Net Cash Handover", "Rs. 12,000 ta Rs. 13,000 (Naqas)", "Mukammal Rs. 13,500 (Poori Raqam)"],
+            ["Net Cash Handover", "Rs. 12,000 ta Rs. 13,000 (Naqas)", "Mukammal Rs. 14,500 (Poori Raqam)"],
             ["Printed Official Slip", "Aksar dukan-dar raseed phaar dete hain", "Official Bank Machine Slip lazmi milti hai"],
             ["Awami Rush Aur Intezar", "Lambi qatarein aur zillat", "Pur-sukoon air-conditioned ATM booth"],
             ["Dastiyabi (Timing)", "Subah 10 baje se shaam 5 baje tak", "24 Ghante, 7 Din (24/7 Available)"],
@@ -27821,7 +27841,7 @@ officialLinks: [
           {
             title: "PMT Score Cut-Off and BISP Kafalat Linkage",
             paragraphs: [
-              "Families already receiving the regular BISP Kafalat quarterly stipend of Rs 13,500 automatically meet the basic financial poverty threshold for Nashonuma. If your household is not currently receiving Kafalat but your family PMT score on the NSER dynamic registry is 32 or lower, pregnant mothers and infants remain eligible for direct enrollment at hospital facilitation desks upon presenting proof of pregnancy or infant birth records."
+              "Families already receiving the regular BISP Kafalat quarterly stipend of Rs 14,500 automatically meet the basic financial poverty threshold for Nashonuma. If your household is not currently receiving Kafalat but your family PMT score on the NSER dynamic registry is 32 or lower, pregnant mothers and infants remain eligible for direct enrollment at hospital facilitation desks upon presenting proof of pregnancy or infant birth records."
             ]
           }
         ]
@@ -27931,7 +27951,7 @@ officialLinks: [
       },
       {
         question: "Can a mother receive both BISP Kafalat and Benazir Nashonuma cash simultaneously?",
-        answer: "Yes, an eligible mother receives her regular BISP Kafalat quarterly stipend (Rs 13,500) alongside her separate Nashonuma nutrition cash grants (Rs 2,500 to Rs 3,000 monthly) without any deduction."
+        answer: "Yes, an eligible mother receives her regular BISP Kafalat quarterly stipend (Rs 14,500) alongside her separate Nashonuma nutrition cash grants (Rs 2,500 to Rs 3,000 monthly) without any deduction."
       },
       {
         question: "Where are Benazir Nashonuma Facilitation Centers located?",
@@ -28401,9 +28421,9 @@ officialLinks: [
       {
         title: "What Is the BISP Direct Bank Transfer System in 2026?",
         paragraphs: [
-          "The BISP direct bank transfer system in 2026 allows eligible Benazir Kafalat beneficiaries to receive their quarterly stipend of Rs 13,500 directly into individual BISP Sahulat bank accounts or interoperable digital wallets across partner commercial banks, permanently eliminating cash campsite queues, agent extortion, and unauthorized fee deductions.",
+          "The BISP direct bank transfer system in 2026 allows eligible Benazir Kafalat beneficiaries to receive their quarterly stipend of Rs 14,500 directly into individual BISP Sahulat bank accounts or interoperable digital wallets across partner commercial banks, permanently eliminating cash campsite queues, agent extortion, and unauthorized fee deductions.",
           "The direct bank transfer system is a major government reform introduced by the Benazir Income Support Programme in partnership with the State Bank of Pakistan. Under this modernized framework, temporary campsite distributions and third-party POS retail agents are being replaced by formal commercial banking channels.",
-          "Beneficiaries open a zero-balance BISP Sahulat Account at designated partner bank branches or activate an interoperable digital wallet linked to their CNIC. On the official tranche disbursement date, the quarterly Kafalat payment of Rs 13,500 is credited electronically with an instant 8171 SMS confirmation."
+          "Beneficiaries open a zero-balance BISP Sahulat Account at designated partner bank branches or activate an interoperable digital wallet linked to their CNIC. On the official tranche disbursement date, the quarterly Kafalat payment of Rs 14,500 is credited electronically with an instant 8171 SMS confirmation."
         ],
         links: [
           {
@@ -28442,7 +28462,7 @@ officialLinks: [
           headers: ["Feature", "Traditional Cash Campsite System", "BISP Direct Commercial Bank Transfer"],
           rows: [
             ["Disbursement Channel", "Temporary school grounds and outdoor POS agents", "Commercial bank branches, biometric ATMs, and digital wallets"],
-            ["Deductions & Cuts", "Illegal cuts of Rs 500 to Rs 1,500 by rogue agents", "Exact full payment of Rs 13,500 with 0% fee deduction"],
+            ["Deductions & Cuts", "Illegal cuts of Rs 500 to Rs 1,500 by rogue agents", "Exact full payment of Rs 14,500 with 0% fee deduction"],
             ["Withdrawal Timing", "Restricted to specific camp operational dates", "24/7 access through ATMs and round-the-clock digital wallets"],
             ["Dignity & Comfort", "Long outdoor queues in extreme weather", "Respectable banking environment with indoor seating"],
             ["Account Ownership", "No formal bank account created", "Beneficiary holds a sovereign BISP Sahulat Account in her name"],
@@ -28490,7 +28510,7 @@ officialLinks: [
         title: "How to Withdraw BISP Funds from ATMs and Digital Wallets",
         paragraphs: [
           "Once your quarterly stipend is deposited, you can withdraw your funds using three convenient methods:",
-          "1. Biometric Cardless ATM Withdrawal: Touch the screen on any partner bank ATM, select 'Biometric Transaction / BISP', enter your CNIC number, scan your thumb on the scanner, select 'Cash Withdrawal', and collect Rs 13,500 with zero charges.",
+          "1. Biometric Cardless ATM Withdrawal: Touch the screen on any partner bank ATM, select 'Biometric Transaction / BISP', enter your CNIC number, scan your thumb on the scanner, select 'Cash Withdrawal', and collect Rs 14,500 with zero charges.",
           "2. PayPak ATM Debit Card: Insert your bank-issued PayPak debit card, enter your confidential 4-digit PIN, select 'Current/Sahulat Account', and withdraw your cash.",
           "3. Digital Mobile Wallet: Beneficiaries registered via mobile microfinance wallets can check balances in their app and transfer funds instantly via State Bank of Pakistan Raast QR."
         ]
@@ -28523,7 +28543,7 @@ officialLinks: [
       },
       {
         question: "How much money is disbursed in the 2026 BISP Kafalat quarterly tranche?",
-        answer: "The standard 2026 quarterly BISP Kafalat payment is Rs 13,500 per eligible household."
+        answer: "The standard 2026 quarterly BISP Kafalat payment is Rs 14,500 per eligible household (enhanced under the official March 2026 BISP directive)."
       },
       {
         question: "Will I receive Taleemi Wazaif school stipends in the same bank account?",
@@ -28960,7 +28980,7 @@ officialLinks: [
         answer: "No, BISP data entry is performed exclusively by authorized government operators inside the office for free."
       },
       {
-        question: "How do I check if my quarterly Rs 13,500 payment has been released in Multan?",
+        question: "How do I check if my quarterly Rs 14,500 payment has been released in Multan?",
         answer: "Send your 13-digit CNIC number to 8171 via SMS or check your status on the web portal at 8171.bisp.gov.pk."
       }
     ],
@@ -29041,7 +29061,7 @@ officialLinks: [
         title: "Why Are BISP Wazaif Suspended or Stopped Due to Attendance?",
         paragraphs: [
           "BISP wazaif are suspended when the quarterly compliance audit detects attendance below 70% or when school attendance records fail to upload before the system disbursement deadline. The primary causes of stipend stoppage include prolonged unexcused school absences, unverified student transfers between schools, delays by school administration in submitting quarterly attendance registers, or duplicate B-Form entry errors in the NADRA database.",
-          "When the BISP Compliance Monitoring System runs its automated quarterly batch processing, any student lacking a verified 70% attendance record is flagged. The mother's BISP Kafaalat core cash payment (Rs 13,500) continues normally, but the child's educational stipend add-on (ranging from Rs 1,500 to Rs 4,000 depending on gender and education level) is put on hold until verified attendance documentation is re-submitted."
+          "When the BISP Compliance Monitoring System runs its automated quarterly batch processing, any student lacking a verified 70% attendance record is flagged. The mother's BISP Kafaalat core cash payment (Rs 14,500) continues normally, but the child's educational stipend add-on (ranging from Rs 1,500 to Rs 4,000 depending on gender and education level) is put on hold until verified attendance documentation is re-submitted."
         ]
       },
       {
@@ -29275,7 +29295,7 @@ officialLinks: [
         title: "What Happens to BISP Payments Upon a Beneficiary's Death?",
         paragraphs: [
           "When a registered Benazir Kafaalat female beneficiary passes away, her BISP payments do not automatically transfer to family members or legal heirs. Because BISP operates as a conditional cash transfer program based on individual female biometric identity and household poverty score (PMT score), payments to the deceased's account must be formally closed to prevent fraud or unauthorized biometric deductions.",
-          "The National Database and Registration Authority (NADRA) automatically updates its central database when a death certificate is registered. BISP cross-checks its active beneficiary rolls against NADRA cancellation records during quarterly payment processing. If a beneficiary is marked deceased in NADRA records without a formal BISP Tehsil Office household update, the BISP account is frozen, and any accumulated quarterly stipend (Rs 13,500) is held in escrow until legal heir clearance or household re-survey."
+          "The National Database and Registration Authority (NADRA) automatically updates its central database when a death certificate is registered. BISP cross-checks its active beneficiary rolls against NADRA cancellation records during quarterly payment processing. If a beneficiary is marked deceased in NADRA records without a formal BISP Tehsil Office household update, the BISP account is frozen, and any accumulated quarterly stipend (Rs 14,500) is held in escrow until legal heir clearance or household re-survey."
         ],
         links: [
           {
@@ -29400,7 +29420,7 @@ officialLinks: [
         title: "What Are BISP Taleemi Wazaif Stipend Rates in 2026?",
         paragraphs: [
           "The Benazir Taleemi Wazaif stipend rates represent conditional cash transfers paid quarterly by the Benazir Income Support Programme to encourage school enrollment and attendance among children from underprivileged households. Enrolled students must belong to active Benazir Kafaalat beneficiary families and maintain a minimum of 70% school attendance. Stipend amounts are structured based on the child's academic grade level and gender, providing higher financial support for female students to combat gender disparity in education.",
-          "Under the 2026 payment structure, financial assistance is disbursed four times a year alongside the quarterly BISP Kafaalat cash grant of Rs 13,500. Payments are transferred directly to the beneficiary mother's bio-metric bank account or digital wallet at designated partner bank POS campsites."
+          "Under the 2026 payment structure, financial assistance is disbursed four times a year alongside the quarterly BISP Kafaalat cash grant of Rs 14,500. Payments are transferred directly to the beneficiary mother's bio-metric bank account or digital wallet at designated partner bank POS campsites."
         ],
         links: [
           {
@@ -30806,7 +30826,7 @@ officialLinks: [
               "1. Access the Official 8171 Web Portal: Open your web browser on a smartphone or computer and navigate directly to https://8171.bisp.gov.pk/. Ensure you are using the official government website ending in .gov.pk.",
               "2. Input CNIC Number: Locate the designated form field labeled 'Form No. / CNIC Number' and enter your 13-digit identity card number without hyphenation or spaces.",
               "3. Complete Security Captcha: Enter the 4-digit numeric image code displayed in the security captcha box to verify you are a human visitor.",
-              "4. Submit & Review Results: Click the green 'Check Status' button. The portal will display whether your quarterly payment of Rs 13,500 is ready for withdrawal, if your PMT score is high, or if an NSER survey renewal is required."
+              "4. Submit & Review Results: Click the green 'Check Status' button. The portal will display whether your quarterly payment of Rs 14,500 is ready for withdrawal, if your PMT score is high, or if an NSER survey renewal is required."
             ]
           },
           {
@@ -30886,10 +30906,10 @@ officialLinks: [
           caption: "BISP Sub-Programs & Eligibility Comparison Matrix (2026 Updates)",
           headers: ["Program Name", "Target Beneficiary Group", "PMT Eligibility Score", "Quarterly Payment Benefit (2026)", "Mandatory Registration Documents"],
           rows: [
-            ["Benazir Kafaalat", "Low-income female household heads", "PMT <= 32 (Standard) / PMT <= 37 (Disabled)", "Rs 13,500 - Rs 14,500 per quarter", "Original CNIC of female head, active mobile SIM, NSER survey slip"],
+            ["Benazir Kafaalat", "Low-income female household heads", "PMT <= 32 (Standard) / PMT <= 37 (Disabled)", "Rs 14,500 per quarter", "Original CNIC of female head, active mobile SIM, NSER survey slip"],
             ["Benazir Taleemi Wazaif", "School-going children (Primary to Higher Secondary) of Kafaalat beneficiaries", "Linked to mother's active Kafaalat status", "Rs 2,500 - Rs 5,000 per child / quarter (+ Rs 3,000 primary completion bonus for girls)", "Children's B-Form, NADRA verification, School Admission Form with 70% attendance proof"],
             ["Benazir Nashonuma", "Pregnant women, lactating mothers & infants under 24 months", "Linked to active Kafaalat status", "Rs 2,500 - Rs 3,000 per quarter + SNF Specialized Nutrition Pack", "Mother's CNIC, Child Immunization Card, Tehsil Health Center Registration"],
-            ["BISP Special Disability Grant", "Certified Persons with Disabilities (PWD)", "PMT <= 37", "Rs 13,500 per quarter", "NADRA Special CNIC with Disability Logo, Disability Medical Certificate"]
+            ["BISP Special Disability Grant", "Certified Persons with Disabilities (PWD)", "PMT <= 37", "Rs 14,500 per quarter", "NADRA Special CNIC with Disability Logo, Disability Medical Certificate"]
           ]
         }
       },
@@ -30943,7 +30963,7 @@ officialLinks: [
       },
       {
         question: "What is the current BISP Benazir Kafaalat payment amount in 2026?",
-        answer: "The standard Benazir Kafaalat quarterly cash stipend in 2026 is Rs 13,500 per eligible household, with targeted disbursement rounds expanding up to Rs 14,500. Payments are distributed every three months through authorized bank distribution points."
+        answer: "The official Benazir Kafaalat quarterly cash stipend in 2026 is Rs 14,500 per eligible household (updated per the official March 2026 BISP notification). Payments are distributed every three months through authorized partner bank channels."
       },
       {
         question: "What PMT score is required to qualify for BISP Kafaalat?",
