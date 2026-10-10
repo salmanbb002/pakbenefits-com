@@ -159,7 +159,15 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 
 `احساس کفالت پروگرام 8171`, `8171 check online kaise karein`
 
-**Status: ✅ Published (`8171-check-online-kaise-karein`).** Launched as the Month 1 pilot for the Roman Urdu / Urdu search layer. Covers online portal checks, SMS procedures, and diagnostic status messages in high-intent Roman Urdu.
+## Cluster 14 — Punjab E-Bikes & Electric Mobility (Consolidated & Locked) → `/punjab-schemes/`
+
+`cm punjab electric bike scheme`, `punjab e-bike scheme apply online`, `bikes punjab gov pk registration`, `maryam nawaz electric bike scheme`, `cm punjab e-bikes scheme phase 2`, `punjab e-bike installment plan 3028`, `how to apply cm punjab e-bike scheme`
+
+**Status: ✅ 100% Consolidated & Cannibalization Solved.**
+- **Canonical Master Page:** `/cm-punjab-electric-bike-scheme/` (`CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments`).
+- **Consolidation Action:** Merged all unique content (Phase 2 updates, zero down payment, Rs. 90,000 subsidy, BOP 0% markup Rs. 3,028/month installment schedule, fuel savings matrix, 50% female quota/pink scooty, DLIMS learner permit rules, step-by-step portal walkthrough, common portal errors, and computerized balloting verification) into 1 Master Pillar Guide.
+- **301 Permanent Redirects:** 7 retired URLs (`how-to-apply-cm-punjab-e-bike-scheme-2026`, `cm-punjab-e-bikes-scheme-phase-2`, `cm-punjab-e-bike-scheme-updates`, `maryam-nawaz-electric-bike-scheme-2026`, `electric-bike-scheme-expansions`, `cm-and-pm-electric-bike-schemes`, `provincial-bike-transport-schemes`) + alias `/punjab-e-bike-scheme-apply-online` are permanently 301 redirected to `/cm-punjab-electric-bike-scheme/` in `vercel.json`.
+- **CLI Guard:** Duplicate/cannibalizing topic generation blocked via `scripts/check-duplicate-topics.mjs`.
 
 ---
 
@@ -180,6 +188,7 @@ Pure brand-awareness queries: `ehsaas`, `ehsaas card`, `ehsaas program [year/sta
 | 11. Payment & Balance Check | 7 | ✅ Covered & Published |
 | 12. Punjab Rozgar Scheme | 5 | ✅ Covered & Published |
 | 13. Urdu/Roman Urdu Layer | 3+ | ✅ Active (`8171-check-online-kaise-karein`, `bisp-registration-check-by-cnic-kaise-karein`, `bisp-8171-balance-check-online-kaise-karein`) |
+| 14. Punjab E-Bikes Scheme | 15+ | ✅ Consolidated & Locked (`cm-punjab-electric-bike-scheme`) |
 | **Total Tracked** | **258** | **231 Published / 27 Covered by design / 0 Planned (All Phases Complete)** |
 
 ## Roadmap

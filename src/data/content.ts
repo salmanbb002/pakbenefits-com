@@ -1493,231 +1493,6 @@ export const categories: Category[] = [
 export const articles: Article[] = [
 
   {
-    slug: "electric-bike-scheme-expansions",
-    title: "Electric Bike Scheme Expansions: 2026 Phase 2 Rules, Subsidies & How to Apply",
-    excerpt: "The 2026 Electric Bike Scheme expansions in Pakistan scale government-subsidized electric mobility to over 125,000 units across Punjab and federal territories. Key updates include zero down payment, 36-month interest-free installment plans (~Rs. 3,000/mo), Rs. 80,000 Federal PAVE subsidies, and expanded eligibility for government employees (BPS 1-16), delivery riders, and students.",
-    showExcerpt: true,
-    metaTitle: "Electric Bike Scheme Expansions 2026: Phase 2 Rules & Portal Guide",
-    metaDescription: "Discover the latest Electric Bike Scheme expansions in Pakistan for 2026. Explore Phase 2 updates, zero down payment rules, Federal PAVE subsidies, and eligibility.",
-    focusKeyword: "Electric Bike Scheme Expansions",
-    lsiKeywords: [
-      "electric bike scheme expansions 2026",
-      "cm punjab e bike scheme zero down payment",
-      "electric bike scheme for government employees",
-      "pave electric bike scheme 2026 registration",
-      "electric bike delivery riders subsidy pakistan",
-      "punjab student e bike eligibility quota 2026",
-      "bikes punjab gov pk online apply portal"
-    ],
-    entities: [
-      "Chief Minister Punjab E-Bike Scheme",
-      "Pakistan Accelerated Vehicle Electrification Programme",
-      "Bank of Punjab",
-      "Zero Down Payment Policy",
-      "36-Month Installment Plan",
-      "Government Employees (BPS-1 to BPS-16)",
-      "Delivery Riders & Gig Workers",
-      "Student E-Bike Quota"
-    ],
-    primaryCategory: "CM Punjab Schemes",
-    categorySlugs: ["punjab-schemes", "other-schemes"],
-    date: "October 09, 2026",
-    publishedDate: "2026-10-09",
-    lastChecked: "October 09, 2026",
-    readTime: "8 min read",
-    image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
-    imageAlt: "Electric Bike Scheme Expansions 2026 Punjab and Federal Subsidies Guide",
-    author: contributors.muhammadSalman,
-    reviewer: contributors.ayeshaMalik,
-    officialLinks: [
-      { label: "Official Punjab E-Bikes Registration Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "Official Federal PAVE Portal", href: "https://pave.gov.pk/" },
-      { label: "Bank of Punjab E-Bike Financing Portal", href: "https://www.bop.com.pk/" }
-    ],
-    relatedSlugs: [
-      "cm-punjab-e-bikes-scheme-phase-2",
-      "maryam-nawaz-electric-bike-scheme-2026",
-      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "pm-fuel-relief-scheme-updates"
-    ],
-    sections: [
-      {
-        title: "What Are the 2026 Electric Bike Scheme Expansions in Pakistan?",
-        paragraphs: [
-          "The 2026 Electric Bike Scheme expansions represent a multi-tier government initiative designed to accelerate clean transportation adoption, lower daily commute costs, and reduce national fuel consumption. Initiated by the Punjab government under Chief Minister Maryam Nawaz Sharif and supported federally by the Ministry of Industries and Production, the expanded framework transitions the program from an initial pilot project into a broad public welfare scheme.",
-          "Unlike early iterations that focused strictly on university students with partial down payment requirements, the 2026 expansions broaden target demographics to include public sector employees, delivery gig workers, and female commuters. The program relies on a joint public-private financial model where the government absorbs commercial bank markup, registration taxes, and insurance overheads, leaving applicants responsible only for the net principal cost of the vehicle split across low monthly payments."
-        ],
-        links: [
-          { label: "CM Punjab E-Bikes Scheme Phase 2 Updates", href: "/cm-punjab-e-bikes-scheme-phase-2/" },
-          { label: "Maryam Nawaz Electric Bike Scheme 2026", href: "/maryam-nawaz-electric-bike-scheme-2026/" }
-        ]
-      },
-      {
-        title: "What Changed in Phase 2 of the CM Punjab E-Bike Scheme?",
-        paragraphs: [
-          "Phase 2 of the Chief Minister Punjab E-Bike Scheme expands total vehicle allocation from 20,000 units to over 100,000 electric motorcycles while overhauling the underlying financing rules. Approved in late 2026 by the Punjab Cabinet, Phase 2 addresses accessibility hurdles identified during initial rollouts."
-        ],
-        subsections: [
-          {
-            title: "How Does the Zero Down Payment and 36-Month Installment Plan Work?",
-            paragraphs: [
-              "Under Phase 2 rules, eligible applicants no longer pay an upfront 20% down payment to secure an electric motorcycle. Financing is executed through the Bank of Punjab (BOP) under a 36-month interest-free installment framework.",
-              "Monthly payments average between Rs. 3,000 and Rs. 3,500 depending on the specific battery capacity model chosen. To maintain zero interest for the buyer, the Punjab government directly subsidizes the bank's markup rate. Furthermore, the provincial government covers the first-year comprehensive insurance policy, official vehicle registration fees, and annual token tax, reducing initial outlay to zero."
-            ]
-          },
-          {
-            title: "Who Is Eligible for the Expanded Student Quota Across Degree Colleges and Universities?",
-            paragraphs: [
-              "The expanded Phase 2 student quota covers regular students enrolled in recognized public and private degree colleges, post-graduate institutions, and universities across all 36 districts of Punjab.",
-              "Applicants must be at least 18 years of age, hold a valid Computerized National Identity Card (CNIC), and possess either a regular motorcycle driving license or a valid learner's driving permit issued by Punjab Traffic Police. Equal distribution rules mandate a 50:50 quota split between male and female students, with special allocations reserved for female applicants applying for electric scooters."
-            ]
-          }
-        ]
-      },
-      {
-        title: "How Is the E-Bike Scheme Expanding to Government Employees and Delivery Riders?",
-        paragraphs: [
-          "Following executive approval in September 2026, the Chief Minister mandated the gradual inclusion of non-student demographics into the electric bike subsidy ecosystem. This policy expansion targets low-to-middle-income public servants and commercial logistics operators who depend on daily two-wheeler mobility."
-        ],
-        subsections: [
-          {
-            title: "What Are the Criteria for Public Sector Employees (BPS-1 to BPS-16)?",
-            paragraphs: [
-              "Public sector employees serving in basic pay scales BPS-1 through BPS-16 across provincial government departments, municipal corporations, and autonomous public bodies qualify for Phase 2 e-bike financing.",
-              "Eligibility requires confirmation of active government service, a clean departmental record, and a monthly salary slip verifying debt-servicing capacity for the Rs. 3,000 monthly payment. Applications are routed through dedicated departmental quotas to ensure equitable distribution across healthcare, education, and administrative staff."
-            ]
-          },
-          {
-            title: "How Can Commercial Delivery Riders and Gig Workers Access Subsidized E-Bikes?",
-            paragraphs: [
-              "Commercial delivery riders working for registered food delivery platforms, e-commerce courier networks, and local logistics companies can access subsidized e-bikes under a specialized fleet expansion quota.",
-              "To qualify, delivery riders must present active registration with a recognized delivery platform, a minimum active working record of six months, a valid commercial or motorcycle driving license, and a biometric verification record. The scheme aims to replace fuel-intensive commercial fleets with zero-emission lithium-ion motorcycles, saving riders an estimated Rs. 15,000 to Rs. 25,000 in monthly fuel costs."
-            ]
-          }
-        ]
-      },
-      {
-        title: "How Does the Federal PAVE E-Bike Scheme Compare to Provincial Programs?",
-        paragraphs: [
-          "Federal electric vehicle policies operate alongside provincial initiatives to create a nationwide framework for green transit adoption under the Pakistan Accelerated Vehicle Electrification (PAVE) initiative."
-        ],
-        links: [
-          { label: "Federal PAVE Scheme 2026 Registration & Subsidy Guide", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" },
-          { label: "Sindh Pink Scooty Scheme 2026 Details", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
-        ],
-        subsections: [
-          {
-            title: "What Is the Federal PAVE Rs. 80,000 Subsidy Structure?",
-            paragraphs: [
-              "The Federal PAVE E-Bike Scheme provides a direct cash subsidy of Rs. 80,000 on the retail purchase price of locally manufactured electric motorcycles. Backed by a 5-year, Rs. 100 billion federal EV budget, PAVE aims to subsidize 116,000 electric motorcycles in the current fiscal year.",
-              "Unlike the Punjab installment financing model, PAVE reduces the upfront retail price directly at the dealership level for qualified citizens nationwide, allowing buyers to pay the remaining balance in cash or through participating commercial bank loans."
-            ]
-          },
-          {
-            title: "How Do the Sindh Pink Scooty and Balochistan E-Bike Initiatives Work?",
-            paragraphs: [
-              "Provincial governments in Sindh and Balochistan have introduced targeted e-bike programs tailored to local demographic needs.",
-              "The Sindh Pink Scooty Scheme provides specialized 50% price subsidies and low-interest financing specifically for female university students and working women in urban centers like Karachi, Hyderabad, and Sukkur. In Balochistan, provincial authorities provide targeted subsidies for government employees and post-secondary students to offset higher regional fuel transport overheads."
-            ]
-          }
-        ]
-      },
-      {
-        title: "Electric Bike Scheme Comparison Matrix: Phase 1 vs. Phase 2 vs. Federal PAVE",
-        paragraphs: [
-          "The following matrix outlines the key structural differences across major government electric bike schemes operating in 2026:"
-        ],
-        table: {
-          caption: "Comparison Matrix Across Major 2026 Government Electric Bike Schemes",
-          headers: ["Scheme Feature", "CM Punjab Phase 1", "CM Punjab Phase 2 (Expanded)", "Federal PAVE Scheme", "Sindh Pink Scooty Scheme"],
-          rows: [
-            ["Primary Target Audience", "University Students", "Students, Govt Employees (BPS 1-16), Delivery Riders", "General Public & Workers Nationwide", "Female Students & Working Women"],
-            ["Total Allocation Quota", "20,000 Units (Petrol & EV)", "100,000–125,000 Electric Units", "116,000 Electric Units", "10,000 Female Electric Units"],
-            ["Upfront Down Payment", "20% Required", "Rs. 0 (Zero Down Payment)", "Depends on Dealer Loan", "10% Down Payment"],
-            ["Primary Subsidy Mechanism", "Partial Markup Subsidy", "Full Markup, Insurance & Registration Subsidy", "Rs. 80,000 Direct Cash Subsidy", "50% Price Subsidy"],
-            ["Financing Term", "24 Months", "36 Months (Interest-Free via BOP)", "12–36 Months Bank Loans", "24 Months"],
-            ["Average Monthly Payment", "Rs. 5,000–6,000", "Rs. 3,000–3,500", "Varies by Bank", "Rs. 2,500–3,000"],
-            ["License Requirement", "License / Learner Permit", "License / Learner Permit", "Valid Motorcycle License", "License / Learner Permit"],
-            ["Official Application Portal", "bikes.punjab.gov.pk", "bikes.punjab.gov.pk", "pave.gov.pk", "Sindh Transport Department Portal"]
-          ]
-        }
-      },
-      {
-        title: "What Are the Step-by-Step Instructions to Apply Online via the Official Portals?",
-        paragraphs: [
-          "Applying for expanded electric bike schemes requires completing digital verification through official government portals. Applicants must avoid third-party agents and process applications directly."
-        ],
-        bullets: [
-          "Step 1: Navigate to the official portal at bikes.punjab.gov.pk using a desktop or mobile browser.",
-          "Step 2: Click 'Register', enter your full name, CNIC number, email address, and active mobile number, then verify via SMS OTP.",
-          "Step 3: Choose your applicant category (Student, Government Employee, or Delivery Rider) and select your preferred electric bike model.",
-          "Step 4: Attach clear digital files of your CNIC, driving license or learner's permit, institutional/employee ID, and photograph.",
-          "Step 5: Confirm Bank of Punjab branch preference and accept 36-month zero down payment financing terms.",
-          "Step 6: Save your generated Application Tracking ID to monitor balloting and allotment status on your dashboard."
-        ],
-        subsections: [
-          {
-            title: "What Documents and License Requirements Are Mandatory Before Registration?",
-            paragraphs: [
-              "Before opening an application account, gather clear copies of your CNIC, valid motorcycle driving license or learner's permit, institutional ID or service certificate, passport-sized photo, and a mobile number registered in your own CNIC."
-            ]
-          }
-        ]
-      },
-      {
-        title: "What Safety Guidelines, Battery Warranty, and Scam Safeguards Must Applicants Know?",
-        paragraphs: [
-          "All vehicles distributed under expanded government schemes comply with national safety standards. E-bikes come equipped with lithium-ion battery packs offering a single-charge range of 60 to 80 kilometers, backed by a mandatory 3-year manufacturer battery warranty. Recipients must wear standard safety helmets provided with the vehicle and complete a mandatory 2-day traffic safety orientation module before taking delivery.",
-          "Applicants are strongly advised to beware of online scams and unauthorized agents. Government schemes do not charge processing fees via private digital wallets or unverified bank accounts. All official selection is conducted transparently through automated electronic balloting managed by the Transport Department."
-        ]
-      }
-    ],
-    faqs: [
-      {
-        question: "What is the main difference between Phase 1 and Phase 2 of the CM Punjab E-Bike Scheme?",
-        answer: "Phase 2 eliminates the 20% down payment requirement, extends installment terms from 24 to 36 months, increases vehicle allocation to over 100,000 e-bikes, and expands eligibility to government employees and delivery riders."
-      },
-      {
-        question: "Do applicants still need to pay an upfront down payment for Phase 2 e-bikes?",
-        answer: "No, Phase 2 operates under a zero down payment policy where the initial purchase cost is fully covered through Bank of Punjab financing, with monthly payments starting after vehicle delivery."
-      },
-      {
-        question: "How much is the monthly installment for an electric bike under the expanded scheme?",
-        answer: "The monthly installment averages between Rs. 3,000 and Rs. 3,500 over a 36-month interest-free repayment period, with all bank interest markup paid directly by the Punjab government."
-      },
-      {
-        question: "Are government employees eligible to apply for the expanded electric bike scheme?",
-        answer: "Yes, public sector employees serving in basic pay scales BPS-1 through BPS-16 across provincial government departments qualify for dedicated e-bike allocations under Phase 2 updates."
-      },
-      {
-        question: "How does the Federal PAVE Electric Bike Scheme differ from the Punjab E-Bike Scheme?",
-        answer: "The Federal PAVE scheme provides a direct Rs. 80,000 cash discount on the retail purchase price of e-bikes nationwide, whereas the Punjab scheme offers 0% down payment financing with full markup and registration subsidies."
-      },
-      {
-        question: "Can female students apply for electric bikes, and are there reserved quotas?",
-        answer: "Yes, female students in degree colleges and universities are eligible, with Phase 2 enforcing a 50:50 gender allocation quota and offering specialized electric scooties."
-      },
-      {
-        question: "Is a valid motorcycle driving license or learner's permit compulsory to apply?",
-        answer: "Yes, applicants must possess either a valid motorcycle driving license or an active learner's driving permit issued by the relevant traffic police department at the time of online application."
-      },
-      {
-        question: "What costs are fully covered by the government under the interest-free financing model?",
-        answer: "The Punjab government fully covers the bank interest markup, vehicle registration fee, annual token tax, and the first-year comprehensive insurance policy premium."
-      },
-      {
-        question: "How can commercial delivery riders and gig workers apply for subsidized e-bikes?",
-        answer: "Delivery riders can register under the commercial worker category on bikes.punjab.gov.pk by providing proof of six months of active service with a recognized food delivery or courier platform."
-      },
-      {
-        question: "Where is the official online portal to submit applications and verify status?",
-        answer: "Applications for the Punjab scheme must be submitted online at bikes.punjab.gov.pk, while federal PAVE applications are processed via pave.gov.pk."
-      }
-    ]
-  },
-
-  {
     slug: "social-protection-and-assistance",
     title: "Social Protection & Assistance: Comprehensive Guide to Pillars, Safety Nets, and Programs",
     excerpt: "Social protection and assistance refers to a comprehensive policy framework designed to prevent poverty, manage life-cycle economic risks, and protect vulnerable households through non-contributory social assistance, social insurance, and labor market programs.",
@@ -1745,7 +1520,7 @@ export const articles: Article[] = [
     categorySlugs: ["8171"],
     date: "October 9, 2026",
     readTime: "8 min read",
-    image: "/images/social-protection-and-assistance.jpg",
+    image: "/images/social-protection-and-assistance.webp",
     imageAlt: "Social Protection & Assistance Pillars and Safety Nets",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -2005,8 +1780,8 @@ export const articles: Article[] = [
     date: "October 8, 2026",
     publishedDate: "October 8, 2026",
     readTime: "11 min read",
-    image: "/images/pm-youth-loan-scheme.jpg",
-    imageAlt: "Official Youth Loans & Financing Drive 2026 portal guide detailing Tier 1, Tier 2, and Tier 3 loan limits and online application procedure",
+    image: "/images/youth-loans-financing-drive-tiers-guide.webp",
+    imageAlt: "Youth Loans and Financing Drive 2026 tier 1 tier 2 tier 3 eligibility and online apply portal",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     officialLinks: [
@@ -2272,8 +2047,8 @@ export const articles: Article[] = [
     date: "October 8, 2026",
     publishedDate: "October 8, 2026",
     readTime: "10 min read",
-    image: "/images/pm-petrol-relief-scheme-updates.jpg",
-    imageAlt: "Infographic detailing Prime Minister Fuel Relief Scheme 9771 SMS registration format and subsidy quotas",
+    image: "/images/prime-minister-fuel-relief-scheme-9771-sms.webp",
+    imageAlt: "Prime Minister Fuel Relief Scheme 9771 SMS registration format and fuel subsidy rates",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Ministry of Energy Petroleum Division", href: "https://petroleum.gov.pk/" },
@@ -2496,7 +2271,7 @@ export const articles: Article[] = [
     date: "October 8, 2026",
     publishedDate: "October 8, 2026",
     readTime: "10 min read",
-    image: "/images/public-sector-development-programme-psdp-2026-27.jpg",
+    image: "/images/public-sector-development-programme-psdp-2026-27.webp",
     imageAlt: "Official Public Sector Development Programme PSDP 2026-27 budget outlay infographic detailing federal and provincial allocations",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -2694,7 +2469,7 @@ export const articles: Article[] = [
     date: "October 7, 2026",
     publishedDate: "October 7, 2026",
     readTime: "9 min read",
-    image: "/images/other-active-financial-support.jpg",
+    image: "/images/other-active-financial-support.webp",
     imageAlt: "Other Active Financial Support Complete Grant Disclosure and Compliance Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -2944,7 +2719,7 @@ export const articles: Article[] = [
     date: "October 7, 2026",
     publishedDate: "October 7, 2026",
     readTime: "10 min read",
-    image: "/images/major-government-schemes-updates-2026.jpg",
+    image: "/images/major-government-schemes-updates-2026.webp",
     imageAlt: "Official policy update infographic detailing September and October 2026 central government schemes, outlays, and beneficiary portals",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -3168,8 +2943,8 @@ export const articles: Article[] = [
     date: "October 7, 2026",
     publishedDate: "October 7, 2026",
     readTime: "10 min read",
-    image: "/images/pm-petrol-relief-scheme-updates.jpg",
-    imageAlt: "Official editorial banner showing PM Fuel Relief Scheme updates with 9771 SMS registration syntax and eligibility rules",
+    image: "/images/pm-fuel-relief-scheme-updates-token-status.webp",
+    imageAlt: "PM Fuel Relief Scheme updates showing 9771 SMS token verification and quota check",
     author: contributors.muhammadSalman,
     officialLinks: [
       {
@@ -3393,7 +3168,7 @@ export const articles: Article[] = [
     publishedDate: "October 7, 2026",
     lastChecked: "October 7, 2026",
     readTime: "9 min read",
-    image: "/images/social-protection-welfare.jpg",
+    image: "/images/social-protection-welfare.webp",
     imageAlt: "Social Protection & Welfare: Pillars, Policy & Welfare Systems Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -3599,8 +3374,8 @@ export const articles: Article[] = [
     publishedDate: "October 6, 2026",
     lastChecked: "October 6, 2026",
     readTime: "8 min read",
-    image: "/images/cm-punjab-solar-panel-scheme.jpg",
-    imageAlt: "Punjab Solar and Housing Updates 2026 Status Guide",
+    image: "/images/punjab-solar-housing-updates-roshan-gharana.webp",
+    imageAlt: "Punjab solar and housing updates for CM Roshan Gharana rooftop solar installation",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "CM Free Solar Panel Scheme Official Portal", href: "https://cmsolarscheme.punjab.gov.pk/" },
@@ -3776,8 +3551,8 @@ export const articles: Article[] = [
     publishedDate: "October 5, 2026",
     lastChecked: "October 5, 2026",
     readTime: "7 min read",
-    image: "/images/housing-and-remittance-initiatives.jpg",
-    imageAlt: "Housing and Social Cards Punjab 2026 Guide",
+    image: "/images/housing-social-cards-punjab-online-apply.webp",
+    imageAlt: "Housing and social cards Punjab 2026 Apni Chhat Apna Ghar and Himmat Card online apply",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab Socio-Economic Registry (PSER) Official Portal", href: "https://pser.punjab.gov.pk/" },
@@ -3937,9 +3712,9 @@ export const articles: Article[] = [
       "housing-and-remittance-initiatives",
       "cm-punjab-rehmat-card-2026",
       "housing-welfare-schemes",
-      "provincial-regional-schemes"
-    ,
-      "punjab-solar-housing-updates-2026"]
+      "provincial-regional-schemes",
+      "punjab-solar-housing-updates-2026"
+    ]
   },
 
   {
@@ -3979,7 +3754,7 @@ export const articles: Article[] = [
     publishedDate: "October 5, 2026",
     lastChecked: "October 5, 2026",
     readTime: "8 min read",
-    image: "/images/housing-and-remittance-initiatives.jpg",
+    image: "/images/housing-and-remittance-initiatives.webp",
     imageAlt: "Housing and Remittance Initiatives 2026 SBP Housing Scheme Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -4150,9 +3925,9 @@ export const articles: Article[] = [
       "apna-ghar-housing-scheme",
       "apni-chhat-apna-ghar-scheme-online-apply-2026",
       "housing-welfare-schemes",
-      "provincial-regional-schemes"
-    ,
-      "housing-social-cards-punjab"]
+      "provincial-regional-schemes",
+      "housing-social-cards-punjab"
+    ]
   },
 
   {
@@ -4199,8 +3974,8 @@ export const articles: Article[] = [
   "publishedDate": "October 5, 2026",
   "lastChecked": "October 5, 2026",
   "readTime": "9 min read",
-  "image": "/images/bisp-benazir-kafaalat-8171-check.jpg",
-  "imageAlt": "BISP & PSER Updates 2026 Registration, 8171 Status Check & Dynamic Survey Guide",
+  "image": "/images/bisp-pser-updates-dynamic-survey-form.webp",
+  "imageAlt": "BISP PSER updates dynamic registry survey form and 8171 online status check",
   "author": contributors.muhammadSalman,
   "officialLinks": [
     {
@@ -4517,7 +4292,7 @@ export const articles: Article[] = [
   "publishedDate": "October 5, 2026",
   "lastChecked": "October 5, 2026",
   "readTime": "9 min read",
-  "image": "/images/housing-welfare-schemes.jpg",
+  "image": "/images/housing-welfare-schemes.webp",
   "imageAlt": "Housing and Welfare Schemes 2026 Eligibility, Application Guide, and Rental Assistance Matrix",
   author: contributors.muhammadSalman,
   "officialLinks": [
@@ -4813,7 +4588,7 @@ export const articles: Article[] = [
   "publishedDate": "October 5, 2026",
   "lastChecked": "October 5, 2026",
   "readTime": "8 min read",
-  "image": "/images/cm-punjab-rehmat-card-2026.jpg",
+  "image": "/images/cm-punjab-rehmat-card-2026.webp",
   "imageAlt": "CM Punjab Rehmat Card 2026 Rs 100,000 Financial Grant Eligibility and Online Registration Guide",
   author: contributors.muhammadSalman,
   "officialLinks": [
@@ -5082,7 +4857,7 @@ export const articles: Article[] = [
     publishedDate: "October 4, 2026",
     lastChecked: "October 4, 2026",
     readTime: "9 min read",
-    image: "/images/pave-electric-bike-scheme.jpg",
+    image: "/images/pave-electric-bike-scheme.webp",
     imageAlt: "PAVE Electric Bike Scheme 2026 Apply Online pave.gov.pk Subsidy and Registration Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -5093,8 +4868,7 @@ export const articles: Article[] = [
       { label: "State Bank of Pakistan (SBP)", href: "https://www.sbp.org.pk/" }
     ],
     relatedSlugs: [
-      "cm-punjab-e-bike-scheme-updates",
-      "cm-punjab-e-bikes-scheme-phase-2",
+      "cm-punjab-electric-bike-scheme",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
       "pm-petrol-relief-scheme-updates"
     ],
@@ -5114,7 +4888,7 @@ export const articles: Article[] = [
           }
         ],
         links: [
-          { label: "CM Punjab E-Bike Scheme Phase 2 Updates", href: "/cm-punjab-e-bike-scheme-updates" },
+          { label: "CM Punjab E-Bike Scheme Phase 2 Updates", href: "/cm-punjab-electric-bike-scheme/" },
           { label: "Pink Scooty Scheme 2026 Registration & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ]
       },
@@ -5277,266 +5051,6 @@ export const articles: Article[] = [
       }
     ]
   },
-
-  {
-    slug: "provincial-bike-transport-schemes",
-    relatedSlugs: [
-      "cm-punjab-e-bike-scheme-updates",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "pave-electric-bike-scheme",
-      "provincial-regional-schemes",
-      "how-to-apply-cm-punjab-e-bike-scheme-2026"
-    ],
-    title: "Provincial Bike & Transport Schemes in Pakistan: 2026 Guide to Punjab, Sindh & KPK Initiatives",
-    excerpt: "Discover all 2026 Provincial Bike & Transport Schemes in Pakistan. Compare CM Punjab E-Bikes, Sindh Pink Scooty, KP EV policy, and federal PAVE programs across eligibility, 0% interest monthly installments, and online portal links.",
-    showExcerpt: true,
-    metaTitle: "Provincial Bike & Transport Schemes 2026: Apply Online & Eligibility",
-    metaDescription: "Complete guide to active Provincial Bike & Transport Schemes in Pakistan for 2026. Compare eligibility, 0% interest monthly installments, and online portals for Punjab, Sindh, KPK, and federal PAVE.",
-    focusKeyword: "provincial bike & transport schemes",
-    lsiKeywords: [
-      "punjab e-bike scheme 2026 online apply",
-      "sindh pink scooty scheme registration 2026",
-      "kpk electric bike scheme for female students",
-      "bop bike scheme monthly installment calculator",
-      "pave electric bike scheme application portal",
-      "bike scheme eligibility by cnic 2026"
-    ],
-    entities: [
-      "Chief Minister Punjab E-Bike Scheme",
-      "Government of Punjab Transport Department",
-      "Bank of Punjab (BOP)",
-      "bikes.punjab.gov.pk",
-      "Sindh Mass Transit Authority (SMTA)",
-      "Sindh Pink Scooty Scheme",
-      "KP Transport & Mass Transit Department",
-      "Pakistan Accelerated Vehicle Electrification (PAVE)",
-      "Valid Driving License / Learner Permit",
-      "CNIC Verification (NADRA)",
-      "0% Interest Financing",
-      "9771 Fuel Relief SMS Service"
-    ],
-    primaryCategory: "Other Schemes",
-    categorySlugs: ["punjab-schemes", "other-schemes"],
-    date: "October 4, 2026",
-    publishedDate: "October 4, 2026",
-    lastChecked: "October 4, 2026",
-    readTime: "10 min read",
-    image: "/images/provincial-bike-transport-schemes.jpg",
-    imageAlt: "Provincial Bike and Transport Schemes 2026 Complete Eligibility and Online Application Guide Pakistan",
-    author: contributors.muhammadSalman,
-    sections: [
-      {
-        title: "What Are the Active Provincial Bike and Transport Schemes in 2026?",
-        paragraphs: [
-          "Provincial governments across Pakistan have launched targeted urban transit and two-wheeler schemes to reduce commuting costs and foster green energy adoption. These initiatives combine interest-free banking loans, capital subsidies, and gender-focused transport grants to support higher education students and female professionals."
-        ],
-        subsections: [
-          {
-            title: "CM Punjab E-Bike Scheme: Features, Subsidy & Quotas",
-            paragraphs: [
-              "The Chief Minister Punjab E-Bike Scheme provides 100,000 electric and petrol motorbikes to bonafide college and university students across Punjab. Administered by the Government of Punjab Transport Department alongside the Punjab Information Technology Board (PITB), the program covers full registration fees, token taxes, and initial insurance costs. Financed through the Bank of Punjab (BOP), the provincial government pays a capital subsidy exceeding Rs. 20,000 per vehicle while absorbing all bank interest markups. Official applications are processed exclusively online through bikes.punjab.gov.pk."
-            ]
-          },
-          {
-            title: "Sindh Pink Scooty Scheme: Free EV Transport for Women",
-            paragraphs: [
-              "The Sindh Female EV Mobility Initiative, commonly known as the Pink Scooty Scheme, delivers electric scooters to working women and female university students in major urban centers. Managed by the Sindh Mass Transit Authority (SMTA) under the Transport & Mass Transit Department, Government of Sindh, the scheme offers free or heavily subsidized EV two-wheelers in Karachi, Hyderabad, Sukkur, Larkana, and Shaheed Benazirabad. Beneficiaries receive driving instruction support and helmet packages, provided they possess a valid motorcycle driving license verified on the SMTA portal (smta.gos.pk)."
-            ]
-          },
-          {
-            title: "KPK Electric Bike & Urban Transport Policy",
-            paragraphs: [
-              "The Khyber Pakhtunkhwa Transport & Mass Transit Department operates a merit-based electric bike program aimed at female students and government office workers. The policy provides electric scooters with zero carbon emissions to lessen the financial burden of daily transit in Peshawar, Abbottabad, and Mardan. Selected candidates receive subsidized electric bikes alongside dedicated battery charging access points in public institutions."
-            ]
-          },
-          {
-            title: "Federal PAVE Scheme & National Fuel Relief Program",
-            paragraphs: [
-              "The Pakistan Accelerated Vehicle Electrification (PAVE) initiative serves as a federal umbrella framework supporting electric two-wheeler and three-wheeler manufacturing. Operated via pave.gov.pk, PAVE partners with commercial banks to offer standardized 0% interest installment loans nationwide. Additionally, the federal government maintains the 9771 SMS Fuel Relief Service, enabling registered motorcycle and rickshaw owners to check monthly targeted fuel subsidies by texting their CNIC and vehicle registration numbers to 9771."
-            ]
-          }
-        ],
-        links: [
-          { label: "CM Punjab E-Bike Scheme 2026 Details", href: "/cm-punjab-e-bike-scheme-updates/" },
-          { label: "Sindh Pink Scooty Registration Guide", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
-        ]
-      },
-      {
-        title: "Who Is Eligible for Provincial Bike Schemes in Pakistan?",
-        paragraphs: [
-          "Eligibility criteria for provincial transport programs enforce strict educational, age, and identity standards to ensure resources reach intended beneficiaries."
-        ],
-        subsections: [
-          {
-            title: "Age, Student Enrollment & Income Requirements",
-            paragraphs: [
-              "Applicants for the Punjab E-Bike scheme must be active students enrolled in regular degree programs at recognized public or private universities or graduate colleges. Candidates must be between 18 and 60 years old and present a verified CNIC issued by NADRA. For female-specific initiatives in Sindh and KPK, applicants must submit proof of employment or current academic enrollment along with household income declarations."
-            ]
-          },
-          {
-            title: "Driving License and Learner Permit Mandates",
-            paragraphs: [
-              "A mandatory prerequisite across all provincial bike schemes is holding a valid driving license or a traffic police learner permit. Applicants must upload a digital copy of their valid motorcycle license or learner permit during portal registration. Candidates applying without a verified license or permit face immediate application disqualification during the automated verification phase."
-            ]
-          }
-        ],
-        links: [
-          { label: "How to Apply for CM Punjab E-Bike Scheme", href: "/how-to-apply-cm-punjab-e-bike-scheme-2026/" }
-        ]
-      },
-      {
-        title: "How Do You Apply Online for Provincial Bike & Transport Schemes?",
-        paragraphs: [
-          "Applying for provincial transport schemes requires submitting verified documents through designated government portals."
-        ],
-        subsections: [
-          {
-            title: "Step-by-Step Registration on bikes.punjab.gov.pk",
-            paragraphs: [
-              "Visit the official Punjab bike portal at bikes.punjab.gov.pk and create an applicant account using your CNIC number and mobile phone.",
-              "Select your institution category (Public or Private) and choose your preferred vehicle type (Electric Bike or Petrol Bike).",
-              "Fill in academic details, including your university roll number and current semester status.",
-              "Upload required scanned attachments: CNIC front/back, student ID card, recent photograph, and driving license/learner permit.",
-              "Review the legal affidavit regarding loan repayment and submit the online application before the announced deadline."
-            ]
-          },
-          {
-            title: "Registering for the Sindh Pink Scooty via SMTA",
-            paragraphs: [
-              "Female applicants in Sindh must navigate to smta.gos.pk/pink-scooty-registration to register. After entering basic personal information and district selection, candidates submit proof of residence (domicile/PRC) and workplace or university verification. Successful applicants are shortlisted based on district quotas and notified via official SMS for physical document verification."
-            ]
-          },
-          {
-            title: "Documents Required for CNIC and Bank Verification",
-            paragraphs: [
-              "Before beginning the online application, ensure you have clear digital copies of the following documents ready:"
-            ],
-            bullets: [
-              "Valid NADRA CNIC or Smart Card of the applicant.",
-              "Active Student ID Card or formal Employment Certificate.",
-              "Valid Traffic Police Driving License or Learner Permit.",
-              "Guardian/Parent CNIC (required for student bank guarantors).",
-              "Recent passport-sized photograph with a light background.",
-              "Utility bill (electricity or gas) corresponding to your home address."
-            ]
-          }
-        ],
-        links: [
-          { label: "Federal PAVE Electric Bike Scheme Guide", href: "/pave-electric-bike-scheme/" }
-        ]
-      },
-      {
-        title: "What Are the Financial Terms and Monthly Installments?",
-        paragraphs: [
-          "Provincial schemes incorporate subsidized financial structures designed to keep monthly payments affordable for students and low-income workers."
-        ],
-        subsections: [
-          {
-            title: "Bank of Punjab (BOP) 0% Interest Payment Plan",
-            paragraphs: [
-              "Financing for the Punjab CM E-Bike program is structured over a 36-month (3-year) repayment cycle administered by the Bank of Punjab (BOP). Under this arrangement, electric bike monthly installments are capped at approximately Rs. 3,028 per month, while petrol bike installments average Rs. 5,000 per month. The Government of Punjab pays all bank interest markups directly to BOP, ensuring beneficiaries pay zero interest markup over the loan tenure."
-            ]
-          },
-          {
-            title: "Subsidies Covered by Provincial Governments",
-            paragraphs: [
-              "Provincial governments absorb significant upfront vehicle charges to minimize out-of-pocket costs for applicants."
-            ],
-            table: {
-              caption: "Government Subsidies Breakdown",
-              headers: ["Expense Category", "Beneficiary Cost", "Government Subsidy Portion"],
-              rows: [
-                ["Bank Interest Markup", "Rs. 0 (0% Markup)", "100% paid by Provincial Government"],
-                ["Vehicle Down Payment", "Rs. 0 (Zero Down)", "100% covered by Capital Subsidy (Rs. 20k+)"],
-                ["Registration & License Plate", "Rs. 0", "Fully subsidized by Excise Department"],
-                ["First-Year Comprehensive Insurance", "Rs. 0", "Fully paid by Provincial Government"],
-                ["Annual Token Tax", "Rs. 0", "Covered for the entire 3-year loan period"]
-              ]
-            }
-          }
-        ]
-      },
-      {
-        title: "Provincial Bike Schemes 2026 Comparison Matrix",
-        paragraphs: [
-          "The table below outlines key operational differences across Pakistan's active provincial and federal bike programs:"
-        ],
-        table: {
-          caption: "Provincial Bike Schemes 2026 Comparison Matrix",
-          headers: ["Scheme Name", "Target Audience", "Primary Sponsor / Bank", "Vehicle Type", "Monthly Installment", "License Mandate", "Official Portal"],
-          rows: [
-            ["CM Punjab E-Bike Scheme", "University & College Students", "Punjab Govt / BOP / PITB", "Electric & Petrol Bikes", "~Rs. 3,028 / mo (0% Interest)", "Driving License or Learner Permit", "bikes.punjab.gov.pk"],
-            ["Sindh Pink Scooty Scheme", "Working Women & Female Students", "Sindh Govt / SMTA", "Electric Scooters", "Free / Fully Subsidized", "Motorcycle Driving License", "smta.gos.pk"],
-            ["KPK EV Bike Initiative", "Female Students & Public Workers", "KP Transport Dept", "Electric Scooters", "Subsidized Installments", "Learner Permit / License", "kp.gov.pk"],
-            ["Federal PAVE Scheme", "General Public & EV Buyers", "Federal Govt / Commercial Banks", "EV 2-Wheelers & 3-Wheelers", "Bank-Specific (0% Markup)", "Valid CNIC & License", "pave.gov.pk"]
-          ]
-        },
-        links: [
-          { label: "Provincial & Regional Schemes Master List", href: "/provincial-regional-schemes/" }
-        ]
-      },
-      {
-        title: "Common Application Errors & How to Avoid Online Scams",
-        paragraphs: [
-          "With high demand for government transport schemes, applicants must guard against official missteps and fraudulent online portals."
-        ],
-        bullets: [
-          "Avoid Unofficial Payment Requests: Government bike portals do not request application submission fees via personal JazzCash, EasyPaisa, or private bank accounts. All processing fees, if any, are paid directly at authorized bank branches (e.g., Bank of Punjab).",
-          "Verify .gov.pk Web Domain: Only submit personal details on websites ending in .gov.pk. Fake portals often use .com, .org, or .net extensions to harvest CNIC data.",
-          "Double-Check License Expiry: Ensure your learner permit or driving license is active throughout the verification window. Expired permits lead to instant portal rejection.",
-          "Maintain Accurate Guarantor Info: Student applications require a parent or guardian as a co-borrower/guarantor. Ensure your guarantor has a clean credit history with no active bank defaults."
-        ]
-      }
-    ],
-    faqs: [
-      {
-        question: "Who is eligible to apply for the Punjab CM E-Bike Scheme?",
-        answer: "Eligible applicants must be bonafide students enrolled in a recognized public or private university or graduate college in Punjab, aged 18 to 60, holding a valid CNIC and an active driving license or traffic police learner permit."
-      },
-      {
-        question: "What is the monthly installment for an electric bike under the Punjab scheme?",
-        answer: "The monthly installment for an electric bike is approximately Rs. 3,028 per month spread over a 3-year (36-month) repayment plan, with zero interest markup and zero down payment."
-      },
-      {
-        question: "Can female students apply for petrol bikes in Punjab?",
-        answer: "Yes, female students can choose between electric bikes and petrol bikes. Special quotas are reserved for female applicants in both categories."
-      },
-      {
-        question: "How do working women apply for the Sindh Pink Scooty Scheme?",
-        answer: "Working women in Sindh can register online through the Sindh Mass Transit Authority portal at smta.gos.pk by providing proof of employment, residence (domicile), and a valid driving license."
-      },
-      {
-        question: "Is a driving license mandatory to receive a bike?",
-        answer: "Yes, holding a valid driving license or an official traffic police learner permit is compulsory across all provincial schemes before vehicle delivery."
-      },
-      {
-        question: "What happens if applicant demand exceeds the available bike quota?",
-        answer: "If total eligible applications exceed the provincial quota (e.g., 100,000 bikes in Punjab), a transparent electronic balloting process is conducted by PITB to select final beneficiaries."
-      },
-      {
-        question: "Does the government cover vehicle insurance and registration taxes?",
-        answer: "Yes, provincial governments cover upfront costs including registration fees, token taxes, and first-year comprehensive insurance."
-      },
-      {
-        question: "What is the federal 9771 SMS Fuel Relief service?",
-        answer: "The 9771 service allows registered motorcycle owners to text their CNIC and vehicle registration details to 9771 to check eligibility for federal monthly fuel subsidies."
-      },
-      {
-        question: "Can students with an existing bank loan default apply?",
-        answer: "No, applicants or their financial guarantors (parents/guardians) with active credit defaults on the e-CIB credit database will not qualify for bank loan approval."
-      },
-      {
-        question: "Where can applicants track their application status online?",
-        answer: "Applicants can track their status by logging into their respective portal accounts at bikes.punjab.gov.pk for Punjab or smta.gos.pk for Sindh using their CNIC number."
-      }
-    ],
-    officialLinks: [
-      { label: "Punjab E-Bikes Official Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "Sindh Mass Transit Authority (SMTA)", href: "https://smta.gos.pk/" },
-      { label: "KP Transport & Mass Transit Department", href: "https://kp.gov.pk/" },
-      { label: "Federal PAVE Electric Vehicle Portal", href: "https://pave.gov.pk/" }
-    ]
-  },
   {
     slug: "pasban-remittance-reward-scheme",
     title: "Pasban Remittance Reward Scheme 2026: Eligibility, PKR 16B Prizes & Draw Guide",
@@ -5571,7 +5085,7 @@ export const articles: Article[] = [
     publishedDate: "October 4, 2026",
     lastChecked: "October 4, 2026",
     readTime: "8 min read",
-    image: "/images/pasban-remittance-reward-scheme.jpg",
+    image: "/images/pasban-remittance-reward-scheme.webp",
     imageAlt: "Pasban Remittance Reward Scheme 2026 PKR 16 Billion Cash Prizes and Eligibility Guide",
     author: contributors.muhammadSalman,
     officialLinks: [
@@ -5703,9 +5217,9 @@ export const articles: Article[] = [
       "provincial-regional-schemes",
       "bisp-benazir-kafaalat-8171-check",
       "federal-contributory-pension-scheme",
-      "national-savings-profit-rates"
-    ,
-      "housing-and-remittance-initiatives"]
+      "national-savings-profit-rates",
+      "housing-and-remittance-initiatives"
+    ]
   },
 
   {
@@ -5748,7 +5262,7 @@ export const articles: Article[] = [
   "publishedDate": "October 3, 2026",
   "lastChecked": "October 3, 2026",
   "readTime": "9 min read",
-  "image": "/images/apna-ghar-housing-scheme.jpg",
+  "image": "/images/apna-ghar-housing-scheme.webp",
   "imageAlt": "Editorial banner for Apna Ghar Housing Scheme 2026 showing low-cost housing finance key details, 5% markup, and online application portal",
   author: contributors.muhammadSalman,
   "sections": [
@@ -6015,7 +5529,7 @@ export const articles: Article[] = [
     publishedDate: "2026-10-03",
     lastChecked: "October 3, 2026",
     readTime: "9 min read",
-    image: "/images/provincial-regional-schemes.jpg",
+    image: "/images/provincial-regional-schemes.webp",
     imageAlt: "Provincial and Regional Schemes Complete Eligibility and Registration Guide Pakistan 2026",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -6306,13 +5820,18 @@ export const articles: Article[] = [
             "href": "https://balochistan.gov.pk"
       }
 ],
-    relatedSlugs: ["cm-punjab-green-credit-program","cm-punjab-e-bikes-scheme-phase-2","wazir-e-azam-apna-ghar-program","national-savings-profit-rates",
+    relatedSlugs: [
+      "cm-punjab-green-credit-program",
+      "cm-punjab-electric-bike-scheme",
+      "wazir-e-azam-apna-ghar-program",
+      "national-savings-profit-rates",
       "pasban-remittance-reward-scheme",
       "cm-punjab-rehmat-card-2026",
       "housing-welfare-schemes",
       "housing-and-remittance-initiatives",
       "housing-social-cards-punjab",
-      "punjab-solar-housing-updates-2026"]
+      "punjab-solar-housing-updates-2026"
+    ]
   },
 
   {
@@ -6354,7 +5873,7 @@ export const articles: Article[] = [
     publishedDate: "October 3, 2026",
     lastChecked: "October 3, 2026",
     readTime: "9 min read",
-    image: "/images/bisp-benazir-kafaalat-8171-check.jpg",
+    image: "/images/bisp-benazir-kafaalat-8171-check.webp",
     imageAlt: "Citizen verifying 8171 CNIC eligibility status for BISP Benazir Kafaalat online",
     author: contributors.muhammadSalman,
     officialLinks: [
@@ -6370,7 +5889,7 @@ export const articles: Article[] = [
         ],
         links: [
           { label: "BISP & PSER Updates 2026: Online Registration, 8171 Status Check & Dynamic Survey Guide", href: "/bisp-pser-updates" },
-          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" }
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/cm-punjab-electric-bike-scheme/" }
         ],
         subsections: [
           {
@@ -6534,494 +6053,17 @@ export const articles: Article[] = [
       }
     ],
     relatedSlugs: [
-    "bisp-pser-updates",
+      "bisp-pser-updates",
       "bisp-biometric-verification-failed",
       "bisp-tehsil-office-peshawar-kpk-districts-list-addresses",
       "fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert",
       "pmt-score-above-32-bisp-re-survey-guide",
       "bisp-agent-deduction-complaint-retailer-penalty",
-      "bisp-and-ehsaas-difference-guide"
-    ,
+      "bisp-and-ehsaas-difference-guide",
       "pasban-remittance-reward-scheme",
-      "cm-punjab-rehmat-card-2026"]
-  },
-
-  {
-    slug: "maryam-nawaz-electric-bike-scheme-2026",
-    title: "Maryam Nawaz Electric Bike Scheme 2026: Online Registration, Eligibility & Installment Plan",
-    excerpt: "The Maryam Nawaz Electric Bike Scheme 2026 provides 125,000+ interest-free electric motorbikes and scooties to college and university students across Punjab. Financed by the Bank of Punjab with zero down payment and a Rs 90,000 government subsidy, applicants pay Rs 3,028 monthly over 3 years. Applications close on October 4, 2026, at bikes.punjab.gov.pk.",
-    showExcerpt: true,
-    metaTitle: "Maryam Nawaz Electric Bike Scheme 2026: Apply Online & Eligibility",
-    metaDescription: "Apply online for the Maryam Nawaz Electric Bike Scheme 2026 via bikes.punjab.gov.pk. Check Phase 2 eligibility, zero down payment, Rs 3,000/mo BOP plan & last date.",
-    focusKeyword: "Maryam Nawaz Electric Bike Scheme 2026",
-    lsiKeywords: [
-      "CM Punjab E-Bike Scheme Phase 2",
-      "bikes.punjab.gov.pk online apply",
-      "Bank of Punjab e-bike monthly installment",
-      "Punjab student electric bike scheme eligibility",
-      "female electric scooty scheme Punjab"
-    ],
-    entities: [
-      "Maryam Nawaz Electric Bike Scheme 2026",
-      "Maryam Nawaz Sharif",
-      "bikes.punjab.gov.pk",
-      "Bank of Punjab",
-      "Higher Education Commission Pakistan",
-      "Punjab Information Technology Board"
-    ],
-    primaryCategory: "CM Punjab Schemes",
-    categorySlugs: ["8171"],
-    date: "October 02, 2026",
-    publishedDate: "2026-10-02",
-    lastChecked: "October 02, 2026",
-    readTime: "7 min read",
-    image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
-    imageAlt: "Female student standing beside electric scooty under CM Punjab Pink Scooty Phase 2",
-    author: contributors.muhammadSalman,
-    reviewer: contributors.ayeshaMalik,
-    officialLinks: [
-      { label: "Official Punjab E-Bikes Registration Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "Official Government of Punjab Portal", href: "https://punjab.gov.pk/cm-ebikes-scheme" },
-      { label: "Bank of Punjab E-Bike Financing Guidelines", href: "https://bop.com.pk/" }
-    ],
-    sections: [
-      {
-        title: "What is the Maryam Nawaz Electric Bike Scheme 2026?",
-        paragraphs: [
-          "The Chief Minister's Youth Initiative E-Bike Scheme Phase 2 is a flagship green mobility welfare program launched by Chief Minister Maryam Nawaz Sharif. Administered by the Punjab Transport Department and the Punjab Information Technology Board, the initiative aims to reduce travel expenses for students while promoting eco-friendly urban transportation throughout Punjab.",
-          "Under this expanded 2026 phase, the Government of Punjab distributes high-efficiency electric two-wheelers to enrolled male and female students across all 36 districts. The program replaces conventional petrol motorcycles with zero-emission battery vehicles, easing the financial burden of soaring fuel prices on academic households."
-        ],
-        links: [
-          { label: "CM Punjab E-Bikes Scheme Phase 2 Details", href: "/cm-punjab-e-bikes-scheme-phase-2/" },
-          { label: "How to Apply for CM Punjab E-Bike Scheme 2026", href: "/how-to-apply-cm-punjab-e-bike-scheme-2026/" }
-        ]
-      },
-      {
-        title: "Key Features, Government Subsidies, and Total E-Bike Allocation",
-        paragraphs: [
-          "Phase 2 scales the provincial fleet to over 125,000 electric motorbikes and scooties. The total retail value of each standard e-bike is set at PKR 199,000, but student beneficiaries receive substantial government-backed relief.",
-          "The Punjab Government provides an immediate capital subsidy of Rs 90,000 per vehicle. Furthermore, the provincial treasury absorbs 100% of the bank interest markup, registration fees, annual token tax, and full vehicle insurance costs, leaving students to pay only the subsidized principal balance."
-        ]
-      },
-      {
-        title: "Who is Eligible for the Punjab CM E-Bike Scheme Phase 2?",
-        paragraphs: [
-          "To qualify for the Phase 2 allocation, applicants must satisfy strict provincial residence, academic enrollment, and legal driving criteria established by the Punjab Transport Department.",
-          "Only regular, full-time students currently enrolled in degree programs are eligible. Distance-learning students, casual diploma course participants, and non-enrolled individuals cannot apply under the university student quota."
-        ],
-        links: [
-          { label: "CM Punjab Honhaar Scholarship Program 2026", href: "/cm-punjab-honhaar-scholarship-program-2026/" },
-          { label: "BISP Taleemi Wazaif Stipend Rates 2026", href: "/bisp-taleemi-wazaif-stipend-rates-2026/" }
-        ],
-        subsections: [
-          {
-            title: "Age, Institution, Domicile, and Learner Permit Requirements",
-            paragraphs: [
-              "Applicants must meet mandatory eligibility benchmarks: (1) Regular student at an HEC-recognized public or private degree college/university in Punjab; (2) Valid Punjab CNIC or domicile certificate; (3) Minimum age of 18 years; (4) Valid motorcycle driving license or official learner permit issued by Punjab Traffic Police; (5) Family limit of one student per household."
-            ]
-          }
-        ]
-      },
-      {
-        title: "What are the Monthly Installment and Payment Terms with Bank of Punjab?",
-        paragraphs: [
-          "Financing for the Maryam Nawaz Electric Bike Scheme is exclusively managed by the Bank of Punjab (BOP). The credit arrangement operates as a soft loan structure designed for student budgets.",
-          "The total loan period is spread over 36 months (3 years). Because the Punjab government subsidizes the entire interest markup, successful applicants pay an equal, interest-free monthly installment without hidden bank service charges."
-        ],
-        subsections: [
-          {
-            title: "Zero Down Payment Waiver, Subsidy Breakdown, and Installment Structure",
-            paragraphs: [
-              "Following direct directives from Chief Minister Maryam Nawaz Sharif for Phase 2, the mandatory advance down payment has been completely waived. Students pay Rs 0 down payment, followed by equal monthly installments of approximately Rs 3,000 to Rs 3,028 per month over 36 months at 0% markup."
-            ]
-          }
-        ]
-      },
-      {
-        title: "How to Apply Online at bikes.punjab.gov.pk (Step-by-Step Guide)",
-        paragraphs: [
-          "All applications for the 2026 scheme must be completed electronically through the official web portal operated by PITB: bikes.punjab.gov.pk. Manual paper applications submitted at bank branches or government offices are not accepted.",
-          "Applicants should complete their registration well before the strict deadline of October 4, 2026."
-        ],
-        subsections: [
-          {
-            title: "Document Checklist, Portal Account Creation, and Application Submission",
-            paragraphs: [
-              "Step 1: Access bikes.punjab.gov.pk and click Register. Step 2: Enter CNIC, mobile number, email, and district. Step 3: Fill in student academic details. Step 4: Upload CNIC, Punjab Domicile, Learner Permit, Student ID, and Guarantor CNIC/Income Proof. Step 5: Select vehicle preference and submit."
-            ]
-          }
-        ]
-      },
-      {
-        title: "How Does the Computerized E-Balloting and Verification Process Work?",
-        paragraphs: [
-          "Once the registration window closes on October 4, 2026, the Punjab Information Technology Board (PITB) conducts a transparent computerized e-balloting process to select beneficiaries from eligible applications.",
-          "The digital draw is audited independently to ensure equal distribution across all 36 Punjab districts and gender quotas."
-        ],
-        subsections: [
-          {
-            title: "BOP Guarantor Verification, Merit Lists, and Vehicle Distribution",
-            paragraphs: [
-              "Selected candidates receive confirmation via SMS and online merit lists. The designated parent/guardian guarantor visits a BOP branch to complete biometric verification and sign loan documents before vehicle delivery."
-            ]
-          }
-        ]
-      },
-      {
-        title: "What Special Provisions and Safety Features are Reserved for Female Students?",
-        paragraphs: [
-          "The Maryam Nawaz Electric Bike Scheme Phase 2 incorporates targeted gender-equity policies to ensure female students benefit equally from provincial mobility initiatives.",
-          "A dedicated percentage of the 125,000 vehicle fleet is strictly reserved for female applicants competing in a separate allotment pool."
-        ],
-        links: [
-          { label: "Pink Scooty Scheme 2026 Registration & Eligibility", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
-        ],
-        subsections: [
-          {
-            title: "Female Quota, Electric Scooty Options, and Free Safety Training",
-            paragraphs: [
-              "Female applicants can select lightweight pink electric scooties powered by LiFePO4 battery technology (60-80 km range). Every female recipient receives a free safety helmet, leg-protection rods, and mandatory 2-day driving safety training."
-            ]
-          }
-        ]
-      },
-      {
-        title: "Phase 1 vs Phase 2 Comparison: What Changed in 2026?",
-        paragraphs: [
-          "Phase 2 expands the fleet from 20,000 to 125,000+ electric vehicles, waives the 20% down payment requirement to Rs 0, lowers monthly installments to Rs 3,028, and upgrades battery technology to LiFePO4 long-life cells."
-        ],
-        table: {
-          caption: "Phase 1 vs Phase 2 E-Bike Scheme Comparison (2026 Update)",
-          headers: ["Feature / Metric", "Phase 1 (Initial Release)", "Phase 2 (2026 Active Release)"],
-          rows: [
-            ["Total Vehicle Allocation", "19,000 Petrol & 1,000 Electric", "125,000+ Electric Motorbikes & Scooties"],
-            ["Down Payment Requirement", "20% Mandatory Advance Payment", "Rs 0 (100% Waived by CM Punjab)"],
-            ["Monthly Installment Rate", "Rs 5,000 to Rs 10,000 / month", "Rs 3,000 to Rs 3,028 / month"],
-            ["Battery Technology", "Standard Lead-Acid / Basic Lithium", "LiFePO4 (Lithium Iron Phosphate) High Life"],
-            ["Registration & Token Tax", "Paid by Student", "100% Subsidized by Punjab Government"],
-            ["Safety Gear Included", "Helmet Only", "Free Helmet, Safety Rods & 2-Day Riding Course"],
-            ["Application Deadline", "Closed", "October 4, 2026"]
-          ]
-        }
-      },
-      {
-        title: "How to Troubleshoot Portal Errors and Track Application Status",
-        paragraphs: [
-          "If the portal shows CNIC already registered, click Forgot Password to reset via mobile. For upload errors, compress files below 2MB in JPG or PDF. Track live status via your CNIC on the PITB portal dashboard."
-        ],
-        links: [
-          { label: "8171 Web Portal Troubleshooting Guide", href: "/8171-web-portal-not-working/" },
-          { label: "CM Punjab Green Credit Program 2026", href: "/cm-punjab-green-credit-program-2026-online-apply/" }
-        ]
-      }
-    ],
-    faqs: [
-      {
-        question: "What is the last date to apply online for the Maryam Nawaz Electric Bike Scheme Phase 2?",
-        answer: "The last date to submit online applications for Phase 2 is October 4, 2026. All registration forms and document uploads must be completed on the official portal bikes.punjab.gov.pk before midnight on this date."
-      },
-      {
-        question: "Is a down payment required for the 2026 Punjab E-Bike Scheme?",
-        answer: "No down payment is required for Phase 2. Chief Minister Maryam Nawaz Sharif completely waived the advance payment requirement, allowing eligible students to receive e-bikes with zero upfront capital."
-      },
-      {
-        question: "Can students apply with a motorcycle learner's permit instead of a full driving license?",
-        answer: "Yes, students can apply using a valid motorcycle learner's permit. The Punjab Transport Department accepts official learner permits issued by Traffic Police alongside full motorcycle driving licenses."
-      },
-      {
-        question: "What is the monthly installment amount for the Bank of Punjab e-bike loan?",
-        answer: "The monthly installment amount is approximately Rs 3,028 per month over a 36-month repayment period. The loan is interest-free, as the Government of Punjab subsidizes 100% of the bank markup."
-      },
-      {
-        question: "How many total electric bikes are being distributed in Phase 2?",
-        answer: "Over 125,000 electric motorbikes and scooties are being distributed in Phase 2 across all 36 districts of Punjab. This represents a major expansion from the initial phase of the initiative."
-      },
-      {
-        question: "Are female students eligible for electric scooties under the scheme?",
-        answer: "Yes, female students can explicitly choose electric scooties during online portal registration. Female applicants also compete within a dedicated reserved quota pool."
-      },
-      {
-        question: "Who can act as a guarantor for the Bank of Punjab e-bike application?",
-        answer: "A parent, legal guardian, or immediate family member with verifiable monthly income can act as a guarantor. The co-borrower must provide CNIC documentation and income proof during Bank of Punjab processing."
-      },
-      {
-        question: "What is the official website portal to apply for the CM Punjab E-Bike Scheme?",
-        answer: "The only official application portal is bikes.punjab.gov.pk. Students should avoid third-party websites or unofficial agencies claiming to process applications."
-      },
-      {
-        question: "Does the Punjab government cover insurance and token tax for the e-bikes?",
-        answer: "Yes, the Punjab government covers 100% of vehicle insurance, token tax, and vehicle registration fees for the initial period, relieving students of extra administrative costs."
-      },
-      {
-        question: "How will the final winners be selected if applicant numbers exceed the quota?",
-        answer: "Selection is conducted through a transparent computerized e-balloting system managed by PITB. Results are published directly on the official portal and communicated to shortlisted applicants via SMS."
-      }
-    ],
-    relatedSlugs: [
-      "cm-punjab-e-bikes-scheme-phase-2",
-      "how-to-apply-cm-punjab-e-bike-scheme-2026",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "cm-punjab-green-credit-program-2026-online-apply",
-      "cm-punjab-honhaar-scholarship-program-2026"
+      "cm-punjab-rehmat-card-2026"
     ]
   },
-  {
-    slug: "how-to-apply-cm-punjab-e-bike-scheme-2026",
-    title: "How To Apply CM Punjab E-Bike Scheme 2026 Registration Complete Process",
-    excerpt: "Complete 2026 step-by-step online application guide for the CM Punjab E-Bike Scheme at bikes.punjab.gov.pk. Learn eligibility for students, teachers, and government staff, required documents, guarantor rules, zero down payment, and Rs 3,000 monthly installments.",
-    showExcerpt: true,
-    metaTitle: "How to Apply CM Punjab E-Bike Scheme 2026: Complete Registration Guide",
-    metaDescription: "Learn how to apply for CM Punjab E-Bike Scheme 2026 online at bikes.punjab.gov.pk. Check eligibility, documents, zero down payment & step-by-step registration.",
-    focusKeyword: "how to apply cm punjab e-bike scheme 2026 registration complete process",
-    lsiKeywords: [
-      "how to apply online for cm punjab e-bike scheme 2026",
-      "bikes punjab gov pk student registration portal",
-      "cm punjab e-bike scheme eligibility criteria 2026",
-      "punjab e-bike scheme documents required for online apply",
-      "bank of punjab e-bike guarantor income proof requirement",
-      "cm punjab e-bike monthly installment calculation"
-    ],
-    entities: [
-      "CM Punjab E-Bike Scheme 2026",
-      "Government of the Punjab",
-      "The Bank of Punjab",
-      "bikes.punjab.gov.pk",
-      "Higher Education Commission (HEC)",
-      "Punjab Teachers Foundation",
-      "Rs 90,000 Capital Subsidy",
-      "Zero Down Payment",
-      "36 Monthly Installments (Rs 3,000/month)",
-      "Driving Learner Permit / License"
-    ],
-    primaryCategory: "punjab-schemes",
-    categorySlugs: [
-      "punjab-schemes",
-      "other-schemes"
-    ],
-    date: "October 2, 2026",
-    publishedDate: "October 2, 2026",
-    lastChecked: "October 2, 2026",
-    readTime: "10 min read",
-    image: "/images/how-to-apply-cm-punjab-e-bike-scheme-2026.jpg",
-    imageAlt: "Student completing online application step for CM Punjab E-Bike Scheme portal",
-    author: contributors.muhammadSalman,
-    officialLinks: [
-      { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
-      { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
-      { label: "Punjab Teachers Foundation Portal", href: "https://ptf.punjab.gov.pk/" },
-      { label: "DLIMS License Verification", href: "https://dlims.punjab.gov.pk/" }
-    ],
-    relatedSlugs: [
-      "cm-punjab-e-bikes-scheme-phase-2",
-      "cm-punjab-electric-bike-scheme",
-      "cm-punjab-e-bike-scheme-updates",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply"
-    ],
-    sections: [
-      {
-        title: "What Is the CM Punjab E-Bike Scheme 2026?",
-        paragraphs: [
-          "The CM Punjab E-Bike Scheme 2026 is a major provincial initiative launched by the Government of the Punjab under the Chief Minister Youth Initiative. Designed to facilitate eco-friendly urban mobility for youth, the scheme provides electric motorbikes to regular college and university students, school teachers, and BPS 1-16 government workers across Punjab through an interest-free financing structure.",
-          "Through a partnership between the Transport & Mass Transit Department, the Punjab Information Technology Board (PITB), and The Bank of Punjab (BOP), the program removes traditional upfront financial barriers, enabling youth to access clean transport with zero interest burden."
-        ],
-        subsections: [
-          {
-            title: "Key Features, Subsidy Amount, and BOP Financing Terms",
-            paragraphs: [
-              "The Government of the Punjab provides a direct capital subsidy of Rs. 90,000 for every electric bike distributed under this scheme. Financing is executed through The Bank of Punjab under a 0% interest (zero markup) arrangement. Successful applicants pay zero down payment upfront and repay the remaining bike cost across 36 monthly installments of approximately Rs. 3,000 per month. Additionally, the provincial government covers 100% of the cost for bike registration, token tax, comprehensive insurance, and provides a free safety helmet and protective rods with every vehicle."
-            ]
-          }
-        ],
-        links: [
-          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
-          { label: "Check CM Punjab E-Bikes Phase 2 updates & balloting", href: "/cm-punjab-e-bikes-scheme-phase-2/" },
-          { label: "Learn about CM Punjab Electric Bike Scheme overall terms", href: "/cm-punjab-electric-bike-scheme/" }
-        ]
-      },
-      {
-        title: "Who Is Eligible to Apply for the CM Punjab E-Bike Scheme in 2026?",
-        paragraphs: [
-          "Eligibility for the CM Punjab E-Bike Scheme requires applicants to be at least 18 years of age, hold a valid Punjab domicile or provincial CNIC, and belong to an approved institutional category. The scheme operates primarily on a first-come, first-served basis across designated male and female quotas."
-        ],
-        subsections: [
-          {
-            title: "Eligibility Requirements for Students, Teachers, and Government Employees",
-            paragraphs: [
-              "Student applicants must be enrolled as full-time regular students in a degree college or university located in Punjab that is recognized by the Higher Education Commission (HEC). Distance learning, part-time, and evening program students are ineligible. For school teachers, registration is channeled through the Punjab Teachers Foundation (PTF) portal. Government employees serving in basic pay scales BPS 1 through BPS 16 are also eligible provided they submit an official NOC from their respective administrative department."
-            ]
-          },
-          {
-            title: "Can You Apply with a Driving Learner’s Permit?",
-            paragraphs: [
-              "Yes, applicants can register for the CM Punjab E-Bike Scheme using either a permanent driving license or a valid driving learner’s permit issued by the Punjab Police Traffic Department. Having a physical learner’s permit number is sufficient to complete the portal application. However, applicants must ensure their learner permit remains active throughout the bank verification and vehicle delivery stages."
-            ]
-          }
-        ],
-        links: [
-          { label: "Read CM Punjab Honhaar Scholarship eligibility criteria", href: "/cm-punjab-honhaar-scholarship-program-2026/" },
-          { label: "Pink Scooty Scheme registration for female students", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
-        ]
-      },
-      {
-        title: "What Documents Are Required for Online E-Bike Registration?",
-        paragraphs: [
-          "Applicants must upload clear scanned copies or clear digital photos of all required credentials before submitting their online registration form. Missing or illegible documents lead to immediate portal rejection during initial scrutiny."
-        ],
-        subsections: [
-          {
-            title: "Student Identification and Educational Proofs",
-            paragraphs: [
-              "Students need their original CNIC or NADRA B-Form, Punjab domicile certificate, valid driving license or learner permit, a recent passport-sized photograph with a blue background, and an official Bonafide Student Certificate signed and stamped by their college principal or university registrar."
-            ]
-          },
-          {
-            title: "Guarantor Income and CNIC Requirements",
-            paragraphs: [
-              "The Bank of Punjab requires every applicant to nominate a co-borrower or financial guarantor, typically a parent, working spouse, or immediate relative. The guarantor must provide their CNIC, active mobile number registered in their own name, proof of monthly income (salary slip, bank statement, or certified business income certificate), and pass a credit check ensuring their existing monthly debt obligations do not exceed 40% of their net income."
-            ]
-          }
-        ]
-      },
-      {
-        title: "Step-by-Step Process: How to Apply Online at bikes.punjab.gov.pk",
-        paragraphs: [
-          "Follow these step-by-step instructions to register your application correctly on the official Punjab E-Bike portal at bikes.punjab.gov.pk."
-        ],
-        subsections: [
-          {
-            title: "Step 1: User Account Creation and Portal Registration",
-            paragraphs: [
-              "Navigate to bikes.punjab.gov.pk on your mobile or desktop browser. Click on the 'Register' button to open the account creation window. Enter your full name exactly as printed on your CNIC, select your gender, enter your 13-digit CNIC number without dashes, provide an active email address, and enter a mobile number registered to your CNIC. Create a strong password, accept the terms and conditions, and click 'Submit' to receive a verification OTP code via SMS."
-            ]
-          },
-          {
-            title: "Step 2: Filling Personal, Academic, and Guarantor Details",
-            paragraphs: [
-              "Log into your newly created account and select your applicant category (Student, Teacher, or Govt Employee). Fill in your personal details including permanent address, postal address, and driving permit issue number. Under the institutional section, select your district, university or college name, campus, and roll number. Next, open the Guarantor Information section and accurately enter your guarantor's CNIC, monthly salary or business income, relationship to applicant, and current employer details."
-            ]
-          },
-          {
-            title: "Step 3: Document Upload and Final Application Submission",
-            paragraphs: [
-              "Upload scanned PDF or JPEG files for your CNIC (front and back), student Bonafide Certificate, driving learner permit, and guarantor income proof (maximum file size 2 MB per document). Select your preferred electric bike brand and model from the dropdown menu. Review all entered fields carefully to ensure no typing errors exist. Click the check box confirming that all details are true, and press 'Final Submit.' Download and save your computer-generated application tracking slip containing your unique Application ID."
-            ]
-          }
-        ]
-      },
-      {
-        title: "CM Punjab Electric Bike Payment & Monthly Installment Schedule",
-        paragraphs: [
-          "The Punjab E-Bike Scheme eliminates the upfront financial barrier for students by removing down payments and absorbing interest charges through government subsidies."
-        ],
-        subsections: [
-          {
-            title: "Zero Down Payment and Rs. 90,000 Subsidy Breakdown",
-            paragraphs: [
-              "The total cost of an electric motorbike is shared between the Government of the Punjab and the applicant. The government pays an upfront capital subsidy of Rs. 90,000 directly to the manufacturer and covers full vehicle registration, first-year insurance, and token tax costs. The remaining balance of the bike price is converted into a 3-year interest-free loan managed by The Bank of Punjab, requiring zero down payment from the applicant at the time of delivery."
-            ]
-          }
-        ],
-        table: {
-          caption: "E-Bike vs Petrol Bike Cost & Repayment Comparison",
-          headers: ["Financial Parameter", "CM Punjab Electric Bike Scheme", "Standard 70cc Petrol Bike (Market)"],
-          rows: [
-            ["Upfront Down Payment", "Rs. 0 (Zero Down Payment)", "Rs. 35,000 – Rs. 50,000"],
-            ["Government Capital Subsidy", "Rs. 90,000 (Paid by GoPb)", "Rs. 0"],
-            ["Bank Interest Rate (Markup)", "0% Interest (Zero Markup)", "18% – 26% Commercial Interest"],
-            ["Monthly Bank Installment", "Approx. Rs. 3,000 / month", "Rs. 6,500 – Rs. 8,500 / month"],
-            ["Repayment Tenure", "36 Months (3 Years)", "12 to 24 Months"],
-            ["Monthly Fuel / Charging Cost", "Rs. 800 – Rs. 1,200 (Electricity)", "Rs. 7,000 – Rs. 10,000 (Petrol)"],
-            ["Free Included Accessories", "Helmet, Safety Rods, Insurance", "None"]
-          ]
-        },
-        links: [
-          { label: "Explore Federal PAVE Electric Bike Scheme details", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
-        ]
-      },
-      {
-        title: "How to Track CM Punjab E-Bike Application Status Online",
-        paragraphs: [
-          "Applicants can monitor their registration progress in real-time by accessing the application tracking portal at bikes.punjab.gov.pk."
-        ],
-        subsections: [
-          {
-            title: "Understanding Verification Stages: Scrutiny, Physical Audit, and BOP Loan Clearance",
-            paragraphs: [
-              "After online submission, applications move through three distinct clearance stages: 1) Under Scrutiny (Portal Level) where CNIC, domicile, and driving permit authenticity are checked with NADRA and Traffic Police databases; 2) Institutional Verification where university/college heads verify active student status; 3) BOP Loan Approval where The Bank of Punjab completes financial credit checks on the guarantor."
-            ]
-          }
-        ]
-      },
-      {
-        title: "Common Reasons for E-Bike Application Rejection and How to Fix Them",
-        paragraphs: [
-          "Understanding common portal errors ensures your application is processed smoothly without unnecessary delays or rejections."
-        ],
-        table: {
-          caption: "Common Portal Rejection Errors & Fixes",
-          headers: ["Common Rejection Error", "Root Cause", "Exact Solution & Fix"],
-          rows: [
-            ["CNIC / Name Mismatch", "Name spelled differently on portal vs NADRA records", "Re-register using exact CNIC spelling as printed on smart card"],
-            ["Institution Roll Number Failed", "Student listed as evening or private candidate", "Obtain an updated Bonafide Certificate from regular campus registrar"],
-            ["Guarantor Rejected by BOP", "Guarantor debt burden exceeds 40% of income", "Replace guarantor with another employed parent/relative with clear bank record"],
-            ["Invalid Learner Permit", "Expired or fake learner permit number entered", "Renew learner permit online via DLIMS Punjab portal and re-upload valid slip"],
-            ["Document Upload Error", "File size exceeds 2 MB or image is blurry", "Compress files under 1 MB in JPEG/PDF format before re-uploading"]
-          ]
-        }
-      },
-      {
-        title: "Frequently Asked Questions (FAQ)",
-        paragraphs: [
-          "Here are answers to the most common questions asked by applicants registering for the CM Punjab E-Bike Scheme 2026."
-        ]
-      }
-    ],
-    faqs: [
-          {
-            question: "What is the official website to apply for the CM Punjab E-Bike Scheme 2026?",
-            answer: "The official website to register for the CM Punjab E-Bike Scheme 2026 is bikes.punjab.gov.pk. Applicants should use only this official portal and avoid unauthorized third-party websites or agents charging registration fees."
-          },
-          {
-            question: "Is down payment required for the CM Punjab electric bike scheme?",
-            answer: "No, the CM Punjab E-Bike Scheme requires zero down payment. Successful applicants receive their electric bike without paying any advance upfront cash, as the Punjab government covers the initial down payment and insurance expenses."
-          },
-          {
-            question: "Can students with a learner driving permit apply for the E-Bike scheme?",
-            answer: "Yes, students holding a valid driving learner's permit issued by the Punjab Traffic Police are fully eligible to apply. A full permanent driving license is not mandatory during the initial registration phase."
-          },
-          {
-            question: "What is the monthly installment amount for the Punjab E-Bike scheme?",
-            answer: "The monthly installment for the electric bike is approximately Rs. 3,000 per month. The total balance is spread evenly across 36 equal monthly installments with zero interest markup."
-          },
-          {
-            question: "Who can act as a guarantor for the E-Bike application?",
-            answer: "A parent, guardian, working spouse, or relative with a verifiable regular income source can act as a financial guarantor. The guarantor must possess a valid CNIC and have an active credit record with no bank defaults."
-          },
-          {
-            question: "Are private university students in Punjab eligible for the E-Bike scheme?",
-            answer: "Yes, regular full-time students enrolled in HEC-recognized private universities in Punjab are eligible to apply alongside public sector university students."
-          },
-          {
-            question: "How many years is the installment plan for the CM Punjab electric bike?",
-            answer: "The installment repayment plan spans 3 years (36 consecutive months). Payments are deposited directly into designated Bank of Punjab accounts or collected via automated monthly bank deductions."
-          },
-          {
-            question: "Are government employees and school teachers eligible for Phase 2 E-Bikes?",
-            answer: "Yes, government school teachers can apply through the dedicated Punjab Teachers Foundation (PTF) portal, while BPS 1 to BPS 16 provincial government employees are eligible under dedicated workplace quotas."
-          },
-          {
-            question: "What accessories are provided free of cost with the CM E-Bike?",
-            answer: "Every electric bike comes with a free safety helmet, protective side rods, 100% free vehicle registration, token tax exemption, and comprehensive insurance coverage for the first year."
-          },
-          {
-            question: "How can I check if my E-Bike application has been approved by BOP?",
-            answer: "Log into your user account on bikes.punjab.gov.pk using your CNIC and password. Navigate to the Dashboard tab to view your current application status, which will display BOP Loan Approved once final clearance is granted."
-          }
-        ]
-  },
-
   {
     slug: "apna-ghar-social-welfare-guide",
     relatedSlugs: [
@@ -7057,8 +6099,8 @@ export const articles: Article[] = [
     publishedDate: "October 2, 2026",
     lastChecked: "October 2, 2026",
     readTime: "8 min read",
-    image: "/images/wazir-e-azam-apna-ghar-program.jpg",
-    imageAlt: "Modern residential apartment building constructed under Wazir-e-Azam housing program",
+    image: "/images/apna-ghar-social-welfare-services.webp",
+    imageAlt: "Apna Ghar and social welfare shelter support and affordable housing loan criteria",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -7507,270 +6549,12 @@ export const articles: Article[] = [
             "href": "https://e.fbr.gov.pk/"
       }
 ],
-    relatedSlugs: ["federal-contributory-pension-scheme","wazir-e-azam-apna-ghar-program","cm-punjab-e-bikes-scheme-phase-2",
-      "provincial-regional-schemes",
-      "pasban-remittance-reward-scheme"]
-  },
-
-  {
-    slug: "cm-punjab-e-bikes-scheme-phase-2",
-    title: "CM Punjab E-Bikes Scheme Phase 2 2026: What Changed, Eligibility & How to Apply",
-    excerpt: "The CM Punjab E-Bikes Scheme Phase 2 gives Punjab students 100,000+ electric scooties at PKR 199,000 with a Rs 90,000 subsidy, 0% interest, no down payment and ~Rs 3,000 monthly installments over 3 years. Here is what changed vs Phase 1, who is eligible, and the October 4, 2026 deadline.",
-    showExcerpt: true,
-    metaTitle: "CM Punjab E-Bikes Scheme Phase 2: What Changed, Eligibility & Last Date",
-    metaDescription: "CM Punjab E-Bikes Scheme Phase 2: 100,000+ electric scooties, Rs 90,000 subsidy, zero down payment and ~Rs 3,000 monthly installments. Apply before October 4, 2026 at bikes.punjab.gov.pk.",
-    focusKeyword: "cm punjab e-bikes scheme phase 2",
-    lsiKeywords: [
-      "cm punjab e-bikes scheme phase 2 apply online",
-      "punjab e-bike phase 2 eligibility criteria",
-      "cm punjab e-bike phase 2 price subsidy installment",
-      "punjab e-bike scheme phase 2 last date october 4 2026",
-      "maryam nawaz e-bike scheme phase 2 2026",
-      "punjab e-bike phase 1 vs phase 2 difference"
-    ],
-    entities: [
-      "CM Punjab E-Bikes Scheme (Phase 2)",
-      "Maryam Nawaz Sharif",
-      "The Bank of Punjab",
-      "Punjab Information Technology Board",
-      "Transport & Mass Transit Department",
-      "bikes.punjab.gov.pk",
-      "Rs 90,000 Capital Subsidy",
-      "PKR 199,000 E-Bike Price",
-      "100,000 Electric Scooties",
-      "October 4, 2026 Deadline"
-    ],
-    primaryCategory: "punjab-schemes",
-    categorySlugs: [
-      "punjab-schemes",
-      "other-schemes"
-    ],
-    date: "September 30, 2026",
-    publishedDate: "September 30, 2026",
-    lastChecked: "September 30, 2026",
-    readTime: "9 min read",
-    image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
-    imageAlt: "Female student standing beside electric scooty under CM Punjab Pink Scooty Phase 2",
-    author: contributors.muhammadSalman,
-    officialLinks: [
-      { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
-      { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
-      { label: "Federal PAVE Portal", href: "https://pave.gov.pk/" }
-    ],
     relatedSlugs: [
+      "federal-contributory-pension-scheme",
+      "wazir-e-azam-apna-ghar-program",
       "cm-punjab-electric-bike-scheme",
-      "cm-punjab-e-bike-scheme-updates",
-      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "transport-fuel-relief-options"
-    ,
-      "national-savings-profit-rates",
-      "how-to-apply-cm-punjab-e-bike-scheme-2026",
-      "provincial-regional-schemes"],
-    sections: [
-      {
-        title: "What Is Phase 2 of the CM Punjab E-Bikes Scheme?",
-        paragraphs: [
-          "Phase 2 is the second and much larger round of the CM Punjab E-Bikes Scheme, launched by Chief Minister Maryam Nawaz Sharif under the CM Youth Initiative and run by the Transport & Mass Transit Department. After a small pilot in Phase 1, the provincial government opened a province-wide window in September 2026 so students can acquire a subsidised electric scooty through interest-free instalments instead of paying the full PKR 199,000 up front.",
-          "The machinery is shared across three institutions. The Bank of Punjab (BOP) finances each bike and verifies applicants and guarantors, while the Punjab Information Technology Board (PITB) runs the portal and the transparent computerised e-balloting. Because the provincial government pays the markup, the applicant never carries an interest burden."
-        ],
-        subsections: [
-          {
-            title: "The Phase 2 Timeline",
-            paragraphs: [
-              "Phase 2 moved quickly. Chief Minister Maryam Nawaz chaired a review meeting on September 2, 2026, where the expanded terms were approved, and the portal opened to applications on September 4, 2026. The Chief Minister also directed that eligible students receive their bikes within six weeks of the portal opening, with applications closing on October 4, 2026."
-            ]
-          }
-        ],
-        links: [
-          { label: "Full CM Punjab Electric Bike Scheme guide", href: "/cm-punjab-electric-bike-scheme/" },
-          { label: "CM Punjab E-Bike Scheme Phase 2 updates and balloting", href: "/cm-punjab-e-bike-scheme-updates/" }
-        ]
-      },
-      {
-        title: "Phase 2 Price, Subsidy and Installment Plan",
-        paragraphs: [
-          "The electric scooty is priced at PKR 199,000, and the Government of Punjab (GoPb) contributes a capital subsidy of Rs 90,000 toward every unit. This subsidy is a grant that does not have to be repaid. The remaining balance is financed through the Bank of Punjab, and because GoPb also bears the financing's interest cost, the student repays only the principal with no markup added.",
-          "One of the biggest Phase 2 changes is the removal of the down payment. The financed balance is repaid in approximately Rs 3,000 monthly installments over a 3-year (36-month) term, with no down payment required. GoPb also absorbs the insurance, registration and token-tax costs."
-        ],
-        table: {
-          caption: "CM Punjab E-Bikes Scheme Phase 2 Cost Breakdown",
-          headers: ["Cost item", "Who pays"],
-          rows: [
-            ["E-bike price (PKR 199,000)", "Shared: Rs 90,000 GoPb subsidy + financed balance"],
-            ["Interest / markup", "Government of Punjab (0% for applicant)"],
-            ["Down payment", "None required"],
-            ["Insurance", "Government of Punjab"],
-            ["Registration & token tax", "Government of Punjab"],
-            ["Monthly installment (~Rs 3,000 x 36 months)", "Student"]
-          ]
-        }
-      },
-      {
-        title: "Who Is Eligible for Phase 2?",
-        paragraphs: [
-          "The applicant must be a bonafide student enrolled in an educational institution registered or recognised by the relevant Government of Punjab authority, and both public-sector and private-sector institutions qualify. Students must provide proof of enrolment together with the latest paid fee slip.",
-          "Phase 2 also keeps two rules that trip up applicants. First, a student must not already own a registered vehicle at the time of application. Second, only one bike is issued per household, even if more than one sibling applies and wins the ballot. Students of federally chartered institutes are not eligible under this provincial scheme and should look at the federal PAVE programme instead."
-        ],
-        subsections: [
-          {
-            title: "Age and Driving-License Requirements",
-            paragraphs: [
-              "The minimum age for Phase 2 is 16 years at the time of submission, and the applicant must hold a valid driving license, learner's driving permit, or juvenile driving permit. The portal's own older overview text still says 18, but the live Phase 2 eligibility and FAQ set the floor at 16. Applicants aged 16 who need a juvenile permit can obtain one by visiting their nearest Sahulat Center with a guardian."
-            ]
-          }
-        ],
-        links: [
-          { label: "PAVE Scheme 2026: eligibility and electric bike subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" },
-          { label: "Pink Scooty Scheme 2026: female quota and balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
-        ]
-      },
-      {
-        title: "Phase 2 Documents and Guarantor Requirements",
-        paragraphs: [
-          "Before opening the portal, gather clear copies of every document. Blurred scans, expired licences or name mismatches are the most common reason for rejection or delay."
-        ],
-        subsections: [
-          {
-            title: "Documents You Must Prepare",
-            paragraphs: [
-              "The student set includes a valid CNIC (or B-Form/CRC where allowed for the age bracket), a student card or bonafide/enrolment certificate, the latest paid fee slip, a motorcycle learner's permit or driving license, and a recent passport-size photograph."
-            ]
-          },
-          {
-            title: "The Guarantor and PKR 40,000 Income Rule",
-            paragraphs: [
-              "The scheme requires a guarantor, normally a parent or legal guardian, with a valid CNIC and a minimum monthly income of PKR 40,000 supported by a recent bank statement. The mobile number entered on the application must be registered in the guarantor's own name against their CNIC. This threshold is a financing and verification requirement applied by the Bank of Punjab after selection, not a cutoff that stops you from applying."
-            ]
-          }
-        ],
-        links: [
-          { label: "Documents for government-programme inquiries", href: "/documents-for-bisp-registration/" }
-        ]
-      },
-      {
-        title: "How to Apply Online for Phase 2 (Step by Step)",
-        paragraphs: [
-          "The application is entirely digital, with no paper forms, office visits or agents. Follow these steps inside the Phase 2 window (deadline October 4, 2026)."
-        ],
-        bullets: [
-          "Step 1: Open the official portal at https://bikes.punjab.gov.pk.",
-          "Step 2: Create your account with your CNIC and an active mobile number, then verify the OTP sent by SMS.",
-          "Step 3: Fill the application form with personal, academic and contact details exactly as they appear on your documents.",
-          "Step 4: Upload the required documents and select your bike option from the official catalogue.",
-          "Step 5: Submit and save your Application ID for tracking.",
-          "Step 6: After the deadline, PITB runs the computerised e-balloting if applications exceed the allocation.",
-          "Step 7: The Bank of Punjab verifies your documents and guarantor, then the bike is delivered through the assigned dealer."
-        ]
-      },
-      {
-        title: "Phase 2 Status, Balloting and Delivery Timeline",
-        paragraphs: [
-          "After submission, monitor progress by logging into the official portal dashboard with your Application ID or CNIC. When valid applications exceed the scooty allocation, selection is made through PITB's computerised e-balloting, a random draw that no person, agent or website can influence.",
-          "Being selected in the ballot is not the final step: you must still clear the Bank of Punjab's verification and financing formalities. The Chief Minister directed that eligible students receive their bikes within six weeks of the portal opening, so treat delivery as a post-verification stage rather than an instant outcome."
-        ],
-        links: [
-          { label: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 balloting and merit lists", href: "/cm-punjab-e-bike-scheme-updates/" }
-        ]
-      },
-      {
-        title: "What's New in Phase 2 vs Phase 1?",
-        paragraphs: [
-          "Many readers still land on articles written about the first phase. The table below reconciles what changed so you do not act on stale numbers."
-        ],
-        table: {
-          caption: "Comparison Between Phase 1 Pilot and Phase 2 (2026)",
-          headers: ["Parameter", "Phase 1 (pilot)", "Phase 2 (2026 - current)"],
-          rows: [
-            ["Coverage", "5 cities", "All districts of Punjab"],
-            ["Allocation", "19,000 petrol + 8,179 e-bikes", "100,000 electric scooties (announced 125,000+)"],
-            ["Minimum age", "18 (legacy overview text)", "16 years"],
-            ["Down payment", "Required (earlier package)", "None"],
-            ["Subsidy", "Earlier Rs 70,000 package", "Rs 90,000 capital subsidy"],
-            ["Monthly installment", "~Rs 2,100 (earlier package)", "~Rs 3,000"],
-            ["Battery", "Not specified publicly", "LFP (Lithium Iron Phosphate)"],
-            ["Training", "Not offered", "Free two-day riding training"],
-            ["Extra categories", "Students only", "Teachers, employees & delivery riders announced"]
-          ]
-        }
-      },
-      {
-        title: "100,000 or 125,000? Making Sense of the Phase 2 Numbers",
-        paragraphs: [
-          "Different official and unofficial pages quote different totals. Here is what each figure actually refers to."
-        ],
-        table: {
-          caption: "Where Each CM Punjab E-Bikes Phase 2 Number Comes From",
-          headers: ["Figure", "Where it comes from", "What it means"],
-          rows: [
-            ["100,000", "bikes.punjab.gov.pk (portal FAQ + banner)", "Electric scooties being provided in Phase 2"],
-            ["125,000+", "punjab.gov.pk (more than 125,000)", "The announced Phase 2 plan, slightly higher than the portal's listed scooties"],
-            ["8,179", "punjab.gov.pk overview", "E-bikes distributed in Phase 1 (not Phase 2)"],
-            ["19,000", "punjab.gov.pk overview", "Petrol bikes distributed in Phase 1"],
-            ["30,000", "an unofficial page", "Not official - a contradictory figure; ignore it"]
-          ]
-        }
-      },
-      {
-        title: "Phase 2 Expansion: Teachers, Employees and Delivery Riders",
-        paragraphs: [
-          "Phase 2 is not only about students. The Punjab government has given in-principle approval to extend the scheme in stages. Government school teachers apply through a separate track on the Punjab Teachers Foundation portal using their PESS number, on a merit-points system rather than pure balloting.",
-          "Government employees (announced for BPS 1-16) and public delivery riders are also slated for inclusion, with eligibility and repayment terms to be published on the relevant official portal. As of the current window, the student track on bikes.punjab.gov.pk is the one actively accepting applications."
-        ]
-      },
-      {
-        title: "Official Portals, Helpline and Scam Alerts",
-        paragraphs: [
-          "For students, the only official application portal is bikes.punjab.gov.pk. The separate teacher track uses ptf.punjab.gov.pk, and the federal PAVE programme lives at pave.gov.pk. The official helpline is 042-99212260, with email support at support@bikes.punjab.gov.pk.",
-          "Registration is free across all channels. Never pay an agent or middleman, never share your CNIC image, OTP or bank PIN, and confirm the full .gov.pk domain before entering any information. Be wary of pages quoting invented figures such as a 30,000-bike allocation, an 18-45 age range, or a no-fixed-last-date claim - none of these match the official portal."
-        ],
-        links: [
-          { label: "Recognize programme impersonation and fraud", href: "/avoid-bisp-fraud/" }
-        ]
-      }
-    ],
-    faqs: [
-      {
-        question: "What is the price of the e-bike in Phase 2?",
-        answer: "The electric scooty is priced at PKR 199,000. The Government of Punjab contributes a Rs 90,000 capital subsidy toward this price, and the remaining balance is financed interest-free."
-      },
-      {
-        question: "How much capital subsidy is provided in Phase 2?",
-        answer: "The Government of Punjab provides a capital subsidy of Rs 90,000 per e-bike. This amount is a grant and does not have to be repaid by the student."
-      },
-      {
-        question: "Is a down payment required in Phase 2?",
-        answer: "No down payment is required. The financed balance is repaid entirely through approximately Rs 3,000 monthly installments over a 3-year term."
-      },
-      {
-        question: "What is the financing period, and who pays the interest?",
-        answer: "The financing period is 3 years, and the Government of Punjab (GoPb) pays the full interest cost. The applicant pays only the principal, at 0% markup."
-      },
-      {
-        question: "Who pays the insurance, registration and token-tax costs?",
-        answer: "The Government of Punjab bears the insurance, registration and token-tax costs of the e-bike. These charges are not added to the student's installments."
-      },
-      {
-        question: "How many e-bikes are being provided in Phase 2?",
-        answer: "Phase 2 provides 100,000 electric scooties, with the government announcing a plan of more than 125,000 across the phase. The Phase 1 totals (8,179 e-bikes and 19,000 petrol bikes) are separate and should not be confused with Phase 2."
-      },
-      {
-        question: "What is the minimum age for Phase 2?",
-        answer: "The minimum age is 16 years at the time of application. Applicants must also hold a valid driving license, learner's permit or juvenile driving permit."
-      },
-      {
-        question: "Who can act as a guarantor, and what income is required?",
-        answer: "A parent or legal guardian can act as guarantor, provided they have a valid CNIC and a verifiable monthly income of at least PKR 40,000, supported by a recent bank statement. The application's mobile number must be registered in the guarantor's own name."
-      },
-      {
-        question: "What is the last date to apply for Phase 2?",
-        answer: "The last date to apply is October 4, 2026. Applications are submitted only through bikes.punjab.gov.pk."
-      },
-      {
-        question: "What is new in Phase 2 compared with Phase 1?",
-        answer: "Phase 2 removes the down payment, lowers the minimum age to 16, expands coverage to all Punjab districts, uses an LFP battery, and adds a free helmet, safety rods and free two-day riding training, with delivery targeted within six weeks."
-      }
+      "provincial-regional-schemes",
+      "pasban-remittance-reward-scheme"
     ]
   },
 
@@ -7780,13 +6564,13 @@ export const articles: Article[] = [
       "apni-chhat-apna-ghar-scheme-online-apply-2026",
       "apni-zameen-apna-ghar-balloting-result-2026",
       "federal-contributory-pension-scheme",
-      "prime-minister-youth-loan-scheme-2026"
-    ,
+      "prime-minister-youth-loan-scheme-2026",
       "national-savings-profit-rates",
       "apna-ghar-social-welfare-guide",
       "provincial-regional-schemes",
       "apna-ghar-housing-scheme",
-      "housing-welfare-schemes"],
+      "housing-welfare-schemes"
+    ],
     title: "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & How to Apply",
     excerpt: "The Wazir-e-Azam Apna Ghar Program (Ghar Ho Tu Apna) gives first-time buyers federal home loans up to Rs 10 million at a 5% fixed markup for the first 10 years, repayable over 20 years through partner banks. Apply online at apnaghar.gov.pk.",
     showExcerpt: true,
@@ -7819,7 +6603,7 @@ export const articles: Article[] = [
     publishedDate: "September 30, 2026",
     lastChecked: "September 30, 2026",
     readTime: "10 min read",
-    image: "/images/wazir-e-azam-apna-ghar-program.jpg",
+    image: "/images/wazir-e-azam-apna-ghar-program.webp",
     imageAlt: "Modern residential apartment building constructed under Wazir-e-Azam housing program",
     author: contributors.muhammadSalman,
     sections: [
@@ -8022,24 +6806,29 @@ export const articles: Article[] = [
     ]
   },
 
-  {
+{
     slug: "cm-punjab-electric-bike-scheme",
     title: "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments",
-    excerpt: "Apply online for the CM Punjab Electric Bike Scheme 2026: 100,000 electric scooties at PKR 199,000 with a Rs 90,000 Punjab subsidy, zero down payment, 0% interest and ~Rs 3,000 monthly installments over 3 years. Deadline: October 4, 2026.",
+    excerpt: "Complete official guide to the CM Punjab Electric Bike Scheme 2026 at bikes.punjab.gov.pk. Learn about the 100,000 electric bikes quota, Rs 90,000 Punjab Government subsidy, zero down payment waiver, Bank of Punjab Rs 3,028 monthly installment plan, student and female quotas, and balloting results.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility & Price",
-    metaDescription: "Apply online for the CM Punjab Electric Bike Scheme 2026 before October 4. 100,000 electric scooties, Rs 90,000 subsidy, 0% interest and Rs 3,000 monthly installments.",
+    metaTitle: "CM Punjab Electric Bike Scheme 2026: Apply Online, Price & Eligibility",
+    metaDescription: "Apply online for CM Punjab Electric Bike Scheme 2026 at bikes.punjab.gov.pk. 100,000 e-bikes, Rs 90k subsidy, zero down payment & Rs 3,028/mo installment guide.",
     focusKeyword: "cm punjab electric bike scheme",
     lsiKeywords: [
       "cm punjab electric bike scheme apply online",
       "punjab electric bike scheme eligibility 2026",
       "cm punjab e-bike subsidy price installment",
-      "bikes punjab gov pk registration",
+      "bikes punjab gov pk registration portal",
       "maryam nawaz electric bike scheme 2026",
-      "punjab e-bike balloting result check"
+      "punjab e-bike balloting result check by cnic",
+      "bank of punjab e-bike monthly installment plan 3028",
+      "how to apply cm punjab e-bike scheme 2026 registration process",
+      "cm punjab e-bikes scheme phase 2 updates",
+      "punjab e-bike student quota and female pink scooty"
     ],
     entities: [
       "CM Punjab Electric Bike Scheme",
+      "Chief Minister Youth Initiative",
       "Maryam Nawaz Sharif",
       "The Bank of Punjab",
       "Punjab Information Technology Board",
@@ -8048,7 +6837,11 @@ export const articles: Article[] = [
       "Rs 90,000 Capital Subsidy",
       "PKR 199,000 E-Bike Price",
       "100,000 Electric Scooties",
-      "October 4, 2026 Deadline"
+      "October 4, 2026 Deadline",
+      "Zero Down Payment",
+      "Rs. 3,028 Monthly Installment",
+      "DLIMS Motorcycle Driving License",
+      "Punjab Teachers Foundation"
     ],
     primaryCategory: "punjab-schemes",
     categorySlugs: [
@@ -8057,561 +6850,269 @@ export const articles: Article[] = [
     ],
     date: "September 30, 2026",
     publishedDate: "September 30, 2026",
-    lastChecked: "September 30, 2026",
-    readTime: "10 min read",
-    image: "/images/cm-punjab-electric-bike-scheme.jpg",
+    lastChecked: "October 10, 2026",
+    readTime: "14 min read",
+    image: "/images/cm-punjab-electric-bike-scheme.webp",
     imageAlt: "University student with electric motor bike subsidized by CM Punjab E-Bike scheme",
     author: contributors.muhammadSalman,
     officialLinks: [
       { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
       { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
       { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
+      { label: "DLIMS License Verification", href: "https://dlims.punjab.gov.pk/" },
       { label: "Federal PAVE Portal", href: "https://pave.gov.pk/" }
     ],
     relatedSlugs: [
-      "cm-punjab-e-bike-scheme-updates",
-      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
-      "electric-bike-scheme-guide",
-      "cm-punjab-e-bikes-scheme-phase-2",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "transport-fuel-relief-options"
-    ,
-      "how-to-apply-cm-punjab-e-bike-scheme-2026"],
+      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
+      "cm-punjab-honhaar-scholarship-program-2026",
+      "cm-punjab-free-laptop-scheme-2026-online-apply",
+      "apni-chhat-apna-ghar-scheme-online-apply-2026-2026-09-21"
+    ],
     sections: [
       {
-        title: "What Is the CM Punjab Electric Bike Scheme?",
+        title: "What Is the CM Punjab Electric Bike Scheme & Phase 2 Expansion?",
         paragraphs: [
-          "The CM Punjab Electric Bike Scheme is a provincial electric-mobility programme launched by Chief Minister Maryam Nawaz Sharif under the CM Youth Initiative and run by the Transport & Mass Transit Department. It lets students acquire a subsidised electric scooty through interest-free instalments instead of paying the full market price up front, directly easing the daily cost of buses, rickshaws and petrol.",
-          "The Bank of Punjab (BOP) finances each bike and handles verification, while the Punjab Information Technology Board (PITB) runs the online portal and the transparent computerised e-balloting used to select beneficiaries when applications exceed the quota. Because the provincial government pays the markup, the applicant never carries an interest burden."
+          "The CM Punjab Electric Bike Scheme is a flagship green mobility welfare program launched by Chief Minister Maryam Nawaz Sharif under the Chief Minister Youth Initiative. Administered jointly by the Transport & Mass Transit Department, the Punjab Information Technology Board (PITB), and The Bank of Punjab (BOP), the initiative equips college and university students with high-efficiency electric two-wheelers through interest-free financing, eliminating the heavy cost of daily commercial transit and soaring petrol prices.",
+          "Under the expanded 2026 Phase 2 framework, the Government of the Punjab scaled the program from an initial pilot into a province-wide rollout of 100,000 electric bikes distributed across all 36 districts of Punjab. Rather than requiring families to arrange upfront cash deposits, the provincial treasury absorbs the complete initial capital down payment, vehicle registration fees, computerized number plate charges, lifetime token taxes, and mandatory first-year comprehensive Takaful insurance."
         ],
         subsections: [
           {
-            title: "A Green Youth-Mobility Initiative",
+            title: "100,000 Electric Bikes Allocation Across All 36 Districts",
             paragraphs: [
-              "The scheme is the flagship of Punjab's push toward clean student transport. Its purpose is to replace costly petrol commuting with a low-running-cost electric scooty, and to remove the upfront cash barrier that keeps many students dependent on shared transport."
+              "The vehicle allocation for Phase 2 provides 100,000 electric bikes distributed across every district and tehsil of Punjab based on accredited student population ratios. Unlike the Phase 1 pilot which focused heavily on five metropolitan divisions (Lahore, Rawalpindi, Faisalabad, Multan, and Bahawalpur), Phase 2 ensures that degree colleges and universities in rural, southern, and western Punjab receive equitable, guaranteed quotas.",
+              "District-level quotas ensure that students from smaller cities and remote educational institutions compete only within their local domicile pools rather than against large metropolitan universities. Institutional allocations are further partitioned into male and female sub-quotas."
             ]
           },
           {
-            title: "What a Successful Applicant Receives",
+            title: "Zero Down Payment Waiver & Rs. 90,000 Non-Repayable Capital Subsidy",
             paragraphs: [
-              "A selected applicant receives an electric scooty, not cash, with a 2026 make, a 72V 30Ah LiFePO4 battery, a 1,000 W BLDC rear-wheel hub motor and a top speed of 50-55 km/h. The Government of Punjab also covers the vehicle's insurance, registration and token tax, and delivery includes a free helmet and safety rods."
+              "The Government of the Punjab directly disburses a non-repayable capital subsidy of Rs. 90,000 toward the retail invoice of every electric bike supplied under the scheme (priced at PKR 199,000). Following direct executive orders from the Chief Minister, the mandatory 20% to 30% advance deposit required under commercial leasing was completely waived.",
+              "Selected students take physical delivery of their electric bike with Rs. 0 down payment. By absorbing both the Rs. 90,000 capital subsidy and initial equity margin, the Punjab Government significantly reduces the net financed loan principal to an easily amortized micro-installment."
             ]
           }
         ],
         links: [
-            {
-              label: "Federal PAVE Electric Bike Scheme 2026 (Rs 80,000 Subsidy)",
-              href: "/pave-electric-bike-scheme-2026/"
-            },
-          { label: "How to compare electric bike scheme notices", href: "/electric-bike-scheme-guide/" },
-          { label: "Explore all Punjab welfare schemes", href: "/punjab-schemes/" }
-        ]
-      },
-      {
-        title: "What Is the Price, Subsidy and Installment Plan in 2026?",
-        paragraphs: [
-          "The electric scooty is priced at PKR 199,000, and the Government of Punjab (GoPb) contributes a capital subsidy of Rs 90,000 toward every unit. This subsidy is a grant that does not have to be repaid. The remaining amount is financed through the Bank of Punjab, and because GoPb also bears the financing's interest cost, the student repays only the principal with no markup added.",
-          "The financed balance is repaid in approximately Rs 3,000 monthly installments over a 3-year (36-month) term, with no down payment required. GoPb further absorbs the insurance, registration and token-tax costs that would otherwise be added on top of the installment."
-        ],
-        table: {
-          caption: "CM Punjab Electric Bike Scheme Phase 2 Cost Breakdown",
-          headers: ["Cost item", "Who pays"],
-          rows: [
-            ["E-bike price (PKR 199,000)", "Shared: Rs 90,000 GoPb subsidy + financed balance"],
-            ["Interest / markup", "Government of Punjab (0% for applicant)"],
-            ["Down payment", "None required"],
-            ["Insurance", "Government of Punjab"],
-            ["Registration & token tax", "Government of Punjab"],
-            ["Monthly installment (~Rs 3,000 x 36 months)", "Student"]
-          ]
-        },
-        links: [
-          { label: "CM Punjab E-Bike Scheme Phase 2 updates and balloting", href: "/cm-punjab-e-bike-scheme-updates/" }
-        ]
-      },
-      {
-        title: "Who Is Eligible for the CM Punjab Electric Bike Scheme?",
-        paragraphs: [
-          "The applicant must be a bonafide student enrolled in an educational institution duly registered or recognised by the relevant department, board, authority or regulatory body of the Government of Punjab. Both public-sector and private-sector institutions qualify, and students must provide proof of enrolment together with the latest paid fee slip.",
-          "One exclusion that is easy to miss: students enrolled in federally chartered institutes, including their campuses, are not eligible under this provincial scheme. If your institute is chartered by the federal government rather than the Government of Punjab, the federal PAVE programme is the correct route."
-        ],
-        subsections: [
-          {
-            title: "Age and Driving-License Requirements",
-            paragraphs: [
-              "The minimum age to apply is 16 years at the time of submission, and the applicant must hold a valid driving license, learner's driving permit, or juvenile driving permit, as applicable. Applicants aged 16 who need a juvenile permit can obtain one by visiting their nearest Sahulat Center with a guardian."
-            ]
-          },
-          {
-            title: "Identification Requirements",
-            paragraphs: [
-              "For identification, the applicant must hold a valid CNIC, B-Form or Child Registration Certificate (CRC) as applicable to their age."
-            ]
-          }
-        ],
-        links: [
-          { label: "Pink Scooty Scheme 2026: female quota and balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" },
+          { label: "Pink Scooty Scheme 2026: Female Quota & Balloting Guide", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" },
           { label: "CM Punjab Honhaar Scholarship Program 2026", href: "/cm-punjab-honhaar-scholarship-program-2026/" }
         ]
       },
       {
-        title: "What Are the Guarantor and Income Requirements?",
+        title: "How Does the Bank of Punjab (BOP) Installment Plan & Financial Model Work?",
         paragraphs: [
-          "Because most student applicants are not yet earning, the scheme requires a guarantor, normally a parent or legal guardian, who carries valid proof of income. The guarantor must have a verifiable and regular source of income and a valid CNIC, and must provide a recent bank statement as evidence of financial capacity for the Bank of Punjab's verification."
-        ],
-        subsections: [
-          {
-            title: "The PKR 40,000 Minimum Income Rule",
-            paragraphs: [
-              "The guarantor must have a minimum monthly income of PKR 40,000, applied under the bank's regulations. In addition, the mobile number entered on the application must be registered in the guarantor's own name against their CNIC, or in the applicant's name if the student has a documented source of income. A SIM registered to a relative or an agent will fail verification."
-            ]
-          }
-        ]
-      },
-      {
-        title: "What Documents Do I Need to Apply?",
-        paragraphs: [
-          "Gather clear, legible copies of every document before opening the portal. Blurred scans, expired licences or name mismatches are the most common reason for rejection or delay."
-        ],
-        subsections: [
-          {
-            title: "Student Documents",
-            paragraphs: [
-              "The student set includes a valid CNIC (or B-Form/CRC where allowed for the age bracket), a student card or bonafide/enrolment certificate, the latest paid fee slip, a motorcycle learner's permit or driving license, and a recent passport-size photograph."
-            ]
-          },
-          {
-            title: "Guarantor Documents",
-            paragraphs: [
-              "The guarantor must supply their valid CNIC, a recent bank statement showing financial capacity, and proof of a regular income such as a salary slip. Keep the originals ready, because the Bank of Punjab re-verifies guarantor and income details at the financing stage."
-            ]
-          }
-        ],
-        links: [
-          { label: "Documents for government-programme inquiries", href: "/documents-for-bisp-registration/" }
-        ]
-      },
-      {
-        title: "How to Apply Online at bikes.punjab.gov.pk (Step by Step)",
-        paragraphs: [
-          "The application is entirely digital. There are no paper forms, office visits or agents. Follow these steps inside the Phase 2 window, which closes on October 4, 2026."
-        ],
-        bullets: [
-          "Step 1: Open the official portal at bikes.punjab.gov.pk, the only legitimate student application portal.",
-          "Step 2: Register with your CNIC number and an active mobile number, then verify the OTP sent by SMS.",
-          "Step 3: Fill the application form with personal, academic and contact details exactly as they appear on your documents.",
-          "Step 4: Upload the required documents and select your bike option from the official catalogue.",
-          "Step 5: Submit and save your Application ID, which you will need for tracking and balloting results.",
-          "Step 6: After the deadline, PITB runs a computerised e-balloting draw and notifies selected applicants by SMS.",
-          "Step 7: The Bank of Punjab verifies your documents and guarantor, then the bike is delivered through the assigned dealer."
-        ]
-      },
-      {
-        title: "How to Check Application Status and Balloting Results",
-        paragraphs: [
-          "You can monitor progress by logging into the official portal dashboard with your Application ID or CNIC. The portal reports the current stage of your file, such as submitted, under verification, selected in ballot, approved for financing, or delivered."
-        ],
-        subsections: [
-          {
-            title: "What Balloting Means for You",
-            paragraphs: [
-              "When valid applications exceed the 100,000-scooty allocation, selection is made through PITB's computerised e-balloting, a random draw that no person, agent or website can influence. Being selected in the ballot is not the final step: you must still clear the Bank of Punjab's verification and financing formalities."
-            ]
-          }
-        ],
-        links: [
-          { label: "CM Punjab E-Bike Scheme Phase 2 updates and merit lists", href: "/cm-punjab-e-bike-scheme-updates/" }
-        ]
-      },
-      {
-        title: "CM Punjab Electric Scooty: Price, Specs and Colours",
-        paragraphs: [
-          "The Phase 2 vehicle is a purpose-built electric scooty rather than a petrol motorcycle. Its confirmed specifications come from the official portal."
+          "The financing facility is executed exclusively by The Bank of Punjab (BOP) as an interest-free, asset-backed soft loan structured over a 36-month (3-year) repayment tenure at 0% markup. The Punjab Government directly reimburses BOP for commercial KIBOR borrowing markups and operational management charges, ensuring that students repay only the net principal.",
+          "Installment payments are fixed at approximately Rs. 3,028 per month. Debt servicing begins only after physical verification of the vehicle delivery challan and handover of the bike. Repayments are supported via automated direct debit, mobile banking apps, 1Link ATMs, and over-the-counter payments at any BOP branch across Pakistan."
         ],
         table: {
-          caption: "Official Electric Scooty Technical Specifications",
-          headers: ["Specification", "Value"],
-          rows: [
-            ["Make & manufacturing", "2026"],
-            ["Battery capacity", "72V, 30Ah"],
-            ["Battery type", "LiFePO4"],
-            ["Motor power", "1,000 W"],
-            ["Motor type", "BLDC rear-wheel hub motor"],
-            ["Maximum speed", "50-55 km/h"],
-            ["Controller", "12 tube"],
-            ["Dashboard", "Digital display"],
-            ["Headlamp", "LED"],
-            ["Suspension", "Hydraulic shock absorption"],
-            ["Colours", "Midnight Black, Sakura Pink"]
-          ]
-        }
-      },
-      {
-        title: "Phase 1 vs Phase 2: What Changed in 2026?",
-        paragraphs: [
-          "Many readers still land on articles written about the first phase. The table below reconciles what changed so you do not act on stale numbers."
-        ],
-        table: {
-          caption: "Comparison Between Phase 1 Pilot and Phase 2 (2026)",
-          headers: ["Parameter", "Phase 1 (pilot)", "Phase 2 (2026 - current)"],
-          rows: [
-            ["Coverage", "5 cities", "All 36 districts of Punjab"],
-            ["Allocation", "~20,000 bikes (mostly petrol)", "100,000 electric scooties"],
-            ["Subsidy", "Earlier-announced Rs 70,000", "Rs 90,000 capital subsidy"],
-            ["Down payment", "Rs 14,000 (earlier-announced)", "None"],
-            ["Monthly installment", "~Rs 2,100 (earlier-announced)", "~Rs 3,000"],
-            ["Extra tracks", "-", "Teachers (PTF), government employees announced"]
-          ]
-        }
-      },
-      {
-        title: "CM Punjab vs PM PAVE Scheme: What's the Difference?",
-        paragraphs: [
-          "The CM Punjab Electric Bike Scheme is a provincial programme, while the Prime Minister E-Bike Scheme operates under the federal Pakistan Accelerated Vehicle Electrification (PAVE) initiative. They use different portals and rules, and being eligible for one does not automatically make you eligible for the other."
-        ],
-        table: {
-          caption: "CM Punjab vs Federal PAVE Electric Bike Schemes",
-          headers: ["Parameter", "CM Punjab E-Bike Scheme", "PM PAVE Scheme"],
-          rows: [
-            ["Government level", "Provincial (Punjab)", "Federal"],
-            ["Coverage", "Punjab only", "Pakistan-wide (incl. AJK & Gilgit-Baltistan)"],
-            ["Main beneficiaries", "Punjab students", "Eligible applicants across Pakistan"],
-            ["Financial support", "Rs 90,000 subsidy per e-bike", "Rs 50,000 (bank leasing) / up to Rs 80,000 (self-finance)"],
-            ["Official portal", "bikes.punjab.gov.pk", "pave.gov.pk"],
-            ["Selection", "PITB e-balloting + BOP verification", "Federal e-balloting + verification"]
-          ]
-        },
-        links: [
-          { label: "PAVE Scheme 2026: eligibility and electric bike subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
-        ]
-      },
-      {
-        title: "Official Portals, Helpline and Scam Alerts",
-        paragraphs: [
-          "For students, the only official application portal is bikes.punjab.gov.pk. The separate teacher track uses ptf.punjab.gov.pk. Any other website that asks for your CNIC, OTP, bank details or a registration fee is not official, and domains such as ptfpunjabgov.com are not government sites despite the name.",
-          "The official helpline is 042-99212260, with email support at support@bikes.punjab.gov.pk. Registration is free across all channels, computerised e-balloting cannot be influenced, and you should never share your CNIC image, OTP, password or bank PIN with anyone."
-        ],
-        links: [
-          { label: "Recognize programme impersonation and fraud", href: "/avoid-bisp-fraud/" }
-        ]
-      }
-    ],
-    faqs: [
-      {
-        question: "What is the price of the e-bike under the scheme?",
-        answer: "The electric scooty is priced at PKR 199,000. The Government of Punjab contributes a Rs 90,000 capital subsidy toward this price, and the remaining balance is financed interest-free."
-      },
-      {
-        question: "How much capital subsidy is provided by the Government of Punjab?",
-        answer: "The Government of Punjab provides a capital subsidy of Rs 90,000 per e-bike. This amount is a grant and does not have to be repaid by the student."
-      },
-      {
-        question: "Is a down payment required for the e-bike?",
-        answer: "No down payment is required. The financed balance is repaid entirely through approximately Rs 3,000 monthly installments over a 3-year term."
-      },
-      {
-        question: "What is the financing period, and who pays the interest?",
-        answer: "The financing period is 3 years, and the Government of Punjab (GoPb) pays the full interest cost. The applicant pays only the principal, at 0% markup."
-      },
-      {
-        question: "Who pays the insurance, registration and token-tax costs?",
-        answer: "The Government of Punjab bears the insurance, registration and token-tax costs of the e-bike. These charges are not added to the student's installments."
-      },
-      {
-        question: "How many e-bikes are being provided under the scheme?",
-        answer: "Phase 2 provides 100,000 electric scooties to students across Punjab, covering all 36 districts."
-      },
-      {
-        question: "Which students are eligible based on their educational institution?",
-        answer: "Students of both public and private educational institutions are eligible, provided the institution is registered or recognised by the relevant Government of Punjab authority. Students of federally chartered institutes are not eligible under this provincial scheme."
-      },
-      {
-        question: "What is the minimum age and driving document required to apply?",
-        answer: "The minimum age is 16 years at the time of application. Applicants must also hold a valid driving license, learner's permit or juvenile driving permit."
-      },
-      {
-        question: "Who can act as a guarantor, and what income is required?",
-        answer: "A parent or legal guardian can act as guarantor, provided they have a valid CNIC and a verifiable monthly income of at least PKR 40,000, supported by a recent bank statement."
-      },
-      {
-        question: "What is the last date to apply?",
-        answer: "The last date to apply for Phase 2 is October 4, 2026. Applications are submitted only through bikes.punjab.gov.pk."
-      }
-    ]
-  },
-  {
-    slug: "cm-punjab-e-bike-scheme-updates",
-    title: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal, Balloting Results & BOP Installment Plan",
-    excerpt: "Verified CM Punjab E-Bike Scheme Phase 2 updates: 100,000 electric bikes quota, Rs 90,000 Punjab Govt subsidy, zero down payment waiver, Rs 3,028/month Bank of Punjab installment, bikes.punjab.gov.pk registration steps, and balloting lists.",
-    showExcerpt: true,
-    metaTitle: "CM Punjab E-Bike Scheme Updates 2026: Balloting, BOP Installment & Portal",
-    metaDescription: "Verified CM Punjab E-Bike Scheme updates: Phase 2 deadline (Oct 4, 2026), bikes.punjab.gov.pk login, BOP 0% markup installment, and balloting lists.",
-    focusKeyword: "cm punjab e-bike scheme updates",
-    lsiKeywords: [
-      "cm punjab e bike scheme phase 2 last date",
-      "bikes punjab gov pk online apply portal",
-      "punjab e bike balloting merit list by cnic",
-      "bank of punjab e-bike monthly installment calculation",
-      "punjab electric bike scheme eligibility criteria 2026",
-      "maryam nawaz e bike scheme phase 2 zero down payment"
-    ],
-    entities: [
-      "Chief Minister Youth Initiative: E-Bike Scheme",
-      "Maryam Nawaz Sharif",
-      "The Bank of Punjab",
-      "Punjab Information Technology Board",
-      "bikes.punjab.gov.pk",
-      "Rs. 90,000 Capital Subsidy",
-      "Zero Down Payment",
-      "Rs. 3,028 Monthly Installment",
-      "100,000 Electric Bikes",
-      "October 4, 2026 Registration Cutoff",
-      "DLIMS Motorcycle Driving License"
-    ],
-    primaryCategory: "punjab-schemes",
-    categorySlugs: [
-      "punjab-schemes",
-      "other-schemes"
-    ],
-    date: "September 29, 2026",
-    publishedDate: "September 29, 2026",
-    lastChecked: "September 29, 2026",
-    readTime: "9 min read",
-    image: "/images/cm-punjab-e-bike-scheme-updates.jpg",
-    imageAlt: "Lineup of new electric bikes for students under CM Punjab E-Bike scheme",
-    author: contributors.muhammadSalman,
-    reviewer: contributors.ayeshaMalik,
-    officialLinks: [
-      { label: "Punjab E-Bikes Student Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "The Bank of Punjab (BOP)", href: "https://www.bop.com.pk/" },
-      { label: "Punjab Information Technology Board", href: "https://pitb.gov.pk/" },
-      { label: "DLIMS License Verification", href: "https://dlims.punjab.gov.pk/" }
-    ],
-    relatedSlugs: [
-      "cm-punjab-electric-bike-scheme",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "cm-punjab-honhaar-scholarship-program-2026",
-      "cm-punjab-e-bikes-scheme-phase-2",
-      "cm-punjab-free-laptop-scheme-2026-online-apply",
-      "apni-chhat-apna-ghar-scheme-online-apply-2026"
-    ,
-      "how-to-apply-cm-punjab-e-bike-scheme-2026"],
-    sections: [
-      {
-        title: "What Are the Latest Updates on the CM Punjab E-Bike Scheme Phase 2?",
-        paragraphs: [
-          "Under the latest CM Punjab E-Bike Scheme updates, Phase 2 provides 100,000 electric bikes to college and university students across all 36 Punjab districts. The Punjab Government provides a Rs. 90,000 capital subsidy, waives 100% of the down payment, and sponsors interest-free financing through The Bank of Punjab at Rs. 3,028 monthly over 36 months. Online registration remains open at bikes.punjab.gov.pk until October 4, 2026, followed by computerized electronic balloting.",
-          "Under the direct supervision of Chief Minister Maryam Nawaz Sharif, the provincial cabinet restructured the program's financial mechanics to eliminate student entry barriers. Rather than requiring families to arrange upfront cash deposits during inflationary pressures, the provincial treasury absorbs the complete initial capital outlay, registration levies, number plate charges, and mandatory first-year comprehensive Takaful insurance coverage."
-        ],
-        subsections: [
-          {
-            title: "100,000 Electric Bikes Allocation Across All 36 Punjab Districts",
-            paragraphs: [
-              "The vehicle volume for Phase 2 stands at 100,000 electric bikes distributed across every tehsil and district of Punjab based on accredited student population ratios. Unlike Phase 1, which restricted access to Lahore, Faisalabad, Rawalpindi, Multan, and Bahawalpur, Phase 2 ensures that degree colleges and universities in rural, southern, and western Punjab receive proportionate vehicle quotas.",
-              "District quotas prevent metropolitan centers from consuming the entire provincial vehicle pool. Institutional quotas are subdivided into male and female categories, ensuring equitable regional distribution whether an applicant studies at a major university in Lahore or a postgraduate degree college in Rajanpur, Bhakkar, or Layyah."
-            ]
-          },
-          {
-            title: "Total Down Payment Waiver & Rs. 90,000 Government Capital Subsidy",
-            paragraphs: [
-              "The Government of the Punjab directly disburses a non-repayable capital subsidy of Rs. 90,000 toward the ex-factory retail invoice of every electric motorbike issued under the scheme. Furthermore, the provincial government has completely eliminated the student down payment, meaning selected applicants incur zero upfront acquisition cost prior to vehicle delivery.",
-              "In standard commercial asset financing, electric two-wheelers require a 20% to 30% advance deposit alongside security margin retention. By absorbing both the Rs. 90,000 capital cost and the initial equity margin, the Punjab Government reduces the total financed loan principal to a manageable level that low- and middle-income families can easily amortize."
-            ]
-          }
-        ],
-        links: [
-            {
-              label: "Federal PAVE Electric Bike Scheme 2026 (Rs 80,000 Subsidy)",
-              href: "/pave-electric-bike-scheme-2026/"
-            },
-          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
-          {
-            label: "CM Punjab Youth Games 2026 Registration & Sports Guide",
-              href: "/cm-punjab-youth-games-2026-online-registration/"
-            },
-          { label: "Pink Scooty Scheme 2026: Female Quota & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" },
-          { label: "CM Punjab Honhaar Scholarship Program 2026", href: "/cm-punjab-honhaar-scholarship-program-2026" }
-        ]
-      },
-      {
-        title: "How Does the Bank of Punjab (BOP) Installment Plan Work?",
-        paragraphs: [
-          "The Bank of Punjab (BOP) executes the financing facility as an interest-free, asset-backed soft loan structured over a 36-month (3-year) repayment tenure at 0% markup. The Punjab Government directly compensates BOP for all commercial borrowing markups and administrative processing costs, guaranteeing that students repay only the net principal amount.",
-          "Installment recovery is managed through digital collection channels, automated direct debit mandates linked to student or parent accounts, and over-the-counter payments at any BOP branch across Pakistan. Repayments commence only after the physical handover of the electric motorbike and verification of the official delivery challan."
-        ],
-        table: {
-          caption: "CM Punjab E-Bike Scheme Phase 2 Financing Terms vs. Commercial Market",
-          headers: ["Financial Parameter", "Commercial EV Purchase", "CM Punjab E-Bike Scheme Phase 2", "Student Savings / Benefit"],
+          caption: "CM Punjab Electric Bike Scheme Financing Terms vs Commercial EV Financing",
+          headers: ["Financial Parameter", "Commercial EV Purchase", "CM Punjab E-Bike Scheme Phase 2", "Student Savings & Relief"],
           rows: [
             ["Upfront Down Payment", "Rs. 40,000 – Rs. 65,000", "Rs. 0 (100% Waived)", "Save up to Rs. 65,000 upfront"],
-            ["Provincial Capital Subsidy", "Rs. 0 (No Government Grant)", "Rs. 90,000 (Direct Grant)", "Direct asset value discount"],
-            ["Financing Markup / Interest", "18% – 24% KIBOR Spread", "0% Markup (Govt Absorbed)", "Save Rs. 45,000+ in interest"],
-            ["Monthly Installment", "Rs. 8,500 – Rs. 12,000", "Rs. 3,028 / month (Fixed)", "Predictable micro-installments"],
-            ["Repayment Tenure", "12 to 24 Months", "36 Months (3 Years)", "Extended flexible schedule"],
-            ["Registration & Token Tax", "Rs. 6,500 – Rs. 9,000", "100% Covered by Punjab Govt", "Free official registration"],
-            ["1st Year Comprehensive Takaful", "Rs. 8,000 – Rs. 14,000", "100% Covered by Punjab Govt", "Free comprehensive insurance"]
+            ["Government Capital Subsidy", "Rs. 0 (No Grant)", "Rs. 90,000 (Non-Repayable Grant)", "Direct asset value reduction"],
+            ["Bank Financing Markup", "18% – 24% KIBOR Spread", "0% Markup (Govt Absorbed)", "Save Rs. 45,000+ in markup"],
+            ["Monthly Installment", "Rs. 8,500 – Rs. 12,500", "Rs. 3,028 / month (Fixed)", "Predictable micro-installments"],
+            ["Repayment Tenure", "12 to 24 Months", "36 Months (3 Years)", "Manageable extended period"],
+            ["Registration & Token Tax", "Rs. 6,500 – Rs. 9,000", "100% Paid by Punjab Govt", "Zero documentation fees"],
+            ["1st Year Comprehensive Takaful", "Rs. 8,000 – Rs. 14,000", "100% Paid by Punjab Govt", "Free comprehensive insurance"]
           ]
         },
         subsections: [
           {
-            title: "Guarantor, e-CIB & Debt Burden Ratio (DBR) Requirements",
+            title: "Electric Scooty vs Petrol Motorcycle Monthly Cost & Savings Comparison",
             paragraphs: [
-              "To comply with State Bank of Pakistan consumer lending regulations, BOP requires each student applicant to designate an eligible co-borrower or guarantor, typically a parent, legal guardian, spouse, or employed sibling. The co-borrower must possess a valid Computerized National Identity Card (CNIC) and demonstrate sufficient monthly cash flow to support the micro-installment.",
-              "BOP conducts an automated electronic Credit Information Bureau (e-CIB) inquiry to ensure the co-borrower is not an active financial defaulter on existing banking facilities. Under SBP guidelines, the co-borrower's combined Debt Burden Ratio (DBR) must not exceed 40% of their verifiable net household income, ensuring that family debt servicing remains sustainable throughout the 3-year term."
+              "Transitioning from a conventional 70cc petrol motorcycle to an electric scooty delivers dramatic monthly household savings. With petrol prices fluctuating at high levels, daily student commuting of 25–35 kilometers costs between Rs. 15,000 and Rs. 20,000 each month in fuel and routine engine oil changes.",
+              "In contrast, recharging a 72V 30Ah LiFePO4 battery pack from empty to 100% requires approximately 2 units of off-peak household electricity, translating to less than Rs. 100 per full charge (yielding 75–85 km of riding). Even including the Rs. 3,028 monthly installment, students save over Rs. 13,000 to Rs. 16,000 every single month."
+            ]
+          },
+          {
+            title: "Guarantor, e-CIB & Debt Burden Ratio (DBR) Underwriting Rules",
+            paragraphs: [
+              "In compliance with State Bank of Pakistan consumer financing regulations, BOP requires each applicant to designate an eligible co-borrower or guarantor (parent, legal guardian, spouse, or employed sibling). The guarantor must possess a valid CNIC and demonstrate verifiable monthly earnings of at least PKR 40,000 supported by a recent bank statement or formal salary certificate.",
+              "BOP conducts an automated electronic Credit Information Bureau (e-CIB) check to ensure the co-borrower has no unresolved commercial loan defaults. Under SBP guidelines, the household Debt Burden Ratio (DBR) must remain at or below 40% of verifiable net monthly earnings."
             ]
           }
         ]
       },
       {
-        title: "Who Is Eligible for the Punjab E-Bike Scheme Phase 2?",
+        title: "Official Electric Scooty Technical Specifications & Vehicle Options",
         paragraphs: [
-          "Eligibility for the CM Punjab E-Bike Scheme Phase 2 requires applicants to be regular, enrolled students at an HEC-recognized degree college or university located within the territorial jurisdiction of Punjab. Applicants must hold a verified Punjab domicile certificate or Punjab-addressed CNIC and meet statutory transport licensing requirements.",
-          "The scheme excludes private candidates, distance-learning students, and casual diploma enrollees to ensure that publicly subsidized vehicles directly alleviate daily inter-city and intra-city academic transit burdens."
+          "Electric vehicles distributed under the scheme are manufactured and assembled by pre-qualified EV manufacturers approved by the Transport Department. Beneficiaries receive a certified road-worthy two-wheeler designed specifically for urban and semi-urban Pakistani road conditions."
+        ],
+        table: {
+          caption: "Official CM Punjab Electric Scooty Technical Specifications",
+          headers: ["Specification Category", "Official Technical Standard", "Practical Commuter Benefit"],
+          rows: [
+            ["Battery Chemistry & Rating", "72V 30Ah Lithium Iron Phosphate (LiFePO4)", "2,000+ charge cycles, fire-safe stability"],
+            ["Electric Motor Output", "1,000W – 1,200W High-Torque BLDC Hub Motor", "Smooth acceleration, climbs city flyovers"],
+            ["Operating Range per Charge", "75 – 85 Kilometers (Eco Mode)", "Ample range for daily university commute"],
+            ["Governed Maximum Speed", "50 – 55 km/h", "Electronically limited for student safety"],
+            ["Standard Charging Time", "3.5 to 4.5 Hours from standard 220V plug", "Fast home or hostel overnight charging"],
+            ["Braking & Suspension", "Front Hydraulic Disc, Rear Drum + E-ABS", "Reliable stopping in wet and dry conditions"],
+            ["Complimentary Accessories", "Smart Charger, Helmet, Safety Guards", "Zero additional safety gear expenses"]
+          ]
+        },
+        subsections: [
+          {
+            title: "Commuter Motorcycle vs Step-Through Electric Scooty Options",
+            paragraphs: [
+              "Applicants can select between two ergonomic frame configurations during portal registration: standard backbone electric motorbikes resembling conventional 70cc/100cc commuters, or step-through electric scooties. Step-through scooties feature enclosed floorboards and under-seat storage compartments, making them exceptionally popular among female students wearing traditional attire."
+            ]
+          }
+        ]
+      },
+      {
+        title: "Who Is Eligible? Student Criteria, Quotas & Demographic Expansions",
+        paragraphs: [
+          "Eligibility for the CM Punjab Electric Bike Scheme requires applicants to be regular, enrolled students at an HEC-recognized degree college or university located within the territorial limits of Punjab. Applicants must hold a verified Punjab domicile or Punjab-addressed CNIC, meet statutory transport licensing rules, and belong to an approved category.",
+          "The scheme operates primarily on a computerized quota system across male and female students, with policy expansions extending to government servants and educators."
         ],
         subsections: [
           {
             title: "Academic Criteria for Regular College and University Students",
             paragraphs: [
-              "Applicants must be enrolled in full-time morning or evening degree programs, including intermediate (in select recognized public colleges), undergraduate (BS, BA, BSc), postgraduate (MS, MPhil, MSc), or doctoral programs. Institutional registrars and college principals verify student enrollment electronically through the Higher Education Department (HED) and PITB integration.",
-              "Students must provide their active institutional roll number, department designation, student identity card number, and current semester or academic session details during portal submission. Suspended students or individuals with terminated academic standings are automatically flagged and disqualified during data cross-matching."
+              "Applicants must be full-time regular students in intermediate (in select recognized public colleges), undergraduate (BS, BA, BSc, MBBS, BDS, LLB), postgraduate (MS, MPhil, MSc), or doctoral programs. Institutional registrars and college principals verify student enrollment electronically through Higher Education Department (HED) and PITB database linkage.",
+              "Private candidates, distance-learning enrollees, and casual short-course participants are ineligible. Applicants must submit their active institutional roll number, department designation, student card, and latest paid tuition fee slip."
             ]
           },
           {
             title: "Mandatory DLIMS Driving License and Learner Permit Rules",
             paragraphs: [
-              "Every applicant must possess a valid motorcycle driving license or an active motorcycle learner driving permit issued by the Driving License Issuance Management System (DLIMS) of the Punjab Police. Applications submitted without a valid DLIMS computerized registration tracking number are rejected at the initial database validation stage.",
-              "Students holding a learner's permit can successfully apply and participate in the electronic ballot. However, selected candidates must maintain their learner permit in valid status and are strongly advised to secure their permanent computerized driving license before final vehicle delivery to avoid insurance endorsement complications."
+              "Every applicant must possess a valid motorcycle driving license or an active motorcycle learner driving permit issued by the Driving License Issuance Management System (DLIMS) of Punjab Police. Applications submitted without a verifiable DLIMS computerized tracking number are rejected at initial database intake.",
+              "The minimum age for the scheme is 16 years for candidates holding a valid juvenile permit or learner permit, and 18 years for regular computerized driving licenses. Selected students holding learner permits are encouraged to obtain their permanent computerized driving license before final vehicle handover."
             ]
           },
           {
-            title: "Gender Quotas: 50% Allocation for Female Students and Pink Scooty Options",
+            title: "50% Dedicated Female Quota & Pink Scooty Allocation",
             paragraphs: [
-              "Phase 2 mandates an unprecedented 50% quota reserved exclusively for female students across all 36 districts of Punjab. Female applicants have the choice between standard commuter electric motorbikes and specially configured step-through electric scooties (often referred to colloquially as Pink Scooties), designed for comfortable daily riding in modest attire.",
-              "This affirmative gender allocation addresses urban mobility hurdles that frequently force young women to discontinue higher education due to prohibitive van fares or overcrowded public transport routes. Female students also receive dedicated priority slots in post-balloting delivery schedules."
+              "Phase 2 mandates an unprecedented 50% quota reserved exclusively for female students across all 36 Punjab districts (50,000 electric scooties). Female applicants have priority access to step-through electric scooties (colloquially termed Pink Scooties), addressing severe transport hurdles that often impede young women from completing higher education.",
+              "Female students also receive dedicated priority queuing during biometric verification and dealership handover ceremonies."
+            ]
+          },
+          {
+            title: "Expansion to School Teachers, BPS 1-16 Staff & Commercial Delivery Riders",
+            paragraphs: [
+              "The provincial cabinet approved specialized expansion quotas for non-student commuters facing high transport overheads: (1) School teachers apply through the Punjab Teachers Foundation (PTF) portal; (2) Public sector employees serving in basic pay scales BPS 1 through BPS 16 qualify with an administrative departmental NOC; (3) Phased pilot quotas provide commercial delivery riders and gig workers access to subsidized e-bikes to convert commercial logistics to zero-emission technology.",
+              "Strict Program Exclusions: Only one electric bike is allocated per household, even if multiple siblings qualify in the balloting. Additionally, any applicant who already owns a motor vehicle registered in their name with the Excise & Taxation Department is automatically disqualified."
             ]
           }
-        ],
-        links: [
-          { label: "CM Punjab Free Laptop Scheme 2026 Online Apply", href: "/cm-punjab-free-laptop-scheme-2026-online-apply" },
-          { label: "Apni Chhat Apna Ghar Housing Scheme", href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/" }
         ]
       },
       {
-        title: "How to Apply Online at bikes.punjab.gov.pk Before the October 4, 2026 Deadline?",
+        title: "Step-by-Step Online Application Process on bikes.punjab.gov.pk",
         paragraphs: [
-          "Online application submission for Phase 2 is conducted exclusively through the centralized digital portal bikes.punjab.gov.pk, developed and managed by the Punjab Information Technology Board. The portal remains active 24 hours a day until the strict application deadline of October 4, 2026.",
-          "Manual paper forms, bank counter submissions, and third-party franchise registrations are strictly prohibited. Applicants should avoid unverified third-party websites claiming to offer registration shortcuts, as these platforms are unaccredited and compromise personal identity security."
-        ],
-        bullets: [
-          "Step 1: Access the portal at https://bikes.punjab.gov.pk and click Register.",
-          "Step 2: Enter full legal name, 13-digit CNIC, mobile number, and set an account password.",
-          "Step 3: Enter the 6-digit SMS verification code (OTP) to activate your student dashboard.",
-          "Step 4: Select your accredited college or university from the provincial institutional directory.",
-          "Step 5: Choose vehicle preference: Standard Electric Bike or Step-Through Electric Scooty.",
-          "Step 6: Input your valid DLIMS learner permit number or permanent driving license tracking code.",
-          "Step 7: Provide co-borrower (parent/guardian/sibling) particulars, CNIC, and monthly income details.",
-          "Step 8: Upload scanned copies of CNIC, student ID, DLIMS permit, and submit to receive your Application Tracking ID."
-        ]
-      },
-      {
-        title: "How Will the Electronic Balloting (E-Balloting) and Merit Lists Be Conducted?",
-        paragraphs: [
-          "The selection of beneficiaries across all 36 Punjab districts is conducted through automated, computerized electronic balloting designed, coded, and monitored by the Punjab Information Technology Board. The balloting process eliminates human discretion, third-party recommendations, or manual quotas, guaranteeing total transparency.",
-          "The e-balloting draw takes place shortly following the closure of the registration window on October 4, 2026. Representatives from the Punjab Transport Department, Higher Education Department, civil society observers, and media personnel witness the computerized script execution in Lahore."
+          "All registrations are processed strictly online through the official PITB web portal: bikes.punjab.gov.pk. No manual paperwork, courier submissions, or bank branch forms are accepted. Complete the process following these official steps:"
         ],
         subsections: [
           {
-            title: "PITB Computerized Draw Mechanism & District-Wise Quota Balancing",
+            title: "Step-by-Step Portal Walkthrough",
             paragraphs: [
-              "The PITB balloting algorithm segregates the applicant database into distinct district, gender, and institutional buckets before running randomized selection routines. This ensures that every district's allocated quota is fulfilled independently, preventing students from smaller tehsils from competing directly against candidates from high-density cities like Lahore or Rawalpindi.",
-              "Once the primary quota for a specific district is exhausted, the algorithm automatically generates a secondary computerized Waiting List (Reserve List). If an initially selected applicant fails bank credit scrutiny, withdraws voluntarily, or provides unverifiable academic credentials, the system immediately promotes the next student in sequence from the official reserve queue."
+              "Step 1: Account Creation — Visit bikes.punjab.gov.pk, click 'Register', and enter your CNIC, active mobile number registered in your own name, district, and password. Confirm the OTP sent to your handset.",
+              "Step 2: Educational Profile — Enter your university or college name, roll number, department, degree program, current semester, and upload a clear scanned image of your student identity card and latest paid tuition fee slip.",
+              "Step 3: DLIMS License Input — Enter your computerized DLIMS motorcycle driving license or learner permit tracking number for real-time validation.",
+              "Step 4: Guarantor Profile — Provide guarantor details (parent/guardian CNIC, relationship, employer details, and recent bank statement or pay slip demonstrating PKR 40,000+ monthly income).",
+              "Step 5: Vehicle Selection — Choose your preferred vehicle model (standard electric motorcycle vs step-through electric scooty), battery specification, and dealership handover city.",
+              "Step 6: Review & Final Submission — Verify all entered particulars, accept the statutory legal undertaking, and click 'Submit Application'. Note your computerized application tracking serial number."
             ]
-          },
+          }
+        ],
+        table: {
+          caption: "Common Portal Application Errors & Verified Technical Fixes",
+          headers: ["Portal Error / Flag", "Root Cause", "Official Verification Fix"],
+          rows: [
+            ["DLIMS Record Not Found", "Unregistered or expired learner permit", "Renew permit online at dlims.punjab.gov.pk; re-enter 14-digit tracking number"],
+            ["Institutional Roll No Mismatch", "Typo in roll number or department", "Cross-check exact formatting on official semester fee challan"],
+            ["Guarantor Income Ineligible", "Bank statement shows less than PKR 40,000", "Submit co-borrower with verifiable salary slip or 6-month formal bank statement"],
+            ["Duplicate Family CNIC Detected", "Sibling already submitted application", "Withdraw duplicate application; scheme enforces one bike per household limit"],
+            ["Domicile Verification Flag", "Temporary address outside Punjab", "Upload verified Punjab domicile certificate or CNIC with permanent Punjab address"]
+          ]
+        }
+      },
+      {
+        title: "Computerized E-Balloting, Merit Lists & Vehicle Delivery Schedule",
+        paragraphs: [
+          "When application volumes exceed the allotted quota for a specific district, gender category, or institution, selections are determined through automated, transparent computerized e-balloting conducted by the Punjab Information Technology Board (PITB). The algorithm operates without human intervention to guarantee absolute transparency.",
+          "Applicants can verify their balloting result by entering their 13-digit CNIC on the official portal (bikes.punjab.gov.pk). Successful candidates receive automated SMS notifications from the official government service gateway."
+        ],
+        subsections: [
           {
-            title: "How to Check Selected Applicant Status on the bikes.punjab.gov.pk Dashboard",
+            title: "Post-Balloting Verification & Delivery Handover Steps",
             paragraphs: [
-              "Applicants can independently verify their selection status within seconds once the official balloting concludes by logging into bikes.punjab.gov.pk with their CNIC and password. The system displays one of three clear flags: Selected (Approved in E-Ballot), Waiting List (Reserve Status with numerical standing), or Not Selected.",
-              "In addition to online dashboards, the Punjab Government publishes full downloadable PDF merit lists categorized by district and gender, searchable via keyboard shortcut (Ctrl + F). Selected candidates also receive an automated official SMS alert from the government gateway."
+              "Step 1: Physical Verification — Selected students receive an appointment to visit their designated Bank of Punjab branch with original CNIC, student credentials, and guarantor.",
+              "Step 2: Financing Agreement & Takaful Signing — The applicant and guarantor sign the 0% markup financing agreement and direct debit mandate.",
+              "Step 3: Delivery Challan Issuance — BOP issues an official delivery challan and vehicle allocation certificate.",
+              "Step 4: Physical Handover — The student collects their brand-new electric bike, complimentary safety helmet, side guard rods, and warranty documentation from the authorized manufacturer dealership."
             ]
           }
         ]
       },
       {
-        title: "Post-Selection Procedure: BOP Branch Verification, Takaful & Delivery Timeline",
+        title: "Comparison: CM Punjab Scheme vs Federal PAVE & Provincial Programs",
         paragraphs: [
-          "Being selected in the electronic balloting marks the completion of the preliminary stage; final vehicle ownership requires successful asset financing approval through The Bank of Punjab. Successful candidates must complete document verification at designated BOP branches within 10 to 14 business days following the balloting announcement.",
-          "Under directives issued by CM Maryam Nawaz Sharif, the Punjab Transport Department bundles every electric vehicle with a comprehensive, complimentary Rider Safety Kit including an internationally certified helmet, steel crash leg guards, and a mandatory free two-day motorcycle safety orientation organized by City Traffic Police academies."
-        ]
-      },
-      {
-        title: "Phase 1 vs. Phase 2 Comparison: Key Policy Upgrades",
-        paragraphs: [
-          "The table below outlines the structural policy transformations introduced in the 2026 expansion compared to the initial pilot rollout:"
+          "Applicants frequently confuse the CM Punjab Electric Bike Scheme with the Federal PAVE scheme and regional provincial programs. Understanding key differences ensures applicants apply to the correct official portal:"
         ],
         table: {
-          caption: "Comparison Between Phase 1 Pilot and Phase 2 Full Rollout",
-          headers: ["Policy Dimension", "Phase 1 (Pilot 2024–2025)", "Phase 2 (2026 Expansion)", "Student Impact"],
+          caption: "National and Provincial Electric Bike Schemes Comparison Matrix 2026",
+          headers: ["Scheme Parameter", "CM Punjab E-Bike Scheme Phase 2", "Federal PM PAVE Scheme", "Sindh Pink Scooty Scheme"],
           rows: [
-            ["Geographic Scope", "Limited to 5 major cities", "All 36 Districts of Punjab", "Universal access for rural & urban youth"],
-            ["Fleet Size & Type", "20,000 (19,000 Petrol + 1,000 EV)", "100,000 Electric Bikes Exclusively", "100% green transit; zero petrol costs"],
-            ["Student Down Payment", "Rs. 20,000 – Rs. 25,000 required", "Rs. 0 (100% Waived by Punjab Govt)", "Zero upfront financial hurdle"],
-            ["Provincial Equity Subsidy", "Partial subsidy on markup only", "Rs. 90,000 Direct Capital Subsidy", "Substantial direct invoice discount"],
-            ["Monthly Amortization", "~Rs. 5,000 (Petrol) / ~Rs. 10,000 (EV)", "~Rs. 3,028 / month (Fixed EV)", "Over 65% reduction in monthly payments"],
-            ["Female Allocation", "Standard general quota (~25%)", "50% Dedicated Female Quota", "Guaranteed equality & pink scooties"],
-            ["Safety Equipment", "Standard vehicle only", "Free Certified Helmet & Safety Guards", "Enhanced safety without personal expense"],
-            ["Application Deadline", "Closed", "October 4, 2026 (Active Window)", "Immediate application at bikes.punjab.gov.pk"]
+            ["Official Portal", "bikes.punjab.gov.pk", "pave.gov.pk", "smta.gos.pk"],
+            ["Administrative Authority", "Government of the Punjab / PITB", "Ministry of Industries & Production", "Sindh Mass Transit Authority (SMTA)"],
+            ["Financing Structure", "0% Markup Soft Loan via BOP (36 Mo)", "Direct Price Subsidy (One-Time Grant)", "Subsidized Installment / Direct Grant"],
+            ["Government Relief", "Rs. 90,000 Capital Subsidy + 0% Interest", "Up to Rs. 80,000 Price Subsidy", "Up to 70% Direct Cost Subsidy"],
+            ["Required Down Payment", "Rs. 0 (100% Waived)", "Balance paid upfront to dealer", "Low subsidized advance deposit"],
+            ["Monthly Installment", "Rs. 3,028 / month (Fixed)", "No monthly installments", "Fixed subsidized monthly installment"],
+            ["Target Demographics", "College/University Students, Female Quota", "Nationwide General Citizens & Students", "Female Students & Working Women in Sindh"],
+            ["Domicile Requirement", "Strictly Punjab Domicile", "All Pakistan (Federal, AJK, GB, Prov)", "Strictly Sindh Domicile"]
           ]
-        }
+        },
+        links: [
+          { label: "Federal PAVE Electric Bike Scheme 2026: Subsidy & Application Guide", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" },
+          { label: "Sindh Pink Scooty Scheme: Registration & Eligibility Guide", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
+        ]
       }
     ],
     faqs: [
       {
-        question: "What is the official deadline to apply for CM Punjab E-Bike Scheme Phase 2?",
-        answer: "The official deadline for online application submission under Phase 2 is October 4, 2026. All eligible college and university students must complete their digital registrations at bikes.punjab.gov.pk before midnight on this date."
+        question: "What is the price of the e-bike and how much subsidy does the Punjab Government provide?",
+        answer: "The electric scooty is priced at PKR 199,000, and the Government of Punjab provides a direct non-repayable capital subsidy of Rs. 90,000 per vehicle. The remaining balance is financed interest-free by The Bank of Punjab, with the government covering all markup, registration, and first-year insurance costs."
       },
       {
-        question: "How much monthly installment do selected students have to pay?",
-        answer: "Selected students pay a fixed monthly installment of approximately Rs. 3,028 over a 36-month repayment tenure. Because the Government of the Punjab provides a Rs. 90,000 capital subsidy and absorbs all interest charges, the loan carries 0% markup."
+        question: "Is any upfront down payment required for the Phase 2 E-Bike scheme?",
+        answer: "No upfront down payment is required under Phase 2 rules. Chief Minister Maryam Nawaz Sharif ordered a 100% waiver of the advance deposit, allowing selected students to acquire their vehicle with Rs. 0 initial payment."
       },
       {
-        question: "Is there any down payment or advance deposit required?",
-        answer: "No down payment is required from students under Phase 2. Chief Minister Maryam Nawaz Sharif has completely waived the initial equity deposit, enabling selected students to receive their electric bikes with zero upfront cash outlay."
+        question: "How much is the monthly installment and who pays the bank interest markup?",
+        answer: "The monthly installment is approximately Rs. 3,028 per month over a 36-month (3-year) repayment tenure. The Government of Punjab directly pays all bank interest and markup to The Bank of Punjab, ensuring students repay only the net principal."
       },
       {
-        question: "Can students holding only a motorcycle learner's permit apply?",
-        answer: "Yes, students holding a valid motorcycle learner's permit issued by DLIMS Punjab are fully eligible to apply and participate in the electronic ballot. However, candidates must keep their permit active and are encouraged to acquire a full computerized license prior to final vehicle delivery."
+        question: "Can students apply using only a motorcycle learner's driving permit?",
+        answer: "Yes, students holding a valid computerized motorcycle learner driving permit issued by DLIMS Punjab Police are fully eligible to apply and participate in the balloting. However, candidates must keep their permit active and are advised to obtain their permanent license before delivery."
       },
       {
-        question: "How can I check my name in the Punjab E-Bike balloting merit list?",
-        answer: "You can verify your balloting result by logging into your personalized applicant dashboard at bikes.punjab.gov.pk using your 13-digit CNIC and password. The Punjab Government also publishes official district-wise downloadable PDF merit lists that can be searched using your CNIC number."
+        question: "What is the minimum age requirement to apply for the Punjab E-Bike scheme?",
+        answer: "The minimum age requirement is 16 years for applicants possessing a valid juvenile driving permit or learner's permit, and 18 years for regular computerized driving license holders. Applicants must also hold an active student enrollment status."
       },
       {
-        question: "Are petrol motorcycles available in the Phase 2 registration?",
-        answer: "No petrol motorcycles are offered in Phase 2. To combat urban smog and promote clean environmental energy, the Government of the Punjab has made Phase 2 an exclusively electric vehicle program comprising 100,000 e-bikes."
+        question: "Who can act as a guarantor for the Bank of Punjab financing application?",
+        answer: "A parent, legal guardian, spouse, or employed sibling can act as a guarantor, provided they hold a valid CNIC, have a verifiable monthly income of at least PKR 40,000 supported by a bank statement or salary slip, and maintain a clean e-CIB credit history."
       },
       {
-        question: "Who can serve as a guarantor (co-borrower) for The Bank of Punjab?",
-        answer: "A parent, legal guardian, spouse, or employed sibling can act as a guarantor or co-borrower for the Bank of Punjab financing. The guarantor must possess a valid CNIC, a clean credit history free from active banking defaults, and verifiable monthly household income."
+        question: "How does the 50% reserved quota for female students work?",
+        answer: "Phase 2 reserves 50% of the total 100,000 vehicle fleet (50,000 units) exclusively for female students across all 36 districts of Punjab. Female applicants have priority access to step-through electric scooties (Pink Scooties) designed for comfortable commuting in modest attire."
       },
       {
-        question: "Are students from private universities and degree colleges eligible?",
-        answer: "Yes, regular students enrolled in private universities and private degree colleges recognized by the Higher Education Commission (HEC) and Punjab Higher Education Commission (PHEC) are fully eligible to apply alongside public-sector students."
+        question: "Are private university students, school teachers, and government staff eligible?",
+        answer: "Yes, regular students of HEC-recognized private universities in Punjab are fully eligible under the student quota. Additionally, school teachers qualify through the Punjab Teachers Foundation (PTF) portal, and BPS 1-16 government workers qualify with an administrative departmental NOC."
       },
       {
-        question: "What happens if an applicant fails the Bank of Punjab verification?",
-        answer: "If a selected candidate fails the BOP credit appraisal, provides unverifiable academic documentation, or fails to visit the branch within the designated timeframe, their allocation is cancelled. The vacant seat is then immediately offered to the next candidate on the computerized waiting list."
+        question: "How can applicants check their balloting merit list status online?",
+        answer: "Applicants can check their balloting result by entering their 13-digit CNIC without dashes on the official portal at bikes.punjab.gov.pk. Successful candidates also receive automated official confirmation SMS messages from the government gateway."
       },
       {
-        question: "Does the Punjab Government cover insurance and vehicle registration costs?",
-        answer: "Yes, the Government of the Punjab covers 100% of the vehicle registration fees, computerized number plate charges, token tax, and the complete first-year comprehensive Takaful insurance premium."
-      },
-      {
-        question: "Can female students apply for electric scooties instead of standard motorbikes?",
-        answer: "Yes, female applicants can specifically select electric scooties (scooters) with a step-through frame design on the application portal. The Punjab Government has reserved a dedicated 50% quota for female students to enhance mobility and female higher-education enrollment across the province."
+        question: "How does the CM Punjab E-Bike Scheme differ from the Federal PAVE scheme?",
+        answer: "The CM Punjab E-Bike Scheme is a provincial initiative offering 0% markup 36-month financing (Rs. 3,028/mo) with a Rs. 90,000 subsidy strictly for Punjab residents. The Federal PAVE scheme (pave.gov.pk) provides a one-time direct price subsidy of up to Rs. 80,000 nationwide, with the applicant paying the remaining vehicle price upfront."
       }
     ]
   },
-
   {
     slug: "cm-punjab-youth-games-2026-online-registration",
     title: "CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide",
@@ -8648,14 +7149,14 @@ export const articles: Article[] = [
     publishedDate: "September 29, 2026",
     lastChecked: "September 29, 2026",
     readTime: "8 min read",
-    image: "/images/cm-punjab-youth-games-2026.jpg",
+    image: "/images/cm-punjab-youth-games-2026.webp",
     imageAlt: "Young athletes participating in sports competitions at CM Punjab Youth Games",
     author: contributors.muhammadSalman,
         relatedSlugs: [
       "cm-punjab-honhaar-scholarship-program-2026",
       "cm-punjab-free-laptop-scheme-2026-online-apply",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "cm-punjab-e-bike-scheme-updates"
+      "cm-punjab-electric-bike-scheme"
     ],
 officialLinks: [
       { label: "Youth Games Portal", href: "https://youthgames.punjab.gov.pk/" },
@@ -8960,7 +7461,7 @@ officialLinks: [
     publishedDate: "September 29, 2026",
     lastChecked: "September 29, 2026",
     readTime: "9 min read",
-    image: "/images/cm-punjab-green-credit-program-2026.jpg",
+    image: "/images/cm-punjab-green-credit-program-2026.webp",
     imageAlt: "Solar powered agricultural irrigation system funded by CM Punjab Green Credit Program",
     author: contributors.muhammadSalman,
     officialLinks: [
@@ -9176,18 +7677,18 @@ officialLinks: [
     publishedDate: "September 28, 2026",
     lastChecked: "September 28, 2026",
     readTime: "6 min read",
-    image: "/images/apni-zameen-apna-ghar-balloting-result-2026.jpg",
+    image: "/images/apni-zameen-apna-ghar-balloting-result-2026.webp",
     imageAlt: "Architectural housing blueprints and land survey records for Apni Zameen Apna Ghar balloting result",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     relatedSlugs: [
       "apni-chhat-apna-ghar-scheme-online-apply-2026",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
-    ,
+      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking",
       "wazir-e-azam-apna-ghar-program",
       "apna-ghar-social-welfare-guide",
-      "apna-ghar-housing-scheme"],
+      "apna-ghar-housing-scheme"
+    ],
     officialLinks: [
       { label: "AZAG Official Result Portal", href: "https://azag.punjab.gov.pk/ballot/result" },
       { label: "Official AZAG Portal", href: "https://azag.punjab.gov.pk/" }
@@ -9370,16 +7871,16 @@ officialLinks: [
     publishedDate: "September 28, 2026",
     lastChecked: "September 28, 2026",
     readTime: "7 min read",
-    image: "/images/pink-scooty-scheme-2026.jpg",
+    image: "/images/pink-scooty-scheme-2026.webp",
     imageAlt: "Female students riding pink scooties provided under government mobility scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
     relatedSlugs: [
       "apni-chhat-apna-ghar-scheme-online-apply-2026",
       "apni-zameen-apna-ghar-balloting-result-2026",
-      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
-    ,
-      "how-to-apply-cm-punjab-e-bike-scheme-2026"],
+      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking",
+      "cm-punjab-electric-bike-scheme"
+    ],
     officialLinks: [
       { label: "Punjab E-Bike Portal", href: "https://bikes.punjab.gov.pk/" },
       { label: "Sindh SMTA Portal", href: "https://smta.gos.pk/" }
@@ -9396,12 +7897,12 @@ officialLinks: [
               label: "Federal PAVE Electric Bike Scheme 2026 (Rs 80,000 Subsidy)",
               href: "/pave-electric-bike-scheme-2026/"
             },
-          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/provincial-bike-transport-schemes/" },
+          { label: "Provincial Bike & Transport Schemes 2026 Guide", href: "/cm-punjab-electric-bike-scheme/" },
             {
               label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
               href: "/cm-punjab-youth-games-2026-online-registration/"
             },
-          { label: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal & BOP Installment", href: "/cm-punjab-e-bike-scheme-updates" }
+          { label: "CM Punjab E-Bike Scheme Updates 2026: Phase 2 Portal & BOP Installment", href: "/cm-punjab-electric-bike-scheme/" }
         ],
         subsections: [
           {
@@ -9587,7 +8088,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-tehsil-office-peshawar-kpk.jpg",
+    image: "/images/bisp-tehsil-office-peshawar-kpk.webp",
     imageAlt: "Peshawar Tehsil registration facility for BISP applicants and KPK beneficiaries",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -9747,7 +8248,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
-    image: "/images/cm-punjab-apni-chhat-apna-ghar-loan.jpg",
+    image: "/images/cm-punjab-apni-chhat-apna-ghar-loan.webp",
     imageAlt: "Homeowner discussing construction layout for CM Punjab Apni Chhat Apna Ghar house loan",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
@@ -9928,7 +8429,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
-    image: "/images/cm-balochistan-youth-skills-scheme-2026-online-apply.jpg",
+    image: "/images/cm-balochistan-youth-skills-scheme-2026-online-apply.webp",
     imageAlt: "Youth in Balochistan participating in vocational skills training program under CM scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
@@ -10145,7 +8646,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "7 min read",
-    image: "/images/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.jpg",
+    image: "/images/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert.webp",
     imageAlt: "Cybersecurity warning representation against fake 8171 lottery SMS fraud schemes",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
@@ -10354,7 +8855,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
-    image: "/images/pmt-score-above-32-bisp-re-survey.jpg",
+    image: "/images/pmt-score-above-32-bisp-re-survey.webp",
     imageAlt: "Family consulting welfare officer for BISP PMT score re-survey and appeal process",
     author: contributors.muhammadSalman,
     sections: [
@@ -10578,7 +9079,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "10 min read",
-    image: "/images/bisp-agent-deduction-complaint.jpg",
+    image: "/images/bisp-agent-deduction-complaint.webp",
     imageAlt: "BISP helpline representative recording complaint against unauthorized agent fee deductions",
     author: contributors.muhammadSalman,
     sections: [
@@ -10777,7 +9278,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
-    image: "/images/bisp-and-ehsaas-difference.jpg",
+    image: "/images/bisp-and-ehsaas-difference.webp",
     imageAlt: "Comparative documentation folders illustrating differences between BISP and Ehsaas government welfare programs",
     author: contributors.muhammadSalman,
     sections: [
@@ -11097,7 +9598,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
-    image: "/images/punjab-solar-tube-well-scheme.jpg",
+    image: "/images/punjab-solar-tube-well-scheme.webp",
     imageAlt: "Solar powered agricultural tube well dispensing water into farm channels under Punjab scheme",
     author: contributors.muhammadSalman,
     sections: [
@@ -11324,7 +9825,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
-    image: "/images/kisan-card-8070-pin-verification.jpg",
+    image: "/images/kisan-card-8070-pin-verification.webp",
     imageAlt: "Farmer verifying Kisan Card 8070 PIN code at authorized agricultural dealer POS",
     author: contributors.muhammadSalman,
     sections: [
@@ -11535,7 +10036,7 @@ officialLinks: [
     "date": "September 13, 2026",
     "lastChecked": "September 13, 2026",
     "readTime": "20 min read",
-    "image": "/images/ehsaas-payment-tracking.jpg",
+    "image": "/images/ehsaas-payment-tracking.webp",
     "imageAlt": "A Pakistani woman checking an Ehsaas and BISP payment status on her phone",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -12068,7 +10569,7 @@ officialLinks: [
     date: "August 14, 2026",
     lastChecked: "August 14, 2026",
     readTime: "9 min read",
-    image: "/images/8171-portal-troubleshooting.jpg",
+    image: "/images/8171-portal-troubleshooting.webp",
     imageAlt: "Information desk staff assisting a citizen with 8171 web portal troubleshooting and CNIC check errors",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -12240,7 +10741,7 @@ officialLinks: [
     "date": "August 14, 2026",
     "lastChecked": "August 14, 2026",
     "readTime": "9 min read",
-    "image": "/images/8171-number-verification.jpg",
+    "image": "/images/8171-number-verification.webp",
     "imageAlt": "A user comparing the official BISP 8171 route with unverified number and portal claims",
     "author": contributors.ayeshaMalik,
     "reviewer": contributors.saadHassan,
@@ -12581,7 +11082,7 @@ officialLinks: [
     "date": "August 14, 2026",
     "lastChecked": "August 14, 2026",
     "readTime": "10 min read",
-    "image": "/images/bisp-cnic-status-check.jpg",
+    "image": "/images/bisp-cnic-status-check.webp",
     "imageAlt": "A user entering a CNIC and image code on the official BISP 8171 portal",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -12891,7 +11392,7 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "8 min read",
-    "image": "/images/registration-guide.jpg",
+    "image": "/images/registration-guide.webp",
     "imageAlt": "A woman completing a BISP registration checklist step by step on a tablet",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -13122,8 +11623,8 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "10 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "An enumerator noting household details during an NSER survey visit",
+    "image": "/images/nser-pmt-score-check-survey-desk.webp",
+    "imageAlt": "PMT score check through official NSER records and tehsil registration counter",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -13395,8 +11896,8 @@ officialLinks: [
     ],
     "date": "August 7, 2026",
     "readTime": "7 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A woman reviewing her Benazir Kafaalat registration status on her phone",
+    "image": "/images/benazir-kafaalat-registration-cnic-check-walkthrough.webp",
+    "imageAlt": "Benazir Kafaalat registration CNIC check walkthrough and 8171 status verification",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -13479,8 +11980,8 @@ officialLinks: [
     categorySlugs: ["ehsaas-programs", "payment-check", "news"],
     date: "August 3, 2026",
     readTime: "6 min read",
-    image: "/images/farmer-support.jpg",
-    imageAlt: "Pakistani farmers receiving agricultural welfare support and crop subsidies",
+    image: "/images/ehsaas-emergency-cash-programme-disbursement.webp",
+    imageAlt: "Ehsaas emergency cash programme qualification criteria and biometric cash collection",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -13532,7 +12033,7 @@ officialLinks: [
     categorySlugs: ["ehsaas-programs", "bisp-registration", "news"],
     date: "August 1, 2026",
     readTime: "5 min read",
-    image: "/images/scholarship-guide.jpg",
+    image: "/images/scholarship-guide.webp",
     imageAlt: "Graduation mortarboard cap and academic scrolls representing educational scholarship guides",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -13608,8 +12109,8 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "7 min read",
-    "image": "/images/e-bike-guide.jpg",
-    "imageAlt": "A small business owner reviewing loan terms on a smartphone",
+    "image": "/images/ehsaas-saving-wallets-programme-interest-free-loan.webp",
+    "imageAlt": "Ehsaas saving wallets programme mobile banking and interest-free loan partner centers",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -13768,8 +12269,8 @@ officialLinks: [
     categorySlugs: ["ehsaas-programs", "other-schemes", "news"],
     date: "July 28, 2026",
     readTime: "5 min read",
-    image: "/images/farmer-support.jpg",
-    imageAlt: "Pakistani farmers receiving agricultural welfare support and crop subsidies",
+    image: "/images/ehsaas-rashan-programme-karyana-subsidy.webp",
+    imageAlt: "Ehsaas Rashan programme subsidized flour ghee and pulses at registered karyana stores",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -13826,8 +12327,8 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "1 min read",
-    "image": "/images/e-bike-guide.jpg",
-    "imageAlt": "A young entrepreneur reviewing Punjab Rozgar Scheme loan details on a laptop",
+    "image": "/images/punjab-rozgar-scheme-business-finance-psic.webp",
+    "imageAlt": "Punjab Rozgar Scheme subsidized credit limit and business loan application on PSIC portal",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -13906,8 +12407,8 @@ officialLinks: [
     categorySlugs: ["8171", "bisp-registration", "news"],
     date: "July 25, 2026",
     readTime: "6 min read",
-    image: "/images/registration-guide.jpg",
-    imageAlt: "Pakistani woman safely checking government scheme eligibility on a mobile device at home",
+    image: "/images/check-bisp-eligibility-8171-portal-steps.webp",
+    imageAlt: "Check BISP eligibility 8171 web portal input fields and captcha code verification",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -13978,8 +12479,8 @@ officialLinks: [
     categorySlugs: ["benazir-kafaalat", "payment-check", "news"],
     date: "July 23, 2026",
     readTime: "6 min read",
-    image: "/images/hero-support.jpg",
-    imageAlt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk",
+    image: "/images/benazir-kafaalat-payment-guide-atm-camp.webp",
+    imageAlt: "Benazir Kafaalat payment guide for biometric ATM withdrawal and campsite collection",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -14054,8 +12555,8 @@ officialLinks: [
     ],
     "date": "July 21, 2026",
     "readTime": "6 min read",
-    "image": "/images/registration-guide.jpg",
-    "imageAlt": "A Pakistani parent preparing documentation for Benazir Taleemi Wazaif registration checklist",
+    "image": "/images/taleemi-wazaif-registration-checklist-school.webp",
+    "imageAlt": "Taleemi Wazaif registration checklist showing child B-form and school admission slip",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "relatedSlugs": [
@@ -14142,8 +12643,8 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "4 min read",
-    "image": "/images/farmer-support.jpg",
-    "imageAlt": "Pakistani farmer checking programme guidance on a smartphone",
+    "image": "/images/pm-youth-business-loan-guide-bank-kamyab.webp",
+    "imageAlt": "PM Youth Business Loan and agriculture financing application checklist and markup rate",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -14291,7 +12792,7 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "4 min read",
-    "image": "/images/e-bike-guide.jpg",
+    "image": "/images/e-bike-guide.webp",
     "imageAlt": "Electric bike scheme eligibility guide illustration of an electric scooty for comparing costs and application notices",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -14454,7 +12955,7 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "4 min read",
-    "image": "/images/farmer-support.jpg",
+    "image": "/images/farmer-support.webp",
     "imageAlt": "A farmer using a phone in a green crop field",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -14628,8 +13129,8 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "5 min read",
-    "image": "/images/registration-guide.jpg",
-    "imageAlt": "Woman safely checking information on her phone",
+    "image": "/images/avoid-bisp-fraud-scam-alert-red-flags.webp",
+    "imageAlt": "BISP scam alert recognizing fake WhatsApp lottery messages and fee demands",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -14782,8 +13283,8 @@ officialLinks: [
     ],
     "date": "September 13, 2026",
     "readTime": "5 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A family receiving guidance from a service officer",
+    "image": "/images/documents-for-bisp-registration-checklist.webp",
+    "imageAlt": "Documents for BISP registration original CNIC Nadra child B-form and electricity bill",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -14951,7 +13452,7 @@ officialLinks: [
     date: "August 16, 2026",
     lastChecked: "August 16, 2026",
     readTime: "11 min read",
-    image: "/images/ehsaas-tracking-news.jpg",
+    image: "/images/ehsaas-tracking-news.webp",
     imageAlt: "Reading latest news updates on Ehsaas tracking portal and policy announcements",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -15056,7 +13557,7 @@ officialLinks: [
     date: "August 16, 2026",
     lastChecked: "August 16, 2026",
     readTime: "9 min read",
-    image: "/images/8171-register.jpg",
+    image: "/images/8171-register.webp",
     imageAlt: "Pakistani family submitting household verification documents at an 8171 registration center",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -15164,7 +13665,7 @@ officialLinks: [
     date: "August 16, 2026",
     lastChecked: "August 16, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-login.jpg",
+    image: "/images/bisp-login.webp",
     imageAlt: "Secure digital portal login screen representation for BISP official portal guidance",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -15268,7 +13769,7 @@ officialLinks: [
     date: "August 16, 2026",
     lastChecked: "August 16, 2026",
     readTime: "9 min read",
-    image: "/images/benazir-form.jpg",
+    image: "/images/benazir-form.webp",
     imageAlt: "Pakistani woman completing household information forms for BISP Benazir Kafaalat registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -15393,7 +13894,7 @@ officialLinks: [
     date: "August 16, 2026",
     lastChecked: "August 16, 2026",
     readTime: "8 min read",
-    image: "/images/check-bisp-account-status.jpg",
+    image: "/images/check-bisp-account-status.webp",
     imageAlt: "Pakistani beneficiary checking BISP account status and payment release on mobile phone",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -15528,8 +14029,8 @@ officialLinks: [
     "date": "September 13, 2026",
     "lastChecked": "August 22, 2026",
     "readTime": "7 min read",
-    "image": "/images/bisp-cnic-status-check.jpg",
-    "imageAlt": "A beneficiary entering their CNIC number to check their BISP balance on the 8171 portal",
+    "image": "/images/bisp-balance-check-by-cnic-2026-online.webp",
+    "imageAlt": "BISP 8171 online check balance by CNIC showing payment release and biometric status",
     "author": contributors.ayeshaMalik,
     "reviewer": contributors.saadHassan,
     "sections": [
@@ -15740,8 +14241,8 @@ officialLinks: [
     "date": "August 22, 2026",
     "lastChecked": "August 22, 2026",
     "readTime": "10 min read",
-    "image": "/images/bisp-login.jpg",
-    "imageAlt": "A BISP beneficiary completing biometric verification to withdraw a payment at an agent counter",
+    "image": "/images/bisp-payment-method-atm-biometric-safe-guide.webp",
+    "imageAlt": "BISP payment method biometric cash withdrawal at HBL Alfalah ATM and receipt verification",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -15898,8 +14399,8 @@ officialLinks: [
     "date": "August 22, 2026",
     "lastChecked": "August 22, 2026",
     "readTime": "8 min read",
-    "image": "/images/ehsaas-payment-tracking.jpg",
-    "imageAlt": "A woman checking her Ehsaas program balance status on a mobile phone",
+    "image": "/images/ehsaas-program-balance-check-cnic.webp",
+    "imageAlt": "Ehsaas program balance check by CNIC online status and biometric payment withdrawal",
     "author": contributors.ayeshaMalik,
     "reviewer": contributors.saadHassan,
     "sections": [
@@ -16028,8 +14529,8 @@ officialLinks: [
     date: "August 22, 2026",
     lastChecked: "August 22, 2026",
     readTime: "9 min read",
-    image: "/images/8171-number-verification.jpg",
-    imageAlt: "Pakistani beneficiary checking 8171 SMS status code on a mobile phone for BISP eligibility",
+    image: "/images/what-is-pmt-score-bisp-formula-calculator.webp",
+    imageAlt: "What is PMT score explanation and BISP poverty score cut off threshold",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -16163,8 +14664,8 @@ officialLinks: [
     date: "August 22, 2026",
     lastChecked: "August 22, 2026",
     readTime: "9 min read",
-    image: "/images/benazir-form.jpg",
-    imageAlt: "Pakistani woman completing household information forms for BISP Benazir Kafaalat registration",
+    image: "/images/benazir-sim-card-free-wallet-sim-guide.webp",
+    imageAlt: "Benazir SIM card free mobile wallet SIM registration and biometric issuance for BISP",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -16312,8 +14813,8 @@ officialLinks: [
     date: "August 22, 2026",
     lastChecked: "August 22, 2026",
     readTime: "8 min read",
-    image: "/images/check-bisp-account-status.jpg",
-    imageAlt: "Pakistani beneficiary checking BISP account status and payment release on mobile phone",
+    image: "/images/bisp-card-check-active-blocked-replacement.webp",
+    imageAlt: "BISP card check debit card replacement and transition to biometric cash withdrawal",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -16454,8 +14955,8 @@ officialLinks: [
     date: "August 22, 2026",
     lastChecked: "August 22, 2026",
     readTime: "9 min read",
-    image: "/images/8171-register.jpg",
-    imageAlt: "Pakistani family submitting household verification documents at an 8171 registration center",
+    image: "/images/bisp-id-card-check-blocked-cnic-fix.webp",
+    imageAlt: "BISP ID card check fixing blocked CNIC with NADRA family tree and marital record update",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -16604,8 +15105,8 @@ officialLinks: [
     "date": "September 13, 2026",
     "publishedDate": "September 13, 2026",
     "readTime": "5 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A Pakistani family reviewing public programme guidance",
+    "image": "/images/cnic-check-online-verification-across-programmes.webp",
+    "imageAlt": "CNIC check online verification across BISP Ehsaas and provincial welfare databases",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -16804,8 +15305,8 @@ officialLinks: [
     "date": "September 13, 2026",
     "publishedDate": "September 13, 2026",
     "readTime": "5 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A Pakistani family reviewing public programme guidance",
+    "image": "/images/what-is-bisp-meaning-programmes-overview.webp",
+    "imageAlt": "BISP Benazir Income Support Programme overview structure and social protection grants",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -17003,8 +15504,8 @@ officialLinks: [
     "date": "September 13, 2026",
     "publishedDate": "September 13, 2026",
     "readTime": "5 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A Pakistani family reviewing public programme guidance",
+    "image": "/images/nashonuma-program-nutrition-stipend-registration.webp",
+    "imageAlt": "Nashonuma program specialized nutrition food and pregnant mother health stipend registration",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -17156,8 +15657,8 @@ officialLinks: [
     "date": "September 13, 2026",
     "publishedDate": "September 13, 2026",
     "readTime": "3 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A Pakistani family reviewing public programme guidance",
+    "image": "/images/zakat-in-pakistan-bisp-eligibility-comparison.webp",
+    "imageAlt": "Zakat Pakistan and BISP eligibility criteria comparison for Guzara grant assistance",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -17300,8 +15801,8 @@ officialLinks: [
     "date": "September 14, 2026",
     "publishedDate": "September 14, 2026",
     "readTime": "9 min read",
-    "image": "/images/ehsaas-payment-tracking.jpg",
-    "imageAlt": "A person checking their Ramzan Package eligibility status on a phone",
+    "image": "/images/ramzan-package-check-8171-ration-relief.webp",
+    "imageAlt": "Ramzan package check 8171 and 9999 CNIC eligibility verification for free ration relief",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -17498,10 +15999,14 @@ officialLinks: [
   },
   {
     "slug": "punjab-land-record-check-guide",
-    relatedSlugs: ["apna-khet-apna-rozgar-scheme-apply-online-2026","nigehban-card-check-guide","himmat-card-eligibility-check-guide",
+    relatedSlugs: [
+      "apna-khet-apna-rozgar-scheme-apply-online-2026",
+      "nigehban-card-check-guide",
+      "himmat-card-eligibility-check-guide",
       "bisp-benazir-kafaalat-8171-check",
       "apna-ghar-housing-scheme",
-      "punjab-solar-housing-updates-2026"],
+      "punjab-solar-housing-updates-2026"
+    ],
     "title": "How to Check Punjab Land Records Online by CNIC (2026)",
     "excerpt": "Check a Punjab land record online by CNIC — which official portal to trust, what a Fard actually shows, and what to do if no record appears.",
     "metaTitle": "Punjab Land Record Online Check by CNIC: 2026 Steps",
@@ -17531,7 +16036,7 @@ officialLinks: [
     "date": "September 14, 2026",
     "publishedDate": "September 14, 2026",
     "readTime": "8 min read",
-    "image": "/images/punjab-land-record-check-guide.jpg",
+    "image": "/images/punjab-land-record-check-guide.webp",
     "imageAlt": "A person checking a Punjab land record document on a phone in a rural setting",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -17696,7 +16201,11 @@ officialLinks: [
   },
   {
     "slug": "nigehban-card-check-guide",
-    relatedSlugs: ["apna-khet-apna-rozgar-scheme-apply-online-2026","punjab-land-record-check-guide","himmat-card-eligibility-check-guide"],
+    relatedSlugs: [
+      "apna-khet-apna-rozgar-scheme-apply-online-2026",
+      "punjab-land-record-check-guide",
+      "himmat-card-eligibility-check-guide"
+    ],
     "title": "Nigehban Card Check Online by CNIC: How to Check Your Status (2026)",
     "excerpt": "The Nigehban Card is Punjab's own Ramzan relief card, checked via SMS to 8070 or the PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See how the check works and how to avoid fake sites.",
     "metaTitle": "Nigehban Card Check by CNIC: 8070 or 9999? (2026)",
@@ -17726,7 +16235,7 @@ officialLinks: [
     "date": "September 15, 2026",
     "publishedDate": "September 15, 2026",
     "readTime": "10 min read",
-    "image": "/images/nigehban-card-check-guide.jpg",
+    "image": "/images/nigehban-card-check-guide.webp",
     "imageAlt": "A person checking their Nigehban Card status by CNIC on a phone",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -17934,7 +16443,11 @@ officialLinks: [
   },
   {
     "slug": "himmat-card-eligibility-check-guide",
-    relatedSlugs: ["apna-khet-apna-rozgar-scheme-apply-online-2026","punjab-land-record-check-guide","nigehban-card-check-guide"],
+    relatedSlugs: [
+      "apna-khet-apna-rozgar-scheme-apply-online-2026",
+      "punjab-land-record-check-guide",
+      "nigehban-card-check-guide"
+    ],
     "title": "How to Check Himmat Card Eligibility and Status by CNIC (2026)",
     "excerpt": "Check your Himmat Card status at the official DPMIS verification page by CNIC — no login needed. See eligibility rules, PMT score, payment amount, and how to avoid fake sites.",
     "metaTitle": "Himmat Card Eligibility & Status Check by CNIC (2026)",
@@ -17954,7 +16467,7 @@ officialLinks: [
     "date": "September 15, 2026",
     "publishedDate": "September 15, 2026",
     "readTime": "9 min read",
-    "image": "/images/himmat-card-eligibility-check-guide.jpg",
+    "image": "/images/himmat-card-eligibility-check-guide.webp",
     "imageAlt": "A person checking their Himmat Card eligibility status by CNIC on a phone",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -18131,8 +16644,8 @@ officialLinks: [
     "date": "September 15, 2026",
     "publishedDate": "September 15, 2026",
     "readTime": "9 min read",
-    "image": "/images/e-bike-guide.jpg",
-    "imageAlt": "A motorcycle rider checking fuel relief scheme registration on a phone at a petrol station",
+    "image": "/images/fuel-relief-scheme-pakistan-petrol-subsidy.webp",
+    "imageAlt": "Fuel relief scheme Pakistan Rs 100 per litre petrol subsidy eligibility for bike owners",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "relatedSlugs": [
@@ -18321,8 +16834,8 @@ officialLinks: [
     "date": "September 17, 2026",
     "publishedDate": "September 17, 2026",
     "readTime": "7 min read",
-    "image": "/images/hero-support.jpg",
-    "imageAlt": "A Pakistani family reviewing BISP eligibility guidance together at home",
+    "image": "/images/bisp-eligibility-criteria-qualifying-rules.webp",
+    "imageAlt": "Eligibility criteria for BISP Benazir Kafaalat poverty score limits and exclusions",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -18455,8 +16968,8 @@ officialLinks: [
     "date": "September 17, 2026",
     "publishedDate": "September 17, 2026",
     "readTime": "8 min read",
-    "image": "/images/8171-number-verification.jpg",
-    "imageAlt": "A person checking their BISP eligibility status on a mobile phone",
+    "image": "/images/how-to-check-bisp-eligibility-portal-sms-office.webp",
+    "imageAlt": "How to check BISP eligibility through 8171 web portal, SMS code and tehsil office",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "sections": [
@@ -18601,7 +17114,7 @@ officialLinks: [
     "publishedDate": "September 18, 2026",
     "lastChecked": "September 18, 2026",
     "readTime": "8 min read",
-    "image": "/images/bisp-online-registration-mistakes.jpg",
+    "image": "/images/bisp-online-registration-mistakes.webp",
     "imageAlt": "A female applicant attending a BISP dynamic registration interview at a Tehsil center",
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
@@ -18758,8 +17271,8 @@ officialLinks: [
   "date": "September 19, 2026",
   "publishedDate": "September 19, 2026",
   "readTime": "10 min read",
-  "image": "/images/hero-support.jpg",
-  "imageAlt": "A family reviewing household eligibility information for a BISP PMT score check",
+  "image": "/images/what-counts-as-a-good-pmt-score-ranges.webp",
+  "imageAlt": "What counts as a good PMT score for BISP 32 cut off benchmark and dynamic survey",
   "author": contributors.saadHassan,
   "reviewer": contributors.ayeshaMalik,
   "sections": [
@@ -19134,8 +17647,8 @@ officialLinks: [
   "date": "September 19, 2026",
   "publishedDate": "September 19, 2026",
   "readTime": "10 min read",
-  "image": "/images/bisp-cnic-status-check.jpg",
-  "imageAlt": "A beneficiary checking BISP payment status by CNIC on the 8171 portal",
+  "image": "/images/bisp-payment-approved-no-cash-received-complaint.webp",
+  "imageAlt": "BISP payment approved but no cash received troubleshooting and campsite agent complaint",
   "author": contributors.saadHassan,
   "reviewer": contributors.ayeshaMalik,
   "sections": [
@@ -19517,8 +18030,8 @@ officialLinks: [
   "date": "September 19, 2026",
   "publishedDate": "September 19, 2026",
   "readTime": "10 min read",
-  "image": "/images/registration-guide.jpg",
-  "imageAlt": "A household representative preparing documents for an NSER survey at a BISP registration desk",
+  "image": "/images/nser-survey-not-found-bisp-no-record-solution.webp",
+  "imageAlt": "NSER survey not found resolution and dynamic registry desk token appointment",
   "author": contributors.saadHassan,
   "reviewer": contributors.ayeshaMalik,
   "sections": [
@@ -19867,8 +18380,8 @@ officialLinks: [
   "date": "September 19, 2026",
   "publishedDate": "September 19, 2026",
   "readTime": "11 min read",
-  "image": "/images/bisp-cnic-status-check.jpg",
-  "imageAlt": "A beneficiary attempting biometric verification for BISP payment collection",
+  "image": "/images/bisp-biometric-verification-failed-nadra-device-fix.webp",
+  "imageAlt": "BISP biometric verification failed thumb impression error fix at NADRA e-Sahulat",
   "author": contributors.saadHassan,
   "reviewer": contributors.ayeshaMalik,
   "sections": [
@@ -20164,14 +18677,14 @@ officialLinks: [
   publishedDate: "September 19, 2026",
   lastChecked: "September 19, 2026",
   readTime: "18 min read",
-  image: "/images/pm-youth-loan-scheme.jpg",
+  image: "/images/pm-youth-loan-scheme.webp",
   imageAlt: "Young Pakistani entrepreneur in workshop established through PM Youth Business Loan",
   author: contributors.muhammadSalman,
   reviewer: contributors.ayeshaMalik,
   relatedSlugs: [
-    "federal-contributory-pension-scheme"
-  ,
-      "wazir-e-azam-apna-ghar-program"],
+      "federal-contributory-pension-scheme",
+      "wazir-e-azam-apna-ghar-program"
+    ],
   sections: [
     {
       title: "What Is the Prime Minister Youth Loan Scheme 2026?",
@@ -20627,7 +19140,7 @@ officialLinks: [
     date: "September 19, 2026",
     publishedDate: "September 19, 2026",
     readTime: "12 min read",
-    image: "/images/fuel-relief-scheme.jpg",
+    image: "/images/fuel-relief-scheme.webp",
     imageAlt: "Motorcycle commuter refueling at petrol pump under fuel relief subsidy scheme",
     author: contributors.muhammadSalman,
     sections: [
@@ -20867,9 +19380,9 @@ officialLinks: [
     relatedSlugs: [
       "pm-petrol-relief-scheme-updates-2026",
       "fuel-scheme-rs-100-per-litre-petrol-relief-guide",
-      "cm-punjab-green-credit-program-2026-online-apply"
-    ,
-      "how-to-apply-cm-punjab-e-bike-scheme-2026"],
+      "cm-punjab-green-credit-program-2026-online-apply",
+      "cm-punjab-electric-bike-scheme"
+    ],
     title: "PAVE Scheme 2026: Complete Guide to Eligibility, Electric Bike Subsidy & Online Apply",
     excerpt: "The Pakistan Accelerated Vehicle Electrification (PAVE) Scheme 2026 provides up to Rs. 80,000 subsidy for electric bikes and Rs. 400,000 for rickshaws across Pakistan. Apply online via pave.gov.pk on a first-come, first-served basis.",
     showExcerpt: true,
@@ -20908,8 +19421,8 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "17 min read",
-    image: "/images/pave-electric-bike-scheme.jpg",
-    imageAlt: "Electric bike parked in eco-friendly surroundings for PAVE electric bike scheme",
+    image: "/images/pave-scheme-electric-bike-subsidy-online-apply.webp",
+    imageAlt: "PAVE scheme 2026 electric bike subsidy application portal at pave.gov.pk",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -21352,7 +19865,11 @@ officialLinks: [
   },
   {
     slug: "apna-khet-apna-rozgar-scheme-apply-online-2026",
-    relatedSlugs: ["punjab-land-record-check-guide", "nigehban-card-check-guide", "himmat-card-eligibility-check-guide"],
+    relatedSlugs: [
+      "punjab-land-record-check-guide",
+      "nigehban-card-check-guide",
+      "himmat-card-eligibility-check-guide"
+    ],
     title: "Apna Khet Apna Rozgar Scheme Apply Online 2026: Complete Registration Guide, Eligibility & Balloting Status",
     excerpt: "The Punjab Apna Khet Apna Rozgar Scheme 2026 provides landless farmers with 2 to 5 acres of cultivable state land on a 10-year lease at a nominal fee of Rs. 100 per year, bundled with a Rs. 200,000 cultivation grant. Eligible citizens aged 18 to 50 can apply online at akar.pulse.gop.pk using their CNIC.",
     showExcerpt: true,
@@ -21392,7 +19909,7 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "16 min read",
-    image: "/images/apna-khet-apna-rozgar-scheme.jpg",
+    image: "/images/apna-khet-apna-rozgar-scheme.webp",
     imageAlt: "Pakistani farmer inspecting green agricultural crops under the Apna Khet Apna Rozgar farming scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -21751,7 +20268,7 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "14 min read",
-    image: "/images/benazir-kafaalat-case-paused.jpg",
+    image: "/images/benazir-kafaalat-case-paused.webp",
     imageAlt: "Service desk staff explaining BISP Kafaalat paused status resolution and biometric update steps",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -22037,7 +20554,7 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "13 min read",
-    image: "/images/ehsaas-loan-vs-saving-wallet.jpg",
+    image: "/images/ehsaas-loan-vs-saving-wallet.webp",
     imageAlt: "Small business owner utilizing Ehsaas microfinance loan for retail enterprise growth",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -22294,8 +20811,8 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "12 min read",
-    image: "/images/8171-number-verification.jpg",
-    imageAlt: "Pakistani beneficiary checking 8171 SMS status code on a mobile phone for BISP eligibility",
+    image: "/images/8171-check-online-official-web-portal-cnic.webp",
+    imageAlt: "8171 online portal cnic check status official green web portal UI maloom karein",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -22575,7 +21092,7 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "14 min read",
-    image: "/images/taleemi-wazaif.jpg",
+    image: "/images/taleemi-wazaif.webp",
     imageAlt: "Pakistani school children walking to school supported by Benazir Taleemi Wazaif stipends",
     author: contributors.muhammadSalman,
     relatedSlugs: [
@@ -22854,8 +21371,8 @@ officialLinks: [
     publishedDate: "September 20, 2026",
     lastChecked: "September 20, 2026",
     readTime: "13 min read",
-    image: "/images/hero-support.jpg",
-    imageAlt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk",
+    image: "/images/cm-punjab-himmat-card-dpmis-online-apply.webp",
+    imageAlt: "CM Punjab Himmat Card online apply portal DPMIS registration for Rs 10500 stipend",
     author: contributors.muhammadSalman,
     sections: [
       {
@@ -23090,7 +21607,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "13 min read",
-    image: "/images/cm-punjab-kisan-card.jpg",
+    image: "/images/cm-punjab-kisan-card.webp",
     imageAlt: "Pakistani farmer displaying Kisan Card used for purchasing agricultural fertilizers and seeds",
     author: contributors.muhammadSalman,
     sections: [
@@ -23326,14 +21843,13 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "14 min read",
-    image: "/images/apni-chhat-apna-ghar-scheme.jpg",
+    image: "/images/apni-chhat-apna-ghar-scheme.webp",
     imageAlt: "Newly constructed family home under the CM Punjab Apni Chhat Apna Ghar housing loan program",
     author: contributors.muhammadSalman,
     relatedSlugs: [
       "apni-zameen-apna-ghar-balloting-result-2026",
       "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking"
-    ,
+      "cm-punjab-apni-chhat-apna-ghar-loan-installment-tracking",
       "wazir-e-azam-apna-ghar-program",
       "apna-ghar-social-welfare-guide",
       "apna-ghar-housing-scheme",
@@ -23341,7 +21857,8 @@ officialLinks: [
       "housing-welfare-schemes",
       "housing-and-remittance-initiatives",
       "housing-social-cards-punjab",
-      "punjab-solar-housing-updates-2026"],
+      "punjab-solar-housing-updates-2026"
+    ],
     sections: [
       {
         title: "What Is the CM Punjab Apni Chhat Apna Ghar (ACAG) Scheme 2026?",
@@ -23564,7 +22081,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "13 min read",
-    image: "/images/cm-punjab-honhaar-scholarship.jpg",
+    image: "/images/cm-punjab-honhaar-scholarship.webp",
     imageAlt: "Pakistani university scholars benefiting from CM Punjab Honhaar Merit Scholarship Program",
     author: contributors.muhammadSalman,
     sections: [
@@ -23579,7 +22096,7 @@ officialLinks: [
               label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
               href: "/cm-punjab-youth-games-2026-online-registration/"
             },
-          { label: "CM Punjab E-Bike Scheme Phase 2 Updates 2026", href: "/cm-punjab-e-bike-scheme-updates" },
+          { label: "CM Punjab E-Bike Scheme Phase 2 Updates 2026", href: "/cm-punjab-electric-bike-scheme/" },
           { label: "Pink Scooty Scheme 2026 Details", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],
         subsections: [
@@ -23810,7 +22327,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
-    image: "/images/bisp-registration-check-by-cnic.jpg",
+    image: "/images/bisp-registration-check-by-cnic.webp",
     imageAlt: "Checking BISP online registration status using CNIC card details",
     author: contributors.muhammadSalman,
     sections: [
@@ -24034,7 +22551,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "13 min read",
-    image: "/images/cm-punjab-green-tractor-scheme.jpg",
+    image: "/images/cm-punjab-green-tractor-scheme.webp",
     imageAlt: "Brand new green agricultural tractor delivered under CM Punjab Green Tractor Scheme",
     author: contributors.muhammadSalman,
     sections: [
@@ -24247,7 +22764,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
-    image: "/images/cm-punjab-dhee-rani-program.jpg",
+    image: "/images/cm-punjab-dhee-rani-program.webp",
     imageAlt: "Bridal assistance gift packages and household items for CM Punjab Dhee Rani program",
     author: contributors.muhammadSalman,
     sections: [
@@ -24458,7 +22975,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
-    image: "/images/cm-punjab-solar-panel-scheme.jpg",
+    image: "/images/cm-punjab-solar-panel-scheme.webp",
     imageAlt: "Rooftop solar panel system installed on home under CM Punjab Solar Panel Scheme",
     author: contributors.muhammadSalman,
     sections: [
@@ -24663,7 +23180,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
-    image: "/images/cm-punjab-livestock-card-scheme.jpg",
+    image: "/images/cm-punjab-livestock-card-scheme.webp",
     imageAlt: "Cattle farmer tending to livestock funded through CM Punjab Livestock Card scheme",
     author: contributors.muhammadSalman,
     sections: [
@@ -24872,15 +23389,15 @@ officialLinks: [
     relatedSlugs: [
       "8171-check-online-kaise-karein",
       "8171-web-portal-not-working",
-      "bisp-registration-check-by-cnic-kaise-karein"
-    ,
+      "bisp-registration-check-by-cnic-kaise-karein",
       "cm-punjab-rehmat-card-2026",
-      "punjab-solar-housing-updates-2026"],
+      "punjab-solar-housing-updates-2026"
+    ],
     date: "September 21, 2026",
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
-    image: "/images/bisp-8171-balance-check-online.jpg",
+    image: "/images/bisp-8171-balance-check-online.webp",
     imageAlt: "Pakistani woman performing biometric verification at bank ATM for BISP 8171 balance check",
     author: contributors.muhammadSalman,
     sections: [
@@ -25072,8 +23589,8 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "10 min read",
-    image: "/images/bisp-8171-balance-check-online.jpg",
-    imageAlt: "Pakistani woman performing biometric verification at bank ATM for BISP 8171 balance check",
+    image: "/images/bisp-8171-paise-check-karne-ka-tarika-atm-cash.webp",
+    imageAlt: "BISP 8171 paise check karne ka tarika ATM biometric cash withdrawal aur payment slip sample",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
     sections: [
@@ -25264,7 +23781,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
-    image: "/images/benazir-kafaalat.jpg",
+    image: "/images/benazir-kafaalat.webp",
     imageAlt: "Pakistani beneficiary holding official receipt after receiving Benazir Kafaalat quarterly cash stipend",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -25443,7 +23960,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "12 min read",
-    image: "/images/bisp-registration.jpg",
+    image: "/images/bisp-registration.webp",
     imageAlt: "Survey officer conducting household registration for BISP program at Tehsil desk",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -25627,8 +24144,8 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "10 min read",
-    image: "/images/taleemi-wazaif.jpg",
-    imageAlt: "Pakistani school children walking to school supported by Benazir Taleemi Wazaif stipends",
+    image: "/images/benazir-taleemi-wazaif-form-download-school-slip.webp",
+    imageAlt: "Benazir Taleemi Wazaif form download aur jama karne ka tarika school admission slip verification",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     relatedSlugs: [
@@ -25815,7 +24332,7 @@ officialLinks: [
     publishedDate: "September 21, 2026",
     lastChecked: "September 21, 2026",
     readTime: "11 min read",
-    image: "/images/bisp-helpline-complaint.jpg",
+    image: "/images/bisp-helpline-complaint.webp",
     imageAlt: "Helpline support headset and desk setup for submitting BISP complaints",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -26008,7 +24525,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
-    image: "/images/bisp-tehsil-office-lahore.jpg",
+    image: "/images/bisp-tehsil-office-lahore.webp",
     imageAlt: "Lahore Tehsil registration office building for BISP survey and beneficiary assistance",
     author: contributors.muhammadSalman,
     sections: [
@@ -26351,7 +24868,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "10 min read",
-    image: "/images/bisp-office-rawalpindi.jpg",
+    image: "/images/bisp-office-rawalpindi.webp",
     imageAlt: "Exterior facade of public service center in Rawalpindi offering BISP dynamic survey desks",
     author: contributors.muhammadSalman,
     sections: [
@@ -26659,7 +25176,7 @@ officialLinks: [
     publishedDate: "September 22, 2026",
     lastChecked: "September 22, 2026",
     readTime: "11 min read",
-    image: "/images/bisp-tehsil-office-karachi.jpg",
+    image: "/images/bisp-tehsil-office-karachi.webp",
     imageAlt: "Public facilitation facility building in Karachi serving BISP registration applicants",
     author: contributors.muhammadSalman,
     sections: [
@@ -27027,7 +25544,7 @@ officialLinks: [
     publishedDate: "September 23, 2026",
     lastChecked: "September 23, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-atm-withdrawal.jpg",
+    image: "/images/bisp-atm-withdrawal.webp",
     imageAlt: "Biometric ATM dispensing quarterly BISP Kafaalat cash stipend to beneficiary",
     author: contributors.muhammadSalman,
     sections: [
@@ -27247,7 +25764,7 @@ officialLinks: [
     publishedDate: "September 23, 2026",
     lastChecked: "September 23, 2026",
     readTime: "9 min read",
-    image: "/images/bisp-dynamic-survey-documents.jpg",
+    image: "/images/bisp-dynamic-survey-documents.webp",
     imageAlt: "Required household verification documents for BISP NSER dynamic survey registration",
     author: contributors.muhammadSalman,
     sections: [
@@ -27443,7 +25960,7 @@ officialLinks: [
     publishedDate: "September 23, 2026",
     lastChecked: "September 23, 2026",
     readTime: "9 min read",
-    image: "/images/sehat-card-plus-kpk.jpg",
+    image: "/images/sehat-card-plus-kpk.webp",
     imageAlt: "Doctor providing medical care to patient under KPK Sehat Card Plus free hospital treatment scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -27636,7 +26153,7 @@ officialLinks: [
     publishedDate: "September 23, 2026",
     lastChecked: "September 23, 2026",
     readTime: "9 min read",
-    image: "/images/ehsaas-undergraduate-scholarship.jpg",
+    image: "/images/ehsaas-undergraduate-scholarship.webp",
     imageAlt: "Undergraduate university students benefiting from Ehsaas tuition scholarship",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -27819,7 +26336,7 @@ officialLinks: [
     publishedDate: "2026-09-24",
     lastChecked: "2026-09-24",
     readTime: "9 min read",
-    image: "/images/benazir-nashonuma-program.jpg",
+    image: "/images/benazir-nashonuma-program.webp",
     imageAlt: "Healthcare worker offering nutritional support to mother and baby in Benazir Nashonuma clinic program",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -28018,7 +26535,7 @@ officialLinks: [
     publishedDate: "2026-09-24",
     lastChecked: "2026-09-24",
     readTime: "9 min read",
-    image: "/images/cm-punjab-free-laptop-scheme.jpg",
+    image: "/images/cm-punjab-free-laptop-scheme.webp",
     imageAlt: "Meritorious university student working on a laptop provided under CM Punjab Free Laptop Scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
@@ -28034,7 +26551,7 @@ officialLinks: [
               label: "CM Punjab Youth Games 2026: Online Apply & Sports Guide",
               href: "/cm-punjab-youth-games-2026-online-registration/"
             },
-          { label: "CM Punjab E-Bike Scheme Phase 2 Registration", href: "/cm-punjab-e-bike-scheme-updates" },
+          { label: "CM Punjab E-Bike Scheme Phase 2 Registration", href: "/cm-punjab-electric-bike-scheme/" },
           { label: "Pink Scooty Scheme 2026 Registration & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting" }
         ],
         subsections: [
@@ -28209,7 +26726,7 @@ officialLinks: [
     publishedDate: "2026-09-24",
     lastChecked: "2026-09-24",
     readTime: "9 min read",
-    image: "/images/sindh-hari-card-scheme.jpg",
+    image: "/images/sindh-hari-card-scheme.webp",
     imageAlt: "Sindhi farmer holding Hari Card in agricultural field for farmer subsidies",
     author: contributors.muhammadSalman,
     reviewer: contributors.saadHassan,
@@ -28407,7 +26924,7 @@ officialLinks: [
     publishedDate: "September 24, 2026",
     lastChecked: "September 24, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-direct-bank-account-transfer.jpg",
+    image: "/images/bisp-direct-bank-account-transfer.webp",
     imageAlt: "Bank teller handing account documents to beneficiary for BISP direct bank transfer system",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -28620,7 +27137,7 @@ officialLinks: [
     publishedDate: "September 24, 2026",
     lastChecked: "September 24, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-tehsil-office-faisalabad.jpg",
+    image: "/images/bisp-tehsil-office-faisalabad.webp",
     imageAlt: "Front entrance of Faisalabad Tehsil office location for BISP survey and registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -28822,7 +27339,7 @@ officialLinks: [
     publishedDate: "September 24, 2026",
     lastChecked: "September 24, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-tehsil-office-multan.jpg",
+    image: "/images/bisp-tehsil-office-multan.webp",
     imageAlt: "Multan public service administrative building offering BISP dynamic survey registration",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
@@ -29029,7 +27546,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-taleemi-wazaif-70-attendance-rule-verification.jpg",
+    image: "/images/bisp-taleemi-wazaif-70-attendance-rule-verification.webp",
     imageAlt: "School teacher checking student attendance record for BISP Taleemi Wazaif stipend eligibility",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -29165,7 +27682,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
-    image: "/images/benazir-mazdoor-card-registration-online-2026.jpg",
+    image: "/images/benazir-mazdoor-card-registration-online-2026.webp",
     imageAlt: "Pakistani industrial worker holding worker registration card under Benazir Mazdoor Card scheme",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -29285,7 +27802,7 @@ officialLinks: [
     publishedDate: "September 26, 2026",
     lastChecked: "September 26, 2026",
     readTime: "8 min read",
-    image: "/images/bisp-deceased-beneficiary-payment-transfer-procedure.jpg",
+    image: "/images/bisp-deceased-beneficiary-payment-transfer-procedure.webp",
     imageAlt: "Official legal heir paperwork for transferring deceased beneficiary BISP stipend",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -29401,7 +27918,7 @@ officialLinks: [
     categorySlugs: ["taleemi-wazaif", "8171"],
     date: "September 26, 2026",
     readTime: "6 min read",
-    image: "/images/bisp-taleemi-wazaif-stipend-rates-2026.jpg",
+    image: "/images/bisp-taleemi-wazaif-stipend-rates-2026.webp",
     imageAlt: "School textbooks and educational supplies representing BISP Taleemi Wazaif quarterly stipend rates",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -29538,7 +28055,7 @@ officialLinks: [
     categorySlugs: ["8171", "nser-survey"],
     date: "September 26, 2026",
     readTime: "6 min read",
-    image: "/images/ehsaas-kafalat-invalid-cnic-nser-update.jpg",
+    image: "/images/ehsaas-kafalat-invalid-cnic-nser-update.webp",
     imageAlt: "Updating invalid CNIC status and marital records for Ehsaas Kafalat eligibility",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -29669,7 +28186,7 @@ officialLinks: [
     date: "September 29, 2026",
     publishedDate: "September 29, 2026",
     readTime: "11 min read",
-    image: "/images/pm-petrol-relief-scheme-updates.jpg",
+    image: "/images/pm-petrol-relief-scheme-updates.webp",
     imageAlt: "Drivers lined up at fuel pump receiving PM Petrol Relief Scheme subsidy",
     author: contributors.muhammadSalman,
     sections: [
@@ -29850,11 +28367,11 @@ officialLinks: [
     relatedSlugs: [
       "prime-minister-youth-loan-scheme-2026",
       "ehsaas-interest-free-loan-vs-saving-wallet",
-      "bisp-direct-bank-account-transfer-online-registration"
-    ,
+      "bisp-direct-bank-account-transfer-online-registration",
       "wazir-e-azam-apna-ghar-program",
       "national-savings-profit-rates",
-      "pasban-remittance-reward-scheme"],
+      "pasban-remittance-reward-scheme"
+    ],
     title: "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
     excerpt: "Pakistan's Federal Contributory Pension Scheme (FGDC) covers federal employees hired after 1 July 2024. The employee contributes 10% and the government 12% (22% total) into an individually invested fund managed by licensed pension fund managers.",
     showExcerpt: true,
@@ -29887,7 +28404,7 @@ officialLinks: [
     publishedDate: "September 30, 2026",
     lastChecked: "September 30, 2026",
     readTime: "12 min read",
-    image: "/images/federal-contributory-pension-scheme.jpg",
+    image: "/images/federal-contributory-pension-scheme.webp",
     imageAlt: "Retired government employee reviewing Federal Contributory Pension Scheme documents",
     author: contributors.muhammadSalman,
     sections: [
@@ -30194,7 +28711,7 @@ officialLinks: [
     publishedDate: "September 30, 2026",
     lastChecked: "September 30, 2026",
     readTime: "11 min read",
-    image: "/images/transport-fuel-relief-options.jpg",
+    image: "/images/transport-fuel-relief-options.webp",
     imageAlt: "Urban public transport buses and electric mobility options under fuel relief schemes",
     author: contributors.muhammadSalman,
     officialLinks: [
@@ -30427,7 +28944,7 @@ officialLinks: [
   "publishedDate": "2026-10-07",
   "lastChecked": "2026-10-07",
   "readTime": "8 min read",
-  "image": "/images/electric-bike-transport-schemes.jpg",
+  "image": "/images/electric-bike-transport-schemes.webp",
   "imageAlt": "Electric Bike & Transport Schemes Complete Guide 2026",
   author: contributors.muhammadSalman,
   reviewer: contributors.ayeshaMalik,
@@ -30792,8 +29309,8 @@ officialLinks: [
     publishedDate: "October 7, 2026",
     lastChecked: "October 7, 2026",
     readTime: "12 min read",
-    image: "/images/bisp-cnic-status-check.jpg",
-    imageAlt: "Official guide to Benazir Income Support Programme BISP 8171 payment check and eligibility",
+    image: "/images/benazir-income-support-programme-bisp-8171-official-guide.webp",
+    imageAlt: "Benazir Income Support Programme BISP 8171 payment eligibility and registration guide",
     author: contributors.saadHassan,
     reviewer: contributors.ayeshaMalik,
     officialLinks: [
@@ -31022,7 +29539,7 @@ officialLinks: [
     categorySlugs: ["other-schemes", "taleemi-wazaif"],
     date: "October 9, 2026",
     readTime: "8 min read",
-    image: "/images/scotland-pakistan-scholarships.jpg",
+    image: "/images/scotland-pakistan-scholarships.webp",
     imageAlt: "Scotland Pakistan Scholarships for Young Women and Girls Complete Guide",
     author: contributors.muhammadSalman,
     reviewer: contributors.ayeshaMalik,
@@ -31220,227 +29737,7 @@ officialLinks: [
         answer: "The application deadline for the 2026-27 academic cycle was extended to September 15, 2026. Applicants should monitor the official British Council Pakistan portal for announcements regarding future application windows."
       }
     ]
-  },
-  {
-    slug: "cm-and-pm-electric-bike-schemes",
-    title: "CM and PM Electric Bike Schemes in Pakistan: Complete Application & Eligibility Guide",
-    excerpt: "The CM Punjab Electric Bike Scheme offers regular university students in Punjab 0% interest financing via the Bank of Punjab with PKR 3,028 monthly installments over 36 months, whereas the federal PM Electric Bike Scheme (PAVE) provides nationwide applicants a direct price subsidy of up to PKR 80,000 per electric motorcycle. Both programs aim to reduce fuel import costs and promote green transportation.",
-    showExcerpt: true,
-    metaTitle: "CM and PM Electric Bike Schemes: Eligibility, Subsidy & Apply Guide (2026)",
-    metaDescription: "Compare CM Punjab and PM PAVE Electric Bike Schemes. Discover eligibility criteria, interest-free installment plans, Rs 80k subsidies, LFP battery specs, and official application portals.",
-    focusKeyword: "CM and PM Electric Bike Schemes",
-    lsiKeywords: [
-      "CM Punjab Electric Bike Scheme 2026",
-      "PM Electric Bike Scheme PAVE portal",
-      "Punjab E-Bike Scheme eligibility criteria",
-      "PM E-Bike subsidy amount",
-      "bikes punjab gov pk online registration",
-      "pave gov pk application portal",
-      "interest free electric bike installment plan",
-      "lithium iron phosphate battery e bike pakistan"
-    ],
-    entities: [
-      "Muhammad Salman",
-      "Chief Minister Punjab Student E-Bike Scheme",
-      "Prime Minister Federal Electric Bike Scheme (PAVE)",
-      "Bank of Punjab",
-      "PITB Computerized Balloting",
-      "Lithium Iron Phosphate (LFP) Battery",
-      "Punjab Traffic Police Riding Training",
-      "Government Employees (BPS 1-16)"
-    ],
-    primaryCategory: "Punjab Schemes",
-    categorySlugs: ["punjab-schemes", "other-schemes"],
-    date: "October 09, 2026",
-    publishedDate: "2026-10-09",
-    lastChecked: "October 09, 2026",
-    readTime: "9 min read",
-    image: "/images/cm-punjab-e-bikes-scheme-phase-2.jpg",
-    imageAlt: "CM and PM Electric Bike Schemes Pakistan Comparison and Eligibility Guide",
-    author: contributors.muhammadSalman,
-    reviewer: contributors.ayeshaMalik,
-    officialLinks: [
-      { label: "Official Punjab E-Bikes Portal", href: "https://bikes.punjab.gov.pk/" },
-      { label: "Official Federal PAVE Portal", href: "https://pave.gov.pk/" },
-      { label: "Bank of Punjab E-Bike Financing Portal", href: "https://www.bop.com.pk/" }
-    ],
-    relatedSlugs: [
-      "electric-bike-scheme-expansions",
-      "cm-punjab-e-bikes-scheme-phase-2",
-      "maryam-nawaz-electric-bike-scheme-2026",
-      "pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply",
-      "pink-scooty-scheme-2026-registration-eligibility-documents-balloting",
-      "punjab-rozgar-scheme-guide",
-      "pm-youth-business-loan-guide"
-    ],
-    sections: [
-      {
-        title: "What Are the CM and PM Electric Bike Schemes in Pakistan?",
-        paragraphs: [
-          "Pakistan's federal and provincial governments have launched targeted electric vehicle initiatives to reduce urban pollution and lower transport costs for students, civil servants, and commuters. While both initiatives promote zero-emission transportation, they operate under distinct administrative frameworks, budgets, and eligibility criteria.",
-          "The Chief Minister Punjab Electric Bike Scheme, spearheaded by Chief Minister Maryam Nawaz and managed through the Punjab Information Technology Board (PITB), focuses primarily on regular students enrolled in higher education institutions across Punjab. The provincial government pays the complete interest markup and registration fees, allowing students to acquire an electric motorcycle through 36 interest-free monthly installments. In Phase II, the scheme expands to include government school teachers and civil servants up to BPS-16.",
-          "The Prime Minister Electric Bike Scheme operates under the Pakistan Accelerated Vehicle Electrification (PAVE) framework administered by the Ministry of Industries & Production and SMEDA. Unlike provincial loan models, PAVE delivers an immediate price subsidy of PKR 80,000 for individual electric motorcycles and up to PKR 400,000 for commercial e-trikes. The federal initiative covers citizens across all four provinces, Azad Jammu & Kashmir (AJK), and Gilgit-Baltistan."
-        ],
-        links: [
-          { label: "CM Punjab E-Bikes Scheme Phase 2 Details", href: "/cm-punjab-e-bikes-scheme-phase-2/" },
-          { label: "Federal PAVE Scheme Eligibility & Subsidy", href: "/pave-scheme-2026-eligibility-electric-bike-subsidy-online-apply/" }
-        ]
-      },
-      {
-        title: "CM vs PM Electric Bike Schemes: What Is the Difference?",
-        paragraphs: [
-          "Understanding the operational differences between the Punjab provincial program and the federal scheme is essential before submitting an online application. The primary difference lies in the financial delivery: Punjab uses a bank-financed loan model where the government absorbs all interest charges, while the Federal PAVE scheme acts as a price write-down at the point of sale."
-        ],
-        table: {
-          caption: "Comprehensive Comparison: CM Punjab vs. PM Federal PAVE E-Bike Schemes",
-          headers: ["Feature / Metric", "CM Punjab Electric Bike Scheme", "PM Federal PAVE E-Bike Scheme"],
-          rows: [
-            ["Administrative Scope", "Punjab Province only", "Nationwide (4 Provinces, AJK, GB)"],
-            ["Primary Beneficiaries", "Regular University & College Students, Teachers, BPS 1-16 Staff", "All Pakistani Citizens (Ages 18–65), Youth & Small Businesses"],
-            ["Financial Mechanism", "0% Interest Financing via Bank of Punjab (BOP)", "Direct Capital Subsidy (Up to PKR 80,000 discount)"],
-            ["Installment Plan", "36 Months (~PKR 3,028 / month)", "Partner Bank Financing or Outright Subsidized Purchase"],
-            ["Battery Technology", "Lithium Iron Phosphate (LFP) Packs", "Certified OEM Lithium-ion / LFP Batteries"],
-            ["Government Perks", "Free Helmet, Safety Rod & 2-Day Riding Training", "Price Discount at OEM Dealership"],
-            ["Color & Gender Quota", "Black (Male) & Pink (Female) 50:50 Quota", "Open Commercial Color Options"],
-            ["Total Program Quota", "100,000 Units (Phase II)", "116,000 Units (FY 2026 Quota)"],
-            ["Selection Mechanism", "PITB Computerized E-Balloting", "First-Come, First-Served Allocation"],
-            ["Official Online Portal", "bikes.punjab.gov.pk", "pave.gov.pk"]
-          ]
-        },
-        links: [
-          { label: "2026 Electric Bike Scheme Expansions Overview", href: "/electric-bike-scheme-expansions/" }
-        ]
-      },
-      {
-        title: "Who Is Eligible for the CM Punjab Electric Bike Scheme?",
-        paragraphs: [
-          "Eligibility for the Punjab Chief Minister Electric Bike Scheme requires verified residency, active educational enrollment, and specific personal identification documents.",
-          "Applicants must be regular students enrolled in a degree program at a Public or Private University or Graduate College recognized by the Higher Education Commission (HEC). Female students receive a dedicated 50% quota under the Pink Bike initiative to encourage female mobility across Punjab campuses.",
-          "Every applicant must possess a valid CNIC showing Punjab domicile and a valid motorcycle driving license or learner's permit issued by Punjab Traffic Police. Applicants must also provide a parent, spouse, or sibling as a financial guarantor who possesses a clean Electronic Credit Information Bureau (ECIB) clearance report with no default history at the Bank of Punjab."
-        ],
-        links: [
-          { label: "Pink Scooty Scheme Eligibility & Balloting", href: "/pink-scooty-scheme-2026-registration-eligibility-documents-balloting/" }
-        ]
-      },
-      {
-        title: "Who Is Eligible for the PM Federal Electric Bike Scheme (PAVE)?",
-        paragraphs: [
-          "The federal PAVE initiative has broader eligibility rules designed to democratize electric vehicle adoption across the country.",
-          "Any Pakistani citizen aged 18 to 65 possessing a valid CNIC and a motorcycle driving license is eligible to apply for the federal subsidy. Applicants are eligible regardless of whether they are self-employed, private employees, or students, provided they have not previously received a federal vehicle subsidy.",
-          "The PAVE framework allocates dedicated quotas for federal civil servants in grades BPS-1 to BPS-16, young entrepreneurs, and delivery workers. Special provisions also exist for small business owners seeking subsidized electric loaders to convert commercial transport from petrol to electric power."
-        ],
-        links: [
-          { label: "PM Youth Business & Agriculture Loan Guide", href: "/pm-youth-business-loan-guide/" }
-        ]
-      },
-      {
-        title: "Technical Specifications, Battery Safety & Student Perks",
-        paragraphs: [
-          "Beyond financial assistance, the 2026 e-bike schemes incorporate enhanced battery safety standards and student protection measures.",
-          "The electric motorcycles deployed in the CM Punjab scheme feature advanced Lithium Iron Phosphate (LFP) battery chemistry. LFP batteries offer superior thermal stability, preventing overheating during intense summer conditions, while providing an operational range of 60 to 100 km per charge with over 2,000 charge-discharge cycles.",
-          "To ensure equitable access, the Punjab government reserves pink-colored electric bikes for female applicants and sleek black-colored models for male applicants. Furthermore, every successful student receives a complimentary helmet, custom crash safety rods, and mandatory 2-day hands-on riding training conducted free of charge by the Punjab Traffic Police."
-        ]
-      },
-      {
-        title: "How Do the Subsidy and Interest-Free Installment Plans Work?",
-        paragraphs: [
-          "Both schemes significantly lower the barrier to owning an electric motorcycle, but they structure financial assistance differently.",
-          "Under the Punjab scheme, the total cost of an electric motorcycle (typically around PKR 199,000) is reduced to a student-payable balance of PKR 109,000. The Punjab government pays the Bank of Punjab (BOP) all interest markup, token tax, vehicle registration fees, and initial insurance coverage. Students pay zero down payment and settle the remaining amount in 36 equal monthly installments of PKR 3,028.",
-          "The Federal PAVE Program reduces the retail price of certified electric bikes at the manufacturer level. Upon approval through the federal portal, the government disburses PKR 80,000 directly to the authorized original equipment manufacturer (OEM), such as Metro, Yadea, Vlektra, or Ecodost. The applicant pays only the remaining balance upfront or finances it through partner commercial banks."
-        ],
-        links: [
-          { label: "Punjab Rozgar Subsidized Loan Guide", href: "/punjab-rozgar-scheme-guide/" }
-        ]
-      },
-      {
-        title: "How to Apply Online for the CM Punjab Electric Bike Scheme?",
-        paragraphs: [
-          "Applying for the Punjab e-bike program is conducted through a structured 5-section submission process on the official government portal bikes.punjab.gov.pk.",
-          "Step 1 (Account Registration): Visit bikes.punjab.gov.pk and register an account using your CNIC, mobile number, and active email address.",
-          "Step 2 (Section 1 & 2 - Personal & Guarantor Info): Input full name, domicile district, CNIC, and guarantor details (CNIC and income proof for ECIB clearance).",
-          "Step 3 (Section 3 - Educational Institution Verification): Select your HEC-recognized university or college and upload student ID verification.",
-          "Step 4 (Section 4 & 5 - References & Declaration): Enter personal references, upload your valid driving license or learner permit, and sign the digital declaration.",
-          "After the application window closes, the Punjab Information Technology Board (PITB) conducts a transparent computerized draw (e-balloting). Successful candidates receive an official SMS notification and must present original documents at a designated Bank of Punjab branch for final ECIB verification before vehicle delivery."
-        ],
-        links: [
-          { label: "Maryam Nawaz Electric Bike Scheme 2026 Guide", href: "/maryam-nawaz-electric-bike-scheme-2026/" }
-        ]
-      },
-      {
-        title: "How to Apply Online for the PM Federal Electric Bike Scheme?",
-        paragraphs: [
-          "The federal application process utilizes a streamlined digital allocation workflow on the national PAVE portal.",
-          "Access the official federal portal at pave.gov.pk and create an applicant profile with your CNIC, contact information, and province of residence.",
-          "Select your preferred electric bike brand and model from the list of approved manufacturers, upload your CNIC, driving license, and bank details for subsidy verification, and submit the application to generate a unique Federal Tracking ID.",
-          "Because PAVE operates on a first-come, first-served basis within provincial quotas, early submission is vital. Once verified, selected applicants receive a digital authorization voucher to deposit their remaining balance at an authorized bank or dealership, after which the manufacturer delivers the subsidized e-bike."
-        ]
-      },
-      {
-        title: "What Are the Key Application Traps to Avoid? (Decision Checklist)",
-        paragraphs: [
-          "To ensure your application passes both government balloting and bank scrutiny, review this pre-submission checklist:"
-        ],
-        bullets: [
-          "Valid Driving License / Learner Permit: Ensure your learner's permit or full motorcycle license is valid and not expired.",
-          "Guarantor ECIB Clearance: Confirm that your parent or spouse guarantor has no outstanding bank defaults or late credit card payments.",
-          "Official Portal URL Verification: Only submit sensitive documents on .gov.pk domains (bikes.punjab.gov.pk or pave.gov.pk). Never pay application fees to private third-party websites.",
-          "CNIC Domicile Match: Verify that your CNIC matches the target scheme (Punjab domicile for CM scheme; any valid Pakistani CNIC for PM scheme).",
-          "Single Vehicle Rule: Ensure you have not previously received a subsidized vehicle under any provincial or federal government program."
-        ]
-      }
-    ],
-    faqs: [
-      {
-        question: "What is the primary difference between the CM and PM Electric Bike Schemes?",
-        answer: "The CM Punjab Electric Bike Scheme offers 0% interest financing over 36 months specifically for Punjab students and staff via the Bank of Punjab, whereas the PM Federal Electric Bike Scheme (PAVE) provides a direct price subsidy of PKR 80,000 to citizens across all provinces in Pakistan."
-      },
-      {
-        question: "Who is eligible to apply for the Punjab CM Electric Bike Scheme?",
-        answer: "Regular students enrolled in HEC-recognized public or private universities and graduate colleges in Punjab, as well as government teachers and employees in BPS 1-16, are eligible provided they possess a valid CNIC and driving license."
-      },
-      {
-        question: "What type of battery is used in the CM Punjab Electric Bikes?",
-        answer: "The CM Punjab Electric Bikes use durable Lithium Iron Phosphate (LFP) batteries, which provide enhanced thermal stability, long cycle life, and a driving range of 60 to 100 km per charge."
-      },
-      {
-        question: "What extra perks and safety equipment do selected Punjab students receive?",
-        answer: "Selected students receive a free safety helmet, installed vehicle crash protection rods, and two days of free riding training conducted by the Punjab Traffic Police."
-      },
-      {
-        question: "What is the official website for the Punjab CM Electric Bike Scheme?",
-        answer: "The official website for online registration and status checking for the Punjab CM Electric Bike Scheme is bikes.punjab.gov.pk."
-      },
-      {
-        question: "How much is the monthly installment for the Punjab CM Electric Bike?",
-        answer: "The monthly installment for the Punjab CM Electric Bike is approximately PKR 3,028 paid over a 36-month tenure with zero interest markup."
-      },
-      {
-        question: "What is the subsidy amount under the PM Federal PAVE E-Bike Scheme?",
-        answer: "The PM Federal PAVE Scheme provides a direct capital subsidy of PKR 80,000 per electric motorcycle and up to PKR 400,000 for commercial electric loaders and trikes."
-      },
-      {
-        question: "What is the official website for the PM Federal Electric Bike Scheme?",
-        answer: "The official website for the federal PAVE electric bike scheme is pave.gov.pk."
-      },
-      {
-        question: "Can students from Sindh, KPK, or Balochistan apply for the CM Punjab Scheme?",
-        answer: "Students from other provinces can only apply for the CM Punjab scheme if they are enrolled as regular students in an institution located within Punjab and possess institutional verification."
-      },
-      {
-        question: "Is a driving license mandatory for applying for an electric bike scheme?",
-        answer: "Yes, a valid motorcycle driving license or a valid learner's permit is mandatory for both the CM Punjab and PM Federal electric bike schemes."
-      },
-      {
-        question: "How are candidates selected for the CM Punjab Electric Bike Scheme?",
-        answer: "Candidates for the CM Punjab scheme are selected through a computerized e-balloting system managed by the Punjab Information Technology Board (PITB) following document verification by the Bank of Punjab."
-      },
-      {
-        question: "How does selection work for the PM Federal PAVE Scheme?",
-        answer: "Selection for the PM Federal PAVE scheme operates on a first-come, first-served basis within designated provincial and sector quotas."
-      }
-    ]
-  },
-];
+  },];
 
 export const informationPages: InformationPage[] = [
   {

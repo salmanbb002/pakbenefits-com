@@ -44,3 +44,46 @@ All structural changes, consolidations, 301 redirects, snippet overhauls, and co
 - **Scheduled Performance Re-checks in GSC:**
   - **2-Week Re-check Date:** October 24, 2026 (Verify that clone drops and master consolidates impressions to break into Top 3).
   - **4-Week Re-check Date:** November 7, 2026 (Verify combined click growth).
+
+---
+
+## [2026-10-10] — Phase 2: Cluster 2 Consolidation (Punjab E-Bikes Keyword Cannibalization)
+- **Target Cluster:** Punjab E-Bikes Scheme / Electric Two-Wheeler Welfare Initiatives
+- **Master URL:** `/cm-punjab-electric-bike-scheme/` (`CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments`)
+- **Consolidated / Retired URLs (7 Pages):**
+  1. `/how-to-apply-cm-punjab-e-bike-scheme-2026/`
+  2. `/cm-punjab-e-bikes-scheme-phase-2/`
+  3. `/cm-punjab-e-bike-scheme-updates/`
+  4. `/maryam-nawaz-electric-bike-scheme-2026/`
+  5. `/electric-bike-scheme-expansions/`
+  6. `/cm-and-pm-electric-bike-schemes/`
+  7. `/provincial-bike-transport-schemes/`
+  8. Alias: `/punjab-e-bike-scheme-apply-online/`
+- **Changes Executed:**
+  1. **Comprehensive Master Pillar Consolidation:**
+     - Merged Phase 2 updates (100,000 electric bikes quota across all 36 Punjab districts, Rs. 90,000 non-repayable capital subsidy, zero down payment waiver).
+     - Merged Bank of Punjab (BOP) 0% markup financing plan: Rs. 3,028/month fixed micro-installments over 36 months, SBP debt burden ratio (DBR <= 40%), and guarantor requirements.
+     - Added full comparative tables:
+       - *CM Punjab Electric Bike Scheme Financing Terms vs Commercial EV Financing*
+       - *Electric Scooty vs Petrol Motorcycle Monthly Cost & Savings Comparison* (Rs. 13,000+ monthly savings)
+       - *Official CM Punjab Electric Scooty Technical Specifications* (72V 30Ah LiFePO4 battery, 1,000W BLDC motor, 50-55 km/h, 75-85 km range)
+       - *Common Portal Application Errors & Verified Technical Fixes*
+       - *National and Provincial Electric Bike Schemes Comparison Matrix 2026* (CM Punjab vs Federal PAVE vs Sindh Pink Scooty)
+     - Merged comprehensive eligibility rules: regular HEC university/college students, 50% reserved female quota (Pink Scooties), school teachers (PTF portal), and BPS 1-16 government employees.
+     - Standardized driving license rules: DLIMS motorcycle driving license / learner permit (minimum age 16 for learner/juvenile permit, 18 for full license).
+     - Standardized 10 high-intent FAQs with direct standalone answers matching schema.
+  2. **Removed Redundant Routes from Repository:**
+     - Removed all 7 redundant article objects from `src/data/content.ts` (1,000+ duplicate lines removed).
+     - Cleaned `relatedSlugs` and internal href links across all articles so they point directly to the Master URL `/cm-punjab-electric-bike-scheme/`.
+  3. **301 Permanent Redirects Configured (`vercel.json`):**
+     - Configured 16 permanent 301 redirect rules (both with and without trailing slash) in `vercel.json` transferring 100% link equity to `/cm-punjab-electric-bike-scheme/`.
+     - Zero redirect chains (direct single-hop 301).
+  4. **CLI Automation & Cannibalization Prevention Guard:**
+     - Implemented `scripts/check-duplicate-topics.mjs` to block future collision on consolidated topics (Punjab E-Bikes, BISP Biometric Verification, BISP Balance Check).
+     - Integrated guard into `scripts/publish_article.cjs` and `package.json` (`npm run check:cannibalization` and `npm run seo:qa`).
+  5. **Verification:**
+     - Validated zero retired slugs in `content.ts`.
+     - `check-duplicate-topics.mjs` passed with 0 violations.
+- **Scheduled Performance Re-checks in GSC:**
+  - **2-Week Re-check Date:** October 24, 2026 (Verify cannibalized positions 18-45 consolidate toward Page 1).
+  - **4-Week Re-check Date:** November 7, 2026 (Verify impressions concentration and CTR acceleration on Master URL).

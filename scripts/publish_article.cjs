@@ -12,6 +12,17 @@ let contentTs = fs.readFileSync(contentTsPath, 'utf8');
 
 const slug = "major-government-schemes-updates-september-october-2026";
 
+// Cannibalization & Duplicate Topic Guard
+const forbiddenKeywords = [
+  'punjab e-bike', 'punjab electric bike', 'cm punjab e-bike', 'maryam nawaz electric bike',
+  'how to apply cm punjab e-bike', 'e-bike scheme phase 2', 'electric bike scheme expansions',
+  'bisp biometric verification failed', 'bisp biometric fingerprint solution', 'bisp payment check guide'
+];
+if (forbiddenKeywords.some(kw => slug.includes(kw.replace(/\s+/g, '-')))) {
+  console.error(`[CANNIBALIZATION BLOCKED] Topic "${slug}" is consolidated into an existing master page. Update the master article instead of creating a new post.`);
+  process.exit(1);
+}
+
 if (contentTs.includes(`slug: "${slug}"`)) {
   console.log("Article already present in content.ts!");
   process.exit(0);

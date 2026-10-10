@@ -35,6 +35,86 @@
       "statusCode": 301
     },
     {
+      "source": "/how-to-apply-cm-punjab-e-bike-scheme-2026",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/how-to-apply-cm-punjab-e-bike-scheme-2026/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cm-punjab-e-bikes-scheme-phase-2",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cm-punjab-e-bikes-scheme-phase-2/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cm-punjab-e-bike-scheme-updates",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cm-punjab-e-bike-scheme-updates/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/maryam-nawaz-electric-bike-scheme-2026",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/maryam-nawaz-electric-bike-scheme-2026/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/electric-bike-scheme-expansions",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/electric-bike-scheme-expansions/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cm-and-pm-electric-bike-schemes",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cm-and-pm-electric-bike-schemes/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/provincial-bike-transport-schemes",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/provincial-bike-transport-schemes/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/punjab-e-bike-scheme-apply-online",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
+      "source": "/punjab-e-bike-scheme-apply-online/",
+      "destination": "/cm-punjab-electric-bike-scheme/",
+      "statusCode": 301
+    },
+    {
       "source": "/(.*)",
       "has": [
         {

@@ -13,8 +13,18 @@ const contentModule = { exports: {} };
 new Function('exports', 'module', compiled)(contentModule.exports, contentModule);
 const { articles, categories, informationPages } = contentModule.exports;
 const sourceBySlug = new Map([...articles, ...categories, ...informationPages].map(item => [item.slug, item]));
-const retained = '/bisp-balance-check-by-cnic-2026/';
-const retired = ['/bisp-payment-check-guide/', '/bisp-8171-payment-balance-check-guide/'];
+const retiredRedirects = [
+  { source: '/bisp-payment-check-guide/', destination: '/bisp-balance-check-by-cnic-2026/' },
+  { source: '/bisp-8171-payment-balance-check-guide/', destination: '/bisp-balance-check-by-cnic-2026/' },
+  { source: '/bisp-biometric-verification-failed-fingerprint-solution/', destination: '/bisp-biometric-verification-failed/' },
+  { source: '/how-to-apply-cm-punjab-e-bike-scheme-2026/', destination: '/cm-punjab-electric-bike-scheme/' },
+  { source: '/cm-punjab-e-bikes-scheme-phase-2/', destination: '/cm-punjab-electric-bike-scheme/' },
+  { source: '/cm-punjab-e-bike-scheme-updates/', destination: '/cm-punjab-electric-bike-scheme/' },
+  { source: '/maryam-nawaz-electric-bike-scheme-2026/', destination: '/cm-punjab-electric-bike-scheme/' },
+  { source: '/electric-bike-scheme-expansions/', destination: '/cm-punjab-electric-bike-scheme/' },
+  { source: '/cm-and-pm-electric-bike-schemes/', destination: '/cm-punjab-electric-bike-scheme/' },
+  { source: '/provincial-bike-transport-schemes/', destination: '/cm-punjab-electric-bike-scheme/' }
+];
 const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.svg': 'image/svg+xml', '.xml': 'application/xml', '.jpg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.woff2': 'font/woff2' };
 const server = createServer(async (req, res) => {
   try {
@@ -46,13 +56,13 @@ try {
   check(urls.length === sourceBySlug.size + 1, 'Sitemap/source route count mismatch');
   const mime404 = await fetch(base + '/nonexistent-seo-qa-page/');
   check(mime404.status === 404, 'Nonexistent URL did not return 404');
-  for (const path of retired) {
+  for (const { source: path, destination: target } of retiredRedirects) {
     check(!urls.includes(path), `${path}: retired URL in sitemap`);
     for (const variant of [path, path.slice(0, -1)]) {
-      check(config.redirects.some(rule => rule.source === variant && rule.destination === retained && rule.statusCode === 301), `${variant}: missing explicit Vercel 301`);
+      check(config.redirects.some(rule => rule.source === variant && rule.destination === target && rule.statusCode === 301), `${variant}: missing explicit Vercel 301`);
       const response = await fetch(base + variant, { redirect: 'manual' });
       const destination = new URL(response.headers.get('location') || '/', base).pathname;
-      check(response.status === 301 && destination === retained, `${variant}: ${live ? 'live' : 'local modeled'} redirect failed (${response.status})`);
+      check(response.status === 301 && destination === target, `${variant}: ${live ? 'live' : 'local modeled'} redirect failed (${response.status})`);
     }
     try { await stat(resolve(output, '.' + path, 'index.html')); failures.push(`${path}: retired HTML remains exported`); } catch { /* Expected absent export. */ }
   }
