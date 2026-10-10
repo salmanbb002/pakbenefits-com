@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const description = article?.metaDescription || article?.excerpt || category?.metaDescription || category?.intro || infoPage?.intro;
   if (!title || !description) return {};
   const canonical = `/${slug}/`;
-  const image = article?.image || "/images/hero-support.jpg";
+  const image = article?.image || "/images/hero-support.webp";
   const keywords = article ? [article.focusKeyword, ...article.lsiKeywords, ...article.entities] : undefined;
   return {
     title,

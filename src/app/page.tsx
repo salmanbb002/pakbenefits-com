@@ -38,13 +38,13 @@ export const metadata: Metadata = {
     siteName: "Live Govt Schemes & Ehsaas Programs",
     type: "website",
     locale: "en_PK",
-    images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" }],
+    images: [{ url: "/images/hero-support.webp", width: 1600, height: 1000, alt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" }],
   },
   twitter: {
     card: "summary_large_image",
     title: homeTitle,
     description: homeDescription,
-    images: [{ url: "/images/hero-support.jpg", alt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" }],
+    images: [{ url: "/images/hero-support.webp", alt: "Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" }],
   },
 };
 
@@ -130,7 +130,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-visual">
-            <Image src="/images/hero-support.jpg" alt="Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" fill priority sizes="(max-width: 900px) 100vw, 52vw" style={{ objectFit: "cover", objectPosition: "center top" }} />
+            <Image src="/images/hero-support.webp" alt="Pakistani mother and daughter receiving clear public welfare scheme guidance at a community desk" fill priority sizes="(max-width: 900px) 100vw, 52vw" style={{ objectFit: "cover", objectPosition: "center top" }} />
             <div className="hero-float-card">
               <span>Start here</span>
               <strong>Check the source before you share.</strong>
@@ -204,7 +204,7 @@ export default function Home() {
       <section className="trust-section">
         <div className="shell trust-grid">
           <div className="trust-image">
-            <Image src="/images/registration-guide.jpg" alt="Pakistani woman safely checking government scheme eligibility on a mobile device at home" fill sizes="(max-width: 900px) 100vw, 48vw" style={{ objectFit: "cover", objectPosition: "center" }} />
+            <Image src="/images/registration-guide.webp" alt="Pakistani woman safely checking government scheme eligibility on a mobile device at home" fill sizes="(max-width: 900px) 100vw, 48vw" style={{ objectFit: "cover", objectPosition: "center" }} />
             <div className="trust-image-label"><ShieldCheck /><span><strong>Privacy first</strong>Read without sharing personal data.</span></div>
           </div>
           <div className="trust-copy">

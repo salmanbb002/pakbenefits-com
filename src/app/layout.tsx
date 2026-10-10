@@ -26,13 +26,13 @@ export const metadata: Metadata = {
     siteName,
     type: "website",
     locale: "en_PK",
-    images: [{ url: "/images/hero-support.jpg", width: 1600, height: 1000, alt: "Public service guidance in Pakistan" }],
+    images: [{ url: "/images/hero-support.webp", width: 1600, height: 1000, alt: "Public service guidance in Pakistan" }],
   },
   twitter: {
     card: "summary_large_image",
     title: defaultTitle,
     description: defaultDescription,
-    images: [{ url: "/images/hero-support.jpg", alt: "Public service guidance in Pakistan" }],
+    images: [{ url: "/images/hero-support.webp", alt: "Public service guidance in Pakistan" }],
   },
   robots: {
     index: true,
