@@ -77,6 +77,8 @@ export type Category = {
 export type InformationPage = {
   slug: string;
   title: string;
+  metaTitle?: string;
+  metaDescription?: string;
   eyebrow: string;
   intro: string;
   date?: string;
@@ -104,6 +106,8 @@ export const contributors = {
 export const categories: Category[] = [
   {
     "slug": "8171",
+    metaTitle: "8171 Web Portal 2026: CNIC Status & Payment Guides",
+    metaDescription: "Explore 8171 portal guides for 2026. Check CNIC eligibility, track payment status, understand survey follow-ups, aur safe BISP steps yahan dekhein.",
     "name": "8171 Web Portal: Eligibility & Status Guides",
     "shortName": "8171 Check",
     "description": "Understand the official status-check route and the next safe step.",
@@ -134,7 +138,6 @@ export const categories: Category[] = [
     ],
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
-    "metaTitle": "8171 Web Portal: CNIC Access & Status Guides",
     "focusKeyword": "8171 web portal",
     "officialLinks": [
       {
@@ -300,6 +303,8 @@ export const categories: Category[] = [
   {
     "slug": "benazir-kafaalat",
     "name": "Benazir Kafaalat",
+    metaTitle: "Benazir Kafaalat Program 2026: 8171 Guides & Payments",
+    metaDescription: "Understand Benazir Kafaalat eligibility, payment checks, collection and complaints. Find official BISP sources and clear guides for household record updates.",
     "shortName": "Kafaalat",
     "description": "Payment, verification, collection, and complaint guidance.",
     "intro": "Benazir Kafaalat supports eligible women through BISP. These guides explain verification, payment collection, record updates, and fraud precautions without asking for your CNIC.",
@@ -326,7 +331,6 @@ export const categories: Category[] = [
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "focusKeyword": "benazir kafaalat",
-    "metaDescription": "Understand Benazir Kafaalat eligibility, payment checks, collection and complaints. Find official BISP sources and clear guides for household record updates.",
     "officialLinks": [
       {
         "label": "BISP official programme information",
@@ -439,6 +443,8 @@ export const categories: Category[] = [
   },
   {
     "slug": "bisp-registration",
+    metaTitle: "BISP Registration 2026: Eligibility & Dynamic Survey",
+    metaDescription: "Learn BISP registration in 2026. Understand household eligibility, required documents, dynamic survey desk visits, aur official steps yahan dekhein.",
     "name": "BISP Registration: Eligibility & Preparation",
     "shortName": "Registration",
     "description": "Prepare for surveys and registration-desk visits with confidence.",
@@ -465,7 +471,6 @@ export const categories: Category[] = [
     ],
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
-    "metaTitle": "BISP Registration: Eligibility & Preparation",
     "focusKeyword": "bisp registration overview",
     "officialLinks": [
       {
@@ -560,6 +565,8 @@ export const categories: Category[] = [
   {
     "slug": "other-schemes",
     "name": "Other Government Schemes",
+    metaTitle: "Other Government Schemes 2026: Pakistan Relief Grants",
+    metaDescription: "Browse straightforward explainers for public opportunities beyond BISP, including youth loans, farmer support, education, and mobility initiatives.",
     "shortName": "Other Schemes",
     "description": "Explore verified education, youth, farming, and mobility opportunities.",
     "intro": "Browse straightforward explainers for public opportunities beyond BISP, including youth loans, farmer support, education, and mobility initiatives.",
@@ -754,6 +761,8 @@ export const categories: Category[] = [
   {
     "slug": "taleemi-wazaif",
     "name": "Taleemi Wazaif",
+    metaTitle: "Taleemi Wazaif: Eligibility, Stipends & School Records",
+    metaDescription: "Understand Benazir Taleemi Wazaif eligibility in 2026. Check child enrollment records, attendance conditions, stipend rates, aur steps yahan dekhein.",
     "shortName": "Taleemi Wazaif",
     "description": "Enrollment and school-attendance guidance for eligible families.",
     "intro": "Understand Benazir Taleemi Wazaif eligibility, enrollment records, attendance conditions and how to ask BISP about a child’s stipend.",
@@ -779,7 +788,6 @@ export const categories: Category[] = [
     ],
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
-    "metaTitle": "Taleemi Wazaif: Eligibility, Stipends & School Records",
     "focusKeyword": "taleemi wazaif",
     "officialLinks": [
       {
@@ -875,6 +883,8 @@ export const categories: Category[] = [
   {
     "slug": "news",
     "name": "Public Service News",
+    metaTitle: "Public Service News 2026: Pakistan Welfare & Schemes",
+    metaDescription: "Follow important public-service announcements with context, plain-language summaries, and direct links to the responsible official organization.",
     "shortName": "News Desk",
     "description": "Timely explainers, official links, and scam-awareness updates.",
     "intro": "Follow important public-service announcements with context, plain-language summaries, and direct links to the responsible official organization.",
@@ -972,6 +982,8 @@ export const categories: Category[] = [
   {
     "slug": "payment-check",
     "name": "Payment Check Guides",
+    metaTitle: "BISP Payment Check 2026: 8171 CNIC & Balance Guides",
+    metaDescription: "Find BISP payment guides for balance checks, collection, receipts, biometric issues and complaints, with official routes that help protect your private data.",
     "shortName": "Payment Check",
     "description": "Know where to verify a payment and how to avoid deductions.",
     "intro": "These guides explain safe payment verification, approved messages, biometric issues, receipts, and complaint routes. Live Govt Schemes & Ehsaas Programs never checks or stores CNIC numbers.",
@@ -998,7 +1010,6 @@ export const categories: Category[] = [
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "focusKeyword": "bisp payment guides",
-    "metaDescription": "Find BISP payment guides for balance checks, collection, receipts, biometric issues and complaints, with official routes that help protect your private data.",
     "officialLinks": [
       {
         "label": "BISP official support",
@@ -1066,6 +1077,8 @@ export const categories: Category[] = [
   {
     "slug": "ehsaas-programs",
     "name": "Ehsaas Programme Guides",
+    metaTitle: "Ehsaas Programme Guides 2026: Cash & Relief Support",
+    metaDescription: "Explore Ehsaas programme guides for cash assistance, saving wallets, loans and food support. Understand each official route before sharing personal information.",
     "shortName": "Ehsaas Programmes",
     "description": "Emergency cash, interest-free loans, saving wallets, and registration centers.",
     "intro": "Ehsaas covers more than the 8171 status check. These guides explain the emergency cash disbursement, interest-free loan and saving-wallet schemes, and how to find an official registration center near you.",
@@ -1092,7 +1105,6 @@ export const categories: Category[] = [
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "focusKeyword": "ehsaas program",
-    "metaDescription": "Explore Ehsaas programme guides for cash assistance, saving wallets, loans and food support. Understand each official route before sharing personal information.",
     "officialLinks": [
       {
         "label": "BISP official services",
@@ -1185,6 +1197,8 @@ export const categories: Category[] = [
   {
     "slug": "nser-pmt-score",
     "name": "NSER & PMT: Household Eligibility Guides",
+    metaTitle: "NSER & PMT Score 2026: Household Eligibility Guides",
+    metaDescription: "Understand NSER records and household eligibility, choose the right PMT guide, and find official help for record updates, identity issues and BISP decisions.",
     "shortName": "NSER & PMT Score",
     "description": "Understand the household survey that decides your poverty score.",
     "intro": "Understand household eligibility and choose the right guide for PMT questions, identity records, programme requirements or family changes.",
@@ -1211,8 +1225,6 @@ export const categories: Category[] = [
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "focusKeyword": "household eligibility guides",
-    "metaTitle": "NSER & PMT: Household Eligibility Guides",
-    "metaDescription": "Understand NSER records and household eligibility, choose the right PMT guide, and find official help for record updates, identity issues and BISP decisions.",
     "officialLinks": [
       {
         "label": "BISP programme information",
@@ -1295,6 +1307,8 @@ export const categories: Category[] = [
   },
   {
     "slug": "punjab-schemes",
+    metaTitle: "Punjab Government Schemes 2026: Verification Guides",
+    metaDescription: "Explore verified Punjab government schemes 2026. Check solar panel quotas, Kisan Card, E-Bikes, and Apni Chhat Apna Ghar eligibility steps online.",
     "name": "Punjab Schemes: Provincial Support & Official Guides",
     "shortName": "Punjab Schemes",
     "description": "Find provincial finance, student, farming and social-support programmes.",
@@ -1322,8 +1336,6 @@ export const categories: Category[] = [
     "author": contributors.saadHassan,
     "reviewer": contributors.ayeshaMalik,
     "focusKeyword": "punjab schemes",
-    "metaTitle": "Punjab Schemes: Finance, Education & Support Guides",
-    "metaDescription": "Explore Punjab schemes for students, farmers, businesses and households. Find official departments, eligibility guidance and practical programme guides.",
     "officialLinks": [
       {
         "label": "Punjab government scheme information",
@@ -1497,8 +1509,8 @@ export const articles: Article[] = [
     title: "Social Protection & Assistance: Comprehensive Guide to Pillars, Safety Nets, and Programs",
     excerpt: "Social protection and assistance refers to a comprehensive policy framework designed to prevent poverty, manage life-cycle economic risks, and protect vulnerable households through non-contributory social assistance, social insurance, and labor market programs.",
     showExcerpt: true,
-    metaTitle: "Social Protection & Assistance: 3 Pillars, Types & Examples (2026 Guide)",
-    metaDescription: "Explore social protection & assistance: discover the 3 core pillars, cash transfers, social insurance, global safety net examples, and shock-responsive models.",
+    metaTitle: "Social Protection & Assistance 2026: Programs & Safety Nets",
+    metaDescription: "Explore social protection & assistance programs in Pakistan 2026. Learn core pillars, safety nets, cash transfers, and poverty relief initiatives here.",
     focusKeyword: "Social Protection & Assistance",
     lsiKeywords: [
       "3 pillars of social protection",
@@ -1538,8 +1550,8 @@ export const articles: Article[] = [
           "As of the 2026 policy benchmarks published by the World Bank Group, over 2 billion people worldwide receive some form of social assistance, with digital beneficiary platforms accelerating direct cash transfers across developing economies."
         ],
         links: [
-          { label: "Check official BISP 8171 payment status online", href: "/8171-check-online-kaise-karein-2026-09-20/" },
-          { label: "Understand PMT score calculation and eligibility criteria", href: "/what-counts-as-a-good-pmt-score-2026-09-19/" }
+          { label: "Check official BISP 8171 payment status online", href: "/8171-check-online-kaise-karein/" },
+          { label: "Understand PMT score calculation and eligibility criteria", href: "/what-counts-as-a-good-pmt-score/" }
         ]
       },
       {
@@ -1586,7 +1598,7 @@ export const articles: Article[] = [
               "Prominent global examples include Mexico’s pioneer Progresa/Oportunidades program and Pakistan's Benazir Income Support Programme (BISP), which supports millions of low-income families through routine quarterly disbursements."
             ],
             links: [
-              { label: "Guide to Benazir Kafaalat eligibility and status", href: "/how-to-check-bisp-eligibility-guide-2026-09-17/" }
+              { label: "Guide to Benazir Kafaalat eligibility and status", href: "/bisp-eligibility-criteria-guide/" }
             ]
           },
           {
@@ -1621,7 +1633,7 @@ export const articles: Article[] = [
               "Technical Note on Targeting Errors: Well-designed PMT systems aim to minimize both exclusion errors (failing to enroll eligible poor households) and inclusion errors (accidentally enrolling ineligible non-poor households)."
             ],
             links: [
-              { label: "What to do if PMT score is above 32", href: "/pmt-score-above-32-bisp-re-survey-guide-2026-09-22/" }
+              { label: "What to do if PMT score is above 32", href: "/pmt-score-above-32-bisp-re-survey-guide/" }
             ]
           },
           {
@@ -1749,8 +1761,8 @@ export const articles: Article[] = [
     title: "Youth Loans & Financing Drive 2026: How to Apply, Eligibility & Loan Tiers",
     excerpt: "Master the Youth Loans & Financing Drive 2026 (PMYB&ALS). Learn Tier 1–3 loan limits (up to Rs 7.5M), 0% to 7% markup rates, NADRA CNIC portal steps, and eligibility rules.",
     showExcerpt: true,
-    metaTitle: "Youth Loans & Financing Drive 2026: Apply Online & Tiers Guide",
-    metaDescription: "Complete guide to the Youth Loans & Financing Drive 2026. Explore Tier 1–3 loan limits (up to Rs 7.5M), 0% to 7% markup rates, eligibility, and step-by-step online application portal.",
+    metaTitle: "Youth Loans & Financing Drive 2026: Apply Online & Tiers",
+    metaDescription: "Apply online for Youth Loans & Financing Drive 2026. Explore Tier 1-3 loans up to Rs 7.5M, 0% markup terms, CNIC verification, and bank eligibility here.",
     focusKeyword: "Youth Loans & Financing Drive",
     lsiKeywords: [
       "youth loans and financing drive 2026",
@@ -2017,8 +2029,8 @@ export const articles: Article[] = [
     title: "Prime Minister Fuel Relief Scheme: 9771 SMS Registration, Eligibility & Subsidy Rates",
     excerpt: "Register for the Prime Minister Fuel Relief Scheme via free 9771 SMS. Learn vehicle eligibility (motorcycles, rickshaws, 800cc cars), subsidy rates, TOK commands, and 9772 helpline support.",
     showExcerpt: true,
-    metaTitle: "PM Fuel Relief Scheme 2026: 9771 SMS Register & Subsidy Guide",
-    metaDescription: "Register for the Prime Minister Fuel Relief Scheme via free 9771 SMS. Learn vehicle eligibility (motorcycles, rickshaws, 800cc cars), subsidy rates, TOK commands, and 9772 helpline support.",
+    metaTitle: "PM Fuel Relief Scheme 2026: 9771 SMS Registration & Rates",
+    metaDescription: "Register for PM Fuel Relief Scheme 2026 via free 9771 SMS. Check Rs 100/litre petrol discount, vehicle eligibility, quotas, and helpline guidelines here.",
     focusKeyword: "Prime Minister Fuel Relief Scheme",
     lsiKeywords: [
       "prime minister fuel relief scheme 2026",
@@ -2143,7 +2155,7 @@ export const articles: Article[] = [
               "Show the token code to the attendant prior to refueling. The attendant verifies the token on their digital terminal, applying the instant discount to your transaction. Tokens expire after 72 hours if unused."
             ],
             links: [
-              { label: "Verify BISP Status via CNIC Online", href: "/bisp-status-cnic-online/" }
+              { label: "Verify BISP Status via CNIC Online", href: "/check-bisp-status-by-cnic-online/" }
             ]
           }
         ]
@@ -2241,8 +2253,8 @@ export const articles: Article[] = [
     title: "Public Sector Development Programme (PSDP) 2026–27: Comprehensive Budget Allocation & Project Breakdown",
     excerpt: "Discover the Public Sector Development Programme (PSDP) 2026–27 outlay of Rs 3,675 billion, including Rs 1,000 billion for Federal PSDP, provincial ADPs, NHA and Water sector allocations, 5Es strategy, and Q1 fund release updates.",
     showExcerpt: true,
-    metaTitle: "Public Sector Development Programme (PSDP) 2026–27: Budget Breakdown",
-    metaDescription: "Explore the PSDP 2026–27 outlay of Rs 1,000 billion, provincial ADPs, NHA & Water sector allocations, 5Es strategy, and Q1 release updates.",
+    metaTitle: "PSDP 2026-27 Budget: Federal & Provincial Allocations Guide",
+    metaDescription: "Review the PSDP 2026-27 budget outlay of Rs 3,675B. Check federal allocations, provincial ADP funds, NHA water projects, and quarterly releases here.",
     focusKeyword: "Public Sector Development Programme (PSDP) 2026–27",
     lsiKeywords: [
       "psdp 2026-27 total budget allocation",
@@ -2439,8 +2451,8 @@ export const articles: Article[] = [
     title: "Other Active Financial Support: Complete Grant Disclosure & Compliance Guide",
     excerpt: "Other active financial support refers to all financial, physical, and personnel resources—whether domestic or foreign, direct cash grants, in-kind contributions, or outside consulting—currently available to research personnel. Federal agencies like NIH and NSF require full disclosure of active support to prevent scientific overlap, double-budgeting, and effort overcommitment.",
     showExcerpt: true,
-    metaTitle: "Other Active Financial Support: NIH & NSF Grant Disclosure Guide (2026)",
-    metaDescription: "Learn what counts as other active financial support for NIH and NSF grants. Discover in-kind rules, SciENcv reporting steps, overlap checks, and compliance guidelines.",
+    metaTitle: "Other Active Financial Support 2026: Grants & Citizen Aid",
+    metaDescription: "Explore other active financial support and citizen grants in Pakistan for 2026. Check public welfare funds, eligibility criteria, and application links.",
     focusKeyword: "Other Active Financial Support",
     lsiKeywords: [
       "other active financial support definition",
@@ -2463,7 +2475,7 @@ export const articles: Article[] = [
     ],
     primaryCategory: "Financial Support",
     categorySlugs: [
-      "schemes",
+      "other-schemes",
       "news"
     ],
     date: "October 7, 2026",
@@ -2690,8 +2702,8 @@ export const articles: Article[] = [
     title: "Major Government Schemes Updates (September/October 2026): Key Policy Changes, New Funds & Beneficiary Guidelines",
     excerpt: "Discover major government scheme updates for September/October 2026, including the ₹10,000 Cr SME Growth Fund, Ayushman Bharat 70+ Vay Vandana Card, BHAVYA Rasayan guidelines, PM-Kisan & PM Surya Ghar.",
     showExcerpt: true,
-    metaTitle: "Major Government Schemes Updates (Sept/Oct 2026): Key Changes & Guide",
-    metaDescription: "Discover major government scheme updates for September/October 2026, including the ₹10,000 Cr SME Growth Fund, Ayushman Bharat 70+ Vay Vandana Card, BHAVYA Rasayan guidelines, PM-Kisan & PM Surya Ghar.",
+    metaTitle: "Govt Schemes Updates Oct 2026: BISP & Punjab Welfare News",
+    metaDescription: "Track major government schemes updates for Oct 2026. Check BISP 8171 tranche dates, CM Punjab relief packages, student quotas, and official portal links.",
     focusKeyword: "Major Government Schemes Updates (September/October 2026)",
     lsiKeywords: [
       "major government schemes updates september october 2026",
@@ -2913,8 +2925,8 @@ export const articles: Article[] = [
     title: "PM Fuel Relief Scheme Updates: 9771 SMS Registration, Subsidy Rates & Eligibility Guide",
     excerpt: "Get the latest PM Fuel Relief Scheme updates for 2026. Learn how to register via 9771 SMS, verify vehicle eligibility (motorcycles & 800cc cars), and claim your fuel token.",
     showExcerpt: true,
-    metaTitle: "PM Fuel Relief Scheme Updates 2026: 9771 SMS Registration & Eligibility",
-    metaDescription: "Get the latest PM Fuel Relief Scheme updates for 2026. Learn how to register via 9771 SMS, verify vehicle eligibility (motorcycles & 800cc cars), and claim your fuel token.",
+    metaTitle: "PM Fuel Relief Updates 2026: 9771 SMS Status & Subsidy News",
+    metaDescription: "Check PM fuel relief scheme updates for 2026. Verify your 9771 SMS token status, monthly fuel subsidy limits, authorized pumps, and official quotas here.",
     focusKeyword: "PM Fuel Relief Scheme Updates",
     lsiKeywords: [
       "pm fuel relief scheme updates 2026",
@@ -3074,7 +3086,7 @@ export const articles: Article[] = [
         links: [
           {
             label: "understanding BISP Kafalat status and CNIC checking",
-            href: "/bisp-status-cnic-online/"
+            href: "/check-bisp-status-by-cnic-online/"
           }
         ]
       },
@@ -3139,8 +3151,8 @@ export const articles: Article[] = [
     title: "Social Protection & Welfare: Complete Guide to Pillars, Policy & Welfare Systems",
     excerpt: "Understand social protection and welfare systems: key differences, the 3 core pillars (assistance, insurance, labor), life-cycle risks, real-world examples, and modern adaptive frameworks.",
     showExcerpt: true,
-    metaTitle: "Social Protection & Welfare: Definitions, 3 Pillars & Key Differences",
-    metaDescription: "Master social protection and welfare systems: key differences, the 3 core pillars, life-cycle risks, real-world examples, and modern adaptive frameworks.",
+    metaTitle: "Social Protection & Welfare 2026: Pakistan Systems Guide",
+    metaDescription: "Understand social protection and welfare systems in Pakistan for 2026. Discover national safety net pillars, citizen entitlements, and official portals.",
     focusKeyword: "Social Protection & Welfare",
     lsiKeywords: [
       "social protection vs social welfare",
@@ -3343,8 +3355,8 @@ export const articles: Article[] = [
     title: "Punjab Solar & Housing Updates 2026: Schemes Status, Eligibility & Online Check",
     excerpt: "Get verified October 2026 Punjab Solar & Housing updates. Check CM Free Solar Panel balloting status, Apni Chhat Apna Ghar interest-free loans & official portals.",
     showExcerpt: true,
-    metaTitle: "Punjab Solar & Housing Updates (October 2026): Status & Loan Details",
-    metaDescription: "Get verified October 2026 Punjab Solar & Housing updates. Check CM Free Solar Panel balloting status, Apni Chhat Apna Ghar interest-free loans & official portals.",
+    metaTitle: "Punjab Solar & Housing Updates 2026: Balloting & Quotas",
+    metaDescription: "Track Punjab solar and housing scheme updates for 2026. Check ACAG loan disbursements, Roshan Gharana solar balloting, and portal verification steps here.",
     focusKeyword: "punjab solar & housing updates",
     lsiKeywords: [
       "cm punjab solar panel scheme 2026 online apply",
@@ -3440,7 +3452,7 @@ export const articles: Article[] = [
           }
         ],
         links: [
-          { label: "Wazir-e-Azam & CM Apna Ghar Program Details", href: "/wazir-e-azam-apna-ghar-program-2026/" },
+          { label: "Wazir-e-Azam & CM Apna Ghar Program Details", href: "/wazir-e-azam-apna-ghar-program/" },
           { label: "Apni Zameen Apna Ghar Balloting Result", href: "/apni-zameen-apna-ghar-balloting-result-2026/" }
         ]
       },
@@ -3456,7 +3468,7 @@ export const articles: Article[] = [
           "With high public demand for provincial relief programs, unauthorized agents and fraudulent web portals frequently attempt to deceive citizens. (1) Verify Portal Extensions: Official Punjab government websites strictly use .punjab.gov.pk. Never enter CNIC numbers on unofficial websites. (2) Understand 8171 Boundary: The 8171 BISP Helpline handles federal cash transfers under BISP and is NOT an active channel for Punjab provincial solar or housing schemes. (3) Zero Registration Fees: The Punjab government does not charge registration fees or agent charges. Report third-party fee fraud to authorities. (4) PSER Validation: Keep household details updated on pser.punjab.gov.pk."
         ],
         links: [
-          { label: "Fake 8171 SMS Check & BISP Lottery Scam Alert", href: "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert-2026/" }
+          { label: "Fake 8171 SMS Check & BISP Lottery Scam Alert", href: "/fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert/" }
         ]
       }
     ],
@@ -3517,8 +3529,8 @@ export const articles: Article[] = [
     title: "Housing & Social Cards (Punjab) 2026: Complete List, Eligibility & Online Apply Guide",
     excerpt: "Complete guide to Punjab Housing & Social Cards 2026 (Apni Chhat Apna Ghar, Himmat Card, Kisan Card, Mazdoor Card). Learn eligibility, PSER status check & online apply steps.",
     showExcerpt: true,
-    metaTitle: "Housing & Social Cards (Punjab) 2026: Complete List & Apply Guide",
-    metaDescription: "Complete guide to Punjab Housing & Social Cards 2026 (Apni Chhat Apna Ghar, Himmat Card, Kisan Card, Mazdoor Card). Learn eligibility, PSER status check & online apply steps.",
+    metaTitle: "Punjab Housing & Social Cards 2026: Apply Online & Status",
+    metaDescription: "Apply online for Punjab housing and social cards in 2026. Check Himmat Card, Kisan Card, ACAG loans, eligibility criteria, and verified portal links here.",
     focusKeyword: "housing & social cards (punjab)",
     lsiKeywords: [
       "apni chhat apna ghar registration acag punjab gov pk",
@@ -3575,7 +3587,7 @@ export const articles: Article[] = [
           }
         ],
         links: [
-          { label: "PSER Survey Online Registration 2026", href: "/pser-survey-registration/" },
+          { label: "PSER Survey Online Registration 2026", href: "/bisp-pser-updates/" },
           { label: "Apni Chhat Apna Ghar Scheme 2026 Guide", href: "/apni-chhat-apna-ghar-scheme-online-apply-2026/" },
           { label: "CM Punjab Welfare Schemes Complete List", href: "/provincial-regional-schemes/" }
         ]
@@ -3722,8 +3734,8 @@ export const articles: Article[] = [
     title: "Housing & Remittance Initiatives 2026: SBP Roshan Apna Ghar & Remittance Financing Guide",
     excerpt: "Complete guide to Housing & Remittance Initiatives for non-resident remitters. Learn SBP Roshan Apna Ghar financing options, Lien vs Non-Lien rules, up to 99% property financing caps, PRI incentives, and IFAD global models.",
     showExcerpt: true,
-    metaTitle: "Housing & Remittance Initiatives 2026: SBP Housing & RDA Rules",
-    metaDescription: "Learn how Housing & Remittance Initiatives like Roshan Apna Ghar, PRI, and IFAD facilities empower overseas remitters to build, buy, and finance homes safely.",
+    metaTitle: "Housing & Remittance Schemes 2026: SBP Loans & RDA Guide",
+    metaDescription: "Explore SBP housing and overseas remittance initiatives for 2026. Learn Roshan Apna Ghar loans, Pasban reward prizes, and subsidized financing terms here.",
     focusKeyword: "housing & remittance initiatives",
     lsiKeywords: [
       "roshan apna ghar housing scheme",
@@ -3932,6 +3944,8 @@ export const articles: Article[] = [
 
   {
   "slug": "bisp-pser-updates",
+    metaDescription: "Check latest BISP and PSER updates 2026. Complete Punjab Socio-Economic Registry survey, verify 8171 status by CNIC, aur portal link yahan dekhein.",
+    metaTitle: "BISP & PSER Updates 2026: Registration & 8171 Status",
   "relatedSlugs": [
     "bisp-benazir-kafaalat-8171-check",
     "bisp-status-cnic-online",
@@ -3941,10 +3955,7 @@ export const articles: Article[] = [
   ],
   "title": "BISP & PSER Updates 2026: Online Registration, 8171 Status Check & Dynamic Survey Guide",
   "excerpt": "Complete 2026 breakdown of Benazir Income Support Programme (BISP) quarterly Rs 13,500 stipend updates and Punjab Socio-Economic Registry (PSER) online registration on pser.punjab.gov.pk.",
-  "showExcerpt": true,
-  "metaTitle": "BISP & PSER Updates 2026: Online Registration, 8171 Status Check & Dynamic Survey Guide",
-  "metaDescription": "Get the latest 2026 BISP and PSER updates. Learn how to complete Punjab Socio-Economic Registry registration, check 8171 status by CNIC, and get Rs 13,500 Kafaalat.",
-  "focusKeyword": "bisp pser updates",
+  "showExcerpt": true,  "focusKeyword": "bisp pser updates",
   "lsiKeywords": [
     "pser online registration 2026",
     "pser punjab gov pk online registration cnic",
@@ -3967,8 +3978,8 @@ export const articles: Article[] = [
   ],
   "primaryCategory": "BISP & 8171",
   "categorySlugs": [
-    "bisp-8171",
-    "provincial-schemes"
+    "8171",
+    "punjab-schemes"
   ],
   "date": "October 5, 2026",
   "publishedDate": "October 5, 2026",
@@ -4286,7 +4297,7 @@ export const articles: Article[] = [
   "primaryCategory": "Other Schemes",
   "categorySlugs": [
     "other-schemes",
-    "provincial-schemes"
+    "punjab-schemes"
   ],
   "date": "October 5, 2026",
   "publishedDate": "October 5, 2026",
@@ -4549,6 +4560,8 @@ export const articles: Article[] = [
 
   {
   "slug": "cm-punjab-rehmat-card-2026",
+    metaDescription: "Apply online for CM Punjab Rehmat Card 2026. Check eligibility for widows, track Rs 100,000 financial aid by CNIC, aur portal details yahan dekhein.",
+    metaTitle: "CM Punjab Rehmat Card 2026: Apply Online & Eligibility",
   "relatedSlugs": [
     "provincial-regional-schemes",
     "cm-punjab-himmat-card-online-apply-2026",
@@ -4557,10 +4570,7 @@ export const articles: Article[] = [
   ],
   "title": "CM Punjab Rehmat Card 2026: Online Registration, Eligibility & Status Check",
   "excerpt": "The CM Punjab Rehmat Card 2026 provides Rs. 100,000 financial aid to eligible widows and parentless orphans across Punjab. Learn eligibility criteria, required documents, online application steps at rahmatcard.punjab.gov.pk, and status tracking via CNIC or 1077 helpline.",
-  "showExcerpt": true,
-  "metaTitle": "CM Punjab Rehmat Card 2026: Apply Online & Status Check (Rs. 100,000)",
-  "metaDescription": "Learn how to apply online for the CM Punjab Rehmat Card 2026. Step-by-step guide for widows and orphans to check eligibility, track status, and receive Rs. 100,000 aid.",
-  "focusKeyword": "cm punjab rehmat card 2026",
+  "showExcerpt": true,  "focusKeyword": "cm punjab rehmat card 2026",
   "lsiKeywords": [
     "cm punjab rehmat card 2026 online apply",
     "cm punjab rahmat card status check by cnic",
@@ -4581,7 +4591,7 @@ export const articles: Article[] = [
   ],
   "primaryCategory": "Provincial Schemes",
   "categorySlugs": [
-    "provincial-schemes",
+    "punjab-schemes",
     "8171"
   ],
   "date": "October 5, 2026",
@@ -4825,8 +4835,8 @@ export const articles: Article[] = [
     title: "PAVE Electric Bike Scheme 2026: Apply Online at pave.gov.pk & Subsidy Guide",
     excerpt: "Complete guide to the Pakistan Accelerated Vehicle Electrification (PAVE) scheme 2026. Learn about Rs 80,000 electric bike subsidies, Phase 2 first-come first-served queue rules, eligibility criteria, and online registration steps at pave.gov.pk.",
     showExcerpt: true,
-    metaTitle: "PAVE Electric Bike Scheme 2026: Apply Online at pave.gov.pk & Subsidy",
-    metaDescription: "Complete guide to PAVE Electric Bike Scheme 2026: pave.gov.pk online apply steps, Rs 80,000 subsidy discount, Phase 2 FCFS queue model, and eligibility.",
+    metaTitle: "PAVE Electric Bike Scheme 2026: Apply Online & EV Subsidy",
+    metaDescription: "Apply online for Federal PAVE Electric Bike Scheme 2026 at pave.gov.pk. Check student quotas, zero markup financing, subsidy rates, and portal steps here.",
     focusKeyword: "pave electric bike scheme",
     lsiKeywords: [
       "pave electric bike scheme 2026",
@@ -4848,9 +4858,9 @@ export const articles: Article[] = [
       "State Bank of Pakistan",
       "CM Punjab E-Bike Scheme"
     ],
-    primaryCategory: "federal-schemes",
+    primaryCategory: "other-schemes",
     categorySlugs: [
-      "federal-schemes",
+      "other-schemes",
       "other-schemes"
     ],
     date: "October 4, 2026",
@@ -4992,7 +5002,7 @@ export const articles: Article[] = [
           ]
         },
         links: [
-          { label: "PM Petrol Relief Scheme Updates 2026", href: "/pm-petrol-relief-scheme-updates" },
+          { label: "PM Petrol Relief Scheme Updates 2026", href: "/pm-fuel-relief-scheme-updates/" },
           { label: "Transport & Fuel Relief Options in Pakistan", href: "/transport-fuel-relief-options" }
         ]
       },
@@ -5056,8 +5066,8 @@ export const articles: Article[] = [
     title: "Pasban Remittance Reward Scheme 2026: Eligibility, PKR 16B Prizes & Draw Guide",
     excerpt: "Complete guide to the Pasban Remittance Reward Scheme (PRRS) launched by PBA & SBP. Learn eligibility requirements, USD 100 monthly threshold, PKR 16 Billion annual cash prize tiers, 1LINK token draws, and official winner check portals.",
     showExcerpt: true,
-    metaTitle: "Pasban Remittance Reward Scheme 2026: Eligibility & PKR 16B Prizes",
-    metaDescription: "Learn how the Pasban Remittance Reward Scheme works. Discover eligibility rules, PKR 16 Billion prize breakdown, draw dates, and how to check winner status safely.",
+    metaTitle: "Pasban Remittance Reward Scheme 2026: Check Rs 16B Prizes",
+    metaDescription: "Check Pasban Remittance Reward Scheme 2026 details. Learn how legal banking remittances qualify for Rs 16B grand prize balloting, cash points, and draws.",
     focusKeyword: "pasban remittance reward scheme",
     lsiKeywords: [
       "pasban remittance reward scheme eligibility",
@@ -5076,9 +5086,9 @@ export const articles: Article[] = [
       "Roshan Digital Account",
       "Cash-over-the-counter"
     ],
-    primaryCategory: "federal-schemes",
+    primaryCategory: "other-schemes",
     categorySlugs: [
-      "federal-schemes",
+      "other-schemes",
       "other-schemes"
     ],
     date: "October 4, 2026",
@@ -5224,6 +5234,8 @@ export const articles: Article[] = [
 
   {
   "slug": "apna-ghar-housing-scheme",
+    metaDescription: "Apply online for Apna Ghar Housing Scheme 2026. Check 5% subsidized interest rates, bank eligibility, apnaghar.gov.pk portal steps yahan dekhein.",
+    metaTitle: "Apna Ghar Housing Scheme 2026: Apply Online & Eligibility",
   "relatedSlugs": [
     "wazir-e-azam-apna-ghar-program",
     "apni-chhat-apna-ghar-scheme-online-apply-2026",
@@ -5232,10 +5244,7 @@ export const articles: Article[] = [
   ],
   "title": "Apna Ghar Housing Scheme 2026: Online Application, Loan Limits & Eligibility Guide",
   "excerpt": "The Apna Ghar Housing Scheme provides first-time Pakistani homeowners with low-cost housing finance up to PKR 10 million at a 5% subsidized markup rate for 10 years, repayable over 20 years. Learn eligibility rules and apply online via apnaghar.gov.pk or participating banks.",
-  "showExcerpt": true,
-  "metaTitle": "Apna Ghar Housing Scheme 2026: Apply Online & Eligibility",
-  "metaDescription": "Complete guide to the Apna Ghar Housing Scheme in 2026. Learn eligibility rules, 5% subsidized interest rates, online application at apnaghar.gov.pk, and bank processes.",
-  "focusKeyword": "apna ghar housing scheme",
+  "showExcerpt": true,  "focusKeyword": "apna ghar housing scheme",
   "lsiKeywords": [
     "apna ghar housing scheme online apply 2026",
     "apna ghar housing scheme eligibility criteria",
@@ -5518,8 +5527,8 @@ export const articles: Article[] = [
     title: "Provincial & Regional Schemes: Complete List, Eligibility & Application Guide (2026)",
     excerpt: "Discover all 2026 Provincial & Regional Schemes across Punjab, Sindh, KP, and Balochistan. Learn eligibility rules, PSER CNIC online verification, and application steps.",
     showExcerpt: true,
-    metaTitle: "Provincial & Regional Schemes 2026: Complete List, Eligibility & Online Check",
-    metaDescription: "Discover all 2026 Provincial & Regional Schemes across Punjab, Sindh, KP, and Balochistan. Learn eligibility rules, PSER CNIC online verification, and application steps.",
+    metaTitle: "Provincial & Regional Schemes 2026: Online Apply & Lists",
+    metaDescription: "Explore provincial and regional welfare schemes across Punjab, Sindh, KPK, and Balochistan in 2026. Find eligibility criteria, cash grants, and forms here.",
     focusKeyword: "provincial & regional schemes",
     lsiKeywords: ["provincial and regional schemes online check","pser registration 8123 online check","cm punjab schemes pser 2026","sindh pink scooty scheme online apply","kpk ehsaas umeed programme cnic check","balochistan regional development initiative adp","pdwp project approval process pakistan"],
     entities: ["Provincial & Regional Schemes","Punjab Socio-Economic Registry (PSER)","Annual Development Programme (ADP)","Planning & Development (P&D) Department","Himmat Card","Kisan Card","Sindh Pink Scooty Scheme","Ehsaas Umeed Programme","Sehat Card Plus","CNIC Verification","Provincial Development Working Party (PDWP)","Bank of Punjab (BoP)"],
@@ -5841,8 +5850,8 @@ export const articles: Article[] = [
     title: "BISP Benazir Kafaalat 2026: 8171 Online CNIC Check & Complete Eligibility Guide",
     excerpt: "Complete 2026 step-by-step guide to check BISP Benazir Kafaalat payment status online by CNIC via the 8171 web portal. Learn PMT score cutoffs, NSER dynamic survey registration, Rs 13,500 quarterly stipend updates, and digital wallet payment methods.",
     showExcerpt: true,
-    metaTitle: "BISP Benazir Kafaalat 2026: 8171 Online CNIC Check & Complete Eligibility Guide",
-    metaDescription: "Check your BISP Benazir Kafaalat payment status online by CNIC via the official 8171 web portal. Learn 2026 stipend updates, NSER dynamic registration, and PMT score rules.",
+    metaTitle: "BISP Benazir Kafaalat 2026: 8171 Online Check by CNIC",
+    metaDescription: "Apna 13-hanso ka CNIC darj karein aur BISP 8171 qist online check karein. Mukammal eligibility list, Rs 14,500 tranche, aur portal link yahan dekhein.",
     focusKeyword: "bisp benazir kafaalat 8171 check online cnic",
     lsiKeywords: [
       "bisp benazir kafaalat payment check by cnic online 2026",
@@ -6074,8 +6083,8 @@ export const articles: Article[] = [
     title: "Apna Ghar & Social Welfare: Complete Guide to Shelter, Support & Housing Services",
     excerpt: "Apna Ghar social welfare initiatives encompass non-profit organizations, charitable foundations, and government programs providing free shelter, healthcare, child education, and interest-free housing loans to destitute and low-income individuals.",
     showExcerpt: true,
-    metaTitle: "Apna Ghar & Social Welfare: Complete Guide to Services & Eligibility (2026)",
-    metaDescription: "Explore how Apna Ghar social welfare initiatives and government programs provide free shelter, healthcare, child education, and housing loans to those in need.",
+    metaTitle: "Apna Ghar & Social Welfare 2026: Shelter & Grant Program",
+    metaDescription: "Discover Apna Ghar and social welfare programs across Pakistan for 2026. Check government shelter services, financial support grants, and intake rules here.",
     focusKeyword: "apna ghar & social welfare",
     lsiKeywords: [
       "apna ghar social welfare society",
@@ -6272,8 +6281,8 @@ export const articles: Article[] = [
     title: "National Savings Profit Rates (Updated Oct 2026): Complete Profit Table, Tax Rates & Calculator",
     excerpt: "Check the latest National Savings profit rates effective Oct 1, 2026. View revised profit tables for Behbood, RIC, SSC, Defence & Sarwa Islamic schemes with net profit calculations for filers vs non-filers.",
     showExcerpt: true,
-    metaTitle: "National Savings Profit Rates (Oct 2026): Latest Scheme Rates",
-    metaDescription: "Check the latest National Savings profit rates effective Oct 1, 2026. View revised profit tables for Behbood, RIC, SSC, Defence & Sarwa Islamic schemes with net profit calculations for filers vs non-filers.",
+    metaTitle: "National Savings Rates Oct 2026: Behbood & Defense Profit",
+    metaDescription: "Check National Savings profit rates updated for October 2026. View Behbood, Regular Income, Defense Certificates profit tables, withholding tax, and returns.",
     focusKeyword: "national savings profit rates",
     lsiKeywords: ["behbood savings certificate profit rate per month","regular income certificate profit on 1 lakh","special savings certificate profit rate after tax","sarwa islamic savings account profit rate","national savings tax deduction filer vs non filer","how to calculate national savings profit per month","zakat exemption form cz-50 national savings"],
     entities: ["Central Directorate of National Savings","Behbood Savings Certificates","Regular Income Certificates","Special Savings Certificates","Pensioners Benefit Account","Defence Savings Certificates","Sarwa Islamic Term Account","Federal Board of Revenue","Active Taxpayer List","Form CZ-50"],
@@ -6574,8 +6583,8 @@ export const articles: Article[] = [
     title: "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & How to Apply",
     excerpt: "The Wazir-e-Azam Apna Ghar Program (Ghar Ho Tu Apna) gives first-time buyers federal home loans up to Rs 10 million at a 5% fixed markup for the first 10 years, repayable over 20 years through partner banks. Apply online at apnaghar.gov.pk.",
     showExcerpt: true,
-    metaTitle: "Wazir-e-Azam Apna Ghar Program 2026: Loan, Eligibility & Apply",
-    metaDescription: "The Wazir-e-Azam Apna Ghar Program gives first-time buyers home loans up to Rs 10 million at 5% markup for 10 years. See eligibility, banks, and how to apply at apnaghar.gov.pk.",
+    metaTitle: "Wazir-e-Azam Apna Ghar Program 2026: Apply Online & Loans",
+    metaDescription: "Apply online for Wazir-e-Azam Apna Ghar Housing Program 2026. Check low-cost mortgage loan terms, bank markup subsidies, eligibility, and form steps here.",
     focusKeyword: "wazir-e-azam apna ghar program",
     lsiKeywords: [
       "apna ghar program loan amount pakistan 2026",
@@ -6811,8 +6820,8 @@ export const articles: Article[] = [
     title: "CM Punjab Electric Bike Scheme 2026: Apply Online, Eligibility, Price & Installments",
     excerpt: "Complete official guide to the CM Punjab Electric Bike Scheme 2026 at bikes.punjab.gov.pk. Learn about the 100,000 electric bikes quota, Rs 90,000 Punjab Government subsidy, zero down payment waiver, Bank of Punjab Rs 3,028 monthly installment plan, student and female quotas, and balloting results.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Electric Bike Scheme 2026: Apply Online, Price & Eligibility",
-    metaDescription: "Apply online for CM Punjab Electric Bike Scheme 2026 at bikes.punjab.gov.pk. 100,000 e-bikes, Rs 90k subsidy, zero down payment & Rs 3,028/mo installment guide.",
+    metaTitle: "Punjab E-Bike Scheme 2026: Apply Online & Eligibility",
+    metaDescription: "Apply online for CM Punjab Electric Bike Scheme 2026 at bikes.punjab.gov.pk. Check student quota, Rs 90k subsidy, BOP Rs 3,028/mo installment, and portal.",
     focusKeyword: "cm punjab electric bike scheme",
     lsiKeywords: [
       "cm punjab electric bike scheme apply online",
@@ -7118,8 +7127,8 @@ export const articles: Article[] = [
     title: "CM Punjab Youth Games 2026 – Online Registration, Eligibility, Sports & Cash Prizes Guide",
     excerpt: "Complete guide to the CM Punjab Youth Games 2026 organized by Sports Board Punjab (youthgames.punjab.gov.pk). Explore age criteria (U-16, U-19, U-25), 19 sports disciplines, online registration steps, and Rs 500M prize pool.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Youth Games 2026: Online Registration & Sports List",
-    metaDescription: "Apply online for CM Punjab Youth Games 2026 at youthgames.punjab.gov.pk. Check age criteria (U-16, U-19, U-25), 19 sports disciplines, and Rs 500M prize pool.",
+    metaTitle: "CM Punjab Youth Games 2026: Online Registration & Prizes",
+    metaDescription: "Register online for CM Punjab Youth Games 2026. Check sports categories, cash prize schedules, age limits, district trials, and registration portal here.",
     focusKeyword: "cm punjab youth games 2026",
     lsiKeywords: [
       "youth games punjab gov pk online registration",
@@ -7432,8 +7441,8 @@ officialLinks: [
     title: "CM Punjab Green Credit Program 2026: Online Apply, Portal & Rewards Guide",
     excerpt: "Apply for the CM Punjab Green Credit Program 2026 online at greencredit.punjab.gov.pk. Earn green credits and cash rewards up to Rs. 100,000 for verified eco-actions and EV bike conversions.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Green Credit Program 2026: Online Apply & Rewards",
-    metaDescription: "Apply for CM Punjab Green Credit Program 2026 on greencredit.punjab.gov.pk. Learn eligible green activities, EV conversion rewards up to Rs 100,000, and verification rules.",
+    metaTitle: "CM Punjab Green Credit 2026: Online Apply & Solar Loans",
+    metaDescription: "Apply online for CM Punjab Green Credit Program 2026. Check low-markup eco-loans for small businesses, solar units, eligibility criteria, and bank portals.",
     focusKeyword: "cm punjab green credit program 2026",
     lsiKeywords: [
       "greencredit punjab gov pk online registration",
@@ -7455,7 +7464,7 @@ officialLinks: [
     primaryCategory: "punjab-schemes",
     categorySlugs: [
       "punjab-schemes",
-      "schemes"
+      "other-schemes"
     ],
     date: "September 29, 2026",
     publishedDate: "September 29, 2026",
@@ -7650,8 +7659,8 @@ officialLinks: [
     title: "Apni Zameen Apna Ghar Balloting Result 2026: How to Check CNIC Status & Plot Rules",
     excerpt: "Check the Apni Zameen Apna Ghar balloting result 2026 online by CNIC. Guide on Phase 1 winner status, 3-marla plot allocation, and rules after selection.",
     showExcerpt: true,
-    metaTitle: "Apni Zameen Apna Ghar Balloting Result 2026: CNIC Check Online",
-    metaDescription: "Check the Apni Zameen Apna Ghar balloting result 2026 online by CNIC. Guide on Phase 1 winner status, 3-marla plot allocation, and rules after selection.",
+    metaTitle: "Apni Zameen Apna Ghar Result 2026: Check Winners List",
+    metaDescription: "Check Apni Zameen Apna Ghar balloting result 2026 online by CNIC. View verified plot allotment lists, winner names, installment schedules, and status here.",
     focusKeyword: "apni zameen apna ghar balloting result 2026",
     lsiKeywords: [
       "apni zameen apna ghar balloting result 2026 cnic check",
@@ -7671,7 +7680,7 @@ officialLinks: [
     primaryCategory: "punjab-schemes",
     categorySlugs: [
       "punjab-schemes",
-      "schemes"
+      "other-schemes"
     ],
     date: "September 28, 2026",
     publishedDate: "September 28, 2026",
@@ -7845,8 +7854,8 @@ officialLinks: [
     title: "Pink Scooty Scheme 2026 – Registration, Eligibility, Documents & Balloting Guide",
     excerpt: "Complete guide to the Pink Scooty Scheme 2026 in Punjab (bikes.punjab.gov.pk) and Sindh (smta.gos.pk). Learn eligibility criteria, required documents, portal registration steps, 0% markup terms, and computerized balloting results.",
     showExcerpt: true,
-    metaTitle: "Pink Scooty Scheme 2026: Registration, Eligibility & Balloting",
-    metaDescription: "Apply for the Pink Scooty Scheme 2026 in Punjab & Sindh. Learn eligibility, required documents, portal registration steps, and balloting result check.",
+    metaTitle: "Pink Scooty Scheme 2026: Online Apply, Quota & Balloting",
+    metaDescription: "Apply online for CM Pink Scooty Scheme 2026. Check female student & teacher quota, license rules, zero-interest installment plans, and balloting lists here.",
     focusKeyword: "pink scooty scheme 2026 registration eligibility documents balloting",
     lsiKeywords: [
       "pink scooty scheme online apply bikes punjab gov pk",
@@ -8063,8 +8072,8 @@ officialLinks: [
     title: "Verified BISP Tehsil Offices KPK & Peshawar List",
     excerpt: "Peshawar aur KPK ke tamam major districts ke BISP offices ke exact addresses, contact details aur timings ki mukammal master list.",
     showExcerpt: true,
-    metaTitle: "Verified BISP Tehsil Offices KPK & Peshawar List, Addresses & Helpline",
-    metaDescription: "Peshawar aur KPK ke tamam major districts ke BISP offices ke exact addresses, contact details aur timings. Complete directory for NSER Dynamic Survey.",
+    metaTitle: "BISP Tehsil Offices Peshawar & KPK: 2026 Addresses List",
+    metaDescription: "Find verified BISP Tehsil Offices across Peshawar and KPK districts in 2026. Check dynamic survey desk addresses, token counter timings, and helpline numbers.",
     focusKeyword: "bisp tehsil office peshawar kpk districts list addresses",
     lsiKeywords: [
       "bisp office peshawar contact number",
@@ -8223,8 +8232,8 @@ officialLinks: [
     title: "Apni Chhat Apna Ghar Loan: Instant Qist Tracking",
     excerpt: "PITB portal par 15 lakh bila-sood loan ki approval check karne aur pehli qist (installment) track karne ka mukammal step-by-step tariqa.",
     showExcerpt: true,
-    metaTitle: "Apni Chhat Apna Ghar Loan Instant Qist Tracking & Approval List",
-    metaDescription: "PITB portal par 15 lakh bila-sood loan ki approval check karne aur pehli qist (installment) track karne ka tariqa. Complete ACAG status guide.",
+    metaTitle: "Apni Chhat Apna Ghar Loan 2026: Track Qist Online by CNIC",
+    metaDescription: "Track Apni Chhat Apna Ghar loan installments online by CNIC in 2026. Verify ACAG construction tranche disbursements, repayment schedules, and account status.",
     focusKeyword: "cm punjab apni chhat apna ghar loan installment tracking",
     lsiKeywords: [
       "acag punjab gov pk loan status check",
@@ -8395,8 +8404,8 @@ officialLinks: [
     title: "CM Balochistan Youth Skills Scheme 2026 Online Apply & Registration Guide",
     excerpt: "Apply online for CM Balochistan Youth Skills Scheme 2026. Complete guide to B-TEVTA online registration, courses, monthly stipends, and 30,000 overseas jobs.",
     showExcerpt: true,
-    metaTitle: "CM Balochistan Youth Skills Scheme 2026 Online Apply & BTEVTA Registration",
-    metaDescription: "Apply online for CM Balochistan Youth Skills Scheme 2026 at btevta.gob.pk. Complete guide to B-TEVTA online registration, courses, monthly stipends, and 30,000 overseas jobs.",
+    metaTitle: "CM Balochistan Youth Skills 2026: Free Courses & Apply",
+    metaDescription: "Apply online for CM Balochistan Youth Skills Scheme 2026. Discover free NAVTTC technical courses, monthly stipend allowances, eligibility, and portal steps.",
     focusKeyword: "cm balochistan youth skills scheme 2026 online apply",
     lsiKeywords: [
       "btevta online apply 2026",
@@ -8612,8 +8621,8 @@ officialLinks: [
     title: "Fake 8171 SMS Check, Complaint & BISP Lottery Fraud Alert Guide",
     excerpt: "Spot fake 8171 SMS scams and report BISP lottery fraud. Step-by-step guide to reporting scammers on PTA 9000, BISP Helpline 0800-26477, Police 15, and FIA Cybercrime.",
     showExcerpt: true,
-    metaTitle: "Fake 8171 SMS Check & Complaint Guide: PTA 9000 & BISP Helpline Alert",
-    metaDescription: "Spot fake 8171 SMS scams and report BISP lottery fraud. Step-by-step guide to reporting scammers on PTA 9000, BISP Helpline 0800-26477, Police 15, and FIA Cybercrime.",
+    metaTitle: "Fake 8171 SMS Check 2026: Lodge PTA & BISP Fraud Complaint",
+    metaDescription: "Identify fake 8171 lottery SMS scams and report fraudulent numbers to PTA and BISP helpline 0800-26477. Protect your CNIC and recover deducted cash here.",
     focusKeyword: "fake 8171 sms check complaint pta bisp lottery fraud alert",
     lsiKeywords: [
       "pta sms 9000 complaint fake bisp sms",
@@ -8823,8 +8832,8 @@ officialLinks: [
     title: "PMT Score Above 32 BISP Re-Survey Guide: Official Procedure to Challenge Poverty Score and Re-Register (2026)",
     excerpt: "If your BISP PMT score is above 32, your household is classified as financially ineligible for Benazir Kafaalat cash transfers. While you cannot manually edit the score number online, you can legally trigger an NSER dynamic re-survey at your local BISP Tehsil Office if your financial circumstances worsened or your household survey is over two years old.",
     showExcerpt: true,
-    metaTitle: "PMT Score Above 32 BISP Re-Survey Guide: Lower Score & Re-Apply (2026)",
-    metaDescription: "Is your BISP PMT score above 32? Learn how to challenge an ineligible poverty score, qualify for the 2-year NSER dynamic re-survey, update family records, and re-apply.",
+    metaTitle: "PMT Score Above 32? BISP Re-Survey & Appeal Guide (2026)",
+    metaDescription: "Resolve high PMT score above 32 for BISP disqualification. Learn official dynamic re-survey steps, required NADRA documents, and poverty score appeal tips.",
     focusKeyword: "pmt score above 32 bisp re survey guide",
     lsiKeywords: [
       "how to lower bisp pmt score",
@@ -9047,8 +9056,8 @@ officialLinks: [
     title: "BISP Agent Deduction Complaint and Retailer Penalty Guide: How to Report Illegal Fee Cuts, File 8171 Grievances & Recover Cash (2026)",
     excerpt: "Illegal deductions from your Rs. 13,500 BISP Kafaalat payment are strictly prohibited under federal law. If a POS retailer or franchise agent withholds Rs. 500 to Rs. 1,500 as an unauthorized fee, report the terminal immediately via the BISP toll-free helpline at 0800-26477 or visit your local Tehsil Assistant Director to trigger immediate retailer blacklisting and full cash reimbursement.",
     showExcerpt: true,
-    metaTitle: "BISP Agent Deduction Complaint & Retailer Penalty Guide (2026)",
-    metaDescription: "Facing illegal deductions from your Rs. 13,500 BISP stipend? Learn how to report corrupt retailers via 0800-26477, trigger POS deactivations, and recover stolen cash.",
+    metaTitle: "BISP Agent Deduction Complaint: 0800-26477 Helpline 2026",
+    metaDescription: "Lodge a complaint against BISP agents taking illegal cash deductions. Report POS retailer fraud to 0800-26477 toll-free helpline and recover your full stipend.",
     focusKeyword: "bisp agent deduction complaint 8171 retailer penalty",
     lsiKeywords: [
       "bisp retailer kataoti complaint kaise karein",
@@ -9244,8 +9253,8 @@ officialLinks: [
     title: "BISP and Ehsaas Difference Explained: History, 8171 Portal, Program Mapping & Current Status (2026)",
     excerpt: "The primary difference between BISP and Ehsaas is that BISP is a permanent, statutory social safety net established under the BISP Act 2010, whereas Ehsaas was an umbrella policy framework introduced in 2019 that temporarily integrated and rebranded BISP initiatives. Following administrative restructuring, all federal cash transfers, educational stipends, and nutritional grants operate under the official BISP brand and use the unified 8171 portal.",
     showExcerpt: true,
-    metaTitle: "BISP and Ehsaas Difference Explained: History, 8171 Portal & 2026 Status",
-    metaDescription: "BISP and Ehsaas difference explained: legal standing, BISP Act 2010 vs Ehsaas framework, 8171 portal verification, program name changes, and current 2026 status.",
+    metaTitle: "BISP vs Ehsaas Difference 2026: Key Changes & Portal Guide",
+    metaDescription: "Understand key differences between BISP and Ehsaas programs in 2026. Compare cash stipends, targeting criteria, 8171 portal services, and welfare structure.",
     focusKeyword: "bisp and ehsaas difference",
     lsiKeywords: [
       "difference between bisp and ehsaas program",
@@ -9565,8 +9574,8 @@ officialLinks: [
     title: "Punjab Solar Tube Well Scheme 2026 Online Apply: Eligibility, Subsidy Rates, Registration Portal & Balloting",
     excerpt: "To apply for the Punjab Solar Tube Well Scheme 2026 online, eligible farmers in Punjab must submit their CNIC, land ownership verification (Fard), and tube well details through the official portal at cmstp.punjab.gov.pk or via agriculture.punjab.gov.pk. The Punjab government covers up to 67% of the capital cost to convert existing diesel and electric tube wells into solar pumping systems through transparent PITB computerized balloting.",
     showExcerpt: true,
-    metaTitle: "Punjab Solar Tube Well Scheme 2026 Online Apply: Subsidy & Portal",
-    metaDescription: "Punjab solar tube well scheme 2026 online apply: cmstp.punjab.gov.pk portal registration, 67% government subsidy, 10-20 HP system capacities, and balloting criteria.",
+    metaTitle: "Punjab Solar Tube Well Scheme 2026: Apply Online & Subsidy",
+    metaDescription: "Apply online for Punjab Solar Tube Well Scheme 2026. Check farmer subsidy rates, balloting results, portal registration forms, and agriculture criteria here.",
     focusKeyword: "punjab solar tube well scheme 2026 online apply",
     lsiKeywords: [
       "cm punjab solar tubewell scheme online registration",
@@ -9793,8 +9802,8 @@ officialLinks: [
     title: "Kisan Card 8070 PIN Verification and BOP ATM Activation: Complete Step-by-Step Guide (2026)",
     excerpt: "To activate your CM Punjab Kisan Card, verify your eligibility via 8070 SMS, collect the physical card from your Tehsil Agriculture Extension office, and insert it into any Bank of Punjab (BOP) ATM. Enter the 6-digit OTP sent to your registered mobile number and set your secure 4-digit ATM PIN to immediately unlock your Rs. 150,000 interest-free agricultural input credit.",
     showExcerpt: true,
-    metaTitle: "Kisan Card 8070 PIN Verification & BOP ATM Activation Guide",
-    metaDescription: "Kisan Card 8070 PIN verification and BOP ATM activation: step-by-step OTP generation, ATM PIN setup, POS fertilizer purchase rules, and error fixes.",
+    metaTitle: "Kisan Card 8070 Verification: BOP Pin & Activation (2026)",
+    metaDescription: "Verify your CM Punjab Kisan Card via 8070 SMS. Follow step-by-step Bank of Punjab ATM biometric PIN generation, subsidized fertilizer purchases, and limits.",
     focusKeyword: "kisan card 8070 pin verification and bop atm activation",
     lsiKeywords: [
       "cm punjab kisan card pin generation bop atm",
@@ -10001,12 +10010,11 @@ officialLinks: [
   },
   {
     "slug": "ehsaas-tracking-check-payment-status",
+    metaDescription: "Track Ehsaas payment status online in 2026. Check 8171 portal updates by CNIC, resolve biometric issues, aur official guidance yahan dekhein.",
+    metaTitle: "Ehsaas Tracking 2026: Check Payment Status by CNIC",
     "title": "Ehsaas Tracking: Check Your Payment Status",
     "excerpt": "Ehsaas tracking usually refers to checking BISP-related household information through the official 8171 route. Follow the result and confirm payment details separately.",
-    "showExcerpt": true,
-    "metaTitle": "Ehsaas Tracking: Check Your Payment Status",
-    "metaDescription": "Use Ehsaas tracking through official BISP routes, understand household status, confirm payment instructions and resolve unclear results without sharing private data.",
-    "focusKeyword": "ehsaas tracking",
+    "showExcerpt": true,    "focusKeyword": "ehsaas tracking",
     "lsiKeywords": [
       "ehsaas tracking news",
       "8171 check online",
@@ -10559,8 +10567,8 @@ officialLinks: [
     slug: "8171-web-portal-not-working",
     title: "8171 Web Portal Not Working? 5 Checks Before You Assume It Is Down (2026)",
     excerpt: "If the official 8171 portal will not load or submit, check the address, image code, browser, and connection before using an official BISP fallback.",
-    metaTitle: "8171 Web Portal Not Working? 5 Checks (2026)",
-    metaDescription: "If the official 8171 portal will not load or submit, check the address, image code, browser and connection, then use an official BISP fallback.",
+    metaTitle: "8171 Web Portal Not Working? Server Error & Fix (2026)",
+    metaDescription: "Fix 8171 web portal not working, 502 bad gateway errors, and loading failures. Learn official SMS alternatives and the best hours to check your CNIC online.",
     focusKeyword: "8171 web portal not working",
     lsiKeywords: ["8171 portal down", "8171 check online 2026", "bisp 8171 web portal", "8171 web portal registration", "8171 check online cnic 2026", "bisp official website"],
     entities: ["BISP", "8171 web portal", "CNIC", "NADRA", "Ehsaas Programme"],
@@ -10713,11 +10721,10 @@ officialLinks: [
   },
   {
     "slug": "8171-786-ehsaas-tracking-official-number",
+    metaDescription: "Verify official BISP SMS routes in 2026. Check 8171 vs 786 codes safely, avoid fake Ehsaas tracking fraud, aur official updates yahan dekhein.",
+    metaTitle: "8171, 786 & Ehsaas Tracking: The Official BISP Route",
     "title": "8171, 786, and Ehsaas Tracking: Which Number Should You Actually Use?",
-    "excerpt": "BISP says 8171 is its official messaging number. Learn how to handle 786, 5771, 7181, and older Ehsaas tracking addresses safely.",
-    "metaTitle": "8171, 786 & Ehsaas Tracking: The Official BISP Route",
-    "metaDescription": "BISP says 8171 is its official messaging number. Learn how to handle 786, 5771, 7181 and older Ehsaas tracking addresses safely.",
-    "focusKeyword": "8171 786 ehsaas tracking",
+    "excerpt": "BISP says 8171 is its official messaging number. Learn how to handle 786, 5771, 7181, and older Ehsaas tracking addresses safely.",    "focusKeyword": "8171 786 ehsaas tracking",
     "lsiKeywords": [
       "786 web portal",
       "5771 check online",
@@ -11053,11 +11060,10 @@ officialLinks: [
   },
   {
     "slug": "check-bisp-status-by-cnic-online",
+    metaDescription: "Apna 13-hanso ka CNIC darj karein aur BISP status online check karein. 8171 portal eligibility response samjhein aur official steps yahan dekhein.",
+    metaTitle: "Check BISP Status by CNIC Online: 2026 8171 Portal",
     "title": "How to Check Your BISP Status by CNIC Online (2026 Method)",
-    "excerpt": "Use the official 8171 portal to check BISP status by CNIC, understand the returned response, and follow the correct official next step.",
-    "metaTitle": "Check BISP Status by CNIC Online: 2026 Steps",
-    "metaDescription": "Use the official 8171 portal to check a BISP status by CNIC, understand the returned response, and follow the correct official next step.",
-    "focusKeyword": "check bisp status by cnic online",
+    "excerpt": "Use the official 8171 portal to check BISP status by CNIC, understand the returned response, and follow the correct official next step.",    "focusKeyword": "check bisp status by cnic online",
     "lsiKeywords": [
       "bisp registration check by cnic",
       "online cnic verification",
@@ -11363,11 +11369,10 @@ officialLinks: [
   },
   {
     "slug": "how-to-register-bisp-online-guide",
+    metaDescription: "Understand BISP 8171 online registration, household status checks, official survey visits, document preparation and what to do after a registration inquiry.",
+    metaTitle: "BISP 8171 Online Registration: Apply Process (2026)",
     "title": "BISP 8171 Online Registration: Official Process & Office Steps",
-    "excerpt": "The full registration route — NSER survey, tehsil desk, and the official online options — explained in order.",
-    "metaTitle": "BISP 8171 Online Registration: Official Process",
-    "metaDescription": "Understand BISP 8171 online registration, household status checks, official survey visits, document preparation and what to do after a registration inquiry.",
-    "focusKeyword": "bisp 8171 online registration",
+    "excerpt": "The full registration route — NSER survey, tehsil desk, and the official online options — explained in order.",    "focusKeyword": "bisp 8171 online registration",
     "lsiKeywords": [
       "how to apply bisp online",
       "bisp online registration",
@@ -11868,11 +11873,10 @@ officialLinks: [
   },
   {
     "slug": "benazir-kafaalat-registration-cnic-check-guide",
+    metaDescription: "How Benazir Kafaalat registration differs from general BISP enrollment, how the CNIC check works, and what a positive result means for your payment.",
+    metaTitle: "Benazir Kafaalat Registration 2026: 8171 CNIC Check",
     "title": "Benazir Kafaalat Registration & CNIC Check: A Complete Walkthrough",
-    "excerpt": "How Kafaalat differs from general BISP registration, how the CNIC check works, and what a positive result means next.",
-    "metaTitle": "Benazir Kafaalat Registration & CNIC Check",
-    "metaDescription": "How Benazir Kafaalat registration differs from general BISP enrollment, how the CNIC check works, and what a positive result means for your payment.",
-    "focusKeyword": "benazir kafaalat registration cnic check",
+    "excerpt": "How Kafaalat differs from general BISP registration, how the CNIC check works, and what a positive result means next.",    "focusKeyword": "benazir kafaalat registration cnic check",
     "lsiKeywords": [
       "ehsaas kafalat program check cnic",
       "ehsaas kafalat registration",
@@ -11971,8 +11975,8 @@ officialLinks: [
     slug: "ehsaas-emergency-cash-program-guide",
     title: "Ehsaas Emergency Cash Programme: Who Qualifies and How Disbursement Works",
     excerpt: "How emergency cash disbursements differ from routine Kafaalat payments, and how eligibility is announced.",
-    metaTitle: "Ehsaas Emergency Cash Programme: Who Qualifies",
-    metaDescription: "How Ehsaas emergency cash disbursements differ from routine Kafaalat payments, how eligibility rounds are announced, and how to check if one is active.",
+    metaTitle: "Ehsaas Emergency Cash 2026: 8171 Check Online & Rs 14,000",
+    metaDescription: "Check Ehsaas Emergency Cash status online for 2026. Verify CNIC eligibility on the 8171 web portal, payment release dates, and biometric cash pickup steps.",
     focusKeyword: "ehsaas emergency cash programme",
     lsiKeywords: ["ehsaas emergency cash program 2022", "ehsaas program 12000", "government emergency cash", "pakistan emergency cash", "ehsaas emergency cash program nadra"],
     entities: ["Ehsaas Programme", "BISP", "NADRA", "Government of Pakistan", "CNIC"],
@@ -12024,8 +12028,8 @@ officialLinks: [
     slug: "ehsaas-registration-center-locator-guide",
     title: "Ehsaas Registration Centers: How to Find and Prepare for Your Visit",
     excerpt: "What a registration center actually handles, how to find an authorized one, and what to bring.",
-    metaTitle: "Ehsaas Registration Centers: Find & Prepare",
-    metaDescription: "What an Ehsaas registration center actually handles, how to find an authorized location near you, and what documents to bring to your visit.",
+    metaTitle: "Ehsaas Registration Centers 2026: Tehsil Desk Locator",
+    metaDescription: "Locate your nearest Ehsaas registration center and BISP Tehsil desk in 2026. Check dynamic registry office hours, token counters, and required NADRA papers.",
     focusKeyword: "ehsaas registration center",
     lsiKeywords: ["ahsas registration center", "ehsaas registration center near me", "ehsaas registration center lahore", "ehsaas registration centre", "ehsaas registration center online apply"],
     entities: ["Ehsaas Programme", "BISP", "NSER", "CNIC", "Government of Pakistan"],
@@ -12260,8 +12264,8 @@ officialLinks: [
     slug: "ehsaas-rashan-program-guide",
     title: "Ehsaas Rashan Programme: Ration Support Explained",
     excerpt: "How ration-support disbursements are organized, who they typically target, and how to verify a round is genuine.",
-    metaTitle: "Ehsaas Rashan Programme: Ration Support Explained",
-    metaDescription: "How Ehsaas rashan ration-support disbursements are organized, who typically qualifies based on existing BISP data, and how to verify a genuine round.",
+    metaTitle: "Ehsaas Rashan Riayat 2026: 8123 SMS Online Registration",
+    metaDescription: "Register for Ehsaas Rashan Riayat program via 8123 SMS. Check 40% grocery subsidy on atta, ghee, and daal at registered utility stores and CSD outlets here.",
     focusKeyword: "ehsaas rashan programme",
     lsiKeywords: ["8123 ehsaas rashan program", "ehsas rashan program", "punjab ration program", "ration card download", "ehsaas rashan program 8123"],
     entities: ["Ehsaas Programme", "BISP", "NSER", "Government of Pakistan"],
@@ -12302,11 +12306,10 @@ officialLinks: [
   },
   {
     "slug": "punjab-rozgar-scheme-guide",
+    metaDescription: "Review Punjab Rozgar subsidized business finance, official application terms, repayment questions and how to avoid fake approval or fee demands.",
+    metaTitle: "Punjab Rozgar Scheme 2026: Apply Online & Loan Tiers",
     "title": "Punjab Rozgar Scheme: Subsidized Business Finance",
-    "excerpt": "Understand Punjab Rozgar business finance, official terms and the difference between subsidized markup and an interest-free loan.",
-    "metaTitle": "Punjab Rozgar Scheme: Subsidized Business Finance",
-    "metaDescription": "Review Punjab Rozgar subsidized business finance, official application terms, repayment questions and how to avoid fake approval or fee demands.",
-    "focusKeyword": "punjab rozgar scheme",
+    "excerpt": "Understand Punjab Rozgar business finance, official terms and the difference between subsidized markup and an interest-free loan.",    "focusKeyword": "punjab rozgar scheme",
     "lsiKeywords": [
       "cm punjab rozgar scheme",
       "rozgar scheme loan",
@@ -12398,8 +12401,8 @@ officialLinks: [
     slug: "check-bisp-eligibility-8171",
     title: "How to Check BISP Eligibility Through the Official 8171 Portal",
     excerpt: "A privacy-first walkthrough of the official status check, common responses, and what to do next.",
-    metaTitle: "Check BISP Eligibility via the Official 8171 Portal",
-    metaDescription: "A privacy-first walkthrough of the official BISP eligibility check through 8171: what the code does, how to read the response, and your next step.",
+    metaTitle: "Check BISP Eligibility 8171 Online: CNIC Status (2026)",
+    metaDescription: "Check BISP eligibility online via official 8171 web portal. Enter your 13-digit CNIC to verify PMT score cutoffs, payment approval, and household status.",
     focusKeyword: "check bisp eligibility 8171",
     lsiKeywords: ["bisp 8171 eligibility check", "eligibility criteria for bisp", "how to check bisp eligibility", "8171 check online 2026", "bisp 8171 online apply"],
     entities: ["BISP", "8171 web portal", "CNIC", "NADRA", "PMT Score"],
@@ -12470,8 +12473,8 @@ officialLinks: [
     slug: "benazir-kafaalat-payment-guide",
     title: "Benazir Kafaalat Payment Guide: Verify, Collect, and Stay Safe",
     excerpt: "What beneficiaries should check before collecting a payment, plus safe complaint steps.",
-    metaTitle: "Benazir Kafaalat Payment Guide: Verify & Collect",
-    metaDescription: "What to check before you travel to collect a Benazir Kafaalat payment, how to choose the right collection channel, and how to report a problem.",
+    metaTitle: "Benazir Kafaalat Payment 2026: 8171 Check & ATM Cash Steps",
+    metaDescription: "Check your Benazir Kafaalat quarterly payment of Rs 14,500 online. Learn biometric ATM withdrawal at HBL and Bank Alfalah without retailer deductions here.",
     focusKeyword: "benazir kafaalat payment",
     lsiKeywords: ["ehsaas kafalat program check cnic", "how to check ehsaas kafalat program money online", "bisp payment method", "benazir income support program check account"],
     entities: ["Benazir Kafaalat", "BISP", "CNIC", "NADRA"],
@@ -12531,11 +12534,10 @@ officialLinks: [
   },
   {
     "slug": "taleemi-wazaif-registration-guide",
+    metaDescription: "A simple guide to Taleemi Wazaif enrollment: how it relates to your household's BISP status, the school records you need, and attendance conditions.",
+    metaTitle: "Taleemi Wazaif Registration 2026: Family Slip Guide",
     "title": "Taleemi Wazaif Registration: A Family Preparation Checklist",
-    "excerpt": "A simple guide to enrollment, school records, attendance, and official verification.",
-    "metaTitle": "Taleemi Wazaif Registration: Family Checklist",
-    "metaDescription": "A simple guide to Taleemi Wazaif enrollment: how it relates to your household's BISP status, the school records you need, and attendance conditions.",
-    "focusKeyword": "taleemi wazaif registration",
+    "excerpt": "A simple guide to enrollment, school records, attendance, and official verification.",    "focusKeyword": "taleemi wazaif registration",
     "lsiKeywords": [
       "taleemi wazaif enrollment",
       "bisp education stipend",
@@ -12620,11 +12622,10 @@ officialLinks: [
   },
   {
     "slug": "pm-youth-business-loan-guide",
+    metaDescription: "Apply online for PM Youth Business & Agriculture Loan 2026. Review eligibility, Tier 1-3 financing limits, and required documents yahan dekhein.",
+    metaTitle: "PM Youth Business & Agriculture Loan 2026: Apply Now",
     "title": "PM Youth Business & Agriculture Loan: Before You Apply",
-    "excerpt": "Review the official eligibility rules, application route, and documents before starting.",
-    "metaTitle": "PM Youth Business & Agriculture Loan: Apply Guide",
-    "metaDescription": "Review the official PM Youth Business & Agriculture Loan eligibility rules, application route, and required documents before you start.",
-    "focusKeyword": "pm youth business loan",
+    "excerpt": "Review the official eligibility rules, application route, and documents before starting.",    "focusKeyword": "pm youth business loan",
     "lsiKeywords": [
       "youth business loan scheme pakistan",
       "pm agriculture loan",
@@ -12768,11 +12769,10 @@ officialLinks: [
   },
   {
     "slug": "electric-bike-scheme-guide",
+    metaDescription: "Apply for Punjab Electric Bike Scheme 2026. Compare student eligibility, monthly installment plans, BOP bank financing, aur portal yahan dekhein.",
+    metaTitle: "Punjab Electric Bike Scheme 2026: Costs & Eligibility",
     "title": "Electric Bike Scheme: Punjab Eligibility, Costs & Notices",
-    "excerpt": "A safe method for comparing eligibility, financing, and application details.",
-    "metaTitle": "Electric Bike Scheme: Punjab Eligibility & Costs",
-    "metaDescription": "A safe method for comparing electric bike scheme eligibility, financing terms, and application details before you respond to any notice.",
-    "focusKeyword": "electric bike scheme",
+    "excerpt": "A safe method for comparing eligibility, financing, and application details.",    "focusKeyword": "electric bike scheme",
     "lsiKeywords": [
       "electric vehicle scheme pakistan",
       "e-bike subsidy",
@@ -12930,11 +12930,10 @@ officialLinks: [
   },
   {
     "slug": "farmer-support-card-guide",
+    metaDescription: "Apply for Farmer Support Card and Kissan Card 2026. Verify land records, bank subsidies, fertilizer grants, aur registration steps yahan dekhein.",
+    metaTitle: "Farmer Support Card: Kissan Card Checks & Preparation",
     "title": "Farmer Support Card: Kissan Card Checks & Preparation",
-    "excerpt": "Confirm the province, land record, benefit type, bank partner, and official deadline.",
-    "metaTitle": "Farmer Support Card: Kissan Card Checks & Preparation",
-    "metaDescription": "Confirm the province, land record, benefit type, bank partner, and official deadline before registering for a farmer support card scheme.",
-    "focusKeyword": "farmer support card",
+    "excerpt": "Confirm the province, land record, benefit type, bank partner, and official deadline.",    "focusKeyword": "farmer support card",
     "lsiKeywords": [
       "kissan card",
       "farmer card registration",
@@ -13104,11 +13103,10 @@ officialLinks: [
   },
   {
     "slug": "avoid-bisp-fraud",
+    metaDescription: "Protect your CNIC and BISP payments from scams in 2026. Identify fake SMS alerts, agent fee demands, and follow official 8171 safety steps yahan dekhein.",
+    metaTitle: "Avoid BISP Fraud & Scams 2026: 7 Red Flags to Know",
     "title": "BISP Scam Alert: Seven Red Flags to Recognize",
-    "excerpt": "Protect your identity and payment by recognizing fake messages, fees, and portals.",
-    "metaTitle": "BISP Scam Alert: 7 Red Flags to Recognize",
-    "metaDescription": "Protect your CNIC and BISP payment by recognizing fake agents, fee requests, and lookalike portals — and what to do instead.",
-    "focusKeyword": "bisp scam",
+    "excerpt": "Protect your identity and payment by recognizing fake messages, fees, and portals.",    "focusKeyword": "bisp scam",
     "lsiKeywords": [
       "bisp fraud red flags",
       "fake bisp agent",
@@ -13260,11 +13258,10 @@ officialLinks: [
   },
   {
     "slug": "documents-for-bisp-registration",
+    metaDescription: "Prepare required documents for BISP registration and Taleemi Wazaif 2026. Check CNIC, B-Form, school slips, aur submission guidelines yahan dekhein.",
+    metaTitle: "Documents for BISP Registration 2026: Full Checklist",
     "title": "Documents for BISP, Taleemi Wazaif & Ehsaas Registration",
-    "excerpt": "Organize identity, household and school records for the official programme process that applies to your family.",
-    "metaTitle": "Documents for BISP & Taleemi Wazaif Registration",
-    "metaDescription": "Prepare documents for BISP registration, Taleemi Wazaif and Ehsaas-related inquiries, with guidance on missing records, school slips and safe official submission.",
-    "focusKeyword": "documents for bisp registration",
+    "excerpt": "Organize identity, household and school records for the official programme process that applies to your family.",    "focusKeyword": "documents for bisp registration",
     "lsiKeywords": [
       "bisp registration desk checklist",
       "nser survey documents",
@@ -13442,8 +13439,8 @@ officialLinks: [
     slug: "ehsaas-tracking-news",
     title: "Ehsaas Tracking News 2026: The Real Changes to BISP 8171 (And What They Mean for You)",
     excerpt: "The real BISP 8171 changes in 2026 — portal updates, tighter CNIC checks, the NSER re-survey, and what a shifting payment schedule means for your status.",
-    metaTitle: "Ehsaas Tracking News 2026: BISP 8171 Changes",
-    metaDescription: "Latest Ehsaas tracking news for 2026: what changed on the 8171 web portal, SMS/CNIC verification, the NSER re-survey, and Kafaalat payments — and what to do next.",
+    metaTitle: "Ehsaas Tracking News 2026: 8171 Portal Updates & Qist Date",
+    metaDescription: "Get latest Ehsaas tracking news for 2026. Verify 8171 portal policy changes, new payment tranche dates, biometric survey deadlines, and official announcements.",
     focusKeyword: "ehsaas tracking news 2026",
     lsiKeywords: ["bisp 8171 changes 2026", "nser re-survey", "ehsaas tracking pass gov pk", "bisp payment schedule 2026"],
     entities: ["BISP", "Ehsaas Programme", "8171 web portal", "NSER", "NADRA"],
@@ -13547,8 +13544,8 @@ officialLinks: [
     slug: "8171-register",
     title: "8171 Register: Does Texting Your CNIC Actually Sign You Up for BISP?",
     excerpt: "No — texting your CNIC to 8171 does not register you for BISP. It only checks your existing status. Here’s how registration actually works.",
-    metaTitle: "8171 Register: Does Texting Your CNIC Sign You Up?",
-    metaDescription: "Texting your CNIC to 8171 checks your BISP status — it does not register you. Learn what “8171 register” really does and how to actually register for BISP.",
+    metaTitle: "8171 Register Online 2026: BISP CNIC Form & Tehsil Steps",
+    metaDescription: "Register for BISP 8171 online in 2026. Complete the dynamic survey at your local Tehsil registration desk with NADRA B-Forms and utility bills to qualify.",
     focusKeyword: "8171 register",
     lsiKeywords: ["8171 web portal registration", "how to register for bisp", "8171 check online 2026 registration", "bisp online registration"],
     entities: ["BISP", "8171 web portal", "CNIC", "NSER", "NADRA"],
@@ -13655,8 +13652,8 @@ officialLinks: [
     slug: "bisp-login-username-password",
     title: "No Username, No Password: The Truth About Logging Into the BISP 8171 Portal",
     excerpt: "There’s no username or password for the BISP 8171 portal. Access works through your CNIC and a one-time password sent to your registered mobile number.",
-    metaTitle: "BISP Login: No Username or Password Needed",
-    metaDescription: "The BISP 8171 portal has no username or password login. Access works with your CNIC and an OTP sent to your registered mobile number. Here’s the truth.",
+    metaTitle: "BISP Login 2026: Official Portal, Username & CNIC Check",
+    metaDescription: "Understand BISP login access for 2026. Find official portal links, staff username guidance, and citizen CNIC verification without unofficial password forms.",
     focusKeyword: "bisp login username and password",
     lsiKeywords: ["bisp portal login", "8171 web portal login", "otp verification bisp", "bisp account access"],
     entities: ["BISP", "8171 web portal", "CNIC", "OTP", "NADRA"],
@@ -13759,8 +13756,8 @@ officialLinks: [
     slug: "benazir-form",
     title: "What Is the “Benazir Form”? Every Piece of BISP Paperwork Explained Simply",
     excerpt: "There’s no single Benazir form. It usually means the NSER registration survey — plus separate Kafaalat, Taleemi Wazaif, and Nashonuma paperwork. Each one explained.",
-    metaTitle: "Benazir Form Explained: BISP Paperwork Guide",
-    metaDescription: "There is no single Benazir form. It usually means the NSER survey plus separate Kafaalat, Taleemi Wazaif, and Nashonuma paperwork. Every form explained simply.",
+    metaTitle: "Benazir Form 2026: Download BISP Registration Slip Guide",
+    metaDescription: "Download the official Benazir form and dynamic survey token slip in 2026. Learn required household documents, submission steps, and Tehsil desk verification.",
     focusKeyword: "benazir form",
     lsiKeywords: ["benazir income support program", "nser survey form", "taleemi wazaif form", "nashonuma form", "bisp paperwork"],
     entities: ["BISP", "NSER", "Benazir Kafaalat", "Taleemi Wazaif", "Nashonuma Programme", "CNIC"],
@@ -13884,8 +13881,8 @@ officialLinks: [
     slug: "check-bisp-account-status",
     title: "Is Your BISP Card Active? How to Check Your Account Status in Minutes",
     excerpt: "Check your BISP card or account status in minutes: 8171 SMS, the web portal, or the BISP helpline — plus what each status result really means.",
-    metaTitle: "Check BISP Account Status: SMS, Portal & Helpline",
-    metaDescription: "Check your BISP account or card status in minutes via 8171 SMS, the web portal, or the BISP helpline — plus what each status result actually means.",
+    metaTitle: "Check BISP Account Status 2026: Balance, Tranche & Bank",
+    metaDescription: "Check your BISP account status online in 2026. Verify quarterly balance, direct bank account transfer eligibility, payment cycles, and biometric credentials.",
     focusKeyword: "check bisp account status",
     lsiKeywords: ["bisp card check", "bisp id card check", "benazir sim card", "bisp score check", "bisp verification"],
     entities: ["BISP", "8171 web portal", "NSER", "CNIC", "NADRA"],
@@ -13998,11 +13995,10 @@ officialLinks: [
   },
   {
     "slug": "bisp-balance-check-by-cnic-2026",
+    metaDescription: "Check BISP balance by CNIC online in 2026. Verify 8171 payment amounts, phase dates, resolve deductions, aur official portal steps yahan dekhein.",
+    metaTitle: "BISP Balance Check by CNIC 2026: 8171 Online Portal",
     "title": "BISP Balance Check by CNIC 2026: Easy 8171 Guide",
-    "excerpt": "Check your BISP balance by CNIC in 2026 through the official 8171 web portal or SMS shortcode — no office visit, no fee, no third party required.",
-    "metaTitle": "BISP Balance Check by CNIC 2026: 8171 Guide",
-    "metaDescription": "Check BISP balance by CNIC using official routes, understand payment amounts and phases, resolve missing installments and report deductions with useful evidence.",
-    "focusKeyword": "bisp 8171 online check balance",
+    "excerpt": "Check your BISP balance by CNIC in 2026 through the official 8171 web portal or SMS shortcode — no office visit, no fee, no third party required.",    "focusKeyword": "bisp 8171 online check balance",
     "lsiKeywords": [
       "bisp check balance online by cnic",
       "bisp payment check",
@@ -14211,11 +14207,10 @@ officialLinks: [
   },
   {
     "slug": "bisp-payment-method",
+    metaDescription: "Compare every BISP payment method for 2026 — bank agents, digital wallets, and cash camps — plus how biometric verification and safe collection work.",
+    metaTitle: "BISP Payment Method 2026: Bank & Camp Collection Guide",
     "title": "BISP Payment Method 2026: Complete Safe Guide",
-    "excerpt": "BISP now pays out through several channels — bank agents, digital wallets, and cash camps. Here's how each one works and how to collect safely.",
-    "metaTitle": "BISP Payment Method 2026: Complete Safe Guide",
-    "metaDescription": "Compare every BISP payment method for 2026 — bank agents, digital wallets, and cash camps — plus how biometric verification and safe collection work.",
-    "focusKeyword": "bisp payment method",
+    "excerpt": "BISP now pays out through several channels — bank agents, digital wallets, and cash camps. Here's how each one works and how to collect safely.",    "focusKeyword": "bisp payment method",
     "lsiKeywords": [
       "bisp payment channels",
       "bisp digital wallet",
@@ -14369,11 +14364,10 @@ officialLinks: [
   },
   {
     "slug": "ehsaas-program-balance-check",
+    metaDescription: "Check your Ehsaas program balance in 2026 via the 8171 portal, SMS, or payment center, understand common errors, and avoid balance-check scams.",
+    metaTitle: "Ehsaas Program Balance Check 2026: 8171 Online Portal",
     "title": "Ehsaas Program Balance Check: Complete 2026 Guide",
-    "excerpt": "Check your Ehsaas program balance online, by SMS, or at a payment center in 2026 — and what to do when the result looks wrong or delayed.",
-    "metaTitle": "Ehsaas Program Balance Check: Complete 2026 Guide",
-    "metaDescription": "Check your Ehsaas program balance in 2026 via the 8171 portal, SMS, or payment center, understand common errors, and avoid balance-check scams.",
-    "focusKeyword": "ehsaas program balance check",
+    "excerpt": "Check your Ehsaas program balance online, by SMS, or at a payment center in 2026 — and what to do when the result looks wrong or delayed.",    "focusKeyword": "ehsaas program balance check",
     "lsiKeywords": [
       "ehsaas balance check online",
       "ehsaas 8171 sms check",
@@ -14519,8 +14513,8 @@ officialLinks: [
     slug: "what-is-pmt-score",
     title: "What Is PMT Score? BISP & Ehsaas Eligibility Explained",
     excerpt: "PMT score is the number the government calculates from your NSER survey data to decide BISP and Ehsaas eligibility. Here's what it measures and how it's used.",
-    metaTitle: "What Is PMT Score? BISP & Ehsaas Eligibility",
-    metaDescription: "Learn what a PMT score is, how it's calculated from your NSER data, the eligibility bands it decides, and why it can change over time.",
+    metaTitle: "What Is PMT Score? BISP & Ehsaas Eligibility Cutoffs 2026",
+    metaDescription: "Discover what PMT score means for BISP and Ehsaas eligibility in 2026. Learn how poverty scores are calculated, threshold cutoffs, and how to lower scores.",
     focusKeyword: "what is pmt score",
     lsiKeywords: ["pmt score calculation", "pmt score eligibility bands", "pmt score vs nser", "why is my pmt score high", "can pmt score be changed"],
     entities: ["PMT score", "NSER", "BISP", "Ehsaas Programme", "Proxy Means Test"],
@@ -14654,8 +14648,8 @@ officialLinks: [
     slug: "benazir-sim-card",
     title: "Benazir SIM Card 2026: Free Wallet SIM Guide",
     excerpt: "The \"Benazir SIM card\" isn't a special product — it's a free Jazz or Telenor SIM registered to your CNIC that unlocks the BISP mobile wallet.",
-    metaTitle: "Benazir SIM Card 2026: Free Wallet SIM Guide",
-    metaDescription: "Learn what the Benazir SIM card really is, who needs to register for one, how to get it free at a Tehsil Office, and how wallet activation works.",
+    metaTitle: "Benazir SIM Card 2026: Free Registered SIM & Wallet Guide",
+    metaDescription: "Get the official Benazir SIM card in 2026. Learn biometric registration at telecom franchises, digital wallet setup, and fee-free monthly stipend alerts.",
     focusKeyword: "benazir sim card",
     lsiKeywords: ["bisp free sim registration", "bisp social protection wallet", "jazz telenor sim bisp", "bisp wallet activation", "bisp sim tehsil office"],
     entities: ["BISP", "Jazz", "Telenor", "JazzCash", "Easypaisa", "CNIC", "NADRA"],
@@ -14803,8 +14797,8 @@ officialLinks: [
     slug: "bisp-card-check",
     title: "BISP Card Check: Active, Blocked & Replacement Guide",
     excerpt: "Check whether your BISP payment card is active or blocked, tell a card problem apart from an eligibility hold, and get a lost or damaged card replaced.",
-    metaTitle: "BISP Card Check: Active, Blocked & Replacement",
-    metaDescription: "Check if your BISP card is active or blocked, fix a lost or damaged card, and understand common ATM errors and replacement steps.",
+    metaTitle: "BISP Card Check 2026: Status, Blocked CNIC & Replacement",
+    metaDescription: "Check your BISP debit card status online in 2026. Learn how to unblock frozen cards, request replacements at Tehsil desks, and transition to biometric cash.",
     focusKeyword: "bisp card check",
     lsiKeywords: ["bisp card blocked", "bisp card lost replacement", "bisp debit card atm", "bisp card vs eligibility status", "bisp card digital wallet"],
     entities: ["BISP", "HBL", "Bank Alfalah", "CNIC", "NADRA", "8171 web portal"],
@@ -14945,8 +14939,8 @@ officialLinks: [
     slug: "bisp-id-card-check",
     title: "BISP ID Card Check: Fix a Blocked CNIC Fast",
     excerpt: "When a BISP check comes back wrong, the cause is often your CNIC itself, not your eligibility. Here's how to tell the two apart and fix an ID-card block.",
-    metaTitle: "BISP ID Card Check: Fix a Blocked CNIC Fast",
-    metaDescription: "Learn how an expired or flagged CNIC blocks a BISP check (Error 933), how to fix it at NADRA, and how long reactivation typically takes.",
+    metaTitle: "BISP ID Card Check 2026: Verify 13-Digit CNIC on 8171",
+    metaDescription: "Verify your 13-digit ID card for BISP payments in 2026. Resolve expired CNIC suspensions, update NADRA marital records, and restore withheld Kafaalat cash.",
     focusKeyword: "bisp id card check",
     lsiKeywords: ["bisp error 933", "expired cnic bisp payment", "bisp cnic blocked fix", "nadra cnic renewal bisp", "bisp duplicate registration flag"],
     entities: ["BISP", "CNIC", "NADRA", "NSER", "8171 web portal"],
@@ -15083,10 +15077,9 @@ officialLinks: [
   },
   {
     "slug": "cnic-verification-guide",
-    "title": "CNIC Check Online: Verification Across Programmes",
-    "metaTitle": "CNIC Check Online: Verification Across Programmes",
-    "metaDescription": "Understand CNIC checks across BISP, Taleemi Wazaif, Ehsaas and Punjab schemes. Find official routes and learn which office handles identity or record issues.",
-    "excerpt": "Choose the correct CNIC verification route for BISP, Kafaalat, Taleemi Wazaif, Ehsaas and provincial schemes.",
+    metaDescription: "Understand CNIC checks across BISP, Taleemi Wazaif, Ehsaas and Punjab schemes. Find official routes and learn which office handles identity or record issues.",
+    metaTitle: "CNIC Check Online 2026: Verification Across Schemes",
+    "title": "CNIC Check Online: Verification Across Programmes",    "excerpt": "Choose the correct CNIC verification route for BISP, Kafaalat, Taleemi Wazaif, Ehsaas and provincial schemes.",
     "focusKeyword": "cnic check online",
     "lsiKeywords": [
       "online cnic check",
@@ -15772,11 +15765,10 @@ officialLinks: [
   },
   {
     "slug": "ramzan-package-check-guide",
+    metaDescription: "The Ramzan Relief Package is checked via NITB's portal or SMS to 9999 — not BISP's 8171. See how the check works and how to avoid fake sites.",
+    metaTitle: "Ramzan Package Check 2026: 8171 or 9999 Portal Guide",
     "title": "Ramzan Package Check: Is It 8171, 9999, or a Different Number?",
-    "excerpt": "The Ramzan Relief Package is checked via NITB's official portal or SMS to 9999, not BISP's 8171. See how the check works, what it pays, and how to avoid fake sites.",
-    "metaTitle": "Ramzan Package Check: 8171 or 9999? (2026)",
-    "metaDescription": "The Ramzan Relief Package is checked via NITB's portal or SMS to 9999 — not BISP's 8171. See how the check works and how to avoid fake sites.",
-    "focusKeyword": "ramzan package check",
+    "excerpt": "The Ramzan Relief Package is checked via NITB's official portal or SMS to 9999, not BISP's 8171. See how the check works, what it pays, and how to avoid fake sites.",    "focusKeyword": "ramzan package check",
     "lsiKeywords": [
       "8171 ramzan package check",
       "9999 ramzan package check online cnic pakistan",
@@ -15999,6 +15991,8 @@ officialLinks: [
   },
   {
     "slug": "punjab-land-record-check-guide",
+    metaDescription: "Check Punjab land records online by CNIC in 2026. Verify official PLRA Arazi portal steps, Fard fees, aur property record details yahan dekhein.",
+    metaTitle: "Punjab Land Record Online Check by CNIC: 2026 Steps",
     relatedSlugs: [
       "apna-khet-apna-rozgar-scheme-apply-online-2026",
       "nigehban-card-check-guide",
@@ -16008,10 +16002,7 @@ officialLinks: [
       "punjab-solar-housing-updates-2026"
     ],
     "title": "How to Check Punjab Land Records Online by CNIC (2026)",
-    "excerpt": "Check a Punjab land record online by CNIC — which official portal to trust, what a Fard actually shows, and what to do if no record appears.",
-    "metaTitle": "Punjab Land Record Online Check by CNIC: 2026 Steps",
-    "metaDescription": "Check Punjab land records online by CNIC — the official portal, what a Fard actually shows, real fees, and what to do if no record appears.",
-    "focusKeyword": "land record punjab online check by cnic",
+    "excerpt": "Check a Punjab land record online by CNIC — which official portal to trust, what a Fard actually shows, and what to do if no record appears.",    "focusKeyword": "land record punjab online check by cnic",
     "lsiKeywords": [
       "punjab land record check by cnic",
       "fard check online punjab",
@@ -16201,16 +16192,15 @@ officialLinks: [
   },
   {
     "slug": "nigehban-card-check-guide",
+    metaDescription: "The Nigehban Card is checked via SMS to 8070 or Punjab's PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See the real steps and eligibility.",
+    metaTitle: "Nigehban Card Check by CNIC 2026: 8070 SMS & PSER Guide",
     relatedSlugs: [
       "apna-khet-apna-rozgar-scheme-apply-online-2026",
       "punjab-land-record-check-guide",
       "himmat-card-eligibility-check-guide"
     ],
     "title": "Nigehban Card Check Online by CNIC: How to Check Your Status (2026)",
-    "excerpt": "The Nigehban Card is Punjab's own Ramzan relief card, checked via SMS to 8070 or the PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See how the check works and how to avoid fake sites.",
-    "metaTitle": "Nigehban Card Check by CNIC: 8070 or 9999? (2026)",
-    "metaDescription": "The Nigehban Card is checked via SMS to 8070 or Punjab's PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See the real steps and eligibility.",
-    "focusKeyword": "nigehban card check online by cnic pakistan",
+    "excerpt": "The Nigehban Card is Punjab's own Ramzan relief card, checked via SMS to 8070 or the PSER portal — not BISP's 8171 or the federal Ramzan Package's 9999. See how the check works and how to avoid fake sites.",    "focusKeyword": "nigehban card check online by cnic pakistan",
     "lsiKeywords": [
       "nigehban card 8070",
       "nigehban card check by cnic",
@@ -16615,11 +16605,10 @@ officialLinks: [
   },
   {
     "slug": "fuel-relief-scheme-guide",
+    metaDescription: "Register for Fuel Relief Scheme 2026 via 9771 SMS. Get Rs 100/litre petrol subsidy for motorcycles and 800cc cars. Apply online details yahan dekhein.",
+    metaTitle: "Fuel Relief Scheme: Rs100/Litre Petrol Subsidy (2026)",
     "title": "Fuel Relief Scheme Pakistan: Rs100/Litre Petrol Subsidy Explained (2026)",
-    "excerpt": "The Fuel Relief Scheme gives motorcycle, three-wheeler, and small-car owners Rs100 off every litre of petrol, registered by SMS to 9771 — not through BISP, NSER, or any poverty registry. See eligibility, caps, and how to avoid fake sites.",
-    "metaTitle": "Fuel Relief Scheme: Rs100/Litre Petrol Subsidy (2026)",
-    "metaDescription": "The Fuel Relief Scheme is checked and registered via SMS to 9771 — a Rs100/litre petrol subsidy for motorcycles, three-wheelers, and cars up to 800cc, run by the Petroleum Division.",
-    "focusKeyword": "fuel relief scheme",
+    "excerpt": "The Fuel Relief Scheme gives motorcycle, three-wheeler, and small-car owners Rs100 off every litre of petrol, registered by SMS to 9771 — not through BISP, NSER, or any poverty registry. See eligibility, caps, and how to avoid fake sites.",    "focusKeyword": "fuel relief scheme",
     "lsiKeywords": [
       "fuel relief scheme 9771",
       "pm fuel relief scheme registration",
@@ -16804,11 +16793,10 @@ officialLinks: [
   },
   {
     "slug": "bisp-eligibility-criteria-guide",
+    metaDescription: "Check BISP eligibility criteria in 2026. Learn PMT cutoff score of 32, disqualification factors, dynamic survey rules, aur steps yahan dekhein.",
+    metaTitle: "BISP Eligibility Criteria 2026: PMT Score & Qualifiers",
     "title": "BISP Eligibility Criteria: Who Actually Qualifies for Benazir Kafaalat",
-    "excerpt": "BISP eligibility runs on a household's PMT score from the NSER survey, not a fixed income figure — the approved cutoff is 32, relaxed to 37 for households with a differently-abled member.",
-    "metaTitle": "BISP Eligibility Criteria: Who Actually Qualifies",
-    "metaDescription": "BISP eligibility is decided by a household's PMT score, not income: the approved cutoff is 32 (37 for a differently-abled member). See what commonly disqualifies a household.",
-    "focusKeyword": "eligibility criteria for bisp",
+    "excerpt": "BISP eligibility runs on a household's PMT score from the NSER survey, not a fixed income figure — the approved cutoff is 32, relaxed to 37 for households with a differently-abled member.",    "focusKeyword": "eligibility criteria for bisp",
     "lsiKeywords": [
       "how to check bisp eligibility",
       "who qualifies for bisp",
@@ -18344,11 +18332,10 @@ officialLinks: [
 },
 {
   "slug": "bisp-biometric-verification-failed",
+    metaDescription: "Facing BISP biometric verification failed error? Learn why thumbprints fail, how to use NADRA facial recognition, obtain a Non-BVS form, and claim your payment.",
+    metaTitle: "BISP Biometric Verification Failed: 2026 Solution Guide",
   "title": "BISP Biometric Verification Failed: Complete Step-by-Step Fix (2026)",
-  "excerpt": "If your BISP biometric verification failed, learn how to fix fingerprint errors at the payment terminal, update records at NADRA, use facial recognition, or obtain a Non-BVS form.",
-  "metaTitle": "BISP Biometric Verification Failed: Fix Fingerprint Issues (2026)",
-  "metaDescription": "Facing BISP biometric verification failed error? Learn why thumbprints fail, how to use NADRA facial recognition, obtain a Non-BVS form, and claim your payment.",
-  "focusKeyword": "bisp biometric verification failed",
+  "excerpt": "If your BISP biometric verification failed, learn how to fix fingerprint errors at the payment terminal, update records at NADRA, use facial recognition, or obtain a Non-BVS form.",  "focusKeyword": "bisp biometric verification failed",
   "lsiKeywords": [
     "bisp fingerprint matching problem",
     "bisp biometrics fail hone par kya karein",
@@ -18646,8 +18633,8 @@ officialLinks: [
   title: "Prime Minister Youth Loan Scheme 2026: Complete Application, Eligibility & Tiers Guide",
   excerpt: "The Prime Minister Youth Loan Scheme 2026 provides subsidized business financing up to Rs 7.5 million for Pakistani citizens aged 21 to 45 across three tiers (0%, 5%, and 7% markup). Apply online through the official pmyp.gov.pk portal.",
   showExcerpt: true,
-  metaTitle: "Prime Minister Youth Loan Scheme 2026: Apply Online & Tiers",
-  metaDescription: "Apply online for the Prime Minister Youth Loan Scheme 2026. Discover Tier 1 to Tier 3 financing up to Rs 7.5M, 0% markup terms, eligibility, and step-by-step portal rules.",
+  metaTitle: "PM Youth Loan Scheme 2026: Online Apply & 0% Markup Tiers",
+  metaDescription: "Apply online for PM Youth Business & Agriculture Loan Scheme 2026. Explore Tier 1-3 financing up to Rs 7.5M, 0% to 7% markup, and bank application forms.",
   focusKeyword: "prime minister youth loan scheme 2026",
   lsiKeywords: [
     "pm youth loan interest rate and tiers",
@@ -19109,8 +19096,8 @@ officialLinks: [
     ],
     title: "Fuel Scheme Rs.100 Per Litre Petrol Relief and Registration Guide (2026)",
     excerpt: "Pakistan's Fuel Scheme provides Rs. 100/litre petrol subsidy for motorcycles, rickshaws, and cars up to 800cc via SMS to 9771. Learn eligibility, weekly tokens, and pump steps.",
-    metaTitle: "Fuel Scheme Rs. 100 Per Litre Petrol Relief & Registration (2026)",
-    metaDescription: "Register for Pakistan's Fuel Scheme Rs. 100/litre petrol relief via SMS to 9771. Learn vehicle eligibility, 2006 cutoff rules, weekly tokens, and pump steps.",
+    metaTitle: "Rs 100/L Fuel Scheme 2026: 9771 SMS Register & Petrol Code",
+    metaDescription: "Register for Rs 100 per litre petrol relief scheme via 9771 SMS in 2026. Verify motorcycle and rickshaw subsidy codes, monthly quotas, and pump guidelines.",
     focusKeyword: "Fuel Scheme Rs.100 Per Litre Petrol Relief and Registration Guide",
     lsiKeywords: [
       "fuel scheme rs 100 per litre petrol relief",
@@ -19386,8 +19373,8 @@ officialLinks: [
     title: "PAVE Scheme 2026: Complete Guide to Eligibility, Electric Bike Subsidy & Online Apply",
     excerpt: "The Pakistan Accelerated Vehicle Electrification (PAVE) Scheme 2026 provides up to Rs. 80,000 subsidy for electric bikes and Rs. 400,000 for rickshaws across Pakistan. Apply online via pave.gov.pk on a first-come, first-served basis.",
     showExcerpt: true,
-    metaTitle: "PAVE Scheme 2026: Eligibility, Electric Bike Subsidy & Online Apply",
-    metaDescription: "Apply online for the federal PAVE Scheme 2026 at pave.gov.pk. Discover the Rs 80,000 electric bike subsidy, eligibility, approved models, and installment plans.",
+    metaTitle: "PAVE Scheme 2026: Electric Bike Subsidy & Online Apply",
+    metaDescription: "Apply online for Prime Minister PAVE Electric Bike Scheme 2026. Check student quotas, zero down payment EV financing, portal registration, and subsidy rates.",
     focusKeyword: "PAVE Scheme 2026 – Eligibility, Electric Bike Subsidy & Online Apply",
     lsiKeywords: [
       "pave scheme 2026",
@@ -19873,8 +19860,8 @@ officialLinks: [
     title: "Apna Khet Apna Rozgar Scheme Apply Online 2026: Complete Registration Guide, Eligibility & Balloting Status",
     excerpt: "The Punjab Apna Khet Apna Rozgar Scheme 2026 provides landless farmers with 2 to 5 acres of cultivable state land on a 10-year lease at a nominal fee of Rs. 100 per year, bundled with a Rs. 200,000 cultivation grant. Eligible citizens aged 18 to 50 can apply online at akar.pulse.gop.pk using their CNIC.",
     showExcerpt: true,
-    metaTitle: "Apna Khet Apna Rozgar Scheme Apply Online 2026: Portal & Status",
-    metaDescription: "Apply online for Punjab's Apna Khet Apna Rozgar Scheme 2026 at akar.pulse.gop.pk. Check eligibility, 2-5 acre land lease rules, Rs 200k grant, and balloting results.",
+    metaTitle: "Apna Khet Apna Rozgar 2026: Apply Online & Agri Machinery",
+    metaDescription: "Apply online for Apna Khet Apna Rozgar Scheme in 2026. Check small farmer agricultural equipment subsidies, tractor grants, eligibility, and balloting lists.",
     focusKeyword: "Apna Khet Apna Rozgar Scheme Apply Online 2026",
     lsiKeywords: [
       "punjab apna khet apna rozgar scheme",
@@ -20232,8 +20219,8 @@ officialLinks: [
     title: "Why Was My Benazir Kafaalat Case Paused? 6 Common Reasons and Official Solutions",
     excerpt: "A Benazir Kafaalat case is typically paused or blocked due to an expired CNIC in NADRA records, an overdue 3-year NSER dynamic re-survey, a PMT score crossing 32, repeated biometric scanner failures (Error 93/99), a SIM registered in someone else’s name, or automated flags from FBR tax or passport databases. Beneficiaries must renew their CNIC or complete a free re-survey at their local BISP Tehsil Office to reinstate payments.",
     showExcerpt: true,
-    metaTitle: "Why Was Benazir Kafaalat Case Paused? 6 Reasons & Fix (2026)",
-    metaDescription: "Benazir Kafaalat payment paused or blocked on 8171? Discover the 6 common reasons—from expired CNIC and PMT shifts to dynamic survey lapses—and how to fix it.",
+    metaTitle: "Benazir Kafaalat Case Paused? 6 Reasons & Official Fix",
+    metaDescription: "Find out why your Benazir Kafaalat case is paused in 2026. Learn how to fix biometric mismatches, update expired CNIC cards, and complete dynamic re-survey.",
     focusKeyword: "Why Was My Benazir Kafaalat Case Paused",
     lsiKeywords: [
       "ehsaas kafalat program check cnic",
@@ -20519,8 +20506,8 @@ officialLinks: [
     title: "Ehsaas Interest-Free Loan vs. Saving Wallet: Which Fits Your Situation?",
     excerpt: "The Ehsaas Interest-Free Loan provides Rs 20,000 to Rs 75,000 in repayable capital at 0% markup through PPAF and Akhuwat to launch or expand a small business, while the Ehsaas Saving Wallet is a secure, zero-balance digital bank account designed for female social safety net recipients to receive stipends, save money, and avoid cash deductions. Choose the loan if you have a viable enterprise plan and repayment capacity; choose the saving wallet if you want to safeguard grants and build emergency reserves without incurring debt.",
     showExcerpt: true,
-    metaTitle: "Ehsaas Loan vs. Saving Wallet: Which Fits You? (2026)",
-    metaDescription: "Compare Ehsaas Interest-Free Loans (Rs 20k–75k via Akhuwat/PPAF) vs. Ehsaas Saving Wallets. Discover eligibility, benefits, and which financial tool fits your household.",
+    metaTitle: "Ehsaas Loan vs Saving Wallet 2026: Compare & Apply Online",
+    metaDescription: "Compare Ehsaas interest-free micro-loans (up to Rs 75,000) and digital saving wallets in 2026. Discover partner microfinance banks, eligibility, and terms.",
     focusKeyword: "Ehsaas Interest-Free Loan vs. Saving Wallet",
     lsiKeywords: [
       "ehsaas program loan",
@@ -20773,8 +20760,8 @@ officialLinks: [
     title: "8171 Check Online Kaise Karein: Official Web Portal & CNIC Status Check (2026 Guide)",
     excerpt: "8171 check online karne ke liye official web portal 8171.bisp.gov.pk par jayen, apna 13-hinson ka CNIC number baghair dash darj karein, screen par diya gaya 4-digit captcha code likhein, aur button dabayein. Agar internet na ho to apna CNIC number 8171 par SMS karein. Yeh service mukammal taur par muft hai.",
     showExcerpt: true,
-    metaTitle: "8171 Check Online Kaise Karein: Web Portal & CNIC SMS Guide (2026)",
-    metaDescription: "8171 check online kaise karein? 8171.bisp.gov.pk web portal aur 8171 SMS ke zariye CNIC eligibility, payment status aur NSER survey check karne ka mukammal tareeqa.",
+    metaTitle: "8171 Check Online 2026: BISP 10500 Payment by CNIC",
+    metaDescription: "Apna 13-hanso ka CNIC darj karein aur BISP 8171 qist online check karein. Mukammal eligibility list, 10500 payment status aur web portal link yahan dekhein.",
     focusKeyword: "8171 check online kaise karein",
     lsiKeywords: [
       "ehsaas 8171 check online cnic",
@@ -21061,8 +21048,8 @@ officialLinks: [
     title: "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts, Registration & Status Guide",
     excerpt: "To check Benazir Taleemi Wazaif online by CNIC, visit the official 8171 portal at 8171.bisp.gov.pk, enter the mother's 13-digit CNIC without dashes, solve the 4-digit captcha, and submit. The portal displays the quarterly school stipend status for each enrolled child alongside the mother's Benazir Kafaalat payment.",
     showExcerpt: true,
-    metaTitle: "Benazir Taleemi Wazaif Check Online by CNIC: 2026 Amounts & Guide",
-    metaDescription: "Benazir Taleemi Wazaif check online by CNIC: 8171 portal par bachon ke wazaif status, 2026 stipend rates (Rs 2,500–5,000), aur 70% attendance rule ki mukammal guide.",
+    metaTitle: "Benazir Taleemi Wazaif Check Online 2026: CNIC Slip Rates",
+    metaDescription: "Check Benazir Taleemi Wazaif stipend online by mother's CNIC for 2026. Verify primary to college quarterly amounts, 70% attendance rules, and portal steps.",
     focusKeyword: "benazir taleemi wazaif check online by cnic",
     lsiKeywords: [
       "bisp taleemi wazaif registration",
@@ -21339,8 +21326,8 @@ officialLinks: [
     title: "CM Punjab Himmat Card Online Apply 2026: DPMIS Registration, Eligibility & Rs 10,500 Stipend Guide",
     excerpt: "To apply online for the CM Punjab Himmat Card, visit the official portal at dpmis.punjab.gov.pk, register your account using your 13-digit CNIC, and upload your official Social Welfare Disability Certificate. Eligible certified persons with disabilities receive a quarterly financial stipend of Rs. 10,500 via an ATM-enabled Bank of Punjab card.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Himmat Card Online Apply 2026: DPMIS & Rs 10,500 Guide",
-    metaDescription: "CM Punjab Himmat Card online apply 2026: dpmis.punjab.gov.pk par registration ka step-by-step tareeqa, PMT score <= 45 criteria, aur BOP Rs 10,500 stipend guide.",
+    metaTitle: "CM Punjab Himmat Card 2026: Apply Online & Rs 10,500 Aid",
+    metaDescription: "Apply online for CM Punjab Himmat Card 2026 via DPMIS portal. Check special persons disability eligibility, Rs 10,500 quarterly ATM stipends, and cards.",
     focusKeyword: "cm punjab himmat card online apply",
     lsiKeywords: [
       "himmat card registration 2026",
@@ -21576,8 +21563,8 @@ officialLinks: [
     title: "CM Punjab Kisan Card Online Apply 2026: 8070 Registration, Eligibility & BOP Card Activation",
     excerpt: "To register for the CM Punjab Kisan Card online and via SMS in 2026, send an SMS with PKC [Space] your 13-digit CNIC to 8070 using a mobile SIM registered in your own name, or submit an application through the Punjab Agriculture Department portal (agripunjab.gov.pk). Eligible farmers holding between 1 to 12.5 acres of land receive an interest-free agricultural production loan of up to Rs. 150,000 per crop season through Bank of Punjab.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Kisan Card Online Apply 2026: 8070 Registration & BOP Loan",
-    metaDescription: "CM Punjab Kisan Card online apply 2026: 8070 SMS registration syntax, PLRA land eligibility (1-12.5 acres), BOP Rs 150,000 interest-free loan, aur card status guide.",
+    metaTitle: "CM Punjab Kisan Card 2026: Apply Online & 8070 SMS Guide",
+    metaDescription: "Apply online for CM Punjab Kisan Card 2026. Send 8070 SMS to verify interest-free fertilizer loans up to Rs 150,000, BOP activation, and farmer eligibility.",
     focusKeyword: "cm punjab kisan card online apply 2026",
     lsiKeywords: [
       "maryam nawaz kisan card registration",
@@ -21812,8 +21799,8 @@ officialLinks: [
     title: "Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Portal Registration, Eligibility & Rs 15 Lakh Loan Guide",
     excerpt: "To apply online for the CM Punjab Apni Chhat Apna Ghar Scheme in 2026, register on the official government portal at acag.punjab.gov.pk using your 13-digit CNIC and mobile number, upload your land ownership documents (Fard/Registry for up to 5 Marla urban or 10 Marla rural plots), and complete your household socio-economic profile. Eligible citizens receive an interest-free construction loan of up to Rs. 15 Lakh with an installment of ~Rs. 14,000 over 7 years.",
     showExcerpt: true,
-    metaTitle: "Apni Chhat Apna Ghar Scheme Online Apply 2026: ACAG Rs 15 Lakh Loan",
-    metaDescription: "Apni Chhat Apna Ghar scheme online apply 2026: acag.punjab.gov.pk par registration ka tareeqa, 1-5 marla plot eligibility, aur 15 lakh interest-free loan guide.",
+    metaTitle: "Apni Chhat Apna Ghar 2026: Apply Online & Rs 15 Lakh Loan",
+    metaDescription: "Apply online for CM Punjab Apni Chhat Apna Ghar Scheme 2026 at acag.punjab.gov.pk. Check interest-free housing loans up to Rs 15 lakh, installments & forms.",
     focusKeyword: "apni chhat apna ghar scheme online apply 2026",
     lsiKeywords: [
       "acag punjab gov pk online registration",
@@ -22050,8 +22037,8 @@ officialLinks: [
     title: "CM Punjab Honhaar Merit Scholarship Program 2026: Online Apply, Eligibility & 100% Tuition Fee Guide",
     excerpt: "To apply online for the CM Punjab Honhaar Merit Scholarship Program in 2026, register on the official portal at honhaarscholarship.punjabhec.gov.pk using your CNIC/B-Form and academic registration details. The Government of Punjab provides 100% full tuition fee coverage for 30,000 undergraduate students enrolled in 68 priority disciplines across 50 public universities and medical colleges.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Honhaar Scholarship 2026: Online Apply & PHEC Guide",
-    metaDescription: "CM Punjab Honhaar Scholarship online apply 2026: honhaarscholarship.punjabhec.gov.pk par registration, 68 disciplines, 50 universities, aur 100% tuition grant guide.",
+    metaTitle: "CM Punjab Honhaar Scholarship 2026: Apply Online & Merit",
+    metaDescription: "Apply online for CM Punjab Honhaar Scholarship 2026 at honhaarscholarship.punjabhec.gov.pk. Check 100% tuition fee coverage, university merit list & quotas.",
     focusKeyword: "cm punjab honhaar scholarship program 2026",
     lsiKeywords: [
       "honhaar scholarship online apply",
@@ -22295,8 +22282,8 @@ officialLinks: [
     title: "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal, SMS aur Dynamic Survey Guide",
     excerpt: "BISP registration aur ahal hone ka status check karne ke liye 8171.bisp.gov.pk web portal par apna 13-hinson ka CNIC number enter karein ya 8171 par SMS bhejein. Agar aap ka record mojood nahi hai, to registration kisi private online form se nahi balki qareebi BISP Tehsil Office ke NSER Dynamic Registry desk par biometric survey karwa kar hoti hai.",
     showExcerpt: true,
-    metaTitle: "BISP Registration Check by CNIC Kaise Karein: 8171 Web Portal & SMS Guide",
-    metaDescription: "BISP registration check by CNIC kaise karein: 8171 web portal status, 8171 SMS tarika, BISP tehsil office dynamic survey documents aur Rs 10,500 kafaalat tafseelat.",
+    metaTitle: "BISP Registration Check by CNIC 2026: 8171 Web Portal",
+    metaDescription: "Apna 13-hanso ka CNIC darj karein aur BISP registration status check karein. 8171 web portal, SMS method aur dynamic survey desk details yahan dekhein.",
     focusKeyword: "bisp registration check by cnic kaise karein",
     lsiKeywords: [
       "benazir income support program check karne ka tarika",
@@ -22519,8 +22506,8 @@ officialLinks: [
     title: "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Portal Registration, Eligibility & Balloting Results",
     excerpt: "To register for the CM Punjab Green Tractor Scheme 2026 online, eligible farmers in Punjab must submit their CNIC and land ownership details through the official GTS portal (gts.punjab.gov.pk). The Punjab government provides a flat subsidy of Rs. 1,000,000 (10 Lakh) on 9,500 modern green tractors for farmers holding between 1 to 50 acres of agricultural land through transparent computerized e-balloting.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Green Tractor Scheme 2026 Online Apply: GTS Registration & Subsidy",
-    metaDescription: "CM Punjab Green Tractor Scheme 2026 online apply: gts.punjab.gov.pk registration, Rs 10 lakh subsidy, 1-50 acre land eligibility, e-balloting results, aur tractor brand list.",
+    metaTitle: "CM Punjab Green Tractor Scheme 2026: Apply & Balloting",
+    metaDescription: "Apply online for CM Punjab Green Tractor Scheme 2026 at gts.punjab.gov.pk. Check Rs 10 lakh tractor subsidy, balloting winner lists, and farmer quotas here.",
     focusKeyword: "cm punjab green tractor scheme 2026 online apply",
     lsiKeywords: [
       "gts punjab gov pk registration",
@@ -22732,8 +22719,8 @@ officialLinks: [
     title: "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Portal Registration, Eligibility & Salami ATM Card",
     excerpt: "To apply for the CM Punjab Dhee Rani Program 2026 online, submit your application through the official CMP portal (cmp.punjab.gov.pk) or visit your district Social Welfare office. The Punjab government provides a Rs. 100,000 cash grant (Salami) via Bank of Punjab ATM card, a comprehensive bridal gift box worth Rs. 200,000, and fully hosted collective wedding arrangements for deserving daughters across Punjab.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Dhee Rani Program 2026 Online Apply: CMP Registration & Helpline 1312",
-    metaDescription: "CM Punjab Dhee Rani Program 2026 online apply: cmp.punjab.gov.pk registration, Rs 100,000 Salami ATM card, bridal gifts package, eligibility, helpline 1312, aur dates.",
+    metaTitle: "CM Punjab Dhee Rani Program 2026: Apply Online & Rs 100K",
+    metaDescription: "Apply online for CM Punjab Dhee Rani Program 2026 at cmp.punjab.gov.pk. Check Rs 100,000 cash grant, dowry gift boxes, mass wedding dates, and helpline 1312.",
     focusKeyword: "cm punjab dhee rani program 2026 online apply",
     lsiKeywords: [
       "cmp punjab gov pk dhee rani registration",
@@ -22945,8 +22932,8 @@ officialLinks: [
     title: "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana Registration, 8800 SMS & Balloting List",
     excerpt: "To apply for the CM Punjab Solar Panel Scheme 2026 online, protected electricity consumers in Punjab must submit their 14-digit bill reference number and CNIC via the official portal (cmsolarscheme.punjab.gov.pk) or by sending an SMS to 8800. The Punjab government provides 100% free complete solar kits (550W to 1,100W) to households consuming under 200 monthly units through transparent PITB computerized e-balloting.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Solar Panel Scheme 2026 Online Apply: Roshan Gharana & 8800 SMS",
-    metaDescription: "CM Punjab solar panel scheme 2026 online apply: cmsolarscheme.punjab.gov.pk registration, 8800 SMS verification, 100-200 unit free solar eligibility, aur balloting list results.",
+    metaTitle: "CM Punjab Solar Panel Scheme 2026: Apply & 8800 SMS Check",
+    metaDescription: "Apply online for CM Punjab Roshan Gharana Solar Scheme 2026. Send 8800 SMS to check free solar system balloting lists, electricity bill limits, and status.",
     focusKeyword: "cm punjab solar panel scheme 2026 online apply",
     lsiKeywords: [
       "roshan gharana program online registration",
@@ -23151,8 +23138,8 @@ officialLinks: [
     title: "CM Punjab Livestock Card Scheme 2026 Online Apply: PLC Portal Registration, 8070 SMS & Eligibility",
     excerpt: "To apply for the CM Punjab Livestock Card Scheme 2026 online, livestock farmers in Punjab must register by sending an SMS with their CNIC to 8070 or applying through the official portal (plc.punjab.gov.pk). The Punjab government provides Rs. 135,000 to Rs. 540,000 in 100% interest-free loans via The Bank of Punjab for purchasing animal feed and silage for 5 to 20 calves.",
     showExcerpt: true,
-    metaTitle: "CM Punjab Livestock Card Scheme 2026 Online Apply: 8070 SMS & PLC Portal",
-    metaDescription: "CM Punjab livestock card scheme 2026 online apply: plc.punjab.gov.pk registration, 8070 SMS, Rs 135,000 to Rs 540,000 BOP interest-free feed loan, SPMS-9211 animal tagging.",
+    metaTitle: "CM Punjab Livestock Card 2026: Apply Online & 8070 SMS",
+    metaDescription: "Apply online for CM Punjab Livestock Card Scheme 2026. Send 8070 SMS to verify interest-free cattle fattening loans up to Rs 270,000, feed subsidies & BOP.",
     focusKeyword: "cm punjab livestock card scheme 2026 online apply",
     lsiKeywords: [
       "plc punjab gov pk registration",
@@ -23360,8 +23347,8 @@ officialLinks: [
     title: "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat Paise Check Aur ATM Se Nikalne Ka Mukammal Tarika",
     excerpt: "BISP 8171 balance check online karne ke liye official web portal (8171.bisp.gov.pk) par apna 13-hinson ka CNIC number enter karein ya 8171 par SMS bhejein. Benazir Kafaalat ki te-maahi qist Rs. 10,500 hai, jo aap apne qareebi HBL ATM par baghair card biometric tasdeeq ke zariye ya HBL Konnect biometric shop se baghair kisi kataoti ke poori wasool kar sakte hain.",
     showExcerpt: true,
-    metaTitle: "BISP 8171 Balance Check Online Kaise Karein: Benazir Kafaalat & ATM Guide",
-    metaDescription: "BISP 8171 balance check online kaise karein: 8171.bisp.gov.pk portal, 8171 SMS, HBL ATM biometric cash nikalne ka tarika, aur Rs 10,500 kafaalat kataoti se bachne ki hidayat.",
+    metaTitle: "BISP 8171 Balance Check Online 2026: Paise Check Karein",
+    metaDescription: "Apna 13-hanso ka CNIC darj karein aur BISP 8171 balance online check karein. Benazir Kafaalat ATM cash withdrawal aur payment status portal link yahan dekhein.",
     focusKeyword: "bisp 8171 balance check online kaise karein",
     lsiKeywords: [
       "benazir kafaalat paise check karne ka tarika",
@@ -23559,8 +23546,8 @@ officialLinks: [
     title: "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash Nikalne Aur Balance Ki Mukammal Maloomat",
     excerpt: "BISP 8171 paise check karne ka sab se aasan tarika official web portal (8171.bisp.gov.pk) par 13-hinson ka CNIC darj karna ya 8171 par SMS bhejna hai. Raqam transfer hone ke baad mustahiq khawateen qareebi HBL ya Bank Alfalah biometric ATM se baghair kisi card ya kataoti ke poori raqam wasool kar sakti hain.",
     showExcerpt: true,
-    metaTitle: "BISP 8171 Paise Check Karne Ka Tarika: ATM Cash & Balance Guide",
-    metaDescription: "BISP 8171 paise check karne ka tarika: 8171 web portal, SMS balance check, HBL aur Bank Alfalah biometric ATM se baghair card raqam wasool karne ka step-by-step guide.",
+    metaTitle: "BISP 8171 Paise Check Karne Ka Tarika 2026: ATM Balance",
+    metaDescription: "Apna CNIC darj karein aur BISP 8171 paise check karein. HBL aur Alfalah biometric ATM se baghair katauti cash nikalne ka mukammal tarika yahan dekhein.",
     focusKeyword: "bisp 8171 paise check karne ka tarika",
     lsiKeywords: [
       "8171 se paise kaise check karein",
@@ -23752,8 +23739,8 @@ officialLinks: [
     title: "BISP Kafaalat 13500 Check Online Kaise Karein: Nayi Qist, Release Date Aur Payment Status",
     excerpt: "BISP Kafaalat ki barhai hui sah-mahi qist Rs. 13,500 check karne ke liye official 8171 web portal (8171.bisp.gov.pk) par apna 13-hinson ka CNIC number enter karein. Hukumat ne mehngai ke tanazur mein Kafaalat wazeefa barha kar Rs. 13,500 kar diya hai, jis ki marhalawar adayegi mukhtas bankon aur camp sites ke zariye jari hai.",
     showExcerpt: true,
-    metaTitle: "BISP Kafaalat 13500 Check Online Kaise Karein: Payment Status & Dates",
-    metaDescription: "BISP Kafaalat 13500 check online kaise karein: 8171.bisp.gov.pk portal, nayi 13500 qist ki release date, eligibility criteria, aur ATM se cash wasooli ka mukammal tareeqa.",
+    metaTitle: "BISP Kafaalat 13500 Check Online 2026: Nayi Qist Status",
+    metaDescription: "Apna 13-hanso ka CNIC darj karein aur BISP Kafaalat 13500 nayi qist check karein. Tranche release date, payment centers, aur portal link yahan dekhein.",
     focusKeyword: "bisp kafaalat 13500 check online kaise karein",
     lsiKeywords: [
       "benazir kafalat 13500 online check",
@@ -23932,8 +23919,8 @@ officialLinks: [
     title: "BISP New Registration Form Online Apply Kaise Karein: NSER Dynamic Survey & Tehsil Desk Guide",
     excerpt: "BISP new registration form online apply karne ke hawalay se sach yeh hai ke BISP ka koi public online application form mojood nahi hai. Registration sirf BISP Tehsil Office mein NSER Dynamic Registry desk par in-person survey ke zariye hoti hai. Yahan zaroori kaghazaat, PMT score cutoff aur registration ka mukammal tareeqa samjhein.",
     showExcerpt: true,
-    metaTitle: "BISP New Registration Form Online Apply Kaise Karein: NSER Survey",
-    metaDescription: "BISP new registration form online apply kaise karein: Kya online form mojood hai? BISP tehsil office dynamic registry, zaroori kaghazaat aur PMT cutoff ka sach.",
+    metaTitle: "BISP New Registration Form 2026: Online Apply & Survey",
+    metaDescription: "BISP new registration form 2026 online check karein. Tehsil desk par NSER dynamic survey token lene aur Kafaalat programme mein shamil hone ka tarika dekhein.",
     focusKeyword: "bisp new registration form online apply kaise karein",
     lsiKeywords: [
       "bisp registration form online apply 2026",
@@ -24116,8 +24103,8 @@ officialLinks: [
     title: "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika: School Slip & Tehsil Verification",
     excerpt: "Benazir Taleemi Wazaif ka school dakhila tasdeeq form (Admission Certificate Slip) BISP Tehsil Office se muft hasil kiya jata hai. School headmaster se tasdeeq aur stamp lagwane ke baad form jama karne ka mukammal tarika, primary ta higher secondary ke wazaif ki nayi raqam aur 70% attendance shart yahan samjhein.",
     showExcerpt: true,
-    metaTitle: "Benazir Taleemi Wazaif Form Download Aur Jama Karne Ka Tarika",
-    metaDescription: "Benazir Taleemi Wazaif form download aur jama karne ka tarika: School dakhila tasdeeq slip, B-Form verification, primary ta higher secondary stipend amounts aur submission guide.",
+    metaTitle: "Benazir Taleemi Wazaif Form Download 2026: School Slip",
+    metaDescription: "Download Benazir Taleemi Wazaif school admission slip in 2026. Fill student details, get headmaster verification, and submit at Tehsil desk for stipends.",
     focusKeyword: "benazir taleemi wazaif form download aur jama karne ka tarika",
     lsiKeywords: [
       "taleemi wazaif admission slip download",
@@ -24304,8 +24291,8 @@ officialLinks: [
     title: "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477, Agent Katauti & Biometric Fix",
     excerpt: "BISP toll-free helpline number 0800-26477 par muft call karke agent katauti, biometric fingerprint mismatch, Error 933 ya payment block hone ki complaint darj karwane ka mukammal tareeqa samjhein. BISP monitoring cell mein shikayat darj karwa kar tracking number hasil karein aur fori azala payen.",
     showExcerpt: true,
-    metaTitle: "BISP Helpline Number Complaint Kaise Darj Karein: 0800-26477 Guide",
-    metaDescription: "BISP helpline number complaint kaise darj karein: 0800-26477 toll-free call, retailer katauti reporting, biometric fingerprint issue aur Tehsil complaint cell guide.",
+    metaTitle: "BISP Helpline Number 2026: 0800-26477 Katauti Complaint",
+    metaDescription: "Lodge an official BISP complaint via toll-free helpline 0800-26477. Report retailer fee deductions, biometric device delays, and agent fraud for quick refunds.",
     focusKeyword: "bisp helpline number complaint kaise darj karein",
     lsiKeywords: [
       "bisp toll free helpline 0800-26477",
@@ -24491,8 +24478,8 @@ officialLinks: [
     title: "BISP Tehsil Office Lahore List and Addresses: Verified Dynamic Survey Centers & Regional Directory (2026)",
     excerpt: "To visit a BISP Tehsil Office in Lahore for dynamic registration, survey updates, or payment biometric verification, beneficiaries can access verified centers located across Model Town (Township), Lahore Cantt (Gujjarpura and Bedian Road), Shalimar (Harbanspura and Garhi Shahu), Raiwind, and Lahore City (Johar Town and Multan Road). The BISP Punjab Regional Office is centrally located at 48-L Model Town Extension, Lahore (042-35219118). All Tehsil Dynamic Registration Centers (DRCs) operate Monday through Friday from 8:00 AM to 4:00 PM without any fee.",
     showExcerpt: true,
-    metaTitle: "BISP Tehsil Office Lahore List & Addresses: 2026 Directory",
-    metaDescription: "Verified BISP Tehsil Office Lahore list and addresses: Model Town, Lahore Cantt, Shalimar, Raiwind, City desks, dynamic survey centers, timings, and helpline.",
+    metaTitle: "BISP Tehsil Offices Lahore 2026: List & Verified Address",
+    metaDescription: "Find verified BISP Tehsil Offices in Lahore district for 2026. Check Model Town, Shalimar, Cantt, and Raiwind dynamic registration center desk timings & maps.",
     focusKeyword: "bisp tehsil office lahore list and addresses",
     lsiKeywords: [
       "bisp registration center lahore near me",
@@ -24834,8 +24821,8 @@ officialLinks: [
     title: "BISP Office Rawalpindi Addresses and Contact Number: Tehsil Directory, Dynamic Survey Desks & Helpline (2026)",
     excerpt: "The primary BISP Divisional Office in Rawalpindi is located at House # 805-A, Street # 01, Chaklala Scheme 3, Rawalpindi (051-9280453), accessible via the national toll-free helpline 0800-26477. District Rawalpindi beneficiaries can visit verified Tehsil Dynamic Registration Centers in Rawalpindi City, Gujar Khan (Munawarabad), Taxila (Wahdat Colony), Kahuta (PAF Road), Kallar Syedan (Pindi Road), and Murree (Sunny Bank) Monday through Friday from 8:00 AM to 4:00 PM for free NSER surveys and biometric updates.",
     showExcerpt: true,
-    metaTitle: "BISP Office Rawalpindi Addresses & Contact Number (2026)",
-    metaDescription: "Verified BISP office Rawalpindi addresses and contact number guide: Chaklala, Gujar Khan, Taxila, Kahuta, Murree, Kallar Syedan centers, phone numbers, and survey timings.",
+    metaTitle: "BISP Office Rawalpindi 2026: Addresses & Contact Numbers",
+    metaDescription: "Locate BISP Tehsil registration offices across Rawalpindi district in 2026. Check Chaklala, Gujar Khan, Taxila, and Murree center timings and phone lines.",
     focusKeyword: "bisp office rawalpindi addresses and contact number",
     lsiKeywords: [
       "bisp office rawalpindi contact number",
@@ -25142,8 +25129,8 @@ officialLinks: [
     title: "BISP Tehsil Office Karachi District List: Verified Centers Across All 7 Districts, Addresses & Helpline (2026)",
     excerpt: "The verified BISP Tehsil Office Karachi district list covers all 7 administrative districts of Karachi Division, supported by the BISP Sindh Regional Office located at House # B-39, Block-11, Gulshan-e-Iqbal, Near NIPA, Karachi (021-99333067). Beneficiaries across Karachi Central (Liaquatabad and North Nazimabad), East (Gulshan and Jamshed), South (Saddar and Lyari), West (Orangi), Korangi (Landhi), Malir (Gadap and Bin Qasim), and Keamari (Baldia) can visit designated Tehsil Dynamic Registration Centers Monday through Friday from 8:00 AM to 4:00 PM for free enrollment and survey updates.",
     showExcerpt: true,
-    metaTitle: "BISP Tehsil Office Karachi District List (2026 Directory)",
-    metaDescription: "Verified BISP Tehsil Office Karachi district list: complete directory across Karachi East, West, South, Central, Malir, Korangi, Keamari, survey centers, and contact info.",
+    metaTitle: "BISP Tehsil Offices Karachi 2026: All 7 Districts List",
+    metaDescription: "Find BISP Tehsil registration offices in Karachi across all 7 districts for 2026. Check East, West, South, Malir, and Korangi center addresses and desks.",
     focusKeyword: "bisp tehsil office karachi district list",
     lsiKeywords: [
       "bisp office karachi district central address",
@@ -25514,8 +25501,8 @@ officialLinks: [
     title: "BISP ATM Se Paise Nikalwane Ka Tarika: HBL Konnect Aur Bank Alfalah Biometric ATM Cash Withdrawal (2026)",
     excerpt: "BISP ATM se paise nikalne ke liye kisi bhi qareebi HBL ya Bank Alfalah biometric ATM par jayen, touch screen par 'Urdu' aur 'BISP/Ehsaas Cash' muntakhib karein, apna 13-hinson ka CNIC number enter karein, biometric scanner par angootha laga kar tasdeeq karein, aur bina kisi agent kataoti ke apni poori Rs. 14,500 qist wasool karein.",
     showExcerpt: true,
-    metaTitle: "BISP ATM Se Paise Nikalne Ka Tarika 2026: HBL & Bank Alfalah",
-    metaDescription: "BISP ATM se paise nikalne ka mukammal tarika: HBL Konnect aur Bank Alfalah BVS ATMs se bina card fingerprint laga kar Rs 14500 baghair kataoti wasool karein.",
+    metaTitle: "BISP ATM Se Paise Nikalne Ka Tarika 2026: Biometric Cash",
+    metaDescription: "Withdraw BISP cash from HBL and Bank Alfalah biometric ATMs without ATM card or fees. Follow step-by-step thumbprint verification and cash pickup guide here.",
     focusKeyword: "bisp atm se paise kaise nikale",
     lsiKeywords: [
       "hbl konnect bisp biometric atm withdrawal",
@@ -25733,8 +25720,8 @@ officialLinks: [
     title: "BISP Dynamic Survey Ke Liye Kon Se Documents Chahiye: Tehsil Desk Timing Aur Token System Guide (2026)",
     excerpt: "BISP Dynamic Survey ke liye asal CNIC, tamam bachon ka NADRA B-Form (CRC), haaliya bijli ya gas ka utility bill, aur registered mobile SIM zaroori hain. Bewa khawateen ke liye shohar ka Death Certificate aur mazoor afraad ke liye Wheelchair CNIC lazmi hai. Tehsil office desk Pir ta Juma subah 8:00 baje se shaam 4:00 baje tak khula hota hai.",
     showExcerpt: true,
-    metaTitle: "BISP Survey Documents List & Token Guide (2026 Timings)",
-    metaDescription: "BISP Dynamic Survey ke liye zaroori documents ki mukammal list: CNIC, B-Form, bijli ka bill, Tehsil office desk timings aur token lene ka step-by-step tareeqa.",
+    metaTitle: "BISP Dynamic Survey Documents 2026: Token Counter Guide",
+    metaDescription: "Review required documents for BISP Dynamic Survey token in 2026. Bring original CNIC, NADRA B-Forms, and utility bills to your Tehsil registration center.",
     focusKeyword: "bisp survey ke liye kon se documents chahiye",
     lsiKeywords: [
       "bisp dynamic registration desk timing",
@@ -25930,8 +25917,8 @@ officialLinks: [
     title: "KPK Sehat Sahulat Card Check Online 2026: 8500 SMS, 10 Lakh Treatment Coverage & Empaneled Hospital List",
     excerpt: "Check KPK Sehat Card Plus eligibility and balance online by CNIC or 8500 SMS. Learn how to access Rs 10 Lakh free inpatient treatment, view the 2026 empaneled panel hospitals list, and follow the hospital counter admission process.",
     showExcerpt: true,
-    metaTitle: "KPK Sehat Card Check Online by CNIC & Hospital List 2026",
-    metaDescription: "Check KPK Sehat Card Plus status online by CNIC or 8500 SMS. View Rs 10 Lakh free treatment package, empaneled panel hospitals list, and admission process.",
+    metaTitle: "KPK Sehat Card Check Online 2026: 8500 SMS Hospital List",
+    metaDescription: "Check KPK Sehat Card Plus eligibility online or by 8500 SMS in 2026. View Rs 10 lakh free medical treatment hospital list, treatments, and NADRA verification.",
     focusKeyword: "sehat card check online cnic kpk",
     lsiKeywords: [
       "sehat sahulat program hospital list",
@@ -26122,8 +26109,8 @@ officialLinks: [
     title: "Ehsaas Undergraduate Scholarship 2026 Online Apply: HEC Portal Check, 100% Tuition Fee & Rs 4,000 Stipend Guide",
     excerpt: "Apply online for HEC Ehsaas Undergraduate Scholarship 2026 on ehsaas.hec.gov.pk. Learn how to secure 100% full tuition fee coverage, Rs 4,000 monthly stipend, prepare university FAO documents, and clear the ISAC interview.",
     showExcerpt: true,
-    metaTitle: "Ehsaas Undergraduate Scholarship 2026: HEC Portal Apply & Check",
-    metaDescription: "Apply for HEC Ehsaas Undergraduate Scholarship 2026 online. Step-by-step guide to portal registration, eligibility, 100% tuition fee, and Rs 4,000 monthly stipend.",
+    metaTitle: "Ehsaas Undergraduate Scholarship 2026: Apply on HEC",
+    metaDescription: "Apply online for Ehsaas Undergraduate Scholarship 2026 at ehsaas.hec.gov.pk. Check 100% university tuition fee waivers, Rs 4,000 monthly stipends, and quotas.",
     focusKeyword: "ehsaas undergraduate scholarship portal check",
     lsiKeywords: [
       "hec ehsaas scholarship 2026 online apply",
@@ -26304,8 +26291,8 @@ officialLinks: [
     slug: "benazir-nashonuma-program-online-apply-cnic-check",
     title: "Benazir Nashonuma Program Online Check 2026: 8171 CNIC Status, Rs 3,000 Nutrition Cash & Registration Guide",
     excerpt: "Check Benazir Nashonuma Program eligibility by CNIC via 8171 portal. Complete guide to Rs 2,500-3,000 cash grant, Wawa Mum nutrition, and center registration.",
-    metaTitle: "Benazir Nashonuma Program Online Check CNIC & Apply 2026",
-    metaDescription: "Check Benazir Nashonuma Program eligibility by CNIC via 8171 portal. Complete guide to Rs 2,500-3,000 cash grant, Wawa Mum nutrition, and center registration.",
+    metaTitle: "Benazir Nashonuma Online Check 2026: 8171 CNIC & Apply",
+    metaDescription: "Check Benazir Nashonuma Program eligibility by CNIC via 8171 portal in 2026. Verify Rs 3,000 nutrition cash for pregnant mothers and infant vaccination aid.",
     focusKeyword: "benazir nashonuma program online check cnic",
     lsiKeywords: [
       "benazir nashonuma program online apply",
@@ -26503,8 +26490,8 @@ officialLinks: [
     slug: "cm-punjab-free-laptop-scheme-2026-online-apply",
     title: "CM Punjab Free Laptop Scheme 2026 Online Apply: Maryam Nawaz Portal, Eligibility & Merit List Guide",
     excerpt: "Apply online for CM Maryam Nawaz Free Laptop Scheme 2026 at laptop.punjab.gov.pk. Check eligibility, merit CGPA, documents, and 110,000 laptop distribution.",
-    metaTitle: "CM Punjab Laptop Scheme 2026 Online Apply & Merit List",
-    metaDescription: "Apply online for CM Maryam Nawaz Free Laptop Scheme 2026 at laptop.punjab.gov.pk. Check eligibility, merit CGPA, documents, and 110,000 laptop distribution.",
+    metaTitle: "CM Punjab Free Laptop Scheme 2026: Apply Online & Merit",
+    metaDescription: "Apply online for CM Maryam Nawaz Free Laptop Scheme 2026 at laptop.punjab.gov.pk. Check college and university eligibility, merit criteria, and quota lists.",
     focusKeyword: "cm punjab laptop scheme 2026 online apply",
     lsiKeywords: [
       "chief minister maryam nawaz laptop scheme portal",
@@ -26694,8 +26681,8 @@ officialLinks: [
     slug: "sindh-hari-card-scheme-2026-online-apply-eligibility",
     title: "Sindh Hari Card Scheme 2026 Online Apply: Registration, Farmer Subsidies & Eligibility Guide",
     excerpt: "Apply for Sindh Hari Card 2026. Complete guide to registration, land eligibility criteria, Sindh Bank biometric card, fertilizer subsidies, and cash relief.",
-    metaTitle: "Sindh Hari Card Online Apply 2026: Eligibility & Registration",
-    metaDescription: "Apply for Sindh Hari Card 2026. Complete guide to registration, land eligibility criteria, Sindh Bank biometric card, fertilizer subsidies, and cash relief.",
+    metaTitle: "Sindh Hari Card 2026: Online Apply, Eligibility & BOP",
+    metaDescription: "Apply online for Sindh Hari Card in 2026. Check farmer subsidy grants, crop disaster relief, Sindh Bank registration criteria, and agricultural forms here.",
     focusKeyword: "sindh hari card online apply",
     lsiKeywords: [
       "sindh hari card registration 2026",
@@ -26892,8 +26879,8 @@ officialLinks: [
     title: "BISP New Direct Bank Transfer System: Shifting from Cash Camps to Commercial Bank Accounts",
     excerpt: "Learn how the BISP direct bank transfer system works in 2026. Complete guide to opening BISP Sahulat accounts across HBL, Bank Alfalah, BOP, and digital wallets with 0% fee deductions.",
     showExcerpt: true,
-    metaTitle: "BISP Direct Bank Transfer 2026: Commercial Bank Accounts Guide",
-    metaDescription: "Complete guide to BISP direct bank transfers in 2026. Step-by-step BISP Sahulat account opening across HBL, Alfalah, BOP & digital wallets without agent deductions.",
+    metaTitle: "BISP Direct Bank Transfer 2026: Shift from Camps to Bank",
+    metaDescription: "Switch from BISP cash camps to direct commercial bank account transfers in 2026. Learn how to open a BISP Sahulat account and receive stipends safely.",
     focusKeyword: "bisp bank account direct transfer 2026",
     lsiKeywords: [
       "bisp direct bank transfer registration",
@@ -27106,8 +27093,8 @@ officialLinks: [
     title: "BISP Tehsil Office Faisalabad Directory: All City, Jaranwala & Samundri Dynamic Centers",
     excerpt: "Complete verified directory of BISP Tehsil Offices in Faisalabad district for 2026. Verified addresses, timings, and dynamic survey guidelines for City, Saddar, Jaranwala, Samundri, Tandlianwala & Chak Jhumra.",
     showExcerpt: true,
-    metaTitle: "BISP Tehsil Office Faisalabad Directory: Addresses & Timing 2026",
-    metaDescription: "Verified list of BISP Tehsil Offices in Faisalabad district. Addresses, landmarks, operating timings & dynamic registration desks for City, Saddar, Jaranwala & Samundri.",
+    metaTitle: "BISP Tehsil Offices Faisalabad 2026: Directory & Timings",
+    metaDescription: "Find verified BISP Tehsil Offices in Faisalabad district for 2026. Check City, Jaranwala, Samundri, and Tandlianwala center addresses, timings, and helplines.",
     focusKeyword: "bisp tehsil office faisalabad list",
     lsiKeywords: [
       "bisp office faisalabad address",
@@ -27308,8 +27295,8 @@ officialLinks: [
     title: "BISP Tehsil Office Multan & South Punjab Directory: City, Saddar & Shujabad Centers",
     excerpt: "Official directory of BISP Tehsil Offices in Multan and South Punjab for 2026. Verified addresses, landmarks, metro bus access, timings & dynamic survey guide for City, Saddar, Shujabad & Jalalpur Pirwala.",
     showExcerpt: true,
-    metaTitle: "BISP Tehsil Office Multan Directory: Addresses & Metro Guide 2026",
-    metaDescription: "Complete directory of BISP Tehsil Offices in Multan. Verified addresses, Bosan Road Metro Bus access, operating timings & dynamic registration desks for City, Saddar & Shujabad.",
+    metaTitle: "BISP Tehsil Offices Multan 2026: Address & Center Timing",
+    metaDescription: "Locate verified BISP Tehsil Offices in Multan district in 2026. Check City, Saddar, Shujabad, and Jalalpur Pirwala dynamic survey desks and contact numbers.",
     focusKeyword: "bisp tehsil office multan list",
     lsiKeywords: [
       "bisp multan office address",
@@ -27517,8 +27504,8 @@ officialLinks: [
     title: "BISP Taleemi Wazaif 70% Attendance Rule & Verification Procedure",
     excerpt: "The Benazir Taleemi Wazaif 70% attendance rule requires registered students to maintain at least 70% classroom attendance per quarter to receive cash stipends. Learn how to verify and clear blocked wazaif at BISP Tehsil Offices.",
     showExcerpt: true,
-    metaTitle: "BISP Taleemi Wazaif 70 Attendance Rule Verification Guide (2026)",
-    metaDescription: "Facing stipend stoppage due to the BISP Taleemi Wazaif 70% attendance rule? Learn why wazaif get blocked and step-by-step verification slip resubmission.",
+    metaTitle: "BISP Taleemi Wazaif 70% Attendance Rule 2026: School Slip",
+    metaDescription: "Verify your child's 70% school attendance for BISP Taleemi Wazaif in 2026. Submit quarterly attendance slips at Tehsil desks to prevent payment suspension.",
     focusKeyword: "bisp taleemi wazaif 70 attendance rule verification",
     lsiKeywords: [
       "bisp wazaif band hone ki waja",
@@ -27654,8 +27641,8 @@ officialLinks: [
     title: "Benazir Mazdoor Card Registration Online 2026: Sindh SESSI Apply & Benefits",
     excerpt: "Complete guide to Benazir Mazdoor Card registration online 2026 in Sindh. Learn SESSI worker registration, free healthcare, education grants, and biometric verification.",
     showExcerpt: true,
-    metaTitle: "Benazir Mazdoor Card Registration Online 2026 (Sindh SESSI Guide)",
-    metaDescription: "Complete guide to Benazir Mazdoor Card registration online 2026 in Sindh. Learn SESSI worker registration, free healthcare, education grants, and biometric verification.",
+    metaTitle: "Benazir Mazdoor Card 2026: Online Apply & SESSI Benefits",
+    metaDescription: "Apply online for Benazir Mazdoor Card 2026 via Sindh SESSI portal. Check social security healthcare benefits, pension coverage, and worker registration.",
     focusKeyword: "benazir mazdoor card registration online 2026",
     lsiKeywords: [
       "sindh sessi mazdoor card online apply",
@@ -27773,8 +27760,8 @@ officialLinks: [
     title: "BISP Deceased Beneficiary Payment Transfer & NADRA Cancellation Guide",
     excerpt: "Step-by-step BISP deceased beneficiary payment transfer procedure. Learn how to register NADRA death certificate, transfer head of household, and visit Tehsil office.",
     showExcerpt: true,
-    metaTitle: "BISP Deceased Beneficiary Payment Transfer Procedure Guide (2026)",
-    metaDescription: "Step-by-step BISP deceased beneficiary payment transfer procedure. Learn how to register NADRA death certificate, transfer head of household, and visit Tehsil office.",
+    metaTitle: "BISP Deceased Beneficiary Transfer: Family Claim (2026)",
+    metaDescription: "Transfer BISP Kafaalat stipends after a beneficiary's death in 2026. Follow step-by-step NADRA death certificate submission and next-of-kin transfer rules.",
     focusKeyword: "bisp deceased beneficiary payment transfer procedure",
     lsiKeywords: [
       "bisp deceased beneficiary account transfer",
@@ -27900,8 +27887,8 @@ officialLinks: [
     slug: "bisp-taleemi-wazaif-stipend-rates-2026",
     title: "BISP Taleemi Wazaif Class-Wise Stipend Rates 2026",
     excerpt: "The Benazir Taleemi Wazaif program provides quarterly educational stipends to children of active BISP Kafaalat beneficiaries. Stipend rates range from Rs 1,500 to Rs 3,500 for boys and Rs 2,000 to Rs 4,000 for girls across primary, secondary, and higher secondary levels, alongside a Rs 3,000 primary graduation bonus for girls.",
-    metaTitle: "BISP Taleemi Wazaif 2026: Complete Class Rates",
-    metaDescription: "Get exact 2026 BISP Taleemi Wazaif stipend rates for primary, secondary, and college students (Rs 1,500 to Rs 4,000) plus the Rs 3,000 girls graduation bonus.",
+    metaTitle: "BISP Taleemi Wazaif Rates 2026: Primary to College Qist",
+    metaDescription: "Check official BISP Taleemi Wazaif quarterly stipend rates for boys and girls in 2026. View primary, secondary, and higher secondary installment amounts.",
     focusKeyword: "bisp taleemi wazaif stipend rates primary secondary college 2026",
     lsiKeywords: [
       "bisp wazaif kitne milte hain",
@@ -28037,8 +28024,8 @@ officialLinks: [
     slug: "ehsaas-kafalat-invalid-cnic-nser-update",
     title: "Ehsaas Kafalat Survey Status: Invalid CNIC & Marriage NSER Update Guide",
     excerpt: "To resolve Invalid CNIC or Record Not Found errors on the 8171 portal after marriage, beneficiaries must update their marital status and Family Registration Certificate at NADRA first. Next, visit the nearest BISP Tehsil Office to complete a Dynamic NSER survey update with your updated CNIC and children's B-Forms.",
-    metaTitle: "Fix BISP Invalid CNIC & NSER Marriage Status",
-    metaDescription: "Fix BISP 8171 Invalid CNIC and Record Not Found errors. Learn how to update your NSER survey record after marriage at NADRA and BISP Tehsil offices.",
+    metaTitle: "Fix BISP Invalid CNIC & NSER Marriage Record Error (2026)",
+    metaDescription: "Fix 8171 Invalid CNIC and Record Not Found errors after marriage in 2026. Update your marital status at NADRA and re-verify your survey record at BISP desks.",
     focusKeyword: "ehsaas kafalat survey status invalid cnic nser record update",
     lsiKeywords: [
       "bisp 8171 invalid cnic error solution",
@@ -28155,8 +28142,8 @@ officialLinks: [
     title: "PM Petrol Relief Scheme Updates 2026: Latest Subsidy Rules, 9771 Token Status & Quotas",
     excerpt: "The 2026 PM Petrol Relief Scheme updates confirm a 10-month continuation of the Rs. 100/litre petrol subsidy. Motorcycle owners get 20 litres/month (Rs. 2,000 savings) and 800cc cars qualify for 30 litres/month via 9771 SMS tokens.",
     showExcerpt: true,
-    metaTitle: "PM Petrol Relief Scheme Updates 2026: 9771 Quotas & Rules",
-    metaDescription: "Latest PM Petrol Relief Scheme updates for 2026. Check Rs 100/litre subsidy quotas (20L bike, 30L car), 9771 SMS token verification, 9772 helpline & rules.",
+    metaTitle: "PM Petrol Relief Scheme 2026: 9771 Token Status & Quotas",
+    metaDescription: "Check PM Petrol Relief updates for 2026. Send 9771 SMS to verify Rs 100/litre fuel discount codes, monthly quotas, vehicle eligibility, and stations here.",
     focusKeyword: "PM Petrol Relief Scheme Updates",
     lsiKeywords: [
       "pm petrol relief scheme updates 2026",
@@ -28375,8 +28362,8 @@ officialLinks: [
     title: "Federal Contributory Pension Scheme: FGDC Rules, Contributions & Benefits",
     excerpt: "Pakistan's Federal Contributory Pension Scheme (FGDC) covers federal employees hired after 1 July 2024. The employee contributes 10% and the government 12% (22% total) into an individually invested fund managed by licensed pension fund managers.",
     showExcerpt: true,
-    metaTitle: "Federal Contributory Pension Scheme: FGDC Rules & Contributions",
-    metaDescription: "How Pakistan's Federal Contributory Pension Scheme (FGDC) works for post-July 2024 federal employees. See the 10% + 12% contribution split, fund managers, and retirement rules.",
+    metaTitle: "Federal Contributory Pension Scheme: FGDC Rules (2026)",
+    metaDescription: "Explore Pakistan Federal Contributory Pension Scheme (FGDC) for 2026. Check monthly contribution rates, investment funds, retirement benefits, and civil rules.",
     focusKeyword: "federal contributory pension scheme",
     lsiKeywords: [
       "fgdc pension fund scheme rules 2024",
@@ -28679,8 +28666,8 @@ officialLinks: [
     title: "Quick Comparison of Transport & Fuel Relief Options in Pakistan (2026)",
     excerpt: "Compare every 2026 transport and fuel relief option side by side: the PM's Rs 100/litre petrol discount, Punjab, Sindh and KPK biker subsidies, free public transport and electric bike schemes — and see which one fits your vehicle and province.",
     showExcerpt: true,
-    metaTitle: "Transport & Fuel Relief Options Compared: PM Rs 100/L, Subsidies & E-Bikes (2026)",
-    metaDescription: "Compare Pakistan's 2026 transport and fuel relief: the PM's Rs 100/litre petrol discount, Punjab, Sindh and KPK biker subsidies, free public transport and electric bike schemes.",
+    metaTitle: "Transport & Fuel Relief Pakistan 2026: Subsidies & Bikes",
+    metaDescription: "Compare all 2026 transport and fuel relief schemes in Pakistan. Check the PM Rs 100/litre petrol subsidy, electric bike plans, student fares, and discounts.",
     focusKeyword: "transport and fuel relief options",
     lsiKeywords: [
       "transport fuel relief options pakistan",
@@ -28913,11 +28900,10 @@ officialLinks: [
   },
   {
   "slug": "electric-bike-transport-schemes-guide",
+    metaDescription: "Explore electric bike and transport schemes 2026. Check government EV subsidies, salary sacrifice savings, 0% financing, aur rules yahan dekhein.",
+    metaTitle: "Electric Bike Transport Schemes 2026: Subsidies Guide",
   "title": "Electric Bike & Transport Schemes: Complete Guide to Subsidies, Savings, and Eligibility (2026)",
-  "excerpt": "Discover how electric bike & transport schemes lower commuting costs. Explore government EV subsidies, salary sacrifice savings, 0% bank financing, and step-by-step application rules.",
-  "metaTitle": "Electric Bike Transport Schemes 2026: Subsidies & Savings Guide",
-  "metaDescription": "Discover how electric bike & transport schemes lower commuting costs. Explore government subsidies, salary sacrifice savings, 0% financing, and application rules.",
-  "focusKeyword": "Electric Bike & Transport Schemes",
+  "excerpt": "Discover how electric bike & transport schemes lower commuting costs. Explore government EV subsidies, salary sacrifice savings, 0% bank financing, and step-by-step application rules.",  "focusKeyword": "Electric Bike & Transport Schemes",
   "lsiKeywords": [
     "e-bike salary sacrifice cycle to work scheme",
     "government e-bike subsidy 0% financing",
@@ -29275,8 +29261,8 @@ officialLinks: [
     title: "Benazir Income Support Programme (BISP): Complete 8171 Payment, Eligibility, and Registration Guide",
     excerpt: "Complete 2026 guide to the Benazir Income Support Programme (BISP). Learn how to check 8171 payment status by CNIC online, eligibility PMT scores, and dynamic survey registration.",
     showExcerpt: true,
-    metaTitle: "Benazir Income Support Programme (BISP): 8171 Payment & Online Check Guide",
-    metaDescription: "Complete guide to the Benazir Income Support Programme (BISP). Learn how to check 8171 payment status by CNIC online, eligibility PMT scores, and dynamic survey registration.",
+    metaTitle: "Benazir Income Support (BISP) 2026: 8171 Payment Guide",
+    metaDescription: "Explore the complete 2026 Benazir Income Support Programme (BISP) guide. Check 8171 payment status, Kafaalat cash withdrawals, eligibility rules, and forms.",
     focusKeyword: "Benazir Income Support Programme (BISP)",
     lsiKeywords: [
       "bisp 8171 payment check online cnic",
@@ -29519,8 +29505,8 @@ officialLinks: [
     slug: "scotland-pakistan-scholarships-young-women-girls",
     title: "Scotland Pakistan Scholarships for Young Women and Girls: Complete Eligibility, Benefits, and Application Guide",
     excerpt: "The Scotland Pakistan Scholarships for Young Women and Girls is a fully funded financial aid program funded by the Scottish Government and administered by the British Council Pakistan. It covers university tuition, hostel accommodation, and travel for eligible female Pakistani students pursuing undergraduate or master's degrees at HEC-recognized universities inside Pakistan.",
-    metaTitle: "Scotland Pakistan Scholarships for Young Women & Girls (2026-27 Guide)",
-    metaDescription: "Complete guide to the Scotland Pakistan Scholarships for Young Women and Girls by British Council. Learn eligibility, covered fields, benefits, and how to apply.",
+    metaTitle: "Scotland Pakistan Scholarships 2026: Apply for Girls",
+    metaDescription: "Apply online for Scotland Pakistan Scholarships for Young Women & Girls 2026-27. Check full tuition fee coverage, university hostel funds, and British Council.",
     focusKeyword: "scotland pakistan scholarships for young women and girls",
     lsiKeywords: [
       "scotland pakistan scholarship eligibility criteria",
@@ -29742,6 +29728,8 @@ officialLinks: [
 export const informationPages: InformationPage[] = [
   {
     slug: "about-us",
+    metaDescription: "Discover PakBenefits, an independent public information desk providing verified guides, eligibility steps, and official links for Pakistani schemes.",
+    metaTitle: "About PakBenefits: Independent Civic Information Desk",
     title: "About Live Govt Schemes & Ehsaas Programs",
     eyebrow: "Our Mission, Team & Standards",
     date: "September 22, 2026",
@@ -29823,6 +29811,8 @@ export const informationPages: InformationPage[] = [
   },
   {
     slug: "contact-us",
+    metaDescription: "Contact the PakBenefits editorial desk for public scheme guidance, corrections, or inquiries. Find our direct email and editorial offices in Lahore.",
+    metaTitle: "Contact PakBenefits Editorial Desk & Assistance Team",
     title: "Contact the Editorial Desk",
     eyebrow: "Direct Support & Inquiries",
     date: "September 22, 2026",
@@ -29893,6 +29883,8 @@ export const informationPages: InformationPage[] = [
   },
   {
     slug: "privacy-policy",
+    metaDescription: "Read the PakBenefits privacy policy. Learn our strict zero data collection rules, Google AdSense compliance, cookie policies, and visitor protections.",
+    metaTitle: "PakBenefits Privacy Policy: Data Protection & AdSense",
     title: "Privacy Policy",
     eyebrow: "Data Protection & AdSense Compliance",
     date: "September 22, 2026",
@@ -30013,6 +30005,8 @@ export const informationPages: InformationPage[] = [
   },
   {
     slug: "terms-and-conditions",
+    metaDescription: "Review the terms and conditions for using PakBenefits. Understand our independent educational scope, intellectual property rules, and user guidelines.",
+    metaTitle: "Terms and Conditions of Service | PakBenefits Guides",
     title: "Terms and Conditions of Service",
     eyebrow: "Legal Framework & Terms of Use",
     date: "September 22, 2026",
@@ -30110,6 +30104,8 @@ export const informationPages: InformationPage[] = [
   },
   {
     slug: "disclaimer",
+    metaDescription: "Read the PakBenefits independent disclaimer. We are not affiliated with BISP, NADRA, or government agencies. All welfare programs are 100% free.",
+    metaTitle: "Independent Website Disclaimer | PakBenefits Guides",
     title: "Independent Website Disclaimer",
     eyebrow: "Public Safety & Non-Affiliation Notice",
     date: "September 22, 2026",
@@ -30185,6 +30181,8 @@ export const informationPages: InformationPage[] = [
   },
   {
     slug: "cookie-policy",
+    metaDescription: "Review the cookie policy for PakBenefits. Learn how cookies and Google AdSense technologies are used to support independent public scheme guides safely.",
+    metaTitle: "PakBenefits Cookie Policy: Tracking & Privacy Notice",
     title: "Cookie Policy",
     eyebrow: "How We Use Cookies & Tracking",
     date: "September 22, 2026",
@@ -30253,6 +30251,8 @@ export const informationPages: InformationPage[] = [
   },
   {
     slug: "editorial-policy",
+    metaDescription: "Learn about the editorial policy, multi-tier fact-checking process, and primary source standards used by PakBenefits to verify public welfare guides.",
+    metaTitle: "PakBenefits Editorial Policy & Fact-Checking Standard",
     title: "Editorial Policy & Fact-Checking Standards",
     eyebrow: "E-E-A-T & Journalistic Integrity",
     date: "September 22, 2026",

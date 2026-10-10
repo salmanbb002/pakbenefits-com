@@ -5,7 +5,7 @@ import "./globals.css";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://pakbenefits.com";
 const ADSENSE_CLIENT = "ca-pub-8745257816592066";
-const siteName = "Live Govt Schemes & Ehsaas Programs";
+const siteName = "PakBenefits";
 const defaultTitle = "Pakistan Government Schemes, BISP 8171 & Ehsaas Guides";
 const defaultDescription =
   "Independent guides to Pakistan government schemes, BISP 8171 eligibility and payments, Ehsaas programmes, Taleemi Wazaif, youth loans, and official links.";
@@ -13,7 +13,7 @@ const defaultDescription =
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   applicationName: siteName,
-  title: { default: defaultTitle, template: `%s | ${siteName}` },
+  title: { default: defaultTitle, template: "%s" },
   description: defaultDescription,
   authors: [{ name: "Live Govt Schemes Editorial Team", url: "/about-us/" }],
   creator: siteName,

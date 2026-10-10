@@ -25,6 +25,7 @@ const retiredRedirects = [
   { source: '/cm-and-pm-electric-bike-schemes/', destination: '/cm-punjab-electric-bike-scheme/' },
   { source: '/provincial-bike-transport-schemes/', destination: '/cm-punjab-electric-bike-scheme/' }
 ];
+const retired = retiredRedirects.map(r => r.source);
 const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.svg': 'image/svg+xml', '.xml': 'application/xml', '.jpg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.woff2': 'font/woff2' };
 const server = createServer(async (req, res) => {
   try {

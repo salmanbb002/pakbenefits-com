@@ -6,7 +6,7 @@ import { allInternalSlugs, articles, categories, getArticlesForCategory, informa
 
 type PageProps = { params: Promise<{ slug: string }> };
 
-const siteName = "Live Govt Schemes & Ehsaas Programs";
+const siteName = "PakBenefits";
 
 export function generateStaticParams() {
   return allInternalSlugs.map((slug) => ({ slug }));
@@ -17,14 +17,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const category = categories.find((item) => item.slug === slug);
   const article = articles.find((item) => item.slug === slug);
   const infoPage = informationPages.find((item) => item.slug === slug);
-  const title = article?.metaTitle || article?.title || category?.metaTitle || category?.name || infoPage?.title;
-  const description = article?.metaDescription || article?.excerpt || category?.metaDescription || category?.intro || infoPage?.intro;
+  const title = article?.metaTitle || article?.title || category?.metaTitle || category?.name || infoPage?.metaTitle || infoPage?.title;
+  const description = article?.metaDescription || article?.excerpt || category?.metaDescription || category?.intro || infoPage?.metaDescription || infoPage?.intro;
   if (!title || !description) return {};
   const canonical = `/${slug}/`;
   const image = article?.image || "/images/hero-support.webp";
   const keywords = article ? [article.focusKeyword, ...article.lsiKeywords, ...article.entities] : undefined;
   return {
-    title,
+    title: { absolute: title },
     description,
     keywords,
     authors: article ? [{ name: article.author.name }] : undefined,
