@@ -6535,7 +6535,7 @@ export const articles: Article[] = [
     ],
     relatedSlugs: [
     "bisp-pser-updates",
-      "bisp-biometric-verification-failed-fingerprint-solution",
+      "bisp-biometric-verification-failed",
       "bisp-tehsil-office-peshawar-kpk-districts-list-addresses",
       "fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert",
       "pmt-score-above-32-bisp-re-survey-guide",
@@ -9557,173 +9557,6 @@ officialLinks: [
     ]
   },
 
-  {
-    slug: "bisp-biometric-verification-failed-fingerprint-solution",
-    title: "BISP Biometric Failed? Guaranteed Rs 13,500 Fix",
-    excerpt: "POS machine ya ATM par fingerprints match na hone ki surat mein 13,500 Rs ki payment Form B aur NADRA verification ke zariye hasil karne ka mukammal tariqa.",
-    showExcerpt: true,
-    metaTitle: "BISP Biometric Verification Failed Fingerprint Solution & Form B Guide",
-    metaDescription: "POS machine ya ATM par fingerprints match na hone ki surat mein Form B fill karke 13,500 Rs ki BISP payment hasil karne ka tariqa. Complete NADRA & BISP office guide.",
-    focusKeyword: "bisp biometric verification failed fingerprint solution",
-    lsiKeywords: [
-      "bisp fingerprint matching problem",
-      "bisp biometrics fail hone par kya karein",
-      "bisp manual payment form b",
-      "bisp 13500 finger error code 102",
-      "nadra biometric re-verification bisp"
-    ],
-    entities: [
-      "Benazir Income Support Programme",
-      "National Database and Registration Authority",
-      "Form B Manual Payment Application",
-      "POS Machine Scanner",
-      "HBL Connect",
-      "Bank Alfalah ATM"
-    ],
-    primaryCategory: "Benazir Kafaalat",
-    categorySlugs: [
-      "benazir-kafaalat",
-      "8171"
-    ],
-    date: "September 26, 2026",
-    publishedDate: "September 26, 2026",
-    lastChecked: "September 26, 2026",
-    readTime: "7 min read",
-    image: "/images/bisp-biometric-verification-failed.jpg",
-    imageAlt: "Biometric thumbprint verification device used for resolving BISP fingerprint matching failures",
-    author: contributors.muhammadSalman,
-    reviewer: contributors.saadHassan,
-    sections: [
-      {
-        title: "BISP Biometric Verification Failed Fingerprint Solution Overview",
-        paragraphs: [
-          "Benazir Income Support Programme (BISP) ki Rs 13,500 ki kafaalat qist hasil karte waqt sab se bari rukaawat POS machine ya bank ATM par biometrics fail hona hai. Ye masla aksar mazoori, bari umar ke zaiyf afraad, ya mehnaykash khawateen/hazraat ke fingerprints ghis jane ki wajah se pesh aata hai.",
-          "Biometric verification failure ka matlab ye hargiz nahi ke aap ki payment cancel ho gayi hai. BISP aur NADRA ne aisi tamam khawateen ke liye ek Ba-Zabta (official) manual payment procedure aur Form B complaint mechanism wazeh kiya hai. Is tariqe se aap apni biometric nishan-dahi ke baghair bhi apni raqam received kar sakte hain."
-        ]
-      },
-      {
-        title: "BISP Fingerprint Matching Problem Key Causes",
-        paragraphs: [
-          "POS agents aur HBL Connect ya Bank Alfalah ke ATMs par fingerprint match na hone ki mandarija zail wujoohati hain:"
-        ],
-        bullets: [
-          "Elderly & Worn Fingerprints: Umar raseeda afraad aur hard manual labor karne wale afraad ke fingerprint lines ghis jati hain.",
-          "Dry or Dirty Skin: Biometric scanner par khushki ya dhool ki wajah se sensor lines read nahi kar pata.",
-          "Outdated NADRA Data: NADRA record mein majood fingerprints buhat purane hote hain jo maujuda fingerprints se match nahi karte.",
-          "POS Machine / Scanner Defect: Agent ki machine ka fingerprint sensor kharab ya ganda hona."
-        ]
-      },
-      {
-        title: "BISP Biometrics Fail Hone Par Kya Karein: Step-by-Step Guide",
-        paragraphs: [
-          "Agar aap ki biometric verification baar baar fail ho rahi hai to mandarija zail mu'tamad (proven) tariqa-e-kar par amal karein:"
-        ],
-        subsections: [
-          {
-            title: "Step 1: Preliminary Remedies at POS Agent",
-            paragraphs: [
-              "Apne hathon ko achi tarah sabun se dho kar saaf karein aur halka sa moisturizer, glycerine, ya pashm oil lagayein taake skin lines wazeh ho sakein.",
-              "POS scanner par sirf angutha (thumb) lagane ke bajaye baqi tamami ungliyan (index, middle, ring finger) bari bari try karein.",
-              "Agar ek retailer ki machine issue kar rahi ho, to qareebi dusre BISP agent ya bank branch (HBL Connect / Bank Alfalah) par try karein."
-            ]
-          },
-          {
-            title: "Step 2: NADRA Biometric Re-Verification & Update",
-            paragraphs: [
-              "Apne original CNIC ke sath qareeb-tareen NADRA Tehsil Center / E-Sahulat center tashreef le jayen.",
-              "Biometric Verification Update counter par request karein aur apne tamami fingerprints ko biometric system mein dobara update karwayen.",
-              "Update ke 24 se 48 ghante baad BISP payment point par ja kar dobara biometric try karein."
-            ]
-          }
-        ]
-      },
-      {
-        title: "BISP Manual Payment Form B Process & Requirements",
-        paragraphs: [
-          "Agar NADRA update ke bawajood fingerprints Verification fail hoti rahe, to BISP ka official Form B (Manual Payment Application) fill karna hoga."
-        ],
-        table: {
-          caption: "Form B Submission & Manual Disbursement Workflow",
-          headers: ["Step", "Action Required", "Responsible Office", "Document Needed"],
-          rows: [
-            ["1", "BISP Tehsil Office Visit", "Local BISP Center", "Original CNIC + Mobile No"],
-            ["2", "Form B Collection & Verification", "BISP Registration Desk", "Token & Verification"],
-            ["3", "NADRA Non-Matching Certificate", "NADRA Tehsil Office", "NADRA Verification Slip"],
-            ["4", "Assistant Director Approval", "BISP AD Office", "Approved Form B"],
-            ["5", "Manual Cash Disbursement", "Designated Bank Branch / Tehsil Office", "Verification Slip + CNIC"]
-          ]
-        },
-        bullets: [
-          "Original CNIC (National Identity Card) ki 2 copy-an.",
-          "NADRA ki taraf se issued Biometric Failure Certificate / Slip.",
-          "Registered Mobile SIM Number jo beneficiary ke apne CNIC par ho.",
-          "BISP Registration Token / Household survey slip."
-        ]
-      },
-      {
-        title: "BISP Biometric Failure Troubleshooting & Exemption Matrix",
-        paragraphs: [
-          "Mandarija zail matrix se aap jaan sakte hain ke different situations mein aap ko konsa step lena chahiye:"
-        ],
-        table: {
-          caption: "BISP Biometric Verification Exemption Matrix",
-          headers: ["User Category", "Issue Description", "Recommended Fix / Solution", "Expected Resolution Time"],
-          rows: [
-            ["Senior Citizens (60+ Years)", "Worn-out Fingerprints", "BISP Special Exemption & Form B Approval", "3 to 7 Working Days"],
-            ["Special Persons / Disabled", "Physical Hand Impairment", "Medical Certificate + BISP Manual Exemption", "2 to 5 Working Days"],
-            ["Working Women / Laborers", "Dry / Faded Skin Lines", "Glycerine Apply + NADRA Finger Re-scan", "24 to 48 Hours"],
-            ["System Error (POS)", "Code 102 / Sensor Error", "Change Retailer / Visit Bank Branch ATM", "Immediate"]
-          ]
-        }
-      }
-    ],
-    faqs: [
-      {
-        question: "What should I do if BISP biometric verification fails at POS machine?",
-        answer: "Sab se pehle hathon ko saaf aur moisturize karke baqi ungliyan try karein. Agar phir bhi verification na ho to NADRA center se biometrics update karwayen ya BISP Tehsil Office se Form B fill karein."
-      },
-      {
-        question: "What is BISP Manual Payment Form B?",
-        answer: "Form B ek zaroori Sarkari Application Form hai jo un BISP beneficiaries ke liye hota hai jinke fingerprints biometric machines par match nahi hote. Is form ke zariye manual payment ki manzoori milti hai."
-      },
-      {
-        question: "How much payment is disbursed in the BISP Kafaalat scheme?",
-        answer: "BISP Kafaalat program ke teht 2026 mein har eligible khatoon ko Rs 13,500 ki quarterly installment ada ki ja rahi hai."
-      },
-      {
-        question: "Can elderly citizens get BISP payment without fingerprint matching?",
-        answer: "Haan, 60 saal se zaid umar ke zaiyf beneficiaries ke liye BISP Tehsil Office se Special Manual Payment Exemption Form B ke zariye 13,500 Rs hasil karne ka aasan tariqa mojud hai."
-      },
-      {
-        question: "How long does it take for Form B approval?",
-        answer: "Form B submit hone aur BISP Assistant Director ki manzoori ke baad 3 se 7 Working Days mein manual payment issue kar di jati hai."
-      },
-      {
-        question: "Does NADRA charge a fee for biometric update?",
-        answer: "Normal BISP biometric re-verification aur updating ke liye NADRA standard processing fee chara sakti hai. Hamesha official NADRA counter par hi slip hasil karein."
-      },
-      {
-        question: "Where can I lodge a complaint against POS agents asking for fee?",
-        answer: "Aap BISP helpline 0800-26471 par call karke ya apne zila ke BISP Regional Office mein Agent ki shakayat darj karwa sakte hain."
-      },
-      {
-        question: "Can I get BISP payment from Bank ATM if POS fingerprint fails?",
-        answer: "Agar aap ka bank account HBL ya Bank Alfalah biometric system se linked hai, to aap ATM machine par touch screen aur biometric scanner par try kar sakte hain. Agar wahan bhi fail ho to Form B hi wahid hal hai."
-      },
-      {
-        question: "What documents are required for BISP Form B?",
-        answer: "Original CNIC, CNIC copies, NADRA non-matching biometric slip, registered SIM number, aur household survey token required hote hain."
-      },
-      {
-        question: "Is BISP 8171 biometric verification available on weekends?",
-        answer: "BISP Tehsil Offices aur NADRA Tehsil Centers Monday se Friday subah 8:00 AM se 4:00 PM tak khule hote hain. Certain designated centers Saturday ko bhi open rehte hain."
-      }
-    ],
-    officialLinks: [
-      { label: "BISP Official Website", href: "https://bisp.gov.pk/" },
-      { label: "NADRA Official Portal", href: "https://www.nadra.gov.pk/" }
-    ]
-  },
   {
     slug: "bisp-tehsil-office-peshawar-kpk-districts-list-addresses",
     title: "Verified BISP Tehsil Offices KPK & Peshawar List",
@@ -20004,6 +19837,9 @@ officialLinks: [
   "metaDescription": "Facing BISP biometric verification failed error? Learn why thumbprints fail, how to use NADRA facial recognition, obtain a Non-BVS form, and claim your payment.",
   "focusKeyword": "bisp biometric verification failed",
   "lsiKeywords": [
+    "bisp fingerprint matching problem",
+    "bisp biometrics fail hone par kya karein",
+    "bisp biometric fingerprint solution",
     "bisp fingerprint problem solution",
     "bisp error 93 error 99",
     "bisp facial recognition verification nadra",
@@ -20167,6 +20003,16 @@ officialLinks: [
         "When both fingerprint scanning and facial recognition systems fail due to severe physical deformities, chronic eye or facial trauma, or hardware limitations in remote rural areas, BISP provides a manual disbursement safeguard known as the Non-BVS Failure Form (traditionally designated as Form 1). This administrative protocol bypasses electronic biometric terminals entirely, authorizing cash disbursement through physical bank branch counters following human identity verification.",
         "The BISP Tehsil Assistant Director reviews the physical file, confirms the beneficiary's poverty scorecard status in the dynamic NSER database, and issues a Non-BVS approval memo. The beneficiary then visits the nominated commercial bank branch (such as designated branches of Habib Bank Limited or Bank Alfalah), signs the manual payment register, and collects their cash installment in full."
       ],
+      "table": {
+        "caption": "BISP Biometric Verification Exemption & Troubleshooting Matrix",
+        "headers": ["Beneficiary Category", "Fingerprint Issue Description", "Official Solution / Protocol", "Expected Processing Time"],
+        "rows": [
+          ["Senior Citizens (60+ Years)", "Worn friction ridges or dry epidermal skin", "NADRA non-match verification slip + BISP Assistant Director Non-BVS approval", "3 to 7 working days"],
+          ["Special Persons / Disabled", "Physical hand impairment or missing fingers", "District medical disability certificate + Non-BVS manual bank voucher", "2 to 5 working days"],
+          ["Laborers & Domestic Workers", "Faded ridges from manual friction or harsh detergents", "Hydration conditioning + NADRA biometric re-enrollment at NRC counter", "24 to 48 hours"],
+          ["POS Terminal System Error", "Error 93 / 938 network transmission timeout", "Switch to alternate retailer or partner bank biometric ATM (HBL / Alfalah)", "Immediate"]
+        ]
+      },
       "bullets": [
         "Original Computerized National Identity Card (must be unexpired).",
         "Two clear photocopies of the beneficiary's CNIC.",
@@ -30886,7 +30732,7 @@ officialLinks: [
     slug: "benazir-income-support-programme-bisp-8171-guide",
     relatedSlugs: [
       "bisp-benazir-kafaalat-8171-check",
-      "bisp-biometric-verification-failed-fingerprint-solution",
+      "bisp-biometric-verification-failed",
       "fake-8171-sms-check-complaint-pta-bisp-lottery-fraud-alert",
       "bisp-tehsil-office-peshawar-kpk-districts-list-addresses"
     ],
@@ -31069,7 +30915,7 @@ officialLinks: [
               "4. Submit BISP Manual Verification Form: Visit your local BISP Tehsil Office and request the BISP Biometric Exemption Form for manual CNIC payment approval."
             ],
             links: [
-              { label: "BISP Biometric Verification Failed: Complete Fingerprint Solution Guide", href: "/bisp-biometric-verification-failed-fingerprint-solution/" }
+              { label: "BISP Biometric Verification Failed: Complete Step-by-Step Fix", href: "/bisp-biometric-verification-failed/" }
             ]
           }
         ]

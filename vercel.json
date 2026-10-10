@@ -5,6 +5,16 @@
   "outputDirectory": "out",
   "redirects": [
     {
+      "source": "/bisp-biometric-verification-failed-fingerprint-solution",
+      "destination": "/bisp-biometric-verification-failed/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bisp-biometric-verification-failed-fingerprint-solution/",
+      "destination": "/bisp-biometric-verification-failed/",
+      "statusCode": 301
+    },
+    {
       "source": "/bisp-payment-check-guide",
       "destination": "/bisp-balance-check-by-cnic-2026/",
       "statusCode": 301
