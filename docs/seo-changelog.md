@@ -20,15 +20,15 @@ All structural changes, consolidations, 301 redirects, snippet overhauls, and co
 - **Master URL:** `/bisp-biometric-verification-failed/` (Position 5.5, 173 impressions)
 - **Consolidated / Retired URL:** `/bisp-biometric-verification-failed-fingerprint-solution/` (Position 5.7, 71 impressions)
 - **Changes Executed:**
-  1. **Content Merge & Fact Verification:**
-     - Merged BISP Biometric Verification Exemption & Troubleshooting Matrix table into Section 6 of the Master.
-     - Merged full **5-Step NADRA Non-Match Certificate & Tehsil Office Workflow** (from clone) into Master.
-     - Merged full **Official Complaint Procedure for Retailer Misconduct & Illegal Deductions** (toll-free helpline 0800-26477) into Master.
+  1. **Content Merge & Strict Fact Verification:**
+     - Merged verified **BISP Biometric Verification Exemption & Troubleshooting Matrix** table into Section 6 of the Master.
+     - Merged verified **5-Step NADRA Non-Match Certificate & Tehsil Office Workflow** into Master.
+     - Merged **Official Complaint Procedure for Retailer Misconduct & Illegal Deductions** (toll-free helpline 0800-26477) into Master.
      - Added LSI search query variants: `"bisp fingerprint matching problem"`, `"bisp biometrics fail hone par kya karein"`, `"bisp biometric fingerprint solution"`.
   2. **Verified Official Government Data Standards Applied:**
-     - **Current Quarterly Kafaalat Stipend:** Enhanced to **Rs. 14,500** across the Master and throughout relevant site articles (per BISP official announcement).
+     - **Current Quarterly Kafaalat Stipend:** Enhanced to **Rs. 14,500** across the Master and throughout relevant site articles (Source: BISP Official Notification `https://www.bisp.gov.pk/SiteImage/Misc/files/20%281%29.pdf`).
      - **Banking Infrastructure:** Replaced regional bank monopoly claims with verified official terminology: *"BISP authorized partner banks and designated disbursement touchpoints (biometric ATMs, campsite counters, and digital wallet accounts)"*.
-     - **Processing Times & Jargon:** Purged unverified timelines ("3-7 days", "2-5 days") and informal jargon ("hydration conditioning"); aligned strictly with official BISP SOPs.
+     - **Sanitized Unverified Details:** Purged unverified timelines ("3-7 days", "2-5 days"), informal soap/water jargon ("hydration conditioning"), arbitrary deduction numbers ("Rs 500 to Rs 1,000"), committee names, and helpline operating hours.
      - **Official Helpline:** Standardized strictly to official toll-free `0800-26477`.
   3. **Removed Duplicate Route:**
      - Removed clone article object from `src/data/content.ts` (167 lines removed). Excluded from `/sitemap.xml` and Next.js static export.

@@ -20009,7 +20009,6 @@ officialLinks: [
         "rows": [
           ["Senior Citizens (60+ Years)", "Permanent friction ridge erosion from aging", "NADRA Biometric Non-Matching Certificate + BISP Tehsil Office Live Facial Recognition or Non-BVS approval", "Facial authentication or manual bank voucher"],
           ["Special Persons / PWDs", "Physical hand impairment or missing digits", "Certified medical disability assessment + Assistant Director Non-BVS manual authorization", "Designated partner bank branch counter"],
-          ["Manual Laborers & Field Workers", "Faded ridges from manual friction or dry skin", "Wash and dry hands with soap and water; update 10-finger templates at NADRA NRC counter", "Standard Biometric BVS POS / ATM"],
           ["POS Terminal Hardware Error", "Network latency or scanner hardware timeout", "Request agent to test alternate fingers; switch to alternate campsite terminal or biometric ATM", "Biometric ATM / Alternate POS Device"]
         ]
       },
@@ -20028,8 +20027,8 @@ officialLinks: [
         {
           "title": "How to File a Complaint Against Retailer Misconduct & Illegal Deductions",
           "paragraphs": [
-            "BISP maintains an uncompromising zero-tolerance policy against agents who demand unauthorized processing fees (often Rs. 500 to Rs. 1,000) or refuse to disburse cash to beneficiaries facing biometric issues.",
-            "To report illegal retailer deductions or device extortion: call the official BISP headquarters toll-free helpline at 0800-26477 (Monday to Friday, 8:00 AM to 4:00 PM). Provide the retailer's POS Machine ID, the camp location, your CNIC, and transaction timestamp. The complaint is routed immediately to the District Complaint Redressal Committee for swift disciplinary action."
+            "BISP maintains an uncompromising zero-tolerance policy against agents who demand unauthorized processing fees or refuse to disburse cash to beneficiaries facing biometric issues.",
+            "To report illegal retailer deductions or device extortion: call the official BISP headquarters toll-free helpline at 0800-26477. Provide the retailer's POS Machine ID, camp location, beneficiary CNIC, and transaction timestamp. The complaint is officially registered for inquiry and disciplinary action."
           ]
         }
       ],
